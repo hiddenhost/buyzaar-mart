@@ -309,7 +309,7 @@ const states = [
           <div className="text-center">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 drop-shadow-lg">
               Contact{" "}
-              <span className="text-transparent bg-clip-text" style={{background: 'linear-linear(to right, #ffffff, #ffffffcc)', WebkitBackgroundClip: 'text'}}>
+              <span className="text-white bg-clip-text" style={{background: 'linear-linear(to right, #ffffff, #ffffffcc)', WebkitBackgroundClip: 'text'}}>
              Buyzaar 
               </span>
             </h1>

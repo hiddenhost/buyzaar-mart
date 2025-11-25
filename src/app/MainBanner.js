@@ -24,7 +24,7 @@ const MainBanner = () => {
     },
     {
       id: 4,
-      image: "/images/comic 2.png",
+      image: "/images/Comic-2.png",
       alt: "Slide 4",
     },
   ];

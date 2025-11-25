@@ -39,7 +39,7 @@ export default function OurStore() {
     // },
     // {
     //   id: 6,
-    //   src: "/images/Comic 2.png",
+    //   src: "/images/Comic-2.png",
     //   alt: "Store Entrance",
     //   title: "Entrance Design"
     // }

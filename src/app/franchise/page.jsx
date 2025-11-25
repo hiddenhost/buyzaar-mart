@@ -14,58 +14,56 @@ import {
   FaUserTie,
   FaBullhorn,
   FaBoxes,
-  FaStore
+  FaStore,
+  FaLink,
 } from "react-icons/fa";
 
-
 export default function FranchisePage() {
-
-  
   const storeFormats = [
     {
-      name: 'MINI MART',
-      size: '600-1000 SQFT',
+      name: "MINI MART",
+      size: "600-1000 SQFT",
       products: [
-        'Personal Care',
-        'Beverages',
-        'Grocery & Staples',
-        'Homecare and Hygiene',
-        'Stationery',
-        'Snacks and Biscuits',
+        "Personal Care",
+        "Beverages",
+        "Grocery & Staples",
+        "Homecare and Hygiene",
+        "Stationery",
+        "Snacks and Biscuits",
       ],
     },
     {
-      name: 'SUPER MART',
-      size: '1000-3000 SQFT',
+      name: "SUPER MART",
+      size: "1000-3000 SQFT",
       products: [
-        'Personal Care',
-        'Beverages',
-        'Grocery & Staples',
-        'Homecare and Hygiene',
-        'Stationery',
-        'Snacks and Biscuits',
-        'Dairy Items',
-        'F & V',
+        "Personal Care",
+        "Beverages",
+        "Grocery & Staples",
+        "Homecare and Hygiene",
+        "Stationery",
+        "Snacks and Biscuits",
+        "Dairy Items",
+        "F & V",
       ],
     },
     {
-      name: 'HYPER MART',
-      size: '3000-8000 SQFT',
+      name: "HYPER MART",
+      size: "3000-8000 SQFT",
       products: [
-        'Personal Care',
-        'Beverages',
-        'Grocery & Staples',
-        'Homecare and Hygiene',
-        'Stationery',
-        'Snacks and Biscuits',
-        'Dairy Items',
-        'F & V',
-        'Gifts & Toys',
-        'Frozen Ready to Eat',
+        "Personal Care",
+        "Beverages",
+        "Grocery & Staples",
+        "Homecare and Hygiene",
+        "Stationery",
+        "Snacks and Biscuits",
+        "Dairy Items",
+        "F & V",
+        "Gifts & Toys",
+        "Frozen Ready to Eat",
       ],
     },
   ];
-   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const openModal = () => setIsModalOpen(true);
   const closeModal = () => setIsModalOpen(false);
@@ -148,43 +146,40 @@ export default function FranchisePage() {
         </div>
       </section>
       <section className="w-full flex flex-col items-center mb-8">
-  <img
-    src="/images/BUYZAAR BRAND 1.png"
-    alt="Buyzaar Mart Banner"
-    className="w-full max-w-6xl border-4 border-red-800 rounded-lg shadow-lg"
-  />
-</section>
+        <img
+          src="/images/BUYZAAR BRAND 1.png"
+          alt="Buyzaar Mart Banner"
+          className="w-full max-w-6xl border-4 border-red-800 rounded-lg shadow-lg"
+        />
+      </section>
 
-  {/* Expired/Damaged Goods Comic Section - Insert after FICO Premium */}
-<div className="bg-white rounded-2xl p-8 shadow-xl border-2 border-gray-200 mb-16 flex flex-col items-center">
-  <h2 className="text-3xl font-bold text-center mb-6 text-red-800">
-    Hassle-Free Inventory Assurance
-  </h2>
-  <p className="text-xl text-gray-700 mb-8 text-center max-w-2xl">
-    Worry less about unsold, expired or damaged stock. With Buyzaar&apos;s guarantee, we take back expired and damaged goods so you can focus on stocking and selling what matters.
-  </p>
-  <div className="grid md:grid-cols-2 gap-8 items-center">
-    <div className="flex justify-center">
-      <img src="/images/Comic 1 Panel 1.png" alt="Expired and damaged products concern" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
-    </div>
-    <div className="flex justify-center">
-      <img src="/images/Comic 1 Panel 2.png" alt="Buyzaar Mart takes back expired/damaged goods" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
-    </div>
-  </div>
-</div>
-
-      {/* <section
-        id="features"
-        className="w-[75%] mx-auto my-12 p-15 bg-gray-50 rounded-xl shadow-md"
-      >
-        <h2 className="text-2xl font-bold text-black mb-6">Features</h2>
-        <ul className="list-disc ml-6 text-lg text-gray-800 space-y-2">
-          <li>Comprehensive brand training and onboarding kits</li>
-          <li>Access to supply chain and inventory management</li>
-          <li>Marketing collateral and launch event guidance</li>
-          <li>Technical support and business analytics dashboard</li>
-        </ul>
-      </section> */}
+      {/* Expired/Damaged Goods Comic Section - Insert after FICO Premium */}
+      <div className="bg-white rounded-2xl p-8 shadow-xl border-2 border-gray-200 mb-16 flex flex-col items-center">
+        <h2 className="text-3xl font-bold text-center mb-6 text-red-800">
+          Hassle-Free Inventory Assurance
+        </h2>
+        <p className="text-xl text-gray-700 mb-8 text-center max-w-2xl">
+          Worry less about unsold, expired or damaged stock. With Buyzaar&apos;s
+          guarantee, we take back expired and damaged goods so you can focus on
+          stocking and selling what matters.
+        </p>
+        <div className="grid md:grid-cols-2 gap-8 items-center">
+          <div className="flex justify-center">
+            <img
+              src="/images/Comic 1 Panel 1.png"
+              alt="Expired and damaged products concern"
+              className="max-h-96 rounded-lg shadow-md border border-gray-300"
+            />
+          </div>
+          <div className="flex justify-center">
+            <img
+              src="/images/Comic 1 Panel 2.png"
+              alt="Buyzaar Mart takes back expired/damaged goods"
+              className="max-h-96 rounded-lg shadow-md border border-gray-300"
+            />
+          </div>
+        </div>
+      </div>
 
       {/* SERVICES SECTION */}
       <Services />
@@ -273,56 +268,59 @@ export default function FranchisePage() {
         </div>
       </section>
 
-
       {/* BEAUTIFUL TWO-IMAGE HORIZONTAL GALLERY SECTION */}
-<section className="max-w-5xl mx-auto my-16 px-6">
-  <h2 className="text-3xl font-bold text-center mb-7 text-red-800">
-Discover Your Franchise Style!
-  </h2>
-  <div className="flex flex-col md:flex-row gap-8 items-center justify-center">
-    <div className="w-full md:w-1/2 flex justify-center">
-      <img
-        src="/images/Comic 2.png"
-        alt="Franchise Store Interior"
-        className="rounded-2xl shadow-xl border-2 border-red-800 w-full object-cover max-h-100 transition duration-300 hover:scale-105"
-      />
-    </div>
-    <div className="w-full md:w-1/2 flex justify-center">
-      <img
-        src="/images/Comic 4.png"
-        alt="Team Working at Franchise"
-        className="rounded-2xl shadow-xl border-2 border-red-800 w-full object-cover max-h-100 transition duration-300 hover:scale-105"
-      />
-    </div>
-  </div>
-</section>
-
-
-       {/* Store Format Options */}
-        <div className="max-w-full rounded-2xl mx-auto p-10 px-4 shadow-xl border-2 border-red-800 bg-gradient-to-br from-gray-50 to-gray-100">
-          <h2 className="text-3xl font-bold text-center text-black mb-10">
-            Store Formats & Product Categories
-          </h2>
-          <div className="grid md:grid-cols-3 gap-8">
-            {storeFormats.map((format, index) => (
-              <div key={index} className="bg-red-800 rounded-xl p-6 shadow-lg border-2 border-gray-200 hover:shadow-xl transition-shadow">
-                <div className="flex items-center space-x-3 mb-4">
-                  <FaStore className="text-white" size={28} />
-                  <h3 className="text-2xl font-bold text-black">{format.name}</h3>
-                </div>
-                <p className="text-sm font-semibold text-gray-800 mb-4 bg-gray-100 inline-block px-3 py-1 rounded">{format.size}</p>
-                <ul className="space-y-2 text-gray-200">
-                  {format.products.map((product, i) => (
-                    <li key={i} className="flex items-start">
-                      <span className="text-black mr-2">•</span>
-                      <span>{product}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ))}
+      <section className="max-w-5xl mx-auto my-16 px-6">
+        <h2 className="text-3xl font-bold text-center mb-7 text-red-800">
+          Discover Your Franchise Style!
+        </h2>
+        <div className="flex flex-col md:flex-row gap-8 items-center justify-center">
+          <div className="w-full md:w-1/2 flex justify-center">
+            <img
+              src="/images/Comic-2.png"
+              alt="Franchise Store Interior"
+              className="rounded-2xl shadow-xl border-2 border-red-800 w-full object-cover max-h-100 transition duration-300 hover:scale-105"
+            />
+          </div>
+          <div className="w-full md:w-1/2 flex justify-center">
+            <img
+              src="/images/Comic 4.png"
+              alt="Team Working at Franchise"
+              className="rounded-2xl shadow-xl border-2 border-red-800 w-full object-cover max-h-100 transition duration-300 hover:scale-105"
+            />
           </div>
         </div>
+      </section>
+
+      {/* Store Format Options */}
+      <div className="max-w-full rounded-2xl mx-auto p-10 px-4 shadow-xl border-2 border-red-800 bg-gradient-to-br from-gray-50 to-gray-100">
+        <h2 className="text-3xl font-bold text-center text-black mb-10">
+          Store Formats & Product Categories
+        </h2>
+        <div className="grid md:grid-cols-3 gap-8">
+          {storeFormats.map((format, index) => (
+            <div
+              key={index}
+              className="bg-red-800 rounded-xl p-6 shadow-lg border-2 border-gray-200 hover:shadow-xl transition-shadow"
+            >
+              <div className="flex items-center space-x-3 mb-4">
+                <FaStore className="text-white" size={28} />
+                <h3 className="text-2xl font-bold text-black">{format.name}</h3>
+              </div>
+              <p className="text-sm font-semibold text-gray-800 mb-4 bg-gray-100 inline-block px-3 py-1 rounded">
+                {format.size}
+              </p>
+              <ul className="space-y-2 text-gray-200">
+                {format.products.map((product, i) => (
+                  <li key={i} className="flex items-start">
+                    <span className="text-black mr-2">•</span>
+                    <span>{product}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
 
       {/* DOCUMENTS REQUIRED SECTION */}
       <section className="max-w-10xl mx-auto my-12 p-0 rounded-2xl shadow-lg border border-gray-100 bg-white overflow-hidden">
@@ -363,8 +361,7 @@ Discover Your Franchise Style!
               <div className="bg-gray-50 rounded-lg px-4 py-2 flex items-start gap-2">
                 <span className="mt-1 text-gray-600">&#9679;</span>
                 <span>
-                  Educational Certificate: Certificate of Highest Education -
-                  10th/12th/Grad/Post-Grad 
+                  Educational Certificate: Certificate of Highest Education - 10th/12th/Grad/Post-Grad{" "}
                 </span>
               </div>
               <div className="bg-gray-50 rounded-lg px-4 py-2 flex items-start gap-2">
@@ -374,8 +371,7 @@ Discover Your Franchise Style!
               <div className="bg-gray-50 rounded-lg px-4 py-2 flex items-start gap-2">
                 <span className="mt-1 text-gray-600">&#9679;</span>
                 <span>
-                  Property Documents for Proposed Store: Ownership/Rental
-                  Agreement
+                  Property Documents for Proposed Store: Ownership/Rental Agreement
                 </span>
               </div>
             </div>
@@ -387,9 +383,7 @@ Discover Your Franchise Style!
             <div className="space-y-2">
               <div className="bg-gray-50 rounded-lg px-4 py-2 flex items-start gap-2">
                 <span className="mt-1 text-gray-600">&#9679;</span>
-                <span>
-                  Financial details (Income)
-                </span>
+                <span>Financial details (Income)</span>
               </div>
               <div className="bg-gray-50 rounded-lg px-4 py-2 flex items-start gap-2">
                 <span className="mt-1 text-gray-600">&#9679;</span>
@@ -398,431 +392,449 @@ Discover Your Franchise Style!
             </div>
           </div>
         </div>
-        {/* <div className="bg-white border-t px-8 py-4 flex justify-center rounded-b-2xl">
-          <button
-            className="w-full py-3 rounded-lg bg-black text-white font-semibold text-lg hover:bg-gray-800 transition"
-            disabled
-            tabIndex={-1}
-          >
-            Got it! Close
-          </button>
-        </div> */}
       </section>
 
       {/* CALCULATOR SECTION */}
       <Calculator openModal={openModal} />
       <FranchisePopupModal isOpen={isModalOpen} onClose={closeModal} />
 
+      {/* FRANCHISE APPLICATION FORM SECTION */}
+      <section className="max-w-3xl mx-auto mb-20 p-6 rounded-2xl shadow-xl border border-gray-100 bg-white overflow-hidden">
+        <div className="bg-black px-10 py-6 rounded-t-2xl">
+          <h2 className="font-bold text-white text-3xl flex items-center gap-3">
+            📝 Franchise Application Form
+          </h2>
+        </div>
+        <form className="px-4 sm:px-10 py-8 space-y-10">
+          {/* Personal Details */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">Personal Details</h3>
+            <div className="grid gap-6 md:grid-cols-2">
+              <input
+                type="text"
+                className="input"
+                placeholder="Full Name"
+                required
+              />
+              <input
+                type="text"
+                className="input"
+                placeholder="Father's/Husband's Name"
+                required
+              />
+              <div className="flex flex-col">
+                <label className="mb-1 font-semibold text-gray-700 text-sm">
+                  Date of Birth (mm-dd-yyyy)
+                </label>
+                <input type="date" className="input" required />
+              </div>
+              <select className="input" required>
+                <option value="">Gender</option>
+                <option>Male</option>
+                <option>Female</option>
+                <option>Other</option>
+              </select>
+              <select className="input" required>
+                <option value="">Marital Status</option>
+                <option>Single</option>
+                <option>Married</option>
+              </select>
+              <input
+                type="text"
+                className="input"
+                placeholder="Mobile Number"
+                required
+              />
+              <input
+                type="email"
+                className="input"
+                placeholder="Email Address"
+                required
+              />
+            </div>
+          </div>
 
-    {/* FRANCHISE APPLICATION FORM SECTION */}
-<section className="max-w-3xl mx-auto mb-20 p-6 rounded-2xl shadow-xl border border-gray-100 bg-white overflow-hidden">
-  <div className="bg-black px-10 py-6 rounded-t-2xl">
-    <h2 className="font-bold text-white text-3xl flex items-center gap-3">
-      📝 Franchise Application Form
-    </h2>
-  </div>
-  <form className="px-10 py-8 space-y-10">
-    {/* Personal Details */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">Personal Details</h3>
-      <div className="grid gap-6 md:grid-cols-2">
-        <input
-          type="text"
-          className="input"
-          placeholder="Full Name"
-          required
-        />
-        <input
-          type="text"
-          className="input"
-          placeholder="Father's/Husband's Name"
-          required
-        />
-        <input
-          type="date"
-          className="input"
-          placeholder="Date of Birth"
-          required
-        />
-        <select className="input" required>
-          <option value="">Gender</option>
-          <option>Male</option>
-          <option>Female</option>
-          <option>Other</option>
-        </select>
-        <select className="input" required>
-          <option value="">Marital Status</option>
-          <option>Single</option>
-          <option>Married</option>
-        </select>
-        <input
-          type="text"
-          className="input"
-          placeholder="Mobile Number"
-          required
-        />
-        <input
-          type="email"
-          className="input"
-          placeholder="Email Address"
-          required
-        />
-      </div>
-    </div>
+          {/* Your Selected Module */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">
+              Your Selected Module
+            </h3>
+            <select className="input" required>
+              <option value="">Select Module</option>
+              <option value="FOFO">FOFO</option>
+              <option value="FICO">FICO</option>
+              <option value="FICO Premium">FICO Premium</option>
+            </select>
+          </div>
 
-    {/* Your Selected Module */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">
-        Your Selected Module
-      </h3>
-      <select className="input" required>
-        <option value="">Select Module</option>
-        <option value="FOFO">FOFO</option>
-        <option value="FICO">FICO</option>
-        <option value="FICO Premium">FICO Premium</option>
-      </select>
-    </div>
+          {/* Identity Proof */}
+          <div>
+            <h3 className="text-base font-semibold text-gray-700 mb-3">
+              Identity Proof
+            </h3>
 
-    {/* Identity Proof */}
-    <div>
-      <h3 className="text-base font-semibold text-gray-700 mb-3">
-        Identity Proof
-      </h3>
+            {/* Option between Aadhaar and Voter ID */}
+            <div className="grid gap-6 md:grid-cols-3 mb-3">
+              <select className="input" required>
+                <option value="">Select ID Type</option>
+                <option value="aadhaar">Aadhaar</option>
+                <option value="voter">Voter ID</option>
+              </select>
+              <input
+                type="text"
+                className="input"
+                placeholder="ID Number"
+                required
+              />
+              <input type="text" className="input" placeholder="PAN Number" />
+            </div>
 
-      {/* Option between Aadhaar and Voter ID */}
-      <div className="grid gap-6 md:grid-cols-3 mb-3">
-        <select className="input" required>
-          <option value="">Select ID Type</option>
-          <option value="aadhaar">Aadhaar</option>
-          <option value="voter">Voter ID</option>
-        </select>
-        <input
-          type="text"
-          className="input"
-          placeholder="ID Number"
-          required
-        />
-        <input
-          type="text"
-          className="input"
-          placeholder="PAN Number"
-        />
-      </div>
+            <label className="flex items-center mt-3">
+              <input
+                type="file"
+                className="file-input"
+                required
+              />
+              <FaLink className="ml-2 text-red-800" size={20} />
+              <span className="text-xs text-gray-500 ml-2">
+                Attach Copy of Identity proof
+              </span>
+            </label>
+          </div>
 
-      <input type="file" className="input mt-3" required />
-      <span className="text-xs text-gray-500 ml-2">
-        Attach Copy of Identity proof
-      </span>
-    </div>
+          {/* Address */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">Address Details</h3>
+            <textarea
+              className="input"
+              placeholder="Full Permanent Address"
+              required
+            />
+            <div className="grid gap-6 md:grid-cols-3 mt-4">
+              <input
+                type="text"
+                className="input"
+                placeholder="District"
+                required
+              />
+              <input
+                type="text"
+                className="input"
+                placeholder="State"
+                required
+              />
+              <input
+                type="text"
+                className="input"
+                placeholder="PIN Code"
+                required
+              />
+            </div>
 
-    {/* Address */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">Address Details</h3>
-      <textarea
-        className="input"
-        placeholder="Full Permanent Address"
-        required
-      />
-      <div className="grid gap-6 md:grid-cols-3 mt-4">
-        <input
-          type="text"
-          className="input"
-          placeholder="District"
-          required
-        />
-        <input
-          type="text"
-          className="input"
-          placeholder="State"
-          required
-        />
-        <input
-          type="text"
-          className="input"
-          placeholder="PIN Code"
-          required
-        />
-      </div>
-      <input type="file" className="input mt-3" required />
-      <span className="text-xs text-gray-500 ml-2">
-        Attach Copy of address proof
-      </span>
-    </div>
+            <label className="flex items-center mt-3">
+              <input
+                type="file"
+                className="file-input"
+                required
+              />
+              <FaLink className="ml-2 text-red-800" size={20} />
+              <span className="text-xs text-gray-500 ml-2">Attach Copy of address proof</span>
+            </label>
+          </div>
 
-    {/* Education */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">
-        Educational Qualification
-      </h3>
-      <select className="input mb-3" required>
-        <option value="">Highest Qualification Achieved</option>
-        <option>10th</option>
-        <option>12th</option>
-        <option>Graduate</option>
-        <option>Post-Graduate</option>
-      </select>
-      <input type="file" className="input" required />
-      <span className="text-xs text-gray-500 ml-2">
-        Attach Copy of last qualification marksheet/certificate
-      </span>
-    </div>
+          {/* Education */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">
+              Educational Qualification
+            </h3>
+            <select className="input mb-3" required>
+              <option value="">Highest Qualification Achieved</option>
+              <option>10th</option>
+              <option>12th</option>
+              <option>Graduate</option>
+              <option>Post-Graduate</option>
+            </select>
 
-    {/* Work Experience */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">
-        Work Experience & Skills
-      </h3>
-      <textarea
-        className="input"
-        placeholder="Previous Business or Work Experience if any"
-      />
-      <textarea
-        className="input mt-3"
-        placeholder="Relevant Skills or Certifications if any"
-      />
-    </div>
+            <label className="flex items-center">
+              <input
+                type="file"
+                className="file-input"
+                required
+              />
+              <FaLink className="ml-2 text-red-800" size={20} />
+              <span className="text-xs text-gray-500 ml-2">
+                Attach Copy of last qualification marksheet/certificate
+              </span>
+            </label>
+          </div>
 
-    {/* Financial Info */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">
-        Financial Information
-      </h3>
-      <div className="grid gap-6 md:grid-cols-2">
-        <input
-          type="text"
-          className="input"
-          placeholder="Current Monthly Family Income"
-          required
-        />
-        <select className="input" required>
-          <option value="">Any existing Loans or Liabilities?</option>
-          <option>Yes</option>
-          <option>No</option>
-        </select>
-      </div>
-    </div>
+          {/* Work Experience */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">
+              Work Experience & Skills
+            </h3>
+            <textarea
+              className="input"
+              placeholder="Previous Business or Work Experience if any"
+            />
+            <textarea
+              className="input mt-3"
+              placeholder="Relevant Skills or Certifications if any"
+            />
+          </div>
 
-    {/* Banking Details */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">
-        Banking Details
-      </h3>
-      <div className="grid gap-6 md:grid-cols-2">
-        <input
-          type="text"
-          className="input"
-          placeholder="Bank Name"
-          required
-        />
-        <input
-          type="text"
-          className="input"
-          placeholder="Branch Name"
-          required
-        />
-      </div>
-      <div className="grid gap-6 md:grid-cols-2 mt-4">
-        <input
-          type="text"
-          className="input"
-          placeholder="Account Number"
-          required
-        />
-        <input
-          type="text"
-          className="input"
-          placeholder="IFSC Code"
-          required
-        />
-      </div>
-      <input type="file" className="input mt-3" required />
-      <span className="text-xs text-gray-500 ml-2">
-        Attach Cancelled Cheque / Passbook Copy
-      </span>
-    </div>
+          {/* Financial Info */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">
+              Financial Information
+            </h3>
+            <div className="grid gap-6 md:grid-cols-2">
+              <input
+                type="text"
+                className="input"
+                placeholder="Current Monthly Family Income"
+                required
+              />
+              <select className="input" required>
+                <option value="">Any existing Loans or Liabilities?</option>
+                <option>Yes</option>
+                <option>No</option>
+              </select>
+            </div>
+          </div>
 
-    {/* Proposed Store Location */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">
-        Proposed Store Location
-      </h3>
-      <div className="grid gap-6 md:grid-cols-3">
-        <input className="input" placeholder="Village/Town" />
-        <input className="input" placeholder="Block" />
-        <input className="input" placeholder="District" />
-      </div>
-      <div className="grid gap-6 md:grid-cols-2 mt-4">
-        <select className="input" required>
-          <option value="">Do you own the proposed premises?</option>
-          <option>Yes</option>
-          <option>No</option>
-        </select>
-        <input
-          className="input"
-          placeholder="If leased, agreement duration"
-        />
-      </div>
-      <input className="input mt-3" placeholder="Total Area (sq. ft.)" />
-      <input type="file" className="input mt-3" />
-      <span className="text-xs text-gray-500 ml-2">
-        Attach Ownership/Rent/Lease proof
-      </span>
-    </div>
+          {/* Banking Details */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">Banking Details</h3>
+            <div className="grid gap-6 md:grid-cols-2">
+              <input type="text" className="input" placeholder="Bank Name" required />
+              <input type="text" className="input" placeholder="Branch Name" required />
+            </div>
+            <div className="grid gap-6 md:grid-cols-2 mt-4">
+              <input
+                type="text"
+                className="input"
+                placeholder="Account Number"
+                required
+              />
+              <input type="text" className="input" placeholder="IFSC Code" required />
+            </div>
+            <label className="flex items-center mt-3">
+              <input
+                type="file"
+                className="file-input"
+                required
+              />
+              <FaLink className="ml-2 text-red-800" size={20} />
+              <span className="text-xs text-gray-500 ml-2">
+                Attach Cancelled Cheque / Passbook Copy
+              </span>
+            </label>
+          </div>
 
-    {/* References */}
-    <div>
-      <h3 className="text-xl font-bold text-black mb-4">
-        References - Two known persons (Optional)
-      </h3>
-      <div className="grid gap-6 md:grid-cols-2">
-        <input className="input" placeholder="Reference 1 Name" />
-        <input className="input" placeholder="Reference 1 Contact" />
-      </div>
-      <div className="grid gap-6 md:grid-cols-2 mt-4">
-        <input className="input" placeholder="Reference 2 Name" />
-        <input className="input" placeholder="Reference 2 Contact" />
-      </div>
-    </div>
+          {/* Proposed Store Location */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">
+              Proposed Store Location
+            </h3>
+            <div className="grid gap-6 md:grid-cols-3">
+              <input className="input" placeholder="Village/Town" />
+              <input className="input" placeholder="Block" />
+              <input className="input" placeholder="District" />
+            </div>
+            <div className="grid gap-6 md:grid-cols-2 mt-4">
+              <select className="input" required>
+                <option value="">Do you own the proposed premises?</option>
+                <option>Yes</option>
+                <option>No</option>
+              </select>
+              <input
+                className="input"
+                placeholder="If leased, agreement duration"
+              />
+            </div>
+            <input className="input mt-3" placeholder="Total Area (sq. ft.)" />
+            <label className="flex items-center mt-3">
+              <input type="file" className="file-input" />
+              <FaLink className="ml-2 text-red-800" size={20} />
+              <span className="text-xs text-gray-500 ml-2">
+                Attach Ownership/Rent/Lease proof
+              </span>
+            </label>
+          </div>
 
-    {/* Agent/Employee Declaration */}
-    <div className="rounded-xl bg-gray-50 p-8 shadow mt-8">
-      <h4 className="font-semibold text-black mb-3">
-        Agent/Employee Declaration (For Internal Performance Tracking)
-      </h4>
-      <p className="text-gray-700 text-sm mb-3">
-        I declare that I was introduced to and assisted throughout the
-        franchise onboarding process by the following
-        representative/employee/agent of Buyzaar/Markview Fabrication pvt ltd.
-      </p>
-      <div className="grid gap-6 md:grid-cols-2">
-        <input className="input" placeholder="Buyzaar Representative Name" />
-        <input
-          className="input"
-          placeholder="Designation/Role (if known)"
-        />
-        <input
-          className="input"
-          placeholder="Contact Number (if known)"
-        />
-      </div>
-      <div className="flex items-center mt-4">
-        <input type="checkbox" id="guided" className="mr-3" />
-        <label htmlFor="guided" className="text-sm text-gray-700">
-          I confirm that the above person guided me during inquiry.
-        </label>
-      </div>
-      <div className="flex items-center mt-4">
-        <input type="checkbox" id="independent" className="mr-3" />
-        <label htmlFor="independent" className="text-sm text-gray-700">
-          I was not assisted by any Buyzaar agent/employee and applied
-          independently.
-        </label>
-      </div>
-    </div>
+          {/* References */}
+          <div>
+            <h3 className="text-xl font-bold text-black mb-4">
+              References - Two known persons (Optional)
+            </h3>
+            <div className="grid gap-6 md:grid-cols-2">
+              <input className="input" placeholder="Reference 1 Name" />
+              <input className="input" placeholder="Reference 1 Contact" />
+            </div>
+            <div className="grid gap-6 md:grid-cols-2 mt-4">
+              <input className="input" placeholder="Reference 2 Name" />
+              <input className="input" placeholder="Reference 2 Contact" />
+            </div>
+          </div>
 
-    {/* Main Declaration */}
-    <div className="rounded-xl bg-gray-100 p-8 mt-8 shadow border border-gray-200">
-      <h4 className="font-semibold text-gray-800 mb-3">Declaration</h4>
-      <p className="text-sm text-gray-700 mb-3">
-        I, the undersigned applicant, hereby declare that all the
-        information and documents submitted in this franchise application
-        form are true, correct, and complete to the best of my knowledge
-        and belief.
-      </p>
-      <p className="text-sm text-gray-700 mb-3">
-        I have understood the need for and agreed to pay the site visitation fee. I understand that once the visit has been made, that is completely non refundable. Any false declaration, omission of facts, or submission
-        of fraudulent or forged documents will result in immediate
-        disqualification of my application or termination of my franchise
-        rights at any stage, without refund or legal claim.
-      </p>
-      <p className="text-sm text-gray-700 mb-3">
-        I have understood the basic requirements of investment,
-        operational responsibilities, and mandatory compliance as
-        prescribed by Buyzaar/Markview Fabrication pvt ltd. under the 
-        "The Buyzaar Mart" franchise scheme.
-      </p>
-      <p className="text-sm text-gray-700 mb-3">
-        I agree to comply with all operational rules, training mandates,
-        and monthly reporting procedures as communicated by
-        Buyzaar/Markview Fabrication pvt ltd. I am fully aware that store
-        performance, transparency of transactions, and customer
-        experience will directly affect the continuity of my franchise.
-      </p>
-    </div>
+          {/* Agent/Employee Declaration */}
+          <div className="rounded-xl bg-gray-50 p-8 shadow mt-8">
+            <h4 className="font-semibold text-black mb-3">
+              Agent/Employee Declaration (For Internal Performance Tracking)
+            </h4>
+            <p className="text-gray-700 text-sm mb-3">
+              I declare that I was introduced to and assisted throughout the
+              franchise onboarding process by the following
+              representative/employee/agent of Buyzaar/Markview Fabrication pvt ltd.
+            </p>
+            <div className="grid gap-6 md:grid-cols-2">
+              <input
+                className="input"
+                placeholder="Buyzaar Representative Name"
+              />
+              <input
+                className="input"
+                placeholder="Designation/Role (if known)"
+              />
+              <input
+                className="input"
+                placeholder="Contact Number (if known)"
+              />
+            </div>
+            <div className="flex items-center mt-4">
+              <input type="checkbox" id="guided" className="mr-3" />
+              <label htmlFor="guided" className="text-sm text-gray-700">
+                I confirm that the above person guided me during inquiry.
+              </label>
+            </div>
+            <div className="flex items-center mt-4">
+              <input type="checkbox" id="independent" className="mr-3" />
+              <label htmlFor="independent" className="text-sm text-gray-700">
+                I was not assisted by any Buyzaar agent/employee and applied
+                independently.
+              </label>
+            </div>
+          </div>
 
-    {/* Extra Declaration Checkboxes */}
-    <div className="mt-6 space-y-5">
-      <div className="flex items-center">
-        <input
-          type="checkbox"
-          id="declarationAgree"
-          className="mr-3"
-          required
-        />
-        <label htmlFor="declarationAgree" className="text-sm text-gray-700">
-          I have read, understood, and agree to the above declaration and terms.
-        </label>
-      </div>
+          {/* Main Declaration */}
+          <div className="rounded-xl bg-gray-100 p-8 mt-8 shadow border border-gray-200">
+            <h4 className="font-semibold text-gray-800 mb-3">Declaration</h4>
+            <p className="text-sm text-gray-700 mb-3">
+              I, the undersigned applicant, hereby declare that all the
+              information and documents submitted in this franchise application
+              form are true, correct, and complete to the best of my knowledge
+              and belief.
+            </p>
+            <p className="text-sm text-gray-700 mb-3">
+              I have understood the need for and agreed to pay the site visitation
+              fee. I understand that once the visit has been made, that is
+              completely non refundable. Any false declaration, omission of
+              facts, or submission of fraudulent or forged documents will result
+              in immediate disqualification of my application or termination of
+              my franchise rights at any stage, without refund or legal claim.
+            </p>
+            <p className="text-sm text-gray-700 mb-3">
+              I have understood the basic requirements of investment,
+              operational responsibilities, and mandatory compliance as
+              prescribed by Buyzaar/Markview Fabrication pvt ltd. under the{" "}
+              "The Buyzaar Mart" franchise scheme.
+            </p>
+            <p className="text-sm text-gray-700 mb-3">
+              I agree to comply with all operational rules, training mandates,
+              and monthly reporting procedures as communicated by
+              Buyzaar/Markview Fabrication pvt ltd. I am fully aware that store
+              performance, transparency of transactions, and customer
+              experience will directly affect the continuity of my franchise.
+            </p>
+          </div>
 
-      <div className="flex items-center">
-        <input
-          type="checkbox"
-          id="infoUnderstood"
-          className="mr-3"
-          required
-        />
-        <label htmlFor="infoUnderstood" className="text-sm text-gray-700">
-          I have received and understood all the information available/provided
-          to me about "The Buyzaar Mart" before filling this franchise application
-          form and have understood the investment requirements and the fees involved.
-        </label>
-      </div>
-    </div>
+          {/* Extra Declaration Checkboxes */}
+          <div className="mt-6 space-y-5">
+            <div className="flex items-center">
+              <input
+                type="checkbox"
+                id="declarationAgree"
+                className="mr-3"
+                required
+              />
+              <label htmlFor="declarationAgree" className="text-sm text-gray-700">
+                I have read, understood, and agree to the above declaration and
+                terms.
+              </label>
+            </div>
 
-    {/* Signature, Date and Signature PDF Upload */}
-    <div className="flex flex-col gap-6 mt-6">
-      <div className="flex gap-10 items-center flex-wrap">
-        <input
-          className="input w-auto"
-          type="text"
-          placeholder="Signature"
-          required
-        />
-        <input
-          className="input w-auto"
-          type="date"
-          placeholder="Date"
-          required
-        />
-      </div>
-      <div>
-        <input
-          type="file"
-          accept="application/pdf"
-          className="input"
-          required
-        />
-        <span className="text-xs text-gray-500 ml-2">
-          Upload signed declaration (PDF)
-        </span>
-      </div>
-    </div>
+            <div className="flex items-center">
+              <input
+                type="checkbox"
+                id="infoUnderstood"
+                className="mr-3"
+                required
+              />
+              <label htmlFor="infoUnderstood" className="text-sm text-gray-700">
+                I have received and understood all the information
+                available/provided to me about "The Buyzaar Mart" before filling
+                this franchise application form and have understood the
+                investment requirements and the fees involved.
+              </label>
+            </div>
+          </div>
 
-    <button
-      type="submit"
-      className="w-full py-4 rounded-lg bg-black text-white font-semibold text-lg hover:bg-gray-800 transition shadow-xl mt-8"
-    >
-      Submit Application
-    </button>
-  </form>
-</section>
+          {/* Signature, Date and Signature PDF Upload */}
+          <div className="flex flex-col gap-6 mt-6">
+            <div className="flex gap-10 items-center flex-wrap">
+              <input
+                className="input w-auto"
+                type="text"
+                placeholder="Signature"
+                required
+              />
+              <input
+                className="input w-auto"
+                type="date"
+                placeholder="Date"
+                required
+              />
+            </div>
+            <label className="flex items-center">
+              <input
+                type="file"
+                accept="application/pdf"
+                className="file-input"
+                required
+              />
+              <FaLink className="ml-2 text-red-800" size={20} />
+              <span className="text-xs text-gray-500 ml-2">
+                Upload signed declaration (PDF)
+              </span>
+            </label>
+          </div>
 
-
+          <button
+            type="submit"
+            className="w-full py-4 rounded-lg bg-black text-white font-semibold text-lg hover:bg-gray-800 transition shadow-xl mt-8"
+          >
+            Submit Application
+          </button>
+        </form>
+      </section>
 
       {/* Tailwind Custom Inputs - Place once in your file */}
       <style jsx>{`
         .input {
           @apply border rounded-lg px-4 py-2 w-full bg-white focus:outline-none focus:ring-2 focus:ring-gray-300 transition;
+        }
+        .file-input {
+          @apply border rounded-lg px-4 py-2 bg-white focus:outline-none focus:ring-2 focus:ring-gray-300 transition cursor-pointer;
+          /* Remove default file input styles for consistency */
+          -webkit-appearance: none;
+          -moz-appearance: none;
+          appearance: none;
+        }
+        label.flex.items-center > .file-input {
+          width: auto;
+          margin-right: 0.5rem;
+          padding: 0.4rem 0.8rem;
         }
       `}</style>
 

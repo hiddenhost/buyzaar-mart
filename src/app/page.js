@@ -15,6 +15,7 @@ import Brands from './Brands';
 import MainBanner from './MainBanner';
 import BrandPillar from './BrandPillars';
 import HomeBrandImages from './HomeBrandImages';
+import StoreLocator from './storelocator';
 // import Comic from './Comic';
 
 const Page = () => {
@@ -48,6 +49,7 @@ const Page = () => {
       {/* <Comic/> */}
       <Calculator />
       <FranchiseApplication />
+      <StoreLocator/>
       <Brands />
       
       {/* Footer */}

@@ -63,11 +63,11 @@ export default function FranchisePage() {
       ],
     },
   ];
-  const [isModalOpen, setIsModalOpen] = useState(false);
 
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const openModal = () => setIsModalOpen(true);
   const closeModal = () => setIsModalOpen(false);
-  
+
   return (
     <div className="bg-white min-h-screen mt-8 flex flex-col">
       <Navbar />
@@ -102,7 +102,6 @@ export default function FranchisePage() {
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 md:gap-8 max-w-6xl w-full mx-auto">
-          {/* CARD 1 */}
           <div className="bg-red-800 rounded-2xl shadow hover:shadow-lg transition-all p-6 sm:p-7 md:p-8 flex flex-col items-center text-center border border-[#b00000]">
             <FaRocket className="text-white text-3xl sm:text-4xl mb-3 sm:mb-4" />
             <h3 className="text-lg sm:text-xl font-bold mb-2 text-white">
@@ -112,8 +111,7 @@ export default function FranchisePage() {
               Distinctive store launch strategy ensuring rapid local visibility.
             </p>
           </div>
-          
-          {/* CARD 2 */}
+
           <div className="bg-red-800 rounded-2xl shadow hover:shadow-lg transition-all p-6 sm:p-7 md:p-8 flex flex-col items-center text-center border border-[#b00000]">
             <FaBullseye className="text-white text-3xl sm:text-4xl mb-3 sm:mb-4" />
             <h3 className="text-lg sm:text-xl font-bold mb-2 text-gray-200">
@@ -124,8 +122,7 @@ export default function FranchisePage() {
               location.
             </p>
           </div>
-          
-          {/* CARD 3 */}
+
           <div className="bg-red-800 rounded-2xl shadow hover:shadow-lg transition-all p-6 sm:p-7 md:p-8 flex flex-col items-center text-center border border-[#b00000]">
             <FaCogs className="text-white text-3xl sm:text-4xl mb-3 sm:mb-4" />
             <h3 className="text-lg sm:text-xl font-bold mb-2 text-gray-200">
@@ -136,8 +133,7 @@ export default function FranchisePage() {
               setup.
             </p>
           </div>
-          
-          {/* CARD 4 */}
+
           <div className="bg-red-800 rounded-2xl shadow hover:shadow-lg transition-all p-6 sm:p-7 md:p-8 flex flex-col items-center text-center border border-[#b00000]">
             <FaUsers className="text-white text-3xl sm:text-4xl mb-3 sm:mb-4" />
             <h3 className="text-lg sm:text-xl font-bold mb-2 text-gray-200">
@@ -407,43 +403,58 @@ export default function FranchisePage() {
       <FranchisePopupModal isOpen={isModalOpen} onClose={closeModal} />
 
       {/* FRANCHISE APPLICATION FORM - Fully Responsive */}
+      {/* FRANCHISE APPLICATION FORM - Fully Responsive */}
       <section className="max-w-3xl mx-4 sm:mx-6 md:mx-auto mb-12 sm:mb-16 md:mb-20 p-0 rounded-2xl shadow-xl border border-gray-100 bg-white overflow-hidden">
         <div className="bg-black px-4 sm:px-6 md:px-10 py-4 sm:py-5 md:py-6 rounded-t-2xl">
           <h2 className="font-bold text-white text-xl sm:text-2xl md:text-3xl flex items-center gap-2 sm:gap-3">
             📝 <span className="break-words">Franchise Application Form</span>
           </h2>
         </div>
-        
-        <form className="px-4 sm:px-6 md:px-10 py-6 sm:py-8 space-y-6 sm:space-y-8 md:space-y-10">
+
+        {/* FormSubmit: sends directly to email, no backend needed */}
+        <form
+          className="px-4 sm:px-6 md:px-10 py-6 sm:py-8 space-y-6 sm:space-y-8 md:space-y-10"
+          action="https://formsubmit.co/info@thebuyzaarmart.com"
+          method="POST"
+          encType="multipart/form-data"
+        >
+          {/* OPTIONAL: make email nicely formatted or redirect */}
+          <input type="hidden" name="_template" value="table" />
+          {/* <input type="hidden" name="_redirect" value="https://your-domain.com/thank-you" /> */}
+
           {/* Personal Details */}
           <div>
-            <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">Personal Details</h3>
+            <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
+              Personal Details
+            </h3>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-2">
               <input
                 type="text"
                 className="input"
                 placeholder="Full Name"
+                name="full_name"
                 required
               />
               <input
                 type="text"
                 className="input"
                 placeholder="Father's/Husband's Name"
+                name="father_husband_name"
                 required
               />
               <div className="flex flex-col">
                 <label className="mb-1 font-semibold text-gray-700 text-xs sm:text-sm">
                   Date of Birth (mm-dd-yyyy)
                 </label>
-                <input type="date" className="input" required />
+                <input type="date" className="input" name="dob" required />
               </div>
-              <select className="input" required>
+              <select className="input" name="gender" required>
                 <option value="">Gender</option>
                 <option>Male</option>
                 <option>Female</option>
                 <option>Other</option>
               </select>
-              <select className="input" required>
+              <select className="input" name="marital_status" required>
                 <option value="">Marital Status</option>
                 <option>Single</option>
                 <option>Married</option>
@@ -452,12 +463,14 @@ export default function FranchisePage() {
                 type="text"
                 className="input"
                 placeholder="Mobile Number"
+                name="mobile_number"
                 required
               />
               <input
                 type="email"
                 className="input sm:col-span-2"
                 placeholder="Email Address"
+                name="email"
                 required
               />
             </div>
@@ -468,7 +481,7 @@ export default function FranchisePage() {
             <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
               Your Selected Module
             </h3>
-            <select className="input" required>
+            <select className="input" name="selected_module" required>
               <option value="">Select Module</option>
               <option value="FOFO">FOFO</option>
               <option value="FICO">FICO</option>
@@ -482,7 +495,7 @@ export default function FranchisePage() {
               Identity Proof
             </h3>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-3 mb-3">
-              <select className="input" required>
+              <select className="input" name="id_type" required>
                 <option value="">Select ID Type</option>
                 <option value="aadhaar">Aadhaar</option>
                 <option value="voter">Voter ID</option>
@@ -491,14 +504,21 @@ export default function FranchisePage() {
                 type="text"
                 className="input"
                 placeholder="ID Number"
+                name="id_number"
                 required
               />
-              <input type="text" className="input" placeholder="PAN Number" />
+              <input
+                type="text"
+                className="input"
+                placeholder="PAN Number"
+                name="pan_number"
+              />
             </div>
             <label className="flex flex-col sm:flex-row sm:items-center mt-3 gap-2">
               <input
                 type="file"
                 className="file-input"
+                name="identity_proof_file"
                 required
               />
               <div className="flex items-center gap-2">
@@ -512,10 +532,13 @@ export default function FranchisePage() {
 
           {/* Address */}
           <div>
-            <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">Address Details</h3>
+            <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
+              Address Details
+            </h3>
             <textarea
               className="input min-h-[80px] sm:min-h-[100px]"
               placeholder="Full Permanent Address"
+              name="permanent_address"
               required
             />
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-3 mt-4">
@@ -523,18 +546,21 @@ export default function FranchisePage() {
                 type="text"
                 className="input"
                 placeholder="District"
+                name="district"
                 required
               />
               <input
                 type="text"
                 className="input"
                 placeholder="State"
+                name="state"
                 required
               />
               <input
                 type="text"
                 className="input"
                 placeholder="PIN Code"
+                name="pin_code"
                 required
               />
             </div>
@@ -542,11 +568,14 @@ export default function FranchisePage() {
               <input
                 type="file"
                 className="file-input"
+                name="address_proof_file"
                 required
               />
               <div className="flex items-center gap-2">
                 <FaLink className="text-red-800" size={18} />
-                <span className="text-xs text-gray-500">Attach Copy of address proof</span>
+                <span className="text-xs text-gray-500">
+                  Attach Copy of address proof
+                </span>
               </div>
             </label>
           </div>
@@ -556,7 +585,11 @@ export default function FranchisePage() {
             <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
               Educational Qualification
             </h3>
-            <select className="input mb-3" required>
+            <select
+              className="input mb-3"
+              name="highest_qualification"
+              required
+            >
               <option value="">Highest Qualification Achieved</option>
               <option>10th</option>
               <option>12th</option>
@@ -567,6 +600,7 @@ export default function FranchisePage() {
               <input
                 type="file"
                 className="file-input"
+                name="education_certificate_file"
                 required
               />
               <div className="flex items-center gap-2">
@@ -586,10 +620,12 @@ export default function FranchisePage() {
             <textarea
               className="input min-h-[80px] sm:min-h-[100px]"
               placeholder="Previous Business or Work Experience if any"
+              name="work_experience"
             />
             <textarea
               className="input mt-3 min-h-[80px] sm:min-h-[100px]"
               placeholder="Relevant Skills or Certifications if any"
+              name="skills"
             />
           </div>
 
@@ -603,9 +639,10 @@ export default function FranchisePage() {
                 type="text"
                 className="input"
                 placeholder="Current Monthly Family Income"
+                name="monthly_income"
                 required
               />
-              <select className="input" required>
+              <select className="input" name="existing_loans" required>
                 <option value="">Any existing Loans or Liabilities?</option>
                 <option>Yes</option>
                 <option>No</option>
@@ -615,24 +652,46 @@ export default function FranchisePage() {
 
           {/* Banking Details */}
           <div>
-            <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">Banking Details</h3>
+            <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
+              Banking Details
+            </h3>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-2">
-              <input type="text" className="input" placeholder="Bank Name" required />
-              <input type="text" className="input" placeholder="Branch Name" required />
+              <input
+                type="text"
+                className="input"
+                placeholder="Bank Name"
+                name="bank_name"
+                required
+              />
+              <input
+                type="text"
+                className="input"
+                placeholder="Branch Name"
+                name="branch_name"
+                required
+              />
             </div>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-2 mt-4">
               <input
                 type="text"
                 className="input"
                 placeholder="Account Number"
+                name="account_number"
                 required
               />
-              <input type="text" className="input" placeholder="IFSC Code" required />
+              <input
+                type="text"
+                className="input"
+                placeholder="IFSC Code"
+                name="ifsc_code"
+                required
+              />
             </div>
             <label className="flex flex-col sm:flex-row sm:items-center mt-3 gap-2">
               <input
                 type="file"
                 className="file-input"
+                name="bank_proof_file"
                 required
               />
               <div className="flex items-center gap-2">
@@ -650,12 +709,20 @@ export default function FranchisePage() {
               Proposed Store Location
             </h3>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-3">
-              <input className="input" placeholder="Village/Town" />
-              <input className="input" placeholder="Block" />
-              <input className="input" placeholder="District" />
+              <input
+                className="input"
+                placeholder="Village/Town"
+                name="village_town"
+              />
+              <input className="input" placeholder="Block" name="block" />
+              <input
+                className="input"
+                placeholder="District"
+                name="store_district"
+              />
             </div>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-2 mt-4">
-              <select className="input" required>
+              <select className="input" name="own_premises" required>
                 <option value="">Do you own the proposed premises?</option>
                 <option>Yes</option>
                 <option>No</option>
@@ -663,11 +730,20 @@ export default function FranchisePage() {
               <input
                 className="input"
                 placeholder="If leased, agreement duration"
+                name="lease_duration"
               />
             </div>
-            <input className="input mt-3" placeholder="Total Area (sq. ft.)" />
+            <input
+              className="input mt-3"
+              placeholder="Total Area (sq. ft.)"
+              name="total_area"
+            />
             <label className="flex flex-col sm:flex-row sm:items-center mt-3 gap-2">
-              <input type="file" className="file-input" />
+              <input
+                type="file"
+                className="file-input"
+                name="property_proof_file"
+              />
               <div className="flex items-center gap-2">
                 <FaLink className="text-red-800" size={18} />
                 <span className="text-xs text-gray-500">
@@ -683,12 +759,28 @@ export default function FranchisePage() {
               References - Two known persons (Optional)
             </h3>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-2">
-              <input className="input" placeholder="Reference 1 Name" />
-              <input className="input" placeholder="Reference 1 Contact" />
+              <input
+                className="input"
+                placeholder="Reference 1 Name"
+                name="reference1_name"
+              />
+              <input
+                className="input"
+                placeholder="Reference 1 Contact"
+                name="reference1_contact"
+              />
             </div>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-2 mt-4">
-              <input className="input" placeholder="Reference 2 Name" />
-              <input className="input" placeholder="Reference 2 Contact" />
+              <input
+                className="input"
+                placeholder="Reference 2 Name"
+                name="reference2_name"
+              />
+              <input
+                className="input"
+                placeholder="Reference 2 Contact"
+                name="reference2_contact"
+              />
             </div>
           </div>
 
@@ -700,31 +792,51 @@ export default function FranchisePage() {
             <p className="text-gray-700 text-xs sm:text-sm mb-3">
               I declare that I was introduced to and assisted throughout the
               franchise onboarding process by the following
-              representative/employee/agent of Buyzaar/Markview Fabrication pvt ltd.
+              representative/employee/agent of Buyzaar/Markview Fabrication pvt
+              ltd.
             </p>
             <div className="grid gap-4 sm:gap-5 md:gap-6 grid-cols-1 sm:grid-cols-2">
               <input
                 className="input"
                 placeholder="Buyzaar Representative Name"
+                name="rep_name"
               />
               <input
                 className="input"
                 placeholder="Designation/Role (if known)"
+                name="rep_designation"
               />
               <input
                 className="input sm:col-span-2"
                 placeholder="Contact Number (if known)"
+                name="rep_contact"
               />
             </div>
             <div className="flex items-start mt-4 gap-3">
-              <input type="checkbox" id="guided" className="mt-1 flex-shrink-0" />
-              <label htmlFor="guided" className="text-xs sm:text-sm text-gray-700">
+              <input
+                type="checkbox"
+                id="guided"
+                className="mt-1 flex-shrink-0"
+                name="guided"
+              />
+              <label
+                htmlFor="guided"
+                className="text-xs sm:text-sm text-gray-700"
+              >
                 I confirm that the above person guided me during inquiry.
               </label>
             </div>
             <div className="flex items-start mt-4 gap-3">
-              <input type="checkbox" id="independent" className="mt-1 flex-shrink-0" />
-              <label htmlFor="independent" className="text-xs sm:text-sm text-gray-700">
+              <input
+                type="checkbox"
+                id="independent"
+                className="mt-1 flex-shrink-0"
+                name="independent"
+              />
+              <label
+                htmlFor="independent"
+                className="text-xs sm:text-sm text-gray-700"
+              >
                 I was not assisted by any Buyzaar agent/employee and applied
                 independently.
               </label>
@@ -733,7 +845,9 @@ export default function FranchisePage() {
 
           {/* Main Declaration */}
           <div className="rounded-xl bg-gray-100 p-4 sm:p-6 md:p-8 mt-6 sm:mt-8 shadow border border-gray-200">
-            <h4 className="font-semibold text-gray-800 mb-3 text-sm sm:text-base">Declaration</h4>
+            <h4 className="font-semibold text-gray-800 mb-3 text-sm sm:text-base">
+              Declaration
+            </h4>
             <p className="text-xs sm:text-sm text-gray-700 mb-3">
               I, the undersigned applicant, hereby declare that all the
               information and documents submitted in this franchise application
@@ -741,25 +855,26 @@ export default function FranchisePage() {
               and belief.
             </p>
             <p className="text-xs sm:text-sm text-gray-700 mb-3">
-              I have understood the need for and agreed to pay the site visitation
-              fee. I understand that once the visit has been made, that is
-              completely non refundable. Any false declaration, omission of
-              facts, or submission of fraudulent or forged documents will result
-              in immediate disqualification of my application or termination of
-              my franchise rights at any stage, without refund or legal claim.
+              I have understood the need for and agreed to pay the site
+              visitation fee. I understand that once the visit has been made,
+              that is completely non refundable. Any false declaration, omission
+              of facts, or submission of fraudulent or forged documents will
+              result in immediate disqualification of my application or
+              termination of my franchise rights at any stage, without refund or
+              legal claim.
             </p>
             <p className="text-xs sm:text-sm text-gray-700 mb-3">
               I have understood the basic requirements of investment,
               operational responsibilities, and mandatory compliance as
-              prescribed by Buyzaar/Markview Fabrication pvt ltd. under the{" "}
-              "The Buyzaar Mart" franchise scheme.
+              prescribed by Buyzaar/Markview Fabrication pvt ltd. under the "The
+              Buyzaar Mart" franchise scheme.
             </p>
             <p className="text-xs sm:text-sm text-gray-700 mb-3">
               I agree to comply with all operational rules, training mandates,
               and monthly reporting procedures as communicated by
               Buyzaar/Markview Fabrication pvt ltd. I am fully aware that store
-              performance, transparency of transactions, and customer
-              experience will directly affect the continuity of my franchise.
+              performance, transparency of transactions, and customer experience
+              will directly affect the continuity of my franchise.
             </p>
           </div>
 
@@ -770,9 +885,13 @@ export default function FranchisePage() {
                 type="checkbox"
                 id="declarationAgree"
                 className="mt-1 flex-shrink-0"
+                name="declaration_agree"
                 required
               />
-              <label htmlFor="declarationAgree" className="text-xs sm:text-sm text-gray-700">
+              <label
+                htmlFor="declarationAgree"
+                className="text-xs sm:text-sm text-gray-700"
+              >
                 I have read, understood, and agree to the above declaration and
                 terms.
               </label>
@@ -783,9 +902,13 @@ export default function FranchisePage() {
                 type="checkbox"
                 id="infoUnderstood"
                 className="mt-1 flex-shrink-0"
+                name="info_understood"
                 required
               />
-              <label htmlFor="infoUnderstood" className="text-xs sm:text-sm text-gray-700">
+              <label
+                htmlFor="infoUnderstood"
+                className="text-xs sm:text-sm text-gray-700"
+              >
                 I have received and understood all the information
                 available/provided to me about "The Buyzaar Mart" before filling
                 this franchise application form and have understood the
@@ -801,12 +924,13 @@ export default function FranchisePage() {
                 className="input"
                 type="text"
                 placeholder="Signature"
+                name="signature"
                 required
               />
               <input
                 className="input"
                 type="date"
-                placeholder="Date"
+                name="signature_date"
                 required
               />
             </div>
@@ -815,6 +939,7 @@ export default function FranchisePage() {
                 type="file"
                 accept="application/pdf"
                 className="file-input"
+                name="signed_declaration_pdf"
                 required
               />
               <div className="flex items-center gap-2">
@@ -836,6 +961,7 @@ export default function FranchisePage() {
       </section>
 
       {/* Tailwind Custom Inputs - Enhanced Responsive */}
+     {/* Tailwind Custom Inputs - Enhanced Responsive */}
       <style jsx>{`
         .input {
           @apply border rounded-lg px-3 sm:px-4 py-2 w-full bg-white focus:outline-none focus:ring-2 focus:ring-gray-300 transition text-sm sm:text-base;
@@ -857,6 +983,7 @@ export default function FranchisePage() {
           }
         }
       `}</style>
+
 
       <Footer />
     </div>

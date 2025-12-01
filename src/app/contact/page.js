@@ -192,7 +192,7 @@ const ContactPage = () => {
 
       // Submit to FormSubmit using JSON
       const response = await fetch(
-        "https://formsubmit.co/pathakmansi608@gmail.com",
+        "https://formsubmit.co/info@thebuyzaarmart.com",
         {
           method: "POST",
           headers: {

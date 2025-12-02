@@ -3,8 +3,8 @@
 import { useState, useEffect } from 'react';
 
 const WhatsAppButton = ({ 
-  phoneNumber = "919311939160 , 9311939161", // Replace with your WhatsApp number (with country code, no + sign)
-  message = "Hello! I found your contact on your website. I would like to enquire about Gram Shree Apna  .",
+  phoneNumber = "919311939160", // Replace with your WhatsApp number (with country code, no + sign)
+  message = "Hello! I found your contact on your website. I would like to enquire about The Buyzaar Mart .",
   position = "bottom-right", // bottom-right, bottom-left, top-right, top-left
   showOnScroll = true,
   scrollThreshold = 100,
@@ -27,11 +27,22 @@ const WhatsAppButton = ({
     return () => window.removeEventListener('scroll', handleScroll);
   }, [showOnScroll, scrollThreshold]);
 
-  const handleClick = () => {
-    const encodedMessage = encodeURIComponent(message);
-    const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
-    window.open(whatsappURL, '_blank');
-  };
+ const handleClick = () => {
+  const encodedMessage = encodeURIComponent(message);
+  const phone = "919311939160"; // full international number
+
+  const appLink = `whatsapp://send?phone=${phone}&text=${encodedMessage}`;
+  const webLink = `https://wa.me/${phone}?text=${encodedMessage}`;
+
+  // Try to open app first; if it fails, open web
+  window.location.href = appLink;
+
+  // Fallback in case WhatsApp app isn't installed (desktop / some browsers)
+  setTimeout(() => {
+    window.open(webLink, "_blank");
+  }, 500);
+};
+
 
   const getPositionClasses = () => {
     switch(position) {

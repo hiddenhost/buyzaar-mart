@@ -1,13 +1,15 @@
+"use client";
+
+import WhatsAppButton from "./components/whatsappButton";
 import "./globals.css";
-import WhatsAppButton from './components/whatsappButton';
 
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>{children}
+      <body>
+        <main>{children}</main>
         <WhatsAppButton/>
-    
       </body>
     </html>
   );

@@ -27,21 +27,23 @@ const WhatsAppButton = ({
     return () => window.removeEventListener('scroll', handleScroll);
   }, [showOnScroll, scrollThreshold]);
 
- const handleClick = () => {
+const handleClick = () => {
   const encodedMessage = encodeURIComponent(message);
-  const phone = "919311939160"; // full international number
+  const phone = "919311939160";
 
-  const appLink = `whatsapp://send?phone=${phone}&text=${encodedMessage}`;
-  const webLink = `https://wa.me/${phone}?text=${encodedMessage}`;
+  const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i
+    .test(navigator.userAgent) || window.innerWidth < 768;
 
-  // Try to open app first; if it fails, open web
-  window.location.href = appLink;
-
-  // Fallback in case WhatsApp app isn't installed (desktop / some browsers)
-  setTimeout(() => {
+  if (isMobile) {
+    // Mobile app – usually respects text=
+    window.location.href = `whatsapp://send?phone=${phone}&text=${encodedMessage}`;
+  } else {
+    // Force browser (WhatsApp Web) instead of Desktop app
+    const webLink = `https://web.whatsapp.com/send?phone=${phone}&text=${encodedMessage}`;
     window.open(webLink, "_blank");
-  }, 500);
+  }
 };
+
 
 
   const getPositionClasses = () => {

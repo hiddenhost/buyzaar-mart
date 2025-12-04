@@ -414,7 +414,7 @@ export default function FranchisePage() {
         {/* FormSubmit: sends directly to email, no backend needed */}
         <form
           className="px-4 sm:px-6 md:px-10 py-6 sm:py-8 space-y-6 sm:space-y-8 md:space-y-10"
-          action="https://formsubmit.co/info@thebuyzaarmart.com"
+          action="https://formsubmit.co/pathakmansi608@gmail.com"
           method="POST"
           encType="multipart/form-data"
         >

@@ -177,7 +177,7 @@ const Navbar = () => {
               <Link href="/" className="flex items-center">
                 <img
                   src="/images/buyzaar-logo.png"
-                  alt="Gram Shree Mart"
+                  alt="The Buyzaar Mart"
                   className={`w-auto transition-all duration-300 ${
                     isScrolled ? "h-64" : "h-70"
                   }`}
@@ -362,7 +362,7 @@ const Navbar = () => {
   <Link href="/" className="flex items-center">
     <img
       src="/images/buyzaar-logo.png"
-      alt="Gram Shree Mart"
+      alt="The Buyzaar Mart"
       className={`w-auto transition-all duration-300 ${
         isScrolled ? "h-30" : "h-30"
       } max-w-full`}

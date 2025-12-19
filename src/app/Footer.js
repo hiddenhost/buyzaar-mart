@@ -90,7 +90,7 @@ const Footer = () => {
               <div>
                 <img
                   src="/images/buyzaar-logo.png"
-                  alt="Gram Shree Mart"
+                  alt="The Buyzaar Mart"
                   className="h-38 w-40"
                 />
                 <p className="text-gray-900 leading-relaxed max-w-lg text-sm">

@@ -71,7 +71,7 @@ const Services = () => {
       icon:"https://img.icons8.com/ios/50/10B981/online-store.png",
       color: "bg-black",
       features: [
-        "All Gram Shree stores follow a consistent brand layout, signage, and merchandising.",
+        "All The Buyzaar Mart stores follow a consistent brand layout, signage, and merchandising.",
         "Builds trust and a professional identity across locations.",
         "Easy for customers to recognize and trust."
       ]
@@ -266,7 +266,7 @@ const Services = () => {
           <div className="relative inline-block">
             <img 
               src="/images/BUYZAAR BRAND 1.png" 
-              alt="Gram Shree - अपना बाजार - बचत का साथ Quality की बात"
+              alt="The Buyzaar Mart - अपना बाजार - बचत का साथ Quality की बात"
               className="w-full max-w-6xl border-4 border-red-800 mx-auto rounded-2xl shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-500"
             />
             {/* Subtle glow effect */}

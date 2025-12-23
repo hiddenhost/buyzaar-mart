@@ -83,14 +83,14 @@ export default function StoreLocator() {
 
                 <p className="text-sm text-neutral-300 leading-relaxed">
                   Visit our operational BUYZAAR Mart outlets and explore our
-                  smart retail experience in person. Exact addresses and photos
-                  of each running store will appear here.
+                  smart retail experience in person. 
                 </p>
+                 <p className="text-white text-xl">• The Buyzaar Mart Sector 44 Chalera Noida </p>
 
-                <div className="mt-1 text-xs text-neutral-400">
+                {/* <div className="mt-1 text-xs text-neutral-400">
                   Live locations & store photos will be updated as new outlets
                   are launched.
-                </div>
+                </div> */}
               </div>
             </motion.div>
 
@@ -120,7 +120,7 @@ export default function StoreLocator() {
 
                 <div className="mt-1 space-y-2 text-sm text-neutral-300">
                   <div className="font-medium text-white/90">
-                    <p>• The Buyzaar Mart Sector 44 Chalera Noida </p>
+                   
                     <p>
                       • The Buyzaar Mart LV Plaza Laxmi Villas Rajnagar
                       Extension Ghaziabad

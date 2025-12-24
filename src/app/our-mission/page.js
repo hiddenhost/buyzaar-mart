@@ -181,7 +181,7 @@ export default function Mission() {
               </h3>
               <p className="text-gray-200 leading-relaxed text-justify">
                 &ldquo;Ideal for new entrepreneurs. Risk free, good margins.
-                Become a part of buyzaar today!&rdquo;
+                Become a part of Buyzaar today!&rdquo;
               </p>
             </div>
           </div>

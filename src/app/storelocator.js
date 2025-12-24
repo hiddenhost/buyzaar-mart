@@ -73,7 +73,7 @@ export default function StoreLocator() {
                       Running Stores
                     </p>
                     <h3 className="text-xl md:text-2xl font-semibold text-white mt-1">
-                      Experience BUYZAAR Today
+                      Visit BUYZAAR Mart Today
                     </h3>
                   </div>
                   <span className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-red-800/80 text-white text-lg font-semibold shadow-[0_0_25px_rgba(248,113,113,0.75)]">

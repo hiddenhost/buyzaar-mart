@@ -30,7 +30,7 @@ const HeroPage = ({ openModal }) => {
           <div className="text-left space-y-6 sm:space-y-8 lg:space-y-15 px-2 sm:px-0 lg:pr-16 lg:-ml[-40px]">
             <div className="space-y-3 sm:space-y-4">
               <h1 className="text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
-                <span className="text-[#b00000]">The Buyzaar Mart -&quot;Your Friendly neighborhood store&quot;</span>{" "}
+                <span className="text-[#b00000]">The Buyzaar Mart -&quot;Your Friendly Neighborhood Store&quot;</span>{" "}
                 
                 
               </h1>

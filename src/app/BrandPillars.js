@@ -6,11 +6,11 @@ const pillars = [
   {
     title: "Simplicity",
     description:
-      "We take the complexity away from retail operations: Handling purchasing, inventory and Supply Chain.",
+      "We take the complexity away from retail operations: Handling, purchasing, inventory and Supply Chain.",
   },
   {
     title: "Reliability",
-    description: "Timely supply, transparent processes, one partner you can trust.",
+    description: "Timely supply, transparent processes, A partner you can trust.",
   },
   {
     title: "Affordability & Quality",

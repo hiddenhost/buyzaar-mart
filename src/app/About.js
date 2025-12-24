@@ -141,8 +141,8 @@ const About = () => {
                     >
                       <p className="text-sm md:text-base lg:text-lg text-white leading-relaxed">
                         Our mission is to empower communities through retail
-                        ownershhip, enabling individuals to build dignified
-                        livelihoods by running neighbourhood stores thhat offer
+                        ownership, enabling individuals to build dignified
+                        livelihoods by running neighbourhood stores that offer
                         fairness, affordability, and convenience.
                       </p>
                     </div>

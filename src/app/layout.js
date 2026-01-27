@@ -3,6 +3,8 @@
 import Script from "next/script";
 import WhatsAppButton from "./components/whatsappButton";
 import "./globals.css";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 export default function RootLayout({ children }) {
   return (
@@ -25,8 +27,10 @@ export default function RootLayout({ children }) {
       </head>
 
       <body>
+        <Navbar/>
         <main>{children}</main>
         <WhatsAppButton />
+        <Footer/>
       </body>
     </html>
   );

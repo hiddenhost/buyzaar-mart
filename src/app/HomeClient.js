@@ -1,21 +1,21 @@
 "use client";
 
 import React, { useState } from "react";
-import Navbar from "./Navbar";
-import HeroPage from "./HeroPage";
-import About from "./About";
-import Services from "./Services";
-import FranchiseApplication from "./FranchiseApplication";
-import Process from "./Process";
-import WhyChoose from "./WhyChhoose";
-import Footer from "./Footer";
-import Calculator from "./Calculator";
-import FranchisePopupModal from "./FranchisePopup";
-import Brands from "./Brands";
-import MainBanner from "./MainBanner";
-import BrandPillar from "./BrandPillars";
-import HomeBrandImages from "./HomeBrandImages";
-import StoreLocator from "./storelocator";
+
+import HeroPage from "../app/components/HeroPage";
+import About from "../app/components/About";
+import Services from "../app/components/Services";
+import FranchiseApplication from "../app/components/FranchiseApplication";
+import Process from "../app/components/Process";
+import WhyChoose from "../app/components/WhyChhoose";
+
+import Calculator from "../app/components/Calculator";
+import FranchisePopupModal from "../app/components/FranchisePopup";
+import Brands from "../app/components/Brands";
+import MainBanner from "../app/components/MainBanner";
+import BrandPillar from "../app/components/BrandPillars";
+import HomeBrandImages from "../app/components/HomeBrandImages";
+import StoreLocator from "../app/components/storelocator";
 import ApplyNowButton from "./ApplyNow";
 
 const HomeClient = () => {
@@ -26,7 +26,7 @@ const HomeClient = () => {
 
   return (
     <div className="relative min-h-screen">
-      <Navbar />
+   
       <MainBanner />
       <HeroPage openModal={openModal} />
       <About />
@@ -39,7 +39,7 @@ const HomeClient = () => {
       <FranchiseApplication />
       <StoreLocator />
       <Brands />
-      <Footer />
+    
 
       <ApplyNowButton onClick={openModal} />
 

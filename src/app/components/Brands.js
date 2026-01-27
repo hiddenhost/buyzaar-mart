@@ -109,7 +109,7 @@ const Brands = () => {
                         height={64}
                         className="object-contain max-w-full max-h-full"
                         loading="lazy"
-                        quality={60}
+                        quality={75}
                         sizes="(max-width: 640px) 56px, (max-width: 768px) 64px, 80px"
                       />
                     </div>
@@ -140,7 +140,7 @@ const Brands = () => {
                         height={64}
                         className="object-contain max-w-full max-h-full"
                         loading="lazy"
-                        quality={60}
+                        quality={75}
                         sizes="(max-width: 640px) 56px, (max-width: 768px) 64px, 80px"
                       />
                     </div>

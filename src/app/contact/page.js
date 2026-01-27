@@ -1,8 +1,8 @@
 "use client";
 import React, { useState } from 'react';
 import { CheckCircle, AlertCircle } from 'lucide-react';
-import Footer from '../Footer';
-import Navbar from '../Navbar';
+import Footer from '../components/Footer';
+import Navbar from '../components/Navbar';
 
 // Simple SVG icon components (matching the franchise form)
 const User = ({ className }) => (

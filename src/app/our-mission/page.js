@@ -7,13 +7,12 @@ import {
   Smartphone,
   HeadphonesIcon,
 } from "lucide-react";
-import Footer from "../Footer";
-import Navbar from "../Navbar";
+
 
 export default function Mission() {
   return (
     <div className="pt-20 min-h-screen bg-white">
-      <Navbar />
+    
       
       <div className="relative overflow-hidden">
         <div
@@ -264,7 +263,7 @@ export default function Mission() {
       </div>
     
       </div>
-      <Footer />
+     
     </div>
   );
 }

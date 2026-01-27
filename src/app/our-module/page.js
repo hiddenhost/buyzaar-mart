@@ -1,7 +1,6 @@
 import React from 'react';
 import { Store, Users, Package, TrendingUp, Clock, MapPin } from 'lucide-react';
-import Navbar from '../Navbar';
-import Footer from '../Footer';
+
 
 const BuyzaarMartFranchiseModels = () => {
   const models = [
@@ -133,7 +132,7 @@ const BuyzaarMartFranchiseModels = () => {
 
   return (
     <div className="min-h-screen bg-white">
-      <Navbar />
+    
       <div className="container mx-auto max-w-6xl px-4 pt-32 pb-12">
         {/* Header */}
         <div className="text-center mb-16">
@@ -242,7 +241,7 @@ const BuyzaarMartFranchiseModels = () => {
           </div>
         </div>
       </div>
-      <Footer />
+    
     </div>
   );
 };

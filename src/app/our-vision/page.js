@@ -9,13 +9,12 @@ import {
   MapPin,
   ChevronRight,
 } from "lucide-react";
-import Footer from "../Footer";
-import Navbar from "../Navbar";
+
 
 export default function Vision() {
   return (
     <div className="pt-20 min-h-screen bg-white">
-      <Navbar />
+   
       {/* Hero Section with Background Image */}
       <div className="relative overflow-hidden">
         {/* Background Image */}
@@ -498,7 +497,7 @@ export default function Vision() {
       </div>
      
 
-      <Footer />
+      
     </div>
   );
 }

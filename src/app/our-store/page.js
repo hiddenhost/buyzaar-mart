@@ -2,8 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import Navbar from "../Navbar";
-import Footer from "../Footer";
+
 
 export default function OurStore() {
   const storeImages = [
@@ -29,7 +28,7 @@ export default function OurStore() {
 
   return (
     <>
-      <Navbar />
+      
       <div className="min-h-screen bg-linear-to-br from-gray-50 to-white">
         {/* Hero Section */}
         <section className="relative bg-red-800 text-white py-16 md:py-24 px-4">
@@ -133,7 +132,7 @@ export default function OurStore() {
           </div>
         </section>
       </div>
-      <Footer />
+     
     </>
   );
 }

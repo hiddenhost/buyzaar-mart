@@ -1,10 +1,10 @@
 "use client";
 import React, { useState } from "react";
-import Navbar from "../Navbar";
-import Footer from "../Footer";
-import Calculator from "../Calculator";
-import Services from "../Services";
-import FranchisePopupModal from "../FranchisePopup";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import Calculator from "../components/Calculator";
+import Services from "../components/Services";
+import FranchisePopupModal from "../components/FranchisePopup";
 import {
   FaBullseye,
   FaRocket,

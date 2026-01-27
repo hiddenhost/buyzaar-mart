@@ -1,10 +1,9 @@
-import Footer from "../Footer";
-import Navbar from "../Navbar";
+
 
 export default function PrivacyPolicy() {
   return (
     <div className="min-h-screen bg-white">
-      <Navbar/>
+      
       
       <div className="pt-20">
         {/* Header Section */}
@@ -323,7 +322,7 @@ Noida-201301</p>
         </div>
       </div>
       
-      <Footer/>
+      
     </div>
   );
 }

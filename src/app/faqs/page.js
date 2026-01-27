@@ -2,8 +2,7 @@
 import { useState } from 'react';
 import { ChevronDown } from 'lucide-react';
 import Link from "next/link";
-import Footer from '../Footer';
-import Navbar from '../Navbar';
+
 
 export default function FAQPage() {
   const [openIndex, setOpenIndex] = useState(null);
@@ -96,7 +95,7 @@ export default function FAQPage() {
 
   return (
     <div className="min-h-screen bg-linear-to-br from-orange-50 via-white to-orange-50">
-        <Navbar/>
+      
       {/* Hero Section */}
       <div className="bg-red-800 pt-40 py-26 px-4">
         <div className="max-w-5xl mx-auto text-center">
@@ -200,7 +199,7 @@ export default function FAQPage() {
           animation: fade-in 0.6s ease-out;
         }
       `}</style>
-      <Footer/>
+      
     </div>
   );
 }

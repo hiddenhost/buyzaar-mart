@@ -33,9 +33,9 @@ const Brands = () => {
     { id: 26, name: "Hully Gully", logo: "/brands/hullygully.jpeg", alt: "Hully Gully Logo" },
     { id: 27, name: "ITC", logo: "/brands/itc.png", alt: "ITC Logo" },
     { id: 28, name: "Johnson", logo: "/brands/johnson.jpg", alt: "Johnson Logo" },
-    { id: 29, name: "Kellogg", logo: "/brands/kellogg.png", alt: "Kellogg Logo" },
-    { id: 30, name: "Lahorerewareb", logo: "/brands/lahorerewareb.jpg", alt: "Lahorerewareb Logo" },
-    { id: 31, name: "Lotus Herbals", logo: "/brands/lotusherbp.jpg", alt: "Lotus Herbals Logo" },
+    
+    { id: 30, name: "Lahori Jeera", logo: "/brands/lahorijeera.webp", alt: "Lahorerewareb Logo" },
+    { id: 31, name: "Lotus Herbals", logo: "/brands/lotus.webp", alt: "Lotus Herbals Logo" },
     { id: 32, name: "Madagascar", logo: "/brands/madagascar.jpeg", alt: "Madagascar Logo" },
     { id: 33, name: "Marico", logo: "/brands/marico.jpeg", alt: "Marico Logo" },
     { id: 34, name: "Mavalli Tiffin ROoms", logo: "/brands/Mavalli.png", alt: "Mavalipong Logo" },
@@ -61,8 +61,8 @@ const Brands = () => {
     { id: 54, name: "Ustra", logo: "/brands/ustra.png", alt: "Ustra Logo" },
     
     { id: 56, name: "Veeba", logo: "/brands/veeba.webp", alt: "Veeba Logo" },
-    { id: 57, name: "Victoria Food", logo: "/brands/victoriafood.png", alt: "Victoria Food Logo" },
-    { id: 58, name: "Vijan", logo: "/brands/vijan.jpeg", alt: "Vijan Logo" },
+    { id: 57, name: "Victoria Food", logo: "/brands/victoriafoods.png", alt: "Victoria Food Logo" },
+    { id: 58, name: "VJohn", logo: "/brands/vjohn.jpeg", alt: "Vijan Logo" },
     { id: 59, name: "Wipro", logo: "/brands/wipro.jpg", alt: "Wipro Logo" },
     { id: 60, name: "Yadu", logo: "/brands/yadu.jpeg", alt: "Yadu Logo" },
     { id: 61, name: "Yoga Bar", logo: "/brands/yogabar.png", alt: "Yoga Bar Logo" },

@@ -1,8 +1,7 @@
 "use client";
 import React, { useState, useEffect, useRef } from 'react';
 import { Award, Users, Target, TrendingUp, MapPin, Book, Settings, Smartphone, Package, Megaphone, Shield, CheckCircle, ArrowRight, Star, Zap, Menu, X } from 'lucide-react';
-import Navbar from '../Navbar';
-import Footer from '../Footer';
+
 
 const AboutUs = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -139,7 +138,7 @@ const AboutUs = () => {
 
   return (
     <div id="about" className="min-h-screen bg-white overflow-hidden">
-    <Navbar/>
+    
       
       {/* Hero Section with Background Pattern */}
        <div 
@@ -446,7 +445,7 @@ const AboutUs = () => {
           animation: float 6s ease-in-out infinite;
         }
       `}</style>
-      <Footer/>
+    
     </div>
 
   );

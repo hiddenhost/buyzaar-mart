@@ -1,12 +1,11 @@
-import Footer from "../Footer";
-import Navbar from "../Navbar";
+
 
 
 export default function GSTCertificate() {
   return (
     <div className="min-h-screen bg-white">
      
-      <Navbar/>
+      
       <div className="pt-20">
         {/* Header Section */}
         <div className="bg-linear-to-r from-[#fd7e14] to-orange-600 py-16">
@@ -572,7 +571,7 @@ export default function GSTCertificate() {
 
         </div>
       </div>
-      <Footer/>
+    
     
     </div>
   );

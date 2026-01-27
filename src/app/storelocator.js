@@ -122,8 +122,12 @@ export default function StoreLocator() {
                   <div className="font-medium text-white/90">
                    
                     <p>
-                      • The Buyzaar Mart LV Plaza Laxmi Villas Rajnagar
+                      • The Buyzaar Mart, LV Plaza Laxmi Villas Rajnagar
                       Extension Ghaziabad
+                    </p>
+                    <br/>
+                    <p>
+                      • The Buyzaar Mart, Saharanpur (Gangoh, Rampur Maniharan)
                     </p>
                   </div>
 

@@ -667,7 +667,7 @@ const Calculator = ({ openModal }) => {
                 {/* Stock */}
                 <div className="flex justify-between items-center pb-2 border-b border-gray-200">
                   <span className="text-sm sm:text-base text-gray-600">
-                    Stock ({franchiseSizes[selectedSize].stockPerSqft}/sqft × {area} sqft)
+                    Stock
                   </span>
                   <span className="text-sm sm:text-base font-semibold text-gray-800">
                     ₹ {formatCurrency(costs.stock)}
@@ -677,7 +677,7 @@ const Calculator = ({ openModal }) => {
                 {/* Interior */}
                 <div className="flex justify-between items-center pb-2 border-b border-gray-200">
                   <span className="text-sm sm:text-base text-gray-600">
-                    Interior ({franchiseSizes[selectedSize].interiorPerSqft}/sqft × {area} sqft)
+                    Interior
                   </span>
                   <span className="text-sm sm:text-base font-semibold text-gray-800">
                     ₹ {formatCurrency(costs.interior)}

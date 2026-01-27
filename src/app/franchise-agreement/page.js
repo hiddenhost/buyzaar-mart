@@ -1,11 +1,11 @@
-import Footer from "../Footer";
-import Navbar from "../Navbar";
+'use client';
+
 
 
 export default function FranchiseAgreement() {
   return (
     <div className="min-h-screen bg-white">
-      <Navbar/>
+      
       <div className="pt-20">
         {/* Header Section */}
         <div className="bg-linear-to-r from-[#fd7e14] to-orange-600 py-16">
@@ -685,7 +685,7 @@ export default function FranchiseAgreement() {
 
         </div>
       </div>
-     <Footer/>
+     
      
     </div>
   );

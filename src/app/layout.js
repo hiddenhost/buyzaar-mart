@@ -10,12 +10,17 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        {/* Google Site Verification */}
+        <meta
+          name="google-site-verification"
+          content="google5cf9e9230b638e7b"
+        />
+
         {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-94S5YHVRDH"
           strategy="afterInteractive"
         />
-
         <Script id="google-analytics" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
@@ -27,10 +32,10 @@ export default function RootLayout({ children }) {
       </head>
 
       <body>
-        <Navbar/>
+        <Navbar />
         <main>{children}</main>
         <WhatsAppButton />
-        <Footer/>
+        <Footer />
       </body>
     </html>
   );

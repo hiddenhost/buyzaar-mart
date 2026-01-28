@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { citiesData } from "@/data/citiesData";
+import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
 export default function GangohContent() {
   return (
@@ -52,59 +53,72 @@ export default function GangohContent() {
         </div>
       </div>
 
-      {/* Market Opportunity Section */}
-      <div className="max-w-7xl mx-auto px-8 py-12">
-        <div className="prose prose-lg max-w-none">
+      {/* Main Content with Sidebar Form */}
+      <div className="max-w-9xl mx-auto px-8 py-12">
+        <div className="flex flex-col lg:flex-row gap-8">
+          
+          {/* Main Content - Order 1 on all screens */}
+          <div className="flex-1 order-1 lg:order-1">
+            <div className="prose prose-lg max-w-none">
 
-          <h2 className="text-2xl font-serif font-semibold mb-4">
-            Why Open a Buyzaar Mart Franchise in Gangoh?
-          </h2>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Gangoh is a growing town with increasing urbanization and rising consumer demand for organized retail.
-            The local market currently lacks modern supermarket chains, creating a significant opportunity for
-            entrepreneurs to establish a profitable retail business. With The Buyzaar Mart franchise model, you can
-            capitalize on this untapped market potential with minimal risk and maximum support.
-          </p>
+              <h2 className="text-2xl font-serif font-semibold mb-4">
+                Why Open a Buyzaar Mart Franchise in Gangoh?
+              </h2>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Gangoh is a growing town with increasing urbanization and rising consumer demand for organized retail.
+                The local market currently lacks modern supermarket chains, creating a significant opportunity for
+                entrepreneurs to establish a profitable retail business. With The Buyzaar Mart franchise model, you can
+                capitalize on this untapped market potential with minimal risk and maximum support.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Growing Market Potential in Gangoh
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Gangoh's growing population, increasing disposable income, and shift towards organized retail present
-            an ideal environment for a supermarket franchise. Families are moving away from traditional kirana stores
-            and seeking modern shopping experiences with quality products, variety, and convenience. As a Buyzaar Mart
-            franchisee in Gangoh, you'll be the first to serve this evolving market demand.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Growing Market Potential in Gangoh
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Gangoh's growing population, increasing disposable income, and shift towards organized retail present
+                an ideal environment for a supermarket franchise. Families are moving away from traditional kirana stores
+                and seeking modern shopping experiences with quality products, variety, and convenience. As a Buyzaar Mart
+                franchisee in Gangoh, you'll be the first to serve this evolving market demand.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Proven Business Model with Complete Support
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            The Buyzaar Mart offers a turnkey franchise solution with comprehensive training, inventory management
-            support, marketing assistance, and operational guidance. Our established supply chain ensures competitive
-            pricing, while our brand recognition attracts customers from day one. We handle the complexities so you
-            can focus on growing your business.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Proven Business Model with Complete Support
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                The Buyzaar Mart offers a turnkey franchise solution with comprehensive training, inventory management
+                support, marketing assistance, and operational guidance. Our established supply chain ensures competitive
+                pricing, while our brand recognition attracts customers from day one. We handle the complexities so you
+                can focus on growing your business.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-  Cost-Effective Entry with Long-Term Growth Potential
-</h3>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Cost-Effective Entry with Long-Term Growth Potential
+              </h3>
 
-<p className="text-gray-700 leading-relaxed">
-  The Buyzaar Mart franchise model is structured to offer a practical investment entry
-  aligned with store scale and local demand. Investment begins with the
-  <strong> Mini Mart format (600–1000 sq.ft)</strong> at
-  <strong> ₹14,71,080</strong>, followed by the
-  <strong> Super Mart format (1001–3000 sq.ft)</strong> at
-  <strong> ₹25,07,232</strong>. For entrepreneurs planning large-format retail operations,
-  the <strong>Hyper Mart format (3001–8000 sq.ft)</strong> requires an investment of
-  <strong> ₹75,17,645</strong>.
-  <br /><br />
-  Built around high-demand daily essentials, repeat customer behavior, and efficient
-  supply-chain support, the model is designed to support consistent revenue generation
-  and sustainable business growth over time.
-</p>
+              <p className="text-gray-700 leading-relaxed">
+                The Buyzaar Mart franchise model is structured to offer a practical investment entry
+                aligned with store scale and local demand. Investment begins with the
+                <strong> Mini Mart format (600–1000 sq.ft)</strong> at
+                <strong> ₹14,71,080</strong>, followed by the
+                <strong> Super Mart format (1001–3000 sq.ft)</strong> at
+                <strong> ₹25,07,232</strong>. For entrepreneurs planning large-format retail operations,
+                the <strong>Hyper Mart format (3001–8000 sq.ft)</strong> requires an investment of
+                <strong> ₹75,17,645</strong>.
+                <br /><br />
+                Built around high-demand daily essentials, repeat customer behavior, and efficient
+                supply-chain support, the model is designed to support consistent revenue generation
+                and sustainable business growth over time.
+              </p>
 
+            </div>
+          </div>
+
+          {/* Form Section - Smart positioning with CSS order */}
+          <div className="w-full lg:w-[400px] xl:w-[500px] p-8 order-2 lg:order-2">
+            <div className="lg:sticky lg:top-28">
+              <FranchiseEnquiryForm />
+            </div>
+          </div>
 
         </div>
       </div>
@@ -147,9 +161,6 @@ export default function GangohContent() {
           </div>
         </div>
       </div>
-
-      {/* Investment Details Section */}
-      
 
       {/* Other Cities Section */}
       <div className="bg-white py-12">

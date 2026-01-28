@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { citiesData } from "@/data/citiesData";
+import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
 export default function MuzaffarnagarContent() {
   return (
@@ -52,73 +53,86 @@ export default function MuzaffarnagarContent() {
         </div>
       </div>
 
-      {/* Market Opportunity Section */}
-      <div className="max-w-7xl mx-auto px-8 py-12">
-        <div className="prose prose-lg max-w-none">
+      {/* Main Content with Sidebar Form */}
+      <div className="max-w-9xl mx-auto px-8 py-12">
+        <div className="flex flex-col lg:flex-row gap-8">
+          
+          {/* Main Content - Order 1 on all screens */}
+          <div className="flex-1 order-1 lg:order-1">
+            <div className="prose prose-lg max-w-none">
 
-          <h2 className="text-2xl font-serif font-semibold mb-4">
-            Why Muzaffarnagar is Perfect for a Buyzaar Mart Franchise
-          </h2>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Muzaffarnagar is a thriving commercial center with a population exceeding 4 lakhs and rapidly growing
-            suburbs. The city's strong economy, driven by sugar mills, paper industries, and agricultural trade,
-            has created a prosperous middle class with high purchasing power. The organized retail sector is still
-            underpenetrated, making this the perfect time to establish a Buyzaar Mart franchise and capture
-            significant market share.
-          </p>
+              <h2 className="text-2xl font-serif font-semibold mb-4">
+                Why Muzaffarnagar is Perfect for a Buyzaar Mart Franchise
+              </h2>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Muzaffarnagar is a thriving commercial center with a population exceeding 4 lakhs and rapidly growing
+                suburbs. The city's strong economy, driven by sugar mills, paper industries, and agricultural trade,
+                has created a prosperous middle class with high purchasing power. The organized retail sector is still
+                underpenetrated, making this the perfect time to establish a Buyzaar Mart franchise and capture
+                significant market share.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            High-Growth Market with Strong Consumer Base
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Muzaffarnagar's strategic location on the Delhi-Dehradun highway and its role as a district headquarters
-            attract shoppers from surrounding areas. The city's growing residential colonies, increased nuclear families,
-            and changing lifestyle preferences have created strong demand for modern retail outlets. A Buyzaar Mart
-            franchise here will serve not just the city but also customers from nearby towns, ensuring high footfall
-            and consistent revenue.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                High-Growth Market with Strong Consumer Base
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Muzaffarnagar's strategic location on the Delhi-Dehradun highway and its role as a district headquarters
+                attract shoppers from surrounding areas. The city's growing residential colonies, increased nuclear families,
+                and changing lifestyle preferences have created strong demand for modern retail outlets. A Buyzaar Mart
+                franchise here will serve not just the city but also customers from nearby towns, ensuring high footfall
+                and consistent revenue.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Complete Franchise Support System
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            The Buyzaar Mart provides end-to-end franchise support including site selection assistance, store setup
-            and design, comprehensive training programs, inventory management systems, POS and billing software,
-            marketing and advertising support, and continuous operational guidance. Our field support team regularly
-            visits franchise locations to ensure smooth operations and profitability. You're never alone in this
-            business journey.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Complete Franchise Support System
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                The Buyzaar Mart provides end-to-end franchise support including site selection assistance, store setup
+                and design, comprehensive training programs, inventory management systems, POS and billing software,
+                marketing and advertising support, and continuous operational guidance. Our field support team regularly
+                visits franchise locations to ensure smooth operations and profitability. You're never alone in this
+                business journey.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-  Attractive Investment with Scalable Return Potential
-</h3>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Attractive Investment with Scalable Return Potential
+              </h3>
 
-<p className="text-gray-700 leading-relaxed mb-6">
-  Buyzaar Mart offers a structured franchise investment model aligned with store size and
-  operational capacity. The <strong>Mini Mart format (600–1000 sq.ft)</strong> requires an
-  investment of <strong>₹14,71,080</strong>, making it a practical entry point for residential
-  and neighborhood-focused locations.
-  <br /><br />
-  The <strong>Super Mart format (1001–3000 sq.ft)</strong> involves an investment of
-  <strong>₹25,07,232</strong> and is well-suited for high-footfall areas, offering a wider
-  assortment of daily essentials and increased sales potential.
-  <br /><br />
-  For large-scale retail operations, the <strong>Hyper Mart format (3001–8000 sq.ft)</strong>
-  requires an investment of <strong>₹75,17,645</strong>. This format is designed for commercial
-  hubs and high-density zones, supporting bulk inventory, multiple product categories, and
-  long-term business scalability.
-</p>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Buyzaar Mart offers a structured franchise investment model aligned with store size and
+                operational capacity. The <strong>Mini Mart format (600–1000 sq.ft)</strong> requires an
+                investment of <strong>₹14,71,080</strong>, making it a practical entry point for residential
+                and neighborhood-focused locations.
+                <br /><br />
+                The <strong>Super Mart format (1001–3000 sq.ft)</strong> involves an investment of
+                <strong>₹25,07,232</strong> and is well-suited for high-footfall areas, offering a wider
+                assortment of daily essentials and increased sales potential.
+                <br /><br />
+                For large-scale retail operations, the <strong>Hyper Mart format (3001–8000 sq.ft)</strong>
+                requires an investment of <strong>₹75,17,645</strong>. This format is designed for commercial
+                hubs and high-density zones, supporting bulk inventory, multiple product categories, and
+                long-term business scalability.
+              </p>
 
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Established Supply Chain and Competitive Pricing
+              </h3>
+              <p className="text-gray-700 leading-relaxed">
+                Benefit from our established relationships with 500+ suppliers and manufacturers. Our centralized
+                procurement ensures you get the best wholesale rates, allowing competitive retail pricing while
+                maintaining healthy margins. Automated inventory replenishment, just-in-time delivery, and zero stock-out
+                policies keep your shelves full and customers happy.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Established Supply Chain and Competitive Pricing
-          </h3>
-          <p className="text-gray-700 leading-relaxed">
-            Benefit from our established relationships with 500+ suppliers and manufacturers. Our centralized
-            procurement ensures you get the best wholesale rates, allowing competitive retail pricing while
-            maintaining healthy margins. Automated inventory replenishment, just-in-time delivery, and zero stock-out
-            policies keep your shelves full and customers happy.
-          </p>
+            </div>
+          </div>
+
+          {/* Form Section - Smart positioning with CSS order */}
+          <div className="w-full lg:w-[400px] xl:w-[500px] p-8 order-2 lg:order-2">
+            <div className="lg:sticky lg:top-28">
+              <FranchiseEnquiryForm />
+            </div>
+          </div>
 
         </div>
       </div>
@@ -153,12 +167,8 @@ export default function MuzaffarnagarContent() {
               </div>
             ))}
           </div>
-
-          
         </div>
       </div>
-
-      
 
       {/* Other Cities Section */}
       <div className="bg-white py-12">

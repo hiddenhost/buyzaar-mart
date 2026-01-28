@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { citiesData } from "@/data/citiesData";
+import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
 export default function MeerutContent() {
   return (
@@ -52,101 +53,108 @@ export default function MeerutContent() {
         </div>
       </div>
 
-      {/* Market Opportunity Section */}
-      <div className="max-w-7xl mx-auto px-8 py-12">
-        <div className="prose prose-lg max-w-none">
+      {/* Main Content with Sidebar Form */}
+      <div className="max-w-9xl mx-auto px-8 py-12">
+        <div className="flex flex-col lg:flex-row gap-8">
+          
+          {/* Main Content - Order 1 on all screens */}
+          <div className="flex-1 order-1 lg:order-1">
+            <div className="prose prose-lg max-w-none">
 
-          <h2 className="text-2xl font-serif font-semibold mb-4">
-            Why Meerut is a Goldmine for Supermarket Franchise Business
-          </h2>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Meerut, with over 15 lakh population, is the second-largest city in western Uttar Pradesh and a major
-            commercial hub in the NCR region. The city's strategic location just 70 km from Delhi, excellent
-            connectivity via expressways and metro, and strong industrial base (sports goods, scissors, engineering)
-            have created a prosperous middle and upper-middle class with high disposable income. The city is
-            witnessing rapid urbanization with multiple new residential projects, shopping complexes, and lifestyle
-            changes that favor organized retail. This makes Meerut an ideal location for a high-revenue Buyzaar Mart
-            franchise.
-          </p>
+              <h2 className="text-2xl font-serif font-semibold mb-4">
+                Why Meerut is a Goldmine for Supermarket Franchise Business
+              </h2>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Meerut, with over 15 lakh population, is the second-largest city in western Uttar Pradesh and a major
+                commercial hub in the NCR region. The city's strategic location just 70 km from Delhi, excellent
+                connectivity via expressways and metro, and strong industrial base (sports goods, scissors, engineering)
+                have created a prosperous middle and upper-middle class with high disposable income. The city is
+                witnessing rapid urbanization with multiple new residential projects, shopping complexes, and lifestyle
+                changes that favor organized retail. This makes Meerut an ideal location for a high-revenue Buyzaar Mart
+                franchise.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Massive Market Size with Growing Organized Retail Demand
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Meerut's retail market is estimated at over ₹5000 crores annually, with organized retail penetration
-            still below 15%. The city has numerous residential colonies like Shastri Nagar, Jagriti Vihar, Ganganagar,
-            Pallavpuram, and new developing areas that are home to educated, affluent families seeking quality shopping
-            experiences. Modern consumers prefer one-stop shopping destinations offering variety, quality assurance,
-            and convenience. A well-located Buyzaar Mart franchise can easily capture 500-800 daily customers,
-            generating monthly revenues of ₹15-25 lakhs with healthy profit margins.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Massive Market Size with Growing Organized Retail Demand
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Meerut's retail market is estimated at over ₹5000 crores annually, with organized retail penetration
+                still below 15%. The city has numerous residential colonies like Shastri Nagar, Jagriti Vihar, Ganganagar,
+                Pallavpuram, and new developing areas that are home to educated, affluent families seeking quality shopping
+                experiences. Modern consumers prefer one-stop shopping destinations offering variety, quality assurance,
+                and convenience. A well-located Buyzaar Mart franchise can easily capture 500-800 daily customers,
+                generating monthly revenues of ₹15-25 lakhs with healthy profit margins.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            End-to-End Franchise Support for Guaranteed Success
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            The Buyzaar Mart franchise model is designed for both experienced retailers and first-time entrepreneurs.
-            We provide comprehensive support including detailed market analysis and site selection, lease negotiation
-            assistance, complete store design and layout planning, fixture procurement and installation, initial
-            inventory planning and stocking, 20-day intensive training program covering operations, billing, inventory
-            management, customer service, and vendor management. Post-launch, you receive continuous field support,
-            mystery shopping audits, performance analytics, and business optimization recommendations.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                End-to-End Franchise Support for Guaranteed Success
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                The Buyzaar Mart franchise model is designed for both experienced retailers and first-time entrepreneurs.
+                We provide comprehensive support including detailed market analysis and site selection, lease negotiation
+                assistance, complete store design and layout planning, fixture procurement and installation, initial
+                inventory planning and stocking, 20-day intensive training program covering operations, billing, inventory
+                management, customer service, and vendor management. Post-launch, you receive continuous field support,
+                mystery shopping audits, performance analytics, and business optimization recommendations.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-  Competitive Investment with Multiple Revenue Streams
-</h3>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Competitive Investment with Multiple Revenue Streams
+              </h3>
 
-<p className="text-gray-700 leading-relaxed mb-6">
-  Buyzaar Mart franchise models are designed to offer competitive entry investment with
-  multiple income opportunities. The <strong>Mini Mart format (600–1000 sq.ft)</strong>
-  requires an investment of <strong>₹14,71,080</strong>, making it a cost-effective option
-  for residential and neighborhood markets. The <strong>Super Mart format (1001–3000 sq.ft)</strong>
-  involves an investment of <strong>₹25,07,232</strong>, ideal for high-footfall locations and
-  mixed-use commercial areas. For large-scale retail operations, the
-  <strong> Hyper Mart format (3001–8000 sq.ft)</strong> requires an investment of
-  <strong>₹75,17,645</strong>, offering higher volume sales and scalability.
-  <br /><br />
-  In addition to regular retail margins, franchise partners benefit from diversified revenue
-  streams such as private label products with higher profit margins, supplier-backed promotional
-  incentives, digital payment commissions, branded in-store display rentals, and loyalty-driven
-  customer retention programs. With these combined revenue channels, franchisees can achieve
-  healthy overall profitability and a structured path toward operational break-even.
-</p>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Buyzaar Mart franchise models are designed to offer competitive entry investment with
+                multiple income opportunities. The <strong>Mini Mart format (600–1000 sq.ft)</strong>
+                requires an investment of <strong>₹14,71,080</strong>, making it a cost-effective option
+                for residential and neighborhood markets. The <strong>Super Mart format (1001–3000 sq.ft)</strong>
+                involves an investment of <strong>₹25,07,232</strong>, ideal for high-footfall locations and
+                mixed-use commercial areas. For large-scale retail operations, the
+                <strong> Hyper Mart format (3001–8000 sq.ft)</strong> requires an investment of
+                <strong>₹75,17,645</strong>, offering higher volume sales and scalability.
+                <br /><br />
+                In addition to regular retail margins, franchise partners benefit from diversified revenue
+                streams such as private label products with higher profit margins, supplier-backed promotional
+                incentives, digital payment commissions, branded in-store display rentals, and loyalty-driven
+                customer retention programs. With these combined revenue channels, franchisees can achieve
+                healthy overall profitability and a structured path toward operational break-even.
+              </p>
 
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Advanced Technology and Supply Chain Infrastructure
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Our state-of-the-art technology platform includes cloud-based POS with real-time synchronization,
+                automated inventory management with AI-based demand forecasting, integrated accounting and financial
+                reporting, customer relationship management with purchase history, employee attendance and payroll
+                management, and centralized pricing and promotional campaign management. Our regional distribution center
+                ensures daily deliveries of fresh produce and dairy, weekly replenishment of grocery and FMCG, and
+                just-in-time delivery to minimize working capital requirements.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Advanced Technology and Supply Chain Infrastructure
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Our state-of-the-art technology platform includes cloud-based POS with real-time synchronization,
-            automated inventory management with AI-based demand forecasting, integrated accounting and financial
-            reporting, customer relationship management with purchase history, employee attendance and payroll
-            management, and centralized pricing and promotional campaign management. Our regional distribution center
-            ensures daily deliveries of fresh produce and dairy, weekly replenishment of grocery and FMCG, and
-            just-in-time delivery to minimize working capital requirements.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Brand Marketing and Local Market Activation
+              </h3>
+              <p className="text-gray-700 leading-relaxed">
+                Benefit from our comprehensive marketing support including national brand campaigns on TV and digital
+                platforms, regional print and outdoor advertising in Meerut, professional social media management and
+                local SEO, grand opening campaigns with local celebrity presence, ongoing promotional calendars tied to
+                festivals and events, in-store merchandising and visual display support, and collaboration with local
+                RWAs and housing societies. We also provide ready-to-use marketing collaterals, pamphlets, and promotional
+                materials customized for Meerut market.
+              </p>
+              
+            </div>
+          </div>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Brand Marketing and Local Market Activation
-          </h3>
-          <p className="text-gray-700 leading-relaxed">
-            Benefit from our comprehensive marketing support including national brand campaigns on TV and digital
-            platforms, regional print and outdoor advertising in Meerut, professional social media management and
-            local SEO, grand opening campaigns with local celebrity presence, ongoing promotional calendars tied to
-            festivals and events, in-store merchandising and visual display support, and collaboration with local
-            RWAs and housing societies. We also provide ready-to-use marketing collaterals, pamphlets, and promotional
-            materials customized for Meerut market.
-          </p>
+          {/* Form Section - Smart positioning with CSS order */}
+          <div className="w-full lg:w-[400px] xl:w-[500px] p-8 order-2 lg:order-2">
+            <div className="lg:sticky lg:top-28">
+              <FranchiseEnquiryForm />
+            </div>
+          </div>
 
         </div>
       </div>
-
-      
-     
-        
-
-      
 
       {/* Other Cities Section */}
       <div className="bg-gray-50 py-12">
@@ -190,7 +198,7 @@ export default function MeerutContent() {
                     <h3 className="text-lg font-serif font-medium text-gray-900 group-hover:text-green-600 transition-colors duration-300">
                       {city.name} Franchise
                     </h3>
-                    <p className="text-sm text-gray-500">Learn more →</p>
+                    <p className="text-sm text-gray-500">View details →</p>
                   </div>
                 </div>
               </Link>

@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { citiesData } from "@/data/citiesData";
+import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
 export default function NoidaContent() {
   return (
@@ -52,106 +53,120 @@ export default function NoidaContent() {
         </div>
       </div>
 
-      {/* Market Opportunity Section */}
-      <div className="max-w-7xl mx-auto px-8 py-12">
-        <div className="prose prose-lg max-w-none">
+      {/* Main Content with Sidebar Form */}
+      <div className="max-w-9xl mx-auto px-8 py-12">
+        <div className="flex flex-col lg:flex-row gap-8">
+          
+          {/* Main Content - Order 1 on all screens */}
+          <div className="flex-1 order-1 lg:order-1">
+            <div className="prose prose-lg max-w-none">
 
-          <h2 className="text-2xl font-serif font-semibold mb-4">
-            Why Noida is India's Most Lucrative Market for Supermarket Franchises
-          </h2>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Noida stands as one of India's most prosperous cities with a population exceeding 8 lakhs and per capita
-            income among the highest in the country. Home to IT professionals, corporate executives, and business
-            families, Noida's demographic profile is characterized by high purchasing power, modern lifestyle choices,
-            and preference for quality retail experiences. With over 150 residential societies, numerous commercial
-            complexes, and continuous infrastructure development including metro expansion and Noida International
-            Airport, the city offers unparalleled growth potential. The organized retail market in Noida is estimated
-            at ₹8000+ crores annually and growing at 20%+ CAGR, making it the perfect location for a premium Buyzaar
-            Mart franchise.
-          </p>
+              <h2 className="text-2xl font-serif font-semibold mb-4">
+                Why Noida is India's Most Lucrative Market for Supermarket Franchises
+              </h2>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Noida stands as one of India's most prosperous cities with a population exceeding 8 lakhs and per capita
+                income among the highest in the country. Home to IT professionals, corporate executives, and business
+                families, Noida's demographic profile is characterized by high purchasing power, modern lifestyle choices,
+                and preference for quality retail experiences. With over 150 residential societies, numerous commercial
+                complexes, and continuous infrastructure development including metro expansion and Noida International
+                Airport, the city offers unparalleled growth potential. The organized retail market in Noida is estimated
+                at ₹8000+ crores annually and growing at 20%+ CAGR, making it the perfect location for a premium Buyzaar
+                Mart franchise.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Premium Consumer Base with High Spending Power
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Noida's resident profile includes IT professionals earning ₹8-30 lakhs annually, corporate executives in
-            multinational companies, entrepreneurs and business owners, and expatriate families. This demographic
-            seeks premium products, imported goods, organic options, and gourmet foods - categories with significantly
-            higher margins. Average basket size in Noida supermarkets ranges from ₹800-1500, substantially higher than
-            tier-2 cities. Sectors like 50, 78, 62, 137, 168, and Greater Noida West have thousands of high-rise
-            apartments where residents prefer organized retail for convenience and quality. A well-positioned Buyzaar
-            Mart franchise can achieve daily footfall of 800-1200 customers with monthly revenues exceeding ₹30-50 lakhs.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Premium Consumer Base with High Spending Power
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Noida's resident profile includes IT professionals earning ₹8-30 lakhs annually, corporate executives in
+                multinational companies, entrepreneurs and business owners, and expatriate families. This demographic
+                seeks premium products, imported goods, organic options, and gourmet foods - categories with significantly
+                higher margins. Average basket size in Noida supermarkets ranges from ₹800-1500, substantially higher than
+                tier-2 cities. Sectors like 50, 78, 62, 137, 168, and Greater Noida West have thousands of high-rise
+                apartments where residents prefer organized retail for convenience and quality. A well-positioned Buyzaar
+                Mart franchise can achieve daily footfall of 800-1200 customers with monthly revenues exceeding ₹30-50 lakhs.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Comprehensive Franchise Ecosystem for Success
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            The Buyzaar Mart franchise package for Noida includes premium market analysis with demographic mapping,
-            site selection support with footfall and visibility assessment, architectural design optimized for Noida's
-            upmarket consumers, complete fixture and refrigeration setup, curated product assortment tailored for
-            premium market, 25-day executive training program covering advanced retail management, dedicated account
-            manager for Noida region, mystery shopping and performance audits, and access to our supplier network of
-            800+ brands including international labels. Our technology platform provides real-time business intelligence,
-            automated ordering, customer analytics, and financial dashboards accessible from mobile devices.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Comprehensive Franchise Ecosystem for Success
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                The Buyzaar Mart franchise package for Noida includes premium market analysis with demographic mapping,
+                site selection support with footfall and visibility assessment, architectural design optimized for Noida's
+                upmarket consumers, complete fixture and refrigeration setup, curated product assortment tailored for
+                premium market, 25-day executive training program covering advanced retail management, dedicated account
+                manager for Noida region, mystery shopping and performance audits, and access to our supplier network of
+                800+ brands including international labels. Our technology platform provides real-time business intelligence,
+                automated ordering, customer analytics, and financial dashboards accessible from mobile devices.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Investment Options Tailored for Noida Market
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-  Buyzaar Mart offers flexible franchise investment options based on store size and operational scale.
-  The <strong>Mini Mart format (600–1000 sq.ft)</strong> requires an investment of
-  <strong> ₹14,71,080</strong>, making it ideal for residential areas and neighborhood markets,
-  featuring essential FMCG products, daily groceries, and standard shelving infrastructure.
-  <br /><br />
-  The <strong>Super Mart format (1001–3000 sq.ft)</strong> involves an investment of
-  <strong> ₹25,07,232</strong>, suitable for high-footfall localities and mixed-use areas.
-  This format includes an expanded product range with fresh produce, packaged foods,
-  household essentials, and enhanced billing and inventory systems.
-  <br /><br />
-  For large-scale retail operations, the <strong>Hyper Mart format (3001–8000 sq.ft)</strong>
-  requires an investment of <strong> ₹75,17,645</strong>. Designed for commercial hubs
-  and high-density zones, this format offers extensive inventory capacity, wide product categories,
-  bulk purchasing options, advanced store layout, and higher revenue potential.
-</p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Investment Options Tailored for Noida Market
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Buyzaar Mart offers flexible franchise investment options based on store size and operational scale.
+                The <strong>Mini Mart format (600–1000 sq.ft)</strong> requires an investment of
+                <strong> ₹14,71,080</strong>, making it ideal for residential areas and neighborhood markets,
+                featuring essential FMCG products, daily groceries, and standard shelving infrastructure.
+                <br /><br />
+                The <strong>Super Mart format (1001–3000 sq.ft)</strong> involves an investment of
+                <strong> ₹25,07,232</strong>, suitable for high-footfall localities and mixed-use areas.
+                This format includes an expanded product range with fresh produce, packaged foods,
+                household essentials, and enhanced billing and inventory systems.
+                <br /><br />
+                For large-scale retail operations, the <strong>Hyper Mart format (3001–8000 sq.ft)</strong>
+                requires an investment of <strong> ₹75,17,645</strong>. Designed for commercial hubs
+                and high-density zones, this format offers extensive inventory capacity, wide product categories,
+                bulk purchasing options, advanced store layout, and higher revenue potential.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Revenue Maximization Through Multiple Channels
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Noida franchises benefit from diversified revenue streams beyond regular retail sales. These include
-            premium private label products with 30-40% margins, corporate tie-ups for pantry supplies and bulk orders,
-            home delivery services with delivery charges, subscription boxes for weekly/monthly groceries, brand
-            display and promotion fees, loyalty program partnerships with credit card companies, event sponsorships
-            in residential societies, and festive gift hamper sales during Diwali, New Year, Holi. Many successful
-            franchisees also leverage B2B sales to nearby restaurants, cafes, and offices, adding 15-25% to revenue.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Revenue Maximization Through Multiple Channels
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Noida franchises benefit from diversified revenue streams beyond regular retail sales. These include
+                premium private label products with 30-40% margins, corporate tie-ups for pantry supplies and bulk orders,
+                home delivery services with delivery charges, subscription boxes for weekly/monthly groceries, brand
+                display and promotion fees, loyalty program partnerships with credit card companies, event sponsorships
+                in residential societies, and festive gift hamper sales during Diwali, New Year, Holi. Many successful
+                franchisees also leverage B2B sales to nearby restaurants, cafes, and offices, adding 15-25% to revenue.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Technology-Driven Operations and Customer Experience
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Our proprietary retail management platform offers omnichannel capabilities with mobile app integration,
-            AI-powered inventory optimization to minimize dead stock, dynamic pricing engine for competitive advantage,
-            CRM with personalized promotions based on purchase history, automated vendor ordering and reconciliation,
-            real-time P&L tracking and financial analytics, employee scheduling and productivity monitoring, and
-            integrated e-wallet and UPI payment systems. The platform also supports online ordering with home delivery,
-            crucial for Noida's tech-savvy consumers who increasingly prefer digital convenience.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Technology-Driven Operations and Customer Experience
+              </h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Our proprietary retail management platform offers omnichannel capabilities with mobile app integration,
+                AI-powered inventory optimization to minimize dead stock, dynamic pricing engine for competitive advantage,
+                CRM with personalized promotions based on purchase history, automated vendor ordering and reconciliation,
+                real-time P&L tracking and financial analytics, employee scheduling and productivity monitoring, and
+                integrated e-wallet and UPI payment systems. The platform also supports online ordering with home delivery,
+                crucial for Noida's tech-savvy consumers who increasingly prefer digital convenience.
+              </p>
 
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Marketing and Brand Building in Noida
-          </h3>
-          <p className="text-gray-700 leading-relaxed">
-            Noida franchise marketing includes strategic outdoor advertising on metro stations and main roads,
-            digital marketing with geo-targeted social media campaigns, influencer partnerships with Noida-based
-            lifestyle bloggers, society tie-ups with exclusive resident offers, corporate partnerships for employee
-            discount programs, event sponsorships at Noida Marathon, exhibitions, and cultural festivals, PR
-            campaigns in local newspapers and FM radio, and collaboration with food delivery platforms. We provide
-            monthly marketing budget support and creative assets designed specifically for Noida's urban, educated
-            demographic.
-          </p>
+              <h3 className="text-xl font-serif font-semibold mb-3">
+                Marketing and Brand Building in Noida
+              </h3>
+              <p className="text-gray-700 leading-relaxed">
+                Noida franchise marketing includes strategic outdoor advertising on metro stations and main roads,
+                digital marketing with geo-targeted social media campaigns, influencer partnerships with Noida-based
+                lifestyle bloggers, society tie-ups with exclusive resident offers, corporate partnerships for employee
+                discount programs, event sponsorships at Noida Marathon, exhibitions, and cultural festivals, PR
+                campaigns in local newspapers and FM radio, and collaboration with food delivery platforms. We provide
+                monthly marketing budget support and creative assets designed specifically for Noida's urban, educated
+                demographic.
+              </p>
+
+            </div>
+          </div>
+
+          {/* Form Section - Smart positioning with CSS order */}
+          <div className="w-full lg:w-[400px] xl:w-[500px] p-8 order-2 lg:order-2">
+            <div className="lg:sticky lg:top-28">
+              <FranchiseEnquiryForm />
+            </div>
+          </div>
 
         </div>
       </div>
@@ -189,12 +204,8 @@ export default function NoidaContent() {
               </div>
             ))}
           </div>
-
-          
         </div>
       </div>
-
-      
 
       {/* Prime Locations in Noida */}
       <div className="bg-white py-12">

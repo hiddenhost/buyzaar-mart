@@ -2,16 +2,17 @@ import React from "react";
 import Content from "./Content";
 
 export const metadata = {
-  title: "Muzaffarnagar | Supermarket & Grocery Store",
+  title: "Buyzaar Mart Franchise in Muzaffarnagar | Supermarket Franchise Opportunity",
   description:
-    "Leading supermarket and grocery store in Muzaffarnagar offering fresh groceries, daily essentials, packaged foods, personal care products, and household items at competitive prices.",
+    "Open a profitable Buyzaar Mart supermarket franchise in Muzaffarnagar. Investment: ₹15-25 lakhs. Complete training, supply chain support, and marketing assistance. Apply now!",
   keywords: [
-    "supermarket in muzaffarnagar",
-    "grocery store muzaffarnagar",
-    "daily needs store muzaffarnagar",
-    "buyzaar mart muzaffarnagar",
-    "retail store muzaffarnagar",
-    "fresh groceries muzaffarnagar"
+    "buyzaar mart franchise muzaffarnagar",
+    "supermarket franchise muzaffarnagar",
+    "grocery franchise muzaffarnagar",
+    "retail franchise opportunity muzaffarnagar",
+    "franchise business muzaffarnagar",
+    "buyzaar mart dealership muzaffarnagar",
+    "supermarket business opportunity muzaffarnagar"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/cities/muzaffarnagar",
@@ -19,9 +20,9 @@ export const metadata = {
 
   // ✅ OPEN GRAPH
   openGraph: {
-    title: "Muzaffarnagar | Supermarket & Grocery Store",
+    title: "Buyzaar Mart Franchise in Muzaffarnagar | Supermarket Franchise Opportunity",
     description:
-      "Leading supermarket and grocery store in Muzaffarnagar offering fresh groceries, daily essentials, packaged foods, personal care products, and household items at competitive prices.",
+      "Open a profitable Buyzaar Mart supermarket franchise in Muzaffarnagar. Investment: ₹15-25 lakhs. Complete training, supply chain support, and marketing assistance.",
     url: "https://www.thebuyzaarmart.com/cities/muzaffarnagar",
     siteName: "The Buyzaar Mart",
     images: [
@@ -29,7 +30,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Muzaffarnagar | Supermarket & Grocery Store",
+        alt: "Buyzaar Mart Franchise Opportunity in Muzaffarnagar",
       },
     ],
     locale: "en_IN",
@@ -39,9 +40,9 @@ export const metadata = {
   // ✅ TWITTER
   twitter: {
     card: "summary_large_image",
-    title: "Muzaffarnagar | Supermarket & Grocery Store",
+    title: "Buyzaar Mart Franchise in Muzaffarnagar | Supermarket Franchise",
     description:
-      "Visit The Buyzaar Mart in Muzaffarnagar for fresh groceries, daily essentials, and quality products at the best prices.",
+      "Start your profitable supermarket franchise in Muzaffarnagar with complete support from Buyzaar Mart. Apply today!",
     images: ["https://www.thebuyzaarmart.com/logo.jpg"],
   },
 

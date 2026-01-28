@@ -33,91 +33,114 @@ export default function MuzaffarnagarContent() {
           </div>
 
           <h1 className="text-3xl md:text-5xl font-medium font-serif text-center mb-4">
-            Muzaffarnagar – Your Trusted Supermarket & Grocery Store
+            Buyzaar Mart Franchise Opportunity in Muzaffarnagar
           </h1>
 
-          <p className="text-gray-700 text-center text-lg mb-0 max-w-7xl mx-auto leading-relaxed">
-            Muzaffarnagar is a bustling city with a vibrant community that values quality, convenience, and affordability.
-            The Buyzaar Mart is proud to serve Muzaffarnagar residents with a comprehensive selection of fresh groceries,
-            daily essentials, packaged foods, personal care products, and household items. We are committed to providing
-            a modern shopping experience that combines quality products, competitive pricing, and exceptional customer service.
+          <p className="text-gray-700 text-center text-lg mb-6 max-w-7xl mx-auto leading-relaxed">
+            Establish a profitable supermarket franchise in Muzaffarnagar, one of western UP's major commercial hubs.
+            Partner with The Buyzaar Mart and leverage our proven business model for guaranteed success.
           </p>
+
+          <div className="flex justify-center">
+            <Link
+              href="/franchise"
+              className="bg-green-600 text-white px-8 py-4 rounded-lg hover:bg-green-700 transition-all duration-300 font-semibold text-lg shadow-lg hover:shadow-xl"
+            >
+              Apply for Franchise
+            </Link>
+          </div>
         </div>
       </div>
 
-      {/* SEO Content Section */}
+      {/* Market Opportunity Section */}
       <div className="max-w-7xl mx-auto px-8 py-12">
         <div className="prose prose-lg max-w-none">
 
           <h2 className="text-2xl font-serif font-semibold mb-4">
-            Premier Supermarket in Muzaffarnagar for All Your Shopping Needs
+            Why Muzaffarnagar is Perfect for a Buyzaar Mart Franchise
           </h2>
           <p className="text-gray-700 leading-relaxed mb-6">
-            As one of the major cities in western Uttar Pradesh, Muzaffarnagar has a growing demand for organized
-            retail and modern shopping experiences. The Buyzaar Mart meets this demand by offering a clean, well-stocked
-            supermarket where families can find everything they need in one convenient location. From fresh produce to
-            household essentials, we ensure quality and freshness in every product we offer.
+            Muzaffarnagar is a thriving commercial center with a population exceeding 4 lakhs and rapidly growing
+            suburbs. The city's strong economy, driven by sugar mills, paper industries, and agricultural trade,
+            has created a prosperous middle class with high purchasing power. The organized retail sector is still
+            underpenetrated, making this the perfect time to establish a Buyzaar Mart franchise and capture
+            significant market share.
           </p>
 
           <h3 className="text-xl font-serif font-semibold mb-3">
-            Comprehensive Product Selection for Every Household
+            High-Growth Market with Strong Consumer Base
           </h3>
           <p className="text-gray-700 leading-relaxed mb-6">
-            Our Muzaffarnagar store features an extensive range of products including fresh fruits and vegetables,
-            dairy products, premium groceries, snacks and beverages, cooking essentials, personal care items, baby
-            products, and household cleaning supplies. We partner with leading brands and trusted suppliers to ensure
-            that our customers receive only the best quality products every time they shop with us.
+            Muzaffarnagar's strategic location on the Delhi-Dehradun highway and its role as a district headquarters
+            attract shoppers from surrounding areas. The city's growing residential colonies, increased nuclear families,
+            and changing lifestyle preferences have created strong demand for modern retail outlets. A Buyzaar Mart
+            franchise here will serve not just the city but also customers from nearby towns, ensuring high footfall
+            and consistent revenue.
           </p>
 
           <h3 className="text-xl font-serif font-semibold mb-3">
-            Competitive Pricing with Regular Offers and Discounts
+            Complete Franchise Support System
           </h3>
           <p className="text-gray-700 leading-relaxed mb-6">
-            At The Buyzaar Mart Muzaffarnagar, we understand the importance of value for money. Our pricing strategy
-            is designed to offer the best deals without compromising on quality. We regularly feature special offers,
-            seasonal discounts, and combo deals that help families save money on their monthly shopping expenses. Our
-            goal is to make quality products accessible and affordable for everyone in Muzaffarnagar.
+            The Buyzaar Mart provides end-to-end franchise support including site selection assistance, store setup
+            and design, comprehensive training programs, inventory management systems, POS and billing software,
+            marketing and advertising support, and continuous operational guidance. Our field support team regularly
+            visits franchise locations to ensure smooth operations and profitability. You're never alone in this
+            business journey.
           </p>
 
           <h3 className="text-xl font-serif font-semibold mb-3">
-            Modern Shopping Experience with Customer Convenience
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            We have designed our store layout to ensure a hassle-free shopping experience. Wide aisles, clearly marked
-            sections, organized shelves, and a clean environment make it easy for customers to find what they need quickly.
-            Our friendly and knowledgeable staff are always available to assist you with product information, recommendations,
-            and any queries you may have.
-          </p>
+  Attractive Investment with Scalable Return Potential
+</h3>
+
+<p className="text-gray-700 leading-relaxed mb-6">
+  Buyzaar Mart offers a structured franchise investment model aligned with store size and
+  operational capacity. The <strong>Mini Mart format (600–1000 sq.ft)</strong> requires an
+  investment of <strong>₹14,71,080</strong>, making it a practical entry point for residential
+  and neighborhood-focused locations.
+  <br /><br />
+  The <strong>Super Mart format (1001–3000 sq.ft)</strong> involves an investment of
+  <strong>₹25,07,232</strong> and is well-suited for high-footfall areas, offering a wider
+  assortment of daily essentials and increased sales potential.
+  <br /><br />
+  For large-scale retail operations, the <strong>Hyper Mart format (3001–8000 sq.ft)</strong>
+  requires an investment of <strong>₹75,17,645</strong>. This format is designed for commercial
+  hubs and high-density zones, supporting bulk inventory, multiple product categories, and
+  long-term business scalability.
+</p>
+
 
           <h3 className="text-xl font-serif font-semibold mb-3">
-            Fresh Produce and Quality Assurance
+            Established Supply Chain and Competitive Pricing
           </h3>
           <p className="text-gray-700 leading-relaxed">
-            Quality is our top priority at The Buyzaar Mart. We maintain strict quality control measures to ensure that
-            all products, especially fresh produce and dairy items, meet the highest standards of freshness and hygiene.
-            Our team regularly checks inventory, maintains proper storage conditions, and ensures that expired or
-            substandard products never reach our shelves. This commitment to quality has made us a trusted name among
-            Muzaffarnagar families.
+            Benefit from our established relationships with 500+ suppliers and manufacturers. Our centralized
+            procurement ensures you get the best wholesale rates, allowing competitive retail pricing while
+            maintaining healthy margins. Automated inventory replenishment, just-in-time delivery, and zero stock-out
+            policies keep your shelves full and customers happy.
           </p>
 
         </div>
       </div>
 
-      {/* Additional Why Choose Section */}
+      {/* Franchise Benefits Section */}
       <div className="bg-gray-50 py-12">
         <div className="max-w-7xl mx-auto px-8">
           <h2 className="text-3xl font-serif font-medium text-center mb-6">
-            Why Muzaffarnagar Residents Trust The Buyzaar Mart
+            What You Get as a Buyzaar Mart Franchisee
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
             {[
-              ["Extensive product variety", "Everything from groceries to household essentials"],
-              ["Best prices in town", "Competitive rates with regular discounts and offers"],
-              ["Fresh & quality products", "Strict quality checks and trusted brands"],
-              ["Hygienic environment", "Clean, well-maintained, and organized store"],
-              ["Convenient location", "Easy access for Muzaffarnagar residents"],
-              ["Expert staff", "Friendly, helpful, and knowledgeable team members"],
+              ["Proven Brand", "Established brand with growing market recognition"],
+              ["Site Selection", "Expert help in choosing the best location"],
+              ["Store Setup", "Complete store design and fixture installation"],
+              ["Training Program", "10-day intensive training for operations"],
+              ["Marketing Support", "Grand opening campaigns and ongoing promotions"],
+              ["Supply Chain", "Reliable inventory at competitive wholesale prices"],
+              ["POS System", "Modern billing and inventory management software"],
+              ["Territory Rights", "Protected territory - no internal competition"],
+              ["Ongoing Support", "Regular visits and business growth consultation"],
             ].map(([title, desc], index) => (
               <div key={index} className="bg-white p-6 rounded-lg shadow-sm">
                 <div className="flex items-start gap-3">
@@ -130,17 +153,21 @@ export default function MuzaffarnagarContent() {
               </div>
             ))}
           </div>
+
+          
         </div>
       </div>
 
-      {/* Related Pages Section */}
+      
+
+      {/* Other Cities Section */}
       <div className="bg-white py-12">
         <div className="max-w-7xl mx-auto px-8">
           <h2 className="text-4xl font-serif font-medium text-center mb-3">
-            Explore Other Cities
+            Franchise Opportunities in Other Cities
           </h2>
           <p className="text-gray-600 text-center mb-8 max-w-3xl mx-auto">
-            Discover our supermarket presence in nearby cities
+            Explore franchise opportunities in nearby cities
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -150,7 +177,7 @@ export default function MuzaffarnagarContent() {
                 href={`/cities/${city.slug}`}
                 className="group"
               >
-                <div className="flex items-start gap-3">
+                <div className="flex items-start gap-3 p-4 rounded-lg hover:bg-green-50 transition-colors">
                   <svg
                     className="w-5 h-5 text-green-600 mt-1 flex-shrink-0 group-hover:scale-110 transition-transform duration-300"
                     fill="none"
@@ -173,8 +200,9 @@ export default function MuzaffarnagarContent() {
 
                   <div>
                     <h3 className="text-lg font-serif font-medium text-gray-900 group-hover:text-green-600 transition-colors duration-300">
-                      {city.name}
+                      {city.name} Franchise
                     </h3>
+                    <p className="text-sm text-gray-500">View details →</p>
                   </div>
                 </div>
               </Link>

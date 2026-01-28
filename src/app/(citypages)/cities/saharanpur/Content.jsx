@@ -33,114 +33,125 @@ export default function SaharanpurContent() {
           </div>
 
           <h1 className="text-3xl md:text-5xl font-medium font-serif text-center mb-4">
-            Saharanpur – Premium Supermarket & Grocery Store
+            Buyzaar Mart Franchise Opportunity in Saharanpur
           </h1>
 
-          <p className="text-gray-700 text-center text-lg mb-0 max-w-7xl mx-auto leading-relaxed">
-            Saharanpur, known for its rich cultural heritage and thriving commercial activity, deserves a shopping
-            experience that matches its stature. The Buyzaar Mart brings world-class retail convenience to Saharanpur
-            residents with an extensive selection of fresh groceries, premium products, daily essentials, personal care
-            items, and household necessities. We combine traditional values of trust and quality with modern retail
-            practices to serve the diverse needs of Saharanpur's growing community.
+          <p className="text-gray-700 text-center text-lg mb-6 max-w-7xl mx-auto leading-relaxed">
+            Launch a premium supermarket franchise in Saharanpur, the wood carving capital with rich heritage and
+            strong commercial activity. Join The Buyzaar Mart's expanding network and build a thriving retail business.
           </p>
+
+          
         </div>
       </div>
 
-      {/* SEO Content Section */}
+      {/* Market Opportunity Section */}
       <div className="max-w-7xl mx-auto px-8 py-12">
         <div className="prose prose-lg max-w-none">
 
           <h2 className="text-2xl font-serif font-semibold mb-4">
-            Saharanpur's Most Trusted Supermarket for Quality and Value
+            Why Saharanpur is a Prime Location for Buyzaar Mart Franchise
           </h2>
           <p className="text-gray-700 leading-relaxed mb-6">
-            As one of the prominent cities in Uttar Pradesh, Saharanpur has witnessed rapid urban development and
-            changing consumer preferences. Modern families seek organized retail spaces where quality, variety, and
-            affordability come together seamlessly. The Buyzaar Mart addresses this need by offering a state-of-the-art
-            supermarket experience with carefully curated products, maintained hygiene standards, and customer-centric
-            service that has become the benchmark for retail excellence in Saharanpur.
+            Saharanpur, with a population of over 7 lakhs, is one of the oldest and most significant cities in
+            Uttar Pradesh. Known for its wood carving industry and paper mills, the city has a robust economy with
+            high purchasing power. The city's proximity to both Dehradun and Delhi makes it a strategic commercial
+            hub. Despite its economic strength, organized retail penetration remains low, presenting an exceptional
+            opportunity for entrepreneurs to establish a Buyzaar Mart franchise and dominate the local market.
           </p>
 
           <h3 className="text-xl font-serif font-semibold mb-3">
-            Extensive Product Range Across Multiple Categories
+            Untapped Market with High Consumer Demand
           </h3>
           <p className="text-gray-700 leading-relaxed mb-6">
-            Our Saharanpur supermarket stocks thousands of products across diverse categories to meet every household
-            need. From farm-fresh fruits and vegetables sourced from local and regional suppliers to imported gourmet
-            foods, we offer an unmatched variety. Our shelves feature staple groceries, premium rice and pulses, cooking
-            oils, spices, ready-to-cook items, packaged snacks, beverages, dairy products, frozen foods, bakery items,
-            personal care essentials, baby products, health supplements, and a comprehensive range of household cleaning
-            and maintenance supplies.
+            Saharanpur's diverse economy attracts professionals, business families, and affluent residents who prefer
+            quality shopping experiences. The city's growing residential sectors, educational institutions, and
+            commercial zones create consistent demand for modern retail outlets. Traditional kirana stores dominate
+            currently, leaving massive scope for organized retail. A Buyzaar Mart franchise here will attract not
+            only local residents but also customers from neighboring areas like Deoband, Nakur, and Rampur, ensuring
+            strong daily footfall and revenue.
           </p>
 
           <h3 className="text-xl font-serif font-semibold mb-3">
-            Unbeatable Prices with Smart Shopping Benefits
+            Comprehensive Franchise Package
           </h3>
           <p className="text-gray-700 leading-relaxed mb-6">
-            The Buyzaar Mart Saharanpur is committed to providing maximum value to our customers. Our dynamic pricing
-            strategy ensures competitive rates on all products while maintaining superior quality standards. We run
-            weekly specials, festival offers, bulk purchase discounts, and exclusive member benefits that help families
-            optimize their shopping budgets. Our transparent pricing policy means no hidden charges, and what you see
-            is what you pay. Special combo deals and seasonal promotions are regularly updated to provide additional
-            savings opportunities.
+            The Buyzaar Mart offers a complete turnkey franchise solution. From site evaluation and lease negotiation
+            to store design, fixture installation, inventory planning, and staff recruitment support – we handle
+            everything. Our franchise package includes 15-day comprehensive training (both classroom and on-site),
+            proprietary POS and inventory management software, opening day marketing campaigns, ongoing promotional
+            support, and dedicated relationship manager for continuous guidance. You focus on running the business
+            while we provide the infrastructure and expertise.
           </p>
+          <h3 className="text-xl font-serif font-semibold mb-3">
+  Flexible Investment with Scalable Growth Potential
+</h3>
+
+<p className="text-gray-700 leading-relaxed mb-6">
+  Buyzaar Mart provides flexible franchise investment options designed to match different
+  market sizes and expansion goals. The <strong>Mini Mart format (600–1000 sq.ft)</strong>
+  starts with an investment of <strong>₹14,71,080</strong>, making it suitable for compact
+  residential locations and emerging neighborhoods. The
+  <strong> Super Mart format (1001–3000 sq.ft)</strong> requires an investment of
+  <strong>₹25,07,232</strong> and is ideal for high-traffic zones with consistent daily demand.
+  The <strong>Hyper Mart format (3001–8000 sq.ft)</strong>, with an investment of
+  <strong>₹75,17,645</strong>, is designed for large-format retail environments and
+  long-term scalability.
+  <br /><br />
+  These formats enable franchise partners to benefit from diversified product categories,
+  strong supplier partnerships, private-label opportunities, and efficient inventory
+  management systems. While actual returns depend on location, operations, and market
+  conditions, the structured franchise model supports sustainable revenue growth and
+  progressive profitability over time.
+</p>
+
 
           <h3 className="text-xl font-serif font-semibold mb-3">
-            Superior Shopping Environment and Customer Experience
+            Technology-Driven Operations
           </h3>
           <p className="text-gray-700 leading-relaxed mb-6">
-            We have invested significantly in creating a shopping environment that prioritizes customer comfort and
-            convenience. Our spacious store layout features wide aisles for easy navigation, climate-controlled
-            interiors for year-round comfort, well-lit sections for better product visibility, dedicated zones for
-            different product categories, quick-billing counters to minimize waiting time, ample parking space, and
-            wheelchair accessibility. Our trained staff members are always ready to assist with product selection,
-            provide recommendations, and ensure a pleasant shopping experience from entry to checkout.
+            Our advanced technology platform provides real-time inventory tracking, automated reorder points, sales
+            analytics, customer purchase patterns, and financial reporting. The cloud-based system accessible from
+            any device helps you monitor business performance, reduce wastage, optimize stock levels, and make
+            data-driven decisions. Integrated payment solutions support all digital payment methods, attracting
+            tech-savvy customers.
           </p>
 
           <h3 className="text-xl font-serif font-semibold mb-3">
-            Commitment to Freshness and Quality Standards
-          </h3>
-          <p className="text-gray-700 leading-relaxed mb-6">
-            Quality assurance is non-negotiable at The Buyzaar Mart. We implement rigorous quality control protocols
-            throughout our supply chain. Our fresh produce section receives daily deliveries to ensure optimal freshness.
-            Perishable items are stored in temperature-controlled environments, and we maintain strict FIFO (First In,
-            First Out) inventory practices. All products undergo quality checks before being placed on shelves, and we
-            have a zero-tolerance policy for expired or substandard items. This dedication to quality has earned us the
-            trust and loyalty of thousands of Saharanpur families.
-          </p>
-
-          <h3 className="text-xl font-serif font-semibold mb-3">
-            Supporting Local Community and Sustainable Practices
+            Brand Power and Marketing Support
           </h3>
           <p className="text-gray-700 leading-relaxed">
-            As a responsible retail establishment, we actively support local farmers and suppliers by sourcing regional
-            products wherever possible. This not only ensures freshness but also contributes to the local economy. We
-            are committed to sustainable practices including minimal plastic usage, encouraging reusable bags, proper
-            waste segregation, and energy-efficient store operations. Our goal is to be not just a supermarket, but a
-            valued community partner in Saharanpur's growth and development.
+            Leverage our growing brand recognition through national and regional marketing campaigns. We provide
+            professionally designed marketing materials, social media content, local newspaper ads, radio spots,
+            and digital marketing support. Grand opening campaigns typically include hoardings, pamphlet distribution,
+            inaugural offers, and local influencer partnerships to create buzz and drive initial traffic. Ongoing
+            promotional calendars aligned with festivals and seasons keep customer interest high throughout the year.
           </p>
 
         </div>
       </div>
 
-      {/* Additional Why Choose Section */}
+      {/* Franchise Benefits Section */}
       <div className="bg-gray-50 py-12">
         <div className="max-w-7xl mx-auto px-8">
           <h2 className="text-3xl font-serif font-medium text-center mb-6">
-            Why Saharanpur Families Choose The Buyzaar Mart
+            Complete Franchise Support System
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
             {[
-              ["Unmatched product variety", "Thousands of products across all categories"],
-              ["Competitive pricing", "Best prices with regular offers and discounts"],
-              ["Premium quality assurance", "Strict quality checks and fresh products daily"],
-              ["Modern infrastructure", "Spacious, clean, and well-organized store"],
-              ["Convenient location", "Easy accessibility for all Saharanpur residents"],
-              ["Professional service", "Courteous, trained, and helpful staff"],
-              ["Extended shopping hours", "Flexible timings to suit your schedule"],
-              ["Safe shopping environment", "Hygienic and secure premises"],
-              ["Quick checkout", "Multiple billing counters for faster service"],
+              ["Established Brand", "Join a trusted name with proven market acceptance"],
+              ["Site Selection", "Expert assistance in location scouting and evaluation"],
+              ["Store Design", "Professional interior design and fixture setup"],
+              ["Training Program", "15-day intensive training for you and your team"],
+              ["Technology Platform", "Advanced POS and inventory management system"],
+              ["Supply Chain", "Reliable sourcing at competitive wholesale rates"],
+              ["Marketing Support", "Grand opening and ongoing promotional campaigns"],
+              ["Territory Protection", "Exclusive rights - no competing franchise nearby"],
+              ["Business Guidance", "Dedicated relationship manager and field support"],
+              ["Product Mix", "Carefully curated 3000+ SKUs across categories"],
+              ["Payment Solutions", "Integrated digital payment gateways"],
+              ["Customer Loyalty", "Ready-made loyalty program software"],
             ].map(([title, desc], index) => (
               <div key={index} className="bg-white p-6 rounded-lg shadow-sm">
                 <div className="flex items-start gap-3">
@@ -153,17 +164,23 @@ export default function SaharanpurContent() {
               </div>
             ))}
           </div>
+
+          
         </div>
       </div>
 
-      {/* Related Pages Section */}
-      <div className="bg-white py-12">
+      
+
+          
+
+      {/* Other Cities Section */}
+      <div className="bg-gray-50 py-12">
         <div className="max-w-7xl mx-auto px-8">
           <h2 className="text-4xl font-serif font-medium text-center mb-3">
-            Explore Other Cities
+            Franchise Opportunities in Other Cities
           </h2>
           <p className="text-gray-600 text-center mb-8 max-w-3xl mx-auto">
-            Discover our supermarket presence in nearby cities
+            Explore franchise opportunities across Uttar Pradesh and NCR
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -173,7 +190,7 @@ export default function SaharanpurContent() {
                 href={`/cities/${city.slug}`}
                 className="group"
               >
-                <div className="flex items-start gap-3">
+                <div className="flex items-start gap-3 p-4 rounded-lg hover:bg-white transition-colors">
                   <svg
                     className="w-5 h-5 text-green-600 mt-1 flex-shrink-0 group-hover:scale-110 transition-transform duration-300"
                     fill="none"
@@ -196,8 +213,9 @@ export default function SaharanpurContent() {
 
                   <div>
                     <h3 className="text-lg font-serif font-medium text-gray-900 group-hover:text-green-600 transition-colors duration-300">
-                      {city.name}
+                      {city.name} Franchise
                     </h3>
+                    <p className="text-sm text-gray-500">Explore opportunity →</p>
                   </div>
                 </div>
               </Link>

@@ -2,15 +2,17 @@ import React from "react";
 import Content from "./Content";
 
 export const metadata = {
-  title: "Gangoh | Supermarket & Grocery Store",
+  title: "Buyzaar Mart Franchise in Gangoh | Supermarket Franchise Opportunity",
   description:
-    "Supermarket and grocery store in Gangoh offering fresh groceries, daily essentials, packaged foods, and household products at affordable prices.",
+    "Start your own Buyzaar Mart supermarket franchise in Gangoh. Low investment, high returns. Get complete support, training, and established supply chain. Apply for franchise now!",
   keywords: [
-    "supermarket in gangoh",
-    "grocery store gangoh",
-    "daily needs store gangoh",
-    "buyzaar mart gangoh",
-    "retail store gangoh"
+    "buyzaar mart franchise gangoh",
+    "supermarket franchise gangoh",
+    "grocery franchise gangoh",
+    "retail franchise opportunity gangoh",
+    "buyzaar mart dealership gangoh",
+    "franchise business gangoh",
+    "supermarket business gangoh"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/cities/gangoh",
@@ -18,17 +20,17 @@ export const metadata = {
 
   // ✅ OPEN GRAPH
   openGraph: {
-    title: "Gangoh | Supermarket & Grocery Store",
+    title: "Buyzaar Mart Franchise in Gangoh | Supermarket Franchise Opportunity",
     description:
-      "Supermarket and grocery store in Gangoh offering fresh groceries, daily essentials, packaged foods, and household products at affordable prices.",
+      "Start your own Buyzaar Mart supermarket franchise in Gangoh. Low investment, high returns. Get complete support, training, and established supply chain.",
     url: "https://www.thebuyzaarmart.com/cities/gangoh",
     siteName: "The Buyzaar Mart",
     images: [
       {
-        url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
+        url: "https://www.thebuyzaarmart.com/logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Gangoh | Supermarket & Grocery Store",
+        alt: "Buyzaar Mart Franchise Opportunity in Gangoh",
       },
     ],
     locale: "en_IN",
@@ -38,10 +40,10 @@ export const metadata = {
   // ✅ TWITTER
   twitter: {
     card: "summary_large_image",
-    title: "Gangoh | Supermarket & Grocery Store",
+    title: "Buyzaar Mart Franchise in Gangoh | Supermarket Franchise Opportunity",
     description:
-      "Visit The Buyzaar Mart in Gangoh for groceries, daily essentials, and quality retail shopping.",
-    images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
+      "Start your own profitable supermarket franchise in Gangoh with Buyzaar Mart. Complete business support and training provided.",
+    images: ["https://www.thebuyzaarmart.com/logo.jpg"],
   },
 
   // ✅ FAVICON

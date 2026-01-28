@@ -2,17 +2,18 @@ import React from "react";
 import Content from "./Content";
 
 export const metadata = {
-  title: "Saharanpur | Premium Supermarket & Grocery Store",
+  title: "Buyzaar Mart Franchise in Saharanpur | Supermarket Franchise Investment",
   description:
-    "Premium supermarket and grocery store in Saharanpur offering fresh groceries, daily essentials, household products, personal care items, and quality products at competitive prices with excellent customer service.",
+    "Open Buyzaar Mart supermarket franchise in Saharanpur. Investment ₹12-40 lakhs. Three store formats available. Complete training, supply chain & marketing support. Apply now!",
   keywords: [
-    "supermarket in saharanpur",
-    "grocery store saharanpur",
-    "daily needs store saharanpur",
-    "buyzaar mart saharanpur",
-    "retail store saharanpur",
-    "fresh groceries saharanpur",
-    "best supermarket saharanpur"
+    "buyzaar mart franchise saharanpur",
+    "supermarket franchise saharanpur",
+    "grocery franchise saharanpur",
+    "retail franchise opportunity saharanpur",
+    "franchise business saharanpur",
+    "buyzaar mart dealership saharanpur",
+    "supermarket franchise investment saharanpur",
+    "profitable franchise saharanpur"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/cities/saharanpur",
@@ -20,9 +21,9 @@ export const metadata = {
 
   // ✅ OPEN GRAPH
   openGraph: {
-    title: "Saharanpur | Premium Supermarket & Grocery Store",
+    title: "Buyzaar Mart Franchise in Saharanpur | Supermarket Franchise Opportunity",
     description:
-      "Premium supermarket and grocery store in Saharanpur offering fresh groceries, daily essentials, household products, personal care items, and quality products at competitive prices with excellent customer service.",
+      "Launch your supermarket franchise in Saharanpur with Buyzaar Mart. Investment options from ₹12-40 lakhs. Complete business support provided.",
     url: "https://www.thebuyzaarmart.com/cities/saharanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -30,7 +31,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Saharanpur | Premium Supermarket & Grocery Store",
+        alt: "Buyzaar Mart Franchise Opportunity in Saharanpur",
       },
     ],
     locale: "en_IN",
@@ -40,9 +41,9 @@ export const metadata = {
   // ✅ TWITTER
   twitter: {
     card: "summary_large_image",
-    title: "Saharanpur | Premium Supermarket & Grocery Store",
+    title: "Buyzaar Mart Franchise in Saharanpur | Supermarket Business",
     description:
-      "Visit The Buyzaar Mart in Saharanpur for premium groceries, fresh products, daily essentials, and unmatched shopping experience.",
+      "Start your profitable supermarket business in Saharanpur. Flexible investment options. Complete support from Buyzaar Mart.",
     images: ["https://www.thebuyzaarmart.com/logo.jpg"],
   },
 

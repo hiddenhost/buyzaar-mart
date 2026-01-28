@@ -11,4 +11,12 @@ export const citiesData = [
     name: "Muzaffarnagar",
     slug: "muzaffarnagar",
   },
+  {
+    name: "Meerut",
+    slug: "meerut",
+  },
+  {
+    name: "Noida",
+    slug: "noida",
+  },
 ];

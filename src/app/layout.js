@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
         {/* Google Site Verification */}
         <meta
           name="google-site-verification"
-          content="google5cf9e9230b638e7b"
+          content="1xJTJr0uSdwhdTBxR0WnngElicUHLE-bKW3LonoaFlw"
         />
 
         {/* Google Analytics */}

@@ -44,7 +44,7 @@ export default function NoidaContent() {
 
           <div className="flex justify-center">
             <Link
-              href="/franchise-inquiry"
+              href="/franchise"
               className="bg-green-600 text-white px-8 py-4 rounded-lg hover:bg-green-700 transition-all duration-300 font-semibold text-lg shadow-lg hover:shadow-xl"
             >
               Apply for Franchise

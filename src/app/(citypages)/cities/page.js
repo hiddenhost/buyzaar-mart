@@ -12,7 +12,7 @@ export const metadata = {
     "retail franchise uttar pradesh",
     "franchise business ncr",
     "buyzaar mart dealership",
-    "supermarket franchise locations"
+    "supermarket franchise locations",
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/cities",
@@ -53,47 +53,46 @@ export const metadata = {
 };
 
 const cities = [
-  { 
-    name: "Noida", 
-    slug: "noida", 
+  {
+    name: "Noida",
+    slug: "noida",
     desc: "Premium franchise opportunity in NCR's most affluent city",
     investment: "₹35-75 Lakhs",
-    potential: "High Revenue Potential"
+    potential: "High Revenue Potential",
   },
-  { 
-    name: "Meerut", 
-    slug: "meerut", 
+  {
+    name: "Meerut",
+    slug: "meerut",
     desc: "Capitalize on western UP's largest commercial hub",
     investment: "₹20-45 Lakhs",
-    potential: "Fast Growing Market"
+    potential: "Fast Growing Market",
   },
-  { 
-    name: "Saharanpur", 
-    slug: "saharanpur", 
+  {
+    name: "Saharanpur",
+    slug: "saharanpur",
     desc: "Strategic location near Dehradun-Delhi corridor",
     investment: "₹12-40 Lakhs",
-    potential: "Established Market"
+    potential: "Established Market",
   },
-  { 
-    name: "Muzaffarnagar", 
-    slug: "muzaffarnagar", 
+  {
+    name: "Muzaffarnagar",
+    slug: "muzaffarnagar",
     desc: "Major commercial center with strong consumer base",
     investment: "₹15-25 Lakhs",
-    potential: "Growing Demand"
+    potential: "Growing Demand",
   },
-  { 
-    name: "Gangoh", 
-    slug: "gangoh", 
+  {
+    name: "Gangoh",
+    slug: "gangoh",
     desc: "Untapped market with minimal competition",
     investment: "₹10-15 Lakhs",
-    potential: "First Mover Advantage"
+    potential: "First Mover Advantage",
   },
 ];
 
 export default function Page() {
   return (
     <div className="bg-white">
-      
       {/* Hero Section */}
       <div className="p-8 bg-gradient-to-br from-green-50 to-emerald-50">
         <div className="max-w-6xl mx-auto">
@@ -102,7 +101,11 @@ export default function Page() {
           </h1>
 
           <p className="text-gray-700 text-lg text-center mb-8 max-w-6xl mx-auto leading-relaxed">
-            Join India's fastest-growing supermarket chain. The Buyzaar Mart offers lucrative franchise opportunities across India, backed by a proven business model, complete training, and continuous operational support. Choose your preferred location and start your entrepreneurial journey with confidence today.
+            Join India's fastest-growing supermarket chain. The Buyzaar Mart
+            offers lucrative franchise opportunities across India, backed by a
+            proven business model, complete training, and continuous operational
+            support. Choose your preferred location and start your
+            entrepreneurial journey with confidence today.
           </p>
 
           <div className="flex justify-center">
@@ -159,12 +162,20 @@ export default function Page() {
                       {city.desc}
                     </p>
 
-                   
-
                     <div className="mt-2 flex items-center text-green-600 font-semibold text-sm group-hover:translate-x-2 transition-transform">
                       Explore Opportunity
-                      <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      <svg
+                        className="w-4 h-4 ml-1"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M9 5l7 7-7 7"
+                        />
                       </svg>
                     </div>
                   </div>
@@ -174,11 +185,6 @@ export default function Page() {
           ))}
         </div>
       </div>
-
-      
-
-      
-
     </div>
   );
 }

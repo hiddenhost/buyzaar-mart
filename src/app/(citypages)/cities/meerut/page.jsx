@@ -28,7 +28,7 @@ export const metadata = {
     siteName: "The Buyzaar Mart",
     images: [
       {
-        url: "https://www.thebuyzaarmart.com/logo.jpg",
+        url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
         alt: "Buyzaar Mart Franchise Opportunity in Meerut",
@@ -44,12 +44,12 @@ export const metadata = {
     title: "Buyzaar Mart Franchise in Meerut | Start Your Supermarket Business",
     description:
       "Open a high-revenue supermarket franchise in Meerut. Proven business model with complete support from Buyzaar Mart.",
-    images: ["https://www.thebuyzaarmart.com/logo.jpg"],
+    images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
 
   // ✅ FAVICON
   icons: {
-    icon: "/favicon.ico",
+    icon: "/images/buyzaar-logo.png",
   },
 };
 

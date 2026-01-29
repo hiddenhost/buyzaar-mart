@@ -27,7 +27,7 @@ export const metadata = {
     siteName: "The Buyzaar Mart",
     images: [
       {
-        url: "https://www.thebuyzaarmart.com/logo.jpg",
+        url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
         alt: "Buyzaar Mart Franchise Opportunity in Gangoh",
@@ -43,12 +43,12 @@ export const metadata = {
     title: "Buyzaar Mart Franchise in Gangoh | Supermarket Franchise Opportunity",
     description:
       "Start your own profitable supermarket franchise in Gangoh with Buyzaar Mart. Complete business support and training provided.",
-    images: ["https://www.thebuyzaarmart.com/logo.jpg"],
+    images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
 
   // ✅ FAVICON
   icons: {
-    icon: "/favicon.ico",
+    icon: "/images/buyzaar-logo.png",
   },
 };
 

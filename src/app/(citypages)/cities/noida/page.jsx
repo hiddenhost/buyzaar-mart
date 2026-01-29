@@ -28,7 +28,7 @@ export const metadata = {
     siteName: "The Buyzaar Mart",
     images: [
       {
-        url: "https://www.thebuyzaarmart.com/logo.jpg",
+        url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
         alt: "Buyzaar Mart Premium Franchise Opportunity in Noida",
@@ -44,12 +44,12 @@ export const metadata = {
     title: "Buyzaar Mart Franchise in Noida | Premium Supermarket Business",
     description:
       "Launch your premium supermarket business in Noida NCR. High-revenue potential with complete franchise support from Buyzaar Mart.",
-    images: ["https://www.thebuyzaarmart.com/logo.jpg"],
+    images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
 
   // ✅ FAVICON
   icons: {
-    icon: "/favicon.ico",
+    icon: "/images/buyzaar-logo.png",
   },
 };
 

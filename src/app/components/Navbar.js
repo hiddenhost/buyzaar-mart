@@ -296,7 +296,7 @@ const Navbar = () => {
                   >
                     <div className="py-2">
                       <Link
-                        href="/#services"
+                        href="/store-features"
                         className="block px-4 py-3 text-gray-600 hover:text-black hover:bg-gray-50 transition-colors duration-300 font-medium"
                         onClick={() => setIsServicesDropdownOpen(false)}
                       >
@@ -509,7 +509,7 @@ const Navbar = () => {
               >
                 <div className="pl-6 space-y-1">
                   <Link
-                    href="/#services"
+                    href="/store-features"
                     onClick={closeMobileMenu}
                     className="block px-3 py-2 text-gray-600 hover:text-black hover:bg-gray-50 rounded-md transition-colors duration-300"
                   >

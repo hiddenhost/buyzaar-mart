@@ -27,7 +27,7 @@ export const metadata = {
     siteName: "The Buyzaar Mart",
     images: [
       {
-        url: "https://www.thebuyzaarmart.com/logo.jpg",
+        url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
         alt: "Franchise Opportunities Across Cities | The Buyzaar Mart",
@@ -43,12 +43,12 @@ export const metadata = {
     title: "Franchise Opportunities Across Cities | The Buyzaar Mart",
     description:
       "Launch your supermarket franchise with Buyzaar Mart. Profitable opportunities available across UP and NCR.",
-    images: ["https://www.thebuyzaarmart.com/logo.jpg"],
+    images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
 
   // ✅ FAVICON
   icons: {
-    icon: "/favicon.ico",
+    icon: "/images/buyzaar-logo.png",
   },
 };
 

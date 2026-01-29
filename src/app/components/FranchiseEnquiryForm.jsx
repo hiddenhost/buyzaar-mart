@@ -134,7 +134,7 @@ export default function FranchiseEnquiryForm() {
     const formData = new FormData(form);
 
     try {
-      await fetch("https://formsubmit.co/pathakmansi608@gmail.com", {
+      await fetch("https://formsubmit.co/info@thebuyzaarmart.com", {
         method: "POST",
         body: formData,
       });

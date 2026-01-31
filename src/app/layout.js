@@ -15,23 +15,26 @@ export default function RootLayout({ children }) {
           name="google-site-verification"
           content="1xJTJr0uSdwhdTBxR0WnngElicUHLE-bKW3LonoaFlw"
         />
+      </head>
 
-        {/* Google Analytics */}
+      <body>
+        {/* Google Analytics GA4 */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-94S5YHVRDH"
+          src="https://www.googletagmanager.com/gtag/js?id=G-GFVCPN9VKJ"
           strategy="afterInteractive"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+
+        <Script id="ga4-init" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-94S5YHVRDH');
+            gtag('config', 'G-GFVCPN9VKJ', {
+              page_path: window.location.pathname,
+            });
           `}
         </Script>
-      </head>
 
-      <body>
         <Navbar />
         <main>{children}</main>
         <WhatsAppButton />

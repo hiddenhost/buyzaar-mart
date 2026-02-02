@@ -11,7 +11,7 @@ export const metadata = {
     "buyzaar mart franchise saharanpur, supermarket franchise saharanpur, grocery franchise saharanpur, retail franchise opportunity saharanpur, franchise business saharanpur, buyzaar mart dealership saharanpur, supermarket franchise investment saharanpur, profitable franchise saharanpur",
 
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/saharanpur",
+    canonical: "https://www.thebuyzaarmart.com/cities/saharanpur/best-grocery-franchise-in-saharanpur",
   },
 
   // ✅ OPEN GRAPH
@@ -20,7 +20,7 @@ export const metadata = {
       "Buyzaar Mart Franchise in Saharanpur | Supermarket Franchise Opportunity",
     description:
       "Open your Buyzaar Mart supermarket franchise in Saharanpur with multiple store formats, complete training, strong supply chain, and dedicated marketing support. Apply now.",
-    url: "https://www.thebuyzaarmart.com/cities/saharanpur",
+    url: "https://www.thebuyzaarmart.com/cities/saharanpur/best-grocery-franchise-in-saharanpur",
     siteName: "The Buyzaar Mart",
     images: [
       {

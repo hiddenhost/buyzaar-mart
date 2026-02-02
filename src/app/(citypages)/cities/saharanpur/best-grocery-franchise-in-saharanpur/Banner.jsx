@@ -16,12 +16,9 @@ export default function Banner() {
       
       <div className="relative z-20 flex items-center justify-center h-full px-4">
         <div className="text-center text-white max-w-5xl mt-18">
-          <h1 className="text-4xl sm:text-4xl md:text-5xl lg:text-6xl font-serif font-medium tracking-wide capitalize mb-4 md:mb-6 leading-tight">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-serif font-medium tracking-wide capitalize mb-4 md:mb-6 leading-tight">
             Best Grocery Franchise in Saharanpur
           </h1>
-          <p className="text-base sm:text-lg md:text-xl lg:text-2xl font-serif font-medium text-white tracking-wide drop-shadow-lg">
-            Unlock Success with the Best Grocery Franchise Opportunities in Saharanpur - Your Path to Prosperity Starts Here!
-          </p>
         </div>
       </div>
     </section>

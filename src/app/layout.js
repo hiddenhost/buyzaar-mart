@@ -10,11 +10,16 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Google Site Verification */}
+        {/* Google Search Console Verification */}
         <meta
           name="google-site-verification"
           content="1xJTJr0uSdwhdTBxR0WnngElicUHLE-bKW3LonoaFlw"
         />
+
+        {/* Robots Meta (SAFE GLOBAL DEFAULT) */}
+        <meta name="robots" content="index, follow" />
+        <meta name="googlebot" content="index, follow" />
+        <meta name="bingbot" content="index, follow" />
       </head>
 
       <body>

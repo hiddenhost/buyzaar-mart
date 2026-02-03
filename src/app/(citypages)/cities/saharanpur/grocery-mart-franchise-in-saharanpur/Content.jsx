@@ -188,7 +188,7 @@ const Content = () => {
               <p className="mb-4"><strong>Why Wait? Start Your Journey Today!</strong></p>
               <p>The grocery retail sector in Saharanpur is growing, and early movers will capture the best locations and customer loyalty.</p>
               <p className="font-semibold mt-4">Contact Us Now:</p>
-              <p><strong>📞 Franchise Helpline:</strong> +91-9311939160 , 9311939161<br/>
+              <p><strong>Call:</strong> +91-9311939160 , 9311939161<br/>
               
               <strong>Email:</strong> <a href="mailto:info@thebuyzaarmart.com" className="text-blue-600 hover:underline">info@thebuyzaarmart.com</a></p>
             </div>

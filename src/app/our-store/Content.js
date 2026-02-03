@@ -37,7 +37,7 @@ export default function OurStore() {
               Your Dream Store Awaits
             </h1>
             <p className="text-lg md:text-xl lg:text-2xl mb-6 max-w-3xl mx-auto font-medium">
-              Experience Our Premium 600 Sq Ft Store Design
+              Experience our current store!
             </p>
             <div className="w-24 md:w-32 h-1 bg-white mx-auto rounded-full"></div>
           </div>

@@ -10,8 +10,10 @@ const Content = () => {
         <div className="flex-1 px-4 sm:px-8 md:px-16 py-0 order-1 lg:order-1">
           <div className="space-y-4 text-gray-700 leading-relaxed max-w-4xl">
             <h2 className="text-2xl sm:text-3xl font-semibold text-gray-900 mt-8">
-              Supermarket Franchise in Noida: Build Wealth with The Buyzaar Mart
-            </h2>
+  Supermarket <a href="/cities/noida" className="text-blue-600 hover:underline">
+  Franchise in Noida</a>: Build Wealth with The Buyzaar Mart
+</h2>
+
 
             <p>
               Searching for a supermarket franchise in Noida? Noida&apos;s rapid urbanization creates
@@ -78,8 +80,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Features of The Buyzaar mart
-            </h2>
+  <a href="/store-features" className="text-balck hover:underline">
+    Features of The Buyzaar Mart
+  </a>
+</h2>
+
             <p>
               Stand out with Buyzaar Mart&apos;s edges in the supermarket franchise in Noida space.
             </p>
@@ -193,8 +198,9 @@ const Content = () => {
             <p>More than business—it&apos;s lasting value.</p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-  Act Now: Grab Your Supermarket Franchise in Noida!
+  Act Now: Grab Your Supermarket <a href="/franchise" className="text-blue-600 hover:underline">Franchise</a> in Noida!
 </h2>
+
 
 <p>
   Noida&apos;s prime spots are limited. Choose Buyzaar Mart for the best supermarket

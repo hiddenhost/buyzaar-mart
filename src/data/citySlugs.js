@@ -1,6 +1,22 @@
 export const citySlugs = {
   gangoh: [
-    // add gangoh-related service slugs here later
+    {
+      title: "Grocery Mart Franchise in Gangoh",
+      slug: "/cities/gangoh/grocery-mart-franchise-in-gangoh",
+    },
+    
+    {
+      title: "Grocery Mart Franchise in Saharanpur",
+      slug: "/cities/saharanpur/grocery-mart-franchise-in-saharanpur",
+    },
+    {
+      title: "hypermarket franchise in saharanpur",
+      slug: "/cities/saharanpur/hypermarket-franchise-in-saharanpur",
+    },
+      {
+      title: "Supermarket Franchise in Noida",
+      slug: "/cities/noida/supermarket-franchise-in-noida"
+    },
   ],
 
   meerut: [
@@ -17,6 +33,10 @@ export const citySlugs = {
       slug: "/cities/noida/grocery-mart-franchise-in-noida",
     },
     {
+      title: "Supermarket Franchise in Gangoh",
+      slug: "/cities/gangoh/supermarket-franchise-in-gangoh",
+    },
+    {
       title: "Supermarket Franchise in Noida",
       slug: "/cities/noida/supermarket-franchise-in-noida"
     },
@@ -27,14 +47,7 @@ export const citySlugs = {
   ],
 
   saharanpur: [
-    {
-      title: "Grocery Mart Franchise in Saharanpur",
-      slug: "/cities/saharanpur/grocery-mart-franchise-in-saharanpur",
-    },
-    {
-      title: "hypermarket franchise in saharanpur",
-      slug: "/cities/saharanpur/hypermarket-franchise-in-saharanpur",
-    },
+    
     {
       title: "best-grocery-franchise-in-saharanpur",
       slug: "/cities/saharanpur/best-grocery-franchise-in-saharanpur",

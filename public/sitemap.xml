@@ -19,6 +19,7 @@
   </url>
 
   <!-- City Hub Pages -->
+  <!-- Noida Pages-->
   <url>
     <loc>https://www.thebuyzaarmart.com/cities/noida</loc>
     <priority>0.8</priority>
@@ -33,22 +34,32 @@
   <loc>https://www.thebuyzaarmart.com/cities/noida/supermarket-franchise-in-noida</loc>
   <priority>0.7</priority>
   </url>
-
+ <!-- Meerut Pages-->
   <url>
     <loc>https://www.thebuyzaarmart.com/cities/meerut</loc>
     <priority>0.8</priority>
   </url>
-
+ <!-- Gangoh Pages-->
   <url>
     <loc>https://www.thebuyzaarmart.com/cities/gangoh</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
+  <loc>https://www.thebuyzaarmart.com/cities/gangoh/supermarket-franchise-in-gangoh</loc>
+  <priority>0.7</priority>
+  </url>
+
+  <url>
+  <loc>https://www.thebuyzaarmart.com/cities/gangoh/grocery-mart-franchise-in-gangoh</loc>
+  <priority>0.7</priority>
+  </url>
+ <!-- Muzaffarnagar Pages-->
+  <url>
     <loc>https://www.thebuyzaarmart.com/cities/muzaffarnagar</loc>
     <priority>0.8</priority>
   </url>
-
+ <!-- Saharanpur Pages-->
   <url>
     <loc>https://www.thebuyzaarmart.com/cities/saharanpur</loc>
     <priority>0.8</priority>

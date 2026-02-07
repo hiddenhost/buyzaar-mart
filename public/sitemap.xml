@@ -39,6 +39,11 @@
     <loc>https://www.thebuyzaarmart.com/cities/meerut</loc>
     <priority>0.8</priority>
   </url>
+
+    <url>
+  <loc>https://www.thebuyzaarmart.com/cities/meerut/grocery-franchise-opportunity-meerut</loc>
+  <priority>0.7</priority>
+  </url>
  <!-- Gangoh Pages-->
   <url>
     <loc>https://www.thebuyzaarmart.com/cities/gangoh</loc>

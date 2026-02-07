@@ -925,7 +925,7 @@ const Calculator = ({ openModal }) => {
       icon: "https://cdn-icons-png.flaticon.com/128/4963/4963840.png",
       description: "1001-3000 sqft",
       stockPerSqft: 1100,
-      interiorPerSqft: 900,
+      interiorPerSqft: 1000,
       softwareFee: 100000,
       franchiseFee: 250000,
     },

@@ -240,6 +240,10 @@ export default function FranchiseEnquiryForm() {
           <option>Gurgaon</option>
           <option>Meerut</option>
           <option>Moradabad</option>
+          <option>Saharanpur</option>
+          <option>Gangoh</option>
+          <option>Muzaffarnagar</option>
+          <option>Aligarh</option>
           <option>Lucknow</option>
           <option>Kanpur</option>
           <option>Varanasi</option>
@@ -255,7 +259,7 @@ export default function FranchiseEnquiryForm() {
         >
           <option value="">Select State</option>
           <option>Uttar Pradesh</option>
-          <option>Delhi (NCT)</option>
+          <option>Delhi (NCR)</option>
           <option>Haryana</option>
           <option>Rajasthan</option>
           <option>Uttarakhand</option>

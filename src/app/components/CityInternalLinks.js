@@ -18,7 +18,7 @@ export default function CityInternalLinks({
   return (
     <section className="mt-12 border-t pt-8">
       <h3 className="text-1xl font-semibold mb-4">
-        Related Pages in {city.charAt(0).toUpperCase() + city.slice(1)}
+        Explore More Franchise Opportunities 
       </h3>
 
       <ul className="grid sm:grid-cols-4 gap-3">

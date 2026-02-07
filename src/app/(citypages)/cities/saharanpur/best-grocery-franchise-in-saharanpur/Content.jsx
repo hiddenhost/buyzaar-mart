@@ -48,7 +48,7 @@ const Content = () => {
             <p>Target high-traffic spots like near Grain Mandi or residential hubs.</p>
             <p>Ideal fit:</p>
             <ul className="list-disc list-inside space-y-2 ml-4">
-              <li>200-500 sq ft spaces.</li>
+              <li>600-1000 sq ft spaces.</li>
               <li>Beginner-friendly onboarding.</li>
             </ul>
             <p><strong>Benefit:</strong> Location-franchise synergy boosts sales 30%.</p>
@@ -139,7 +139,7 @@ const Content = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">2. What space suits best grocery franchise Saharanpur?</h3>
-                <p>200-500 sq ft in busy areas like Delhi Road or Gangoh.</p>
+                <p>600-1000 sq ft in busy areas like Delhi Road or Gangoh.</p>
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">3. Do top franchises support beginners in Saharanpur?</h3>

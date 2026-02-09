@@ -68,6 +68,14 @@
     <loc>https://www.thebuyzaarmart.com/cities/muzaffarnagar</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.thebuyzaarmart.com/cities/muzaffarnagar/supermarket-franchise-in-muzaffarnagar</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thebuyzaarmart.com/cities/muzaffarnagar/grocery-mart-franchise-in-muzaffarnagar</loc>
+    <priority>0.8</priority>
+  </url>
  <!-- Saharanpur Pages-->
   <url>
     <loc>https://www.thebuyzaarmart.com/cities/saharanpur</loc>

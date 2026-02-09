@@ -53,8 +53,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Noida&apos;s growth as a commercial hub fuels supermarket demand. Our franchises thrive in
-              sectors like 44 and 62.
+              With Noida rapidly emerging as a leading commercial hub, we are strategically expanding our supermarket franchise network in high-growth locations such as Sectors 44 and 62.
             </p>
 
             <h3 className="text-lg font-semibold text-gray-900">

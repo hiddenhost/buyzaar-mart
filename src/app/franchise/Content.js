@@ -347,12 +347,12 @@ export default function FranchisePage() {
                 <span className="mt-1 text-gray-600 flex-shrink-0">●</span>
                 <span>ID Proof: Aadhar/Pan/Voter ID</span>
               </div>
-              <div className="bg-gray-50 rounded-lg px-3 sm:px-4 py-2 flex items-start gap-2 text-xs sm:text-sm">
+              {/* <div className="bg-gray-50 rounded-lg px-3 sm:px-4 py-2 flex items-start gap-2 text-xs sm:text-sm">
                 <span className="mt-1 text-gray-600 flex-shrink-0">●</span>
                 <span>
                   Address proof: Electricity Bill/Rent Agreement/Ration Card
                 </span>
-              </div>
+              </div> */}
             </div>
           </div>
           
@@ -380,7 +380,7 @@ export default function FranchisePage() {
             </div>
           </div>
           
-          <div className="mb-3 sm:mb-4 mt-4 sm:mt-6 pb-2">
+          {/* <div className="mb-3 sm:mb-4 mt-4 sm:mt-6 pb-2">
             <div className="font-bold text-gray-900 mb-2 text-sm sm:text-base">
               Additional Details(Not Documents): For applicant KYC
             </div>
@@ -394,7 +394,7 @@ export default function FranchisePage() {
                 <span>Work experience/background/skills</span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
 
@@ -477,7 +477,7 @@ export default function FranchisePage() {
           </div>
 
           {/* Your Selected Module */}
-          <div>
+          {/* <div>
             <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
               Your Selected Module
             </h3>
@@ -487,7 +487,7 @@ export default function FranchisePage() {
               <option value="FICO">FICO</option>
               <option value="FICO Premium">FICO Premium</option>
             </select>
-          </div>
+          </div> */}
 
           {/* Identity Proof */}
           <div>
@@ -581,7 +581,7 @@ export default function FranchisePage() {
           </div>
 
           {/* Education */}
-          <div>
+          {/* <div>
             <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
               Educational Qualification
             </h3>
@@ -610,10 +610,10 @@ export default function FranchisePage() {
                 </span>
               </div>
             </label>
-          </div>
+          </div> */}
 
           {/* Work Experience */}
-          <div>
+          {/* <div>
             <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
               Work Experience & Skills
             </h3>
@@ -627,10 +627,10 @@ export default function FranchisePage() {
               placeholder="Relevant Skills or Certifications if any"
               name="skills"
             />
-          </div>
+          </div> */}
 
           {/* Financial Info */}
-          <div>
+          {/* <div>
             <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
               Financial Information
             </h3>
@@ -648,7 +648,7 @@ export default function FranchisePage() {
                 <option>No</option>
               </select>
             </div>
-          </div>
+          </div> */}
 
           {/* Banking Details */}
           <div>
@@ -754,7 +754,7 @@ export default function FranchisePage() {
           </div>
 
           {/* References */}
-          <div>
+          {/* <div>
             <h3 className="text-lg sm:text-xl font-bold text-black mb-3 sm:mb-4">
               References - Two known persons (Optional)
             </h3>
@@ -782,7 +782,7 @@ export default function FranchisePage() {
                 name="reference2_contact"
               />
             </div>
-          </div>
+          </div> */}
 
           {/* Agent/Employee Declaration */}
           <div className="rounded-xl bg-gray-50 p-4 sm:p-6 md:p-8 shadow mt-6 sm:mt-8">

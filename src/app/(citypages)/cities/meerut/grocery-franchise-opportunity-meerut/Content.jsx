@@ -69,12 +69,12 @@ const Content = () => {
             <div className="bg-gray-50 p-4 rounded-lg space-y-3">
               <div>
                 <h4 className="font-semibold text-gray-900">Mini Mart (600-1000 sq ft)</h4>
-                <p className="text-sm">Investment: ₹15-16 lakhs | Perfect for residential neighborhoods</p>
+                <p className="text-sm">Investment: ₹15-23 lakhs | Perfect for residential neighborhoods</p>
               </div>
               
               <div>
                 <h4 className="font-semibold text-gray-900">Super Mart (1001-3000 sq ft)</h4>
-                <p className="text-sm">Investment: ₹42-50 lakhs | Ideal for mixed commercial-residential areas</p>
+                <p className="text-sm">Investment: ₹26-71 lakhs | Ideal for mixed commercial-residential areas</p>
               </div>
               
               <div>
@@ -105,7 +105,7 @@ const Content = () => {
                 </tr>
                 <tr>
                   <td className="border border-gray-300 px-4 py-2">Interior & Fixtures</td>
-                  <td className="border border-gray-300 px-4 py-2">₹16,20,000</td>
+                  <td className="border border-gray-300 px-4 py-2">₹18,00,000</td>
                 </tr>
                 <tr>
                   <td className="border border-gray-300 px-4 py-2">Franchise Fee</td>
@@ -113,7 +113,7 @@ const Content = () => {
                 </tr>
                 <tr>
                   <td className="border border-gray-300 px-4 py-2">Security Deposit (Refundable)</td>
-                  <td className="border border-gray-300 px-4 py-2">₹2,66,067</td>
+                  <td className="border border-gray-300 px-4 py-2">₹2,78,067</td>
                 </tr>
                 <tr>
                   <td className="border border-gray-300 px-4 py-2">Software & Technology Setup</td>
@@ -121,7 +121,7 @@ const Content = () => {
                 </tr>
                 <tr className="bg-gray-100 font-semibold">
                   <td className="border border-gray-300 px-4 py-2">Total Investment</td>
-                  <td className="border border-gray-300 px-4 py-2">₹42-50 Lakhs (approx)</td>
+                  <td className="border border-gray-300 px-4 py-2">₹44-45 Lakhs (approx)</td>
                 </tr>
               </tbody>
             </table>

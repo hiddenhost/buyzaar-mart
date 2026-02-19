@@ -12,35 +12,35 @@ export default function FAQPage() {
   };
 
   const faqSections = [
-    {
-      title: "General Questions",
-      faqs: [
-        {
-          question: "How to start a Supermarket Franchise in India?",
-          answer: "Look for a respectable and reputed franchise supermarket brand. Talk to the team about your requirements, their operating strategy, market analysis, financial plans, and company plan. Choose an area that shows promise for your market business. Obtain every licensing and permit. Sign a carefully Drafted contract. Finish the training course that the franchisor has supplied. Before opening, set up your store, hire employees, and organize your marketing efforts."
-        },
-        {
-          question: "What Licenses Do I Need to Open a Supermarket in India?",
-          answer: "Here is a list of licenses you will need to open a supermarket in India:\n• Business Registration (as a proprietorship, partnership, LLP, or Pvt Ltd company)\n• Trade License from the local municipality\n• FSSAI License (mandatory if selling food items)\n• GST Registration\n• Shops and Establishment Act registration\n• Franchise Agreement with the franchisor"
-        },
-        {
-          question: "Is a supermarket Franchise a Good investment option?",
-          answer: "Yes, a supermarket franchise has a well-known identity, tested business plans, and continuous franchisor support. They are therefore a more secure investment than starting a brand-new store. Franchised supermarkets can turn a profit if the management is solid and experienced."
-        },
-        {
-          question: "What is the minimum requirement To Open a Supermarket in India?",
-          answer: "Some characteristics are nearly universal, even though the answer to the least requirement may vary from company to firm. For small businesses, the minimum investment is ₹5 lakh; for large urban shops, it might reach ₹2 crore. Appropriate business space in a permitted area, basic infrastructure includes inventory, billing counters, shelving, and refrigeration if necessary. The licenses and permits mentioned above are necessary. Personnel with operational training."
-        },
-        {
-          question: "Is the Supermarket profitable in India?",
-          answer: "Yes! In India, supermarkets are hugely profitable. But this relies on the supermarket's size, management, and location! Because of their enormous sales volume and variety of products, well-managed stores can generate significant returns. In India, supermarket franchises typically have a 10-15% net profit margin. The industry offers consistent earning potential and is thought to be recession-resistant."
-        },
-        {
-          question: "How to start a Mini Supermarket Franchise?",
-          answer: "To start your own franchise: Select a franchise brand that provides express or tiny store formats. Create a business plan and find funding (usually ₹10-20 lakh for urban mini-stores, ₹1-3 lakh for rural locations). Obtain all required licenses, particularly the FSSAI if you are selling food. Choose a small area with lots of foot traffic and set up the business according to franchise regulations. Employ a small crew, train them, and concentrate on effective inventory control."
-        }
-      ]
-    },
+    // {
+    //   title: "General Questions",
+    //   faqs: [
+    //     {
+    //       question: "How to start a Supermarket Franchise in India?",
+    //       answer: "Look for a respectable and reputed franchise supermarket brand. Talk to the team about your requirements, their operating strategy, market analysis, financial plans, and company plan. Choose an area that shows promise for your market business. Obtain every licensing and permit. Sign a carefully Drafted contract. Finish the training course that the franchisor has supplied. Before opening, set up your store, hire employees, and organize your marketing efforts."
+    //     },
+    //     {
+    //       question: "What Licenses Do I Need to Open a Supermarket in India?",
+    //       answer: "Here is a list of licenses you will need to open a supermarket in India:\n• Business Registration (as a proprietorship, partnership, LLP, or Pvt Ltd company)\n• Trade License from the local municipality\n• FSSAI License (mandatory if selling food items)\n• GST Registration\n• Shops and Establishment Act registration\n• Franchise Agreement with the franchisor"
+    //     },
+    //     {
+    //       question: "Is a supermarket Franchise a Good investment option?",
+    //       answer: "Yes, a supermarket franchise has a well-known identity, tested business plans, and continuous franchisor support. They are therefore a more secure investment than starting a brand-new store. Franchised supermarkets can turn a profit if the management is solid and experienced."
+    //     },
+    //     {
+    //       question: "What is the minimum requirement To Open a Supermarket in India?",
+    //       answer: "Some characteristics are nearly universal, even though the answer to the least requirement may vary from company to firm. For small businesses, the minimum investment is ₹5 lakh; for large urban shops, it might reach ₹2 crore. Appropriate business space in a permitted area, basic infrastructure includes inventory, billing counters, shelving, and refrigeration if necessary. The licenses and permits mentioned above are necessary. Personnel with operational training."
+    //     },
+    //     {
+    //       question: "Is the Supermarket profitable in India?",
+    //       answer: "Yes! In India, supermarkets are hugely profitable. But this relies on the supermarket's size, management, and location! Because of their enormous sales volume and variety of products, well-managed stores can generate significant returns. In India, supermarket franchises typically have a 10-15% net profit margin. The industry offers consistent earning potential and is thought to be recession-resistant."
+    //     },
+    //     {
+    //       question: "How to start a Mini Supermarket Franchise?",
+    //       answer: "To start your own franchise: Select a franchise brand that provides express or tiny store formats. Create a business plan and find funding (usually ₹10-20 lakh for urban mini-stores, ₹1-3 lakh for rural locations). Obtain all required licenses, particularly the FSSAI if you are selling food. Choose a small area with lots of foot traffic and set up the business according to franchise regulations. Employ a small crew, train them, and concentrate on effective inventory control."
+    //     }
+    //   ]
+    // },
     {
       title: "The Buyzaar Mart",
       faqs: [

@@ -1,7 +1,6 @@
 "use client";
 import React, { useState } from "react";
 import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
 import Calculator from "../components/Calculator";
 import Services from "../components/Services";
 import FranchisePopupModal from "../components/FranchisePopup";
@@ -985,7 +984,7 @@ export default function FranchisePage() {
       `}</style>
 
 
-      <Footer />
+    
     </div>
   );
 }

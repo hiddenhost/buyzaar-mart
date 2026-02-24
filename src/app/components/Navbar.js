@@ -302,7 +302,7 @@ const Navbar = () => {
                       >
                         Store Features
                       </Link>
-                      {/* <Link
+                      <Link
                         href="/our-module"
                         className={`block px-4 py-3 transition-colors duration-300 font-medium ${
                           isActiveLink("/our-module")
@@ -312,7 +312,7 @@ const Navbar = () => {
                         onClick={() => setIsServicesDropdownOpen(false)}
                       >
                         Our Module
-                      </Link> */}
+                      </Link>
                       <Link
                         href="/our-store"
                         className={`block px-4 py-3 transition-colors duration-300 font-medium ${
@@ -515,7 +515,7 @@ const Navbar = () => {
                   >
                     Store Features
                   </Link>
-                  {/* <Link
+                  <Link
                     href="/our-module"
                     onClick={closeMobileMenu}
                     className={`block px-3 py-2 rounded-md transition-colors duration-300 ${
@@ -525,7 +525,7 @@ const Navbar = () => {
                     }`}
                   >
                    Our Module
-                  </Link> */}
+                  </Link>
                   <Link
                     href="our-store"
                     onClick={closeMobileMenu}

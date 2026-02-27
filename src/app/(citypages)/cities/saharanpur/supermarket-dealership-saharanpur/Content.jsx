@@ -227,35 +227,62 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
-              Franchise Models: Choose Your Involvement Level
-            </h2>
+  Franchise Models: Choose Your Involvement Level
+</h2>
 
-            <p>
-              The Buyzaar Mart offers flexible partnership structures to match different entrepreneurial preferences:
-            </p>
+<p className="mt-2 text-gray-700">
+  The Buyzaar Mart offers flexible partnership structures designed to suit different entrepreneurial and investment preferences.
+</p>
 
-            <div className="space-y-3 mt-3">
-              <div className="bg-gray-50 p-4 rounded-lg">
-                <h3 className="font-semibold text-gray-900">FICO (Franchise Investment, Company Operated)</h3>
-                <p className="text-sm mt-1">
-                  You invest in the dealership while The Buyzaar Mart handles all daily management, operations, and staffing. Ideal for investors seeking retail income without hands-on involvement.
-                </p>
-              </div>
+<div className="space-y-4 mt-4">
+  <div className="bg-gray-50 p-5 rounded-lg">
+    <h3 className="font-semibold text-gray-900 text-lg">
+      FOCM (Franchise Owned, Company Managed)
+    </h3>
 
-              <div className="bg-gray-50 p-4 rounded-lg">
-                <h3 className="font-semibold text-gray-900">FICO Premium</h3>
-                <p className="text-sm mt-1">
-                  Enhanced investment model offering premium locations, exclusive product lines, advanced technology, and higher revenue-sharing arrangements. For investors targeting maximum returns.
-                </p>
-              </div>
+    <p className="text-sm text-gray-700 mt-2">
+      The Buyzaar Mart’s FOCM model targets <strong>18–20% gross margins</strong> on daily FMCG essentials such as groceries through company-led operations and optimized supply chains.
+    </p>
 
-              <div className="bg-gray-50 p-4 rounded-lg">
-                <h3 className="font-semibold text-gray-900">FOFO (Franchise Owned, Franchise Operated)</h3>
-                <p className="text-sm mt-1">
-                  You invest and actively manage your dealership with complete Buyzaar Mart support. Perfect for hands-on entrepreneurs who want direct business control.
-                </p>
-              </div>
-            </div>
+    <p className="text-sm text-gray-700 mt-3">
+      In this hybrid franchise structure, the franchisee invests capital and owns the outlet assets, while the company fully manages store setup, inventory, staffing, customer service, billing, marketing, and compliance as per standardized SOPs. This model ensures fixed returns or revenue sharing with minimal hands-on involvement.
+    </p>
+
+    <p className="text-sm text-gray-700 mt-3">
+      For high-demand regions like <strong>Saharanpur, Uttar Pradesh</strong>, the FOCM model leverages company-led RTV policies and POS technology to reduce operational risks while maximizing efficiency—making it ideal for passive investors.
+    </p>
+  </div>
+
+  <div className="bg-white border border-gray-200 p-5 rounded-lg">
+    <h4 className="font-semibold text-gray-900 mb-3">
+      Key Features of FOCM
+    </h4>
+
+    <ul className="space-y-2 text-sm text-gray-700 list-disc list-inside">
+      <li>
+        <strong>Ownership by Franchisee:</strong> Franchisee invests in and owns the physical outlet, including infrastructure, licenses, and setup costs.
+      </li>
+      <li>
+        <strong>Company-Managed Operations:</strong> Daily operations, staffing, and management handled by company experts.
+      </li>
+      <li>
+        <strong>Standardized Processes:</strong> Uniform service quality, product consistency, and customer experience across outlets.
+      </li>
+      <li>
+        <strong>Professional Staff Deployment:</strong> Trained personnel reduce operational burden on the franchisee.
+      </li>
+      <li>
+        <strong>Brand Consistency:</strong> Centralized control maintains brand reputation and operational standards.
+      </li>
+      <li>
+        <strong>Reduced Operational Risk:</strong> Professional oversight minimizes risks of mismanagement.
+      </li>
+      <li>
+        <strong>Performance Monitoring:</strong> Continuous KPI, sales, and quality tracking for sustained growth.
+      </li>
+    </ul>
+  </div>
+</div>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-8">
               Secure Your Supermarket Dealership Today

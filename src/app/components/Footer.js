@@ -56,7 +56,7 @@ function ConsentForm() {
     const form = e.target;
     const data = new FormData(form);
     try {
-      await fetch("https://formsubmit.co/ajax/pathakmansi608@gmail.com", {
+      await fetch("https://formsubmit.co/ajax/info@thebuyzaarmart.com", {
         method: "POST",
         headers: { Accept: "application/json" },
         body: data,

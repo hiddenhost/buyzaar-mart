@@ -47,36 +47,41 @@ const Calculator = ({ openModal }) => {
     },
   };
 
-  // Calculate costs based on the pricing structure
+  // ✅ Always clamp the area for calculation purposes
+  const getEffectiveArea = () => {
+    const numericArea = Number(area);
+    if (!numericArea || numericArea < 600) return 600;
+    if (numericArea > 8000) return 8000;
+    return numericArea;
+  };
+
   const calculateCosts = () => {
     const martDetails = franchiseSizes[selectedSize];
+    const effectiveArea = getEffectiveArea(); // ✅ use clamped area
 
-    const stock = area * martDetails.stockPerSqft;
-    const interior = area * martDetails.interiorPerSqft;
+    const stock = effectiveArea * martDetails.stockPerSqft;
+    const interior = effectiveArea * martDetails.interiorPerSqft;
     const softwareFee = martDetails.softwareFee;
     const franchiseFeeWithGST = martDetails.franchiseFeeWithGST;
 
-    // Calculate subtotal (stock + interior + software + franchise fee with GST)
     const subtotal = stock + interior + softwareFee + franchiseFeeWithGST;
-
-    // Calculate security deposit (6.66% of subtotal, minimum ₹1,00,000)
     const calculatedSecurity = Math.round(subtotal * 0.0666);
     const security = Math.max(calculatedSecurity, 100000);
 
     return { stock, interior, softwareFee, franchiseFeeWithGST, security };
   };
 
-  // Automatically determine store type based on area
+  // Auto-select store type based on effective (clamped) area
   useEffect(() => {
+    const effectiveArea = getEffectiveArea();
+
     let newStoreType;
-    if (area >= 600 && area <= 1000) {
+    if (effectiveArea <= 1000) {
       newStoreType = "Mini Mart";
-    } else if (area >= 1001 && area <= 3000) {
+    } else if (effectiveArea <= 3000) {
       newStoreType = "Super Mart";
-    } else if (area >= 3001 && area <= 8000) {
-      newStoreType = "Hyper Mart";
     } else {
-      newStoreType = selectedSize;
+      newStoreType = "Hyper Mart";
     }
 
     if (newStoreType !== selectedSize) {
@@ -84,23 +89,25 @@ const Calculator = ({ openModal }) => {
     }
   }, [area, selectedSize]);
 
-  // Calculate costs when area or type changes
+  // Recalculate costs whenever area or store type changes
   useEffect(() => {
     setCosts(calculateCosts());
   }, [area, selectedSize]);
 
-  // Total cost is sum of all cost components
   const totalCost = costs.stock + costs.interior + costs.softwareFee + costs.franchiseFeeWithGST + costs.security;
 
   const formatCurrency = (amount) => {
     return new Intl.NumberFormat("en-IN").format(amount);
   };
 
+  // ✅ Completely free typing — no restrictions, no clamping on change
   const handleAreaChange = (e) => {
-    const value = parseInt(e.target.value) || 600;
-    if (value >= 600 && value <= 8000) {
-      setArea(value);
-    }
+    setArea(e.target.value); // store raw string exactly as typed
+  };
+
+  // ✅ On blur, only reset if completely empty
+  const handleAreaBlur = () => {
+    if (area === "" || area === null || area === undefined) setArea(600);
   };
 
   const handleApplyForFranchise = () => {
@@ -221,6 +228,7 @@ const Calculator = ({ openModal }) => {
                       type="number"
                       value={area}
                       onChange={handleAreaChange}
+                      onBlur={handleAreaBlur}
                       min={600}
                       max={8000}
                       step={1}
@@ -239,17 +247,10 @@ const Calculator = ({ openModal }) => {
                     type="range"
                     min={600}
                     max={8000}
-                    value={area}
+                    value={getEffectiveArea()}
                     step={1}
-                    onChange={(e) => setArea(parseInt(e.target.value))}
+                    onChange={(e) => setArea(Number(e.target.value))}
                     className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer slider"
-                    style={{
-                      background: `linear-gradient(to right, #b00000 0%, #b00000 ${
-                        ((area - 600) / (8000 - 600)) * 100
-                      }%, #e5e7eb ${
-                        ((area - 600) / (8000 - 600)) * 100
-                      }%, #e5e7eb 100%)`,
-                    }}
                   />
                 </div>
               </div>
@@ -264,9 +265,7 @@ const Calculator = ({ openModal }) => {
               <div className="space-y-3">
                 {/* Stock */}
                 <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">
-                    Stock
-                  </span>
+                  <span className="text-sm sm:text-base text-gray-600">Stock</span>
                   <span className="text-sm sm:text-base font-semibold text-gray-800">
                     ₹ {formatCurrency(costs.stock)}
                   </span>
@@ -274,9 +273,7 @@ const Calculator = ({ openModal }) => {
 
                 {/* Interior */}
                 <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">
-                    Interior
-                  </span>
+                  <span className="text-sm sm:text-base text-gray-600">Interior</span>
                   <span className="text-sm sm:text-base font-semibold text-gray-800">
                     ₹ {formatCurrency(costs.interior)}
                   </span>
@@ -284,15 +281,13 @@ const Calculator = ({ openModal }) => {
 
                 {/* Software Fee */}
                 <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">
-                    Software Fee
-                  </span>
+                  <span className="text-sm sm:text-base text-gray-600">Software Fee</span>
                   <span className="text-sm sm:text-base font-semibold text-gray-800">
                     ₹ {formatCurrency(costs.softwareFee)}
                   </span>
                 </div>
 
-                {/* Franchise Fee (with GST) */}
+                {/* Franchise Fee */}
                 <div className="flex justify-between items-center pb-2 border-b border-gray-200">
                   <span className="text-sm sm:text-base text-gray-600">
                     Franchise Fee (incl. 18% GST)
@@ -302,11 +297,9 @@ const Calculator = ({ openModal }) => {
                   </span>
                 </div>
 
-                {/* Security Deposit */}
+                {/* Security */}
                 <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">
-                    Security Deposit
-                  </span>
+                  <span className="text-sm sm:text-base text-gray-600">Security Deposit</span>
                   <span className="text-sm sm:text-base font-semibold text-gray-800">
                     ₹ {formatCurrency(costs.security)}
                   </span>
@@ -324,7 +317,7 @@ const Calculator = ({ openModal }) => {
               </div>
 
               <p className="text-xs sm:text-sm text-gray-500 mt-4 text-center">
-                {selectedSize} - {area} sqft
+                {selectedSize} - {getEffectiveArea()} sqft
               </p>
 
               {/* Buttons Container */}
@@ -335,11 +328,7 @@ const Calculator = ({ openModal }) => {
                   className="w-full sm:w-auto bg-black hover:bg-[#b00000] text-white cursor-pointer font-semibold py-3 px-6 rounded-xl transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center space-x-3"
                   style={{ minHeight: "44px" }}
                 >
-                  <svg
-                    className="w-5 h-5"
-                    fill="currentColor"
-                    viewBox="0 0 20 20"
-                  >
+                  <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                     <path
                       fillRule="evenodd"
                       d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z"
@@ -355,11 +344,7 @@ const Calculator = ({ openModal }) => {
                   className="w-full sm:w-auto bg-white hover:bg-black hover:text-white border border-[#b00000] font-semibold py-3 px-6 rounded-xl transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center space-x-3"
                   style={{ minHeight: "44px" }}
                 >
-                  <svg
-                    className="w-5 h-5"
-                    fill="currentColor"
-                    viewBox="0 0 20 20"
-                  >
+                  <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                     <path
                       fillRule="evenodd"
                       d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"

@@ -18,6 +18,7 @@ import HomeBrandImages from "../app/components/HomeBrandImages";
 import StoreLocator from "../app/components/storelocator";
 import ApplyNowButton from "./ApplyNow";
 
+
 const HomeClient = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -37,6 +38,7 @@ const HomeClient = () => {
       <WhyChoose />
       <Calculator />
       <FranchiseApplication />
+  
       <StoreLocator />
       <Brands />
     

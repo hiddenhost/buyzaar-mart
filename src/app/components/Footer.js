@@ -1,5 +1,5 @@
 "use client";
-import React from "react";
+import React, { useState } from "react";
 
 // Lucide React Icons
 const Phone = ({ className }) => (
@@ -45,11 +45,205 @@ const ExternalLink = ({ className }) => (
   </svg>
 );
 
+// ─── Consent Form ────────────────────────────────────────────────────────────
+function ConsentForm() {
+  const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setLoading(true);
+    const form = e.target;
+    const data = new FormData(form);
+    try {
+      await fetch("https://formsubmit.co/ajax/pathakmansi608@gmail.com", {
+        method: "POST",
+        headers: { Accept: "application/json" },
+        body: data,
+      });
+    } catch (err) {
+      // still show success
+    } finally {
+      setSubmitted(true);
+      setLoading(false);
+    }
+  };
+
+  return (
+    <div>
+      <h2 style={formStyles.title}>Meta Business Verification</h2>
+      <p style={formStyles.subtitle}>
+        Complete the form below to apply for Meta Business Verification. Our
+        team will review your details and get in touch shortly.
+      </p>
+
+      {submitted ? (
+        <p style={formStyles.successMessage}>
+          ✅ Your form has been submitted successfully. We&apos;ll be in touch soon!
+        </p>
+      ) : (
+        <form onSubmit={handleSubmit}>
+          <input type="hidden" name="_captcha" value="false" />
+          <input
+            type="hidden"
+            name="_subject"
+            value="New Meta Verification Form Submission"
+          />
+
+          <div style={formStyles.fieldGroup}>
+            <label style={formStyles.label}>
+              First Name <span style={formStyles.required}>*</span>
+            </label>
+            <input type="text" name="first_name" required style={formStyles.input} />
+          </div>
+
+          <div style={formStyles.fieldGroup}>
+            <label style={formStyles.label}>
+              Last Name <span style={formStyles.required}>*</span>
+            </label>
+            <input type="text" name="last_name" required style={formStyles.input} />
+          </div>
+
+          <div style={formStyles.fieldGroup}>
+            <label style={formStyles.label}>Company</label>
+            <input type="text" name="company" style={formStyles.input} />
+          </div>
+
+          <div style={formStyles.fieldGroup}>
+            <label style={formStyles.label}>
+              Phone Number <span style={formStyles.required}>*</span>
+            </label>
+            <input type="tel" name="phone_number" required style={formStyles.input} />
+          </div>
+
+          <p style={formStyles.termsText}>
+            By clicking Submit, you agree to our{" "}
+            <a href="#" style={formStyles.link}>Terms of Service</a> and that you
+            have read our <a href="#" style={formStyles.link}>Privacy Policy</a>.
+          </p>
+
+          <div style={formStyles.checkboxRow}>
+            <input
+              type="checkbox"
+              name="sms_consent"
+              id="sms_consent_footer"
+              required
+              defaultChecked
+              style={formStyles.checkbox}
+            />
+            <label htmlFor="sms_consent_footer" style={formStyles.checkboxLabel}>
+              I hereby authorize to send notifications on SMS/ Messages/Promotional
+              /informational messages
+            </label>
+          </div>
+
+          <div style={formStyles.buttonWrapper}>
+            <button type="submit" style={formStyles.button} disabled={loading}>
+              {loading ? "Submitting..." : "Submit"}
+            </button>
+          </div>
+        </form>
+      )}
+    </div>
+  );
+}
+
+const formStyles = {
+  title: {
+    fontSize: "17px",
+    fontWeight: "bold",
+    marginBottom: "6px",
+    color: "#000",
+  },
+  subtitle: {
+    fontSize: "12px",
+    color: "#555",
+    marginBottom: "16px",
+    lineHeight: "1.6",
+  },
+  fieldGroup: {
+    marginBottom: "12px",
+  },
+  label: {
+    display: "block",
+    fontSize: "12px",
+    color: "#333",
+    marginBottom: "3px",
+  },
+  required: {
+    color: "red",
+  },
+  input: {
+    width: "100%",
+    padding: "7px 10px",
+    border: "1px solid #ccc",
+    borderRadius: "2px",
+    fontSize: "13px",
+    boxSizing: "border-box",
+    outline: "none",
+    backgroundColor: "#fff",
+  },
+  termsText: {
+    textAlign: "center",
+    fontSize: "11px",
+    color: "#888",
+    marginTop: "14px",
+    marginBottom: "14px",
+    lineHeight: "1.5",
+  },
+  link: {
+    color: "#4a9fd4",
+    textDecoration: "none",
+  },
+  checkboxRow: {
+    display: "flex",
+    alignItems: "flex-start",
+    gap: "8px",
+    marginBottom: "16px",
+    fontSize: "12px",
+    color: "#333",
+  },
+  checkbox: {
+    marginTop: "2px",
+    width: "14px",
+    height: "14px",
+    flexShrink: 0,
+    cursor: "pointer",
+  },
+  checkboxLabel: {
+    fontSize: "12px",
+    color: "#333",
+    lineHeight: "1.5",
+    cursor: "pointer",
+  },
+  buttonWrapper: {
+    display: "flex",
+    justifyContent: "center",
+  },
+  button: {
+    backgroundColor: "#222",
+    color: "#fff",
+    border: "none",
+    padding: "9px 32px",
+    fontSize: "13px",
+    cursor: "pointer",
+    borderRadius: "2px",
+    letterSpacing: "0.5px",
+  },
+  successMessage: {
+    fontSize: "14px",
+    color: "#2e7d32",
+    marginTop: "20px",
+    textAlign: "center",
+    lineHeight: "1.6",
+  },
+};
+
+// ─── Footer ───────────────────────────────────────────────────────────────────
 const Footer = () => {
   const quickLinks = [
     { name: "Home", href: "/" },
     { name: "About Us", href: "/#about" },
-    // { name: "Our Module", href: "/our-module" },
     { name: "Services", href: "/#services" },
     { name: "Contact", href: "/contact" },
   ];
@@ -58,7 +252,6 @@ const Footer = () => {
     { name: "Privacy Policy", href: "/privacy-policy" },
     { name: "Terms & Conditions", href: "/terms-conditions" },
     { name: "FAQs", href: "/faqs" },
-
   ];
 
   const socialLinks = [
@@ -84,8 +277,9 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Main Footer Content */}
         <div className="py-16">
-          <div className="grid lg:grid-cols-4 gap-4 lg:gap-12">
-            {/* Company Info */}
+          <div className="grid lg:grid-cols-5 gap-4 lg:gap-10">
+
+            {/* Company Info — spans 2 cols */}
             <div className="lg:col-span-2 space-y-4">
               <div>
                 <img
@@ -121,18 +315,14 @@ const Footer = () => {
                     <Phone className="w-5 h-5 text-black mt-1 shrink-0" />
                     <div className="text-sm">
                       <p className="text-gray-900 font-medium">9311939160 , 9311939161</p>
-                      <p className="text-gray-900 mt-1">
-                        Mon-Sat 9:00 AM - 7:00 PM
-                      </p>
+                      <p className="text-gray-900 mt-1">Mon-Sat 9:00 AM - 7:00 PM</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-3">
                     <Mail className="w-5 h-5 text-black mt-1 shrink-0" />
                     <div className="text-sm">
-                      <p className="text-gray-900 font-medium">info@thebuyzaarmart.com  </p>
-                      <p className="text-gray-900 mt-1">
-                        Response within 24 hours
-                      </p>
+                      <p className="text-gray-900 font-medium">info@thebuyzaarmart.com</p>
+                      <p className="text-gray-900 mt-1">Response within 24 hours</p>
                     </div>
                   </div>
                 </div>
@@ -141,9 +331,7 @@ const Footer = () => {
 
             {/* Quick Links */}
             <div className="space-y-6">
-              <h4 className="text-lg font-semibold text-black mb-6">
-                Quick Links
-              </h4>
+              <h4 className="text-lg font-semibold text-black mb-6">Quick Links</h4>
               <ul className="space-y-4">
                 {quickLinks.map((link, index) => (
                   <li key={index}>
@@ -156,14 +344,10 @@ const Footer = () => {
                   </li>
                 ))}
               </ul>
-            </div>
 
-            {/* Legal & Social */}
-            <div className="space-y-6">
-              <h4 className="text-lg font-semibold text-black mb-6">
-                Legal & Compliance
-              </h4>
-              <ul className="space-y-4 mb-8">
+              {/* Legal */}
+              <h4 className="text-lg font-semibold text-black pt-4">Legal & Compliance</h4>
+              <ul className="space-y-4">
                 {legalLinks.map((link, index) => (
                   <li key={index}>
                     <a
@@ -179,9 +363,7 @@ const Footer = () => {
 
               {/* Social Media */}
               <div>
-                <h5 className="text-md font-semibold text-black mb-4">
-                  Follow Us
-                </h5>
+                <h5 className="text-md font-semibold text-black mb-4">Follow Us</h5>
                 <div className="flex space-x-3">
                   {socialLinks.map((social, index) => (
                     <a
@@ -198,38 +380,39 @@ const Footer = () => {
                 </div>
               </div>
             </div>
+
+            {/* Consent Form — right corner, spans 2 cols */}
+            <div
+              className="lg:col-span-2"
+              style={{
+                backgroundColor: "#fff",
+                borderRadius: "8px",
+                padding: "24px 20px",
+                boxShadow: "0 2px 12px rgba(0,0,0,0.10)",
+                alignSelf: "start",
+              }}
+            >
+              <ConsentForm />
+            </div>
+
           </div>
         </div>
 
         {/* Government Partnership & MSME Disclaimer */}
         <div className="border-t border-gray-900 py-8">
-
-
           {/* Certifications & Licenses */}
           <div className="grid md:grid-cols-3 gap-6 mb-6">
             <div className="bg-gray-900/30 rounded-lg p-4 text-center">
-              <div className="text-black font-semibold text-sm mb-1">
-                FSSAI Licensed
-              </div>
-              <div className="text-xs text-gray-900">
-                Food Safety & Standards Authority of India
-              </div>
+              <div className="text-black font-semibold text-sm mb-1">FSSAI Licensed</div>
+              <div className="text-xs text-gray-900">Food Safety & Standards Authority of India</div>
             </div>
             <div className="bg-gray-900/30 rounded-lg p-4 text-center">
-              <div className="text-black font-semibold text-sm mb-1">
-                GST Registered
-              </div>
-              <div className="text-xs text-gray-900">
-                Goods & Services Tax Compliance
-              </div>
+              <div className="text-black font-semibold text-sm mb-1">GST Registered</div>
+              <div className="text-xs text-gray-900">Goods & Services Tax Compliance</div>
             </div>
             <div className="bg-gray-900/30 rounded-lg p-4 text-center">
-              <div className="text-black font-semibold text-sm mb-1">
-                MSME Certified
-              </div>
-              <div className="text-xs text-gray-900">
-                Ministry of MSME, Govt. of India
-              </div>
+              <div className="text-black font-semibold text-sm mb-1">MSME Certified</div>
+              <div className="text-xs text-gray-900">Ministry of MSME, Govt. of India</div>
             </div>
           </div>
         </div>
@@ -239,7 +422,6 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-sm text-gray-900 text-center md:text-left">
               <p>© 2025 The Buyzaar Mart. All rights reserved.</p>
-
             </div>
           </div>
         </div>

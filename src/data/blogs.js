@@ -122,7 +122,16 @@ export const blogs = [
           { type: "paragraph", text: "The FOCM Franchise Model represents the next generation of structured retail investment in India. By combining ownership security, professional management, brand power, and organized systems, it creates a stable and scalable retail business framework." },
           { type: "paragraph", text: "If you are evaluating franchise opportunities with the buyzaar mart, understanding the FOCM model positions you for smarter decision-making. Structured growth starts with informed decisions — study the FOCM structure, visit operational outlets, and connect with the Buyzaar Mart franchise team to understand the full partnership process." }
         ]
-      }
+      },
+
+      {
+  heading: "Get in Touch with Buyzaar Mart",
+  content: [
+    { type: "paragraph", text: "Ready to take the next step toward structured retail ownership? Connect with the Buyzaar Mart franchise team today and start your journey with the FOCM model." },
+    { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+    
+    { type: "paragraph", text: "<strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
+  ]}
     ]
   },
 

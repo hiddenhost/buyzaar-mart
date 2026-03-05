@@ -349,6 +349,17 @@ const Navbar = () => {
                 >
                   Contact
                 </Link>
+
+                <Link
+                  href="/blog"
+                  className={`font-medium transition-colors duration-300 ${
+                    isActiveLink("/blog")
+                      ? "text-black"
+                      : "text-gray-600 hover:text-black"
+                  }`}
+                >
+                  Blog
+                </Link>
               </div>
             </div>
           </div>

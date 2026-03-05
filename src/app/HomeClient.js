@@ -8,6 +8,7 @@ import Services from "../app/components/Services";
 import FranchiseApplication from "../app/components/FranchiseApplication";
 import Process from "../app/components/Process";
 import WhyChoose from "../app/components/WhyChhoose";
+import Blogs from "../app/components/Blogs";
 
 import Calculator from "../app/components/Calculator";
 import FranchisePopupModal from "../app/components/FranchisePopup";
@@ -37,6 +38,8 @@ const HomeClient = () => {
       <HomeBrandImages />
       <WhyChoose />
       <Calculator />
+      <Blogs />
+
       <FranchiseApplication />
   
       <StoreLocator />

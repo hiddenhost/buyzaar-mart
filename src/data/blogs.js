@@ -148,11 +148,11 @@ export const blogs = [
     description: "Discover how the FOCM Franchise Model works at the buyzaar mart. Learn why Franchise Owned Company Managed structure is ideal for organized retail investors in India.",
     keywords: "FOCM franchise model, Buyzaar Mart franchise, the buyzaar mart franchise, Franchise Owned Company Managed, supermarket franchise India, managed retail franchise, organized retail investment",
     alternates: {
-      canonical: "https://thebuyzaarmart.com/blog/focm-franchise-model-buyzaar-mart"
+      canonical: "https://www.thebuyzaarmart.com/blog/focm-franchise-model-buyzaar-mart"
     },
     openGraph: {
       type: "article",
-      url: "https://thebuyzaarmart.com/blog/focm-franchise-model-buyzaar-mart",
+      url: "https://www.thebuyzaarmart.com/blog/focm-franchise-model-buyzaar-mart",
       title: "What is FOCM Franchise Model? Complete Investor Guide | Buyzaar Mart",
       description: "Discover how the FOCM Franchise Model works at the buyzaar mart. Learn why Franchise Owned Company Managed structure is ideal for organized retail investors in India.",
       images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1772692749/FOCM_Model_zp9wlc.jpg", width: 1200, height: 630, alt: "FOCM Franchise Model – Buyzaar Mart" }]
@@ -305,11 +305,11 @@ export const blogs = [
     description: "Discover why company-managed retail franchises are becoming the future of investment. Learn how structured retail systems support organized franchise growth in India.",
     keywords: "company managed retail franchise, retail franchise investment India, organized retail franchise, supermarket franchise opportunity, retail franchise model India, modern retail franchise system",
     alternates: {
-      canonical: "https://thebuyzaarmart.com/blog/why-company-managed-retail-franchises-future-investment"
+      canonical: "https://www.thebuyzaarmart.com/blog/why-company-managed-retail-franchises-future-investment"
     },
     openGraph: {
       type: "article",
-      url: "https://thebuyzaarmart.com/blog/why-company-managed-retail-franchises-future-investment",
+      url: "https://www.thebuyzaarmart.com/blog/why-company-managed-retail-franchises-future-investment",
       title: "Why Company-Managed Retail Franchises Are the Future of Investment",
       description: "Discover why company-managed retail franchises are becoming the future of investment in India.",
       images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1772789873/why-company-managed-retail-franchises-future-investment_rckaxk.jpg", width: 1200, height: 630, alt: "Company-Managed Retail Franchise – Buyzaar Mart" }]

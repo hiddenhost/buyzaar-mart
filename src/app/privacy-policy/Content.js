@@ -140,7 +140,7 @@ export default function PrivacyPolicy() {
             </h2>
             <div className="prose prose-lg text-gray-700 leading-relaxed">
               <p>
-                Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.thebuyzaarmart.com  and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL- &quot;https://thebuyzaarmart.com /&quot;
+                Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.thebuyzaarmart.com  and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL- &quot;https://www.thebuyzaarmart.com /&quot;
               </p>
             </div>
           </section>

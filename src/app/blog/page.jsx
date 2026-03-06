@@ -1,32 +1,34 @@
 import BlogPostPage from "./BlogPostPage";
 
 export const metadata = {
-  title: "Zentrix Infotech Blog | SEO, Digital Marketing & Technology Insights",
+  title: "Buyzaar Mart Blog | Retail Franchise, FOCM Model & Business Investment Insights",
+
   description:
-    "Read expert blogs by Zentrix Infotech covering SEO, digital marketing, web development, UI/UX, cloud solutions, and business growth strategies.",
+    "Explore expert blogs from Buyzaar Mart on retail franchise opportunities, the FOCM (Franchise Owned Company Managed) model, retail investment strategies, and profitable business growth insights.",
 
   keywords:
-    "Zentrix Infotech blog, SEO blogs, digital marketing blogs, web development articles, technology insights, business growth tips, organic growth seo blogs, digital marketing blog by zentrix, seo blog by zentrix infotech, online marketing tips for companies, content marketing and seo blogs, business marketing strategy articles, technology and marketing insights blog",
+    "Buyzaar Mart blog, FOCM franchise model blog, retail franchise investment, franchise owned company managed model, profitable retail franchise opportunities, retail business investment blogs, company managed franchise model India, retail franchise guide, Buyzaar Mart franchise insights, modern retail investment strategies",
 
   // ✅ Canonical
   alternates: {
-    canonical: "https://www.zentrixinfotech.com/blog",
+    canonical: "https://www.thebuyzaarmart.com/blog",
   },
 
   openGraph: {
     type: "website",
-    url: "https://www.zentrixinfotech.com/blog",
+    url: "https://www.thebuyzaarmart.com/blog",
     title:
-      "Zentrix Infotech Blog | SEO, Digital Marketing & Web Development",
+      "Buyzaar Mart Blog | Retail Franchise & FOCM Business Insights",
+
     description:
-      "Explore insightful blogs from Zentrix Infotech on SEO marketing, digital transformation, web development, and scalable technology solutions.",
+      "Read the latest insights from Buyzaar Mart on retail franchise opportunities, FOCM business models, and smart investment strategies in the retail industry.",
+
     images: [
       {
-        url: "https://www.zentrixinfotech.com/zentrix_logo.jpg",
+        url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt:
-          "Zentrix Infotech Blog – Digital Marketing & Technology Insights",
+        alt: "Buyzaar Mart Blog – Retail Franchise & Investment Insights",
       },
     ],
   },
@@ -34,16 +36,18 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Zentrix Infotech Blog | Digital Marketing & Technology Insights",
+      "Buyzaar Mart Blog | Retail Franchise & Investment Insights",
+
     description:
-      "Stay updated with the latest blogs on SEO, digital marketing, web development, and business technology by Zentrix Infotech.",
+      "Stay updated with expert blogs on retail franchise opportunities, FOCM model investments, and business growth strategies by Buyzaar Mart.",
+
     images: [
-      "https://www.zentrixinfotech.com/zentrix_logo.jpg",
+      "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
     ],
   },
 
   icons: {
-    icon: "/favicon-v2.ico",
+    icon: "/images/buyzaar-logo.png",
   },
 };
 

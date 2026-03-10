@@ -502,13 +502,13 @@ export const blogs = [
       url: "https://thebuyzaarmart.com/blog/foco-vs-fofo-vs-focm-franchise-model",
       title: "FOCO vs FOFO vs FOCM – Which Franchise Model is Best in 2026?",
       description: "Learn the difference between FOCO, FOFO, and FOCM franchise models and discover which franchise structure is best for investors in 2026.",
-      images: [{ url: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&auto=format&fit=crop&q=60", width: 1200, height: 630, alt: "FOCO vs FOFO vs FOCM Franchise Model Comparison – Buyzaar Mart" }]
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773138532/FOCO_FOFO_FOCM_s3vh6h.jpg", width: 1200, height: 630, alt: "FOCO vs FOFO vs FOCM Franchise Model Comparison – Buyzaar Mart" }]
     },
     twitter: {
       card: "summary_large_image",
       title: "FOCO vs FOFO vs FOCM – Which Franchise Model is Best in 2026?",
       description: "Learn the difference between FOCO, FOFO, and FOCM franchise models and discover which is best for investors in 2026.",
-      images: ["https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&auto=format&fit=crop&q=60"]
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773138532/FOCO_FOFO_FOCM_s3vh6h.jpg"]
     },
     icons: { icon: "/favicon-v2.ico" }
   }

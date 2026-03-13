@@ -1,0 +1,66 @@
+import React from "react";
+import Banner from "./Banner";
+import Content from "./Content";
+import Services from "@/app/components/Services";
+
+export const metadata = {
+  title: "Supermarket Business in Saharanpur | Start Retail Store",
+
+    description:
+        "Start a supermarket business in Saharanpur with growing local demand, organized retail systems, and long-term business potential.",
+
+  keywords:
+    " supermarket business saharanpur, supermarket business opportunity saharanpur, supermarket setup saharanpur, supermarket retail business saharanpur, supermarket store saharanpur, supermarket business near me saharanpur, local supermarket business saharanpur, supermarket startup saharanpur, best supermarket business saharanpur, supermarket business plan saharanpur	",		
+
+  alternates: {
+    canonical: "https://www.thebuyzaarmart.com/cities/saharanpur/supermarket-business-in-saharanpur",
+  },
+
+  // ✅ OPEN GRAPH  
+  openGraph: {
+    title:
+      " Supermarket Business in Saharanpur | Start Retail Store",
+
+    description:
+      "Start a supermarket business in Saharanpur with growing local demand, organized retail systems, and long-term business potential.",
+
+    url: "https://www.thebuyzaarmart.com/cities/saharanpur/supermarket-business-in-saharanpur",
+
+    siteName: "The Buyzaar Mart",
+    images: [
+      {
+        url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
+        width: 1200,
+        height: 630,
+        alt: "Buyzaar Mart Franchise Opportunity in Saharanpur",
+      },
+    ],
+    locale: "en_IN",
+    type: "website",
+  },
+
+  // ✅ TWITTER CARD
+  twitter: {
+    card: "summary_large_image",
+    title:
+      " Supermarket Business in Saharanpur | Start Retail Store",
+    description:
+      "Start a supermarket business in Saharanpur with growing local demand, organized retail systems, and long-term business potential.",   
+    images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
+  },
+
+  // ✅ FAVICON
+  icons: {
+    icon: "/images/buyzaar-logo.png",
+  },
+};
+
+export default function Page() {
+  return (
+    <>
+      <Banner />
+      <Content />
+      <Services />
+    </>
+  );
+}

@@ -291,7 +291,7 @@ const Footer = () => {
                   Built on value, trust, and day-to-day demand, The Buyzaar Mart is
                   one of India&apos;s fastest-growing supermarket franchise
                   networks with over many stores nationwide, empowering
-                  entrepreneurs with government-backed opportunities.
+                  entrepreneurs.
                 </p>
               </div>
 

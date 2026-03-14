@@ -174,7 +174,7 @@ const Content = () => {
               </p>
 
               <p className="text-sm font-medium text-green-700">
-                💻 <a href="https://thebuyzaarmart.com/franchise" className="hover:underline">Visit: thebuyzaarmart.com/franchise</a>
+                💻 <a href="https://www.thebuyzaarmart.com/franchise" className="hover:underline">Visit: thebuyzaarmart.com/franchise</a>
               </p>
             </div>
 

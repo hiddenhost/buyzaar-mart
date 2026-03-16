@@ -156,9 +156,7 @@ const Content = () => {
               Noida's momentum is yours to capture. Act today for tomorrow's gains.
             </p>
 
-            <p>
-              <strong>Get in touch:</strong> Download your free Noida grocery blueprint. <a href="https://www.perplexity.ai/grocery-opportunity-noida" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">Start Here</a>! Start today!
-            </p>
+           
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-12">
               Frequently Asked Questions

@@ -163,7 +163,7 @@ export const blogs = [
       description: "Learn how the Franchise Owned Company Managed model works at Buyzaar Mart.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1772692749/FOCM_Model_zp9wlc.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 },
 
@@ -320,7 +320,7 @@ export const blogs = [
       description: "Learn how structured retail franchise systems are reshaping investment opportunities in India.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1772789873/why-company-managed-retail-franchises-future-investment_rckaxk.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 },
 {
@@ -510,7 +510,7 @@ export const blogs = [
       description: "Learn the difference between FOCO, FOFO, and FOCM franchise models and discover which is best for investors in 2026.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773138532/FOCO_FOFO_FOCM_s3vh6h.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 },
 {
@@ -641,7 +641,7 @@ export const blogs = [
       description: "Learn how the Buyzaar Mart FOCM franchise model works step-by-step.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773331948/how-buyzaar-mart-focm-model-works_iwybi4.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 },
 
@@ -815,7 +815,7 @@ export const blogs = [
       description: "Compare Buyzaar Mart and traditional kirana stores to understand which retail model offers better long-term profitability.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773482760/buyzaar-mart-vs-traditional-kirana-store_axxlrp.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 },
 
@@ -1021,7 +1021,7 @@ export const blogs = [
       description: "Explore market size, profit margins, and growth trends of the supermarket business in India in 2026.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773673568/is-supermarket-business-profitable-india-2026_csflfl.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 }
 

@@ -44,6 +44,94 @@ export const citySlugs = {
       title: "hypermarket franchise in saharanpur",
       slug: "/cities/saharanpur/hypermarket-franchise-in-saharanpur",
     },
+    {
+    title: "grocery chain in noida",
+    slug: "/cities/noida/grocery-chain-in-noida",
+  },
+  {
+    title: "grocery franchise cost in noida",
+    slug: "/cities/noida/grocery-franchise-cost-in-noida",
+  },
+  {
+    title: "grocery franchise opportunity in noida",
+    slug: "/cities/noida/grocery-franchise-opportunity-in-noida",
+  },
+  {
+    title: "grocery mart business in noida",
+    slug: "/cities/noida/grocery-mart-business-in-noida",
+  },
+  {
+    title: "grocery mart franchise in noida",
+    slug: "/cities/noida/grocery-mart-franchise-in-noida",
+  },
+  {
+    title: "grocery mart investment opportunity in noida",
+    slug: "/cities/noida/grocery-mart-investment-opportunity-in-noida",
+  },
+  {
+    title: "grocery mart near me noida",
+    slug: "/cities/noida/grocery-mart-near-me-noida",
+  },
+  {
+    title: "grocery retail business in noida",
+    slug: "/cities/noida/grocery-retail-business-in-noida",
+  },
+  {
+    title: "grocery store dealership in noida",
+    slug: "/cities/noida/grocery-store-dealership-in-noida",
+  },
+  {
+    title: "grocery store profit margin in noida",
+    slug: "/cities/noida/grocery-store-profit-margin-in-noida",
+  },
+  {
+    title: "grocery business plan in noida",
+    slug: "/cities/noida/grocery-business-plan-in-noida",
+  },
+  {
+    title: "grocery mart franchise in noida",
+    slug: "/cities/noida/grocery-mart-franchise-in-noida",
+  },
+  {
+    title: "supermarket franchise in noida",
+    slug: "/cities/noida/supermarket-franchise-in-noida",
+  },
+  {
+    title: "best business opportunity in noida",
+    slug: "/cities/noida/best-business-opportunity-in-noida",
+  },
+  {
+    title: "best grocery franchise in noida",
+    slug: "/cities/noida/best-grocery-franchise-in-noida",
+  },
+  {
+    title: "best grocery mart in noida",
+    slug: "/cities/noida/best-grocery-mart-in-noida",
+  },
+  {
+    title: "best supermarket franchise in noida",
+    slug: "/cities/noida/best-supermarket-franchise-in-noida",
+  },
+  {
+    title: "best supermarket in noida",
+    slug: "/cities/noida/best-supermarket-in-noida",
+  },
+  {
+    title: "buyzaar mart franchise in noida",
+    slug: "/cities/noida/buyzaar-mart-franchise-in-noida",
+  },
+  {
+    title: "franchise business in noida",
+    slug: "/cities/noida/franchise-business-in-noida",
+  },
+  {
+    title: "grocery business for entrepreneurs",
+    slug: "/cities/noida/grocery-business-for-entrepreneurs",
+  },
+  {
+    title: "grocery business opportunity in noida",
+    slug: "/cities/noida/grocery-business-opportunity-in-noida",
+  }
   ],
 
   saharanpur: [

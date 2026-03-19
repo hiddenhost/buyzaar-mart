@@ -17,6 +17,47 @@ export const citySlugs = {
       title: "Supermarket Franchise in Noida",
       slug: "/cities/noida/supermarket-franchise-in-noida"
     },
+
+    {
+  title: "Best Franchise Business in Gangoh",
+  slug: "/cities/gangoh/best-franchise-business-gangoh"
+},
+{
+  title: "Best Grocery Franchise in Gangoh",
+  slug: "/cities/gangoh/best-grocery-franchise-gangoh"
+},
+{
+  title: "Best Grocery Mart in Gangoh",
+  slug: "/cities/gangoh/best-grocery-mart-in-gangoh"
+},
+{
+  title: "Best Supermarket in Gangoh",
+  slug: "/cities/gangoh/best-supermarket-in-gangoh"
+},
+{
+  title: "Grocery Business for Beginners in Gangoh",
+  slug: "/cities/gangoh/grocery-business-for-beginners-gangoh"
+},
+{
+  title: "Grocery Business Opportunity in Gangoh",
+  slug: "/cities/gangoh/grocery-business-opportunity-in-gangoh"
+},
+{
+  title: "Grocery Chain in Gangoh",
+  slug: "/cities/gangoh/grocery-chain-gangoh"
+},
+{
+  title: "Grocery Mart Investment in Gangoh",
+  slug: "/cities/gangoh/grocery-mart-investment-gangoh"
+},
+{
+  title: "Grocery Mart Near Me in Gangoh",
+  slug: "/cities/gangoh/grocery-mart-near-me-gangoh"
+},
+{
+  title: "Grocery Retail Business in Gangoh",
+  slug: "/cities/gangoh/grocery-retail-business-gangoh"
+}
   ],
 
   meerut: [

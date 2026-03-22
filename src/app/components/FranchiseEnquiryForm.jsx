@@ -171,7 +171,8 @@ export default function FranchiseEnquiryForm() {
           Submitted Successfully!
         </h3>
         <p className="text-gray-600">
-          Thank you for your interest in Buyzaar Mart franchise. Our team will contact you shortly.
+          Thank you for your interest in Buyzaar Mart franchise. Our team will
+          contact you shortly.
         </p>
         <button
           onClick={() => setIsSubmitted(false)}
@@ -193,7 +194,8 @@ export default function FranchiseEnquiryForm() {
       </h3>
 
       <p className="text-sm text-gray-600">
-        Share your interest in owning a Buyzaar Mart franchise. Our team will connect with you shortly.
+        Share your interest in owning a Buyzaar Mart franchise. Our team will
+        connect with you shortly.
       </p>
 
       {/* Hidden config */}
@@ -233,23 +235,23 @@ export default function FranchiseEnquiryForm() {
           className="w-full border rounded-lg px-3 py-2 bg-white text-sm"
         >
           <option value="">Select City</option>
+          <option>Aligarh</option>
+          <option>Chandigarh</option>
+          <option>Dehradun</option>
           <option>Delhi</option>
-          <option>Noida</option>
-          <option>Greater Noida</option>
+          <option>Gangoh</option>
           <option>Ghaziabad</option>
+          <option>Greater Noida</option>
           <option>Gurgaon</option>
+          <option>Jaipur</option>
+          <option>Kanpur</option>
+          <option>Lucknow</option>
           <option>Meerut</option>
           <option>Moradabad</option>
-          <option>Saharanpur</option>
-          <option>Gangoh</option>
           <option>Muzaffarnagar</option>
-          <option>Aligarh</option>
-          <option>Lucknow</option>
-          <option>Kanpur</option>
+          <option>Noida</option>
+          <option>Saharanpur</option>
           <option>Varanasi</option>
-          <option>Jaipur</option>
-          <option>Dehradun</option>
-          <option>Chandigarh</option>
         </select>
 
         <select
@@ -258,25 +260,25 @@ export default function FranchiseEnquiryForm() {
           className="w-full border rounded-lg px-3 py-2 bg-white text-sm col-span-2"
         >
           <option value="">Select State</option>
-          <option>Uttar Pradesh</option>
+          <option>Assam</option>
+          <option>Bihar</option>
+          <option>Chhattisgarh</option>
           <option>Delhi (NCR)</option>
+          <option>Gujarat</option>
           <option>Haryana</option>
-          <option>Rajasthan</option>
-          <option>Uttarakhand</option>
-          <option>Punjab</option>
+          <option>Jharkhand</option>
+          <option>Karnataka</option>
+          <option>Kerala</option>
           <option>Madhya Pradesh</option>
           <option>Maharashtra</option>
-          <option>Gujarat</option>
-          <option>West Bengal</option>
-          <option>Karnataka</option>
+          <option>Odisha</option>
+          <option>Punjab</option>
+          <option>Rajasthan</option>
           <option>Tamil Nadu</option>
           <option>Telangana</option>
-          <option>Kerala</option>
-          <option>Bihar</option>
-          <option>Jharkhand</option>
-          <option>Chhattisgarh</option>
-          <option>Odisha</option>
-          <option>Assam</option>
+          <option>Uttar Pradesh</option>
+          <option>Uttarakhand</option>
+          <option>West Bengal</option>
         </select>
       </div>
 
@@ -298,7 +300,8 @@ export default function FranchiseEnquiryForm() {
       </button>
 
       <p className="text-xs text-gray-500 text-center">
-        Your information is safe and will only be used for franchise communication.
+        Your information is safe and will only be used for franchise
+        communication.
       </p>
     </form>
   );

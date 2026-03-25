@@ -62,6 +62,48 @@ export const citySlugs = {
 
   meerut: [
     // add meerut-related service slugs here later
+    
+  {
+    title: "Best Grocery Mart in Meerut",
+    slug: "/cities/meerut/best-grocery-mart-in-meerut"
+  },
+  {
+    title: "Best Supermarket in Meerut",
+    slug: "/cities/meerut/best-supermarket-in-meerut"
+  },
+  {
+    title: "Grocery Business Opportunity in Meerut",
+    slug: "/cities/meerut/grocery-business-opportunity-in-meerut"
+  },
+  {
+    title: "Grocery Mart Franchise in Meerut",
+    slug: "/cities/meerut/grocery-mart-franchise-in-meerut"
+  },
+  {
+    title: "Grocery Store Franchise Meerut",
+    slug: "/cities/meerut/grocery-store-franchise-meerut"
+  },
+  {
+    title: "Hypermart Franchise Opportunity in Meerut",
+    slug: "/cities/meerut/hypermart-franchise-opportunity-in-meerut"
+  },
+  {
+    title: "Supermarket Business in Meerut",
+    slug: "/cities/meerut/supermarket-business-in-meerut"
+  },
+  {
+    title: "Supermarket Franchise in Meerut",
+    slug: "/cities/meerut/supermarket-franchise-in-meerut"
+  },
+  {
+    title: "Top Grocery Store in Meerut",
+    slug: "/cities/meerut/top-grocery-store-in-meerut"
+  },
+  {
+    title: "Top Supermarket in Meerut",
+    slug: "/cities/meerut/top-supermarket-in-meerut"
+  }
+
   ],
 
   muzaffarnagar: [

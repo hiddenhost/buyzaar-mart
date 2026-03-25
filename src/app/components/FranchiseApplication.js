@@ -236,7 +236,7 @@ const FranchiseApplication = () => {
             Accept: "application/json",
           },
           body: JSON.stringify(submitData),
-        }
+        },
       );
 
       console.log("Response status:", response.status); // For debugging
@@ -261,51 +261,51 @@ const FranchiseApplication = () => {
     } catch (error) {
       console.error("Error:", error);
       alert(
-        "There was an error submitting your application. Please try again or contact us directly."
+        "There was an error submitting your application. Please try again or contact us directly.",
       );
     } finally {
       setIsSubmitting(false);
     }
   };
 
-const states = [
-  "Andaman and Nicobar Islands",
-  "Andhra Pradesh",
-  "Arunachal Pradesh",
-  "Assam",
-  "Bihar",
-  "Chandigarh",
-  "Chhattisgarh",
-  "Dadra and Nagar Haveli and Daman and Diu",
-  "Delhi",
-  "Goa",
-  "Gujarat",
-  "Haryana",
-  "Himachal Pradesh",
-  "Jammu and Kashmir",
-  "Jharkhand",
-  "Karnataka",
-  "Kerala",
-  "Ladakh",
-  "Lakshadweep",
-  "Madhya Pradesh",
-  "Maharashtra",
-  "Manipur",
-  "Meghalaya",
-  "Mizoram",
-  "Nagaland",
-  "Odisha",
-  "Puducherry",
-  "Punjab",
-  "Rajasthan",
-  "Sikkim",
-  "Tamil Nadu",
-  "Telangana",
-  "Tripura",
-  "Uttar Pradesh",
-  "Uttarakhand",
-  "West Bengal"
-];
+  const states = [
+    "Andaman and Nicobar Islands",
+    "Andhra Pradesh",
+    "Arunachal Pradesh",
+    "Assam",
+    "Bihar",
+    "Chandigarh",
+    "Chhattisgarh",
+    "Dadra and Nagar Haveli and Daman and Diu",
+    "Delhi",
+    "Goa",
+    "Gujarat",
+    "Haryana",
+    "Himachal Pradesh",
+    "Jammu and Kashmir",
+    "Jharkhand",
+    "Karnataka",
+    "Kerala",
+    "Ladakh",
+    "Lakshadweep",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Odisha",
+    "Puducherry",
+    "Punjab",
+    "Rajasthan",
+    "Sikkim",
+    "Tamil Nadu",
+    "Telangana",
+    "Tripura",
+    "Uttar Pradesh",
+    "Uttarakhand",
+    "West Bengal",
+  ];
 
   // Check if form is valid by running validation
   const isFormValid = () => {
@@ -344,13 +344,11 @@ const states = [
                   <div className="absolute -bottom-2 left-0 w-full h-1 bg-black rounded-full transform scale-x-0 animate-scale-x"></div>
                 </span>{" "}
                 <span className="text-[#b00000]">Story with</span>{" "}
-                <span className="text-black font-extrabold">
-                  Buyzaar
-                </span>
+                <span className="text-black font-extrabold">Buyzaar</span>
               </h1>
               <p className="text-gray-600 text-lg leading-relaxed">
-                Join India&apos;s fastest-growing convenience network. With
-                our proven business model, comprehensive support, and innovative
+                Join India&apos;s fastest-growing convenience network. With our
+                proven business model, comprehensive support, and innovative
                 technology, we help entrepreneurs build thriving businesses that
                 serve rural communities.
               </p>
@@ -367,9 +365,7 @@ const states = [
                   />
                 </div>
 
-                <h3 className="font-bold text-black mb-2">
-                  Community Impact
-                </h3>
+                <h3 className="font-bold text-black mb-2">Community Impact</h3>
                 <p className="text-black text-sm">
                   Serving Urban and Rural communities all across India!
                 </p>
@@ -377,7 +373,7 @@ const states = [
 
               <div className="group bg-gray-100 p-6 rounded-xl border border-gray-300 hover:shadow-lg transition-all duration-300 hover:scale-105">
                 <div className="bg-black w-12 h-12 rounded-full flex items-center justify-center mb-4 group-hover:rotate-12 transition-transform">
-                 <img
+                  <img
                     src="https://img.icons8.com/ios/50/10B981/small-business.png"
                     alt="Users icon"
                     className="w-8 h-8"
@@ -391,7 +387,7 @@ const states = [
 
               <div className="group bg-gray-100 p-6 rounded-xl border border-gray-300 hover:shadow-lg transition-all duration-300 hover:scale-105 sm:col-span-2">
                 <div className="bg-black w-12 h-12 rounded-full flex items-center justify-center mb-4 group-hover:rotate-12 transition-transform">
-                 <img
+                  <img
                     src="https://img.icons8.com/ios/50/10B981/online-support--v1.png"
                     alt="Users icon"
                     className="w-8 h-8"
@@ -404,6 +400,34 @@ const states = [
                   From setup to operations, we&apos;re with you every step of
                   the way
                 </p>
+              </div>
+              <div className="group bg-gray-100 p-3 rounded-xl border border-gray-300 hover:shadow-lg transition-all duration-300 hover:scale-105 sm:col-span-2 h-full flex flex-col justify-between">
+                <div>
+                  <div className="bg-black w-10 h-10 rounded-full flex items-center justify-center mb-3 group-hover:rotate-12 transition-transform">
+                    <img
+                      src="https://img.icons8.com/ios/50/10B981/form.png"
+                      alt="Form icon"
+                      className="w-6 h-6"
+                    />
+                  </div>
+
+                  <h3 className="font-bold text-black mb-2 text-sm">
+                    Have a Query?
+                  </h3>
+
+                  <p className="text-black text-sm">
+                    Fill our quick form & we’ll get back to you.
+                  </p>
+                </div>
+
+                <a
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSdqCY4tezGHeAu78FQ2-DuT3GEDj-7jeriGInwFMu0K-Bl3zg/viewform?usp=publish-editor"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-4 inline-block bg-black text-white px-4 py-2 rounded-lg text-sm hover:bg-gray-800 transition text-center"
+                >
+                  Fill Form
+                </a>
               </div>
             </div>
 
@@ -423,7 +447,7 @@ const states = [
 
           {/* Right Form */}
           <div className="animate-fade-in-right">
-            <div className="bg-white rounded-2xl shadow-2xl p-9 border border-gray-100 relative overflow-hidden">
+            <div className="bg-white rounded-2xl shadow-2xl p-13 border border-gray-100 relative overflow-hidden">
               {/* Background Pattern */}
               <div className="absolute top-0 right-0 w-32 h-30 bg-gray-100 rounded-bl-full opacity-50"></div>
               <div className="absolute bottom-0 left-0 w-24 h-24 bg-gray-100 rounded-tr-full opacity-50"></div>

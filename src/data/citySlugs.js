@@ -31,6 +31,7 @@ export const citySlugs = {
   slug: "/cities/gangoh/best-grocery-mart-in-gangoh"
 },
 {
+
   title: "Best Supermarket in Gangoh",
   slug: "/cities/gangoh/best-supermarket-in-gangoh"
 },
@@ -108,6 +109,10 @@ export const citySlugs = {
 
   muzaffarnagar: [
     // add muzaffarnagar-related service slugs here later
+    {
+      title: "Best Grocery Mart in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/best-grocery-mart-in-muzaffarnagar",
+    },
   ],
 
   noida: [

@@ -113,6 +113,42 @@ export const citySlugs = {
       title: "Best Grocery Mart in Muzaffarnagar",
       slug: "/cities/muzaffarnagar/best-grocery-mart-in-muzaffarnagar",
     },
+    {
+      title: "Best Supermarket in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/best-supermarket-in-muzaffarnagar",
+    },
+     {
+      title: "Top Supermarket in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/top-supermarket-in-muzaffarnagar",
+    },
+     {
+      title: "Top Grocery Store in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/top-grocery-store-in-muzaffarnagar",
+    },
+     {
+      title: "Supermarket Franchise Cost Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/supermarket-franchise-cost-muzaffarnagar",
+    },
+     {
+      title: "Grocery Business Opportunity in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/grocery-business-opportunity-in-muzaffarnagar",
+    },
+     {
+      title: "Grocery Store Investment in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/grocery-store-investment-in-muzaffarnagar",
+    },
+     {
+      title: "Hypermart Franchise in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/hypermart-franchise-in-muzaffarnagar",
+    },
+     {
+      title: "Retail Franchise in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/retail-franchise-in-muzaffarnagar",
+    },
+     {
+      title: "Grocery Franchise Cost Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/grocery-franchise-cost-muzaffarnagar",
+    },
   ],
 
   noida: [

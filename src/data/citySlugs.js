@@ -103,8 +103,55 @@ export const citySlugs = {
   {
     title: "Top Supermarket in Meerut",
     slug: "/cities/meerut/top-supermarket-in-meerut"
-  }
-
+  },
+  {
+    title: "Grocery Store Investment Meerut",
+    slug: "/cities/meerut/grocery-store-investment-meerut"
+  },
+  {
+    title: "Retail Franchise in Meerut",
+    slug: "/cities/meerut/retail-franchise-in-meerut"
+  },
+  {
+    title: "Grocery Franchise Cost  Meerut",
+    slug: "/cities/meerut/grocery-franchise-cost-meerut"
+  },
+  {
+    title: "Supermarket Franchise Cost Meerut",
+    slug: "/cities/meerut/supermarket-franchise-cost-meerut"
+  },
+  {
+    title: "Open Grocery Store in Meerut",
+    slug: "/cities/meerut/open-grocery-store-in-meerut"
+  },
+  {
+    title: "Open Supermarket in Meerut",
+    slug: "/cities/meerut/open-supermarket-in-meerut"
+  },
+ {
+    title: "Grocery Framchise Opportunity in Meerut",
+    slug: "/cities/meerut/grocery-framchise-opportunity-in-meerut"
+  },
+   {
+    title: "Start Grocery Business  in Meerut",
+    slug: "/cities/meerut/start-grocery-business-in-meerut"
+  },
+   {
+    title: "Start Supermarket Business Meerut",
+    slug: "/cities/meerut/start-supermarket-business-meerut"
+  },
+   {
+    title: "Profitable Grocery Business  Meerut",
+    slug: "/cities/meerut/profitable-grocery-business-meerut"
+  },
+   {
+    title: "Best Franchise Business Meerut",
+    slug: "/cities/meerut/best-franchise-business-meerut"
+  },
+  {
+    title: "Modern Grocery Store in Meerut",
+    slug: "/cities/meerut/modern-grocery-store-in-meerut"
+  },
   ],
 
   muzaffarnagar: [

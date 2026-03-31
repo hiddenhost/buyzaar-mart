@@ -302,7 +302,48 @@ export const citySlugs = {
   {
     title: "grocery business opportunity in noida",
     slug: "/cities/noida/grocery-business-opportunity-in-noida",
-  }
+  },
+  {
+    title: "hypermart franchise in noida",
+    slug: "/cities/noida/hypermart-franchise-in-noida",
+  },
+  {
+    title: "grocery store franchise  noida",
+    slug: "/cities/noida/grocery-store-franchise-noida",
+  },
+  {
+    title: "supermarket business opportunity in noida",
+    slug: "/cities/noida/supermarket-business-opportunity-in-noida",
+  },
+  {
+    title: "retail franchise in noida",
+    slug: "/cities/noida/retail-franchise-in-noida",
+  },
+  {
+    title: "profitable grocery franchise in noida",
+    slug: "/cities/noida/profitable-grocery-franchise-in-noida",
+  },
+  {
+    title: "mart franchise in noida",
+    slug: "/cities/noida/mart-franchise-in-noida",
+  },
+  {
+    title: "grocery store investment in noida",
+    slug: "/cities/noida/grocery-store-investment-in-noida",
+  },
+  {
+    title: "supermarket investment in noida",
+    slug: "/cities/noida/supermarket-investment-in-noida",
+  },
+  {
+    title: "supermarket franchise cost in noida",
+    slug: "/cities/noida/supermarket-franchise-cost-in-noida",
+  },
+  {
+    title: "low investment grocery business in noida",
+    slug: "/cities/noida/low-investment-grocery-business-in-noida",
+  },
+  
   ],
 
   saharanpur: [

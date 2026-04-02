@@ -31,6 +31,7 @@ export const citySlugs = {
   slug: "/cities/gangoh/best-grocery-mart-in-gangoh"
 },
 {
+
   title: "Best Supermarket in Gangoh",
   slug: "/cities/gangoh/best-supermarket-in-gangoh"
 },
@@ -62,10 +63,179 @@ export const citySlugs = {
 
   meerut: [
     // add meerut-related service slugs here later
+    
+  {
+    title: "Best Grocery Mart in Meerut",
+    slug: "/cities/meerut/best-grocery-mart-in-meerut"
+  },
+  {
+    title: "Best Supermarket in Meerut",
+    slug: "/cities/meerut/best-supermarket-in-meerut"
+  },
+  {
+    title: "Grocery Business Opportunity in Meerut",
+    slug: "/cities/meerut/grocery-business-opportunity-in-meerut"
+  },
+  {
+    title: "Grocery Mart Franchise in Meerut",
+    slug: "/cities/meerut/grocery-mart-franchise-in-meerut"
+  },
+  {
+    title: "Grocery Store Franchise Meerut",
+    slug: "/cities/meerut/grocery-store-franchise-meerut"
+  },
+  {
+    title: "Hypermart Franchise Opportunity in Meerut",
+    slug: "/cities/meerut/hypermart-franchise-opportunity-in-meerut"
+  },
+  {
+    title: "Supermarket Business in Meerut",
+    slug: "/cities/meerut/supermarket-business-in-meerut"
+  },
+  {
+    title: "Supermarket Franchise in Meerut",
+    slug: "/cities/meerut/supermarket-franchise-in-meerut"
+  },
+  {
+    title: "Top Grocery Store in Meerut",
+    slug: "/cities/meerut/top-grocery-store-in-meerut"
+  },
+  {
+    title: "Top Supermarket in Meerut",
+    slug: "/cities/meerut/top-supermarket-in-meerut"
+  },
+  {
+    title: "Grocery Store Investment Meerut",
+    slug: "/cities/meerut/grocery-store-investment-meerut"
+  },
+  {
+    title: "Retail Franchise in Meerut",
+    slug: "/cities/meerut/retail-franchise-in-meerut"
+  },
+  {
+    title: "Grocery Franchise Cost  Meerut",
+    slug: "/cities/meerut/grocery-franchise-cost-meerut"
+  },
+  {
+    title: "Supermarket Franchise Cost Meerut",
+    slug: "/cities/meerut/supermarket-franchise-cost-meerut"
+  },
+  {
+    title: "Open Grocery Store in Meerut",
+    slug: "/cities/meerut/open-grocery-store-in-meerut"
+  },
+  {
+    title: "Open Supermarket in Meerut",
+    slug: "/cities/meerut/open-supermarket-in-meerut"
+  },
+ {
+    title: "Grocery Framchise Opportunity in Meerut",
+    slug: "/cities/meerut/grocery-framchise-opportunity-in-meerut"
+  },
+   {
+    title: "Start Grocery Business  in Meerut",
+    slug: "/cities/meerut/start-grocery-business-in-meerut"
+  },
+   {
+    title: "Start Supermarket Business Meerut",
+    slug: "/cities/meerut/start-supermarket-business-meerut"
+  },
+   {
+    title: "Profitable Grocery Business  Meerut",
+    slug: "/cities/meerut/profitable-grocery-business-meerut"
+  },
+   {
+    title: "Best Franchise Business Meerut",
+    slug: "/cities/meerut/best-franchise-business-meerut"
+  },
+  {
+    title: "Modern Grocery Store in Meerut",
+    slug: "/cities/meerut/modern-grocery-store-in-meerut"
+  },
+  {
+    title: "Mart Franchise Meerut",
+    slug: "/cities/meerut/mart-franchise-meerut"
+  },
+  {
+    title: "Grocery Mart Near Me Meerut",
+    slug: "/cities/meerut/grocery-mart-near-me-meerut"
+  },
+  {
+    title: "Supermarket Near Me Meerut",
+    slug: "/cities/meerut/supermarket-near-me-meerut"
+  },
+  {
+    title: "Wholesale Grocery Mart Meerut",
+    slug: "/cities/meerut/wholesale-grocery-mart-meerut"
+  },
+  {
+    title: "Grocery Retail Business Meerut",
+    slug: "/cities/meerut/grocery-retail-business-meerut"
+  },
+  {
+    title: "Grocery Chain Meerut",
+    slug: "/cities/meerut/grocery-chain-meerut"
+  },
+  {
+    title: "Supermarket Chain Meerut",
+    slug: "/cities/meerut/supermarket-chain-meerut"
+  },
+  {
+    title: "New Grocery Store  Meerut",
+    slug: "/cities/meerut/new-grocery-store-meerut"
+  },
+  {
+    title: "Grocery Business for Beginners Meerut",
+    slug: "/cities/meerut/grocery-business-for-beginners-meerut"
+  },
+  {
+    title: "Supermarket Franchise Opportunity  Meerut",
+    slug: "/cities/meerut/supermarket-franchise-opportunity-meerut"
+  },
   ],
 
   muzaffarnagar: [
     // add muzaffarnagar-related service slugs here later
+    {
+      title: "Best Grocery Mart in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/best-grocery-mart-in-muzaffarnagar",
+    },
+    {
+      title: "Best Supermarket in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/best-supermarket-in-muzaffarnagar",
+    },
+     {
+      title: "Top Supermarket in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/top-supermarket-in-muzaffarnagar",
+    },
+     {
+      title: "Top Grocery Store in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/top-grocery-store-in-muzaffarnagar",
+    },
+     {
+      title: "Supermarket Franchise Cost Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/supermarket-franchise-cost-muzaffarnagar",
+    },
+     {
+      title: "Grocery Business Opportunity in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/grocery-business-opportunity-in-muzaffarnagar",
+    },
+     {
+      title: "Grocery Store Investment in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/grocery-store-investment-in-muzaffarnagar",
+    },
+     {
+      title: "Hypermart Franchise in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/hypermart-franchise-in-muzaffarnagar",
+    },
+     {
+      title: "Retail Franchise in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/retail-franchise-in-muzaffarnagar",
+    },
+     {
+      title: "Grocery Franchise Cost Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/grocery-franchise-cost-muzaffarnagar",
+    },
   ],
 
   noida: [
@@ -172,7 +342,48 @@ export const citySlugs = {
   {
     title: "grocery business opportunity in noida",
     slug: "/cities/noida/grocery-business-opportunity-in-noida",
-  }
+  },
+  {
+    title: "hypermart franchise in noida",
+    slug: "/cities/noida/hypermart-franchise-in-noida",
+  },
+  {
+    title: "grocery store franchise  noida",
+    slug: "/cities/noida/grocery-store-franchise-noida",
+  },
+  {
+    title: "supermarket business opportunity in noida",
+    slug: "/cities/noida/supermarket-business-opportunity-in-noida",
+  },
+  {
+    title: "retail franchise in noida",
+    slug: "/cities/noida/retail-franchise-in-noida",
+  },
+  {
+    title: "profitable grocery franchise in noida",
+    slug: "/cities/noida/profitable-grocery-franchise-in-noida",
+  },
+  {
+    title: "mart franchise in noida",
+    slug: "/cities/noida/mart-franchise-in-noida",
+  },
+  {
+    title: "grocery store investment in noida",
+    slug: "/cities/noida/grocery-store-investment-in-noida",
+  },
+  {
+    title: "supermarket investment in noida",
+    slug: "/cities/noida/supermarket-investment-in-noida",
+  },
+  {
+    title: "supermarket franchise cost in noida",
+    slug: "/cities/noida/supermarket-franchise-cost-in-noida",
+  },
+  {
+    title: "low investment grocery business in noida",
+    slug: "/cities/noida/low-investment-grocery-business-in-noida",
+  },
+  
   ],
 
   saharanpur: [

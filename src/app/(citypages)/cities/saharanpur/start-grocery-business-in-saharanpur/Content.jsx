@@ -272,7 +272,7 @@ const Content = () => {
             </p>
             <div className="mt-4 p-6 bg-green-50 border-l-4 border-green-500 rounded-r">
               <p className="font-semibold mb-2">📞 Contact Us Today</p>
-              <p>Franchise Helpline: 9311939160 , 9311939161</p>
+              <p>Franchise Helpline: 9217991727</p>
               <p> </p>
               <p>
                 Email:{" "}

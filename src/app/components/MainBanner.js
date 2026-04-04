@@ -9,24 +9,20 @@ const MainBanner = () => {
   const slides = [
     {
       id: 1,
-      image: "/images/IN02.jpg",
+      image: "/store-images/store1.png",
       alt: "Slide 1",
     },
     {
       id: 2,
-      image: "/images/IN03.jpg",
+      image: "/store-images/store2.png",
       alt: "Slide 2",
     },
     {
       id: 3,
-      image: "/images/f01.jpg",
+      image: "/store-images/store3.jpeg",
       alt: "Slide 3",
     },
-    {
-      id: 4,
-      image: "/images/Comic-2.png",
-      alt: "Slide 4",
-    },
+   
   ];
 
   useEffect(() => {

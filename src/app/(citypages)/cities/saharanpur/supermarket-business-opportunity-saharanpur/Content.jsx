@@ -163,7 +163,7 @@ const Content = () => {
             
             <p>
               Get in touch :  – Limited Saharanpur territories available!
-              Call:- 9311939160 , 9311939161 or WhatsApp now.
+              Call:- 9217991727 or WhatsApp now.
             </p>
             
 

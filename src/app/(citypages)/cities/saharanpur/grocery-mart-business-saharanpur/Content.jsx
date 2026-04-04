@@ -192,7 +192,7 @@ const Content = () => {
               
                 Launch Your Grocery Mart Now
               
-              – Prime Saharanpur locations available! Call 9311939160 , 9311939161 or WhatsApp
+              – Prime Saharanpur locations available! Call 9217991727 or WhatsApp
               immediately.
             </p>
             

@@ -185,7 +185,7 @@ const Content = () => {
               Saharanpur's grocery goldmine awaits. Team up with The Buyzaar Mart for unbeatable support.
             </p>
             <p>
-              <strong>Get in touch:</strong> – Prime Saharanpur locations filling fast! Dial 9311939160 , 9311939161 or message on WhatsApp.
+              <strong>Get in touch:</strong> – Prime Saharanpur locations filling fast! Dial 9217991727 or message on WhatsApp.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">

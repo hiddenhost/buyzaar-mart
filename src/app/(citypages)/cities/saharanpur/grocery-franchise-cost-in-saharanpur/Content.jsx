@@ -175,7 +175,7 @@ const Content = () => {
               Join The Buyzaar Mart today and turn Saharanpur&apos;s demand into your success. Contact us for a free consultation.
             </p>
             <p>
-              Get in touch button idea: <span className="font-semibold">Apply for Franchise | Call: 9311939160 , 9311939161 | Visit: thebuyzaarmart.com/franchise</span>
+              Get in touch button idea: <span className="font-semibold">Apply for Franchise | Call: 9217991727 | Visit: thebuyzaarmart.com/franchise</span>
             </p>
             <p>Limited spots in Saharanpur—secure yours!</p>
 

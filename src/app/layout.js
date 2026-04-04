@@ -1,5 +1,3 @@
-"use client";
-
 import Script from "next/script";
 import WhatsAppButton from "./components/whatsappButton";
 import "./globals.css";
@@ -21,7 +19,7 @@ export default function RootLayout({ children }) {
         <meta name="googlebot" content="index, follow" />
         <meta name="bingbot" content="index, follow" />
 
-        {/* ✅ JSON-LD Schema (SERVER SIDE - SEO BEST) */}
+        {/* ✅ JSON-LD Schema (SERVER SIDE) */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -103,7 +101,7 @@ export default function RootLayout({ children }) {
       </head>
 
       <body>
-        {/* ✅ Google Analytics (Correct - Client Side) */}
+        {/* ✅ Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-GFVCPN9VKJ"
           strategy="afterInteractive"

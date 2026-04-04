@@ -16,14 +16,95 @@ export default function RootLayout({ children }) {
           content="1xJTJr0uSdwhdTBxR0WnngElicUHLE-bKW3LonoaFlw"
         />
 
-        {/* Robots Meta (SAFE GLOBAL DEFAULT) */}
+        {/* Robots Meta */}
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="bingbot" content="index, follow" />
+
+        {/* ✅ Organization Schema */}
+        <Script
+          id="organization-schema"
+          type="application/ld+json"
+          strategy="afterInteractive"
+        >
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": "https://www.thebuyzaarmart.com/#organization",
+            name: "The Buyzaar Mart",
+            legalName: "The Buyzaar Mart",
+            url: "https://www.thebuyzaarmart.com",
+            logo: {
+              "@type": "ImageObject",
+              url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
+              width: 300,
+              height: 100,
+            },
+            description:
+              "The Buyzaar Mart is India's growing retail franchise network offering Franchise Owned Company Managed (FOCM) neighborhood supermarket stores across Uttar Pradesh and NCR.",
+            foundingLocation: {
+              "@type": "Place",
+              name: "Noida, Uttar Pradesh, India",
+            },
+            address: {
+              "@type": "PostalAddress",
+              streetAddress: "D-43, Third Floor, Sector-6",
+              addressLocality: "Noida",
+              addressRegion: "Uttar Pradesh",
+              postalCode: "201301",
+              addressCountry: "IN",
+            },
+            contactPoint: [
+              {
+                "@type": "ContactPoint",
+                telephone: "+91-9311939160",
+                contactType: "customer service",
+                availableLanguage: ["Hindi", "English"],
+                hoursAvailable: {
+                  "@type": "OpeningHoursSpecification",
+                  dayOfWeek: [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                  ],
+                  opens: "09:00",
+                  closes: "19:00",
+                },
+              },
+              {
+                "@type": "ContactPoint",
+                telephone: "+91-9311939161",
+                contactType: "franchise enquiry",
+                availableLanguage: ["Hindi", "English"],
+              },
+            ],
+            email: "info@thebuyzaarmart.com",
+            sameAs: [
+              "https://www.facebook.com/people/The-BuyZaar-mart/61583918706055/",
+              "https://www.instagram.com/thebuyzaarmart/",
+              "https://www.linkedin.com/company/thebuyzaarmart/",
+            ],
+            hasCredential: [
+              {
+                "@type": "EducationalOccupationalCredential",
+                name: "FSSAI Licensed",
+                credentialCategory: "Food Safety License",
+              },
+              {
+                "@type": "EducationalOccupationalCredential",
+                name: "GST Registered",
+                credentialCategory: "Tax Compliance",
+              },
+            ],
+          })}
+        </Script>
       </head>
 
       <body>
-        {/* Google Analytics GA4 */}
+        {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-GFVCPN9VKJ"
           strategy="afterInteractive"

@@ -123,7 +123,7 @@ const Content = () => {
               The Buyzaar Mart: Your Setup Authority
             </h2>
             <p>Years of UP launches prove our E-E-A-T: Experience in dozens of stores, expertise in operations, authority in retail, trust from results.</p>
-            <p>Features: <a href="https://www.perplexity.ai/search/internal-link-to-setup-page" className="text-blue-600 hover:underline">Begin Setup Today</a> – Saharanpur spots limited! Call 9311939160 , 9311939161or WhatsApp.</p>
+            <p>Features: <a href="https://www.perplexity.ai/search/internal-link-to-setup-page" className="text-blue-600 hover:underline">Begin Setup Today</a> – Saharanpur spots limited! Call 9217991727or WhatsApp.</p>
             
             
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-12">
@@ -182,7 +182,7 @@ const Content = () => {
                 <p className="font-semibold">Contact Us Now:</p>
                 <p className="flex items-center gap-2">
                   📞 <span className="font-semibold">Franchise Helpline:</span>
-                  <span>9311939160 , 9311939161</span>
+                  <span>9217991727</span>
                 </p>
                 <p>
                   <span className="font-semibold">Email:</span>

@@ -210,7 +210,7 @@ const Content = () => {
               <p className="mb-4"><strong>Ready to Get Started?</strong></p>
               <p>The journey to becoming a successful supermarket owner in Saharanpur begins with a single step. The Buyzaar Mart is here to guide you every step of the way.</p>
               <p className="font-semibold mt-4">Contact Us Now:</p>
-              <p><strong>📞 Franchise Helpline:</strong> 9311939160 , 9311939161<br/>
+              <p><strong>📞 Franchise Helpline:</strong> 9217991727<br/>
               <strong></strong> <br/>
               <strong>Email:</strong> <a href="mailto:info@thebuyzaarmart.com" className="text-blue-600 hover:underline">info@thebuyzaarmart.com</a></p>
             </div>

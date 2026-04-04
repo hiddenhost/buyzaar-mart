@@ -169,7 +169,7 @@ const Content = () => {
                   📧 <a href="mailto:info@thebuyzaarmart.com" className="text-green-600 hover:underline font-semibold">info@thebuyzaarmart.com</a>
                 </p>
                 <p className="text-xl">
-                  📞 <strong>9311939160 , 9311939161</strong>
+                  📞 <strong>9217991727</strong>
                 </p>
                 <p className="text-sm text-gray-600 italic font-semibold">
                   We'll respond within 24 hours

@@ -219,7 +219,7 @@ const Content = () => {
               <p className="mb-4">Investing in a hypermart franchise in Saharanpur is a future-proof business move, and Buyzaar Mart offers the right blend of brand strength, operational clarity, and growth opportunity.</p>
               <p>With rising demand for organized retail and daily essentials, Buyzaar Mart empowers entrepreneurs to build a trusted retail presence in their city.</p>
               <p className="font-semibold mt-6">Contact Us Now:</p>
-              <p><strong>Call:</strong> +91-9311939160 , 9311939161<br/>
+              <p><strong>Call:</strong> +91-9217991727<br/>
               
               <strong>Email:</strong> <a href="mailto:info@thebuyzaarmart.com" className="text-green-600 hover:underline">info@thebuyzaarmart.com</a></p>
             </div>

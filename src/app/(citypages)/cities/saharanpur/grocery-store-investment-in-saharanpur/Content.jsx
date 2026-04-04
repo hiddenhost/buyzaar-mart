@@ -223,7 +223,7 @@ const Content = () => {
                 <p className="font-semibold">Contact Us Now:</p>
                 <p className="flex items-center gap-2">
                   📞 <span className="font-semibold">Franchise Helpline:</span>
-                  <span>9311939160 , 9311939161</span>
+                  <span>9217991727</span>
                 </p>
                 <p>
                   <span className="font-semibold">Email:</span>

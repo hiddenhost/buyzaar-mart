@@ -14,7 +14,7 @@ const MEDIA = [
   {
     id: 1,
     type: "image",
-    src: "/store-images/store3.jpeg",       // replace with your actual path
+    src: "/store-images/store3.jpeg", // replace with your actual path
     store: "Sector 44, Noida",
     caption: "Grand storefront of The Buyzaar Mart, Sector 44 Chalera, Noida.",
   },
@@ -23,7 +23,8 @@ const MEDIA = [
     type: "image",
     src: "/store-images/store2.png",
     store: "Gangoh, Near Bus Stand",
-    caption: "Our Gangoh outlet — serving the community right near the Bus Stand.",
+    caption:
+      "Our Gangoh outlet — serving the community right near the Bus Stand.",
   },
   {
     id: 3,
@@ -37,16 +38,18 @@ const MEDIA = [
     type: "image",
     src: "/store-images/store1.png",
     store: "Bahadrabad, Haridwar",
-    caption: "Our Haridwar store at Bahadrabad, a go-to destination for locals.",
+    caption:
+      "Our Haridwar store at Bahadrabad, a go-to destination for locals.",
   },
   {
     id: 5,
     type: "image",
-    src: "/store-images/interior.jpg",
-    store: "Sector 44, Noida",
-    caption: "Spacious and well-organised aisles inside our Noida flagship store.",
+    src: "/store-images/store4.jpeg",
+    store: "Laxmi vIlas Raj nagar EXT Ghaziabad",
+    caption:
+      "Exciting things are coming to Laxmi Vilas, Raj Nagar Extension, Ghaziabad — stay tuned!",
+    locationEmbed: `<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3499.35787020355!2d77.43051487550358!3d28.708849175623207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDQyJzMxLjkiTiA3N8KwMjUnNTkuMSJF!5e0!3m2!1sen!2sin!4v1775302915562!5m2!1sen!2sin" width="100%" height="300" style="border:0;" loading="lazy"></iframe>`,
   },
- 
 ];
 
 // ─────────────────────────────────────────────
@@ -57,6 +60,7 @@ const STORES = ["All", ...Array.from(new Set(MEDIA.map((m) => m.store)))];
 export default function StoreImagesPage() {
   const [activeStore, setActiveStore] = useState("All");
   const [lightbox, setLightbox] = useState(null); // holds media item
+  const [mapOpen, setMapOpen] = useState(null);
 
   const filtered =
     activeStore === "All"
@@ -100,8 +104,7 @@ export default function StoreImagesPage() {
             Store Gallery
           </p>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold">
-            Photos &amp;{" "}
-            <span className="text-red-600">Videos</span>
+            Photos &amp; <span className="text-red-600">Videos</span>
           </h1>
           <p className="mt-4 text-neutral-400 max-w-xl mx-auto text-sm md:text-base">
             Take a visual tour of our BUYZAAR Mart outlets — the stores, the
@@ -143,7 +146,11 @@ export default function StoreImagesPage() {
                 initial={{ opacity: 0, scale: 0.95, y: 20 }}
                 animate={{ opacity: 1, scale: 1, y: 0 }}
                 exit={{ opacity: 0, scale: 0.9 }}
-                transition={{ delay: i * 0.07, duration: 0.45, ease: "easeOut" }}
+                transition={{
+                  delay: i * 0.07,
+                  duration: 0.45,
+                  ease: "easeOut",
+                }}
                 onClick={() => setLightbox(item)}
                 className="group relative cursor-pointer rounded-2xl overflow-hidden border border-neutral-800 bg-neutral-900 shadow-[0_8px_30px_rgba(0,0,0,0.6)] hover:border-red-800/60 transition-all duration-300"
               >
@@ -199,9 +206,61 @@ export default function StoreImagesPage() {
                     {item.caption}
                   </p>
                 </div>
+
+               {item.locationEmbed && (
+  <button
+    onClick={(e) => {
+      e.stopPropagation();
+      setMapOpen(item);
+    }}
+    className="absolute top-3 left-3 z-10 flex items-center gap-1.5 bg-black/70 backdrop-blur px-3 py-1.5 rounded-full text-xs text-white border border-white/20 hover:bg-red-700 hover:border-red-500 transition-all duration-300"
+  >
+    {/* Location SVG Icon */}
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      className="h-3.5 w-3.5"
+      viewBox="0 0 24 24"
+      fill="currentColor"
+    >
+      <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6a2.5 2.5 0 0 1 0 5.5z" />
+    </svg>
+
+    <span className="uppercase tracking-wider text-[10px]">View Location</span>
+  </button>
+)}
               </motion.div>
             ))}
           </AnimatePresence>
+          <AnimatePresence>
+  {mapOpen && (
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 px-4"
+      onClick={() => setMapOpen(null)}
+    >
+      <motion.div
+        initial={{ scale: 0.9 }}
+        animate={{ scale: 1 }}
+        exit={{ scale: 0.9 }}
+        className="bg-neutral-900 rounded-xl overflow-hidden max-w-2xl w-full"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <div
+          dangerouslySetInnerHTML={{ __html: mapOpen.locationEmbed }}
+        />
+
+        <button
+          onClick={() => setMapOpen(null)}
+          className="absolute top-3 right-3 bg-black/70 p-2 rounded-full"
+        >
+          ✕
+        </button>
+      </motion.div>
+    </motion.div>
+  )}
+</AnimatePresence>
         </motion.div>
 
         {filtered.length === 0 && (

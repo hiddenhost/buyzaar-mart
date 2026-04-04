@@ -275,7 +275,7 @@ const Content = () => {
 
     <p>
       📞 <span className="font-semibold">Franchise Helpline:</span>{" "}
-      9311939160 , 9311939161
+      9217991727
     </p>
 
     <p>

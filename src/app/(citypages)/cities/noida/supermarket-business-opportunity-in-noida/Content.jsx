@@ -260,7 +260,7 @@ const Content = () => {
               
               <div className="mb-2 mt-4">
                 <p className="font-semibold">
-                  📞 Call Us: + 9311939160 , 9311939161
+                  📞 Call Us: + 9217991727
                 </p>
               </div>
               

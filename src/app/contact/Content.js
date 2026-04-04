@@ -355,7 +355,7 @@ const states = [
                     </div>
                     <div className="min-w-0 flex-1">
                       <h3 className="text-base sm:text-lg font-semibold mb-1" style={{color: '#000000'}}>Call Us:</h3>
-                      <p className="text-sm sm:text-base text-black">9311939160 , 9311939161</p>
+                      <p className="text-sm sm:text-base text-black">9217991727</p>
                      
                     </div>
                   </div>

@@ -142,7 +142,7 @@ const Content = () => {
               >
                 Get Your Plan Template
               </a>{" "}
-              – Saharanpur opportunities waiting! Call 9311939160 , 9311939161or WhatsApp for free review.
+              – Saharanpur opportunities waiting! Call 9217991727or WhatsApp for free review.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-12">

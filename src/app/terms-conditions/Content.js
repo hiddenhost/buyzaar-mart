@@ -288,7 +288,7 @@ Noida-201301</p>
                   <span className="mr-3 mt-1">📱</span>
                   <div>
                     <p className="font-semibold mb-1">Mobile:</p>
-                    <p className="text-orange-50">+91 9311939160 , 9311939161</p>
+                    <p className="text-orange-50">+91 9217991727</p>
                   </div>
                 </div>
                 <div className="flex items-start">

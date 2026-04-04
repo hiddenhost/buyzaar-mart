@@ -314,7 +314,7 @@ const Content = () => {
             <div className="mt-8 p-6 bg-green-50 border-l-4 border-green-500 rounded-r">
               <p className="font-semibold mb-2">Contact Us Now:</p>
               <p>
-                📞 Franchise Helpline: 9311939160 , 9311939161
+                📞 Franchise Helpline: 9217991727
                 <br />
                 <strong>Email:</strong>{" "}
                 <a

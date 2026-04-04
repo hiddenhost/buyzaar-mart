@@ -276,6 +276,46 @@ export const citySlugs = {
       title: "Grocery Franchise Cost Muzaffarnagar",
       slug: "/cities/muzaffarnagar/grocery-franchise-cost-muzaffarnagar",
     },
+    {
+      title: "Grocery Store Franchise Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/grocery-store-franchise-muzaffarnagar",
+    },
+    {
+      title: "Supermarket Business in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/supermarket-business-in-muzaffarnagar",
+    },
+    {
+      title: "Open Grocery Store in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/open-grocery-store-in-muzaffarnagar",
+    },
+    {
+      title: "Open Supermarket in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/open-supermarket-in-muzaffarnagar",
+    },
+    {
+      title: "Start Grocery Business in Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/start-grocery-business-in-muzaffarnagar",
+    },
+    {
+      title: "Start Supermarket Business  Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/start-supermarket-business-muzaffarnagar",
+    },
+    {
+      title: "Profitable Grocery Business  Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/profitable-grocery-business-muzaffarnagar",
+    },
+    {
+      title: "Best Franchise Business Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/best-franchise-business-muzaffarnagar",
+    },
+    {
+      title: "Mart Franchise Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/mart-franchise-muzaffarnagar",
+    },
+    {
+      title: "Grocery Mart Near Me Muzaffarnagar",
+      slug: "/cities/muzaffarnagar/grocery-mart-near-me-muzaffarnagar",
+    },
   ],
 
   noida: [

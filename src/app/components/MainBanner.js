@@ -24,7 +24,7 @@ const MainBanner = () => {
     },
     {
       id: 4,
-      image: "/store-images/tbm photo-04.png",
+      image: "/store-images/tbm photo-08.png",
       alt: "Slide 4",
     },
     {

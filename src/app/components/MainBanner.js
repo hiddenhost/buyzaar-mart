@@ -22,6 +22,11 @@ const MainBanner = () => {
       image: "/store-images/store3.jpeg",
       alt: "Slide 3",
     },
+    {
+      id: 4,
+      image: "/store-images/store5.png",
+      alt: "Slide 4",
+    },
    
   ];
 

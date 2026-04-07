@@ -99,6 +99,46 @@ export const citySlugs = {
   title: "Start Supermarket Business  Gangoh",
   slug: "/cities/gangoh/start-supermarket-business-gangoh"
 },
+{
+  title: "Profitable Grocery Business  Gangoh",
+  slug: "/cities/gangoh/profitable-grocery-business-gangoh"
+},
+{
+  title: "Mart Franchise Gangoh",
+  slug: "/cities/gangoh/mart-franchise-gangoh"
+},
+{
+  title: "Supermarket  Near Me Gangoh",
+  slug: "/cities/gangoh/supermarket-near-me-gangoh"
+},
+{
+  title: "Modern Grocery Store Gangoh",
+  slug: "/cities/gangoh/modern-grocery-store-gangoh"
+},
+{
+  title: "Wholesale Grocery Mart Gangoh",
+  slug: "/cities/gangoh/wholesale-grocery-mart-gangoh"
+},
+{
+  title: "Supermarket Franchise Opportunity  Gangoh",
+  slug: "/cities/gangoh/supermarket-franchise-opportunity-gangoh"
+},
+{
+  title: "Grocery Shop Franchise Gangoh",
+  slug: "/cities/gangoh/grocery-shop-franchise-gangoh"
+},
+{
+  title: "Best Grocery Franchise Gangoh",
+  slug: "/cities/gangoh/best-grocery-franchise-gangoh"
+},
+{
+  title: "Supermarket Investment Gangoh",
+  slug: "/cities/gangoh/supermarket-investment-gangoh"
+},
+{
+  title: "Low Investment Grocery Business Gangoh",
+  slug: "/cities/gangoh/low-investment-grocery-business-gangoh"
+},
   ],
 
   meerut: [

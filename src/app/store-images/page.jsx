@@ -29,7 +29,7 @@ const MEDIA = [
   {
     id: 3,
     type: "image",
-    src: "/store-images/behat-store.jpg",
+    src: "/store-images/store5.png",
     store: "Behat, Saharanpur",
     caption: "The Buyzaar Mart, Behat — bringing smart retail to Saharanpur.",
   },

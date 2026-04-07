@@ -9,22 +9,37 @@ const MainBanner = () => {
   const slides = [
     {
       id: 1,
-      image: "/store-images/store1.png",
+      image: "/store-images/tbm photo-03.png",
       alt: "Slide 1",
     },
     {
       id: 2,
-      image: "/store-images/store2.png",
+      image: "/store-images/tbm photo-02.png",
       alt: "Slide 2",
     },
     {
       id: 3,
-      image: "/store-images/store3.jpeg",
+      image: "/store-images/tbm photo-01.png",
       alt: "Slide 3",
     },
     {
       id: 4,
-      image: "/store-images/store5.png",
+      image: "/store-images/tbm photo-04.png",
+      alt: "Slide 4",
+    },
+    {
+      id: 5,
+      image: "/store-images/tbm photo-05.png",
+      alt: "Slide 4",
+    },
+    {
+      id: 6,
+      image: "/store-images/tbm photo-06.png",
+      alt: "Slide 4",
+    },
+    {
+      id: 7,
+      image: "/store-images/tbm photo-07.png",
       alt: "Slide 4",
     },
    
@@ -60,12 +75,12 @@ const MainBanner = () => {
       <div
         id="home"
         className="relative w-full 
-                   h-[50vh]
-                   md:h-[90vh] md:min-h-[600px]
-                   lg:h-[95vh] lg:min-h-[700px]
-                   xl:h-screen xl:min-h-[800px]
-                   2xl:h-screen 2xl:min-h-[900px]
-                   overflow-hidden bg-gray-50"
+                  h-[40vh]
+             md:h-[75vh] md:min-h-[500px]
+             lg:h-[80vh] lg:min-h-[580px]
+             xl:h-[85vh] xl:min-h-[680px]
+             2xl:h-[85vh] 2xl:min-h-[780px]
+             overflow-hidden bg-gray-50"
       >
         {/* Slides Container */}
         <div

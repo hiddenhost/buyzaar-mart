@@ -93,14 +93,14 @@ export default function BlogClient({ blog }) {
     dateModified: blog.date,
     author: {
       "@type": "Organization",
-      name: blog.author || "Zentrix Infotech",
+      name: blog.author || "Buyzaar Mart",
     },
     publisher: {
       "@type": "Organization",
-      name: "Zentrix Infotech",
+      name: "Buyzaar Mart",
       logo: {
         "@type": "ImageObject",
-        url: "https://www.zentrixinfotech.com/zentrix_logo.jpg",
+        url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
       },
     },
     mainEntityOfPage: {
@@ -120,13 +120,13 @@ export default function BlogClient({ blog }) {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://www.zentrixinfotech.com",
+        item: "https://www.thebuyzaarmart.com",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Blog",
-        item: "https://www.zentrixinfotech.com/blog",
+        item: "https://www.thebuyzaarmart.com/blog",
       },
       {
         "@type": "ListItem",

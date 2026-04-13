@@ -339,7 +339,7 @@ const Content = () => {
                 Ready to secure your grocery franchise opportunity in Meerut? Get in touch with our team today.
               </p>
               <p className="text-gray-800 font-semibold">
-                📞 Call: +91-9311939160, +91-9311939161
+                📞 Call: +91-9217991727, 
               </p>
               <p className="text-gray-800 mt-2">
                 Email:{" "}

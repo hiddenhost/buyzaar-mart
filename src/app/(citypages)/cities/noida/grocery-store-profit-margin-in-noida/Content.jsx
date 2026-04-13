@@ -170,7 +170,7 @@ const Content = () => {
             <div className="bg-gray-50 p-6 rounded-lg">
               <p>Optimize Operations | Scale Earnings Fast. Partner with proven experts.</p>
               <p className="mb-2 mt-4">
-                <strong>📞 Contact us:</strong> 9311939160, 9311939161
+                <strong>📞 Contact us:</strong> 9217991727
               </p>
               <p className="mb-4">
                 <strong>📧 Email:</strong>{' '}

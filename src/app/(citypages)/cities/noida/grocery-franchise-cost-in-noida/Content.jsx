@@ -137,7 +137,7 @@ Moreover, modern consumers are increasingly seeking stores that combine quality,
                 </a>
               </p>
               <p className="mb-2">
-                <strong>📞 Call:</strong> 9311939160
+                <strong>📞 Call:</strong> 9217991727
               </p>
               <p>Turn investment into a thriving Noida grocery hub.</p>
             </div>

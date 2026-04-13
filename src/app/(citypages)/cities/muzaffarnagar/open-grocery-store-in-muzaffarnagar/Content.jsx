@@ -187,7 +187,7 @@ const Content = () => {
             </p>
 
             <p>
-              Get in touch with us: 9311939160, 9311939161
+              Get in touch with us: 9217991727
             </p>
 
             <p>

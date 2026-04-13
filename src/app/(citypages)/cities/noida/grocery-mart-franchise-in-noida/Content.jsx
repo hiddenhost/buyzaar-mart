@@ -230,7 +230,7 @@ const Content = () => {
 
             <p>
   <strong>Contact us:</strong><br/>
-  <strong>Call:</strong> 9311939160, 9311939161<br/>
+  <strong>Call:</strong> 9217991727<br/>
   <strong>Email:</strong> info@thebuyzaarmart.com
 </p>
 

@@ -249,7 +249,7 @@ const Content = () => {
   <div className="grid md:grid-cols-3 gap-6 text-gray-800">
     <div>
       <p className="font-medium mb-1">Call</p>
-      <p>9311939160, 9311939161</p>
+      <p>9217991727</p>
     </div>
 
     <div>
@@ -262,7 +262,7 @@ const Content = () => {
     <div>
       <p className="font-medium mb-1">Apply Online</p>
       <a
-        href="https://thebuyzaarmart.com/franchise"
+        href="https://www.thebuyzaarmart.com/franchise"
         className="hover:underline"
       >
         thebuyzaarmart.com/franchise

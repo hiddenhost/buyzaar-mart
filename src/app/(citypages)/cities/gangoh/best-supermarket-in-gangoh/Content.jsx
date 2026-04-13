@@ -234,11 +234,11 @@ const Content = () => {
                 <a href="https://www.thebuyzaarmart.com/" className="text-green-600 hover:underline font-semibold">
                   thebuyzaarmart.com
                 </a>
-                . Join VIP waitlist for opening rewards or call +91-9311939160, +91-9311939161 for exclusive preview. Gangoh's premier supermarket awaits!
+                . Join VIP waitlist for opening rewards or call +91-9217991727,  for exclusive preview. Gangoh's premier supermarket awaits!
               </p>
 
               <p className="text-gray-800">
-                📞 <span className="font-semibold">Contact:</span> +91-9311939160, +91-9311939161
+                📞 <span className="font-semibold">Contact:</span> +91-9217991727, 
               </p>
 
               <p className="text-gray-800">

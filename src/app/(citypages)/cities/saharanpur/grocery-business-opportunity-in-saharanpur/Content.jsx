@@ -196,7 +196,7 @@ const Content = () => {
               <div className="space-y-3 text-gray-800 text-lg">
                 <p className="font-semibold">Contact Us Now:</p>
                 <p className="flex items-center gap-2">
-                  <span className="font-semibold">Franchise Helpline:</span> 9311939160, 9311939161
+                  <span className="font-semibold">Franchise Helpline:</span> 9217991727
                 </p>
                 <p>
                   <span className="font-semibold"></span> 

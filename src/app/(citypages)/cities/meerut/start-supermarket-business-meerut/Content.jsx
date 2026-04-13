@@ -109,7 +109,7 @@ const Content = () => {
               <div className="space-y-4 text-center">
                 <div className="text-2xl font-bold text-green-900">Get in touch now:</div>
                 <p className="text-xl">
-                  📞 <strong>9311939160, 9311939161</strong>
+                  📞 <strong>9217991727</strong>
                 </p>
                 <p className="text-xl">
                   📧 <a href="mailto:info@thebuyzaarmart.com" className="text-green-600 hover:underline font-semibold">info@thebuyzaarmart.com</a>

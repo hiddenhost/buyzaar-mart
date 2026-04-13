@@ -175,7 +175,7 @@ const Content = () => {
                 </a>
               </p>
               <p className="mb-2">
-                <strong>📞 Call:</strong> 9311939160, 9311939161
+                <strong>📞 Call:</strong> 9217991727
               </p>
               <p>We'll respond within 24 hours. Consistent quality awaits!</p>
             </div>

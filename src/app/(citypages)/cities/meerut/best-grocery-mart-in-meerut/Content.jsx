@@ -152,7 +152,7 @@ const Content = () => {
               </p>
               <div className="space-y-3">
                 <p className="text-gray-900 font-semibold">
-                  📞 Call us at: +91-9311939160, +91-9311939161 for store or franchise queries
+                  📞 Call us at: +91-9217991727,  for store or franchise queries
                 </p>
                 <p className="text-gray-900">
                   📧 Email:{" "}

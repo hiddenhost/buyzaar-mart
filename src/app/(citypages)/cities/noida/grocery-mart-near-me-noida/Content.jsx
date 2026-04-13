@@ -144,7 +144,7 @@ const Content = () => {
             <div className="bg-gray-50 p-6 rounded-lg">
               <p>Don't wait – find your nearest The Buyzaar Mart today. Search "grocery mart near me Noida" no more.</p>
               <p className="mb-2 mt-4">
-                <strong>📞 Call us:</strong> 9311939160, 9311939161
+                <strong>📞 Call us:</strong> 9217991727
               </p>
               <p className="mb-4">
                 <strong>🌐 Website:</strong>{' '}

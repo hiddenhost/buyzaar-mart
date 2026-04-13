@@ -237,11 +237,11 @@ const Content = () => {
                 <a href="https://www.thebuyzaarmart.com/gangoh" className="text-green-600 hover:underline font-semibold">
                   thebuyzaarmart.com/gangoh
                 </a>
-                . Reserve early bird rewards or call (+91-9311939160, +91-9311939161) updates. Gangoh's top grocery experience awaits!
+                . Reserve early bird rewards or call (+91-9217991727, ) updates. Gangoh's top grocery experience awaits!
               </p>
 
               <p className="text-gray-800">
-                📞 <span className="font-semibold">Contact:</span> +91-9311939160, +91-9311939161
+                📞 <span className="font-semibold">Contact:</span> +91-9217991727, 
               </p>
 
               <p className="text-gray-800">

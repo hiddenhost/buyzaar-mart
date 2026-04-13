@@ -187,7 +187,7 @@ const Content = () => {
                   Get in touch with us today!
                 </p>
                 <p className="text-gray-900">
-                  📞 Contact: <strong>9311939160</strong>
+                  📞 Contact: <strong>9217991727</strong>
                 </p>
                 <p className="text-gray-900">
                   📧 Email: 

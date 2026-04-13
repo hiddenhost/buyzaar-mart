@@ -204,7 +204,7 @@ const Content = () => {
               </h2>
 
               <p className="text-gray-800 mb-4">
-                Call: +91-9311939160, +91-9311939161 | Email us:{" "}
+                Call: +91-9217991727,  | Email us:{" "}
                 <a href="mailto:info@thebuyzaarmart.com" className="text-green-600 hover:underline font-semibold">
                   info@thebuyzaarmart.com
                 </a>

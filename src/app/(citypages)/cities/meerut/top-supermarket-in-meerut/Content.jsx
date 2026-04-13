@@ -197,7 +197,7 @@ const Content = () => {
                 Find your nearest Buyzaar Mart store or explore our latest deals online.
               </h3>
               <p className="text-gray-900 font-semibold">
-                📞 Contact with us: +91-9311939160, +91-9311939161
+                📞 Contact with us: +91-9217991727, 
               </p>
               <p className="text-gray-900">
                 📧 Email Us: 

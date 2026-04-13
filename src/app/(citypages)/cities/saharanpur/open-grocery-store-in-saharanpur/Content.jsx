@@ -363,7 +363,7 @@ const Content = () => {
 
             <p className="bg-gray-50 p-4 rounded-lg border border-gray-200">
               <strong className="text-gray-900 block mb-2">Get Started Today:</strong>
-              <span className="block">📞 <strong>Call:</strong> 9311939160 or 9311939161</span>
+              <span className="block">📞 <strong>Call:</strong> 9217991727 </span>
              
               <span className="block">✉️ <strong>Email:</strong> info@thebuyzaarmart.com</span>
             </p>

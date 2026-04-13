@@ -150,7 +150,7 @@ const Content = () => {
             </p>
 
             <p>
-              📍 Visit The Buyzaar Mart, Muzaffarnagar | 📞 Speak to our team today [9311939160, 9311939161] | Visit Our Office | Open 7 Days a Week
+              📍 Visit The Buyzaar Mart, Muzaffarnagar | 📞 Speak to our team today [9217991727] | Visit Our Office | Open 7 Days a Week
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-8">

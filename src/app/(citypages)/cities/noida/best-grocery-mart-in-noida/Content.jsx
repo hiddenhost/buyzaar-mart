@@ -149,7 +149,7 @@ const Content = () => {
             </p>
 
             <p>
-              Call <strong>+91-9311939160</strong>
+              Call <strong>+91-9217991727</strong>
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-12">

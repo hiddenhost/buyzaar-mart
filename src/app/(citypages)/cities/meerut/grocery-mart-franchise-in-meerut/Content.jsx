@@ -166,7 +166,7 @@ const Content = () => {
 
             <div className="bg-gray-50 p-6 rounded-lg space-y-3">
               <p className="text-gray-900 font-semibold">
-                📞 Contact: +91-9311939160, +91-9311939161
+                📞 Contact: +91-9217991727, 
               </p>
               <p className="text-gray-900">
                 📧 Email:{" "}

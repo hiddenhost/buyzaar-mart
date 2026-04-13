@@ -128,7 +128,7 @@ export const blogs = [
   heading: "Get in Touch with Buyzaar Mart",
   content: [
     { type: "paragraph", text: "Ready to take the next step toward structured retail ownership? Connect with the Buyzaar Mart franchise team today and start your journey with the FOCM model." },
-    { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+    { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
     
     { type: "paragraph", text: "<strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
   ]}
@@ -285,7 +285,7 @@ export const blogs = [
         content: [
           { type: "paragraph", text: "If you are interested in learning more about organized retail franchise opportunities, the Buyzaar Mart team can help you understand how the company-managed retail model works and how you can become part of the growing network." },
           { type: "paragraph", text: "Whether you are exploring retail investment for the first time or looking to expand your business portfolio, connecting with the Buyzaar Mart team is the first step toward discovering new opportunities." },
-          { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           { type: "paragraph", text: "<strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]
       }
@@ -474,7 +474,7 @@ export const blogs = [
         heading: "Interested in Franchise Opportunities with Buyzaar Mart?",
         content: [
           { type: "paragraph", text: "If you would like to explore franchise opportunities and learn more about how the Buyzaar Mart FOCM model works, the team can guide you through the process." },
-          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           
           { type: "paragraph", text: "📧 <strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]
@@ -605,7 +605,7 @@ export const blogs = [
         heading: "Explore Franchise Opportunities with Buyzaar Mart",
         content: [
           { type: "paragraph", text: "If you would like to learn more about the Buyzaar Mart franchise model and how the partnership works, the team can provide further information about the process." },
-          { type: "paragraph", text: " <strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: " <strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           
           { type: "paragraph", text: "<strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]
@@ -780,7 +780,7 @@ export const blogs = [
         heading: "Explore Franchise Opportunities with Buyzaar Mart",
         content: [
           { type: "paragraph", text: "If you would like to learn more about organized retail franchise opportunities and how Buyzaar Mart operates its structured retail model, the team can guide you through the process." },
-          { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           { type: "paragraph", text: "<strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]
       }
@@ -986,7 +986,7 @@ export const blogs = [
         heading: "Contact Buyzaar Mart",
         content: [
           { type: "paragraph", text: "If you would like to learn more about organized retail opportunities and how the Buyzaar Mart model works, you can connect with the team for further information." },
-          { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: "<strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           { type: "paragraph", text: "<strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]
       }
@@ -1103,7 +1103,7 @@ export const blogs = [
         heading: "Explore Franchise Opportunities with Buyzaar Mart",
         content: [
           { type: "paragraph", text: "If you are interested in learning more about company-managed supermarket opportunities, you can connect with the Buyzaar Mart team to understand how the model works." },
-          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           
           { type: "paragraph", text: "📧 <strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]
@@ -1280,7 +1280,7 @@ export const blogs = [
         heading: "Start Your Buyzaar Mart Franchise Journey",
         content: [
           { type: "paragraph", text: "If you are ready to explore this opportunity and want detailed guidance on choosing the right store format, you can connect with the Buyzaar Mart team." },
-          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           { type: "paragraph", text: "📧 <strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]
       }
@@ -1446,7 +1446,7 @@ export const blogs = [
         heading: "Explore Franchise Opportunities with Buyzaar Mart",
         content: [
           { type: "paragraph", text: "If you are considering entering the grocery business and want a structured approach, you can connect with the Buyzaar Mart team to understand how the franchise model works." },
-          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           { type: "paragraph", text: "📧 <strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]
       }
@@ -1649,7 +1649,7 @@ export const blogs = [
         heading: "Explore Franchise Opportunities with Buyzaar Mart",
         content: [
           { type: "paragraph", text: "Don't risk your investment with trial and error. Start with a structured, high-demand grocery franchise model designed for faster ROI, strong operational support, and long-term profitability." },
-          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919311939160' style='color:#2563eb;'>9311939160</a> &nbsp;|&nbsp; <a href='tel:+919311939161' style='color:#2563eb;'>9311939161</a>" },
+          { type: "paragraph", text: "📞 <strong>Phone:</strong> <a href='tel:+919217991727' style='color:#2563eb;'>9217991727</a> " },
           
           { type: "paragraph", text: "📧 <strong>Email:</strong> <a href='mailto:info@thebuyzaarmart.com' style='color:#2563eb;'>info@thebuyzaarmart.com</a>" }
         ]

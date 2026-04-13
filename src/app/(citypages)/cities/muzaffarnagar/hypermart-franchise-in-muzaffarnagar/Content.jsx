@@ -187,7 +187,7 @@ const Content = () => {
               </p>
               <div className="space-y-2 mb-4">
                 <p className="text-gray-900 text-lg">
-                  📞 <span className="font-semibold">Get in touch:</span> 9311939160, 9311939161
+                  📞 <span className="font-semibold">Get in touch:</span> 9217991727
                 </p>
                 <p className="text-gray-900">
                   ✉️ <span className="font-semibold">Email:</span>{" "}

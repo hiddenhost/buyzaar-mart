@@ -192,7 +192,7 @@ const Content = () => {
 
             <p className="mt-4 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
               <strong>Store Hours (All Locations):</strong> Monday to Sunday — 9:00 AM to 7:00 PM<br/>
-              <strong>Contact Number:</strong> 9311939160, 9311939161<br/>
+              <strong>Contact Number:</strong> 9217991727<br/>
               <strong>Email:</strong> <a href="mailto:info@thebuyzaarmart.com" className="text-blue-600 hover:underline font-semibold">info@thebuyzaarmart.com</a><br/>
               <strong>Website:</strong> <a href="http://www.thebuyzaarmart.com" className="text-blue-600 hover:underline font-semibold" target="_blank" rel="noopener noreferrer">www.thebuyzaarmart.com</a><br/>
               <strong>Home Delivery:</strong> Available across Meerut — call your nearest store to order

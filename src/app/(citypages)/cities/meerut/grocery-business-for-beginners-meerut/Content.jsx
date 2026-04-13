@@ -167,7 +167,7 @@ const Content = () => {
                 <strong>Location:</strong> Meerut, Uttar Pradesh
               </p>
               <p className="text-gray-800 mb-2">
-                <strong>Phone:</strong> 9311939160, 9311939161
+                <strong>Phone:</strong> 9217991727
               </p>
               <p className="text-gray-800 mb-2">
                 <strong>Email:</strong>{" "}

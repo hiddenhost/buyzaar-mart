@@ -195,7 +195,7 @@ const Content = () => {
 
             <div className="mt-8 p-8 bg-gradient-to-r from-green-50 to-blue-50 border-l-4 border-green-500 rounded-r-lg shadow-sm">
               <h2 className="text-xl font-semibold text-gray-900 mb-4">
-                Contact with us: 9311939160, 9311939161
+                Contact with us: 9217991727
               </h2>
               <p className="text-gray-900">
                 ✉️ <span className="font-semibold">Email with us:</span>{" "}

@@ -131,7 +131,7 @@ const Content = () => {
             </p>
 
             <p>
-              Head to your nearest store, order via <a href="https://www.thebuyzaarmart.com/shop" className="text-blue-600 hover:underline">thebuyzaarmart.com/shop</a>, or download the app today. First-time perk inside! Connect at <strong>+91-9311939160</strong>.
+              Head to your nearest store, order via <a href="https://www.thebuyzaarmart.com/shop" className="text-blue-600 hover:underline">thebuyzaarmart.com/shop</a>, or download the app today. First-time perk inside! Connect at <strong>+91-9217991727</strong>.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-12">

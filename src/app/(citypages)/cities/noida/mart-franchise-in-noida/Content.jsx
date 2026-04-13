@@ -325,7 +325,7 @@ const Content = () => {
               </p>
 
               <p className="font-semibold mt-4">
-                Contact to us: 9311939160, 9311939161
+                Contact to us: 9217991727
               </p>
 
               <div className="mb-2 mt-4">

@@ -236,11 +236,11 @@ const Content = () => {
               </p>
 
               <p className="text-gray-800 mb-4">
-                Secure your Gangoh chain flagship territory immediately: <a href="https://www.thebuyzaarmart.com" className="text-green-600 hover:underline font-semibold">thebuyzaarmart.com</a> or dial +91-9311939160, +91-9311939161 for executive portfolio territory analysis. Prime high-street chain locations allocated first-come priority!
+                Secure your Gangoh chain flagship territory immediately: <a href="https://www.thebuyzaarmart.com" className="text-green-600 hover:underline font-semibold">thebuyzaarmart.com</a> or dial +91-9217991727,  for executive portfolio territory analysis. Prime high-street chain locations allocated first-come priority!
               </p>
 
               <p className="text-gray-800 mb-4">
-                📞 <span className="font-semibold">Call:</span> +91-9311939160, +91-9311939161
+                📞 <span className="font-semibold">Call:</span> +91-9217991727, 
               </p>
 
               <p className="text-gray-800">

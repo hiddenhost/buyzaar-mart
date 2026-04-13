@@ -202,7 +202,7 @@ const Content = () => {
             </p>
 
             <p>
-              Phone: <strong>+91-9311939160</strong>
+              Phone: <strong>+91-9217991727</strong>
             </p>
 
             <p>

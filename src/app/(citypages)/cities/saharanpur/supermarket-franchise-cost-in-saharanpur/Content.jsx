@@ -163,7 +163,7 @@ const Content = () => {
               <p className="font-semibold text-gray-900 mb-3">Get in Touch</p>
 
               <p className="text-gray-800 mb-2">
-                📞 <span className="font-semibold">Franchise Helpline:</span> 9311939160, 9311939161
+                📞 <span className="font-semibold">Franchise Helpline:</span> 9217991727
               </p>
 
               <p className="text-gray-800 mb-4">

@@ -301,7 +301,7 @@ const Content = () => {
               </p>
 
               <p className="text-gray-800 mb-4">
-                You can reach us via phone at +91-9311939160, +91-9311939161 or email at{" "}
+                You can reach us via phone at +91-9217991727,  or email at{" "}
                 <a href="mailto:info@thebuyzaarmart.com" className="text-green-600 hover:underline font-semibold">
                   info@thebuyzaarmart.com
                 </a>

@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 
 const WhatsAppButton = ({ 
-  phoneNumber = "919311939160", // Replace with your WhatsApp number (with country code, no + sign)
+  phoneNumber = "919217991727", // Replace with your WhatsApp number (with country code, no + sign)
   message = "Hello! I found your contact on your website. I would like to enquire about The Buyzaar Mart .",
   position = "bottom-right", // bottom-right, bottom-left, top-right, top-left
   showOnScroll = true,
@@ -29,7 +29,7 @@ const WhatsAppButton = ({
 
 const handleClick = () => {
   const encodedMessage = encodeURIComponent(message);
-  const phone = "919311939160";
+  const phone = "919217991727";
 
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i
     .test(navigator.userAgent) || window.innerWidth < 768;

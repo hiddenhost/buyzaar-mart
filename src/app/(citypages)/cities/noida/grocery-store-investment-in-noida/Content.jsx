@@ -174,7 +174,7 @@ const Content = () => {
             </p>
 
             <h3 className="text-lg font-semibold text-gray-900">Proven Franchise Model</h3>
-            <p>50+ outlets in UP, with 95% retention rate.</p>
+            <p>Multiple outlets in UP, with 95% retention rate.</p>
 
             <h3 className="text-lg font-semibold text-gray-900">End-to-End Support</h3>
             <p>From site selection to training, saving you 6 months.</p>
@@ -252,7 +252,7 @@ const Content = () => {
               </p>
 
               <p className="font-semibold mt-4">
-                📞 Call Us: 9311939160, 9311939161
+                📞 Call Us: 9217991727
               </p>
 
               <div className="mb-2 mt-4">

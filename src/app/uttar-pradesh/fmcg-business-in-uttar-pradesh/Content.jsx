@@ -174,7 +174,7 @@ Additionally, the organized retail sector in many districts is still expanding, 
               </p>
               <div className="space-y-3 text-[#0f172a] text-lg">
                 <p className="flex items-center gap-2">
-                   <span className="font-semibold">Call Now:</span> +9311939160, 9311939161
+                   <span className="font-semibold">Call Now:</span> +9217991727
                 </p>
                 <p><span className="font-semibold"></span></p>
                 <p>

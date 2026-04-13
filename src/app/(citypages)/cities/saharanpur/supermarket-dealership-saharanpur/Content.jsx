@@ -299,7 +299,7 @@ const Content = () => {
               
               <div className="space-y-2">
                 <p className="text-gray-900">
-                  📞 <strong>Call Us:</strong> +91-9311939160 | +91-9311939161
+                  📞 <strong>Call Us:</strong> +91-9217991727 | 
                 </p>
                 
                 <p className="text-gray-900">

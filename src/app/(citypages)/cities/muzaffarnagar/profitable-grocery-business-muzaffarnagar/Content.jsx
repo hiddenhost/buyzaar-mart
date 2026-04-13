@@ -137,7 +137,7 @@ const Content = () => {
             <p>Contact The Buyzaar Mart franchise team today. The most profitable grocery business you can build in Muzaffarnagar starts with a single conversation.</p>
 
             <p>
-              📍 Visit The Buyzaar Mart — Muzaffarnagar's Most Trusted Open Supermarket 📞 <strong>[9311939160, 9311939161]</strong> Call our franchise team today 🌐 Freshness. Organization. Community. Maximum Value. Open 7 Days a Week — Built for Muzaffarnagar
+              📍 Visit The Buyzaar Mart — Muzaffarnagar's Most Trusted Open Supermarket 📞 <strong>[9217991727]</strong> Call our franchise team today 🌐 Freshness. Organization. Community. Maximum Value. Open 7 Days a Week — Built for Muzaffarnagar
             </p>
             <p><strong>Email us: info@thebuyzaarmart.com</strong></p>
 

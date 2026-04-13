@@ -288,7 +288,7 @@ const Content = () => {
               </p>
 
               <p className="text-gray-800">
-                📞 <span className="font-semibold">Call:</span> +91-9311939160
+                📞 <span className="font-semibold">Call:</span> +91-9217991727
               </p>
 
               <p className="text-gray-800">

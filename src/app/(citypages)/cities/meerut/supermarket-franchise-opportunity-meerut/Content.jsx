@@ -166,7 +166,7 @@ const Content = () => {
             <p className="mt-4 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
               <strong>Get in touch:</strong><br/>
               <strong>Email us:</strong> <a href="mailto:info@thebuyzaarmart.com" className="text-blue-600 hover:underline font-semibold">info@thebuyzaarmart.com</a><br/>
-              <strong>Call Us:</strong> 9311939160, 9311939161
+              <strong>Call Us:</strong> 9217991727
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">

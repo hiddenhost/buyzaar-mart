@@ -587,7 +587,7 @@ const Content = () => {
               >
                 The Buyzaar Mart website
               </a>{" "}
-              or call +91-9311939160, +91-9311939161. Get your free feasibility
+              or call +91-9217991727, . Get your free feasibility
               report and start your supermarket business in Gangoh.
             </p>
 
@@ -670,7 +670,7 @@ const Content = () => {
                 reliable operational guidance.
               </p>
               <p className="text-gray-800 mb-4">
-                📞 <strong>Call:</strong> +91-9311939160, +91-9311939161
+                📞 <strong>Call:</strong> +91-9217991727, 
               </p>
               <p className="text-gray-800 mb-4">
                 ✉️ <strong>Email:</strong>{" "}

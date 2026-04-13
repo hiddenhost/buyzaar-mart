@@ -162,7 +162,7 @@ const Content = () => {
               </p>
               <div className="space-y-3">
                 <p className="text-gray-900 font-semibold">
-                  📞 Contact us: +91-9311939160, +91-9311939161
+                  📞 Contact us: +91-9217991727, 
                 </p>
                 <p className="text-gray-900">
                   📧 Email:{" "}

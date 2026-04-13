@@ -213,7 +213,7 @@ const Content = () => {
 
               <p className="text-gray-800">
                 📞 <span className="font-semibold">Call:</span>
-                +91-9311939160, +91-9311939161
+                +91-9217991727, 
                 Email: info@thebuyzaarmart.com
               </p>
 

@@ -344,7 +344,7 @@ const Content = () => {
             <p>
               <strong>📍 Visit us in Gangoh</strong> |{" "}
               <strong>📞 Contact us for franchise enquiries</strong>{" "}
-              [9311939160, 9311939161] | <strong>🌐</strong>{" "}
+              [9217991727] | <strong>🌐</strong>{" "}
               <a
                 href="http://www.thebuyzaarmart.com"
                 className="text-green-600 hover:underline font-semibold"
@@ -447,7 +447,7 @@ const Content = () => {
                 fair prices, and a modern supermarket experience.
               </p>
               <p className="text-gray-800 mb-4">
-                📞 <strong>Call:</strong> +91-9311939160, +91-9311939161
+                📞 <strong>Call:</strong> +91-9217991727, 
               </p>
               <p className="text-gray-800">
                 🌐 <strong>Website:</strong>{" "}

@@ -250,7 +250,7 @@ const Content = () => {
                   📞 Next steps:
                 </p>
                 <p className="text-gray-900">
-                  Call +91-9311939160, +91-9311939161 for personalized consultation
+                  Call +91-9217991727,  for personalized consultation
                 </p>
                 <p className="text-gray-900">
                   📧 Email: 

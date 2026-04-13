@@ -139,7 +139,7 @@ const Content = () => {
 
             <div className="mt-8 p-8 bg-gradient-to-r from-green-50 to-blue-50 border-l-4 border-green-500 rounded-r-lg shadow-sm">
               <p className="text-gray-900 text-lg font-semibold mb-4">
-                Call us: 9311939160, 9311939161
+                Call us: 9217991727
               </p>
               <p className="text-gray-900 mb-4">
                 Email us: 

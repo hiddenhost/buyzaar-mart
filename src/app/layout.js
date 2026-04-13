@@ -53,7 +53,7 @@ export default function RootLayout({ children }) {
               contactPoint: [
                 {
                   "@type": "ContactPoint",
-                  telephone: "+91-9311939160",
+                  telephone: "+91-9217991727",
                   contactType: "customer service",
                   availableLanguage: ["Hindi", "English"],
                   hoursAvailable: {
@@ -72,7 +72,7 @@ export default function RootLayout({ children }) {
                 },
                 {
                   "@type": "ContactPoint",
-                  telephone: "+91-9311939161",
+                  telephone: "",
                   contactType: "franchise enquiry",
                   availableLanguage: ["Hindi", "English"],
                 },

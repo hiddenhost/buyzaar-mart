@@ -142,7 +142,7 @@ const Content = () => {
             </p>
 
             <p>
-              Phone Numbers: <strong>+91-9311939160</strong>, <strong>+91-9311939161</strong>
+              Phone Numbers: <strong>+91-9217991727</strong>, <strong></strong>
             </p>
 
             <p>

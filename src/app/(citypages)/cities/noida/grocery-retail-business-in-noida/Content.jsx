@@ -181,7 +181,7 @@ const Content = () => {
             <div className="bg-gray-50 p-6 rounded-lg">
               <p>Don't miss Noida's retail opportunity. Partner with The Buyzaar Mart for a grocery retail business in Noida engineered for profitability.</p>
               <p className="mb-2 mt-4">
-                <strong>📞 Call us:</strong> 9311939160, 9311939161
+                <strong>📞 Call us:</strong> 9217991727
               </p>
               <p className="mb-4">
                 <strong>🌐 Website:</strong>{' '}

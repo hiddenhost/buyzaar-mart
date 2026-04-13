@@ -265,14 +265,14 @@ const Content = () => {
                 Visit The Buyzaar Mart—the top grocery store in Muzaffarnagar today! Fill your cart with trusted quality.
               </h2>
               <p className="text-gray-800 mb-4">
-                Step into The Buyzaar Mart, Muzaffarnagar's favorite grocery store! Discover fresh produce, daily essentials, and quality you can trust. Free profit assessment for Saharanpur locations! Call (9311939160, 9311939161)
+                Step into The Buyzaar Mart, Muzaffarnagar's favorite grocery store! Discover fresh produce, daily essentials, and quality you can trust. Free profit assessment for Saharanpur locations! Call (9217991727)
               </p>
               <p className="text-gray-800 mb-4">
                 Experience the convenience and quality of The Buyzaar Mart in Muzaffarnagar today! Whether you're stocking up on daily groceries, fresh produce, or household essentials, our store is designed to make your shopping easy, fast, and enjoyable. Our friendly staff, organized aisles, and hygienic environment ensure a seamless experience for every shopper.
               </p>
               <div className="space-y-2 mb-4">
                 <p className="text-gray-900 text-lg">
-                  📞 <span className="font-semibold">Call Us:</span> 9311939160, 9311939161
+                  📞 <span className="font-semibold">Call Us:</span> 9217991727
                 </p>
                 <p className="text-gray-900">
                   ✉️ <span className="font-semibold">Email:</span>{" "}

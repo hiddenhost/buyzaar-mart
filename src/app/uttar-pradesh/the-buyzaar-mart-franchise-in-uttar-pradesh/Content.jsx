@@ -341,7 +341,7 @@ const Content = () => {
               <div className="grid md:grid-cols-2 gap-6 text-left">
                 <div>
                   <p className="font-bold text-1xl mb-2">Call Now:</p>
-                  <p className="text-xl font-semibold text-gray-800">9311939160, 9311939161</p>
+                  <p className="text-xl font-semibold text-gray-800">9217991727</p>
                 </div>
                 <div>
                   <p className="font-bold text-1xl mb-2">Email:</p>

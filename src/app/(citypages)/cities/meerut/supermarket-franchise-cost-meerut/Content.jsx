@@ -199,7 +199,7 @@ const Content = () => {
                   </a>
                 </p>
                 <p className="text-gray-900">
-                  📞 Call: 9311939160, 9311939161
+                  📞 Call: 9217991727
                 </p>
                 <p className="text-sm text-gray-600 italic font-semibold">
                   We'll respond within 24 hours

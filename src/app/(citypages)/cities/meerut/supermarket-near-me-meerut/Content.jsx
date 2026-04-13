@@ -210,7 +210,7 @@ const Content = () => {
                 Get in touch
               </h2>
               <p className="text-gray-800 font-semibold">
-                9311939160, 9311939161
+                9217991727
               </p>
               <p className="text-gray-800 mt-2">
                 Email:{" "}

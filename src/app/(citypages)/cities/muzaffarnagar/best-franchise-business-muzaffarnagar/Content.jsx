@@ -199,7 +199,7 @@ const Content = () => {
             </p>
 
             <p>
-              <strong>Contact us: 9311939160, 9311939161</strong>
+              <strong>Contact us: 9217991727</strong>
             </p>
 
             <p>

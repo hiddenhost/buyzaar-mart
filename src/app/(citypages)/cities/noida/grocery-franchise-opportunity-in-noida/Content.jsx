@@ -148,7 +148,7 @@ Partnering with The Buyzaar Mart gives you access to a proven business model and
             <div className="bg-gray-50 p-6 rounded-lg">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Join the winning network:</h3>
               <p className="mb-2">
-                <strong>📞 Contact:</strong> 9311939160, 9311939161
+                <strong>📞 Contact:</strong> 9217991727
               </p>
               <p className="mb-4">
                 <strong>📧 Email:</strong>{' '}

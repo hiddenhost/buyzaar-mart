@@ -92,7 +92,7 @@ const Content = () => {
             </p>
 
             <p>
-              <strong>How to Start:</strong> Flexible formats fit any neighborhood. Get training, branding, and operations help. Muzaffarnagar's growth makes it ideal – call 9311939160 for free assessment. Proven model beats solo retail risks.
+              <strong>How to Start:</strong> Flexible formats fit any neighborhood. Get training, branding, and operations help. Muzaffarnagar's growth makes it ideal – call 9217991727 for free assessment. Proven model beats solo retail risks.
             </p>
 
             <p>

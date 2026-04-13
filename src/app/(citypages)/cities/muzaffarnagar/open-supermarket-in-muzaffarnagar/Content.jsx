@@ -133,7 +133,7 @@ const Content = () => {
             <p>Come in, explore our wide range of products, and experience the difference of shopping at a store that was built with your family in mind. The Buyzaar Mart — where fresh meets affordable, and every visit feels like home.</p>
 
             <p>
-              📍 Visit us in Muzaffarnagar | 📞 Call us today[9311939160 , 9311939161] | Open 7 Days a Week|Email us :{" "}
+              📍 Visit us in Muzaffarnagar | 📞 Call us today[9217991727 ] | Open 7 Days a Week|Email us :{" "}
               <a href="mailto:info@thebuyzaarmartyu.com" className="text-green-600 hover:underline font-semibold">
                 info@thebuyzaarmartyu.com
               </a>

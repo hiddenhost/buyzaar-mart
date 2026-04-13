@@ -334,7 +334,7 @@ const Content = () => {
               Mart for structured support and proven systems that reduce risk and accelerate growth.
             </p>
             <p>
-              Contact our team or call 9311939160 to discuss store formats, investment levels, and
+              Contact our team or call 9217991727 to discuss store formats, investment levels, and
               next steps for launching your own outlet.
             </p>
           </div>

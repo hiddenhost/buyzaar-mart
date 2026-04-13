@@ -211,7 +211,7 @@ const Content = () => {
                 We'll respond within 24 hours
               </p>
               <p className="text-gray-900 font-semibold mt-4">
-                📞 Call Us: +91-9311939160, +91-9311939161
+                📞 Call Us: +91-9217991727, 
               </p>
               <p className="text-sm text-gray-600 mt-1">
                 for store details or franchise queries

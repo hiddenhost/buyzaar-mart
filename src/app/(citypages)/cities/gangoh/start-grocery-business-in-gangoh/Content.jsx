@@ -456,7 +456,7 @@ const Content = () => {
 
             <p>
               Take the first step today. Contact The Buyzaar Mart franchise
-              team, 9311939160, 9311939161, get your detailed information kit,
+              team, 9217991727, get your detailed information kit,
               and begin your journey toward owning Gangoh&apos;s most trusted
               grocery business.
             </p>
@@ -560,7 +560,7 @@ const Content = () => {
                 Secure your opportunity with The Buyzaar Mart today.
               </p>
               <p className="text-gray-800 mb-4">
-                📞 <strong>Call:</strong> +91-9311939160, +91-9311939161
+                📞 <strong>Call:</strong> +91-9217991727, 
               </p>
               <p className="text-gray-800 mb-4">
                 ✉️ <strong>Email:</strong>{" "}

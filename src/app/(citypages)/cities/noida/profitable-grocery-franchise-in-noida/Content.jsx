@@ -384,7 +384,7 @@ const Content = () => {
               </p>
 
               <p className="font-semibold mt-4">
-                📞 Get in touch: 9311939160, 9311939161
+                📞 Get in touch: 9217991727
               </p>
 
               <div className="mb-2 mt-4">

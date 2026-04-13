@@ -201,7 +201,7 @@ const Content = () => {
                 Store Timings: Monday to Sunday — 9:00 AM to 10:00 PM (Open all 7 days, including holidays)
               </p>
               <p className="text-gray-800 font-semibold mb-2">
-                📞 Contact Number: +91 9311939160, +91 9311939161
+                📞 Contact Number: +91 9217991727, 
               </p>
               <p className="text-gray-800">
                 Email:{" "}

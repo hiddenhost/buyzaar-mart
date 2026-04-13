@@ -145,7 +145,7 @@ const Content = () => {
             </p>
 
             <p>
-              📍 Visit The Buyzaar Mart, Muzaffarnagar 📞 Speak to our franchise team today [9311939160, 9311939161] 🌐 The Buyzaar Mart — Muzaffarnagar's Most Trusted Open Supermarket Open 7 Days a Week — Freshness, Organization, Community, Maximum Value
+              📍 Visit The Buyzaar Mart, Muzaffarnagar 📞 Speak to our franchise team today [9217991727] 🌐 The Buyzaar Mart — Muzaffarnagar's Most Trusted Open Supermarket Open 7 Days a Week — Freshness, Organization, Community, Maximum Value
             </p>
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-8">

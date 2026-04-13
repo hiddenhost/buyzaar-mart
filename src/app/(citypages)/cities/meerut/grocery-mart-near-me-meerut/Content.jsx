@@ -141,7 +141,7 @@ const Content = () => {
                 Ready to discover your local grocery mart or start your franchise?
               </p>
               <p className="text-gray-800 font-semibold">
-                📞 Call: +91-9311939160, +91-9311939161
+                📞 Call: +91-9217991727, 
               </p>
               <p className="text-gray-800 mt-2">
                 Email:{" "}

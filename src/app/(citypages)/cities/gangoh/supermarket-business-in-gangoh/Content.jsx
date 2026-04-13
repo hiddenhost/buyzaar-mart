@@ -389,7 +389,7 @@ const Content = () => {
             </p>
 
             <p>
-              <strong>Contact us:</strong> 9311939160, 9311939161
+              <strong>Contact us:</strong> 9217991727
             </p>
 
             <p>
@@ -489,7 +489,7 @@ const Content = () => {
                 Secure your opportunity with The Buyzaar Mart today.
               </p>
               <p className="text-gray-800 mb-4">
-                📞 <strong>Call:</strong> +91-9311939160, +91-9311939161
+                📞 <strong>Call:</strong> +91-9217991727, 
               </p>
               <p className="text-gray-800">
                 ✉️ <strong>Email:</strong>{" "}

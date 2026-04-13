@@ -196,7 +196,7 @@ const Content = () => {
               </p>
               <div className="space-y-2">
                 <p className="text-gray-900 font-semibold">
-                  📞 Call us at: +91-9311939160, +91-9311939161
+                  📞 Call us at: +91-9217991727, 
                 </p>
                 <p className="text-gray-900">
                   📧 Email us: 

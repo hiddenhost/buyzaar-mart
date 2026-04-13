@@ -238,7 +238,7 @@ const Content = () => {
                 >
                   thebuyzaarmart.com/franchise
                 </a>{" "}
-                or dial +91-9311939160 for exclusive consultation. Limited prime locations available!
+                or dial +91-9217991727 for exclusive consultation. Limited prime locations available!
                 Email:info@thebuyzaarmart.com
               </p>
             </div>

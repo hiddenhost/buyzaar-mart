@@ -2780,7 +2780,7 @@ export const blogs = [
 },
 
 {
-  id: 22,
+  id: 17,
   slug: "what-is-neighborhood-store-india-next-big-business-opportunity",
   title: "What Is a Neighborhood Store and Why Is It India's Next Big Business Opportunity?",
   subtitle: "The Case for Owning a Well-Branded, Well-Supported Neighborhood Store in 2026",

@@ -793,6 +793,32 @@
     <loc>https://www.thebuyzaarmart.com/uttar-pradesh</loc>
     <priority>1.0</priority>
   </url>
+  <!-- Ghaziabad Page-->
+  <url>
+    <loc>https://www.thebuyzaarmart.com/cities/ghaziabad</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thebuyzaarmart.com/cities/ghaziabad/buyzaar-mart-franchise-ghaziabad</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thebuyzaarmart.com/cities/ghaziabad/daily-needs-store-franchise-ghaziabad</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thebuyzaarmart.com/cities/ghaziabad/grocery-franchise-ghaziabad</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thebuyzaarmart.com/cities/ghaziabad/neighbourhood-mart-franchise-ghaziabad</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thebuyzaarmart.com/cities/ghaziabad/retail-store-franchise-ghaziabad</loc>
+    <priority>0.8</priority>
+  </url>
+
    <!-- Uttar Pradesh Franchise Page -->
   <url>
     <loc>https://www.thebuyzaarmart.com/uttar-pradesh/the-buyzaar-mart-franchise-in-uttar-pradesh</loc>

@@ -19,4 +19,9 @@ export const citiesData = [
     name: "Noida",
     slug: "noida",
   },
+
+  {
+    name: "Ghaziabad",
+    slug: "ghaziabad",
+  },
 ];

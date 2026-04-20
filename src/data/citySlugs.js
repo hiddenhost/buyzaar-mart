@@ -682,28 +682,12 @@ export const citySlugs = {
       title: "Grocery Mart Franchise in Noida",
       slug: "/cities/noida/grocery-mart-franchise-in-noida",
     },
-    ghaziabad ,[
-      // add ghaziabad-related service slugs here later
-      {
-        title: "Grocery Franchise Ghaziabad",
-        slug: "/cities/ghaziabad/grocery-franchise-ghaziabad"
-      },
-      {
-        title: "Neighbourhood Mart Franchise  Ghaziabad",
-        slug: "/cities/ghaziabad/neighbourhood-mart-franchise-ghaziabad"
-      },
-      {
-        title: "Retail Store Franchise in Ghaziabad",
-        slug: "/cities/ghaziabad/retail-store-franchise-ghaziabad"
-      },
-      {
-        title: "Daily Needs Store Franchise  Ghaziabad",
-        slug: "/cities/ghaziabad/daily-needs-store-franchise-ghaziabad"
-      },
-      {
-        title: "Buyzaar Mart Franchise Ghaziabad",
-        slug: "/cities/ghaziabad/buyzaar-mart-franchise-ghaziabad"
-      }
-    ]
+  ],
+
+  Ghaziabad: [
+    {
+      title: "Grocery Mart Franchise in Ghaziabad",
+      slug: "/cities/ghaziabad/grocery-mart-franchise-in-ghaziabad",
+    },
   ],
 };  

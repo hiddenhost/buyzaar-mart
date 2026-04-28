@@ -55,7 +55,7 @@ const Blog = () => {
               className="group bg-white rounded-xl shadow-sm hover:shadow-xl transition-all duration-500 border border-slate-100 overflow-hidden hover:-translate-y-1"
             >
               {/* Image */}
-              <div className="relative aspect-[16/9] overflow-hidden">
+              <div className="relative aspect-[13/9] overflow-hidden">
                 <Image
                   src={post.image}
                   alt={post.title}

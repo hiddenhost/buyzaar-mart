@@ -686,8 +686,24 @@ export const citySlugs = {
 
   Ghaziabad: [
     {
-      title: "Grocery Mart Franchise in Ghaziabad",
-      slug: "/cities/ghaziabad/grocery-mart-franchise-in-ghaziabad",
+      title: "Focm Franchise Ghaziabad",
+      slug: "/cities/ghaziabad/focm-franchise-ghaziabad",
+    },
+    {
+      title: "How to open a retail franchise Ghaziabad",
+      slug: "/cities/ghaziabad/how-to-open-a-retail-franchise-ghaziabad",
+    },
+    {
+      title: "Retail Business Franchise Ghaziabad",
+      slug: "/cities/ghaziabad/retail-business-franchise-ghaziabad",
+    },
+    {
+      title: "Mart Franchise Opportunity Ghaziabad",
+      slug: "/cities/ghaziabad/mart-franchise-opportunity-ghaziabad",
+    },
+    {
+      title: "Convenience Store Franchise Ghaziabad",
+      slug: "/cities/ghaziabad/convenience-store-franchise-ghaziabad",
     },
   ],
 };  

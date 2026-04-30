@@ -213,7 +213,7 @@ export const citySlugs = {
     slug: "/cities/meerut/grocery-framchise-opportunity-in-meerut"
   },
    {
-    title: "Start Grocery Business  in Meerut",
+    title: "Start Grocery Business  in  Meerut",
     slug: "/cities/meerut/start-grocery-business-in-meerut"
   },
    {
@@ -704,6 +704,18 @@ export const citySlugs = {
     {
       title: "Convenience Store Franchise Ghaziabad",
       slug: "/cities/ghaziabad/convenience-store-franchise-ghaziabad",
+    },
+    {
+      title: "daily-needs-store-franchise-ghaziabad",
+      slug: "/cities/ghaziabad/daily-needs-store-franchise-ghaziabad",
+    },
+    {
+      title: "grocery-franchise-ghaziabad",
+      slug: "/cities/ghaziabad/grocery-franchise-ghaziabad",
+    },
+    {
+      title: "retail-store-franchise-in-ghaziabad",
+      slug: "/cities/ghaziabad/retail-store-franchise-in-ghaziabad",
     },
   ],
 };  

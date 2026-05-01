@@ -145,7 +145,7 @@ To get the exact investment figures for your chosen store size in Ghaziabad, vis
                 <p className="text-xl">
                   📧 <a href="mailto:info@thebuyzaarmart.com" className="text-green-600 hover:underline font-semibold">info@thebuyzaarmart.com</a>
                 </p>
-                <p className="text-lg">Office: D-43, Third Floor, Sector-6, Noida-201301</p>
+                <p className="text-lg"></p>
                 <p>Monday to Saturday, 9:00 AM to 7:00 PM</p>
               </div>
             </div>

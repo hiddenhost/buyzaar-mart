@@ -279,10 +279,10 @@ const Content = () => {
                 </a>
               </p>
               <p className="text-gray-800">
-                🏢 <span className="font-semibold">Office:</span> D-43, Third Floor, Sector-6, Noida-201301
+                 <span className="font-semibold"></span> 
               </p>
               <p className="text-gray-800">
-                🕐 <span className="font-semibold">Working Hours:</span> Monday to Saturday, 9:00 AM to 7:00 PM
+                 <span className="font-semibold">Working Hours:</span> Monday to Saturday, 9:00 AM to 7:00 PM
               </p>
 
               <p className="text-gray-800 mt-4 font-semibold">

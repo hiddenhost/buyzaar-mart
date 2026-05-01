@@ -249,7 +249,7 @@ const Content = () => {
                   Website: thebuyzaarmart.com/franchise
                 </p>
                 <p className="text-base">
-                  Office: D-43, Third Floor, Sector-6, Noida-201301
+                  
                 </p>
                 <p className="text-base">
                   Working Hours: Monday to Saturday, 9:00 AM to 7:00 PM

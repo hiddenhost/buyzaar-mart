@@ -7,7 +7,7 @@ export default function Banner() {
       <div className="absolute inset-0">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-                src="https://images.unsplash.com/photo-1584680226833-0d680d0a0794?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776671502/buyzaar-mart_ti8h8h.png"
                 alt="Convenience Store Franchise Ghaziabad"
           className="w-full h-full object-cover object-center"
         />

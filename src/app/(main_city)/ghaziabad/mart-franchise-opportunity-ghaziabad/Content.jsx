@@ -130,14 +130,14 @@ To get the exact investment figures for your chosen store size in Ghaziabad, vis
               </div>
             </div>
 
-            <div className="mt-12 p-8 bg-green-50 border-l-4 border-green-500 rounded-r-lg">
+            <div className="mt-12 p-8 bg-green-50 border-l-4 border-green-500 rounded-r-lg" text-left>
               <h2 className="text-xl font-semibold text-gray-900 mb-4">
                 Take the First Step Toward Your Mart Franchise in Ghaziabad Today
               </h2>
               <p className="text-gray-800 mb-6">
                 Don't wait for the market to fill up. Early franchise partners benefit from lower competition and first-mover advantage.
               </p>
-              <div className="space-y-4 text-center">
+              <div className="space-y-4 text-left">
                 <div className="text-2xl font-bold text-green-900">Get in touch:</div>
                 <p className="text-xl">
                   📞 <strong>9217991727</strong>

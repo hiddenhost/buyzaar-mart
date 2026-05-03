@@ -282,11 +282,11 @@ const Content = () => {
               Your neighbourhood in Ghaziabad is waiting for a store it can trust. Be the one who builds it.
             </p>
 
-            <div className="mt-12 p-8 bg-green-50 border-l-4 border-green-500 rounded-r-lg">
+            <div className="mt-12 p-8 bg-green-50 border-l-4 border-green-500 rounded-r-lg text-left">
               <h2 className="text-xl font-semibold text-gray-900 mb-4">
                 Contact Us Today
               </h2>
-              <div className="space-y-4 text-center">
+              <div className="space-y-4 text-left">
                 <p className="text-xl">
                   📞 <strong>9217991727</strong>
                 </p>
@@ -315,7 +315,7 @@ const Content = () => {
                   What is the minimum investment to open a retail franchise in Ghaziabad?
                 </h3>
                 <p className="text-sm">
-                  Franchise opportunities in Ghaziabad start from as low as ₹5–10 Lakhs depending on the brand and format. The Buyzaar Mart&apos;s investment range is ₹10 Lakh to ₹20 Lakh for a complete neighbourhood convenience store franchise.
+                  Franchise opportunities in Ghaziabad start from as low as ₹15 to₹20 Lakhs depending on the brand and format. The Buyzaar Mart&apos;s investment range is ₹10 Lakh to ₹20 Lakh for a complete neighbourhood convenience store franchise.
                 </p>
               </div>
 

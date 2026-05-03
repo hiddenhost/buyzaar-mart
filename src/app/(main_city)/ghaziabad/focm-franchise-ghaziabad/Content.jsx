@@ -228,11 +228,11 @@ const Content = () => {
               If you are serious about building a retail investment asset in Ghaziabad under a company-managed, professionally operated system with a trusted national brand — this is the moment to act.
             </p>
 
-            <div className="mt-12 p-8 bg-green-50 border-l-4 border-green-500 rounded-r-lg">
+            <div className="mt-12 p-8 bg-green-50 border-l-4 border-green-500 rounded-r-lg" text-left>
               <h2 className="text-xl font-semibold text-gray-900 mb-4">
                 Contact The Buyzaar Mart Today
               </h2>
-              <div className="space-y-4 text-center">
+              <div className="space-y-4 text-left">
                 <p className="text-xl">
                   📞 <strong>9217991727</strong>
                 </p>

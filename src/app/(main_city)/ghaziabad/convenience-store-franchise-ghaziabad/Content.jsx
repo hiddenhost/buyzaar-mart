@@ -317,7 +317,7 @@ const Content = () => {
                   What is the franchise investment required for The Buyzaar Mart in Ghaziabad?
                 </h3>
                 <p className="text-sm">
-                  The Buyzaar Mart franchise investment ranges from ₹10 Lakh to ₹20 Lakh, covering store setup, initial inventory, technology systems, and brand support. A detailed investment breakdown is provided during the inquiry stage.
+                  The Buyzaar Mart franchise investment ranges from ₹15Lakh to ₹20 Lakh, covering store setup, initial inventory, technology systems, and brand support. A detailed investment breakdown is provided during the inquiry stage.
                 </p>
               </div>
 

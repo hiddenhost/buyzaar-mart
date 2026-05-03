@@ -717,5 +717,33 @@ export const citySlugs = {
       title: "retail-store-franchise-in-ghaziabad",
       slug: "/cities/ghaziabad/retail-store-franchise-in-ghaziabad",
     },
+     {
+      title: "best-franchise-under-20-lakh-ghaziabad",
+      slug: "/cities/ghaziabad/best-franchise-under-20-lakh-ghaziabad",
+    },
+     {
+      title: "franchise-business-opportunity-ghaziabad",
+      slug: "/cities/ghaziabad/franchise-business-opportunity-ghaziabad",
+    },
+     {
+      title: "franchise-registration-process-ghaziabad",
+      slug: "/cities/ghaziabad/franchise-registration-process-ghaziabad",
+    },
+     {
+      title: "how-to-start-a-retail-franchise-in-ghaziabad",
+      slug: "/cities/ghaziabad/how-to-start-a-retail-franchise-in-ghaziabad",
+    },
+     {
+      title: "low-investment-franchise-ghaziabad",
+      slug: "/cities/ghaziabad/low-investment-franchise-ghaziabad",
+    },
+     {
+      title: "steps-to-open-franchise-store-ghaziabad",
+      slug: "/cities/ghaziabad/steps-to-open-franchise-store-ghaziabad",
+    },
+     {
+      title: "which-franchise-is-best-in-ghaziabad",
+      slug: "/cities/ghaziabad/which-franchise-is-best-in-ghaziabad",
+    },
   ],
 };  

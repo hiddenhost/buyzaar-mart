@@ -746,4 +746,34 @@ export const citySlugs = {
       slug: "/cities/ghaziabad/which-franchise-is-best-in-ghaziabad",
     },
   ],
-};  
+};
+Gurgaon: [
+  {
+    title: "Buyzaar Mart Franchise Gurgaon",
+    slug: "/cities/gurgaon/buyzaar-mart-franchise-gurgaon",
+  },
+   {
+    title: "Convenience Store Franchise Gurgaon",
+    slug: "/cities/gurgaon/convenience-store-franchise-gurgaon",
+  },
+   {
+    title: "Daily Needs Store Franchise Gurgaon",
+    slug: "/cities/gurgaon/daily-needs-store-franchise-gurgaon",
+  },
+   {
+    title: "Grocery Franchise Gurgaon",
+    slug: "/cities/gurgaon/grocery-franchise-gurgaon",
+  },
+   {
+    title: "Mart Franchise Opportunity Gurgaon",
+    slug: "/cities/gurgaon/mart-franchise-opportunity-gurgaon",
+  },
+   {
+    title: "Neighbourhood Mart Franchise Gurgaon",
+    slug: "/cities/gurgaon/neighbourhood-mart-franchise-gurgaon",
+  },
+   {
+    title: "Retail Store Franchise in Gurgaon",
+    slug: "/cities/gurgaon/retail-store-franchise-in-gurgaon",
+  },
+];

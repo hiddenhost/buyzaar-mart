@@ -392,15 +392,15 @@ const Content = () => {
               <p className="text-gray-800 mt-4">
                 <span className="font-semibold">Apply instantly:</span>{" "}
                 <a
-                  href="https://www.thebuyzaarmart.com/cities/gurgaon/neighbourhood-mart-franchise-in-gurgaon"
+                  href="https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-in-gurgaon"
                   className="text-green-600 hover:underline font-semibold"
                 >
-                  thebuyzaarmart.com/cities/gurgaon/neighbourhood-mart-franchise-in-gurgaon
+                  thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-in-gurgaon
                 </a>
               </p>
             </div>
           </div>
-          <CityInternalLinks city="gurgaon" currentSlug="/cities/gurgaon/neighbourhood-mart-franchise-in-gurgaon" />
+          <CityInternalLinks city="gurgaon" currentSlug="/gurgaon/neighbourhood-mart-franchise-in-gurgaon" />
         </div>
 
         {/* Form Section */}

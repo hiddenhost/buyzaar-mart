@@ -249,7 +249,7 @@ const Content = () => {
                   Website: thebuyzaarmart.com/franchise
                 </p>
                 <p className="text-base">
-                  
+                  Social Media: @thebuyzaarmart
                 </p>
                 <p className="text-base">
                   Working Hours: Monday to Saturday, 9:00 AM to 7:00 PM
@@ -322,7 +322,7 @@ const Content = () => {
 
             <CityInternalLinks
               city="ghaziabad"
-              currentSlug="/cities/ghaziabad/focm-franchise-ghaziabad"
+              currentSlug="/ghaziabad/focm-franchise-ghaziabad"
             />
           </div>
         </div>

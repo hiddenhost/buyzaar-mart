@@ -643,7 +643,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="ghaziabad"
-            currentSlug="/cities/ghaziabad/daily-needs-store-franchise-in-ghaziabad"
+            currentSlug="/ghaziabad/low-investment-franchise-ghaziabad"
           />
         </div>
 

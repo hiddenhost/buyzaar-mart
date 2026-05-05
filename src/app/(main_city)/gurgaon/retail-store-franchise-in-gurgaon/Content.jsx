@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   "name": "The Buyzaar Mart – Retail Store Franchise Gurgaon",
   "description": "The Buyzaar Mart offers retail store franchise opportunities in Gurgaon with complete setup support, supply chain management, and investment starting from ₹10 lakhs.",
-  "url": "https://www.thebuyzaarmart.com/cities/gurgaon/retail-store-franchise-in-gurgaon",
+  "url": "https://www.thebuyzaarmart.com/gurgaon/retail-store-franchise-in-gurgaon",
   "telephone": "+919217991727",
   "email": "info@thebuyzaarmart.com",
   "address": {

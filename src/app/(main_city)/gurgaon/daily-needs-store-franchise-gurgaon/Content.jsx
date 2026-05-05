@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Daily Needs Store Franchise in Gurgaon – Buyzaar Mart",
   description:
     "Daily Needs Store Franchise in Gurgaon – Earn from What Every Family Buys Every Day. Buyzaar Mart daily needs franchise with FOCM model, Hassle-Free Inventory Assurance, FSSAI licensing, and complete store management.",
-  url: "https://www.thebuyzaarmart.com/cities/gurgaon/franchise-in-gurgaon",
+  url: "https://www.thebuyzaarmart.com/gurgaon/franchise-in-gurgaon",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -370,7 +370,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="gurgaon"
-            currentSlug="/cities/gurgaon/franchise-in-gurgaon"
+            currentSlug="/gurgaon/franchise-in-gurgaon"
           />
         </div>
 

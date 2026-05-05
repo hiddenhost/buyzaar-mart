@@ -674,6 +674,15 @@ export const citySlugs = {
     slug: "/cities/saharanpur/best-grocery-franchise-in-saharanpur",
   },
 
+  {
+      title: "How to open a retail franchise Ghaziabad",
+      slug: "/ghaziabad/how-to-open-a-retail-franchise-ghaziabad",
+    },
+    {
+      title: "Retail Business Franchise Ghaziabad",
+      slug: "/ghaziabad/retail-business-franchise-ghaziabad",
+    },
+
     {
       title: "Supermarket Franchise in Noida",
       slug: "/cities/noida/supermarket-franchise-in-noida"
@@ -684,96 +693,181 @@ export const citySlugs = {
     },
   ],
 
-  Ghaziabad: [
+  ghaziabad: [
     {
       title: "Focm Franchise Ghaziabad",
-      slug: "/cities/ghaziabad/focm-franchise-ghaziabad",
+      slug: "/ghaziabad/focm-franchise-ghaziabad",
     },
-    {
-      title: "How to open a retail franchise Ghaziabad",
-      slug: "/cities/ghaziabad/how-to-open-a-retail-franchise-ghaziabad",
-    },
-    {
-      title: "Retail Business Franchise Ghaziabad",
-      slug: "/cities/ghaziabad/retail-business-franchise-ghaziabad",
-    },
+    
     {
       title: "Mart Franchise Opportunity Ghaziabad",
-      slug: "/cities/ghaziabad/mart-franchise-opportunity-ghaziabad",
+      slug: "/ghaziabad/mart-franchise-opportunity-ghaziabad",
     },
     {
       title: "Convenience Store Franchise Ghaziabad",
-      slug: "/cities/ghaziabad/convenience-store-franchise-ghaziabad",
+      slug: "/ghaziabad/convenience-store-franchise-ghaziabad",
     },
     {
+    title: "top-supermarket-in-saharanpur",
+    slug: "/cities/saharanpur/top-supermarket-in-saharanpur",
+  },
+  {
+    title: "grocery-business-plan-saharanpur",
+    slug: "/cities/saharanpur/grocery-business-plan-saharanpur",
+  },
+  {
+    title: "grocery-mart-franchise-in-saharanpur",
+    slug: "/cities/saharanpur/grocery-mart-franchise-in-saharanpur",
+  },
+  {
+    title: "grocery-store-investment-in-saharanpur",
+    slug: "/cities/saharanpur/grocery-store-investment-in-saharanpur",
+  },
+  {
+    title: "open-grocery-store-in-saharanpur",
+    slug: "/cities/saharanpur/open-grocery-store-in-saharanpur",
+  },
+  {
+    title: "start-grocery-business-in-saharanpur",
+    slug: "/cities/saharanpur/start-grocery-business-in-saharanpur",
+  },
+  {
+    title: "supermarket-business-plan-saharanpur",
+    slug: "/cities/saharanpur/supermarket-business-plan-saharanpur",
+  },
+  {
+    title: "supermarket-near-me-saharanpur",
+    slug: "/cities/saharanpur/supermarket-near-me-saharanpur",
+  },
+  {
+    title: "wholesale-grocery-mart-saharanpur",
+    slug: "/cities/saharanpur/wholesale-grocery-mart-saharanpur",
+  },
+  {
+    title: "grocery-chain-in-saharanpur",
+    slug: "/cities/saharanpur/grocery-chain-in-saharanpur",
+  },
+  {
+    title: "grocery-retail-business-saharanpur",
+    slug: "/cities/saharanpur/grocery-retail-business-saharanpur",
+  },
+  {
+    title: "grocery-store-setup-saharanpur",
+    slug: "/cities/saharanpur/grocery-store-setup-saharanpur",
+  },
+    {
       title: "daily-needs-store-franchise-ghaziabad",
-      slug: "/cities/ghaziabad/daily-needs-store-franchise-ghaziabad",
+      slug: "/ghaziabad/daily-needs-store-franchise-ghaziabad",
     },
     {
       title: "grocery-franchise-ghaziabad",
-      slug: "/cities/ghaziabad/grocery-franchise-ghaziabad",
-    },
-    {
-      title: "retail-store-franchise-in-ghaziabad",
-      slug: "/cities/ghaziabad/retail-store-franchise-in-ghaziabad",
+      slug: "/ghaziabad/grocery-franchise-ghaziabad",
     },
      {
-      title: "best-franchise-under-20-lakh-ghaziabad",
-      slug: "/cities/ghaziabad/best-franchise-under-20-lakh-ghaziabad",
-    },
-     {
-      title: "franchise-business-opportunity-ghaziabad",
-      slug: "/cities/ghaziabad/franchise-business-opportunity-ghaziabad",
-    },
-     {
-      title: "franchise-registration-process-ghaziabad",
-      slug: "/cities/ghaziabad/franchise-registration-process-ghaziabad",
-    },
-     {
-      title: "how-to-start-a-retail-franchise-in-ghaziabad",
-      slug: "/cities/ghaziabad/how-to-start-a-retail-franchise-in-ghaziabad",
-    },
-     {
-      title: "low-investment-franchise-ghaziabad",
-      slug: "/cities/ghaziabad/low-investment-franchise-ghaziabad",
-    },
-     {
-      title: "steps-to-open-franchise-store-ghaziabad",
-      slug: "/cities/ghaziabad/steps-to-open-franchise-store-ghaziabad",
-    },
-     {
-      title: "which-franchise-is-best-in-ghaziabad",
-      slug: "/cities/ghaziabad/which-franchise-is-best-in-ghaziabad",
-    },
-  ],
-};
-Gurgaon: [
-  {
-    title: "Buyzaar Mart Franchise Gurgaon",
-    slug: "/cities/gurgaon/buyzaar-mart-franchise-gurgaon",
-  },
-   {
     title: "Convenience Store Franchise Gurgaon",
-    slug: "/cities/gurgaon/convenience-store-franchise-gurgaon",
+    slug: "/gurgaon/convenience-store-franchise-gurgaon",
   },
    {
     title: "Daily Needs Store Franchise Gurgaon",
-    slug: "/cities/gurgaon/daily-needs-store-franchise-gurgaon",
+    slug: "/gurgaon/daily-needs-store-franchise-gurgaon",
   },
+    {
+      title: "retail-store-franchise-in-ghaziabad",
+      slug: "/ghaziabad/retail-store-franchise-in-ghaziabad",
+    },
+     {
+    title: "best grocery mart in noida",
+    slug: "/cities/noida/best-grocery-mart-in-noida",
+  },
+  {
+    title: "best supermarket franchise in noida",
+    slug: "/cities/noida/best-supermarket-franchise-in-noida",
+  },
+  {
+    title: "best supermarket in noida",
+    slug: "/cities/noida/best-supermarket-in-noida",
+  },
+  {
+    title: "buyzaar mart franchise in noida",
+    slug: "/cities/noida/buyzaar-mart-franchise-in-noida",
+  },
+     {
+      title: "best-franchise-under-20-lakh-ghaziabad",
+      slug: "/ghaziabad/best-franchise-under-20-lakh-ghaziabad",
+    },
+     {
+      title: "franchise-business-opportunity-ghaziabad",
+      slug: "/ghaziabad/franchise-business-opportunity-ghaziabad",
+    },
+     {
+      title: "franchise-registration-process-ghaziabad",
+      slug: "/ghaziabad/franchise-registration-process-ghaziabad",
+    },
+     
+  ],
+};
+gurgaon: [
+  {
+    title: "Buyzaar Mart Franchise Gurgaon",
+    slug: "/gurgaon/buyzaar-mart-franchise-gurgaon",
+  },
+
    {
-    title: "Grocery Franchise Gurgaon",
-    slug: "/cities/gurgaon/grocery-franchise-gurgaon",
+    title: "best grocery mart in noida",
+    slug: "/cities/noida/best-grocery-mart-in-noida",
+  },
+  {
+    title: "best supermarket franchise in noida",
+    slug: "/cities/noida/best-supermarket-franchise-in-noida",
   },
    {
     title: "Mart Franchise Opportunity Gurgaon",
-    slug: "/cities/gurgaon/mart-franchise-opportunity-gurgaon",
+    slug: "/gurgaon/mart-franchise-opportunity-gurgaon",
   },
    {
     title: "Neighbourhood Mart Franchise Gurgaon",
-    slug: "/cities/gurgaon/neighbourhood-mart-franchise-gurgaon",
+    slug: "/gurgaon/neighbourhood-mart-franchise-gurgaon",
+  },
+  {
+    title: "best supermarket in noida",
+    slug: "/cities/noida/best-supermarket-in-noida",
+  },
+  {
+    title: "buyzaar mart franchise in noida",
+    slug: "/cities/noida/buyzaar-mart-franchise-in-noida",
+  },
+  
+
+  {
+      title: "how-to-start-a-retail-franchise-in-ghaziabad",
+      slug: "/ghaziabad/how-to-start-a-retail-franchise-in-ghaziabad",
+    },
+     {
+      title: "low-investment-franchise-ghaziabad",
+      slug: "/ghaziabad/low-investment-franchise-ghaziabad",
+    },
+     {
+      title: "steps-to-open-franchise-store-ghaziabad",
+      slug: "/ghaziabad/steps-to-open-franchise-store-ghaziabad",
+    },
+     {
+      title: "which-franchise-is-best-in-ghaziabad",
+      slug: "/ghaziabad/which-franchise-is-best-in-ghaziabad",
+    },
+   {
+    title: "Grocery Franchise Gurgaon",
+    slug: "/gurgaon/grocery-franchise-gurgaon",
+  },
+   {
+    title: "Mart Franchise Opportunity Gurgaon",
+    slug: "/gurgaon/mart-franchise-opportunity-gurgaon",
+  },
+   {
+    title: "Neighbourhood Mart Franchise Gurgaon",
+    slug: "/gurgaon/neighbourhood-mart-franchise-gurgaon",
   },
    {
     title: "Retail Store Franchise in Gurgaon",
-    slug: "/cities/gurgaon/retail-store-franchise-in-gurgaon",
+    slug: "/gurgaon/retail-store-franchise-in-gurgaon",
   },
 ];

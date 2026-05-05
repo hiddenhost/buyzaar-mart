@@ -265,7 +265,7 @@ const Content = () => {
               
             </div>
           </div>
-          <CityInternalLinks city="ghaziabad" currentSlug="/cities/ghaziabad/daily-needs-store-franchise-in-ghaziabad" />
+          <CityInternalLinks city="ghaziabad" currentSlug="/ghaziabad/daily-needs-store-franchise-ghaziabad" />
         </div>
 
         {/* Form Section */}

@@ -2,34 +2,46 @@ import HomeClient from "@/app/HomeClient"
 
 export const metadata = {
   title:
-    "The Buyzaar Mart – Retail Franchise & Neighborhood Store Solutions in India",
+    "The Buyzaar Mart — Start Your Grocery & Supermarket Franchise in India",
 
   description:
-    "The Buyzaar Mart is a leading retail franchise network in India offering smart neighborhood store ownership opportunities, quality daily-need products, and reliable retail solutions for entrepreneurs.",
+    "The Buyzaar Mart — Start your grocery & supermarket franchise in India from ₹15 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
 
   keywords: [
-    "retail franchise in India",
-    "neighborhood store franchise",
-    "buyzaar mart franchise",
-    "smart retail solutions",
-    "retail business opportunity",
-    "franchise store network",
-    "daily need retail store",
-    "FMCG retail store franchise",
-    "local grocery retail solutions",
-    "franchise investment opportunity",
-    "retail operations support",
-    "POS enabled retail systems",
-    "retail CRM solutions",
-    "franchise business in India",
-    "affordable retail franchise",
-    "store launch support",
-    "micro retail franchise",
-    "entrepreneur retail network",
-    "retail store ownership",
-    "community retail services",
-    "India retail franchise network",
-    "retail training and support"
+    
+  "The Buyzaar Mart",
+  "Buyzaar Mart franchise",
+  "grocery franchise in India",
+  "supermarket franchise in India",
+  "grocery store franchise in India",
+
+ 
+  "grocery franchise under 20 lakh",
+  "supermarket franchise cost India",
+  "grocery franchise 15 lakh",
+  "low investment grocery franchise India",
+  "affordable supermarket franchise India",
+
+
+  "FOCM franchise India",
+  "FOFO franchise India",
+  "franchise owned company managed India",
+  "managed grocery franchise India",
+  "grocery franchise with full support",
+
+ 
+  "grocery franchise Uttar Pradesh",
+  "supermarket franchise Noida",
+  "grocery franchise NCR",
+  "supermarket franchise North India",
+  "retail franchise UP",
+
+  
+  "how to start grocery franchise in India",
+  "grocery franchise with training and support",
+  "supermarket franchise ROI India",
+  "FMCG store franchise India",
+  "neighborhood supermarket franchise India",
   ],
 
   // CANONICAL URL
@@ -40,10 +52,10 @@ export const metadata = {
   // OPEN GRAPH (FOR SOCIAL SHARING)
   openGraph: {
     title:
-      "The Buyzaar Mart – Retail Franchise & Neighborhood Store Solutions",
+      "The Buyzaar Mart — Start Your Grocery & Supermarket Franchise in India",
 
     description:
-      "Join The Buyzaar Mart franchise network to own and operate your neighborhood retail store with modern systems, inventory support, and ongoing operations guidance.",
+      "The Buyzaar Mart — Start your grocery & supermarket franchise in India from ₹15 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
 
     url: "https://www.thebuyzaarmart.com/",
     siteName: "The Buyzaar Mart",
@@ -53,7 +65,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "The Buyzaar Mart – Retail Franchise & Store Ownership",
+        alt: "The Buyzaar Mart — Start Your Grocery & Supermarket Franchise in India",
       },
     ],
 
@@ -66,10 +78,10 @@ export const metadata = {
     card: "summary_large_image",
 
     title:
-      "The Buyzaar Mart – Retail Franchise & Neighborhood Store Network",
+      "The Buyzaar Mart — Start Your Grocery & Supermarket Franchise in India",
 
     description:
-      "Empowering entrepreneurs with retail franchise opportunities, smart store solutions, and community-focused retail services across India.",
+      "The Buyzaar Mart — Start your grocery & supermarket franchise in India from ₹15 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
 
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },

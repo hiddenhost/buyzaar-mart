@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Franchise in Gurgaon – Buyzaar Mart",
   description:
     "Grocery Franchise in Gurgaon – The Smartest Daily Business You Can Own. Buyzaar Mart grocery franchise with FOCM model, Hassle-Free Inventory Assurance, FSSAI licensing, and complete store management.",
-  url: "https://www.thebuyzaarmart.com/cities/gurgaon/franchise-in-gurgaon",
+  url: "https://www.thebuyzaarmart.com/gurgaon/franchise-in-gurgaon",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -362,7 +362,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="gurgaon"
-            currentSlug="/cities/gurgaon/franchise-in-gurgaon"
+            currentSlug="/gurgaon/grocery-franchise-gurgaon"
           />
         </div>
 

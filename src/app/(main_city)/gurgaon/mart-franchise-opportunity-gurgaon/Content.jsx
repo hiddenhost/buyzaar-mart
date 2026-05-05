@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Buyzaar Mart – Mart Franchise Opportunity in Gurgaon",
   description:
     "Mart Franchise Opportunity in Gurgaon – Own a Business That Runs on Daily Demand. Buyzaar Mart mart franchise with FOCM model, Hassle-Free Inventory Assurance, FSSAI licensing, and complete store management.",
-  url: "https://www.thebuyzaarmart.com/cities/gurgaon/mart-franchise-opportunity-in-gurgaon",
+  url: "https://www.thebuyzaarmart.com/gurgaon/mart-franchise-opportunity-in-gurgaon",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -447,7 +447,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="gurgaon"
-            currentSlug="/cities/gurgaon/mart-franchise-opportunity-in-gurgaon"
+            currentSlug="/gurgaon/mart-franchise-opportunity-gurgaon"
           />
         </div>
 

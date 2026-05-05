@@ -31,14 +31,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/gurgaon",
+    canonical: "https://www.thebuyzaarmart.com/gurgaon",
   },
 
   openGraph: {
     title: "Franchise in Gurgaon | Buyzaar Mart Supermarket",
     description:
       "Start a supermarket business in DLF, Sushant Lok, Sohna Road, or New Gurgaon from ₹15,25,000. Grow with Buyzaar Mart and apply today.",
-    url: "https://www.thebuyzaarmart.com/cities/gurgaon",
+    url: "https://www.thebuyzaarmart.com/gurgaon",
     siteName: "The Buyzaar Mart",
     images: [
       {

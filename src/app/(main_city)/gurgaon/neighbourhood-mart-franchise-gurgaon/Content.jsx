@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   "name": "The Buyzaar Mart – Neighbourhood Mart Franchise Gurgaon",
   "description": "The Buyzaar Mart offers neighbourhood mart franchise opportunities in Gurgaon with complete setup support, FOCM model, FSSAI licensing, and Hassle-Free Inventory Assurance.",
-  "url": "https://www.thebuyzaarmart.com/cities/gurgaon/neighbourhood-mart-franchise-in-gurgaon",
+  "url": "https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-in-gurgaon",
   "telephone": "+919217991727",
   "email": "info@thebuyzaarmart.com",
   "address": {
@@ -392,15 +392,15 @@ const Content = () => {
               <p className="text-gray-800 mt-4">
                 <span className="font-semibold">Apply instantly:</span>{" "}
                 <a
-                  href="https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-in-gurgaon"
+                  href="https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-gurgaon"
                   className="text-green-600 hover:underline font-semibold"
                 >
-                  thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-in-gurgaon
+                  thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-gurgaon
                 </a>
               </p>
             </div>
           </div>
-          <CityInternalLinks city="gurgaon" currentSlug="/gurgaon/neighbourhood-mart-franchise-in-gurgaon" />
+          <CityInternalLinks city="gurgaon" currentSlug="/gurgaon/neighbourhood-mart-franchise-gurgaon" />
         </div>
 
         {/* Form Section */}

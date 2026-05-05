@@ -192,7 +192,7 @@ To get the exact investment figures for your chosen store size in Ghaziabad, vis
               </div>
             </div>
 
-            <CityInternalLinks city="ghaziabad" currentSlug="/cities/ghaziabad/supermarket-business-ghaziabad" />
+            <CityInternalLinks city="ghaziabad" currentSlug="/ghaziabad/mart-franchise-opportunity-ghaziabad" />
           </div>
         </div>
 

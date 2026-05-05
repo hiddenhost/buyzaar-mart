@@ -82,6 +82,10 @@ export default function RootLayout({ children }) {
                 "https://www.facebook.com/people/The-BuyZaar-mart/61583918706055/",
                 "https://www.instagram.com/thebuyzaarmart/",
                 "https://www.linkedin.com/company/thebuyzaarmart/",
+                "https://www.franchiseindia.com/brands/the-buyzaar-mart.115633",
+                "https://www.franchisemart.in/retail-franchise/the-buyzaar-mart-franchise/",
+                "https://franchiseworld.com/listing/the-buyzaar-mart",
+                
               ],
               hasCredential: [
                 {

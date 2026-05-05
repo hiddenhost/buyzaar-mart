@@ -836,6 +836,20 @@ gurgaon: [
     title: "buyzaar mart franchise in noida",
     slug: "/cities/noida/buyzaar-mart-franchise-in-noida",
   },
+   {
+    title: "retail-business-franchise-gurgaon",
+    slug: "/gurgaon/retail-business-franchise-gurgaon",
+  },
+   {
+    title: "how-to-open-retail-franchise-in-gurgaon",
+    slug: "/gurgaon/how-to-open-retail-franchise-in-gurgaon",
+  },
+   {
+    title: "focm-franchise-gurgaon",
+    slug: "/gurgaon/focm-franchise-gurgaon",
+  },
+
+
   
 
   {

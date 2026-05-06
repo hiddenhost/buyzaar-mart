@@ -190,12 +190,11 @@ export default function FranchiseEnquiryForm() {
       className="bg-white rounded-xl shadow-md p-6 space-y-4 max-w-lg mx-auto"
     >
       <h3 className="text-2xl font-serif text-center font-medium text-[#b00000]">
-        Franchise Enquiry
+        Own a Buyzaar Mart Franchise Start Earning in Your City
       </h3>
 
-      <p className="text-sm text-gray-600">
-        Share your interest in owning a Buyzaar Mart franchise. Our team will
-        connect with you shortly.
+      <p className="text-sm text-gray-600 text-center">
+      Join our growing network across India and get complete franchise details shortly.
       </p>
 
       {/* Hidden config */}
@@ -231,7 +230,7 @@ export default function FranchiseEnquiryForm() {
 
         <select
           name="City"
-          required
+          
           className="w-full border rounded-lg px-3 py-2 bg-white text-sm"
         >
           <option value="">Select City</option>
@@ -256,7 +255,7 @@ export default function FranchiseEnquiryForm() {
 
         <select
           name="State"
-          required
+         
           className="w-full border rounded-lg px-3 py-2 bg-white text-sm col-span-2"
         >
           <option value="">Select State</option>
@@ -282,6 +281,17 @@ export default function FranchiseEnquiryForm() {
         </select>
       </div>
 
+      <select
+  name="Store Type"
+  
+  className="w-full border rounded-lg px-3 py-2 bg-white text-sm col-span-2"
+>
+  <option value="">Select Store Type</option>
+  <option>Mini Mart</option>
+  <option>Super Mart</option>
+  <option>Hyper Mart</option>
+</select>
+
       {/* Full Width Textarea */}
       <textarea
         name="Message"
@@ -296,7 +306,7 @@ export default function FranchiseEnquiryForm() {
         disabled={isSubmitting}
         className="w-full bg-[#000000] text-white py-2 rounded-lg hover:bg-gray-800 transition text-sm disabled:opacity-50 disabled:cursor-not-allowed"
       >
-        {isSubmitting ? "Submitting..." : "Request Franchise Details"}
+        {isSubmitting ? "Submitting..." : "Get My Free Franchise Kit"}
       </button>
 
       <p className="text-xs text-gray-500 text-center">

@@ -565,6 +565,18 @@ const Navbar = () => {
             </Link>
 
             <Link
+              href="/blog"
+              onClick={closeMobileMenu}
+              className={`block px-3 py-3 rounded-md transition-colors duration-300 font-medium ${
+                isActiveLink("/blog")
+                  ? "text-black bg-gray-100"
+                  : "text-gray-600 hover:text-black hover:bg-gray-50"
+              }`}
+            >
+              Blog
+            </Link>
+
+            <Link
               href="/contact"
               onClick={closeMobileMenu}
               className={`block px-3 py-3 rounded-md transition-colors duration-300 font-medium ${

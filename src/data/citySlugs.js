@@ -848,6 +848,22 @@ gurgaon: [
     title: "focm-franchise-gurgaon",
     slug: "/gurgaon/focm-franchise-gurgaon",
   },
+  {
+    title: "best-franchise-business-in-gurgaon",
+    slug: "/gurgaon/best-franchise-business-in-gurgaon",
+  },
+  {
+    title: "franchise-under-20-lakh-gurgaon",
+    slug: "/gurgaon/franchise-under-20-lakh-gurgaon",
+  },
+  {
+    title: "which-franchise-is-profitable-in-gurgaon",
+    slug: "/gurgaon/which-franchise-is-profitable-in-gurgaon",
+  },
+  {
+    title: "low-investment-franchise-gurgaon",
+    slug: "/gurgaon/low-investment-franchise-gurgaon",
+  },
 
 
   

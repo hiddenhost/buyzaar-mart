@@ -864,9 +864,11 @@ gurgaon: [
     title: "low-investment-franchise-gurgaon",
     slug: "/gurgaon/low-investment-franchise-gurgaon",
   },
+  {
+    title: "How to Start a Retail Franchise in Gurgaon",
+    slug: "/gurgaon/how-to-start-a-retail-franchise-in-gurgaon",
+  },
 
-
-  
 
   {
       title: "how-to-start-a-retail-franchise-in-ghaziabad",
@@ -899,5 +901,15 @@ gurgaon: [
    {
     title: "Retail Store Franchise in Gurgaon",
     slug: "/gurgaon/retail-store-franchise-in-gurgaon",
+  },
+];
+Delhi: [
+  {
+    title: "Buyzaar Mart Franchise Delhi",
+    slug: "/delhi/buyzaar-mart-franchise-delhi",
+  },
+      {
+        title: "Retail Franchise Delhi-NCR",
+    slug: "/delhi/retail-franchise-delhi-ncr",
   },
 ];

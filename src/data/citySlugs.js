@@ -912,4 +912,52 @@ Delhi: [
         title: "Retail Franchise Delhi-NCR",
     slug: "/delhi/retail-franchise-delhi-ncr",
   },
+  {
+        title: "How-to-Start-a-Mart-Franchise-in-Delhi",
+    slug: "/delhi/how-to-start-a-mart-franchise-in-delhi",
+  },
+  {
+        title: "Mart Franchise Opportunity Delhi",
+    slug: "/delhi/mart-franchise-opportunity-delhi",
+  },
+  {
+        title: "Neighbourhood Mart Franchise Delhi",
+    slug: "/delhi/neighbourhood-mart-franchise-delhi",
+  },
+  {
+        title: "Retail Business Franchise Delhi",
+    slug: "/delhi/retail-business-franchise-delhi",
+  },
+  {
+        title: "How to Open Retail Franchise  in Delhi",
+    slug: "/delhi/how-to-open-retail-franchise-in-delhi",
+  },
+  {
+        title: "Grocery Store Franchise Delhi",
+    slug: "/delhi/grocery-store-franchise-delhi",
+  },
+  {
+        title: "Franchise-Investment-Under-10-Lakh-Delhi",
+    slug: "/delhi/franchise-investment-under-10-lakh-delhi",
+  },
+  {
+        title: "Focm Franchise Delhi",
+    slug: "/delhi/focm-franchise-delhi",
+  },
+  {
+        title: "Daily Needs Franchise Delhi Ncr",
+    slug: "/delhi/daily-needs-franchise-delhi Ncr",
+  },
+  {
+        title: "Convenience Store Franchise Delhi Ncr",
+    slug: "/delhi/convenience-store-franchise-delhi Ncr",
+  },
+  {
+        title: "Best Franchise To Open In Delhi Ncr",
+    slug: "/delhi/best-franchise-to-open-in-delhi-ncr",
+  },
+  {
+        title: "Franchise Business Plan Delhi Ncr",
+    slug: "/delhi/franchise-business-plan-delhi-ncr",
+  },
 ];

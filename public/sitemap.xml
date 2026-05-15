@@ -512,7 +512,7 @@
     <priority>0.8</priority>
   </url>
    <url>
-    <loc>https://www.thebuyzaarmart.com/cities/muzaffarnagar/grocery-franchise-cost-muzaffarnagar87</loc>
+    <loc>https://www.thebuyzaarmart.com/cities/muzaffarnagar/grocery-franchise-cost-muzaffarnagar</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -973,64 +973,68 @@
 
 <url>
   <loc>https://www.thebuyzaarmart.com/delhi/retail-franchise-delhi-ncr</loc>
-<<<<<<< HEAD
     <priority>0.9</priority>
   </url>
-  </url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/convenience-store-franchise-delhi-ncr</loc>
     <priority>0.9</priority>
   </url>
-  </url>
+  
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/daily-needs-franchise-delhi-ncr</loc>
     <priority>0.9</priority>
   </url>
-  </url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/focm-franchise-delhi</loc>
     <priority>0.9</priority>
   </url>
-  </url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/franchise-investment-under-10-lakh-delhi</loc>
     <priority>0.9</priority>
   </url>
-  </url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/grocery-store-franchise-in-delhi</loc>
     <priority>0.9</priority>
   </url>
-  </url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/how-to-open-retail-franchise-in-delhi</loc>
     <priority>0.9</priority>
   </url>
-  </url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/how-to-start-a-mart-franchise-in-delhi</loc>
     <priority>0.9</priority>
   </url>
-</url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/mart-franchise-opportunity-delhi</loc>
     <priority>0.9</priority>
   </url>
-  </url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/neighbourhood-mart-franchise-delhi</loc>
     <priority>0.9</priority>
   </url>
-</url>
+
+  <url>
   <loc>https://www.thebuyzaarmart.com/delhi/retail-business-franchise-delhi</loc>
     <priority>0.9</priority>
- 
   </url>
-  <loc>https://www.thebuyzaarmart.com/delhi/franchise-business-plan-delhi-ncr<loc>
+
+  <url>
+  <loc>https://www.thebuyzaarmart.com/delhi/franchise-business-plan-delhi-ncr</loc>
     <priority>0.9</priority>
   </url>
-   </url>
+
+   <url>
   <loc>https://www.thebuyzaarmart.com/delhi/best-franchise-to-open-in-delhi-ncr</loc>
     <priority>0.9</priority>
   </url>
-  
-=======
-  <priority>0.9</priority>
-</url>
-
-
->>>>>>> 699e0f24c6afa445cfe4d75381fddd5f54381710
 
   <url>
     <loc>https://www.thebuyzaarmart.com/our-module</loc>

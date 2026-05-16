@@ -12,13 +12,13 @@ export const metadata = {
     "best franchise under 20 lakh in Ghaziabad, low cost franchise in Ghaziabad, top franchise in Ghaziabad, franchise opportunities under 20 lakh, low investment high return franchise Ghaziabad, food franchise Ghaziabad, retail franchise Ghaziabad, education franchise Ghaziabad, best business under 20 lakh in Ghaziabad, affordable franchise Ghaziabad",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/ghaziabad/best-franchise-under-20-lakh",
+      "https://www.thebuyzaarmart.com/ghaziabad/best-franchise-under-20-lakh-ghaziabad",
   },
   openGraph: {
     title: "Best Franchise Under 20 Lakh in Ghaziabad | Top Low-Cost Franchises 2025",
     description:
       "Explore the best franchise opportunities under 20 lakh in Ghaziabad. Compare low-investment, high-return franchise businesses across food, retail, education & more. Start your business today!",
-    url: "https://www.thebuyzaarmart.com/ghaziabad/best-franchise-under-20-lakh",
+    url: "https://www.thebuyzaarmart.com/ghaziabad/best-franchise-under-20-lakh-ghaziabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

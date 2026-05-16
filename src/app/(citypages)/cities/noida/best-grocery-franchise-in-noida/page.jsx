@@ -13,14 +13,14 @@ export const metadata = {
     "best grocery franchise noida, grocery franchise noida, buyzaar mart franchise, grocery business noida, franchise opportunity noida, retail franchise noida, supermarket franchise noida, profitable franchise noida, grocery investment noida, noida retail opportunity",
 
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/noida/best-grocery-franchise-noida",
+    canonical: "https://www.thebuyzaarmart.com/cities/noida/best-grocery-franchise-in-noida",
   },
 
   // ✅ OPEN GRAPH
   openGraph: {
     title: "Best Grocery Franchise in Noida | The Buyzaar Mart Opportunity",
     description: "Discover the best grocery franchise in Noida with The Buyzaar Mart. Proven model, complete support, rapid ROI, and prime territories in high-growth sectors. Secure your spot in Noida's retail boom!",
-    url: "https://www.thebuyzaarmart.com/cities/noida/best-grocery-franchise-noida",
+    url: "https://www.thebuyzaarmart.com/cities/noida/best-grocery-franchise-in-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

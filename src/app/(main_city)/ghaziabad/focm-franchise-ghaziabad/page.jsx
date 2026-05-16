@@ -11,13 +11,13 @@ export const metadata = {
     "start grocery business meerut, buyzaar mart meerut, grocery business investment meerut, grocery licenses meerut, profitable grocery business meerut",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/cities/ghaziabad/supermarket-business-ghaziabad",
+      "https://www.thebuyzaarmart.com/ghaziabad/supermarket-business-ghaziabad",
   },
   openGraph: {
     title: "FOCM Franchise Ghaziabad | The Buyzaar Mart 2026",
     description:
       "Explore the FOCM franchise opportunity in Ghaziabad with The Buyzaar Mart. You invest, we manage. Earn 18–20% margins with zero operational hassle. Apply now.",
-    url: "https://www.thebuyzaarmart.com/cities/ghaziabad/supermarket-business-ghaziabad",
+    url: "https://www.thebuyzaarmart.com/ghaziabad/supermarket-business-ghaziabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

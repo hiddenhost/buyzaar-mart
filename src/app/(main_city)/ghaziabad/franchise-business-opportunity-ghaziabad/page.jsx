@@ -12,13 +12,13 @@ export const metadata = {
     "franchise business opportunity in Ghaziabad, best franchise in Ghaziabad, retail franchise Ghaziabad, grocery franchise Ghaziabad, supermarket franchise Ghaziabad, FOCM franchise Ghaziabad, low investment franchise Ghaziabad, Buyzaar Mart franchise Ghaziabad, daily needs franchise Ghaziabad, business opportunity Ghaziabad",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/ghaziabad/franchise-business-opportunity-in-ghaziabad",
+      "https://www.thebuyzaarmart.com/ghaziabad/franchise-business-opportunity-ghaziabad",
   },
   openGraph: {
     title: "Franchise Business Opportunity in Ghaziabad | Buyzaar Mart",
     description:
       "Explore the best franchise business opportunity in Ghaziabad with The Buyzaar Mart. FOCM model — you invest, we manage. FSSAI licensed. Call 9217991727 today!",
-    url: "https://www.thebuyzaarmart.com/ghaziabad/franchise-business-opportunity-in-ghaziabad",
+    url: "https://www.thebuyzaarmart.com/ghaziabad/franchise-business-opportunity-ghaziabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

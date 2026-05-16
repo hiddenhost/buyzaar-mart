@@ -13,14 +13,14 @@ export const metadata = {
     "grocery chain noida, buyzaar mart noida, noida grocery stores, supermarket chain noida, retail chain noida, grocery network noida, buyzaar mart expansion, noida grocery excellence, multi-location grocery noida, trusted grocery chain noida",
 
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/noida/grocery-chain-noida",
+    canonical: "https://www.thebuyzaarmart.com/cities/noida/grocery-chain-in-noida",
   },
 
   // ✅ OPEN GRAPH
   openGraph: {
     title: "Grocery Chain in Noida | The Buyzaar Mart Expansion Excellence",
     description: "Discover The Buyzaar Mart, leading grocery chain in Noida. Multi-location convenience, consistent quality, fresh daily across sectors. Join our trusted network for seamless shopping today!",
-    url: "https://www.thebuyzaarmart.com/cities/noida/grocery-chain-noida",
+    url: "https://www.thebuyzaarmart.com/cities/noida/grocery-chain-in-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -998,6 +998,19 @@ Kanpur: [
     title: "Retail Chain Franchise Kanpur",
     slug: "/kanpur/retail-chain-franchise-kanpur",
   },
+   {
+    title: "How To Open Grocery Franchise Kanpur",
+    slug: "/kanpur/how-to-open-grocery-franchise-kanpur",
+  },
+   {
+    title: "How To Open Neighbourhood Store Kanpur",
+    slug: "/kanpur/how-to-open-neighbourhood-store-kanpur",
+  },
+   {
+    title: "How To Open Retail Store Franchise Kanpur",
+    slug: "/kanpur/how-to-open-retail-store-franchise-kanpur",
+  },
+  
   ];
 
 

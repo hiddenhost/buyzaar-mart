@@ -961,3 +961,43 @@ Delhi: [
     slug: "/delhi/franchise-business-plan-delhi-ncr",
   },
 ];
+Kanpur: [
+   {
+    title: "Convenience Store Franchise Kanpur",
+    slug: "/kanpur/convenience-store-franchise-kanpur",
+  },
+   {
+    title: "Daily Needs Store Franchise Kanpur ",
+    slug: "/kanpur/daily-needs-store-franchise-kanpur",
+  },
+   {
+    title: "FMCG Store Franchise Kanpur",
+    slug: "/kanpur/fmcg-store-franchise-kanpur",
+  },
+   {
+    title: "Grocery Store Franchise In Kanpur",
+    slug: "/kanpur/grocery-store-franchise-in-kanpur",
+  },
+   {
+    title: "Household Store Franchise Kanpur",
+    slug: "/kanpur/household-store-franchise-kanpur",
+  },
+   {
+    title: "Local Mart Franchise Kanpur",
+    slug: "/kanpur/local-mart-franchise-kanpur",
+  },
+   {
+    title: "Neighbourhood-Store-Franchise-Kanpur",
+    slug: "/kanpur/neighbourhood-store-franchise-kanpur",
+  },
+   {
+    title: "Retail Store Franchise In Kanpur",
+    slug: "/kanpur/retail-store-franchise-in-kanpur",
+  },
+   {
+    title: "Retail Chain Franchise Kanpur",
+    slug: "/kanpur/retail-chain-franchise-kanpur",
+  },
+  ];
+
+

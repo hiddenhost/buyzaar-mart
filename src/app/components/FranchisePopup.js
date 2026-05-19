@@ -10,10 +10,12 @@ import {
   Send,
 } from "lucide-react";
 
+const WEB3FORMS_ACCESS_KEY = "60caa47f-091a-4c7e-8676-e70c5acda1ea";
+
 export default function FranchisePopupModal({
   isOpen: externalIsOpen,
   onClose,
-  showOnLoad = true, // New prop to control auto-show
+  showOnLoad = true,
 }) {
   const [internalIsOpen, setInternalIsOpen] = useState(false);
   const [formData, setFormData] = useState({
@@ -27,38 +29,30 @@ export default function FranchisePopupModal({
   const [errors, setErrors] = useState({});
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  // Show popup when component mounts (auto-open on page load)
   useEffect(() => {
-    // Only auto-show if showOnLoad is true AND no external control is provided
     if (showOnLoad && externalIsOpen === undefined) {
       const timer = setTimeout(() => {
         setInternalIsOpen(true);
-      }, 1000); // Show popup 1 second after page load
-
+      }, 1000);
       return () => clearTimeout(timer);
     }
   }, [showOnLoad, externalIsOpen]);
 
-  // Use external control if provided, otherwise use internal state
   const isModalOpen =
     externalIsOpen !== undefined ? externalIsOpen : internalIsOpen;
 
   const closeModal = () => {
     if (onClose) {
-      onClose(); // Use external close handler if provided
+      onClose();
     } else {
-      setInternalIsOpen(false); // Use internal state if no external handler
+      setInternalIsOpen(false);
     }
   };
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setFormData({
-      ...formData,
-      [name]: value,
-    });
+    setFormData({ ...formData, [name]: value });
 
-    // Real-time validation for instant feedback
     let newErrors = { ...errors };
 
     if (name === "fullName") {
@@ -76,8 +70,7 @@ export default function FranchisePopupModal({
       if (!value.trim()) {
         newErrors.email = "Email is required";
       } else if (!emailRegex.test(value.trim())) {
-        newErrors.email =
-          "Please enter a valid email (e.g., example@gmail.com)";
+        newErrors.email = "Please enter a valid email (e.g., example@gmail.com)";
       } else {
         delete newErrors.email;
       }
@@ -122,14 +115,12 @@ export default function FranchisePopupModal({
   const validateForm = () => {
     let newErrors = {};
 
-    // Full Name validation
     if (!formData.fullName.trim()) {
       newErrors.fullName = "Full name is required";
     } else if (formData.fullName.trim().length < 2) {
       newErrors.fullName = "Full name must be at least 2 characters";
     }
 
-    // Email validation
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!formData.email.trim()) {
       newErrors.email = "Email is required";
@@ -137,21 +128,17 @@ export default function FranchisePopupModal({
       newErrors.email = "Enter a valid email address (e.g., example@gmail.com)";
     }
 
-    // Phone validation (Indian phone number format)
     const phoneRegex = /^[6-9]\d{9}$/;
     if (!formData.phone.trim()) {
       newErrors.phone = "Phone number is required";
     } else if (!phoneRegex.test(formData.phone.trim())) {
-      newErrors.phone =
-        "Enter a valid 10-digit phone number starting with 6, 7, 8, or 9";
+      newErrors.phone = "Enter a valid 10-digit phone number starting with 6, 7, 8, or 9";
     }
 
-    // State validation
     if (!formData.state.trim()) {
       newErrors.state = "Please select your state";
     }
 
-    // City validation
     if (!formData.city.trim()) {
       newErrors.city = "City is required";
     } else if (formData.city.trim().length < 2) {
@@ -163,45 +150,35 @@ export default function FranchisePopupModal({
   };
 
   const handleSubmit = async () => {
-    // Validate form before submission
-    if (!validateForm()) {
-      return;
-    }
+    if (!validateForm()) return;
 
     setIsSubmitting(true);
 
+    const payload = {
+      access_key: WEB3FORMS_ACCESS_KEY,
+      botcheck:   false,
+      subject:    "New Franchise Application - Popup Form",
+      name:       formData.fullName.trim(),
+      email:      formData.email.trim(),
+      phone:      formData.phone.trim(),
+      state:      formData.state,
+      city:       formData.city.trim(),
+      message:    formData.message.trim() || "No additional message provided",
+    };
+
     try {
-      // Create a regular object instead of FormData for better compatibility
-      const submitData = {
-        name: formData.fullName.trim(),
-        email: formData.email.trim(),
-        phone: formData.phone.trim(),
-        state: formData.state,
-        city: formData.city.trim(),
-        message: formData.message.trim() || "No additional message provided",
-        _subject: "New Buyzaar Mart Franchise Application - Popup Form",
-        _captcha: "false",
-        _template: "table",
-      };
+      const response = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify(payload),
+      });
 
-      console.log("Submitting data:", submitData); // For debugging
+      const result = await response.json();
 
-      // Submit to FormSubmit using JSON
-      const response = await fetch(
-        "https://formsubmit.co/info@thebuyzaarmart.com  ",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Accept: "application/json",
-          },
-          body: JSON.stringify(submitData),
-        }
-      );
-
-      console.log("Response status:", response.status); // For debugging
-
-      if (response.ok) {
+      if (result.success) {
         alert("Application submitted successfully! We will contact you soon.");
         setFormData({
           fullName: "",
@@ -214,10 +191,7 @@ export default function FranchisePopupModal({
         setErrors({});
         closeModal();
       } else {
-        // Try to get error message from response
-        const errorText = await response.text();
-        console.error("Server response:", errorText);
-        throw new Error(`Submission failed with status: ${response.status}`);
+        throw new Error(result.message || "Submission failed.");
       }
     } catch (error) {
       console.error("Error:", error);
@@ -229,50 +203,48 @@ export default function FranchisePopupModal({
     }
   };
 
-const states = [
-  "Andaman and Nicobar Islands",
-  "Andhra Pradesh",
-  "Arunachal Pradesh",
-  "Assam",
-  "Bihar",
-  "Chandigarh",
-  "Chhattisgarh",
-  "Dadra and Nagar Haveli and Daman and Diu",
-  "Delhi",
-  "Goa",
-  "Gujarat",
-  "Haryana",
-  "Himachal Pradesh",
-  "Jammu and Kashmir",
-  "Jharkhand",
-  "Karnataka",
-  "Kerala",
-  "Ladakh",
-  "Lakshadweep",
-  "Madhya Pradesh",
-  "Maharashtra",
-  "Manipur",
-  "Meghalaya",
-  "Mizoram",
-  "Nagaland",
-  "Odisha",
-  "Puducherry",
-  "Punjab",
-  "Rajasthan",
-  "Sikkim",
-  "Tamil Nadu",
-  "Telangana",
-  "Tripura",
-  "Uttar Pradesh",
-  "Uttarakhand",
-  "West Bengal"
-];
+  const states = [
+    "Andaman and Nicobar Islands",
+    "Andhra Pradesh",
+    "Arunachal Pradesh",
+    "Assam",
+    "Bihar",
+    "Chandigarh",
+    "Chhattisgarh",
+    "Dadra and Nagar Haveli and Daman and Diu",
+    "Delhi",
+    "Goa",
+    "Gujarat",
+    "Haryana",
+    "Himachal Pradesh",
+    "Jammu and Kashmir",
+    "Jharkhand",
+    "Karnataka",
+    "Kerala",
+    "Ladakh",
+    "Lakshadweep",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Odisha",
+    "Puducherry",
+    "Punjab",
+    "Rajasthan",
+    "Sikkim",
+    "Tamil Nadu",
+    "Telangana",
+    "Tripura",
+    "Uttar Pradesh",
+    "Uttarakhand",
+    "West Bengal",
+  ];
 
-  // Check if form is valid by running validation
   const isFormValid = () => {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     const phoneRegex = /^[6-9]\d{9}$/;
-
     return (
       formData.fullName.trim().length >= 2 &&
       emailRegex.test(formData.email.trim()) &&
@@ -282,11 +254,8 @@ const states = [
     );
   };
 
-  // Handle backdrop click to close modal
   const handleBackdropClick = (e) => {
-    if (e.target === e.currentTarget) {
-      closeModal();
-    }
+    if (e.target === e.currentTarget) closeModal();
   };
 
   if (!isModalOpen) return null;
@@ -306,41 +275,36 @@ const states = [
           <X size={24} strokeWidth={2} />
         </button>
 
-  {/* Header Section - Clean and Balanced */}
-<div className="bg-gray-100 p-5 rounded-t-xl relative"> 
-  {/* Logo and Title */}
-  <div className="flex flex-col items-center justify-center mb-0">
-    <div className="w-32 h-32 flex items-center justify-center mb-1">
-      <img
-        src="/images/buyzaar-logo.png"
-        alt="Logo"
-        className="w-50 h-42 object-cover"
-      />
-    </div>
-    <h1 className="text-lg font-bold text-gray-800 leading-tight">
-      The Buyzaar Mart
-    </h1>
-  </div>
+        {/* Header Section */}
+        <div className="bg-gray-100 p-5 rounded-t-xl relative">
+          <div className="flex flex-col items-center justify-center mb-0">
+            <div className="w-32 h-32 flex items-center justify-center mb-1">
+              <img
+                src="/images/buyzaar-logo.png"
+                alt="Logo"
+                className="w-50 h-42 object-cover"
+              />
+            </div>
+            <h1 className="text-lg font-bold text-gray-800 leading-tight">
+              The Buyzaar Mart
+            </h1>
+          </div>
+          <div className="text-center mt-0.5">
+            <h2 className="text-base font-bold text-gray-900 mb-0.5">
+              START YOUR OWN BUSINESS
+            </h2>
+            <p
+              style={{ color: "#7f1d1d" }}
+              className="font-medium text-md leading-snug"
+            >
+              &quot;Become a Part of Buyzaar Now&quot;
+              <br />
+              We&apos;ll call you.
+            </p>
+          </div>
+        </div>
 
-  {/* Main Heading */}
-  <div className="text-center mt-0.5">
-    <h2 className="text-base font-bold text-gray-900 mb-0.5">
-      START YOUR OWN BUSINESS
-    </h2>
-    <p
-      style={{ color: "#7f1d1d" }}
-      className="font-medium text-md leading-snug"
-    >
-      &quot;Become a Part of Buyzaar Now&quot;
-      <br />
-      We&apos;ll call you.
-    </p>
-  </div>
-</div>
-
-
-
-        {/* Updated Form Section with proper validation */}
+        {/* Form Section */}
         <div className="p-6">
           <div className="space-y-4">
             {/* Full Name */}
@@ -422,7 +386,7 @@ const states = [
               )}
             </div>
 
-            {/* State and City in same row for space efficiency */}
+            {/* State and City */}
             <div className="grid grid-cols-1 gap-4">
               {/* State */}
               <div className="group">

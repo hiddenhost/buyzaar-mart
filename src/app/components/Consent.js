@@ -1,27 +1,67 @@
 "use client";
 import { useState } from "react";
 
+const WEB3FORMS_ACCESS_KEY = "60caa47f-091a-4c7e-8676-e70c5acda1ea";
+
 export default function Consent() {
   const [submitted, setSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [errorMsg, setErrorMsg] = useState("");
+  const [formData, setFormData] = useState({
+    first_name: "",
+    last_name: "",
+    company: "",
+    phone_number: "",
+    sms_consent: true,
+  });
+
+  const handleChange = (e) => {
+    const { name, value, type, checked } = e.target;
+    setFormData((prev) => ({
+      ...prev,
+      [name]: type === "checkbox" ? checked : value,
+    }));
+  };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
+    setErrorMsg("");
 
-    const form = e.target;
-    const data = new FormData(form);
+    const payload = {
+      access_key:   WEB3FORMS_ACCESS_KEY,
+      botcheck:     false,
+      subject:      "New Meta Verification Form Submission",
+      first_name:   formData.first_name,
+      last_name:    formData.last_name,
+      company:      formData.company || "Not provided",
+      phone_number: formData.phone_number,
+      sms_consent:  formData.sms_consent ? "Yes" : "No",
+    };
 
     try {
-      await fetch("https://formsubmit.co/ajax/pathakmansi608@gmail.com", {
+      const response = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
-        headers: { Accept: "application/json" },
-        body: data,
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify(payload),
       });
+
+      const result = await response.json();
+      console.log("Web3Forms response:", result); // visible in browser console
+
+      if (result.success) {
+        setSubmitted(true);
+      } else {
+        // Show the actual error from web3forms
+        setErrorMsg(result.message || "Submission failed. Please try again.");
+      }
     } catch (err) {
-      // still show success
+      console.error("Submission error:", err);
+      setErrorMsg("Network error. Please check your connection and try again.");
     } finally {
-      setSubmitted(true);
       setLoading(false);
     }
   };
@@ -41,37 +81,64 @@ export default function Consent() {
           </p>
         ) : (
           <form onSubmit={handleSubmit}>
-            <input type="hidden" name="_captcha" value="false" />
-            <input
-              type="hidden"
-              name="_subject"
-              value="New Meta Verification Form Submission"
-            />
+
+            {errorMsg && (
+              <div style={styles.errorBanner}>
+                ⚠️ {errorMsg}
+              </div>
+            )}
 
             <div style={styles.fieldGroup}>
               <label style={styles.label}>
                 First Name <span style={styles.required}>*</span>
               </label>
-              <input type="text" name="first_name" required style={styles.input} />
+              <input
+                type="text"
+                name="first_name"
+                required
+                value={formData.first_name}
+                onChange={handleChange}
+                style={styles.input}
+              />
             </div>
 
             <div style={styles.fieldGroup}>
               <label style={styles.label}>
                 Last Name <span style={styles.required}>*</span>
               </label>
-              <input type="text" name="last_name" required style={styles.input} />
+              <input
+                type="text"
+                name="last_name"
+                required
+                value={formData.last_name}
+                onChange={handleChange}
+                style={styles.input}
+              />
             </div>
 
             <div style={styles.fieldGroup}>
               <label style={styles.label}>Company</label>
-              <input type="text" name="company" style={styles.input} />
+              <input
+                type="text"
+                name="company"
+                value={formData.company}
+                onChange={handleChange}
+                style={styles.input}
+              />
             </div>
 
             <div style={styles.fieldGroup}>
               <label style={styles.label}>
                 Phone Number <span style={styles.required}>*</span>
               </label>
-              <input type="tel" name="phone_number" required style={styles.input} />
+              <input
+                type="tel"
+                name="phone_number"
+                required
+                value={formData.phone_number}
+                onChange={handleChange}
+                style={styles.input}
+              />
             </div>
 
             <p style={styles.termsText}>
@@ -86,7 +153,8 @@ export default function Consent() {
                 name="sms_consent"
                 id="sms_consent"
                 required
-                defaultChecked
+                checked={formData.sms_consent}
+                onChange={handleChange}
                 style={styles.checkbox}
               />
               <label htmlFor="sms_consent" style={styles.checkboxLabel}>
@@ -204,6 +272,16 @@ const styles = {
     cursor: "pointer",
     borderRadius: "2px",
     letterSpacing: "0.5px",
+  },
+  errorBanner: {
+    backgroundColor: "#fff3f3",
+    border: "1px solid #ffcccc",
+    color: "#cc0000",
+    padding: "10px 14px",
+    borderRadius: "4px",
+    fontSize: "13px",
+    marginBottom: "16px",
+    lineHeight: "1.5",
   },
   successMessage: {
     fontSize: "15px",

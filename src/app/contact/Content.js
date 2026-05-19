@@ -4,7 +4,9 @@ import { CheckCircle, AlertCircle } from 'lucide-react';
 
 import Navbar from '../components/Navbar';
 
-// Simple SVG icon components (matching the franchise form)
+const WEB3FORMS_ACCESS_KEY = "60caa47f-091a-4c7e-8676-e70c5acda1ea";
+
+// Simple SVG icon components
 const User = ({ className }) => (
   <svg className={className} fill="currentColor" viewBox="0 0 24 24">
     <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2" />
@@ -13,16 +15,8 @@ const User = ({ className }) => (
 );
 
 const Mail = ({ className }) => (
-  <svg
-    className={className}
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24"
-  >
-    <path
-      d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
-      strokeWidth="2"
-    />
+  <svg className={className} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" strokeWidth="2" />
     <polyline points="22,6 12,13 2,6" strokeWidth="2" />
   </svg>
 );
@@ -55,12 +49,8 @@ const ContactPage = () => {
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setFormData({
-      ...formData,
-      [name]: value,
-    });
+    setFormData({ ...formData, [name]: value });
 
-    // Real-time validation for instant feedback
     let newErrors = { ...errors };
 
     if (name === "fullName") {
@@ -78,8 +68,7 @@ const ContactPage = () => {
       if (!value.trim()) {
         newErrors.email = "Email is required";
       } else if (!emailRegex.test(value.trim())) {
-        newErrors.email =
-          "Please enter a valid email (e.g., example@gmail.com)";
+        newErrors.email = "Please enter a valid email (e.g., example@gmail.com)";
       } else {
         delete newErrors.email;
       }
@@ -124,14 +113,12 @@ const ContactPage = () => {
   const validateForm = () => {
     let newErrors = {};
 
-    // Full Name validation
     if (!formData.fullName.trim()) {
       newErrors.fullName = "Full name is required";
     } else if (formData.fullName.trim().length < 2) {
       newErrors.fullName = "Full name must be at least 2 characters";
     }
 
-    // Email validation
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!formData.email.trim()) {
       newErrors.email = "Email is required";
@@ -139,21 +126,17 @@ const ContactPage = () => {
       newErrors.email = "Enter a valid email address (e.g., example@gmail.com)";
     }
 
-    // Phone validation (Indian phone number format)
     const phoneRegex = /^[6-9]\d{9}$/;
     if (!formData.phone.trim()) {
       newErrors.phone = "Phone number is required";
     } else if (!phoneRegex.test(formData.phone.trim())) {
-      newErrors.phone =
-        "Enter a valid 10-digit phone number starting with 6, 7, 8, or 9";
+      newErrors.phone = "Enter a valid 10-digit phone number starting with 6, 7, 8, or 9";
     }
 
-    // State validation
     if (!formData.state.trim()) {
       newErrors.state = "Please select your state";
     }
 
-    // City validation
     if (!formData.city.trim()) {
       newErrors.city = "City is required";
     } else if (formData.city.trim().length < 2) {
@@ -167,45 +150,35 @@ const ContactPage = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // Validate form before submission
-    if (!validateForm()) {
-      return;
-    }
+    if (!validateForm()) return;
 
     setIsSubmitting(true);
 
+    const payload = {
+      access_key: WEB3FORMS_ACCESS_KEY,
+      botcheck:   false,
+      subject:    "New Contact Form Submission from Buyzaar Mart Website",
+      name:       formData.fullName.trim(),
+      email:      formData.email.trim(),
+      phone:      formData.phone.trim(),
+      state:      formData.state,
+      city:       formData.city.trim(),
+      message:    formData.message.trim() || "No additional message provided",
+    };
+
     try {
-      // Create a regular object instead of FormData for better compatibility
-      const submitData = {
-        name: formData.fullName.trim(),
-        email: formData.email.trim(),
-        phone: formData.phone.trim(),
-        state: formData.state,
-        city: formData.city.trim(),
-        message: formData.message.trim() || "No additional message provided",
-        _subject: "New Contact Form Submission from Buyzaar Mart Website",
-        _captcha: "false",
-        _template: "table",
-      };
+      const response = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify(payload),
+      });
 
-      console.log("Submitting data:", submitData); // For debugging
+      const result = await response.json();
 
-      // Submit to FormSubmit using JSON
-      const response = await fetch(
-        "https://formsubmit.co/info@thebuyzaarmart.com",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Accept: "application/json",
-          },
-          body: JSON.stringify(submitData),
-        }
-      );
-
-      console.log("Response status:", response.status); // For debugging
-
-      if (response.ok) {
+      if (result.success) {
         setSubmitStatus('success');
         setFormData({
           fullName: "",
@@ -217,10 +190,7 @@ const ContactPage = () => {
         });
         setErrors({});
       } else {
-        // Try to get error message from response
-        const errorText = await response.text();
-        console.error("Server response:", errorText);
-        throw new Error(`Submission failed with status: ${response.status}`);
+        throw new Error(result.message || "Submission failed.");
       }
     } catch (error) {
       console.error("Error:", error);
@@ -231,50 +201,48 @@ const ContactPage = () => {
     }
   };
 
-const states = [
-  "Andaman and Nicobar Islands",
-  "Andhra Pradesh",
-  "Arunachal Pradesh",
-  "Assam",
-  "Bihar",
-  "Chandigarh",
-  "Chhattisgarh",
-  "Dadra and Nagar Haveli and Daman and Diu",
-  "Delhi",
-  "Goa",
-  "Gujarat",
-  "Haryana",
-  "Himachal Pradesh",
-  "Jammu and Kashmir",
-  "Jharkhand",
-  "Karnataka",
-  "Kerala",
-  "Ladakh",
-  "Lakshadweep",
-  "Madhya Pradesh",
-  "Maharashtra",
-  "Manipur",
-  "Meghalaya",
-  "Mizoram",
-  "Nagaland",
-  "Odisha",
-  "Puducherry",
-  "Punjab",
-  "Rajasthan",
-  "Sikkim",
-  "Tamil Nadu",
-  "Telangana",
-  "Tripura",
-  "Uttar Pradesh",
-  "Uttarakhand",
-  "West Bengal"
-];
+  const states = [
+    "Andaman and Nicobar Islands",
+    "Andhra Pradesh",
+    "Arunachal Pradesh",
+    "Assam",
+    "Bihar",
+    "Chandigarh",
+    "Chhattisgarh",
+    "Dadra and Nagar Haveli and Daman and Diu",
+    "Delhi",
+    "Goa",
+    "Gujarat",
+    "Haryana",
+    "Himachal Pradesh",
+    "Jammu and Kashmir",
+    "Jharkhand",
+    "Karnataka",
+    "Kerala",
+    "Ladakh",
+    "Lakshadweep",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Odisha",
+    "Puducherry",
+    "Punjab",
+    "Rajasthan",
+    "Sikkim",
+    "Tamil Nadu",
+    "Telangana",
+    "Tripura",
+    "Uttar Pradesh",
+    "Uttarakhand",
+    "West Bengal",
+  ];
 
-  // Check if form is valid by running validation
   const isFormValid = () => {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     const phoneRegex = /^[6-9]\d{9}$/;
-
     return (
       formData.fullName.trim().length >= 2 &&
       emailRegex.test(formData.email.trim()) &&
@@ -286,34 +254,26 @@ const states = [
 
   return (
     <div className="min-h-screen bg-white">
-      <Navbar/>
-      
-      {/* Hero Section with Background Image */}
-      <div className="pt-20 relative overflow-hidden">
-        {/* Background Image */}
-        <div
-  className="absolute inset-0"
-  style={{
-    backgroundColor: "#000",
-  }}
-></div>
+      <Navbar />
 
-        {/* Overlay for better text readability */}
+      {/* Hero Section */}
+      <div className="pt-20 relative overflow-hidden">
+        <div className="absolute inset-0" style={{ backgroundColor: "#000" }}></div>
         <div className="absolute inset-0 bg-red-800"></div>
-        <div className="absolute inset-0" style={{background: 'linear-linear(to right, #00000020, #00000030)'}}></div>
+        <div className="absolute inset-0" style={{ background: 'linear-linear(to right, #00000020, #00000030)' }}></div>
 
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24">
           <div className="text-center">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 drop-shadow-lg">
               Contact{" "}
-              <span className="text-white bg-clip-text" style={{background: 'linear-linear(to right, #ffffff, #ffffffcc)', WebkitBackgroundClip: 'text'}}>
-             Buyzaar 
+              <span className="text-white bg-clip-text" style={{ background: 'linear-linear(to right, #ffffff, #ffffffcc)', WebkitBackgroundClip: 'text' }}>
+                Buyzaar
               </span>
             </h1>
             <p className="text-xl sm:text-2xl text-white/90 max-w-4xl mx-auto leading-relaxed drop-shadow-md">
               We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
             </p>
-            <div className="mt-8 w-24 h-1 mx-auto rounded-full shadow-lg" style={{backgroundColor: '#ffffff'}}></div>
+            <div className="mt-8 w-24 h-1 mx-auto rounded-full shadow-lg" style={{ backgroundColor: '#ffffff' }}></div>
           </div>
         </div>
       </div>
@@ -322,71 +282,53 @@ const states = [
       <div className="py-8 sm:py-12 md:py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-10 md:gap-12">
-            
+
             {/* Contact Information */}
             <div className="transform transition-all duration-700 translate-x-0 opacity-100">
-              <div className="bg-white rounded-2xl shadow-lg p-6 sm:p-8 border hover:shadow-xl transition-shadow duration-300 h-full" style={{borderColor: 'black'}}>
-                <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8" style={{color: '#000000'}}>Get in 
-                  <span className="text-black"> Touch</span></h2>
-                
+              <div className="bg-white rounded-2xl shadow-lg p-6 sm:p-8 border hover:shadow-xl transition-shadow duration-300 h-full" style={{ borderColor: 'black' }}>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8" style={{ color: '#000000' }}>
+                  Get in <span className="text-black"> Touch</span>
+                </h2>
+
                 <div className="space-y-4 sm:space-y-6">
-                  <div className="flex items-start space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-xl hover:bg-opacity-80 transition-colors duration-300" style={{backgroundColor: '#00000010'}}>
-                    <div className="p-2 sm:p-3 rounded-full shrink-0" style={{backgroundColor: '#00000040'}}>
-                      <img
-                    src="https://cdn-icons-png.flaticon.com/128/646/646094.png"
-                    alt="Users icon"
-                    className="w-8 h-8"
-                  />
+                  <div className="flex items-start space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-xl hover:bg-opacity-80 transition-colors duration-300" style={{ backgroundColor: '#00000010' }}>
+                    <div className="p-2 sm:p-3 rounded-full shrink-0" style={{ backgroundColor: '#00000040' }}>
+                      <img src="https://cdn-icons-png.flaticon.com/128/646/646094.png" alt="Email icon" className="w-8 h-8" />
                     </div>
                     <div className="min-w-0 flex-1">
-                      <h3 className="text-base sm:text-lg font-semibold mb-1" style={{color: '#000000'}}>Email Us:</h3>
-                      <p className="text-sm sm:text-base break-all text-black">info@thebuyzaarmart.com  </p>
+                      <h3 className="text-base sm:text-lg font-semibold mb-1" style={{ color: '#000000' }}>Email Us:</h3>
+                      <p className="text-sm sm:text-base break-all text-black">info@thebuyzaarmart.com</p>
                       <p className="text-xs sm:text-sm mt-1 text-gray-600">We&apos;ll respond within 24 hours</p>
                     </div>
                   </div>
 
-                    <div className="flex items-start space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-xl hover:bg-opacity-80 transition-colors duration-300" style={{backgroundColor: '#00000010'}}>
-                    <div className="p-2 sm:p-3 rounded-full shrink-0" style={{backgroundColor: '#00000040'}}>
-                      <img
-                    src="https://cdn-icons-png.flaticon.com/128/126/126509.png"
-                    alt="Users icon"
-                    className="w-8 h-8"
-                  />
+                  <div className="flex items-start space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-xl hover:bg-opacity-80 transition-colors duration-300" style={{ backgroundColor: '#00000010' }}>
+                    <div className="p-2 sm:p-3 rounded-full shrink-0" style={{ backgroundColor: '#00000040' }}>
+                      <img src="https://cdn-icons-png.flaticon.com/128/126/126509.png" alt="Phone icon" className="w-8 h-8" />
                     </div>
                     <div className="min-w-0 flex-1">
-                      <h3 className="text-base sm:text-lg font-semibold mb-1" style={{color: '#000000'}}>Call Us:</h3>
+                      <h3 className="text-base sm:text-lg font-semibold mb-1" style={{ color: '#000000' }}>Call Us:</h3>
                       <p className="text-sm sm:text-base text-black">9217991727</p>
-                     
                     </div>
                   </div>
 
-                  <div className="flex items-start space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-xl hover:bg-opacity-80 transition-colors duration-300" style={{backgroundColor: '#00000010'}}>
-                    <div className="p-2 sm:p-3 rounded-full shrink-0" style={{backgroundColor: '#00000040'}}>
-                      <img
-                    src="https://cdn-icons-png.flaticon.com/128/535/535239.png"
-                    alt="Users icon"
-                    className="w-8 h-8"
-                  />
+                  <div className="flex items-start space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-xl hover:bg-opacity-80 transition-colors duration-300" style={{ backgroundColor: '#00000010' }}>
+                    <div className="p-2 sm:p-3 rounded-full shrink-0" style={{ backgroundColor: '#00000040' }}>
+                      <img src="https://cdn-icons-png.flaticon.com/128/535/535239.png" alt="Location icon" className="w-8 h-8" />
                     </div>
                     <div className="min-w-0 flex-1">
-                      <h3 className="text-base sm:text-lg font-semibold mb-1" style={{color: '#000000'}}>Visit Our Office</h3>
+                      <h3 className="text-base sm:text-lg font-semibold mb-1" style={{ color: '#000000' }}>Visit Our Office</h3>
                       <p className="text-sm sm:text-base text-black">D-43, Third floor</p>
                       <p className="text-sm sm:text-base text-black">Sector-6, Noida-201301</p>
                     </div>
                   </div>
 
-                
-
-                  <div className="flex items-start space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-xl hover:bg-opacity-80 transition-colors duration-300" style={{backgroundColor: '#00000010'}}>
-                    <div className="p-2 sm:p-3 rounded-full shrink-0" style={{backgroundColor: '#00000040'}}>
-                       <img
-                    src="https://cdn-icons-png.flaticon.com/128/2088/2088617.png"
-                    alt="Users icon"
-                    className="w-8 h-8"
-                  />
+                  <div className="flex items-start space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-xl hover:bg-opacity-80 transition-colors duration-300" style={{ backgroundColor: '#00000010' }}>
+                    <div className="p-2 sm:p-3 rounded-full shrink-0" style={{ backgroundColor: '#00000040' }}>
+                      <img src="https://cdn-icons-png.flaticon.com/128/2088/2088617.png" alt="Clock icon" className="w-8 h-8" />
                     </div>
                     <div className="min-w-0 flex-1">
-                      <h3 className="text-base sm:text-lg font-semibold mb-1" style={{color: '#000000'}}>Business Hours</h3>
+                      <h3 className="text-base sm:text-lg font-semibold mb-1" style={{ color: '#000000' }}>Business Hours</h3>
                       <p className="text-sm sm:text-base text-black">Monday - Saturday: 9:00 AM - 7:00 PM</p>
                       <p className="text-xs sm:text-sm mt-1 text-gray-600">Closed on Sundays</p>
                     </div>
@@ -395,10 +337,9 @@ const states = [
               </div>
             </div>
 
-            {/* Contact Form - Updated to match the franchise form exactly */}
+            {/* Contact Form */}
             <div className="animate-fade-in-right">
               <div className="bg-white rounded-2xl shadow-2xl p-8 border border-gray-100 relative overflow-hidden">
-                {/* Background Pattern */}
                 <div className="absolute top-0 right-0 w-32 h-32 bg-gray-100 rounded-bl-full opacity-50"></div>
                 <div className="absolute bottom-0 left-0 w-24 h-24 bg-gray-100 rounded-tr-full opacity-50"></div>
 
@@ -407,266 +348,222 @@ const states = [
                     <h2 className="text-3xl font-bold text-gray-800 mb-2">
                       I want to become an entrepreneur
                     </h2>
-                    <p className="text-gray-600">
-                      Start your journey with Buyzaar today
-                    </p>
+                    <p className="text-gray-600">Start your journey with Buyzaar today</p>
                   </div>
 
+                  {/* Status Banner */}
                   {submitStatus && (
-                    <div className={`mb-6 p-4 rounded-lg flex items-start space-x-2 transition-all duration-300 border`}
-                    style={{
-                      backgroundColor: '#00000010',
-                      borderColor: '#00000040'
-                    }}>
+                    <div
+                      className="mb-6 p-4 rounded-lg flex items-start space-x-2 transition-all duration-300 border"
+                      style={{ backgroundColor: '#00000010', borderColor: '#00000040' }}
+                    >
                       {submitStatus === 'success' ? (
-                        <CheckCircle className="h-5 w-5 shrink-0 mt-0.5" style={{color: '#000000'}} />
+                        <CheckCircle className="h-5 w-5 shrink-0 mt-0.5" style={{ color: '#000000' }} />
                       ) : (
-                        <AlertCircle className="h-5 w-5 shrink-0 mt-0.5" style={{color: '#000000'}} />
+                        <AlertCircle className="h-5 w-5 shrink-0 mt-0.5" style={{ color: '#000000' }} />
                       )}
                       <span className="text-sm text-black">
-                        {submitStatus === 'success' 
-                          ? 'Thank you! Your inquiry has been submitted successfully. We&apos;ll respond soon!'
+                        {submitStatus === 'success'
+                          ? "Thank you! Your inquiry has been submitted successfully. We'll respond soon!"
                           : 'Something went wrong. Please try again or email us directly.'
                         }
                       </span>
                     </div>
                   )}
 
-                  <div className="space-y-6">
-                    {/* Full Name */}
-                    <div className="group">
-                      <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
-                        <User className="w-4 h-4 inline mr-2" />
-                        Full Name *
-                      </label>
-                      <input
-                        type="text"
-                        name="fullName"
-                        value={formData.fullName}
-                        onChange={handleChange}
-                        className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
-                          errors.fullName
-                            ? "border-red-500 focus:border-red-500"
-                            : "border-gray-200 focus:border-black"
-                        }`}
-                        placeholder="Enter your full name"
-                        required
-                      />
-                      {errors.fullName && (
-                        <p className="text-red-500 text-sm mt-1 flex items-center">
-                          <span className="mr-1">⚠️</span>
-                          {errors.fullName}
-                        </p>
-                      )}
-                    </div>
-
-                    {/* Email */}
-                    <div className="group">
-                      <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
-                        <Mail className="w-4 h-4 inline mr-2" />
-                        Email Address *
-                      </label>
-                      <input
-                        type="email"
-                        name="email"
-                        value={formData.email}
-                        onChange={handleChange}
-                        className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
-                          errors.email
-                            ? "border-red-500 focus:border-red-500"
-                            : "border-gray-200 focus:border-black"
-                        }`}
-                        placeholder="Enter your email address"
-                        required
-                      />
-                      {errors.email && (
-                        <p className="text-red-500 text-sm mt-1 flex items-center">
-                          <span className="mr-1">⚠️</span>
-                          {errors.email}
-                        </p>
-                      )}
-                    </div>
-
-                    {/* Phone */}
-                    <div className="group">
-                      <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
-                        <Phone className="w-4 h-4 inline mr-2" />
-                        Phone Number *
-                      </label>
-                      <input
-                        type="tel"
-                        name="phone"
-                        value={formData.phone}
-                        onChange={handleChange}
-                        maxLength="10"
-                        className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
-                          errors.phone
-                            ? "border-red-500 focus:border-red-500"
-                            : "border-gray-200 focus:border-black"
-                        }`}
-                        placeholder="Enter your phone number (10 digits)"
-                        required
-                      />
-                      {errors.phone && (
-                        <p className="text-red-500 text-sm mt-1 flex items-center">
-                          <span className="mr-1">⚠️</span>
-                          {errors.phone}
-                        </p>
-                      )}
-                    </div>
-
-                    {/* State and City */}
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <form onSubmit={handleSubmit} noValidate>
+                    <div className="space-y-6">
+                      {/* Full Name */}
                       <div className="group">
                         <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
-                          <MapPin className="w-4 h-4 inline mr-2" />
-                          State *
-                        </label>
-                        <select
-                          name="state"
-                          value={formData.state}
-                          onChange={handleChange}
-                          className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
-                            errors.state
-                              ? "border-red-500 focus:border-red-500"
-                              : "border-gray-200 focus:border-black"
-                          }`}
-                          required
-                        >
-                          <option value="">Select your state</option>
-                          {states.map((state) => (
-                            <option key={state} value={state}>
-                              {state}
-                            </option>
-                          ))}
-                        </select>
-                        {errors.state && (
-                          <p className="text-red-500 text-sm mt-1 flex items-center">
-                            <span className="mr-1">⚠️</span>
-                            {errors.state}
-                          </p>
-                        )}
-                      </div>
-
-                      <div className="group">
-                        <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
-                          City *
+                          <User className="w-4 h-4 inline mr-2" />
+                          Full Name *
                         </label>
                         <input
                           type="text"
-                          name="city"
-                          value={formData.city}
+                          name="fullName"
+                          value={formData.fullName}
                           onChange={handleChange}
-                          className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
-                            errors.city
-                              ? "border-red-500 focus:border-red-500"
-                              : "border-gray-200 focus:border-black"
-                          }`}
-                          placeholder="Enter your city"
+                          placeholder="Enter your full name"
                           required
+                          className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
+                            errors.fullName ? "border-red-500 focus:border-red-500" : "border-gray-200 focus:border-black"
+                          }`}
                         />
-                        {errors.city && (
+                        {errors.fullName && (
                           <p className="text-red-500 text-sm mt-1 flex items-center">
-                            <span className="mr-1">⚠️</span>
-                            {errors.city}
+                            <span className="mr-1">⚠️</span>{errors.fullName}
                           </p>
                         )}
                       </div>
-                    </div>
 
-                    {/* Message */}
-                    <div className="group">
-                      <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
-                        Message (Optional)
-                      </label>
-                      <textarea
-                        name="message"
-                        value={formData.message || ""}
-                        onChange={handleChange}
-                        rows={4}
-                        className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-black focus:outline-none transition-all duration-300 hover:border-gray-300 resize-none"
-                        placeholder="Tell us about your franchise goals or any questions you have..."
-                      />
-                    </div>
+                      {/* Email */}
+                      <div className="group">
+                        <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
+                          <Mail className="w-4 h-4 inline mr-2" />
+                          Email Address *
+                        </label>
+                        <input
+                          type="email"
+                          name="email"
+                          value={formData.email}
+                          onChange={handleChange}
+                          placeholder="Enter your email address"
+                          required
+                          className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
+                            errors.email ? "border-red-500 focus:border-red-500" : "border-gray-200 focus:border-black"
+                          }`}
+                        />
+                        {errors.email && (
+                          <p className="text-red-500 text-sm mt-1 flex items-center">
+                            <span className="mr-1">⚠️</span>{errors.email}
+                          </p>
+                        )}
+                      </div>
 
-                    {/* Submit Button */}
-                    <button
-                      type="submit"
-                      onClick={handleSubmit}
-                      disabled={!isFormValid() || isSubmitting}
-                      className={`w-full font-bold py-4 px-8 rounded-lg transform transition-all duration-300 shadow-lg relative overflow-hidden group
-                ${
-                  !isFormValid() || isSubmitting
-                    ? "bg-gray-400 cursor-not-allowed text-white"
-                    : "bg-black hover:bg-gray-800 text-white hover:scale-105 hover:shadow-xl"
-                }`}
-                    >
-                      <span className="relative z-10">
-                        {isSubmitting ? "Submitting..." : "Submit Inquiry"}
-                      </span>
-                      <div className="absolute inset-0 bg-white opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
-                    </button>
-                  </div>
+                      {/* Phone */}
+                      <div className="group">
+                        <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
+                          <Phone className="w-4 h-4 inline mr-2" />
+                          Phone Number *
+                        </label>
+                        <input
+                          type="tel"
+                          name="phone"
+                          value={formData.phone}
+                          onChange={handleChange}
+                          maxLength="10"
+                          placeholder="Enter your phone number (10 digits)"
+                          required
+                          className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
+                            errors.phone ? "border-red-500 focus:border-red-500" : "border-gray-200 focus:border-black"
+                          }`}
+                        />
+                        {errors.phone && (
+                          <p className="text-red-500 text-sm mt-1 flex items-center">
+                            <span className="mr-1">⚠️</span>{errors.phone}
+                          </p>
+                        )}
+                      </div>
+
+                      {/* State + City */}
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div className="group">
+                          <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
+                            <MapPin className="w-4 h-4 inline mr-2" />
+                            State *
+                          </label>
+                          <select
+                            name="state"
+                            value={formData.state}
+                            onChange={handleChange}
+                            required
+                            className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
+                              errors.state ? "border-red-500 focus:border-red-500" : "border-gray-200 focus:border-black"
+                            }`}
+                          >
+                            <option value="">Select your state</option>
+                            {states.map((state) => (
+                              <option key={state} value={state}>{state}</option>
+                            ))}
+                          </select>
+                          {errors.state && (
+                            <p className="text-red-500 text-sm mt-1 flex items-center">
+                              <span className="mr-1">⚠️</span>{errors.state}
+                            </p>
+                          )}
+                        </div>
+
+                        <div className="group">
+                          <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
+                            City *
+                          </label>
+                          <input
+                            type="text"
+                            name="city"
+                            value={formData.city}
+                            onChange={handleChange}
+                            placeholder="Enter your city"
+                            required
+                            className={`w-full px-4 py-3 border-2 rounded-lg focus:outline-none transition-all duration-300 hover:border-gray-300 ${
+                              errors.city ? "border-red-500 focus:border-red-500" : "border-gray-200 focus:border-black"
+                            }`}
+                          />
+                          {errors.city && (
+                            <p className="text-red-500 text-sm mt-1 flex items-center">
+                              <span className="mr-1">⚠️</span>{errors.city}
+                            </p>
+                          )}
+                        </div>
+                      </div>
+
+                      {/* Message */}
+                      <div className="group">
+                        <label className="block text-gray-700 font-medium mb-2 transition-colors group-focus-within:text-black">
+                          Message (Optional)
+                        </label>
+                        <textarea
+                          name="message"
+                          value={formData.message || ""}
+                          onChange={handleChange}
+                          rows={4}
+                          placeholder="Tell us about your franchise goals or any questions you have..."
+                          className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-black focus:outline-none transition-all duration-300 hover:border-gray-300 resize-none"
+                        />
+                      </div>
+
+                      {/* Submit Button */}
+                      <button
+                        type="submit"
+                        disabled={!isFormValid() || isSubmitting}
+                        className={`w-full font-bold py-4 px-8 rounded-lg transform transition-all duration-300 shadow-lg relative overflow-hidden group ${
+                          !isFormValid() || isSubmitting
+                            ? "bg-gray-400 cursor-not-allowed text-white"
+                            : "bg-black hover:bg-gray-800 text-white hover:scale-105 hover:shadow-xl"
+                        }`}
+                      >
+                        <span className="relative z-10">
+                          {isSubmitting ? "Submitting..." : "Submit Inquiry"}
+                        </span>
+                        <div className="absolute inset-0 bg-white opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
+                      </button>
+                    </div>
+                  </form>
 
                   <p className="text-center text-sm text-gray-500 mt-6">
-                    * Required fields. By submitting this form, you agree to be
-                    contacted by our team.
+                    * Required fields. By submitting this form, you agree to be contacted by our team.
                   </p>
                 </div>
               </div>
             </div>
+
           </div>
         </div>
       </div>
 
-      
-
-      <style
-        dangerouslySetInnerHTML={{
-          __html: `
-        @keyframes fade-in-left {
-          from {
-            opacity: 0;
-            transform: translateX(-50px);
+      <style dangerouslySetInnerHTML={{
+        __html: `
+          @keyframes fade-in-left {
+            from { opacity: 0; transform: translateX(-50px); }
+            to { opacity: 1; transform: translateX(0); }
           }
-          to {
-            opacity: 1;
-            transform: translateX(0);
+          @keyframes fade-in-right {
+            from { opacity: 0; transform: translateX(50px); }
+            to { opacity: 1; transform: translateX(0); }
           }
-        }
-
-        @keyframes fade-in-right {
-          from {
-            opacity: 0;
-            transform: translateX(50px);
+          .animate-fade-in-right {
+            animation: fade-in-right 1s ease-out 0.3s both;
           }
-          to {
-            opacity: 1;
-            transform: translateX(0);
+          @media (max-width: 768px) {
+            [style*="background-attachment: fixed"] {
+              background-attachment: scroll !important;
+            }
           }
-        }
-
-        .animate-fade-in-right {
-          animation: fade-in-right 1s ease-out 0.3s both;
-        }
-
-        /* Responsive background image fixes */
-        @media (max-width: 768px) {
-          [style*="background-attachment: fixed"] {
-            background-attachment: scroll !important;
+          @media (max-width: 640px) {
+            h1 { word-break: break-word; hyphens: auto; }
           }
-        }
-
-        /* Ensure proper text wrapping on small screens */
-        @media (max-width: 640px) {
-          h1 {
-            word-break: break-word;
-            hyphens: auto;
-          }
-        }
-      `,
-        }}
-      />
+        `,
+      }} />
     </div>
   );
 };

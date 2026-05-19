@@ -122,25 +122,69 @@
 
 import { useState } from "react";
 
+const WEB3FORMS_ACCESS_KEY = "60caa47f-091a-4c7e-8676-e70c5acda1ea";
+
 export default function FranchiseEnquiryForm() {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [formData, setFormData] = useState({
+    fullName: "",
+    mobileNumber: "",
+    email: "",
+    city: "",
+    state: "",
+    storeType: "",
+    message: "",
+  });
+
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setFormData((prev) => ({ ...prev, [name]: value }));
+  };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setIsSubmitting(true);
 
-    const form = e.target;
-    const formData = new FormData(form);
+    const payload = {
+      access_key: WEB3FORMS_ACCESS_KEY,
+      botcheck:   false,
+      subject:    "New Franchise Enquiry",
+      full_name:  formData.fullName,
+      phone:      formData.mobileNumber,
+      email:      formData.email,
+      city:       formData.city,
+      state:      formData.state,
+      store_type: formData.storeType,
+      message:    formData.message || "No additional message provided",
+    };
 
     try {
-      await fetch("https://formsubmit.co/info@thebuyzaarmart.com", {
+      const response = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
-        body: formData,
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify(payload),
       });
 
-      setIsSubmitted(true);
-      form.reset();
+      const result = await response.json();
+
+      if (result.success) {
+        setIsSubmitted(true);
+        setFormData({
+          fullName: "",
+          mobileNumber: "",
+          email: "",
+          city: "",
+          state: "",
+          storeType: "",
+          message: "",
+        });
+      } else {
+        throw new Error(result.message || "Submission failed.");
+      }
     } catch (error) {
       console.error("Form submission error:", error);
       alert("Something went wrong. Please try again.");
@@ -194,43 +238,45 @@ export default function FranchiseEnquiryForm() {
       </h3>
 
       <p className="text-sm text-gray-600 text-center">
-      Join our growing network across India and get complete franchise details shortly.
+        Join our growing network across India and get complete franchise details shortly.
       </p>
-
-      {/* Hidden config */}
-      <input type="hidden" name="_captcha" value="false" />
-      <input type="hidden" name="_template" value="table" />
-      <input type="hidden" name="_subject" value="New Franchise Enquiry" />
 
       {/* Two Column Grid */}
       <div className="grid grid-cols-2 gap-3">
         <input
           type="text"
-          name="Full Name"
+          name="fullName"
           placeholder="Full Name"
           required
+          value={formData.fullName}
+          onChange={handleChange}
           className="w-full border rounded-lg px-3 py-2 text-sm"
         />
 
         <input
           type="tel"
-          name="Mobile Number"
+          name="mobileNumber"
           placeholder="Mobile Number"
           pattern="[0-9]{10}"
           required
+          value={formData.mobileNumber}
+          onChange={handleChange}
           className="w-full border rounded-lg px-3 py-2 text-sm"
         />
 
         <input
           type="email"
-          name="Email"
+          name="email"
           placeholder="Email Address"
+          value={formData.email}
+          onChange={handleChange}
           className="w-full border rounded-lg px-3 py-2 text-sm"
         />
 
         <select
-          name="City"
-          
+          name="city"
+          value={formData.city}
+          onChange={handleChange}
           className="w-full border rounded-lg px-3 py-2 bg-white text-sm"
         >
           <option value="">Select City</option>
@@ -254,8 +300,9 @@ export default function FranchiseEnquiryForm() {
         </select>
 
         <select
-          name="State"
-         
+          name="state"
+          value={formData.state}
+          onChange={handleChange}
           className="w-full border rounded-lg px-3 py-2 bg-white text-sm col-span-2"
         >
           <option value="">Select State</option>
@@ -282,21 +329,24 @@ export default function FranchiseEnquiryForm() {
       </div>
 
       <select
-  name="Store Type"
-  
-  className="w-full border rounded-lg px-3 py-2 bg-white text-sm col-span-2"
->
-  <option value="">Select Store Type</option>
-  <option>Mini Mart</option>
-  <option>Super Mart</option>
-  <option>Hyper Mart</option>
-</select>
+        name="storeType"
+        value={formData.storeType}
+        onChange={handleChange}
+        className="w-full border rounded-lg px-3 py-2 bg-white text-sm"
+      >
+        <option value="">Select Store Type</option>
+        <option>Mini Mart</option>
+        <option>Super Mart</option>
+        <option>Hyper Mart</option>
+      </select>
 
       {/* Full Width Textarea */}
       <textarea
-        name="Message"
+        name="message"
         placeholder="Briefly tell us about your location, investment plan, or any questions you have"
-        rows="3"
+        rows={3}
+        value={formData.message}
+        onChange={handleChange}
         className="w-full border rounded-lg px-3 py-2 resize-none text-sm"
       ></textarea>
 
@@ -310,8 +360,7 @@ export default function FranchiseEnquiryForm() {
       </button>
 
       <p className="text-xs text-gray-500 text-center">
-        Your information is safe and will only be used for franchise
-        communication.
+        Your information is safe and will only be used for franchise communication.
       </p>
     </form>
   );

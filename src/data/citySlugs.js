@@ -1010,6 +1010,46 @@ Kanpur: [
     title: "How To Open Retail Store Franchise Kanpur",
     slug: "/kanpur/how-to-open-retail-store-franchise-kanpur",
   },
+  {
+    title: "Affordable Franchise Store Kanpur",
+    slug: "/kanpur/affordable-franchise-store-kanpur",
+  },
+  {
+    title: "Best Franchise Investment Kanpur",
+    slug: "/kanpur/best-franchise-investment-kanpur",
+  },
+  {
+    title: "Franchise Opportunity For Investors Kanpur",
+    slug: "/kanpur/franchise-opportunity-for-investors-kanpur",
+  },
+  {
+    title: "Grocery Business Opportunity kanpur",
+    slug: "/kanpur/grocery-business-opportunity-kanpur",
+  },
+  {
+    title: "Guide To Open Franchise Store Kanpur",
+    slug: "/kanpur/guide-to-open-franchise-store-kanpur",
+  },
+  {
+    title: "How to Open Orgainized Store Kanpur",
+    slug: "/kanpur/how-to-open-orgainized-store-kanpur",
+  },
+  {
+    title: "How to Start Franchise Business Kanpur",
+    slug: "/kanpur/how-to-start-franchise-business-kanpur",
+  },
+  {
+    title: "Low Investment Franchise Kanpur",
+    slug: "/kanpur/low-investment-franchise-kanpur",
+  },
+  {
+    title: "Minimum Investment  Retail Franchise Kanpur",
+    slug: "/kanpur/minimum-investment-retail-franchise-kanpur",
+  },
+  {
+    title: "Top Franchise Opportunity Kanpur",
+    slug: "/kanpur/top-franchise-opportunity-kanpur",
+  },
   
   ];
 

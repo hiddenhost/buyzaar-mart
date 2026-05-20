@@ -1050,7 +1050,46 @@ Kanpur: [
     title: "Top Franchise Opportunity Kanpur",
     slug: "/kanpur/top-franchise-opportunity-kanpur",
   },
-  
+  {
+    title: "Apply For Retail Franchise Kanpur",
+    slug: "/kanpur/apply-for-retail-franchise-kanpur",
+  },
+  {
+    title: "Become Franchise Owner Kanpur",
+    slug: "/kanpur/become-franchise-owner-kanpur",
+  },
+  {
+    title: "Franchise Dealership Kanpur",
+    slug: "/kanpur/franchise-dealership-kanpur",
+  },
+  {
+    title: "Franchise Enquiry Kanpur",
+    slug: "/kanpur/franchise-enquiry-kanpur",
+  },
+  {
+    title: "Franchise Form Kanpur",
+    slug: "/kanpur/franchise-form-kanpur",
+  },
+  {
+    title: "Franchise Partner Kanpur",
+    slug: "/kanpur/franchise-partner-kanpur",
+  },
+  {
+    title: "Franchise Store Profit Margin Kanpur",
+    slug: "/kanpur/franchise-store-profit-margin-kanpur",
+  },
+  {
+    title: "Monthly Income From Retail Franchise Kanpur",
+    slug: "/kanpur/monthly-income-from-retail-franchise-kanpur",
+  },
+  {
+    title: "Open Franchise Outlet Kanpur",
+    slug: "/kanpur/open-franchise-outlet-kanpur",
+  },
+  {
+    title: "Retail Store Franchise Registration Kanpur",
+    slug: "/kanpur/retail-store-franchise-registration-kanpur",
+  },
   ];
 
 

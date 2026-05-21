@@ -1090,6 +1090,30 @@ Kanpur: [
     title: "Retail Store Franchise Registration Kanpur",
     slug: "/kanpur/retail-store-franchise-registration-kanpur",
   },
+  {
+    title: "Franchise Store Revenue Kanpur",
+    slug: "/kanpur/franchise-store-revenue-kanpur",
+  },
+  {
+    title: "Grocery Franchise Returns Kanpur",
+    slug: "/kanpur/grocery-franchise-returns-kanpur",
+  },
+  {
+    title: "How Much Earn From Grocery Franchise Kanpur",
+    slug: "/kanpur/how-much-earn-from-grocery-franchise-kanpur",
+  },
+  {
+    title: "Is Franchise Profitable In Kanpur",
+    slug: "/kanpur/is-franchise-profitable-in-kanpur",
+  },
+  {
+    title: "Payback Period Franchise Store Kanpur",
+    slug: "/kanpur/payback-period-franchise-store-kanpur",
+  },
+  {
+    title: "ROI In Retail Franchise Kanpur",
+    slug: "/kanpur/roi-in-retail-franchise-kanpur",
+  },
   ];
 
 

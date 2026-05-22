@@ -9,13 +9,13 @@ export const metadata = {
     "Looking for a FOCM franchise in Gurgaon? The Buyzaar Mart's Franchise Owned Company Managed model lets you invest & own while we run the store. Call 9217991727!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/gurgaon/focm-franchise-in-gurgaon",
+      "https://www.thebuyzaarmart.com/gurgaon/focm-franchise-gurgaon",
   },
   openGraph: {
     title: "FOCM Franchise in Gurgaon | The Buyzaar Mart",
     description:
       "Looking for a FOCM franchise in Gurgaon? The Buyzaar Mart's Franchise Owned Company Managed model lets you invest & own while we run the store. Call 9217991727!",
-    url: "https://www.thebuyzaarmart.com/gurgaon/focm-franchise-in-gurgaon",
+    url: "https://www.thebuyzaarmart.com/gurgaon/focm-franchise-gurgaon",
     siteName: "The Buyzaar Mart",
     images: [
       {

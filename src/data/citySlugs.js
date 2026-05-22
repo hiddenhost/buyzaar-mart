@@ -1115,5 +1115,46 @@ Kanpur: [
     slug: "/kanpur/roi-in-retail-franchise-kanpur",
   },
   ];
-
+  Faridabad: [
+{
+title: "Buyzaar Mart Franchise Faridabad",
+    slug: "/faridabad/buyzaar-mart-franchise-faridabad",
+},
+{
+title: "Convenience Store Franchise Faridabad",
+    slug: "/faridabad/convenience-store-franchise-faridabad",
+},
+{
+title: "Daily Needs Store Franchise Faridabad",
+    slug: "/faridabad/daily-needs-store-franchise-faridabad",
+},
+{
+title: "FOCM Franchise Faridabad",
+    slug: "/faridabad/focm-franchise-faridabad",
+},
+{
+title: "Grocery Franchise Faridabad",
+    slug: "/faridabad/grocery-franchise-faridabad",
+},
+{
+title: "Mart Franchise Opportunity Faridabad",
+    slug: "/faridabad/mart-franchise-opportunity-faridabad",
+},
+{
+title: "How to Open Retail Franchise in Faridabad",
+    slug: "/faridabad/how-to-open-retail-franchise-in-faridabad",
+},
+{
+title: "Retail Business Franchise Faridabad",
+    slug: "/faridabad/retail-business-franchise-faridabad",
+},
+{
+title: "Retail Store Franchise in Faridabad",
+    slug: "/faridabad/retail-store-franchise-in-faridabad",
+},
+{
+title: "Neighbourhood Mart Franchise Faridabad",
+    slug: "/faridabad/neighbourhood-mart-franchise-faridabad",
+},
+  ];
 

@@ -1115,7 +1115,7 @@ Kanpur: [
     slug: "/kanpur/roi-in-retail-franchise-kanpur",
   },
   ];
-  Faridabad: [
+  faridabad: [
 {
 title: "Buyzaar Mart Franchise Faridabad",
     slug: "/faridabad/buyzaar-mart-franchise-faridabad",

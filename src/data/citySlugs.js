@@ -1156,5 +1156,21 @@ title: "Retail Store Franchise in Faridabad",
 title: "Neighbourhood Mart Franchise Faridabad",
     slug: "/faridabad/neighbourhood-mart-franchise-faridabad",
 },
+{
+title: "Best Franchise Business Faridabad",
+    slug: "/faridabad/best-franchise-business-faridabad",
+},
+{
+title: "Franchise Opportunity Faridabad",
+    slug: "/faridabad/franchise-opportunity-faridabad",
+},
+{
+title: "Low Investment Franchise Faridabad",
+    slug: "/faridabad/low-investment-franchise-faridabad",
+},
+{
+title: "Profitable Grocery Franchise In Faridabad",
+    slug: "/faridabad/profitable-grocery-franchise-in-faridabad",
+},
   ];
 

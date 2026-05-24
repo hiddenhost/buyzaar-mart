@@ -1173,4 +1173,64 @@ title: "Profitable Grocery Franchise In Faridabad",
     slug: "/faridabad/profitable-grocery-franchise-in-faridabad",
 },
   ];
+   GreaterNoida: [
+{
+title: "Buyzaar Mart Franchise Greater Noida",
+    slug: "/greater-noida/buyzaar-mart-franchise-greater-noida",
+},
+{
+title: "Best Franchise Under 10 Lakh Greater Noida",
+    slug: "/greater-noida/best-franchise-under-10-lakh-greater-noida",
+},
+{
+title: "Convenience Store Franchise Greater Noida",
+    slug: "/greater-noida/convenience-store-franchise-greater-noida",
+},
+{
+title: "Daily Needs Store Franchise Greater Noida",
+    slug: "/greater-noida/daily-needs-store-franchise-greater-noida",
+},
+{
+title: "FOCM Franchise Greater Noida",
+    slug: "/greater-noida/focm-franchise-greater-noida",
+},
+{
+title: "Grocery Franchise Greater Noida",
+    slug: "/greater-noida/grocery-franchise-greater-noida",
+},
+{
+title: "Mart Franchise Opportunity Greater Noida",
+    slug: "/greater-noida/mart-franchise-opportunity-greater-noida",
+},
+{
+title: "How to Open Retail Franchise in Greater Noida",
+    slug: "/greater-noida/how-to-open-retail-franchise-in-greater-noida",
+},
+{
+title: "Retail Business Franchise Greater Noida",
+    slug: "/greater-noida/retail-business-franchise-greater-noida",
+},
+{
+title: "Retail Store Franchise in Greater Noida",
+    slug: "/greater-noida/retail-store-franchise-in-greater-noida",
+},
+{
+title: "Neighbourhood Mart Franchise Greater Noida",
+    slug: "/greater-noida/neighbourhood-mart-franchise-greater-noida",
+},
+{
+title: "Franchise Opportunity Greater Noida",
+    slug: "/greater-noida/franchise-opportunity-greater-noida",
+},
+{
+title: "Low Investment Franchise Greater Noida",
+    slug: "/greater-noida/low-investment-franchise-greater-noida",
+},
+{
+title: "Franchise Business In Greater Noida",
+    slug: "/greater-noida/franchise-business-in-greater-noida",
+},
+
+ 
+   ]
 

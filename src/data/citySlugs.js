@@ -1230,7 +1230,62 @@ title: "Low Investment Franchise Greater Noida",
 title: "Franchise Business In Greater Noida",
     slug: "/greater-noida/franchise-business-in-greater-noida",
 },
-
- 
    ]
-
+ Lucknow: [
+{
+title: "Buyzaar Mart Franchise Lucknow",
+    slug: "/lucknow/buyzaar-mart-franchise-lucknow",
+},
+{
+title: "Best Franchise Under 10 Lakh Lucknow",
+    slug: "/lucknow/best-franchise-under-10-lakh-lucknow",
+},
+{
+title: "Convenience Store Franchise Lucknow",
+    slug: "/lucknow/convenience-store-franchise-lucknow",
+},
+{
+title: "Daily Needs Store Franchise Lucknow",
+    slug: "/lucknow/daily-needs-store-franchise-lucknow",
+},
+{
+title: "FOCM Franchise Lucknow",
+    slug: "/lucknow/focm-franchise-lucknow",
+},
+{
+title: "Franchise Business Opportunity Lucknow",
+    slug: "/lucknow/franchise-business-opportunity-lucknow",
+},
+{
+title: "Grocery Franchise Lucknow",
+    slug: "/lucknow/grocery-franchise-lucknow",
+},
+{
+title: "Mart Franchise Opportunity Lucknow",
+    slug: "/lucknow/mart-franchise-opportunity-lucknow",
+},
+{
+title: "How to Open Retail Franchise in Lucknow",
+    slug: "/lucknow/how-to-open-retail-franchise-in-lucknow",
+},
+{
+title: "Retail Business Franchise Lucknow",
+    slug: "/lucknow/retail-business-franchise-lucknow",
+},
+{
+title: "Retail Store Franchise in Lucknow",
+    slug: "/lucknow/retail-store-franchise-in-lucknow",
+},
+{
+title: "Neighbourhood Mart Franchise Lucknow",
+    slug: "/lucknow/neighbourhood-mart-franchise-lucknow",
+},
+{
+title: "Low Investment Franchise Lucknow",
+    slug: "/lucknow/low-investment-franchise-lucknow",
+},
+{
+title: "How-to-Start-mart-franchise-lucknow",
+    slug: "/lucknow/how-to-start-mart-franchise-lucknow",
+},
+ ]

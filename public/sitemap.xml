@@ -1303,7 +1303,7 @@
     <priority>0.9</priority>
   </url>
 
-<!-- Greater Noida Pages-->
+<!-- Greater Noida Franchise Pages-->
   <url>
     <loc>https://www.thebuyzaarmart.com/greater-noida</loc>
     <priority>0.8</priority>
@@ -1377,6 +1377,85 @@
 
 <url>
   <loc>https://www.thebuyzaarmart.com/greaternoida/retail-store-franchise-in-greater-noida</loc>
+    <priority>0.9</priority>
+  </url>
+
+
+<!--Lucknow Franchise Pages-->
+
+<url>
+    <loc>https://www.thebuyzaarmart.com/lucknow</loc>
+    <priority>0.8</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/best-franchise-under-10-lakh-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/buyzaar-mart-franchise-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/daily-needs-store-franchise-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/focm-franchise-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/franchise-business-opportunity-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/grocery-franchise-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/how-to-open-retail-franchise-in-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/how-to-start-mart-franchise-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/low-investment-franchise-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/mart-franchise-opportunity-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/neighbourhood-mart-franchise-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/retail-store-franchise-in-lucknow</loc>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+  <loc>https://www.thebuyzaarmart.com/lucknow/retail-business-franchise-lucknow</loc>
     <priority>0.9</priority>
   </url>
 

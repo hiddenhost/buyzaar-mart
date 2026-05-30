@@ -7505,7 +7505,7 @@ export const blogs = [
       description: "Discover what sets Buyzaar Mart apart — three store formats, 18–20% margins, expired stock return policy, 50+ FMCG brands & hyper-local marketing. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1779601069/what-makes-buyzaar-mart-different-grocery-franchise-north-india_l3c2yc.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 },
 
@@ -7741,7 +7741,7 @@ export const blogs = [
       description: "Discover the best localities in Gurgaon and Faridabad for a Buyzaar Mart grocery franchise under ₹30 lakhs. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1779601950/best-localities-gurgaon-faridabad-grocery-franchise-under-30-lakhs_mxligl.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 },
 
@@ -7961,7 +7961,7 @@ export const blogs = [
       description: "Indian retailers lose 1.2–2.5% of revenue to shrinkage annually. Learn how to detect, measure, and eliminate shrinkage in your grocery franchise store in 2026.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1780138373/manage-inventory-shrinkage-grocery-franchise-store_p1axbu.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/images/buyzaar-logo.png" }
   }
 }
 

@@ -93,7 +93,7 @@ const MainBanner = () => {
               className="min-w-full h-full relative flex-shrink-0"
             >
               {/* Mobile Layout */}
-              <div className="block md:hidden relative w-full h-full">
+              <div className="block md:hidden relative w-full h-full mt-8">
                 <Image
                   src={slide.image}
                   alt={slide.alt}

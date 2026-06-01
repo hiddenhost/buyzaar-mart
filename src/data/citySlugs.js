@@ -1,3 +1,5 @@
+import BareillyContent from "@/app/(main_city)/bareilly/Content";
+
 export const citySlugs = {
   gangoh: [
     {
@@ -1289,3 +1291,63 @@ title: "How-to-Start-mart-franchise-lucknow",
     slug: "/lucknow/how-to-start-mart-franchise-lucknow",
 },
  ]
+  Bareilly: [
+{
+title: "Best Franchise Business In Bareilly",
+    slug: "/bareilly/best-franchise-business-in-bareilly",
+},
+{
+title: "Buyzaar Mart Franchise Bareilly",
+    slug: "/bareilly/buyzaar-mart-franchise-bareilly",
+},
+{
+title: "Convenience Store Franchise Bareilly",
+    slug: "/bareilly/convenience-store-franchise-bareilly",
+},
+{
+title: "Daily Needs Store Franchise Bareilly",
+    slug: "/bareilly/daily-needs-store-franchise-bareilly",
+},
+{
+title: "FOCM Franchise Bareilly",
+    slug: "/bareilly/focm-franchise-bareilly",
+},
+{
+title: "Franchise Opportunity In Bareilly",
+    slug: "/bareilly/franchise-opportunity-in-bareilly",
+},
+{
+title: "Grocery Franchise Bareilly",
+    slug: "/bareilly/grocery-franchise-bareilly",
+},
+{
+title: "How-To-Open-Retail-Franchise-in-Bareilly",
+    slug: "/bareilly/how-to-open-retail-franchise-in-bareilly",
+},
+{
+title: "Low Investment Franchise Bareilly",
+    slug: "/bareilly/low-investment-franchise-bareilly",
+},
+{
+title: "Mart Franchise Opportunity Bareilly",
+    slug: "/bareilly/mart-franchise-opportunity-bareilly",
+},
+{
+title: " Neighbourhood Mart Franchise Bareilly",
+    slug: "/bareilly/neighbourhood-mart-franchise-bareilly",
+},
+{
+title: "Retail Business Franchise Bareilly",
+    slug: "/bareilly/retail-business-franchise-bareilly",
+},
+{
+title: "Retail Store Franchise in Bareilly",
+    slug: "/bareilly/retail-store-franchise-in-bareilly",
+},
+{
+title: "Franchise Under 5 Lakh Bareilly",
+    slug: "/bareilly/franchise-under-5-lakh-bareilly",
+},
+ ]
+
+ 

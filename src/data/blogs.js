@@ -9682,5 +9682,222 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+},
+{
+  id: 30,
+  slug: "planogram-101-shelf-arrangement-increases-basket-size-indian-grocery-stores",
+  title: "Planogram 101: How Smart Shelf Arrangement Increases Basket Size in Indian Grocery Stores (2026)",
+  subtitle: "A planogram is the single most underused tool in Indian grocery franchise stores. Learn what it is, how it works, and how smart shelf arrangement can directly increase your store's basket size and monthly revenue.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-06-12",
+  readTime: "10 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1781263840/planogram-101-shelf-arrangement-increases-basket-size-indian-grocery-store_p15qdl.jpg", // Add Cloudinary image URL here
+  content: "A planogram is the single most underused tool in Indian grocery franchise stores. Learn what it is, how it works, and how smart shelf arrangement can directly increase your store's basket size and monthly revenue.",
+  tags: [
+    "Planogram Shelf Arrangement Indian Grocery Store",
+    "What Is Planogram Grocery Store India",
+    "Shelf Arrangement Grocery Franchise India",
+    "How to Increase Basket Size Grocery Store",
+    "Retail Merchandising India 2026",
+    "FMCG Shelf Placement India",
+    "Grocery Store Layout Strategy India",
+    "Buyzaar Mart Franchise Store Merchandising"
+  ],
+
+  fullContent: {
+    introduction: "Walk into any large organised grocery chain in India — a DMart, a Reliance Smart, a Spencer's — and notice how every shelf feels deliberate. Nothing is random. Products are grouped a certain way, specific items sit at eye level, and somehow you always end up at the billing counter with three things you did not plan to buy. That is not luck. That is a planogram doing exactly what it is designed to do. Now walk into most independent kirana stores or even many small franchise stores. Products are arranged by whatever fit on the shelf when the last delivery arrived. Atta is next to shampoo. Biscuits are in a corner. The high-margin personal care section is somewhere at the back where customers rarely wander. That is not just poor aesthetics — it is leaving thousands of rupees on the table every single month. A planogram is one of the most powerful and most underused tools available to Indian grocery franchise store owners. It costs nothing to implement, requires no technology to start, and has a direct, measurable impact on basket size, sales per square foot, and customer satisfaction.",
+
+    sections: [
+      {
+        heading: "What Exactly Is a Planogram?",
+        content: [
+          { type: "paragraph", text: "A planogram — also abbreviated as POG — is a data-driven merchandising blueprint used by retailers to dictate product placement on shelves, fixtures, and display units. It maps every SKU's precise position: which shelf, how many facings, in what sequence, and at what height." },
+          { type: "bullets", items: [
+            "In simple terms, a planogram is a visual plan of exactly what goes where in your store — which product sits at eye level, which goes on the bottom shelf, which products are grouped together, and how much shelf space each category gets",
+            "Rather than leaving product arrangement to individual store managers, a planogram standardizes the layout — and maintaining planogram compliance can boost retail profits by 8.1% by reducing stockouts and overstock issues",
+            "For a Buyzaar Mart franchise store, a planogram is the difference between a store that guides customers naturally toward higher purchases and a store that simply holds products until someone asks for them",
+            "You do not need software to start. A hand-drawn shelf map on paper, based on the principles in this guide, is a perfectly functional planogram for a Mini Mart or Super Mart"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Why Planograms Matter More in Indian Grocery Stores Than Most Owners Realise",
+        content: [
+          { type: "bullets", items: [
+            "35 to 40% of purchase decisions in grocery stores are made directly at the shelf — meaning the way your products are arranged is directly influencing nearly half of everything your customers buy",
+            "Indian grocery shoppers, particularly in tier-2 and tier-3 cities, are increasingly brand-aware but still heavily influenced by what they see first — product placement at the right shelf position can make the difference between a product selling 50 units a week or 200",
+            "The shift from unorganised kirana shopping to organised grocery retail brings customers who are willing to browse and discover — but only if the store layout encourages it. Most Indian franchise stores do not",
+            "Cross-merchandising — placing complementary products together — can raise sales by 10 to 20% depending on the category — a straightforward strategy that any store owner can implement without spending a single rupee",
+            "The average basket size in an organised Indian grocery store is significantly higher than in an unorganised kirana — and a well-executed planogram is one of the primary structural reasons for that gap"
+          ]}
+        ]
+      },
+
+      {
+        heading: "The Core Principles of a Grocery Store Planogram",
+        content: [
+          { type: "subheading", text: "Principle 1 — Eye Level Is Buy Level" },
+          { type: "bullets", items: [
+            "Eye-level product placement increases sales by up to 45% — the most important and most consistently validated principle in all of retail merchandising",
+            "In practice this means: your highest-margin products, your fastest-moving branded SKUs, and your promotional items should always occupy the middle shelves — approximately between hip height and head height for an average adult",
+            "In Indian grocery stores, products at eye level for the primary shopper — typically a woman between 5 to 5.5 feet tall — are those positioned between 3 and 5.5 feet from the floor",
+            "Products that are most often bought or need to be sold quickly should be placed at eye level — this is equally true for high-margin personal care as it is for a near-expiry product you need to clear fast",
+            "Bottom shelves are for heavy items — 10 kg atta, 5 litre oil, large rice bags — that customers expect to bend for and are already committed to buying",
+            "Top shelves are for slow-moving variants, large pack sizes of low-urgency products, or backup stock display"
+          ]},
+
+          { type: "subheading", text: "Principle 2 — Place Essentials at the Back, Impulse Items at the Front" },
+          { type: "bullets", items: [
+            "Place the essentials — atta, rice, oil — at the back of the store. This way customers have to pass by all other products before getting to what they came for, increasing time in store and multiplying opportunities for additional purchases",
+            "This is the single most powerful traffic-flow principle in grocery retail — and it is used by every large organised chain in India without exception",
+            "The customer who walks to the back for her Aashirvaad atta passes the biscuit aisle, the personal care section, the snack display, and the beverage cooler on the way — each one a potential unplanned purchase",
+            "If the customer does not have a clear shopping list, she is more likely to make impulse purchases while the basket is still empty — which is exactly why high-margin impulse items like snacks, sachets, and small personal care products should be positioned near the entrance and on the path to staples"
+          ]},
+
+          { type: "subheading", text: "Principle 3 — Cross-Merchandise Complementary Categories" },
+          { type: "paragraph", text: "Placing commonly purchased items alongside related products drives impulse buys and increases basket size. Practical cross-merchandising examples that work specifically in North Indian grocery stores:" },
+          { type: "bullets", items: [
+            "<strong>Atta + cooking oil + salt</strong> — place these three together or in adjacent bays. A customer coming for atta very often needs oil and almost always needs salt — if they are nearby, both go in the basket without a second thought",
+            "<strong>Tea + biscuits + sugar</strong> — the classic Indian chai combination. Place them as a group and watch attachment rates on biscuits increase immediately",
+            "<strong>Shampoo + conditioner + hair oil</strong> — positioning these together in the personal care aisle encourages customers to complete the hair care set rather than buying just the one product they came for",
+            "<strong>Rice + dal + spices</strong> — a meal-based grouping that makes the shopping logic obvious and reduces the effort required to make a full purchase",
+            "Cross-merchandising in beverages — for example, snacks near drinks — boosts impulse buys by 15% — a straightforward tactic for the beverage aisle of any Buyzaar Mart store"
+          ]},
+
+          { type: "subheading", text: "Principle 4 — Give Fast Movers More Shelf Facings" },
+          { type: "bullets", items: [
+            "A shelf facing is the number of units of a product visible to the customer from the front of the shelf. One facing means one unit visible. Three facings means three units side by side",
+            "A larger shelf share and more facings increase the likelihood of purchase and make the product stand out among competitors — this is why brands pay premium slotting fees to large retailers for additional facings",
+            "In your store, allocate more facings to your top five fastest-selling SKUs in each category — if Aashirvaad 5 kg sells 40 units a week and Brand X atta sells 4 units, Aashirvaad deserves ten times the shelf width",
+            "Tracking your POS sales data weekly gives you the exact velocity data needed to make this allocation scientifically rather than by gut feel",
+            "As a rule of thumb: a product's shelf space should roughly reflect its share of category sales — over-allocating space to slow movers and under-allocating to fast movers is one of the most common and costly planogram mistakes in Indian grocery stores"
+          ]},
+
+          { type: "subheading", text: "Principle 5 — Use Vertical Blocking for Categories" },
+          { type: "bullets", items: [
+            "Vertical blocking means stocking all variants of a category from top to bottom in a single vertical column rather than spreading the category horizontally across the shelf",
+            "A customer looking for Dabur Honey does not scan an entire shelf horizontally — she scans vertically. A vertical block of the honey category — all brands, all sizes, from top shelf to bottom — is easier to navigate and results in faster, more satisfying product discovery",
+            "Vertical blocking also makes brand visibility stronger — a vertical column of Tata Sampann products creates a clear, brand-focused visual block that feels organised and professional",
+            "For a Buyzaar Mart franchise store, group each sub-category vertically — all cooking oils together, all packaged atta together, all hair oils together — and watch navigation time decrease and customer satisfaction increase"
+          ]},
+
+          { type: "subheading", text: "Principle 6 — The Checkout Counter Is a Revenue Zone" },
+          { type: "bullets", items: [
+            "The billing counter and the queue leading to it are the highest-value merchandising real estate in your entire store — and most Indian grocery franchise owners use this space for nothing except the billing machine",
+            "Stock the billing counter area with: sachets of shampoo, conditioner, and face wash; small snack packs; mouth fresheners; chewing gum; single-serve biscuits; batteries; safety pins; matchboxes — all under ₹30 to ₹50",
+            "These are the products customers pick up while waiting without any conscious decision-making — pure impulse driven by visibility and idle attention",
+            "Even adding ₹15 to ₹20 per transaction through checkout impulse placement — at 100 transactions per day — adds ₹45,000 to ₹60,000 to your monthly revenue with zero additional cost"
+          ]},
+
+          { type: "subheading", text: "Principle 7 — Seasonal and Promotional Displays at Store Entry" },
+          { type: "bullets", items: [
+            "Well-executed seasonal displays can lift category sales by 20 to 30% — the entrance of your store is the most powerful promotional display position you have",
+            "During Navratri: sendha namak, sabudana, kuttu atta, and dry fruits displayed prominently at entry drive strong impulse and planned festival purchases",
+            "During Diwali: gift packs, dry fruits, mithai ingredients, and cleaning products positioned at entry capture festive category spend before the customer begins her regular shopping",
+            "During winter months: health drinks, glucose, immunity products, and warm beverages at entry position your store as seasonally responsive and customer-aware",
+            "Rotate your entry display every two to three weeks — a store whose entry display never changes signals to regular customers that nothing new is happening, reducing browsing motivation"
+          ]}
+        ]
+      },
+
+      {
+        heading: "The 7 Planogram Principles — Quick Reference",
+        content: [
+          {
+            type: "table",
+            caption: "Planogram Principles for Indian Grocery Franchise Stores — 2026",
+            headers: ["Principle", "Core Rule", "Revenue Impact", "Implementation Effort"],
+            rows: [
+              ["Eye Level Is Buy Level", "Highest-margin and fastest-moving SKUs at 3–5.5 feet height", "Up to 45% sales increase for repositioned products", "Low — rearrange existing stock"],
+              ["Essentials at Back, Impulse at Front", "Staples at back wall; snacks and sachets near entrance", "Increases customer browsing time and unplanned purchases", "Low — adjust category zone layout"],
+              ["Cross-Merchandise Complementaries", "Atta+oil+salt; tea+biscuits+sugar; shampoo+hair oil", "10–20% category sales uplift", "Low — group adjacent products together"],
+              ["Fast Movers Get More Facings", "Shelf space proportional to weekly sales velocity", "Reduces stockouts; improves fast-mover visibility", "Low — reallocate shelf width using POS data"],
+              ["Vertical Category Blocking", "All variants of a category stacked vertically in one column", "Faster product discovery; stronger brand blocks", "Low — reorganise shelf stacking direction"],
+              ["Checkout Counter as Revenue Zone", "Under-₹50 impulse items at billing counter and queue area", "₹45,000–₹60,000 additional monthly revenue at 100 txn/day", "Very low — stock counter with impulse items"],
+              ["Seasonal Entry Displays", "Festival and seasonal products prominently displayed at entrance", "20–30% category sales lift during promotional periods", "Low — rotate entry display every 2–3 weeks"]
+            ]
+          }
+        ]
+      },
+
+      {
+        heading: "Building Your First Planogram — A Simple Starting Framework for Buyzaar Mart Stores",
+        content: [
+          { type: "bullets", items: [
+            "<strong>Step 1 — Map your store:</strong> Draw a simple top-view sketch of your store showing all shelving units, their positions, and approximate dimensions",
+            "<strong>Step 2 — Pull your POS sales data:</strong> Identify your top 10 selling SKUs in each category — these are your shelf priority products",
+            "<strong>Step 3 — Assign zone roles:</strong> Designate your back wall or back aisles for staples, mid-store aisles for personal care and homecare, front and entry area for impulse and high-margin products",
+            "<strong>Step 4 — Apply eye-level rule:</strong> Move your highest-margin and fastest-moving SKUs from wherever they currently sit to the 3 to 5.5 feet height range on the shelf",
+            "<strong>Step 5 — Create three cross-merchandise groupings:</strong> Start with tea-biscuits-sugar, atta-oil-salt, and shampoo-hair oil-conditioner — measure basket attachment rates weekly",
+            "<strong>Step 6 — Set up a checkout impulse zone:</strong> Clear the billing counter area of clutter and stock it with under-₹50 sachets, snacks, and daily convenience items",
+            "<strong>Step 7 — Review monthly:</strong> Use your POS data to track which changes drove sales improvements and adjust your planogram accordingly — a planogram is never finished, it improves with every data cycle"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "A planogram is not a retail luxury reserved for large chains with dedicated merchandising teams — it is a practical, zero-cost operational tool that every Buyzaar Mart franchise store owner can implement starting tomorrow",
+            "The way products are arranged on supermarket shelves is never random — every decision on what goes at eye level, what sits together, and how aisles are organised is carefully planned to influence shopping behaviour and maximise sales",
+            "The difference between a store earning ₹6 lakh per month and a store earning ₹8 lakh per month is often not footfall — it is basket size — and basket size is overwhelmingly a function of how well the store guides its customers through a well-designed shelf layout",
+            "Eye-level placement, cross-merchandising, checkout impulse zones, seasonal entry displays, and fast-mover shelf prioritisation are five strategies any franchise owner can implement within a week — and the results show up in the very next month's POS data",
+            "The best grocery franchise stores in India are not just shops — they are carefully engineered customer journeys that make buying more feel effortless, logical, and satisfying",
+            "Your planogram is the blueprint for that journey. Start drawing it today."
+          ]},
+          { type: "paragraph", text: "Build a store that sells smarter, not just harder. Start at <a href='https://thebuyzaarmart.com/franchise' style='color:#2563eb;'>thebuyzaarmart.com/franchise</a> or call <a href='tel:9217991727' style='color:#2563eb;'>9217991727</a> (Monday to Saturday, 9 AM to 7 PM)" }
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Do I need software to create a planogram for my grocery franchise store?",
+      answer: "No — a hand-drawn shelf map based on the principles in this guide is a fully functional starting planogram. Software helps at scale but is not necessary for a single Mini Mart or Super Mart."
+    },
+    {
+      question: "How often should I update my planogram?",
+      answer: "Most retailers update planograms on a quarterly reset cycle, with revisions triggered by new product introductions, seasonal promotions, or significant changes in sales velocity — fast-moving categories like beverages and snacks often need monthly reviews."
+    },
+    {
+      question: "Which shelf position sells the most in an Indian grocery store?",
+      answer: "Eye level — between 3 and 5.5 feet from the floor — consistently generates the highest sales. Place your highest-margin and fastest-moving products here without exception."
+    },
+    {
+      question: "Will rearranging my store confuse regular customers?",
+      answer: "Briefly — but the sales uplift far outweighs any short-term navigation adjustment. Brief your staff to guide regular customers to relocated products during the first week after any major planogram change."
+    },
+    {
+      question: "Does Buyzaar Mart provide planogram guidance to franchise partners?",
+      answer: "Yes — Buyzaar Mart's store setup and operational support includes guidance on shelf layout and category organisation aligned with the brand's merchandising standards, giving franchise partners a professional starting framework."
+    }
+  ],
+
+  metaTags: {
+    title: "Planogram 101: How Smart Shelf Arrangement Increases Basket Size in Indian Grocery Stores (2026) | The Buyzaar Mart",
+    description: "A planogram is the single most underused tool in Indian grocery franchise stores. Learn what it is, how it works, and how smart shelf arrangement can directly increase your store's basket size and monthly revenue.",
+    keywords: "planogram shelf arrangement Indian grocery store basket size, what is planogram grocery store India, shelf arrangement grocery franchise India, how to increase basket size grocery store, retail merchandising India 2026, FMCG shelf placement India, grocery store layout strategy India, Buyzaar Mart franchise store merchandising",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/planogram-101-shelf-arrangement-increases-basket-size-indian-grocery-stores"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/planogram-101-shelf-arrangement-increases-basket-size-indian-grocery-stores",
+      title: "Planogram 101: How Smart Shelf Arrangement Increases Basket Size in Indian Grocery Stores (2026)",
+      description: "A planogram is the single most underused tool in Indian grocery franchise stores. Learn what it is, how it works, and how smart shelf arrangement can increase your store's basket size and monthly revenue.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1781263840/planogram-101-shelf-arrangement-increases-basket-size-indian-grocery-store_p15qdl.jpg", width: 1200, height: 630, alt: "Planogram 101 — How Smart Shelf Arrangement Increases Basket Size in Indian Grocery Stores" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Planogram 101: How Smart Shelf Arrangement Increases Basket Size in Indian Grocery Stores (2026)",
+      description: "Learn how a planogram can increase basket size and monthly revenue in your grocery franchise store. Call 9217991727 or visit thebuyzaarmart.com.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1781263840/planogram-101-shelf-arrangement-increases-basket-size-indian-grocery-store_p15qdl.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 }
 ]

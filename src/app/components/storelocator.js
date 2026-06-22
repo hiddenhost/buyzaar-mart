@@ -84,6 +84,7 @@ export default function StoreLocator() {
                 </p>
 
                 <ul className="text-white text-md leading-tight space-y-1">
+                  <li>• The Buyzaar Mart, Shyam Nagar Kanpur.</li>
                   <li>• The Buyzaar Mart, Sector 44 Chalera Noida.</li>
                   <li>• The Buyzaar Mart, Gangoh Near Bus Stand.</li>
                   <li>• The Buyzaar Mart, Behat, Saharanpur.</li>

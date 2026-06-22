@@ -12,6 +12,14 @@ import Link from "next/link";
 // ─────────────────────────────────────────────
 const MEDIA = [
   {
+    id: 6,
+    type: "image",
+    src: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1782109718/Buyzaar-shyam-nagar-store_ktqvi9.jpg",
+    store: "Shyam Nagar, Kanpur",
+    caption:
+      "Now serving Kanpur! Visit The Buyzaar Mart at Shyam Nagar for quality products, great deals, and a seamless shopping experience.",
+  },
+  {
     id: 1,
     type: "image",
     src: "/store-images/store3.jpeg", // replace with your actual path
@@ -50,6 +58,7 @@ const MEDIA = [
       "Exciting things are coming to Laxmi Vilas, Raj Nagar Extension, Ghaziabad — stay tuned!",
     locationEmbed: `<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3499.35787020355!2d77.43051487550358!3d28.708849175623207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDQyJzMxLjkiTiA3N8KwMjUnNTkuMSJF!5e0!3m2!1sen!2sin!4v1775302915562!5m2!1sen!2sin" width="100%" height="300" style="border:0;" loading="lazy"></iframe>`,
   },
+  
 ];
 
 // ─────────────────────────────────────────────

@@ -141,9 +141,6 @@ const Content = () => {
               Starting a business from scratch is hard. Choosing the right franchise,
               understanding the investment, navigating setup, and managing daily operations
               can feel overwhelming, especially for first-time entrepreneurs.
-            </p>
-
-            <p>
               That is exactly where The Buyzaar Mart creates clarity for aspiring franchise
               owners in Lucknow. The brand offers a structured retail franchise programme
               designed to take investors from inquiry to store launch through a guided,
@@ -155,9 +152,6 @@ const Content = () => {
               expanding residential zones, a rising middle-class consumer base, and a major
               gap in organised neighbourhood retail, the city is a strong market for a
               branded daily-needs store right now.
-            </p>
-
-            <p>
               This guide explains everything you need to know &mdash; why Lucknow is the
               right market, how the franchise models work, and the step-by-step process to
               open a Mini Mart retail franchise in Lucknow with The Buyzaar Mart.
@@ -172,16 +166,10 @@ const Content = () => {
               opportunity exists. Lucknow&apos;s urban population exceeds 35 lakh and the
               city continues to grow rapidly through new residential colonies, apartment
               clusters, and emerging commercial pockets.
-            </p>
-
-            <p>
               The city is expanding across Hardoi Road, Faizabad Road, Chinhat, Kanpur Road,
               Shaheed Path, and other growth corridors. These zones are creating strong
               local demand for organised daily-needs stores within walking distance of
               residential areas.
-            </p>
-
-            <p>
               The structural retail gap is clear. Traditional kirana stores still dominate
               many neighbourhoods, but they often lack standardised layout, digital billing,
               reliable stock management, and the shopping experience modern consumers now
@@ -193,9 +181,6 @@ const Content = () => {
               prefer clean, organised, well-lit neighbourhood stores with transparent
               billing and better product visibility. A Buyzaar Mart franchise is designed to
               fill that exact market gap.
-            </p>
-
-            <p>
               Lucknow also benefits from a supportive business environment, better supply
               chain connectivity, and growing formal retail infrastructure. For investors
               thinking seriously about how to open a retail franchise in Lucknow, the timing
@@ -221,9 +206,6 @@ const Content = () => {
               The FOCM model is designed for investors who want to own their store actively,
               stay involved in their business, and build local customer relationships while
               receiving strong operational and brand support from the company.
-            </p>
-
-            <p>
               Under FOCM, the franchisee owns the outlet and invests the required capital.
               The company supports site approval, store design, POS deployment, staff
               training, supplier coordination, inventory systems, marketing, and periodic
@@ -238,9 +220,6 @@ const Content = () => {
               The FOCO model is designed for investors who want to own a retail franchise as
               a managed investment. In this model, the investor provides the capital and
               commercial space, while The Buyzaar Mart manages day-to-day store operations.
-            </p>
-
-            <p>
               Under FOCO, staffing, billing, inventory, supplier management, customer
               service, compliance, and performance reporting are handled by the company. It
               is a suitable choice for investors seeking a more passive retail business
@@ -274,9 +253,6 @@ const Content = () => {
               . Fill out the franchise inquiry form with your name, contact details, city,
               preferred Lucknow locality, available investment range, and preferred store
               format.
-            </p>
-
-            <p>
               The franchise team reviews your inquiry and connects with you to discuss
               investment readiness, location preferences, and questions about the
               programme. This is a discovery step and generally does not require any
@@ -291,16 +267,10 @@ const Content = () => {
               After the initial discussion, the next step is identifying possible store
               spaces in your target locality. A Mini Mart typically requires approximately
               300 to 800 square feet of commercial space.
-            </p>
-
-            <p>
               Suitable locations include residential colony markets, roads near apartment
               complexes, local streets near parks or schools, and neighbourhood commercial
               pockets in areas such as Rajajipuram, Aliganj, Indiranagar, Chinhat, Vikas
               Nagar, Alambagh, Telibagh, and Mahanagar.
-            </p>
-
-            <p>
               You can shortlist two or three potential spaces, whether owned or rented, and
               share them with the franchise team for evaluation.
             </p>
@@ -314,9 +284,6 @@ const Content = () => {
               conducts a formal location survey of shortlisted properties and evaluates
               footfall, residential density, accessibility, visibility, nearby competition,
               and overall commercial viability.
-            </p>
-
-            <p>
               Based on the findings, the company gives formal site approval for the best-fit
               location. This protects franchisees from one of the most expensive retail
               mistakes &mdash; opening in the wrong location.
@@ -330,9 +297,6 @@ const Content = () => {
               Once the site is approved, onboarding documentation begins. This includes KYC
               verification, submission of identity and address documents, review of the
               franchise agreement, and guided completion of compliance requirements.
-            </p>
-
-            <p>
               The agreement outlines the roles and responsibilities of both parties, the
               investment structure, operational standards, and partnership duration. The
               company&apos;s team guides you through the process to maintain transparency.
@@ -347,16 +311,10 @@ const Content = () => {
               interior design and setup phase begins. The company designs the store according
               to its standard brand format so every Buyzaar Mart Mini Mart delivers a clean,
               recognisable, and professionally organised shopping environment.
-            </p>
-
-            <p>
               This phase includes shelving and display units, lighting, flooring, wall
               branding, graphics, window display elements, and external signage. The store
               layout is optimised for product visibility, customer movement, and efficient
               use of space.
-            </p>
-
-            <p>
               Depending on the store size and readiness of the location, this setup phase
               can typically take one to three weeks.
             </p>
@@ -369,9 +327,6 @@ const Content = () => {
               Alongside the interior setup, or immediately after it, the company installs
               the POS system. This includes billing setup, software configuration, hardware
               installation, and system testing.
-            </p>
-
-            <p>
               The POS system enables billing, real-time inventory tracking, and daily sales
               reporting. It helps reduce manual errors and gives the franchisee a clear
               picture of store performance from the first day of operations.
@@ -386,9 +341,6 @@ const Content = () => {
               identify suitable roles for store executives and billing staff. Once staff are
               in place, they receive training on store operations, POS use, merchandising,
               product handling, and customer service.
-            </p>
-
-            <p>
               This training helps ensure that the store team can deliver a consistent
               Buyzaar Mart customer experience from day one.
             </p>
@@ -402,9 +354,6 @@ const Content = () => {
               the expected demand pattern of your Lucknow locality. The opening inventory
               typically covers key daily-needs categories and is aligned with the brand&apos;s
               merchandising structure.
-            </p>
-
-            <p>
               The store is stocked, products are categorised on shelves, and all inventory
               is entered into the POS system before launch.
             </p>
@@ -417,9 +366,6 @@ const Content = () => {
               Once the store is ready, The Buyzaar Mart supports the launch with local area
               promotions, digital awareness campaigns, launch offers, and community-level
               marketing activities designed to drive opening footfall.
-            </p>
-
-            <p>
               After launch, the company continues supporting the store through operational
               reviews, performance monitoring, restocking guidance, and ongoing marketing
               initiatives to help the business grow steadily.
@@ -584,7 +530,7 @@ const Content = () => {
 
               <p className="text-gray-800">
                 <span className="font-semibold">Business Hours:</span> Monday to Saturday,
-                10:00 AM &ndash; 6:00 PM
+                09:00 AM &ndash; 07:00 PM
               </p>
             </div>
           </div>

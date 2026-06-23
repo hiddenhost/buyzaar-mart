@@ -7,6 +7,16 @@ export const metadata = {
   title: "How to Open Retail Franchise in Lucknow | The Buyzaar Mart – Step-by-Step Guide",
   description:
     "Want to know how to open a retail franchise in Lucknow? Follow The Buyzaar Mart's step-by-step guide. Choose Mini Mart under FOCM or FOCO model with full investment breakdown. Apply at thebuyzaarmart.com.",
+  keywords: [
+    "grocery franchise Lucknow",
+    "open grocery store Lucknow",
+    "The Buyzaar Mart franchise",
+    "supermarket franchise Lucknow",
+    "Mini Mart franchise Lucknow",
+    "low investment grocery franchise",
+    "daily needs store franchise Lucknow",
+    "retail franchise Uttar Pradesh",
+  ],
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/lucknow/how-to-open-retail-franchise-in-lucknow",

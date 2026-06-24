@@ -8,7 +8,7 @@ export default function Banner() {
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src="https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776671502/buyzaar-mart_ti8h8h.png"
-          alt="Grocery Franchise Lucknow"
+          alt="Retail Franchise under 15 Lakh in Lucknow"
           className="w-full h-full object-cover object-center"
         />
         {/* Gradient Overlay for better text readability */}

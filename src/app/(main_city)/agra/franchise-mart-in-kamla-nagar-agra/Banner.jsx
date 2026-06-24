@@ -8,7 +8,7 @@ export default function Banner() {
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src="https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776671502/buyzaar-mart_ti8h8h.png"
-          alt="  FMCG Retail Franchise in Lucknow"
+          alt="  Franchise Mart in Kamla Nagar Agra"
           className="w-full h-full object-cover object-center"
         />
         {/* Gradient Overlay for better text readability */}
@@ -18,7 +18,7 @@ export default function Banner() {
       <div className="relative z-20 flex items-center justify-center h-full px-4">
         <div className="text-center text-white max-w-5xl mt-18">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-serif font-medium tracking-wide capitalize mb-4 md:mb-6 leading-tight">
-           FMCG Retail Franchise in Lucknow
+           Franchise Mart in Kamla Nagar Agra
             </h1>
         </div>
       </div>

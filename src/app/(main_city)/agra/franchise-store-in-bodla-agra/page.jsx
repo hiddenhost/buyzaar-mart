@@ -20,13 +20,13 @@ export const metadata = {
     "grocery store franchise Agra UP",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/agra/franchise-store-opportunity-in-sikandra",
+    canonical: "https://www.thebuyzaarmart.com/agra/franchise-store-in-bodla-agra",
   },
   openGraph: {
     title: "Franchise Store Opportunity in Sikandra, Agra | Buyzaar Mart",
     description:
       "Explore a franchise store opportunity in Sikandra, Agra with Buyzaar Mart. Low investment, POS billing & full brand support. MiniMart & SuperMart formats. Enquire now!",
-    url: "https://www.thebuyzaarmart.com/agra/franchise-store-opportunity-in-sikandra",
+    url: "https://www.thebuyzaarmart.com/agra/franchise-store-in-bodla-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

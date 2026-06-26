@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Open a Buyzaar Mart Franchise Store in Bodla, Agra | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers franchise store opportunities in Bodla, Agra, with MiniMart and SuperMart formats, FOCM support, inventory assurance, POS billing, and hyper-local marketing.",
-  url: "https://www.thebuyzaarmart.com/agra/franchise-store-bodla-agra",
+  url: "https://www.thebuyzaarmart.com/agra/franchise-store-in-bodla-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {

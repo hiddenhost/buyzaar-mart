@@ -3,7 +3,7 @@ import Content from "./Content";
 
 export const metadata = {
   // ✅ TITLE
-  title: "Supermarket Franchise in Agra | Buyzaar Mart",
+  title: "Supermarket Franchise in Agra |  Buyzaar Mart",
 
   // ✅ DESCRIPTION
   description:

@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "FOCM Franchise in Varanasi | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers FOCM franchise opportunities in Varanasi with Mini Mart, Standard Store, and Super Store formats, company-managed retail operations, centralized procurement, technology-enabled billing, and full franchise support.",
-  url: "https://www.thebuyzaarmart.com/varanasi/foco-franchise-varanasi",
+  url: "https://www.thebuyzaarmart.com/varanasi/focm-franchise-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -247,9 +247,7 @@ const Content = () => {
 
             <p>
               The FOCM model has been designed with a specific investor profile in mind. It works best for salaried professionals and government employees, retired individuals and senior investors, property owners with vacant commercial space, businessmen looking to diversify, NRI investors with roots in Varanasi, and first-time entrepreneurs.
-            </p>
 
-            <p>
               Each of these profiles benefits from the same core advantage: ownership without daily operational responsibility.
             </p>
 
@@ -259,13 +257,9 @@ const Content = () => {
 
             <p>
               Grocery and FMCG retail is a high-frequency, low-ticket, high-volume business. The strength of this category lies in the repeatability of demand — people buy groceries every week, every month, throughout the year.
-            </p>
 
-            <p>
               Under the FOCM model, returns are driven by consistent daily footfall, high basket size, repeat customer behavior, margin stability ensured through centralized procurement and pricing, and festival and seasonal campaigns that spike revenue during Varanasi&apos;s active festive calendar.
-            </p>
 
-            <p>
               Detailed ROI timelines and return projections based on specific store formats and Varanasi localities are provided during the franchise onboarding discussion.
             </p>
 

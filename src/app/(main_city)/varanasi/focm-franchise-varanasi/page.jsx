@@ -19,13 +19,13 @@ export const metadata = {
     "FMCG franchise Varanasi UP",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/varanasi/foco-franchise-varanasi",
+    canonical: "https://www.thebuyzaarmart.com/varanasi/focm-franchise-varanasi",
   },
   openGraph: {
     title: "FOCM Franchise in Varanasi | The Buyzaar Mart Franchise Owned Company Managed Model",
     description:
       "Invest in a FOCM franchise in Varanasi with The Buyzaar Mart. Franchise Owned, Company Managed model means you own the business while we run it. Low risk, high returns. Enquire now.",
-    url: "https://www.thebuyzaarmart.com/varanasi/foco-franchise-varanasi",
+    url: "https://www.thebuyzaarmart.com/varanasi/focm-franchise-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
       {

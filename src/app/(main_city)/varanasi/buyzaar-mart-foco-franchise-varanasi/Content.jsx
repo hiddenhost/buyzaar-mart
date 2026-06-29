@@ -270,17 +270,6 @@ const Content = () => {
               <li>Varanasi Cantonment — government employees and stable income households with consistent demand.</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Returns from a Buyzaar Mart FOCO Franchise in Varanasi
-            </h2>
-
-            <p>
-              The FOCO model generates returns for the franchise partner through a revenue-sharing arrangement or fixed return structure defined in the franchise agreement. Because the company operates the store professionally, revenue consistency is significantly higher than a self-operated store that depends entirely on the owner&apos;s involvement.
-            </p>
-
-            <p>
-              Key factors driving profitability of a Buyzaar Mart FOCO outlet in Varanasi include high purchase frequency, growing catchment, festival demand spikes, brand loyalty, and operational efficiency.
-            </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Who Should Apply for a Buyzaar Mart FOCO Franchise in Varanasi?

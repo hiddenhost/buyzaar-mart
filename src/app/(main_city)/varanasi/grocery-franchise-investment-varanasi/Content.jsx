@@ -171,9 +171,7 @@ const Content = () => {
 
             <p>
               The Buyzaar Mart is a fast-growing FMCG retail franchise brand headquartered in Noida, Uttar Pradesh. The brand operates on the FOCM (Franchise Owned, Company Managed) model — a business structure specifically designed to protect franchise partners from operational complexity while maximizing their return on investment.
-            </p>
 
-            <p>
               The Buyzaar Mart franchise stores offer customers a wide range of everyday essentials including packaged food and grocery staples, personal care and hygiene products, household cleaning supplies, beverages and health drinks, baby care and wellness products, and dairy and fresh products where applicable.
             </p>
 
@@ -187,9 +185,7 @@ const Content = () => {
 
             <p>
               One of the biggest challenges for a new business owner is day-to-day operations. Hiring staff, managing inventory, setting pricing, and coordinating vendors can overwhelm even the most motivated entrepreneur.
-            </p>
 
-            <p>
               The Buyzaar Mart&apos;s FOCM model takes these challenges off the franchise partner&apos;s plate. You invest in the store setup, space, and franchise fee. The company manages staffing, inventory, vendor relationships, billing systems, and promotions. You earn a fixed return or revenue share based on store performance.
 
               This makes The Buyzaar Mart franchise ideal for investors who want to own a business without getting buried in daily management.

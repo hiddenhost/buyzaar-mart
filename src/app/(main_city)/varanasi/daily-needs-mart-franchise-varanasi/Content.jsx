@@ -147,17 +147,13 @@ const Content = () => {
 
             <p>
               Varanasi&apos;s residential expansion continues across areas like Sigra, Lanka, Mahmoorganj, Sundarpur, and the Cantonment belt. As these neighbourhoods grow, the demand for dependable, everyday retail grows alongside them.
-            </p>
-
-            <p>
+ 
               Yet much of this demand is still served by small, unorganized kirana stores that struggle with inconsistent stock, informal pricing, and limited hygiene standards.
             </p>
 
             <p>
               A daily needs mart addresses this gap directly by offering residents a reliable alternative — one where the products they need are consistently available, fairly priced, and presented in a clean, organized environment.
-            </p>
 
-            <p>
               Because daily needs retail is not dependent on occasional big-ticket purchases, even a modestly sized store can generate steady revenue simply by serving its surrounding community well.
             </p>
 
@@ -192,9 +188,7 @@ const Content = () => {
 
             <p>
               It also reduces vulnerability to seasonal sales fluctuations compared to categories like fashion or electronics. Inventory turnover becomes more predictable, and steady cash flow becomes easier to build once the store establishes its local customer routine.
-            </p>
-
-            <p>
+            
               This predictability is especially valuable for first-time entrepreneurs who want a business model that does not require constant adaptation to external market shifts.
             </p>
 
@@ -224,9 +218,7 @@ const Content = () => {
 
             <p>
               A daily needs mart generally requires a moderate, manageable investment, scaled to fit the recurring-purchase nature of the business. Typical components include commercial space ranging from approximately 600 to 8,000 square feet, interior setup, initial inventory, POS billing hardware and software, franchise fees, and working capital.
-            </p>
-
-            <p>
+ 
               Because the format relies on consistent, smaller transactions rather than occasional large purchases, the investment is generally structured to support steady, gradual revenue growth rather than rapid, high-volume sales spikes.
             </p>
 
@@ -255,9 +247,7 @@ const Content = () => {
 
             <p>
               Opening a daily needs mart franchise generally follows a structured but efficient process: initial inquiry, feasibility assessment, franchise agreement, and store setup.
-            </p>
 
-            <p>
               Because the product range and store size are relatively focused, this format tends to move from inquiry to launch faster than larger, more complex retail formats.
             </p>
 
@@ -267,9 +257,7 @@ const Content = () => {
 
             <p>
               Given the frequency of customer visits, staffing for a daily needs mart should prioritize consistency and reliability. Typical staffing needs include one or two billing staff trained on POS operations and occasional part-time support for restocking high-turnover items.
-            </p>
 
-            <p>
               The Buyzaar Mart generally provides training covering billing procedures and customer service standards, helping ensure a dependable shopping experience for regular customers.
             </p>
 
@@ -319,9 +307,7 @@ const Content = () => {
 
             <p>
               As Varanasi&apos;s residential neighbourhoods continue to grow, the demand for dependable daily needs retail is unlikely to slow down. Unlike business categories tied to discretionary or seasonal spending, daily essentials remain a consistent part of household budgets regardless of broader economic conditions.
-            </p>
 
-            <p>
               This makes a daily needs mart franchise a comparatively resilient choice for entrepreneurs seeking long-term business stability.
             </p>
 

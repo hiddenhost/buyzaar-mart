@@ -131,9 +131,7 @@ const Content = () => {
 
             <p>
               The Buyzaar Mart Mini Mart is a small-format retail outlet operating under The Buyzaar Mart brand, one of the fastest-growing FMCG franchise chains in Uttar Pradesh. Unlike large supermarkets that require significant travel and time, the Mini Mart format is strategically placed within walking distance of residential clusters.
-            </p>
-
-            <p>
+            
               The Mini Mart format is designed to serve a very specific and important purpose: give every Varanasi household a clean, trusted, well-stocked grocery option within their immediate neighbourhood.
             </p>
 
@@ -169,9 +167,7 @@ const Content = () => {
 
             <p>
               Varanasi has traditionally been served by a network of small kirana stores. While these stores have served communities for generations, they come with limitations such as limited product variety, inconsistent stock, no standardised pricing, and often a less-than-ideal shopping environment.
-            </p>
 
-            <p>
               The Buyzaar Mart Mini Mart addresses each of these gaps through an organized and clean store environment, consistent product availability, transparent pricing, proximity and convenience, and trusted brand quality.
             </p>
 
@@ -205,9 +201,7 @@ const Content = () => {
 
             <p>
               Walking into a Buyzaar Mart Mini Mart in Varanasi is a noticeably different experience compared to a typical neighbourhood kirana. Customers can expect quick entry and navigation, standardised shelving, helpful store staff, digital billing and receipts, and regular promotions and offers.
-            </p>
 
-            <p>
               Compact store layout means you can locate and pick your items in minutes, without long aisles or wasted time. Products are categorised and shelved in consistent sections so even first-time visitors can shop with ease.
             </p>
 
@@ -220,10 +214,8 @@ const Content = () => {
             </h2>
 
             <p>
-              If you are a property owner or investor in Varanasi looking for a productive way to use a small commercial space, the Buyzaar Mart Mini Mart franchise format is worth exploring. The Mini Mart format has a relatively low space requirement, starting from as little as 300 square feet, making it one of the most accessible franchise formats in the organised grocery retail space.
-            </p>
+              If you are a property owner or investor in Varanasi looking for a productive way to use a small commercial space, the Buyzaar Mart Mini Mart franchise format is worth exploring. The Mini Mart format has a relatively low space requirement, starting from as little as 600 square feet, making it one of the most accessible franchise formats in the organised grocery retail space.
 
-            <p>
               Under The Buyzaar Mart&apos;s FOCM model — Franchise Owned, Company Managed — you invest in the space and setup while the company handles complete store operations such as staffing, inventory, billing, and customer management.
             </p>
 

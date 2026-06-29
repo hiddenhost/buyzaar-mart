@@ -1,0 +1,251 @@
+import React from "react";
+import Link from "next/link";
+import { citiesData } from "@/data/citiesData";
+import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
+
+export default function VaranasiContent() {
+  return (
+    <div className="bg-white">
+      <div className="bg-gradient-to-br from-green-50 to-emerald-50 p-8">
+        <div className="mx-auto max-w-6xl">
+          <div className="mb-4 mt-30 flex items-center justify-center">
+            <svg
+              className="mr-3 h-8 w-8 text-green-600"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+              />
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+              />
+            </svg>
+            <span className="text-lg font-semibold text-green-600">
+              Prayagraj
+            </span>
+          </div>
+
+          <h1 className="mb-4 text-center font-serif text-3xl font-medium md:text-5xl">
+            Buyzaar Mart Franchise Opportunity in Prayagraj
+          </h1>
+
+          <p className="mx-auto mb-6 max-w-7xl text-center text-lg leading-relaxed text-gray-700">
+            Own a high-growth supermarket franchise in Prayagraj and serve one
+            of Uttar Pradesh&apos;s most important urban retail markets. Tap
+            into strong daily grocery demand with Buyzaar Mart&apos;s proven
+            FOCM and FOCO franchise models and build a dependable monthly income
+            through organised neighbourhood retail.
+          </p>
+
+          <div className="flex justify-center">
+            <Link
+              href="/franchise"
+              className="rounded-lg bg-green-600 px-8 py-4 text-lg font-semibold text-white shadow-lg transition-all duration-300 hover:bg-green-700 hover:shadow-xl"
+            >
+              Apply for Franchise
+            </Link>
+          </div>
+        </div>
+      </div>
+
+      <div className="mx-auto max-w-9xl px-8 py-12">
+        <div className="flex flex-col gap-8 lg:flex-row">
+          <div className="order-1 flex-1 lg:order-1">
+            <div className="prose prose-lg max-w-none">
+              <h2 className="mb-4 text-2xl font-serif font-semibold">
+                Why Prayagraj Is a Strong City to Open a Supermarket Franchise
+              </h2>
+              <p className="mb-6 leading-relaxed text-gray-700">
+                Prayagraj is one of Uttar Pradesh&apos;s major urban centres,
+                with a large residential population, strong local commerce, and
+                steady demand for daily essentials across both long-established
+                and newly developing neighbourhoods. From family housing
+                clusters and apartment zones to mixed-use roads and busy local
+                markets, the city offers dependable consumption demand for
+                groceries, dairy, packaged foods, home-care products, and
+                personal care items. A Buyzaar Mart franchise in Prayagraj gives
+                investors an opportunity to enter a stable everyday-retail
+                market with scalable ownership models suited to both active and
+                passive franchise partners.
+              </p>
+
+              <h3 className="mb-3 text-xl font-serif font-semibold">
+                Prayagraj&apos;s Daily Needs Retail Market Has Strong Local
+                Potential
+              </h3>
+              <p className="mb-6 leading-relaxed text-gray-700">
+                Prayagraj&apos;s grocery market continues to be supported by a
+                large base of daily household buyers, but much of the market is
+                still fragmented across unorganised kirana outlets. At the same
+                time, customer expectations are shifting toward cleaner stores,
+                transparent pricing, digital billing, wider assortments, and
+                better shopping convenience. A well-positioned Buyzaar Mart
+                franchise in Prayagraj can capture recurring neighbourhood
+                demand, generate repeat footfall, and build long-term customer
+                trust through reliable value-driven supermarket retail.
+              </p>
+
+              <h3 className="mb-3 text-xl font-serif font-semibold">
+                Two Franchise Models — Choose Your Preferred Role
+              </h3>
+              <p className="mb-6 leading-relaxed text-gray-700">
+                The Buyzaar Mart franchise in Prayagraj is available under two
+                ownership models, allowing you to choose how actively you want
+                to participate in the business.
+                <br />
+                <br />
+                Under the <strong>FOCM model (Franchise Owned, Company Managed)</strong>,
+                you own the franchise while Buyzaar Mart manages the day-to-day
+                store setup, procurement, staffing, branding, operations, and
+                monitoring through a structured business system. This works well
+                for investors who want ownership with strategic oversight but do
+                not want to personally manage the store floor every day.
+                <br />
+                <br />
+                Under the <strong>FOCO model (Franchise Owned, Company Operated)</strong>,
+                Buyzaar Mart handles the complete end-to-end operation of the
+                outlet on your behalf. This model is suitable for passive
+                investors, NRIs, professionals, and business owners who want to
+                build a retail income stream without regular involvement in
+                operations.
+              </p>
+
+              <h3 className="mb-3 text-xl font-serif font-semibold">
+                Investment Formats for Different Prayagraj Locations
+              </h3>
+              <p className="mb-6 leading-relaxed text-gray-700">
+                Buyzaar Mart offers three scalable formats to match different
+                locality sizes, property types, and investment capacities in
+                Prayagraj. The <strong>Mini Mart format (600–1,000 sq.ft)</strong>{" "}
+                is suitable for residential market pockets, colony-front
+                commercial shops, and compact neighbourhood demand zones with an
+                investment of <strong>₹15,25,000</strong>. The{" "}
+                <strong>Super Mart format (1,001–3,000 sq.ft)</strong> fits
+                larger roads, mixed residential-commercial markets, and busier
+                urban clusters at an investment of{" "}
+                <strong>₹26,63,407</strong>. The{" "}
+                <strong>Hyper Mart format (3,001–8,000 sq.ft)</strong> is ideal
+                for high-footfall main roads and large-format retail spaces at
+                an investment of <strong>₹78,89,960</strong>, offering the
+                broadest assortment and strongest revenue upside.
+                <br />
+                <br />
+                Franchise partners can also benefit from additional earnings
+                through private label sales, supplier promotions, in-store
+                display branding, customer loyalty programmes, and digital
+                transaction-based revenue support, helping improve total return
+                on investment.
+              </p>
+
+              <h3 className="mb-3 text-xl font-serif font-semibold">
+                Best Areas in Prayagraj for a Buyzaar Mart Franchise
+              </h3>
+              <p className="mb-6 leading-relaxed text-gray-700">
+                Prayagraj offers multiple promising franchise zones across
+                residential, semi-commercial, and emerging urban areas.
+                Locations with strong potential include Civil Lines, Tagore
+                Town, Naini, Jhunsi, Phaphamau, and other growing neighbourhood
+                markets with regular family footfall and visible demand for
+                organised retail. Colony-facing shops, mixed-use roads, and
+                residential connectors are strong opportunities for Mini Mart
+                and Super Mart formats, while larger roadside properties in
+                high-movement corridors can support Hyper Mart expansion.
+              </p>
+
+              <h3 className="mb-3 text-xl font-serif font-semibold">
+                Technology-Led Operations for Better Retail Performance
+              </h3>
+              <p className="mb-6 leading-relaxed text-gray-700">
+                Every Buyzaar Mart franchise in Prayagraj is supported by an
+                integrated retail technology ecosystem that improves operational
+                control and store performance. The business uses cloud-enabled
+                POS billing, inventory monitoring, demand forecasting, GST-ready
+                reporting, and centralised sales performance tracking to reduce
+                waste and improve decision-making. Franchise owners receive
+                structured reporting and access to key operational insights,
+                while the company&apos;s supply and replenishment systems help
+                maintain strong availability across daily-needs categories.
+              </p>
+
+              <h3 className="mb-3 text-xl font-serif font-semibold">
+                Local Marketing Support for Faster Market Capture
+              </h3>
+              <p className="leading-relaxed text-gray-700">
+                Buyzaar Mart supports Prayagraj franchise partners with launch
+                and ongoing marketing designed to build neighbourhood trust and
+                repeat customer behaviour. This includes local area promotions,
+                printed campaign material, store branding, digital creatives,
+                social media visibility, geo-targeted campaigns, and SEO
+                support for location-based searches such as &ldquo;supermarket
+                near me.&rdquo; Grand opening promotion, festival offers, and
+                community-focused activations help new stores gain early
+                traction and build long-term customer loyalty in the Prayagraj
+                market.
+              </p>
+            </div>
+          </div>
+
+          <div className="order-2 w-full p-8 lg:order-2 lg:w-[400px] xl:w-[500px]">
+            <div className="lg:sticky lg:top-28">
+              <FranchiseEnquiryForm />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="bg-gray-50 py-12">
+        <div className="mx-auto max-w-7xl px-8">
+          <h2 className="mb-3 text-center font-serif text-4xl font-medium">
+            Franchise Opportunities in Other Cities
+          </h2>
+          <p className="mx-auto mb-8 max-w-3xl text-center text-gray-600">
+            Explore franchise opportunities across Uttar Pradesh and NCR
+          </p>
+
+          <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+            {citiesData.map((city, index) => (
+              <Link key={index} href={`/cities/${city.slug}`} className="group">
+                <div className="flex items-start gap-3 rounded-lg p-4 transition-colors hover:bg-white">
+                  <svg
+                    className="mt-1 h-5 w-5 flex-shrink-0 text-green-600 transition-transform duration-300 group-hover:scale-110"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M12 11c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3z"
+                    />
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M12 21c4.418-4.418 7-7.582 7-11a7 7 0 10-14 0c0 3.418 2.582 6.582 7 11z"
+                    />
+                  </svg>
+
+                  <div>
+                    <h3 className="font-serif text-lg font-medium text-gray-900 transition-colors duration-300 group-hover:text-green-600">
+                      {city.name} Franchise
+                    </h3>
+                    <p className="text-sm text-gray-500">View details →</p>
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

@@ -178,17 +178,17 @@ const Content = () => {
               Store Formats — Choose What Fits Your Location
             </h2>
 
-            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <h3 className="font-medium text-gray-900">Mini Mart (600-1000 sqft):</h3>
             <p>
               Compact store format designed for residential colonies, housing societies, and neighborhood pockets. Lower setup investment and smaller space requirement with a focused SKU range covering daily essentials — staples, packaged foods, personal care, and dairy. Faster breakeven due to lower operational costs. Best suited for areas like Tagore Town, Colonyganj, Mumfordganj, and similar residential pockets in Prayagraj.
             </p>
 
-            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <h3 className="font-medium text-gray-900">Super Mart (1000-3000 sqft): </h3>
             <p>
               Mid-size format for market-facing and semi-commercial locations. Broader product range including FMCG, beverages, snacks, household items, and more. Suitable for locations with moderate daily footfall such as main roads, market areas, and mixed residential-commercial zones. A good balance between investment size and revenue potential.
             </p>
 
-            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <h3 className="font-medium text-gray-900">Hyper Mart (3000-8000 sqft):</h3>
             <p>
               Large-format store for high-footfall commercial locations. Maximum product width — covers everything from staples and fresh produce to personal care, home care, and packaged foods. Designed to serve as a one-stop grocery destination for an entire neighborhood or market area. Suitable for prime locations like Civil Lines, George Town, Naini industrial belt, or major arterial roads in Prayagraj. Higher investment but also significantly higher revenue potential and brand visibility.
             </p>

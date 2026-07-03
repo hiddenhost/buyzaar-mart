@@ -192,7 +192,7 @@ const Content = () => {
               Choosing the Right Store Format
             </h2>
 
-            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <h3 className="font-medium text-gray-900">Mini Mart (600-1000 sqft):</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Best starting point for first-time franchise owners.</li>
               <li>Suited for residential colony shops and neighbourhood-facing locations like Tagore Town, Colonyganj, or Allahpur.</li>
@@ -200,7 +200,7 @@ const Content = () => {
               <li>Covers daily essentials — staples, dairy, packaged foods, personal care.</li>
             </ul>
 
-            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <h3 className="font-medium text-gray-900">Super Mart (1000-3000 sqft):</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Mid-size format suited for busier market roads or colony chowks.</li>
               <li>Locations like Naini or George Town offer strong footfall for this format.</li>
@@ -208,7 +208,7 @@ const Content = () => {
               <li>Suited for housewives with a larger investment capacity or family support for a bigger venture.</li>
             </ul>
 
-            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <h3 className="font-medium text-gray-900">Hyper Mart (3000-8000 sqft):</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Large-format store for high-traffic commercial zones.</li>
               <li>Suited for premium areas like Civil Lines or developing belts in Jhusi.</li>

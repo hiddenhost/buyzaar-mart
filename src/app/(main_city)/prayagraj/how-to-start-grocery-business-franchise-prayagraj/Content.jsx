@@ -186,17 +186,17 @@ const Content = () => {
               The Buyzaar Mart offers three formats based on your investment capacity and the type of location you have access to.
             </p>
 
-            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <h3 className="font-medium text-gray-900">Mini Mart (600-1000 sqft)</h3>
             <p>
               Mini Mart is the entry-level format, ideal for residential colony shops and society-level commercial units. It suits locations like Tagore Town, Colonyganj, or Allahpur, where steady neighborhood footfall supports a focused range of daily essentials. This format has the lowest investment requirement and the fastest breakeven timeline, making it the natural starting point for most first-time franchisees.
             </p>
 
-            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <h3 className="font-medium text-gray-900">Super Mart (1000-3000 sqft)</h3>
             <p>
               Super Mart is a mid-tier format suited for main market roads, colony chowks, and busier commercial pockets. Locations like Naini or George Town main markets work well here, offering a wider product range and higher daily transaction volume compared to the Mini Mart format.
             </p>
 
-            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <h3 className="font-medium text-gray-900">Hyper Mart (3000-8000 sqft) </h3>
             <p>
               Hyper Mart is the full-size format for high-traffic commercial zones and premium residential areas. Locations near Civil Lines or developing belts in Jhusi and Phaphamau suit this format, where the larger investment is offset by significantly higher revenue potential and a much broader product range to serve as a complete neighborhood shopping destination.
             </p>

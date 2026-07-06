@@ -224,7 +224,6 @@ const Content = () => {
             </ul>
 
             <p>
-              These figures are based on Buyzaar Mart&apos;s published investment calculator and may vary, so exact figures should be confirmed with the franchise team for your specific site.
 
               Choosing between the two formats largely comes down to plot availability and the specific stretch of the road being considered.
 

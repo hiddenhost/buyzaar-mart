@@ -229,7 +229,6 @@ const Content = () => {
             <p>
               Overall, across all three formats, the investment range spans roughly ₹15.25 lakhs to ₹78.89 lakhs and above, and the area requirement ranges from 600 sq. ft. to 8,000 sq. ft., depending on the format chosen.
 
-              These figures are based on Buyzaar Mart&apos;s published investment calculator and may vary — confirm exact figures with the franchise team for your specific location and store size.
             </p>
 
             <p>

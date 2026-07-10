@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Why Delhi's Residential Localities Are Ideal for a Grocery Franchise | Buyzaar Mart",
   description:
     "Buyzaar Mart offers a grocery franchise opportunity in Delhi residential localities with FOCO and FOCM models, brand support, operational guidance, supply chain access, and a structured store format.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/franchise-grocery-store-in-residential-area-delhi",
+  url: "https://www.thebuyzaarmart.com/delhi/franchise-grocery-store-in-residential-area-delhi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -369,7 +369,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="delhi"
-            currentSlug="/delhi-ncr/franchise-grocery-store-in-residential-area-delhi"
+            currentSlug="/delhi/franchise-grocery-store-in-residential-area-delhi"
           />
         </div>
 

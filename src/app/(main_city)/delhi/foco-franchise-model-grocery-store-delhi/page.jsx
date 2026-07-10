@@ -20,13 +20,13 @@ export const metadata = {
     "company operated store NCR",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/foco-franchise-model-grocery-store-delhi",
+    canonical: "https://www.thebuyzaarmart.com/delhi/foco-franchise-model-grocery-store-delhi",
   },
   openGraph: {
     title: "FOCO Franchise Model Grocery Store in Delhi NCR | Buyzaar Mart",
     description:
       "Explore the FOCO franchise model for a grocery store across Delhi NCR with Buyzaar Mart. Passive investment, professional operations, steady returns. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/foco-franchise-model-grocery-store-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/foco-franchise-model-grocery-store-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

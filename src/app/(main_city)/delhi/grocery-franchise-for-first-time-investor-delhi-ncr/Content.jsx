@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Franchise for First-Time Investors in Delhi NCR | Buyzaar Mart",
   description:
     "Buyzaar Mart offers grocery franchise opportunities in Delhi NCR for first-time investors with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/grocery-franchise-for-first-time-investors-delhi-ncr",
+  url: "https://www.thebuyzaarmart.com/delhi/grocery-franchise-for-first-time-investor-delhi-ncr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -366,19 +366,6 @@ const Content = () => {
                 </p>
               </div>
 
-              <div>
-                <h3 className="font-medium text-gray-900">9. Is rental cost included in the investment figures?</h3>
-                <p className="mt-2">
-                  No, rental/lease cost is separate and varies by location within Delhi NCR.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-medium text-gray-900">10. How can I start the franchise application process?</h3>
-                <p className="mt-2">
-                  Contact the Buyzaar Mart team directly through their official enquiry channels to begin your franchise journey.
-                </p>
-              </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
@@ -422,7 +409,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="delhi-ncr"
-            currentSlug="/delhi-ncr/grocery-franchise-for-first-time-investors-delhi-ncr"
+            currentSlug="/delhi/grocery-franchise-for-first-time-investor-delhi-ncr"
           />
         </div>
 

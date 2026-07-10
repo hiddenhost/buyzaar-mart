@@ -1,3 +1,7 @@
+import Banner from "./Banner";
+import Content from "./Content";
+import Services from "@/app/components/Services";
+
 export const metadata = {
   title: "Grocery Franchise Opportunity in Noida | Buyzaar Mart",
   description:
@@ -15,13 +19,13 @@ export const metadata = {
     "franchise store setup Noida",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/grocery-franchise-opportunity-in-noida",
+    canonical: "https://www.thebuyzaarmart.com/delhi/grocery-franchise-opportunity-in-noida",
   },
   openGraph: {
     title: "Grocery Franchise Opportunity in Noida | Buyzaar Mart",
     description:
       "Explore a grocery franchise opportunity in Noida with Buyzaar Mart. Learn about benefits, store formats, investment, and how to apply today.'s growing market.",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/grocery-franchise-opportunity-in-noida",
+    url: "https://www.thebuyzaarmart.com/delhi/grocery-franchise-opportunity-in-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {
@@ -45,3 +49,13 @@ export const metadata = {
     icon: "/images/buyzaar-logo.png",
   },
 };
+
+export default function Page() {
+  return (
+    <>
+      <Banner />
+      <Content />
+      <Services />
+    </>
+  );
+}

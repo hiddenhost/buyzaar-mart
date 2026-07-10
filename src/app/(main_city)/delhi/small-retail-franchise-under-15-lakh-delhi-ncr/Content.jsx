@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Budget Retail Franchise in Delhi NCR | Buyzaar Mart",
   description:
     "Buyzaar Mart offers budget retail franchise opportunities under 15 lakh in Delhi NCR with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/budget-retail-franchise-under-15-lakh",
+  url: "https://www.thebuyzaarmart.com/delhi/small-retail-franchise-under-15-lakh-delhi-ncr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -248,7 +248,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Setting up a retail store under this budget typically requires a commercial space of around 600 to 1000 sq. ft., ideally located in a residential or mixed-use area with steady footfall. The investment generally covers interior setup, initial inventory stocking, signage, basic refrigeration equipment, and billing counter installation.
+              Setting up a retail store under this budget typically requires a commercial space of around 600 to 8000 sq. ft., ideally located in a residential or mixed-use area with steady footfall. The investment generally covers interior setup, initial inventory stocking, signage, basic refrigeration equipment, and billing counter installation.
             </p>
 
             <p>
@@ -412,7 +412,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="delhi-ncr"
-            currentSlug="/delhi-ncr/small-retail-franchise-under-15-lakh-delhi-ncr"
+            currentSlug="/delhi/small-retail-franchise-under-15-lakh-delhi-ncr"
           />
         </div>
 

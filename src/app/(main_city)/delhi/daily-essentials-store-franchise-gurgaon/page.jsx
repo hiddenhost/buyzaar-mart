@@ -20,13 +20,13 @@ export const metadata = {
     "franchise store setup Gurgaon",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/daily-essentials-store-franchise-gurgaon",
+    canonical: "https://www.thebuyzaarmart.com/delhi/daily-essentials-store-franchise-gurgaon",
   },
   openGraph: {
     title: "Daily Essentials Store Franchise in Gurgaon | Buyzaar Mart",
     description:
       "Start a daily essentials store franchise with Buyzaar Mart in Gurgaon. Explore benefits, investment options, store formats, and the application process today.",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/daily-essentials-store-franchise-gurgaon",
+    url: "https://www.thebuyzaarmart.com/delhi/daily-essentials-store-franchise-gurgaon",
     siteName: "The Buyzaar Mart",
     images: [
       {

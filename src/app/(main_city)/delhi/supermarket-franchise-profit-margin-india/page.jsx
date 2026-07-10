@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/delhi-ncr/supermarket-franchise-profit-margin-india",
+      "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-profit-margin-india",
   },
   openGraph: {
     title: "Supermarket Franchise Profit Margin in India | Buyzaar Mart",
     description:
       "Understand supermarket franchise profit margins in India with Buyzaar Mart. Learn about margin factors, investment options, and tips to boost profitability.",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/supermarket-franchise-profit-margin-india ",
+    url: "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-profit-margin-india ",
     siteName: "The Buyzaar Mart",
     images: [
       {

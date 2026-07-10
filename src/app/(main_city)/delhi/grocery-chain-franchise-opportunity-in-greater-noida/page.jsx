@@ -20,13 +20,13 @@ export const metadata = {
     "franchise expansion Greater Noida",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/grocery-chain-franchise-opportunity-in-greater-noida",
+    canonical: "https://www.thebuyzaarmart.com/delhi/grocery-chain-franchise-opportunity-in-greater-noida",
   },
   openGraph: {
     title: "Grocery Chain Franchise Opportunity in Greater Noida | Buyzaar Mart",
     description:
       "Explore a scalable grocery chain franchise opportunity in Greater Noida with Buyzaar Mart. Multiple formats, brand support, strong growth potential. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/grocery-chain-franchise-opportunity-in-greater-noida",
+    url: "https://www.thebuyzaarmart.com/delhi/grocery-chain-franchise-opportunity-in-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -20,13 +20,13 @@ export const metadata = {
     "FMCG store franchise",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/fmcg-retail-franchise-opportunity-in-delhi",
+    canonical: "https://www.thebuyzaarmart.com/delhi/fmcg-retail-franchise-opportunity-in-delhi",
   },
   openGraph: {
     title: "FMCG Retail Franchise Opportunity in Delhi | Buyzaar Mart",
     description:
       "Explore an FMCG retail franchise opportunity in Delhi with Buyzaar Mart. Investment options from Mini Mart to Hyper Mart. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/fmcg-retail-franchise-opportunity-in-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/fmcg-retail-franchise-opportunity-in-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

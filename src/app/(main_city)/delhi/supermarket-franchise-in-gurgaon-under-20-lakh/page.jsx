@@ -20,13 +20,13 @@ export const metadata = {
     "Buyzaar Mart Mini Mart",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/supermarket-franchise-in-gurgaon-under-20-lakh",
+    canonical: "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-in-gurgaon-under-20-lakh",
   },
   openGraph: {
     title: "Supermarket Franchise in Gurgaon Under 20 Lakh | Buyzaar Mart",
     description:
       "Start a supermarket franchise in Gurgaon under 20 lakh with Buyzaar Mart. Low investment, brand support, and strong daily demand. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/supermarket-franchise-in-gurgaon-under-20-lakh",
+    url: "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-in-gurgaon-under-20-lakh",
     siteName: "The Buyzaar Mart",
     images: [
       {

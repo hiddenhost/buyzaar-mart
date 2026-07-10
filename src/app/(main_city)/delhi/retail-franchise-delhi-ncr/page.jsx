@@ -10,14 +10,14 @@ export const metadata = {
     "Looking for a retail franchise in Delhi-NCR? The Buyzaar Mart offers a proven grocery & supermarket franchise model starting from ₹15 Lakh. FOCM model, full support, POS & supply chain included. Apply now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/delhi-ncr/retail-franchise-delhi-ncr",
+      "https://www.thebuyzaarmart.com/delhi/retail-franchise-delhi-ncr",
   },
   openGraph: {
     title:
       "Retail Franchise Delhi-NCR | Grocery & Supermarket Franchise Opportunity – The Buyzaar Mart",
     description:
       "Looking for a retail franchise in Delhi-NCR? The Buyzaar Mart offers a proven grocery & supermarket franchise model starting from ₹15 Lakh. FOCM model, full support, POS & supply chain included. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/retail-franchise-delhi-ncr",
+    url: "https://www.thebuyzaarmart.com/delhi/retail-franchise-delhi-ncr",
     siteName: "The Buyzaar Mart",
     images: [
       {

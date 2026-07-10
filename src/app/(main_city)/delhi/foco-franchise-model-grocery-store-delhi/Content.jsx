@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "FOCO Grocery Franchise in Delhi NCR | Buyzaar Mart",
   description:
     "Buyzaar Mart offers FOCO grocery franchise opportunities across Delhi NCR with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/foco-franchise-model-grocery-store-delhi",
+  url: "https://www.thebuyzaarmart.com/delhi/foco-franchise-model-grocery-store-delhi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -401,7 +401,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="delhi-ncr"
-            currentSlug="/delhi-ncr/foco-franchise-model-grocery-store-delhi"
+            currentSlug="/delhi/foco-franchise-model-grocery-store-delhi"
           />
         </div>
 

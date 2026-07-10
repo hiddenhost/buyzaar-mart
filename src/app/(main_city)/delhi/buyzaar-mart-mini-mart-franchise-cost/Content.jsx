@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Buyzaar Mart Mini Mart Franchise Cost",
   description:
     "Complete breakdown of the Buyzaar Mart Mini Mart franchise cost, inclusions, exclusions, FAQs, and setup guidance.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/buyzaar-mart-mini-mart-franchise-cost",
+  url: "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-mini-mart-franchise-cost",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -369,20 +369,7 @@ const Content = () => {
                 <p className="mt-2">Yes, the security deposit is typically refundable as per the franchise agreement terms.</p>
               </div>
 
-              <div>
-                <h3 className="font-medium text-gray-900">8. What kind of locations suit a Mini Mart format?</h3>
-                <p className="mt-2">Standalone residential colonies, smaller societies, and compact neighbourhood markets are ideal.</p>
-              </div>
 
-              <div>
-                <h3 className="font-medium text-gray-900">9. How long does it take to set up a Mini Mart store?</h3>
-                <p className="mt-2">Setup timelines are generally shorter than larger formats, often ranging from a few weeks to about a month.</p>
-              </div>
-
-              <div>
-                <h3 className="font-medium text-gray-900">10. How can I get an exact cost estimate for my location?</h3>
-                <p className="mt-2">Use the investment calculator on the official Buyzaar Mart website or contact the franchise team directly for a precise breakdown.</p>
-              </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
@@ -424,7 +411,7 @@ const Content = () => {
             </div>
           </div>
 
-          <CityInternalLinks city="mini-mart" currentSlug="/delhi-ncr/buyzaar-mart-mini-mart-franchise-cost" />
+          <CityInternalLinks city="mini-mart" currentSlug="/delhi/buyzaar-mart-mini-mart-franchise-cost" />
         </div>
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">

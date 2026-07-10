@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Low Investment Mart Franchise in Delhi | Buyzaar Mart",
   description:
     "Buyzaar Mart offers low investment mart franchise opportunities in Delhi with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/mart-franchise-with-low-investment-in-delhi",
+  url: "https://www.thebuyzaarmart.com/delhi/mart-franchise-with-low-investment-in-delhi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -268,9 +268,7 @@ const Content = () => {
 
             <p>
               The process begins with submitting an inquiry through the official Buyzaar Mart franchise application channel, sharing your budget range and preferred location within Delhi. This is followed by an initial discussion with the franchise team to clarify investment requirements, timelines, and mutual expectations.
-            </p>
 
-            <p>
               A site evaluation is then conducted for the proposed location to confirm it meets footfall and demographic suitability for a compact store format. Once approved, the franchise agreement is finalized, covering terms, support structure, and ongoing responsibilities for both parties.
             </p>
 
@@ -296,9 +294,7 @@ const Content = () => {
 
             <p>
               This low investment format is well suited for first-time entrepreneurs who want to enter organized retail without a large capital commitment. It also appeals to working professionals in Delhi looking for a side business they can eventually scale into a full-time venture.
-            </p>
 
-            <p>
               Individuals who already own or can lease a small commercial space in a high-footfall Delhi locality may find this an efficient way to convert that asset into a revenue-generating business. Existing local kirana store owners looking to formalize and rebrand their business under an established name may also find this format a natural upgrade path.
             </p>
 
@@ -398,7 +394,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="delhi"
-            currentSlug="/delhi-ncr/mart-franchise-with-low-investment-in-delhi"
+            currentSlug="/delhi/mart-franchise-with-low-investment-in-delhi"
           />
         </div>
 

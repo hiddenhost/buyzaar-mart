@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Retail Store Franchise with Training Support in Delhi | Buyzaar Mart",
   description:
     "Buyzaar Mart offers a retail store franchise opportunity in Delhi with Mini Mart, Super Mart, and Hyper Mart formats, comprehensive training support, structured operations, and ongoing business guidance.",
-  url: "https://www.thebuyzaarmart.com/delhi/retail-store-franchise-with-training-support-in-delhi",
+  url: "https://www.thebuyzaarmart.com/delhi/retail-store-franchise-with-training-support-delhi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -163,9 +163,7 @@ const Content = () => {
 
             <p>
               For many first-time entrepreneurs, the biggest hesitation in starting a retail business isn&apos;t the investment — it&apos;s the lack of hands-on experience in running a store. This is where a franchise model with structured training support becomes invaluable. Buyzaar Mart offers a retail store franchise opportunity in Delhi that comes backed with comprehensive training, helping entrepreneurs confidently step into organised retail even without prior industry experience.
-            </p>
 
-            <p>
               Here&apos;s a complete, point-wise look at what this opportunity offers.
             </p>
 
@@ -201,17 +199,13 @@ const Content = () => {
 
             <p>
               Buyzaar Mart is an organised retail chain offering groceries, daily essentials, packaged foods, personal care, and household products through a standardised store format.
-            </p>
-            <p>
+
               The brand is built around delivering a supermarket-style shopping experience to residential and commercial neighbourhoods.
-            </p>
-            <p>
+
               Buyzaar Mart follows structured store layouts, inventory systems, and customer service protocols to ensure consistency across all franchise outlets.
-            </p>
-            <p>
+
               The franchise model is designed to support both first-time entrepreneurs and experienced retail investors.
-            </p>
-            <p>
+
               A strong emphasis is placed on training and operational guidance, making the brand particularly suitable for individuals new to the retail business.
             </p>
 
@@ -385,23 +379,7 @@ const Content = () => {
                 </p>
               </div>
 
-              <div>
-                <h3 className="font-medium text-gray-900">
-                  9. Does Buyzaar Mart help with technology setup?
-                </h3>
-                <p className="mt-2">
-                  Yes, training and support are provided for POS systems and inventory management tools.
-                </p>
-              </div>
 
-              <div>
-                <h3 className="font-medium text-gray-900">
-                  10. How can I start the franchise application process?
-                </h3>
-                <p className="mt-2">
-                  Contact the Buyzaar Mart team directly through their official enquiry channels to begin your franchise journey.
-                </p>
-              </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
@@ -443,7 +421,7 @@ const Content = () => {
             </div>
           </div>
 
-          <CityInternalLinks city="delhi" currentSlug="/delhi/retail-store-franchise-with-training-support-in-delhi" />
+          <CityInternalLinks city="delhi" currentSlug="/delhi/retail-store-franchise-with-training-support-delhi" />
         </div>
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">

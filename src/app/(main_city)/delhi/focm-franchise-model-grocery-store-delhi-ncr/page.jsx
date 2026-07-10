@@ -20,13 +20,13 @@ export const metadata = {
     "FOCM vs FOFO franchise",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/focm-franchise-model-grocery-store-delhi-ncr",
+    canonical: "https://www.thebuyzaarmart.com/delhi/focm-franchise-model-grocery-store-delhi-ncr",
   },
   openGraph: {
     title: "FOCM Franchise Model for Grocery Store in Delhi NCR | Buyzaar Mart",
     description:
       "Learn about the FOCM (Franchise Owned, Company Managed) grocery franchise model in Delhi NCR with Buyzaar Mart. Explore benefits, investment, and process.",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/focm-franchise-model-grocery-store-delhi-ncr",
+    url: "https://www.thebuyzaarmart.com/delhi/focm-franchise-model-grocery-store-delhi-ncr",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Neighbourhood Grocery Franchise in Noida | Buyzaar Mart",
   description:
     "Buyzaar Mart offers neighbourhood grocery franchise opportunities in Noida with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/neighbourhood-grocery-store-franchise-in-noida",
+  url: "https://www.thebuyzaarmart.com/delhi/neighbourhood-grocery-store-franchise-in-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -290,9 +290,7 @@ const Content = () => {
 
             <p>
               This format is well suited for individuals who already live in or are familiar with a specific Noida sector and want to serve that community directly. It also appeals to first-time entrepreneurs looking for a low-risk entry into organized retail with brand and operational support already in place.
-            </p>
 
-            <p>
               Residents who own or can lease a small commercial space within their own residential sector may find this an efficient way to convert that asset into a steady revenue-generating business. Existing local kirana store owners looking to formalize and rebrand their business under an established name may also find this format a natural upgrade path.
             </p>
 
@@ -304,7 +302,7 @@ const Content = () => {
               <div>
                 <h3 className="font-medium text-gray-900">How much space is required for a neighbourhood grocery store franchise?</h3>
                 <p className="mt-2">
-                  Approximately 600 to 1000 sq. ft. of commercial retail space is required for this format.
+                  Approximately 600 to 8000 sq. ft. of commercial retail space is required for this format.
                 </p>
               </div>
 
@@ -392,7 +390,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="noida"
-            currentSlug="/delhi-ncr/neighbourhood-grocery-store-franchise-in-noida"
+            currentSlug="/delhi/neighbourhood-grocery-store-franchise-in-noida"
           />
         </div>
 

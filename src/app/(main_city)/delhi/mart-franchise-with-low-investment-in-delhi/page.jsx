@@ -20,13 +20,13 @@ export const metadata = {
     "small business franchise Delhi",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/mart-franchise-with-low-investment-in-delhi",
+    canonical: "https://www.thebuyzaarmart.com/delhi/mart-franchise-with-low-investment-in-delhi",
   },
   openGraph: {
     title: "Mart Franchise with Low Investment in Delhi | Buyzaar Mart",
     description:
       "Start a mart franchise with low investment in Delhi with Buyzaar Mart. Compact format, brand support, and steady daily demand. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/mart-franchise-with-low-investment-in-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/mart-franchise-with-low-investment-in-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

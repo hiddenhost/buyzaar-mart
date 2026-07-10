@@ -20,13 +20,13 @@ export const metadata = {
     "budget grocery franchise India",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/buyzaar-mart-mini-mart-franchise-cost",
+    canonical: "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-mini-mart-franchise-cost",
   },
   openGraph: {
     title: "Buyzaar Mart Mini Mart Franchise Cost | Investment Breakdown",
     description:
       "Discover the complete Buyzaar Mart Mini Mart franchise cost, starting at ₹15,25,000. Explore the investment breakdown, benefits, and application process.",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/buyzaar-mart-mini-mart-franchise-cost",
+    url: "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-mini-mart-franchise-cost",
     siteName: "The Buyzaar Mart",
     images: [
       {

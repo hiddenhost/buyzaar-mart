@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Supermarket Franchise Profit Margin in India | Buyzaar Mart",
   description:
     "Understand supermarket franchise profit margins in India with Buyzaar Mart. Learn about margin factors, investment options, and tips to boost profitability.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/supermarket-franchise-profit-margin-india",
+  url: "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-profit-margin-india",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -271,9 +271,6 @@ const Content = () => {
               <li>Maintain strong communication with the franchise support team to stay updated on best practices and new product opportunities.</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Conclusion
-            </h2>
 
             <p>
               Profit margins in the Indian supermarket sector depend on a combination of product mix, location, operational efficiency, and effective inventory management. While staple grocery items typically offer thinner margins, a well-managed store with the right product mix, efficient operations, and strong footfall can achieve healthy overall profitability. The Buyzaar Mart franchise model is designed to support franchisees in maximising profitability through brand support, supply chain access, technology integration, and operational training. For entrepreneurs looking to enter the organised retail space with a structured, profit-focused business model, a Buyzaar Mart franchise offers a promising path forward.
@@ -414,7 +411,7 @@ const Content = () => {
             </div>
           </div>
 
-          <CityInternalLinks city="india" currentSlug="/delhi-ncr/supermarket-franchise-profit-margin-india" />
+          <CityInternalLinks city="india" currentSlug="/delhi/supermarket-franchise-profit-margin-india" />
         </div>
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">

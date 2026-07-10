@@ -20,13 +20,13 @@ export const metadata = {
     "franchise application Delhi",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/how-to-open-a-supermarket-franchise-in-delhi",
+    canonical: "https://www.thebuyzaarmart.com/delhi/how-to-open-a-supermarket-franchise-in-delhi",
   },
   openGraph: {
     title: "How to Open a Supermarket Franchise in Delhi | Buyzaar Mart",
     description:
       "Learn how to open a supermarket franchise in Delhi with Buyzaar Mart. Step-by-step process, investment options, and full support. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/how-to-open-a-supermarket-franchise-in-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/how-to-open-a-supermarket-franchise-in-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

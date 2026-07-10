@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Mini Mart Franchise in Ghaziabad | Buyzaar Mart",
   description:
     "Buyzaar Mart offers Mini Mart franchise opportunities in Ghaziabad with compact store formats, structured support, and scalable retail growth.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/mini-mart-franchise-in-ghaziabad",
+  url: "https://www.thebuyzaarmart.com/delhi/mini-mart-franchise-in-ghaziabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -286,13 +286,9 @@ const Content = () => {
 
             <p>
               This format is well suited for first-time entrepreneurs who want to enter organized retail without a large capital commitment. It also appeals to local residents in Ghaziabad who understand their neighborhood well and want to start a business serving their own community.
-            </p>
 
-            <p>
               Individuals who already own or can lease a small commercial space in a high-footfall Ghaziabad locality may find this an efficient way to convert that asset into a revenue-generating business. Existing local grocery or kirana store owners looking to formalize and rebrand their business under an established name may also find this format a natural upgrade path.
-            </p>
 
-            <p>
               Investors seeking a low-risk, steady-revenue business model within a limited budget will find this format aligns well with their financial goals.
             </p>
 
@@ -392,7 +388,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="ghaziabad"
-            currentSlug="/delhi-ncr/mini-mart-franchise-in-ghaziabad"
+            currentSlug="/delhi/mini-mart-franchise-in-ghaziabad"
           />
         </div>
 

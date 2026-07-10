@@ -20,13 +20,13 @@ export const metadata = {
     "franchise opportunity Delhi NCR",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/how-much-investment-needed-for-grocery-franchise-delhi",
+    canonical: "https://www.thebuyzaarmart.com/delhi/how-much-investment-needed-for-grocery-franchise-delhi",
   },
   openGraph: {
     title: "Grocery Franchise Investment in Delhi | Buyzaar Mart Cost Guide",
     description:
       "Find out how much investment is needed for a grocery franchise in Delhi with Buyzaar Mart. Explore store formats, costs, and the application process.",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/how-much-investment-needed-for-grocery-franchise-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/how-much-investment-needed-for-grocery-franchise-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

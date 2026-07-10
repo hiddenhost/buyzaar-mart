@@ -20,13 +20,13 @@ export const metadata = {
     "small business franchise Delhi NCR",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/small-retail-franchise-under-15-lakh-delhi-ncr",
+    canonical: "https://www.thebuyzaarmart.com/delhi/small-retail-franchise-under-15-lakh-delhi-ncr",
   },
   openGraph: {
     title: "Small Retail Franchise Under 15 Lakh in Delhi NCR | Buyzaar Mart",
     description:
       "Start a small retail franchise under 15 lakh in Delhi NCR with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/small-retail-franchise-under-15-lakh-delhi-ncr",
+    url: "https://www.thebuyzaarmart.com/delhi/small-retail-franchise-under-15-lakh-delhi-ncr",
     siteName: "The Buyzaar Mart",
     images: [
       {

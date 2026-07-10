@@ -20,13 +20,13 @@ export const metadata = {
     "franchise business Faridabad",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/daily-needs-store-franchise-in-faridabad",
+    canonical: "https://www.thebuyzaarmart.com/delhi/daily-needs-store-franchise-in-faridabad",
   },
   openGraph: {
     title: "Daily Needs Store Franchise in Faridabad | Buyzaar Mart",
     description:
       "Start a daily needs store franchise in Faridabad with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply today!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/daily-needs-store-franchise-in-faridabad",
+    url: "https://www.thebuyzaarmart.com/delhi/daily-needs-store-franchise-in-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

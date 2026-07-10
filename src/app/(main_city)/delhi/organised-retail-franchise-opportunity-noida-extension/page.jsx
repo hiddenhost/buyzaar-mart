@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/noida-extension/buyzaar-mart-franchise-opportunity-in-noida-extension",
+      "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-franchise-opportunity-in-noida-extension",
   },
   openGraph: {
     title: "Buyzaar Mart Franchise Opportunity in Noida Extension | Organised Retail Business",
     description:
       "Explore an organised retail franchise opportunity with Buyzaar Mart in Noida Extension. Learn about benefits, investment, store setup, and how to apply today.",
-    url: "https://www.thebuyzaarmart.com/noida-extension/buyzaar-mart-franchise-opportunity-in-noida-extension",
+    url: "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-franchise-opportunity-in-noida-extension",
     siteName: "The Buyzaar Mart",
     images: [
       {

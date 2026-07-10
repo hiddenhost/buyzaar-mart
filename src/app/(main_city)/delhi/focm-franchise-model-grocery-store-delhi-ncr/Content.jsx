@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "FOCM Franchise Model for Grocery Store in Delhi NCR | Buyzaar Mart",
   description:
     "Buyzaar Mart offers a FOCM (Franchise Owned, Company Managed) grocery franchise model across Delhi NCR with Mini Mart, Super Mart, and Hyper Mart formats, structured operational support, company-managed store operations, and franchise ownership benefits.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/focm-franchise-model-grocery-store-delhi-ncr",
+  url: "https://www.thebuyzaarmart.com/delhi/focm-franchise-model-grocery-store-delhi-ncr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -162,9 +162,9 @@ const Content = () => {
             </h1>
 
             <p>
-              Choosing the right franchise model is one of the most important decisions for anyone entering organised retail. Among the various models available in India&apos;s franchise industry, the FOCM model — Franchise Owned, Company Managed — has gained popularity for investors who want to own a retail asset without being involved in daily, hands-on store operations. Buyzaar Mart offers this model for its grocery store franchise across Delhi NCR.
+              Choosing the right franchise model is one of the most important decisions for anyone planning to enter the organised retail industry. The success of a grocery franchise often depends not only on the brand but also on the operational structure under which the business is managed. Among the various franchise formats available in India's retail sector, the FOCM (Franchise Owned, Company Managed) model has emerged as a preferred option for entrepreneurs and investors who wish to own a retail business while reducing the burden of day-to-day store management.
 
-              Here&apos;s a complete, point-wise guide to understanding how it works.
+              Under the Franchise Owned, Company Managed model, the franchise partner primarily invests in establishing the store, while the company manages key operational activities such as store operations, inventory management, merchandising, staffing, customer service, promotional campaigns, and operational compliance. This structure is particularly attractive to professionals, business owners, NRIs, and investors who may not have the time or retail experience required to oversee daily supermarket operations but still want to participate in the growing organised grocery retail market.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -192,7 +192,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              FOCM vs FOFO: Key Differences
+              FOCM & FOFO: Key Differences
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -219,18 +219,31 @@ const Content = () => {
               About Buyzaar Mart
             </h2>
 
-            <p>
-              Buyzaar Mart is an organised retail chain offering groceries, daily essentials, packaged foods, personal care, and household products through a standardised store format.
-            </p>
-            <p>
-              The brand is designed to deliver a supermarket-style shopping experience to residential and commercial neighbourhoods across Delhi NCR.
-            </p>
-            <p>
-              Buyzaar Mart follows structured store layouts, inventory systems, and customer service protocols to maintain consistency across all franchise outlets.
-            </p>
-            <p>
-              The brand&apos;s operational systems and trained management teams make it well-positioned to support a company-managed franchise structure for interested investors.
-            </p>
+            <ul className="list-disc list-outside pl-6 space-y-3">
+              <li>
+                Buyzaar Mart is an organised retail chain offering groceries, daily
+                essentials, packaged foods, personal care, and household products through
+                a standardised store format.
+              </li>
+
+              <li>
+                The brand is designed to deliver a supermarket-style shopping experience
+                across residential and commercial neighbourhoods throughout Delhi NCR.
+              </li>
+
+              <li>
+                Buyzaar Mart follows structured store layouts, efficient inventory
+                management systems, and standardised customer service protocols to maintain
+                consistency across all franchise outlets.
+              </li>
+
+              <li>
+                The brand's well-defined operational systems and trained management teams
+                make it well-positioned to support a Franchise Owned, Company Managed
+                (FOCM) model for investors seeking a professionally managed grocery
+                business.
+              </li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               How the FOCM Model Works with Buyzaar Mart
@@ -365,32 +378,7 @@ const Content = () => {
                 </p>
               </div>
 
-              <div>
-                <h3 className="font-medium text-gray-900">
-                  8. Is FOCM available across all of Delhi NCR?
-                </h3>
-                <p className="mt-2">
-                  Availability may depend on specific locations; it&apos;s best to confirm with the franchise team for your preferred area.
-                </p>
-              </div>
 
-              <div>
-                <h3 className="font-medium text-gray-900">
-                  9. How are profits shared under the FOCM model?
-                </h3>
-                <p className="mt-2">
-                  Profit-sharing or fixed-return structures are defined in the franchise agreement and vary based on terms negotiated with the brand.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="font-medium text-gray-900">
-                  10. How do I start the FOCM franchise application process?
-                </h3>
-                <p className="mt-2">
-                  Contact the Buyzaar Mart team directly through their official enquiry channels to discuss the FOCM model and begin the process.
-                </p>
-              </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
@@ -432,7 +420,7 @@ const Content = () => {
             </div>
           </div>
 
-          <CityInternalLinks city="delhi-ncr" currentSlug="/delhi-ncr/focm-franchise-model-grocery-store-delhi-ncr" />
+          <CityInternalLinks city="delhi-ncr" currentSlug="/delhi/focm-franchise-model-grocery-store-delhi-ncr" />
         </div>
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">

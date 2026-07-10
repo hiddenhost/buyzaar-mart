@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/delhi/retail-store-franchise-with-training-support-in-delhi",
+      "https://www.thebuyzaarmart.com/delhi/retail-store-franchise-with-training-support-delhi",
   },
   openGraph: {
     title: "Retail Store Franchise with Training Support in Delhi | Buyzaar Mart",
     description:
       "Start a retail store franchise in Delhi with full training support from Buyzaar Mart. Explore benefits, investment options, and the application process.",
-    url: "https://www.thebuyzaarmart.com/delhi/retail-store-franchise-with-training-support-in-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/retail-store-franchise-with-training-support-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

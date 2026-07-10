@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "FMCG Retail Franchise in Delhi | Buyzaar Mart",
   description:
     "Buyzaar Mart offers FMCG retail franchise opportunities in Delhi with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/fmcg-retail-franchise-opportunity-in-delhi",
+  url: "https://www.thebuyzaarmart.com/delhi/fmcg-retail-franchise-opportunity-in-delhi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -415,7 +415,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="delhi"
-            currentSlug="/delhi-ncr/fmcg-retail-franchise-opportunity-in-delhi"
+            currentSlug="/delhi/fmcg-retail-franchise-opportunity-in-delhi"
           />
         </div>
 

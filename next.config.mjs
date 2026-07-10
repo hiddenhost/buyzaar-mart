@@ -20,6 +20,15 @@ const nextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: '/delhi-ncr/:path*',
+        destination: '/delhi/:path*',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

@@ -20,13 +20,13 @@ export const metadata = {
     "grocery business first time investor",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/grocery-franchise-for-first-time-investors-delhi-ncr",
+    canonical: "https://www.thebuyzaarmart.com/delhi/grocery-franchise-for-first-time-investor-delhi-ncr",
   },
   openGraph: {
     title: "Grocery Franchise for First-Time Investors in Delhi NCR | Buyzaar Mart",
     description:
       "Explore a grocery franchise opportunity for first-time investors in Delhi NCR with Buyzaar Mart. Learn about support, investment, and how to get started.",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/grocery-franchise-for-first-time-investors-delhi-ncr",
+    url: "https://www.thebuyzaarmart.com/delhi/grocery-franchise-for-first-time-investor-delhi-ncr",
     siteName: "The Buyzaar Mart",
     images: [
       {

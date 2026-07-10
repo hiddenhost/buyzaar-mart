@@ -20,13 +20,13 @@ export const metadata = {
     "franchise business Ghaziabad",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/mini-mart-franchise-in-ghaziabad",
+    canonical: "https://www.thebuyzaarmart.com/delhi/mini-mart-franchise-in-ghaziabad",
   },
   openGraph: {
     title: "Mini Mart Franchise in Ghaziabad | Buyzaar Mart",
     description:
       "Start a Mini Mart franchise in Ghaziabad with Buyzaar Mart. Low investment, brand support, and strong daily demand in growing neighborhoods. Apply now!",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/mini-mart-franchise-in-ghaziabad",
+    url: "https://www.thebuyzaarmart.com/delhi/mini-mart-franchise-in-ghaziabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

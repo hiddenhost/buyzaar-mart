@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Supermarket Franchise in Gurgaon Under 20 Lakh | Buyzaar Mart",
   description:
     "Start a supermarket franchise in Gurgaon under 20 lakh with Buyzaar Mart. Low investment, brand support, and strong daily demand. Apply now!",
-  url: "https://www.thebuyzaarmart.com/delhi-ncr/supermarket-franchise-in-gurgaon-under-20-lakh",
+  url: "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-in-gurgaon-under-20-lakh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -156,9 +156,7 @@ const Content = () => {
 
             <p>
               Starting a supermarket franchise under 20 lakh is an appealing entry point for first-time entrepreneurs, working professionals looking for a side business, or local investors who want to test the retail waters without committing a large sum upfront. This budget range typically aligns with a compact store format, allowing owners to validate the business model in their chosen locality before considering expansion.
-            </p>
 
-            <p>
               A lower initial investment also means faster recovery of capital, since the break-even period is generally shorter compared to larger store formats that require heavier spending on interior, stock, and staffing. This makes the under-20-lakh segment particularly suitable for cautious first-time business owners who want to minimize risk while still entering a recession-resistant sector like grocery retail.
             </p>
 
@@ -168,9 +166,7 @@ const Content = () => {
 
             <p>
               Buyzaar Mart offers a structured, scalable franchise model built specifically to serve tier-1 and tier-2 city markets, including high-growth cities like Gurgaon. The brand's Mini Mart format, designed for compact retail spaces of roughly 600 to 1000 sq. ft., is positioned to fit within a budget under 20 lakh, making it one of the most accessible entry points into organized grocery retail available today.
-            </p>
 
-            <p>
               This format allows aspiring franchise owners to offer a curated range of daily essentials, packaged foods, dairy, personal care items, and household products without needing the larger capital commitment associated with mid-size or large-format stores. Buyzaar Mart's established supply chain and support services simplify setup and early operations.
             </p>
 
@@ -191,9 +187,7 @@ const Content = () => {
 
             <p>
               India's organized retail sector continues to expand steadily, with more consumers shifting away from unorganized stores towards branded, hygienic shopping experiences. Grocery, being a non-discretionary category, remains largely insulated from economic slowdowns, making it a stable sector for new entrepreneurs.
-            </p>
 
-            <p>
               Franchise models like Buyzaar Mart's reduce the uncertainty of starting from scratch, since the business blueprint, product range, and operational systems are already established and tested in other markets. Busy professional lifestyles in cities like Gurgaon further increase reliance on nearby, well-organized supermarkets.
             </p>
 
@@ -214,9 +208,7 @@ const Content = () => {
 
             <p>
               Getting started with a Mini Mart format typically requires a commercial retail space of around 600 to 1000 sq. ft., covering store interior setup, initial inventory, signage, refrigeration where needed, and billing counter setup. A small staff team is usually sufficient, with Buyzaar Mart providing training support.
-            </p>
 
-            <p>
               Standard business registration and compliance requirements, including GST registration and trade licenses, must be completed before operations begin. Active owner involvement in early months helps ensure proper inventory management and customer service.
             </p>
 
@@ -258,8 +250,29 @@ const Content = () => {
             </h2>
 
             <p>
-              This budget-friendly format suits first-time entrepreneurs, working professionals seeking a side business, and local owners who can lease or use a small commercial space in a high-footfall Gurgaon locality. Existing kirana owners looking to formalize and rebrand may also find this format attractive.
+              The Buyzaar Mart Mini Mart franchise is designed for entrepreneurs who want
+              to enter the organized grocery retail sector with a relatively low initial
+              investment and a proven business model. It is an ideal opportunity for
+              first-time business owners, working professionals seeking an additional
+              source of income, investors looking for a managed retail business, and local
+              property owners who want to utilize their commercial space more
+              productively. The compact store format makes it particularly suitable for
+              residential neighborhoods, mixed-use developments, and high-footfall
+              commercial areas where customers frequently shop for daily essentials.
             </p>
+
+            <p>
+              This grocery franchise opportunity is also well suited for existing kirana
+              store owners who want to upgrade to a modern, branded retail format with
+              standardized store design, organized product displays, and reliable supply
+              chain support. Entrepreneurs looking for a supermarket franchise in Gurgaon,
+              a low-investment grocery franchise, or a retail business with structured
+              operational guidance can benefit from the Mini Mart model. With support for
+              store setup, branding, inventory planning, and business operations, the
+              format enables franchise partners to establish a professionally managed
+              grocery store while serving the growing demand for convenient neighborhood
+              shopping in Gurgaon.
+            </p> 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
@@ -318,7 +331,7 @@ const Content = () => {
             </div>
           </div>
 
-          <CityInternalLinks city="gurgaon" currentSlug="/delhi-ncr/supermarket-franchise-in-gurgaon-under-20-lakh" />
+          <CityInternalLinks city="gurgaon" currentSlug="/delhi/supermarket-franchise-in-gurgaon-under-20-lakh" />
         </div>
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">

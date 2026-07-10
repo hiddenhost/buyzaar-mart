@@ -18,13 +18,13 @@ export const metadata = {
     "mini supermarket franchise Delhi",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/delhi-ncr/franchise-grocery-store-in-residential-area-delhi",
+    canonical: "https://www.thebuyzaarmart.com/delhi/franchise-grocery-store-in-residential-area-delhi",
   },
   openGraph: {
     title: "Buyzaar Mart Franchise in Residential Delhi | Grocery Store Opportunity",
     description:
       "Explore Buyzaar Mart's grocery franchise opportunity in residential Delhi. Learn about FOCO/FOCM models, investment, store space, and application process.'s growing market.",
-    url: "https://www.thebuyzaarmart.com/delhi-ncr/franchise-grocery-store-in-residential-area-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/franchise-grocery-store-in-residential-area-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

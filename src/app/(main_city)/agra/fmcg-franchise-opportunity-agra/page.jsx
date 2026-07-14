@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/fmcg-franchise-opportunity-in-agra",
+      "https://www.thebuyzaarmart.com/agra/fmcg-franchise-opportunity-agra",
   },
   openGraph: {
     title: "FMCG Franchise Opportunity in Agra | Buyzaar Mart Investment Guide",
     description:
       "Explore the FMCG franchise opportunity in Agra with Buyzaar Mart — product categories, store formats, investment, and application process.",
-    url: "https://www.thebuyzaarmart.com/agra/fmcg-franchise-opportunity-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/fmcg-franchise-opportunity-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

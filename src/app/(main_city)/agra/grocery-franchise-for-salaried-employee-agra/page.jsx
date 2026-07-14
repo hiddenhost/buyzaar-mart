@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/grocery-franchise-for-salaried-employees-in-agra",
+      "https://www.thebuyzaarmart.com/agra/grocery-franchise-for-salaried-employee-agra",
   },
   openGraph: {
     title: "Grocery Franchise for Salaried Employees in Agra | Buyzaar Mart",
     description:
       "Start a zero-royalty grocery franchise in Agra with Buyzaar Mart, manageable alongside a full-time job. Explore store formats, area, investment, and process.",
-    url: "https://www.thebuyzaarmart.com/agra/grocery-franchise-for-salaried-employees-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/grocery-franchise-for-salaried-employee-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

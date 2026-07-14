@@ -137,31 +137,38 @@ const Content = () => {
               From understanding whether Buyzaar Mart operates on a FOCO or FOCM model, to comparing store formats like Mini Mart, Super Mart, and Hyper Mart based on your budget and available space, this guide covers the practical details that matter most to a serious investor. You will also find clarity on the investment range, the revenue and profit-sharing structure, the kind of brand support offered during setup and operations, and the eligibility criteria for prospective franchise owners in Agra.
             </p>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">1. About The Buyzaar Mart</h2>
-            <p>Before looking at numbers and formats, it helps to understand the brand's overall approach to franchising.</p>
-            <p>The Buyzaar Mart is an organized grocery retail brand offering a Company-Managed franchise model.</p>
-            <p>The brand focuses on daily-need retail, covering groceries, FMCG, personal care, and household essentials.</p>
-            <p>Its franchise structure is designed to be accessible to both experienced and first-time investors.</p>
-            <p>The Company-Managed approach means the brand's team handles daily store operations on the investor's behalf.</p>
-            <p>The brand is actively expanding into developing markets, including Tier 2 cities like Agra.</p>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">About The Buyzaar Mart</h2>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Before looking at numbers and formats, it helps to understand the brand's overall approach to franchising.</li>
+              <li>The Buyzaar Mart is an organized grocery retail brand offering a Company-Managed franchise model.</li>
+              <li>The brand focuses on daily-need retail, covering groceries, FMCG, personal care, and household essentials.</li>
+              <li>Its franchise structure is designed to be accessible to both experienced and first-time investors.</li>
+              <li>The Company-Managed approach means the brand's team handles daily store operations on the investor's behalf.</li>
+              <li>The brand is actively expanding into developing markets, including Tier 2 cities like Agra.</li>
+            </ul>
+            
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">The Core Franchise Model: Company-Managed, Zero Royalty</h2>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>This is the single most important piece of information for anyone evaluating a Buyzaar Mart franchise.</li>
+              <li>The franchise operates on a Company-Managed structure, meaning the franchisor's team runs daily operations.</li>
+              <li>There is no fixed monthly or annual royalty fee under this model.</li>
+              <li>Instead, the franchisor earns through profit sharing, tied directly to the store's actual performance.</li>
+              <li>This structure reduces fixed financial pressure on investors, especially during the early ramp-up period.</li>
+              <li>It also aligns the franchisor's incentives with the investor's success, since earnings depend on store profitability.</li>
+            </ul>
+            
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">Why Agra Is Part of Buyzaar Mart's Expansion Plans</h2>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Understanding why a brand chooses a particular city can help investors gauge long-term potential.</li>
+              <li>Agra's population base is growing through new residential sectors and expanding city infrastructure.</li>
+              <li>Organised grocery retail penetration remains relatively low across many Agra localities.</li>
+              <li>The city's economy — supported by tourism, handicrafts, education, and services — sustains steady daily consumer spending.</li>
+              <li>Improved connectivity via the Agra–Lucknow Expressway, Yamuna Expressway, and NH-19 is opening new catchment areas.</li>
+              <li>Lower real estate and setup costs compared to metro cities make entry more accessible for investors.</li>
+            </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">2. The Core Franchise Model: Company-Managed, Zero Royalty</h2>
-            <p>This is the single most important piece of information for anyone evaluating a Buyzaar Mart franchise.</p>
-            <p>The franchise operates on a Company-Managed structure, meaning the franchisor's team runs daily operations.</p>
-            <p>There is no fixed monthly or annual royalty fee under this model.</p>
-            <p>Instead, the franchisor earns through profit sharing, tied directly to the store's actual performance.</p>
-            <p>This structure reduces fixed financial pressure on investors, especially during the early ramp-up period.</p>
-            <p>It also aligns the franchisor's incentives with the investor's success, since earnings depend on store profitability.</p>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">3. Why Agra Is Part of Buyzaar Mart's Expansion Plans</h2>
-            <p>Understanding why a brand chooses a particular city can help investors gauge long-term potential.</p>
-            <p>Agra's population base is growing through new residential sectors and expanding city infrastructure.</p>
-            <p>Organised grocery retail penetration remains relatively low across many Agra localities.</p>
-            <p>The city's economy — supported by tourism, handicrafts, education, and services — sustains steady daily consumer spending.</p>
-            <p>Improved connectivity via the Agra–Lucknow Expressway, Yamuna Expressway, and NH-19 is opening new catchment areas.</p>
-            <p>Lower real estate and setup costs compared to metro cities make entry more accessible for investors.</p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">4. Store Formats Offered in Agra</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">Store Formats Offered in Agra</h2>
             <p>Buyzaar Mart offers three distinct store formats, allowing investors to choose based on budget and target locality.</p>
 
             <h3 className="font-medium text-gray-900">1. Mini Mart (600 – 1,000 sqft)</h3>
@@ -173,7 +180,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">3. Hyper Mart (3,001 – 8,000 sqft)</h3>
             <p>The largest format, offering an extensive range of daily essentials along with additional categories, suited to high-footfall commercial areas. It's designed for entrepreneurs aiming for scale, with the ability to serve a larger customer base under one roof. This format works best in prime commercial zones and high-traffic locations.</p>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">5. What the Investment Includes</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">What the Investment Includes</h2>
             <p>Knowing exactly what the investment covers is essential information for any prospective franchisee.</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>A one-time franchise fee, inclusive of applicable GST.</li>
@@ -182,16 +189,19 @@ const Content = () => {
               <li>Billing and POS software/hardware for technology-enabled operations.</li>
               <li>Security deposit, where applicable, depending on the property arrangement.</li>
             </ul>
+            
+            
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">What Costs Are Not Fixed: Understanding Profit Sharing</h2>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Since there's no fixed royalty, understanding how the franchisor earns is key information for evaluating the model.</li>
+              <li>Distributable profit is calculated after deducting operating costs such as staff salaries and store expenses.</li>
+              <li>The profit-sharing percentage between investor and company is clearly defined in the franchise agreement.</li>
+              <li>Payouts are typically made monthly or quarterly, depending on the specific agreement terms.</li>
+              <li>The exact percentage plays a central role in determining actual investor returns.</li>
+              <li>Investors should request sample calculations based on realistic sales projections for their chosen format.</li>
+            </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">6. What Costs Are Not Fixed: Understanding Profit Sharing</h2>
-            <p>Since there's no fixed royalty, understanding how the franchisor earns is key information for evaluating the model.</p>
-            <p>Distributable profit is calculated after deducting operating costs such as staff salaries and store expenses.</p>
-            <p>The profit-sharing percentage between investor and company is clearly defined in the franchise agreement.</p>
-            <p>Payouts are typically made monthly or quarterly, depending on the specific agreement terms.</p>
-            <p>The exact percentage plays a central role in determining actual investor returns.</p>
-            <p>Investors should request sample calculations based on realistic sales projections for their chosen format.</p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">7. What Buyzaar Mart's Team Handles as Part of the Franchise</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">What Buyzaar Mart's Team Handles as Part of the Franchise</h2>
             <p>A key piece of information for investors is exactly what the brand takes responsibility for.</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>Store design, interior setup, and branding as per the standard format.</li>
@@ -201,7 +211,7 @@ const Content = () => {
               <li>Ongoing operational guidance to support consistent store performance.</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">8. What the Investor Is Responsible For</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">What the Investor Is Responsible For</h2>
             <p>Equally important is understanding what remains the investor's responsibility under this model.</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>Providing the retail space, either owned or leased, in a suitable Agra locality.</li>
@@ -211,7 +221,7 @@ const Content = () => {
               <li>Maintaining timely communication with the franchise team, especially during setup.</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">9. Step-by-Step Franchise Process in Agra</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">Step-by-Step Franchise Process in Agra</h2>
             <ul className="list-disc space-y-2 pl-6">
               <li>Initial Enquiry – Submit interest through the official Buyzaar Mart website, mentioning Agra as your preferred city.</li>
               <li>Discussion Call – Discuss your investment budget, preferred store format, and locality with the franchise team.</li>
@@ -223,7 +233,7 @@ const Content = () => {
               <li>Store Launch – The outlet opens with marketing and promotional support.</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">10. Best Localities in Agra to Explore</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">Best Localities in Agra to Explore</h2>
             <p>Location information is often one of the first things investors want clarity on.</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>Sikandra – growing residential development with expanding infrastructure.</li>
@@ -234,7 +244,7 @@ const Content = () => {
               <li>Agra–Lucknow Expressway corridor – developing sectors with long-term growth potential.</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">11. Who This Franchise Information Is Most Relevant For</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">Who This Franchise Information Is Most Relevant For</h2>
             <p>This information is particularly useful for a specific set of prospective investors.</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>Salaried professionals researching a secondary income opportunity in Agra.</li>
@@ -244,7 +254,7 @@ const Content = () => {
               <li>Anyone gathering information before submitting a formal franchise enquiry.</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">12. What to Expect From Enquiry to Launch</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">What to Expect From Enquiry to Launch</h2>
             <p>Having a general timeline in mind helps investors plan around the process realistically.</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>Initial response after enquiry submission typically comes within a few working days.</li>
@@ -254,7 +264,7 @@ const Content = () => {
               <li>Overall timelines vary by store format, property readiness, and how quickly documentation is completed.</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">13. Key Questions to Ask Before Moving Forward</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">Key Questions to Ask Before Moving Forward</h2>
             <p>Gathering the right information also means knowing what to ask during your discussion with the franchise team.</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>What is the exact profit-sharing percentage for my chosen store format?</li>
@@ -264,7 +274,7 @@ const Content = () => {
               <li>What are the terms if I wish to exit or transfer the franchise in the future?</li>
             </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">14. Why Gathering Franchise Information Early Helps</h2>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">Why Gathering Franchise Information Early Helps</h2>
             <p>Doing your research before committing to any franchise is a practical step that pays off later.</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>A clear understanding of the model prevents misaligned expectations later in the process.</li>
@@ -317,23 +327,6 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Buyzaar Mart Franchise Info Agra | Company-Managed Grocery Franchise
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Get complete Buyzaar Mart franchise information for Agra — model, store formats, investment, support system, and application process explained.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> Buyzaar Mart franchise info Agra, Buyzaar Mart franchise details, grocery franchise information Agra, company managed franchise Agra, zero royalty franchise Agra, Mini Mart Super Mart Hyper Mart, franchise investment details Agra, Buyzaar Mart Agra expansion, retail franchise info Agra, franchise process Agra
-              </p>
-            </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
@@ -350,7 +343,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 

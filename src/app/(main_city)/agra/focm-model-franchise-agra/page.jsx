@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/focm-model-franchise-in-agra",
+      "https://www.thebuyzaarmart.com/agra/focm-model-franchise-agra",
   },
   openGraph: {
     title: "FOCM Model Franchise in Agra | Buyzaar Mart Investment Guide",
     description:
       "Explore the FOCM (Franchise Owned, Company Managed) franchise opportunity in Agra with Buyzaar Mart — model details, store formats, investment, and application process.",
-    url: "https://www.thebuyzaarmart.com/agra/focm-model-franchise-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/focm-model-franchise-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

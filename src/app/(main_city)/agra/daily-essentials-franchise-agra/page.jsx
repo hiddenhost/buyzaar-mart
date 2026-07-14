@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/daily-essentials-franchise-in-agra",
+      "https://www.thebuyzaarmart.com/agra/daily-essentials-franchise-agra",
   },
   openGraph: {
     title: "Daily Essentials Franchise in Agra | Buyzaar Mart Investment Guide",
     description:
       "Explore the daily essentials franchise opportunity in Agra with Buyzaar Mart — store formats, investment, categories covered, and application process.",
-    url: "https://www.thebuyzaarmart.com/agra/daily-essentials-franchise-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/daily-essentials-franchise-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

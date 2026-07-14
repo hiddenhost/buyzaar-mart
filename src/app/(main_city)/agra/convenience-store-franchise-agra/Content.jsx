@@ -134,30 +134,20 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. About the Convenience Store Franchise
+              About the Convenience Store Franchise
             </h2>
-
-            <p>
-              A convenience store is different from a large supermarket — it's designed around speed, proximity, and everyday essentials rather than a wide, exhaustive product range.
-            </p>
-            <p>
-              A convenience store franchise offers a compact retail format focused on quick, everyday shopping needs.
-            </p>
-            <p>
-              It typically stocks fast-moving essentials — groceries, snacks, beverages, personal care, and household items.
-            </p>
-            <p>
-              The format prioritizes location and accessibility over size, often placed within walking distance of residential areas.
-            </p>
-            <p>
-              Under a franchise model, the investor operates the store using an established brand's systems, product sourcing, and support.
-            </p>
-            <p>
-              Compared to large-format supermarkets, convenience stores usually require lower investment and a smaller retail footprint.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>A convenience store is different from a large supermarket — it's designed around speed, proximity, and everyday essentials rather than a wide, exhaustive product range.</li>
+              <li>A convenience store franchise offers a compact retail format focused on quick, everyday shopping needs.</li>
+              <li>It typically stocks fast-moving essentials — groceries, snacks, beverages, personal care, and household items.</li>
+              <li>The format prioritizes location and accessibility over size, often placed within walking distance of residential areas.</li>
+              <li>Under a franchise model, the investor operates the store using an established brand's systems, product sourcing, and support.</li>
+              <li>Compared to large-format supermarkets, convenience stores usually require lower investment and a smaller retail footprint.</li>
+            </ul>
+            
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. Why Convenience Retail Is Growing in Demand
+              Why Convenience Retail Is Growing in Demand
             </h2>
 
             <p>
@@ -173,7 +163,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. Why Agra Is a Strong Market for Convenience Store Franchises
+              Why Agra Is a Strong Market for Convenience Store Franchises
             </h2>
 
             <p>
@@ -189,7 +179,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Why Choose Buyzaar Mart for a Convenience Store Franchise
+              Why Choose Buyzaar Mart for a Convenience Store Franchise
             </h2>
 
             <p>
@@ -205,7 +195,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Store Format Best Suited for Convenience Retail
+              Store Format Best Suited for Convenience Retail
             </h2>
 
             <p>
@@ -219,7 +209,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. What the Investment Covers for a Convenience Store Franchise
+              What the Investment Covers for a Convenience Store Franchise
             </h2>
 
             <p>
@@ -235,7 +225,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. Why the Zero-Royalty Model Works Well for Convenience Retail
+              Why the Zero-Royalty Model Works Well for Convenience Retail
             </h2>
 
             <p>
@@ -251,7 +241,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. How Profit Sharing Works for a Convenience Store Franchise
+              How Profit Sharing Works for a Convenience Store Franchise
             </h2>
 
             <p>
@@ -267,7 +257,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. Step-by-Step Process to Start a Convenience Store Franchise in Agra
+              Step-by-Step Process to Start a Convenience Store Franchise in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -282,7 +272,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Ideal Locations for a Convenience Store Franchise in Agra
+              Ideal Locations for a Convenience Store Franchise in Agra
             </h2>
 
             <p>
@@ -299,7 +289,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Benefits of a Convenience Store Franchise With Buyzaar Mart
+              Benefits of a Convenience Store Franchise With Buyzaar Mart
             </h2>
 
             <p>
@@ -315,7 +305,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Who Should Consider a Convenience Store Franchise in Agra
+              Who Should Consider a Convenience Store Franchise in Agra
             </h2>
 
             <p>
@@ -331,7 +321,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Important Considerations Before Investing
+              Important Considerations Before Investing
             </h2>
 
             <p>
@@ -347,7 +337,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Convenience Store &amp; Larger Grocery Formats: What to Choose
+              Convenience Store &amp; Larger Grocery Formats: What to Choose
             </h2>
 
             <p>
@@ -424,23 +414,7 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
 
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Convenience Store Franchise in Agra | Buyzaar Mart
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Start a convenience store franchise in Agra with Buyzaar Mart's zero-royalty, Company-Managed model. Explore the Mini Mart format, investment, and process.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> convenience store franchise Agra, Buyzaar Mart franchise Agra, Mini Mart franchise Agra, neighborhood store franchise Agra, zero royalty franchise Agra, small format grocery franchise, company managed convenience store, franchise investment Agra, retail franchise opportunity Agra, Buyzaar Mart convenience store
-              </p>
-            </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
@@ -457,7 +431,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 

@@ -134,7 +134,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. Why Consider a Mart Franchise in Agra Right Now
+              Why Consider a Mart Franchise in Agra Right Now
             </h2>
 
             <p>
@@ -150,7 +150,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. What Happens When You Make a Franchise Enquiry
+              What Happens When You Make a Franchise Enquiry
             </h2>
 
             <p>
@@ -166,7 +166,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. How to Submit a Mart Franchise Enquiry for Agra
+              How to Submit a Mart Franchise Enquiry for Agra
             </h2>
 
             <p>
@@ -182,7 +182,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Information to Keep Ready Before Your Enquiry
+              Information to Keep Ready Before Your Enquiry
             </h2>
 
             <p>
@@ -198,7 +198,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. What the Franchise Team Discusses After Your Enquiry
+              What the Franchise Team Discusses After Your Enquiry
             </h2>
 
             <p>
@@ -214,7 +214,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. Store Formats Available for Agra Enquiries
+              Store Formats Available for Agra Enquiries
             </h2>
 
             <p>
@@ -228,7 +228,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. Best Localities in Agra to Mention in Your Enquiry
+              Best Localities in Agra to Mention in Your Enquiry
             </h2>
 
             <p>
@@ -245,7 +245,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. Why the Zero-Royalty Model Matters for Agra Investors
+              Why the Zero-Royalty Model Matters for Agra Investors
             </h2>
 
             <p>
@@ -261,7 +261,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. What Costs Are Involved Beyond the Initial Enquiry
+              What Costs Are Involved Beyond the Initial Enquiry
             </h2>
 
             <p>
@@ -277,7 +277,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Step-by-Step Process After Your Enquiry Is Submitted
+              Step-by-Step Process After Your Enquiry Is Submitted
             </h2>
 
             <p>
@@ -296,7 +296,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Common Mistakes to Avoid When Making an Enquiry
+              Common Mistakes to Avoid When Making an Enquiry
             </h2>
 
             <p>
@@ -312,7 +312,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Who Should Make a Mart Franchise Enquiry in Agra
+              Who Should Make a Mart Franchise Enquiry in Agra
             </h2>
 
             <p>
@@ -328,7 +328,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Benefits of Enquiring Early in a Developing Market Like Agra
+              Benefits of Enquiring Early in a Developing Market Like Agra
             </h2>
 
             <p>
@@ -344,7 +344,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. What to Expect After Submitting Your Enquiry
+              What to Expect After Submitting Your Enquiry
             </h2>
 
             <p>
@@ -425,24 +425,7 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Mart Franchise Enquiry in Agra | Buyzaar Mart
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Submit your mart franchise enquiry for Agra with Buyzaar Mart. Explore store formats, investment, zero-royalty model, and the step-by-step enquiry process.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> mart franchise enquiry Agra, Buyzaar Mart franchise Agra, grocery franchise enquiry Agra, franchise apply Agra, supermarket franchise enquiry, zero royalty franchise Agra, franchise investment Agra, Mini Mart Super Mart Hyper Mart Agra, Buyzaar Mart contact franchise, franchise opportunity Agra
-              </p>
-            </div>
-
+          
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Start Your Franchise Enquiry
@@ -458,7 +441,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 

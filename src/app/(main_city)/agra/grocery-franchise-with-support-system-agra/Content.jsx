@@ -134,7 +134,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. Why a Support System Matters More Than the Business Idea Itself
+              Why a Support System Matters More Than the Business Idea Itself
             </h2>
 
             <p>
@@ -150,7 +150,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. What "Support System" Actually Means in a Franchise Context
+              What "Support System" Actually Means in a Franchise Context
             </h2>
 
             <p>
@@ -166,7 +166,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. Why Agra Investors Specifically Benefit From a Support-Driven Model
+              Why Agra Investors Specifically Benefit From a Support-Driven Model
             </h2>
 
             <p>
@@ -182,7 +182,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Buyzaar Mart's Company-Managed Support Structure
+              Buyzaar Mart's Company-Managed Support Structure
             </h2>
 
             <p>
@@ -198,7 +198,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Store Setup Support Provided by Buyzaar Mart
+              Store Setup Support Provided by Buyzaar Mart
             </h2>
 
             <p>
@@ -214,7 +214,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. Location Support: Finding the Right Site in Agra
+              Location Support: Finding the Right Site in Agra
             </h2>
 
             <p>
@@ -230,7 +230,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. Staffing and Training Support
+              Staffing and Training Support
             </h2>
 
             <p>
@@ -246,7 +246,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. Technology and Reporting Support
+              Technology and Reporting Support
             </h2>
 
             <p>
@@ -262,7 +262,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. Why the Zero-Royalty Model Is Part of the Support Philosophy
+              Why the Zero-Royalty Model Is Part of the Support Philosophy
             </h2>
 
             <p>
@@ -278,7 +278,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Store Formats and Investment Under the Support-Driven Model
+              Store Formats and Investment Under the Support-Driven Model
             </h2>
 
             <p>
@@ -292,7 +292,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Step-by-Step Process With Support at Every Stage
+              Step-by-Step Process With Support at Every Stage
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -308,7 +308,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Who Benefits Most From a Support-Driven Franchise Model
+              Who Benefits Most From a Support-Driven Franchise Model
             </h2>
 
             <p>
@@ -324,7 +324,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. What to Clarify About the Support System Before Signing
+              What to Clarify About the Support System Before Signing
             </h2>
 
             <p>
@@ -340,7 +340,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Long-Term Value of a Support-Backed Franchise in Agra
+              Long-Term Value of a Support-Backed Franchise in Agra
             </h2>
 
             <p>
@@ -417,23 +417,7 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Grocery Franchise With Support System in Agra | Buyzaar Mart
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Start a grocery franchise in Agra backed by Buyzaar Mart's full operational support system — setup, staffing, technology, and zero-royalty profit sharing.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> grocery franchise support system Agra, Buyzaar Mart franchise Agra, company managed grocery franchise, franchise operational support Agra, zero royalty franchise Agra, franchise setup support, Mini Mart Super Mart Hyper Mart, retail franchise investment Agra, Buyzaar Mart training support, franchise opportunity Agra
-              </p>
-            </div>
+            
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
@@ -450,7 +434,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 

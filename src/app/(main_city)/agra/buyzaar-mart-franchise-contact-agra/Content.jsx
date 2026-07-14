@@ -138,30 +138,20 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. Why Reaching Out the Right Way Matters
+              Why Reaching Out the Right Way Matters
             </h2>
-
-            <p>
-              How you make first contact can influence how quickly and effectively the franchise team responds to your interest.
-            </p>
-            <p>
-              A clear, well-prepared first contact usually leads to a faster, more relevant response.
-            </p>
-            <p>
-              Vague or incomplete enquiries often require additional back-and-forth before a useful conversation can begin.
-            </p>
-            <p>
-              Choosing the right contact channel ensures your message reaches the correct team without delay.
-            </p>
-            <p>
-              First contact is also your opportunity to set the tone — clarity signals seriousness as an investor.
-            </p>
-            <p>
-              Getting this step right saves time for both you and the franchise development team.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>How you make first contact can influence how quickly and effectively the franchise team responds to your interest.</li>
+              <li>A clear, well-prepared first contact usually leads to a faster, more relevant response.</li>
+              <li>Vague or incomplete enquiries often require additional back-and-forth before a useful conversation can begin.</li>
+              <li>Choosing the right contact channel ensures your message reaches the correct team without delay.</li>
+              <li>First contact is also your opportunity to set the tone — clarity signals seriousness as an investor.</li>
+              <li>Getting this step right saves time for both you and the franchise development team.</li>
+            </ul>
+            
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. Available Ways to Contact Buyzaar Mart for a Franchise
+              Available Ways to Contact Buyzaar Mart for a Franchise
             </h2>
 
             <p>
@@ -177,7 +167,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. What to Include When You First Make Contact
+              What to Include When You First Make Contact
             </h2>
 
             <p>
@@ -193,7 +183,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. What Happens After You Make Contact
+              What Happens After You Make Contact
             </h2>
 
             <p>
@@ -209,9 +199,9 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Store Formats Discussed During the Contact Process
+              Store Formats Discussed During the Contact Process
             </h2>
-
+            
             <p>
               Once contact is established, the conversation typically moves toward matching your budget to a specific format.
             </p>
@@ -232,7 +222,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. Questions the Franchise Team May Ask You
+              Questions the Franchise Team May Ask You
             </h2>
 
             <p>
@@ -248,7 +238,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. Questions You Should Ask During Initial Contact
+              Questions You Should Ask During Initial Contact
             </h2>
 
             <p>
@@ -264,30 +254,20 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. Why Buyzaar Mart's Zero-Royalty Model Is Worth Clarifying Early
+              Why Buyzaar Mart's Zero-Royalty Model Is Worth Clarifying Early
             </h2>
-
-            <p>
-              This is one of the most important points to confirm directly during your initial contact with the team.
-            </p>
-            <p>
-              The Buyzaar Mart's Company-Managed model does not charge a fixed monthly or annual royalty fee.
-            </p>
-            <p>
-              Instead, the franchisor earns through profit sharing, tied directly to the store's actual performance.
-            </p>
-            <p>
-              Clarifying this early helps you understand the full financial structure before moving forward.
-            </p>
-            <p>
-              It also helps you compare this model against other franchise brands you may be considering.
-            </p>
-            <p>
-              The team can explain how profit sharing is calculated and distributed for your specific format.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>This is one of the most important points to confirm directly during your initial contact with the team.</li>
+              <li>The Buyzaar Mart's Company-Managed model does not charge a fixed monthly or annual royalty fee.</li>
+              <li>Instead, the franchisor earns through profit sharing, tied directly to the store's actual performance.</li>
+              <li>Clarifying this early helps you understand the full financial structure before moving forward.</li>
+              <li>It also helps you compare this model against other franchise brands you may be considering.</li>
+              <li>The team can explain how profit sharing is calculated and distributed for your specific format.</li>
+            </ul>
+            
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. Step-by-Step Process After Successful Contact
+              Step-by-Step Process After Successful Contact
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -302,7 +282,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Best Localities to Mention When Contacting the Team
+              Best Localities to Mention When Contacting the Team
             </h2>
 
             <p>
@@ -319,7 +299,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Common Mistakes to Avoid When Contacting the Franchise Team
+              Common Mistakes to Avoid When Contacting the Franchise Team
             </h2>
 
             <p>
@@ -335,7 +315,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. What to Expect in Terms of Response Time
+              What to Expect in Terms of Response Time
             </h2>
 
             <p>
@@ -351,7 +331,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Who Should Reach Out to Buyzaar Mart's Franchise Team
+              Who Should Reach Out to Buyzaar Mart's Franchise Team
             </h2>
 
             <p>
@@ -367,7 +347,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Tips for a Productive First Conversation
+              Tips for a Productive First Conversation
             </h2>
 
             <p>
@@ -444,23 +424,6 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Buyzaar Mart Franchise Contact Agra | Get in Touch for Franchise Details
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Contact Buyzaar Mart for a grocery franchise in Agra. Learn the best ways to reach the team, what to prepare, and what happens after you connect.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> Buyzaar Mart franchise contact Agra, contact Buyzaar Mart franchise, grocery franchise contact Agra, Buyzaar Mart Agra phone number, franchise enquiry contact Agra, zero royalty franchise Agra, Mini Mart Super Mart Hyper Mart, franchise team contact Agra, Buyzaar Mart WhatsApp contact, franchise opportunity Agra
-              </p>
-            </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
@@ -477,7 +440,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 

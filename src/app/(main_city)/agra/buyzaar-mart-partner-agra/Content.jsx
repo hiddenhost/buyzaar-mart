@@ -138,7 +138,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. What Does It Mean to Be a Buyzaar Mart Partner
+              What Does It Mean to Be a Buyzaar Mart Partner
             </h2>
 
             <p>
@@ -154,7 +154,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. Why Agra Is a Strong City to Become a Partner In
+              Why Agra Is a Strong City to Become a Partner In
             </h2>
 
             <p>
@@ -170,7 +170,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. Why Choose Buyzaar Mart as a Franchise Partner
+              Why Choose Buyzaar Mart as a Franchise Partner
             </h2>
 
             <p>
@@ -186,7 +186,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Who Can Become a Buyzaar Mart Partner in Agra
+              Who Can Become a Buyzaar Mart Partner in Agra
             </h2>
 
             <p>
@@ -202,7 +202,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Store Formats and Investment for Agra Partners
+              Store Formats and Investment for Agra Partners
             </h2>
 
             <p>
@@ -216,7 +216,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. What the Partnership Investment Includes
+              What the Partnership Investment Includes
             </h2>
 
             <p>
@@ -232,7 +232,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. How Profit Sharing Works for Partners
+              How Profit Sharing Works for Partners
             </h2>
 
             <p>
@@ -248,7 +248,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. Responsibilities of a Buyzaar Mart Partner
+              Responsibilities of a Buyzaar Mart Partner
             </h2>
 
             <p>
@@ -264,7 +264,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. What Buyzaar Mart's Team Handles as Part of the Partnership
+              What Buyzaar Mart's Team Handles as Part of the Partnership
             </h2>
 
             <p>
@@ -280,7 +280,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Step-by-Step Process to Become a Partner in Agra
+              Step-by-Step Process to Become a Partner in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -295,7 +295,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Benefits of Becoming a Buyzaar Mart Partner
+              Benefits of Becoming a Buyzaar Mart Partner
             </h2>
 
             <p>
@@ -311,7 +311,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Important Points to Clarify Before Becoming a Partner
+              Important Points to Clarify Before Becoming a Partner
             </h2>
 
             <p>
@@ -327,7 +327,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Common Localities in Agra Worth Considering for Partnership
+              Common Localities in Agra Worth Considering for Partnership
             </h2>
 
             <p>
@@ -344,7 +344,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Is Becoming a Buyzaar Mart Partner in Agra Worth It
+              Is Becoming a Buyzaar Mart Partner in Agra Worth It
             </h2>
 
             <p>
@@ -425,23 +425,7 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Buyzaar Mart Partner in Agra | Grocery Franchise Partnership
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Become a Buyzaar Mart partner in Agra with a zero-royalty, Company-Managed grocery franchise model. Explore investment, formats, and the partnership process.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> Buyzaar Mart partner Agra, grocery franchise partner Agra, Buyzaar Mart franchise Agra, zero royalty partnership Agra, become a franchise partner Agra, Mini Mart Super Mart Hyper Mart, company managed grocery franchise, retail partnership Agra, Buyzaar Mart investment Agra, franchise opportunity Agra
-              </p>
-            </div>
+            
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
@@ -458,7 +442,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 

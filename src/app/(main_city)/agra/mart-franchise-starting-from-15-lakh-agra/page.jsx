@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/mart-franchise-starting-from-15-lakh-in-agra",
+      "https://www.thebuyzaarmart.com/agra/mart-franchise-starting-from-15-lakh-agra",
   },
   openGraph: {
     title: "Mart Franchise Starting From ₹15 Lakh in Agra | Buyzaar Mart",
     description:
       "Start a branded mart franchise in Agra with investment beginning at ₹15 lakh. Explore Buyzaar Mart's Mini Mart format, costs, and application process.",
-    url: "https://www.thebuyzaarmart.com/agra/mart-franchise-starting-from-15-lakh-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/mart-franchise-starting-from-15-lakh-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

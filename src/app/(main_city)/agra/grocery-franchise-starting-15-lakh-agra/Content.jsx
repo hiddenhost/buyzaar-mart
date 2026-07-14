@@ -134,7 +134,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. Why a ₹15 Lakh Entry Point Matters for Investors
+              Why a ₹15 Lakh Entry Point Matters for Investors
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -147,7 +147,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. What This Investment Level Actually Buys You
+              What This Investment Level Actually Buys You
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -159,7 +159,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. The Store Format Behind the ₹15 Lakh Price Point
+              The Store Format Behind the ₹15 Lakh Price Point
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -170,7 +170,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Why Agra Is a Good Match for a Lower-Investment Franchise
+              Why Agra Is a Good Match for a Lower-Investment Franchise
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -182,7 +182,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Why Choose Buyzaar Mart at This Investment Level
+              Why Choose Buyzaar Mart at This Investment Level
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -194,7 +194,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. What Costs Are Not Included in the ₹15 Lakh Figure
+              What Costs Are Not Included in the ₹15 Lakh Figure
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -206,7 +206,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. How the Zero-Royalty Model Supports a Lower-Investment Franchise
+              How the Zero-Royalty Model Supports a Lower-Investment Franchise
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -218,7 +218,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. How Profit Sharing Works at This Investment Level
+              How Profit Sharing Works at This Investment Level
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -230,7 +230,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. Step-by-Step Process to Start at This Investment Level
+              Step-by-Step Process to Start at This Investment Level
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -245,7 +245,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Ideal Locations in Agra for This Investment Level
+              Ideal Locations in Agra for This Investment Level
             </h2>
 
             <p>
@@ -262,7 +262,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Who This Investment Level Is Best Suited For
+              Who This Investment Level Is Best Suited For
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -274,7 +274,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Benefits of Starting With a Lower-Investment Franchise
+              Benefits of Starting With a Lower-Investment Franchise
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -286,7 +286,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Important Considerations Before Committing to This Investment
+              Important Considerations Before Committing to This Investment
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -298,7 +298,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Is a ₹15 Lakh Grocery Franchise a Good Starting Point in Agra
+              Is a ₹15 Lakh Grocery Franchise a Good Starting Point in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -371,23 +371,6 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Grocery Franchise Starting ₹15 Lakh in Agra | Buyzaar Mart
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Start a grocery franchise in Agra from ₹15 lakh with Buyzaar Mart's Mini Mart format. Zero-royalty, Company-Managed model with full operational support.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> grocery franchise 15 lakh Agra, low investment franchise Agra, Buyzaar Mart Mini Mart Agra, affordable grocery franchise Agra, zero royalty franchise Agra, small investment retail franchise, Buyzaar Mart franchise cost, company managed franchise Agra, franchise under 20 lakh Agra, Buyzaar Mart grocery store
-              </p>
-            </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
@@ -404,7 +387,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 

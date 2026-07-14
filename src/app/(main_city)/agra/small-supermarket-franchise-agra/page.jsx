@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/small-supermarket-franchise-in-agra",
+      "https://www.thebuyzaarmart.com/agra/small-supermarket-franchise-agra",
   },
   openGraph: {
     title: "Small Supermarket Franchise in Agra | Buyzaar Mart Investment Guide",
     description:
       "Start a small supermarket franchise in Agra with Buyzaar Mart. Explore store formats, investment, location tips, and the application process.",
-    url: "https://www.thebuyzaarmart.com/agra/small-supermarket-franchise-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/small-supermarket-franchise-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

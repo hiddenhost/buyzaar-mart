@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/foco-model-franchise-in-agra",
+      "https://www.thebuyzaarmart.com/agra/foco-model-franchise-agra",
   },
   openGraph: {
     title: "FOCO Model Franchise in Agra | Buyzaar Mart Investment Guide",
     description:
       "Explore the FOCO (Franchise Owned, Company Operated) franchise opportunity in Agra with Buyzaar Mart — model details, store formats, investment, and revenue sharing.",
-    url: "https://www.thebuyzaarmart.com/agra/foco-model-franchise-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/foco-model-franchise-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

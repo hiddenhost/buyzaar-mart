@@ -20,13 +20,13 @@ export const metadata = {
     "Buyzaar Mart grocery store",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/agra/grocery-franchise-starting-15-lakh-in-agra",
+    canonical: "https://www.thebuyzaarmart.com/agra/grocery-franchise-starting-15-lakh-agra",
   },
   openGraph: {
     title: "Grocery Franchise Starting ₹15 Lakh in Agra | Buyzaar Mart",
     description:
       "Start a grocery franchise in Agra from ₹15 lakh with Buyzaar Mart's Mini Mart format. Zero-royalty, Company-Managed model with full operational support.",
-    url: "https://www.thebuyzaarmart.com/agra/grocery-franchise-starting-15-lakh-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/grocery-franchise-starting-15-lakh-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

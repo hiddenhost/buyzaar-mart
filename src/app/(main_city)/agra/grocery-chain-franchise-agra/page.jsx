@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/grocery-chain-franchise-in-agra",
+      "https://www.thebuyzaarmart.com/agra/grocery-chain-franchise-agra",
   },
   openGraph: {
     title: "Grocery Chain Franchise in Agra – Buyzaar Mart Investment Opportunity",
     description:
       "Explore the opportunity to start a grocery chain franchise in Agra with Buyzaar Mart — market potential, store formats, investment, and application process.",
-    url: "https://www.thebuyzaarmart.com/agra/grocery-chain-franchise-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/grocery-chain-franchise-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

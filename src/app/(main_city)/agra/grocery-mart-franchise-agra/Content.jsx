@@ -134,7 +134,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. About the Grocery Mart Franchise
+              About the Grocery Mart Franchise
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -147,7 +147,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. Why the Grocery Segment Is a Reliable Franchise Category
+              Why the Grocery Segment Is a Reliable Franchise Category
             </h2>
 
             <p>
@@ -163,7 +163,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. Why Agra Is a Good City for a Grocery Mart Franchise
+              Why Agra Is a Good City for a Grocery Mart Franchise
             </h2>
 
             <p>
@@ -179,7 +179,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Why Choose Buyzaar Mart for a Grocery Mart Franchise
+              Why Choose Buyzaar Mart for a Grocery Mart Franchise
             </h2>
 
             <p>
@@ -195,7 +195,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Store Formats and Investment for a Grocery Mart Franchise
+              Store Formats and Investment for a Grocery Mart Franchise
             </h2>
 
             <p>
@@ -209,7 +209,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. What the Franchise Investment Actually Covers
+              What the Franchise Investment Actually Covers
             </h2>
 
             <p>
@@ -225,7 +225,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. How the Zero-Royalty Model Benefits Franchisees
+              How the Zero-Royalty Model Benefits Franchisees
             </h2>
 
             <p>
@@ -241,7 +241,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. How Profit Sharing Works Under This Model
+              How Profit Sharing Works Under This Model
             </h2>
 
             <p>
@@ -257,7 +257,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. Step-by-Step Process to Start a Grocery Mart Franchise in Agra
+              Step-by-Step Process to Start a Grocery Mart Franchise in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -272,7 +272,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Eligibility and Requirements for a Franchise in Agra
+              Eligibility and Requirements for a Franchise in Agra
             </h2>
 
             <p>
@@ -288,7 +288,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Benefits of a Grocery Mart Franchise With Buyzaar Mart
+              Benefits of a Grocery Mart Franchise With Buyzaar Mart
             </h2>
 
             <p>
@@ -304,7 +304,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Best Localities in Agra for a Grocery Mart Franchise
+              Best Localities in Agra for a Grocery Mart Franchise
             </h2>
 
             <p>
@@ -321,7 +321,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Who Should Consider a Grocery Mart Franchise in Agra
+              Who Should Consider a Grocery Mart Franchise in Agra
             </h2>
 
             <p>
@@ -337,7 +337,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Important Considerations Before Investing
+              Important Considerations Before Investing
             </h2>
 
             <p>
@@ -418,23 +418,7 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Grocery Mart Franchise in Agra | Buyzaar Mart
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Start a grocery mart franchise in Agra with Buyzaar Mart's zero-royalty, Company-Managed model. Explore store formats, investment, and application process.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> grocery mart franchise Agra, Buyzaar Mart franchise Agra, grocery store franchise Agra, zero royalty franchise Agra, supermarket franchise Agra, Mini Mart Super Mart Hyper Mart, company managed grocery franchise, franchise investment Agra, retail franchise opportunity Agra, Buyzaar Mart grocery mart
-              </p>
-            </div>
+            
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
@@ -451,7 +435,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 

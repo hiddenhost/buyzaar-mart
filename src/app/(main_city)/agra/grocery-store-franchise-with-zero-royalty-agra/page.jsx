@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/grocery-store-franchise-with-zero-royalty-in-agra",
+      "https://www.thebuyzaarmart.com/agra/grocery-store-franchise-with-zero-royalty-agra",
   },
   openGraph: {
     title: "Grocery Store Franchise With Zero Royalty in Agra | Buyzaar Mart",
     description:
       "Explore a zero-royalty grocery store franchise opportunity in Agra with Buyzaar Mart's Company-Managed, profit-sharing model. Investment, benefits, and process.",
-    url: "https://www.thebuyzaarmart.com/agra/grocery-store-franchise-with-zero-royalty-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/grocery-store-franchise-with-zero-royalty-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

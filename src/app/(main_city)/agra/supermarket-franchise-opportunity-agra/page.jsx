@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/supermarket-franchise-opportunity-in-agra",
+      "https://www.thebuyzaarmart.com/agra/supermarket-franchise-opportunity-agra",
   },
   openGraph: {
     title: "Supermarket Franchise Opportunity in Agra | Buyzaar Mart",
     description:
       "Discover the supermarket franchise opportunity in Agra with Buyzaar Mart — market potential, store formats, investment, and application process.",
-    url: "https://www.thebuyzaarmart.com/agra/supermarket-franchise-opportunity-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/supermarket-franchise-opportunity-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

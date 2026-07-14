@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Store Franchise With Zero Royalty in Agra | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers a zero-royalty grocery store franchise opportunity in Agra through a Company-Managed, profit-sharing model with Mini Mart, Super Mart, and Hyper Mart formats, structured location support, inventory assurance, and full operational support.",
-  url: "https://www.thebuyzaarmart.com/agra/grocery-store-franchise-with-zero-royalty-in-agra",
+  url: "https://www.thebuyzaarmart.com/agra/grocery-store-franchise-with-zero-royalty-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -145,236 +145,144 @@ const Content = () => {
               Grocery Store Franchise With Zero Royalty in Agra
             </h1>
 
-            <p>
-              One of the most common concerns prospective franchisees have is ongoing royalty payments — a fixed fee paid to the franchisor regardless of how the store performs. Traditional franchise models often require this fee to be paid every month or year, irrespective of whether the store is profitable, breaking even, or struggling. For many first-time investors, this can create financial pressure, especially in the early phases of a business when revenues are still stabilizing.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>One of the most common concerns prospective franchisees have is ongoing royalty payments — a fixed fee paid to the franchisor regardless of how the store performs.</li>
+              <li>Traditional franchise models often require this fee to be paid every month or year, irrespective of whether the store is profitable, breaking even, or struggling.</li>
+              <li>For many first-time investors, this can create financial pressure, especially in the early phases of a business when revenues are still stabilizing.</li>
+            </ul>
 
-            <p>
-              For investors in Agra exploring The Buyzaar Mart, the brand's Company-Managed, profit-sharing structure means there is no fixed monthly or annual royalty fee. Instead of a flat charge, the arrangement is designed around shared performance, meaning the franchisor's earnings are tied to how well the store actually does. This structure naturally aligns the interests of both the investor and the franchisor, since both parties benefit when the business performs well and neither is burdened by a fixed cost during slower periods.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>For investors in Agra exploring The Buyzaar Mart, the brand's Company-Managed, profit-sharing structure means there is no fixed monthly or annual royalty fee.</li>
+              <li>Instead of a flat charge, the arrangement is designed around shared performance, meaning the franchisor's earnings are tied to how well the store actually does.</li>
+              <li>This structure naturally aligns the interests of both the investor and the franchisor, since both parties benefit when the business performs well and neither is burdened by a fixed cost during slower periods.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. What Does "Zero Royalty" Mean in a Franchise Model?
+              What Does "Zero Royalty" Mean in a Franchise Model?
             </h2>
 
-            <p>
-              A traditional franchise royalty is typically a fixed fee — either a flat amount or a fixed percentage of revenue — paid to the franchisor regardless of the store's actual profitability.
-            </p>
-
-            <p>
-              A zero-royalty model means the franchisee is not required to pay this fixed, recurring fee simply for using the brand name and systems.
-            </p>
-
-            <p>
-              Instead of a fixed royalty, brands like The Buyzaar Mart operate on a profit-sharing structure, where the franchisor's earnings are directly tied to the store's actual performance.
-            </p>
-
-            <p>
-              This distinction matters because a fixed royalty must be paid even during slow months, while profit sharing only applies when the store generates distributable profit.
-            </p>
-
-            <p>
-              Understanding this difference is essential for investors comparing different franchise opportunities in Agra and beyond.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>A traditional franchise royalty is typically a fixed fee — either a flat amount or a fixed percentage of revenue — paid to the franchisor regardless of the store's actual profitability.</li>
+              <li>A zero-royalty model means the franchisee is not required to pay this fixed, recurring fee simply for using the brand name and systems.</li>
+              <li>Instead of a fixed royalty, brands like The Buyzaar Mart operate on a profit-sharing structure, where the franchisor's earnings are directly tied to the store's actual performance.</li>
+              <li>This distinction matters because a fixed royalty must be paid even during slow months, while profit sharing only applies when the store generates distributable profit.</li>
+              <li>Understanding this difference is essential for investors comparing different franchise opportunities in Agra and beyond.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. Why Zero Royalty Matters for First-Time Investors in Agra
+              Why Zero Royalty Matters for First-Time Investors in Agra
             </h2>
 
-            <p>
-              First-time investors often face uncertainty around exact monthly costs, and a fixed royalty adds another layer of financial pressure during the early ramp-up period.
-            </p>
-
-            <p>
-              In a new market like Agra, where store performance may take time to stabilize, avoiding a fixed royalty payment reduces financial strain during the initial months.
-            </p>
-
-            <p>
-              A zero-royalty structure means the franchisor only earns when the franchisee's store is actually generating profit, aligning both parties toward the same outcome.
-            </p>
-
-            <p>
-              This can be particularly reassuring for investors entering organized retail for the first time, since it reduces one source of fixed financial obligation.
-            </p>
-
-            <p>
-              It also simplifies financial planning, since investors are not required to set aside a separate fixed royalty payment each month.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>First-time investors often face uncertainty around exact monthly costs, and a fixed royalty adds another layer of financial pressure during the early ramp-up period.</li>
+              <li>In a new market like Agra, where store performance may take time to stabilize, avoiding a fixed royalty payment reduces financial strain during the initial months.</li>
+              <li>A zero-royalty structure means the franchisor only earns when the franchisee's store is actually generating profit, aligning both parties toward the same outcome.</li>
+              <li>This can be particularly reassuring for investors entering organized retail for the first time, since it reduces one source of fixed financial obligation.</li>
+              <li>It also simplifies financial planning, since investors are not required to set aside a separate fixed royalty payment each month.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. How Profit Sharing Replaces the Traditional Royalty Model
+              How Profit Sharing Replaces the Traditional Royalty Model
             </h2>
 
-            <p>
-              Instead of a fixed royalty, The Buyzaar Mart's Company-Managed model uses a profit-sharing structure between the investor and the franchisor.
-            </p>
-
-            <p>
-              Profit sharing means the franchisor's compensation is based on actual store performance, rather than a guaranteed fee.
-            </p>
-
-            <p>
-              This structure incentivizes the franchisor to actively support store performance, since their earnings depend on the store's profitability.
-            </p>
-
-            <p>
-              The exact profit-sharing percentage, cost deductions, and payout frequency are clearly defined in the franchise agreement.
-            </p>
-
-            <p>
-              This model reflects a more performance-aligned relationship between investor and franchisor compared to a fixed-royalty structure.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Instead of a fixed royalty, The Buyzaar Mart's Company-Managed model uses a profit-sharing structure between the investor and the franchisor.</li>
+              <li>Profit sharing means the franchisor's compensation is based on actual store performance, rather than a guaranteed fee.</li>
+              <li>This structure incentivizes the franchisor to actively support store performance, since their earnings depend on the store's profitability.</li>
+              <li>The exact profit-sharing percentage, cost deductions, and payout frequency are clearly defined in the franchise agreement.</li>
+              <li>This model reflects a more performance-aligned relationship between investor and franchisor compared to a fixed-royalty structure.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Why This Model Works Well for Agra's Growing Retail Market
+              Why This Model Works Well for Agra's Growing Retail Market
             </h2>
 
-            <p>
-              Agra is still in a relatively early stage of organized retail penetration, meaning new stores may take time to build consistent footfall.
-            </p>
-
-            <p>
-              A zero-royalty, profit-sharing structure reduces financial pressure during this early growth period for stores entering Agra's market.
-            </p>
-
-            <p>
-              As the city's organized retail category matures, well-located stores are likely to see improving performance, benefiting both investor and franchisor under the profit-sharing model.
-            </p>
-
-            <p>
-              This structure is particularly relevant for a Tier 2 city like Agra, where local market dynamics may differ from more saturated metro markets.
-            </p>
-
-            <p>
-              It allows investors to enter Agra's market with reduced fixed financial obligations while the store establishes itself locally.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Agra is still in a relatively early stage of organized retail penetration, meaning new stores may take time to build consistent footfall.</li>
+              <li>A zero-royalty, profit-sharing structure reduces financial pressure during this early growth period for stores entering Agra's market.</li>
+              <li>As the city's organized retail category matures, well-located stores are likely to see improving performance, benefiting both investor and franchisor under the profit-sharing model.</li>
+              <li>This structure is particularly relevant for a Tier 2 city like Agra, where local market dynamics may differ from more saturated metro markets.</li>
+              <li>It allows investors to enter Agra's market with reduced fixed financial obligations while the store establishes itself locally.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Comparing Zero Royalty to Traditional Franchise Royalty Structures
+              Comparing Zero Royalty to Traditional Franchise Royalty Structures
             </h2>
 
-            <p>
-              Traditional franchises often require a fixed royalty, typically calculated as a percentage of revenue, paid regardless of store profitability.
-            </p>
-
-            <p>
-              This fixed cost can create financial strain during slow months or during the initial break-even period.
-            </p>
-
-            <p>
-              A zero-royalty, profit-sharing model shifts this risk, since the franchisor's compensation depends on the store actually generating profit.
-            </p>
-
-            <p>
-              Investors should carefully compare how different franchise brands structure their fees, since terminology like "zero royalty" can vary in what it actually means across different brands.
-            </p>
-
-            <p>
-              Reviewing the full franchise agreement remains essential to understand exactly how compensation works, regardless of the marketing terminology used.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Traditional franchises often require a fixed royalty, typically calculated as a percentage of revenue, paid regardless of store profitability.</li>
+              <li>This fixed cost can create financial strain during slow months or during the initial break-even period.</li>
+              <li>A zero-royalty, profit-sharing model shifts this risk, since the franchisor's compensation depends on the store actually generating profit.</li>
+              <li>Investors should carefully compare how different franchise brands structure their fees, since terminology like "zero royalty" can vary in what it actually means across different brands.</li>
+              <li>Reviewing the full franchise agreement remains essential to understand exactly how compensation works, regardless of the marketing terminology used.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. What Costs Are Still Involved Despite Zero Royalty
+              What Costs Are Still Involved Despite Zero Royalty
             </h2>
 
-            <p>
-              While there is no fixed royalty, investors are still responsible for the initial investment covering stock, interior, software fee, franchise fee, and security deposit.
-            </p>
-
-            <p>
-              Ongoing operational costs, such as staff salaries and store expenses, are typically factored into the profit-sharing calculation rather than eliminated entirely.
-            </p>
-
-            <p>
-              A one-time franchise fee, inclusive of applicable GST, is still part of the initial investment structure.
-            </p>
-
-            <p>
-              Investors should request a clear breakdown of all costs — both one-time and ongoing — to fully understand the financial commitment involved.
-            </p>
-
-            <p>
-              "Zero royalty" specifically refers to the absence of a fixed, recurring brand usage fee, not the complete absence of business costs.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>While there is no fixed royalty, investors are still responsible for the initial investment covering stock, interior, software fee, franchise fee, and security deposit.</li>
+              <li>Ongoing operational costs, such as staff salaries and store expenses, are typically factored into the profit-sharing calculation rather than eliminated entirely.</li>
+              <li>A one-time franchise fee, inclusive of applicable GST, is still part of the initial investment structure.</li>
+              <li>Investors should request a clear breakdown of all costs — both one-time and ongoing — to fully understand the financial commitment involved.</li>
+              <li>"Zero royalty" specifically refers to the absence of a fixed, recurring brand usage fee, not the complete absence of business costs.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. How This Model Aligns Franchisor and Investor Interests
+              How This Model Aligns Franchisor and Investor Interests
             </h2>
 
-            <p>
-              Since the franchisor's earnings depend on profit sharing rather than a guaranteed royalty, they have a direct incentive to ensure the store operates efficiently.
-            </p>
-
-            <p>
-              This alignment can lead to stronger operational support, since the franchisor benefits directly from the store's success.
-            </p>
-
-            <p>
-              In a zero-royalty model, both parties share the risk and reward tied to actual store performance rather than the franchisor earning regardless of outcomes.
-            </p>
-
-            <p>
-              This structure encourages ongoing collaboration between the investor and the franchisor's operational team to improve store performance.
-            </p>
-
-            <p>
-              For investors, this alignment can offer additional confidence that the franchisor remains actively invested in the store's success.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Since the franchisor's earnings depend on profit sharing rather than a guaranteed royalty, they have a direct incentive to ensure the store operates efficiently.</li>
+              <li>This alignment can lead to stronger operational support, since the franchisor benefits directly from the store's success.</li>
+              <li>In a zero-royalty model, both parties share the risk and reward tied to actual store performance rather than the franchisor earning regardless of outcomes.</li>
+              <li>This structure encourages ongoing collaboration between the investor and the franchisor's operational team to improve store performance.</li>
+              <li>For investors, this alignment can offer additional confidence that the franchisor remains actively invested in the store's success.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. Total Investment for a Zero-Royalty Franchise in Agra
+              Total Investment for a Zero-Royalty Franchise in Agra
             </h2>
 
             <h3 className="font-medium text-gray-900">1. Mini Mart (600 – 1,000 sqft)</h3>
-            <p>
-              Total Investment starting at ₹15,25,000 (at 600 sqft)
-            </p>
-            <p>
-              A Mini Mart is the ideal low-investment format for entrepreneurs starting out in Agra. It suits residential areas and local markets, offering daily essentials and FMCG products in a compact space. Investment scales up gradually as the sqft increases within this range.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Total Investment starting at ₹15,25,000 (at 600 sqft).</li>
+              <li>A Mini Mart is the ideal low-investment format for entrepreneurs starting out in Agra.</li>
+              <li>It suits residential areas and local markets, offering daily essentials and FMCG products in a compact space.</li>
+              <li>Investment scales up gradually as the sqft increases within this range.</li>
+            </ul>
 
             <h3 className="font-medium text-gray-900">2. Super Mart (1,001 – 3,000 sqft)</h3>
-            <p>
-              Total Investment starting at ₹26,63,407 (at 1,001 sqft)
-            </p>
-            <p>
-              The Super Mart format offers a wider product range across groceries, personal care, and household items. It works well in busy commercial areas of Agra where customers seek variety and convenience. Investment rises with store size and stock requirements.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Total Investment starting at ₹26,63,407 (at 1,001 sqft).</li>
+              <li>The Super Mart format offers a wider product range across groceries, personal care, and household items.</li>
+              <li>It works well in busy commercial areas of Agra where customers seek variety and convenience.</li>
+              <li>Investment rises with store size and stock requirements.</li>
+            </ul>
 
             <h3 className="font-medium text-gray-900">3. Hyper Mart (3,001 – 8,000 sqft)</h3>
-            <p>
-              Total Investment starting at ₹78,89,960 (at 3,001 sqft)
-            </p>
-            <p>
-              Hyper Mart is a large-format retail destination covering groceries, electronics, apparel, and more under one roof. It's best suited for prime locations and malls with high footfall in Agra. This format demands a higher investment for infrastructure and inventory.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Total Investment starting at ₹78,89,960 (at 3,001 sqft).</li>
+              <li>Hyper Mart is a large-format retail destination covering groceries, electronics, apparel, and more under one roof.</li>
+              <li>It's best suited for prime locations and malls with high footfall in Agra.</li>
+              <li>This format demands a higher investment for infrastructure and inventory.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. How Profit Sharing Is Typically Structured
+              How Profit Sharing Is Typically Structured
             </h2>
 
-            <p>
-              The profit-sharing percentage between investor and franchisor is defined clearly in the franchise agreement.
-            </p>
-
-            <p>
-              Distributable profit is generally calculated after deducting costs such as stock, staff salaries, and store operating expenses.
-            </p>
-
-            <p>
-              Payouts are typically made on a monthly or quarterly basis, depending on the specific agreement terms.
-            </p>
-
-            <p>
-              Investors should request example calculations to understand how this structure translates into expected earnings based on realistic sales projections.
-            </p>
-
-            <p>
-              Since there is no fixed royalty, the profit-sharing percentage plays a central role in determining the franchisor's compensation.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>The profit-sharing percentage between investor and franchisor is defined clearly in the franchise agreement.</li>
+              <li>Distributable profit is generally calculated after deducting costs such as stock, staff salaries, and store operating expenses.</li>
+              <li>Payouts are typically made on a monthly or quarterly basis, depending on the specific agreement terms.</li>
+              <li>Investors should request example calculations to understand how this structure translates into expected earnings based on realistic sales projections.</li>
+              <li>Since there is no fixed royalty, the profit-sharing percentage plays a central role in determining the franchisor's compensation.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. What Investors in Agra Should Clarify Before Signing
+              What Investors in Agra Should Clarify Before Signing
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -386,79 +294,43 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Advantages of Choosing a Zero-Royalty Model in Agra
+              Advantages of Choosing a Zero-Royalty Model in Agra
             </h2>
 
-            <p>
-              Reduces fixed financial pressure during the store's early ramp-up period in a developing market like Agra.
-            </p>
-
-            <p>
-              Aligns the franchisor's incentives directly with store performance, encouraging active operational support.
-            </p>
-
-            <p>
-              Simplifies financial planning, since investors are not required to budget for a separate recurring royalty payment.
-            </p>
-
-            <p>
-              Offers a more performance-linked relationship compared to traditional fixed-royalty franchise structures.
-            </p>
-
-            <p>
-              Can be particularly beneficial for first-time investors entering a Tier 2 city where performance ramp-up timelines may vary.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Reduces fixed financial pressure during the store's early ramp-up period in a developing market like Agra.</li>
+              <li>Aligns the franchisor's incentives directly with store performance, encouraging active operational support.</li>
+              <li>Simplifies financial planning, since investors are not required to budget for a separate recurring royalty payment.</li>
+              <li>Offers a more performance-linked relationship compared to traditional fixed-royalty franchise structures.</li>
+              <li>Can be particularly beneficial for first-time investors entering a Tier 2 city where performance ramp-up timelines may vary.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Important Considerations Despite the Zero-Royalty Structure
+              Important Considerations Despite the Zero-Royalty Structure
             </h2>
 
-            <p>
-              Zero royalty does not mean zero business risk — store performance still depends on location, competition, and operational execution.
-            </p>
-
-            <p>
-              Investors should still review the full agreement carefully, since profit-sharing terms directly determine actual returns.
-            </p>
-
-            <p>
-              Break-even timelines, typically 12 to 18 months in grocery retail, should be factored into financial expectations regardless of royalty structure.
-            </p>
-
-            <p>
-              The absence of a fixed royalty shifts risk-sharing rather than eliminating financial risk entirely.
-            </p>
-
-            <p>
-              Due diligence on location quality remains just as important as understanding the fee structure itself.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Zero royalty does not mean zero business risk — store performance still depends on location, competition, and operational execution.</li>
+              <li>Investors should still review the full agreement carefully, since profit-sharing terms directly determine actual returns.</li>
+              <li>Break-even timelines, typically 12 to 18 months in grocery retail, should be factored into financial expectations regardless of royalty structure.</li>
+              <li>The absence of a fixed royalty shifts risk-sharing rather than eliminating financial risk entirely.</li>
+              <li>Due diligence on location quality remains just as important as understanding the fee structure itself.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Why The Buyzaar Mart's Model Fits Agra's Market Conditions
+              Why The Buyzaar Mart's Model Fits Agra's Market Conditions
             </h2>
 
-            <p>
-              The Company-Managed, zero-royalty structure reduces barriers for first-time investors exploring Agra's growing organized retail segment.
-            </p>
-
-            <p>
-              Structured location surveys help ensure new stores are placed in commercially viable areas within the city.
-            </p>
-
-            <p>
-              Technology-enabled billing and inventory systems support transparent, accurate profit-sharing calculations.
-            </p>
-
-            <p>
-              A Hassle-Free Inventory Assurance helps protect franchise partners from losses linked to expired or damaged stock.
-            </p>
-
-            <p>
-              These combined factors make the model particularly relevant for investors evaluating entry into Agra's developing retail landscape.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>The Company-Managed, zero-royalty structure reduces barriers for first-time investors exploring Agra's growing organized retail segment.</li>
+              <li>Structured location surveys help ensure new stores are placed in commercially viable areas within the city.</li>
+              <li>Technology-enabled billing and inventory systems support transparent, accurate profit-sharing calculations.</li>
+              <li>A Hassle-Free Inventory Assurance helps protect franchise partners from losses linked to expired or damaged stock.</li>
+              <li>These combined factors make the model particularly relevant for investors evaluating entry into Agra's developing retail landscape.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Steps to Apply for a Zero-Royalty Grocery Franchise in Agra
+              Steps to Apply for a Zero-Royalty Grocery Franchise in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -536,60 +408,39 @@ const Content = () => {
                 Start Your Zero-Royalty Franchise Journey in Agra
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                The zero-royalty model offers a practical way to enter organized retail in Agra without the burden of a fixed recurring royalty fee.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Join The Buyzaar Mart franchise network and build a professionally managed grocery store with a performance-linked partnership structure.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="list-disc space-y-2 pl-6">
+                <li>The zero-royalty model offers a practical way to enter organized retail in Agra without the burden of a fixed recurring royalty fee.</li>
+                <li>Join The Buyzaar Mart franchise network and build a professionally managed grocery store with a performance-linked partnership structure.</li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Meta Title
-            </h2>
-            <p>Grocery Store Franchise With Zero Royalty in Agra | Buyzaar Mart</p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Meta Description
-            </h2>
-            <p>Explore a zero-royalty grocery store franchise opportunity in Agra with Buyzaar Mart's Company-Managed, profit-sharing model. Investment, benefits, and process.</p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Meta Tag Keywords
-            </h2>
-            <p>
-              zero royalty franchise Agra, grocery franchise no royalty, Buyzaar Mart zero royalty, profit sharing franchise Agra, no royalty grocery store Agra, Buyzaar Mart Agra franchise, company managed franchise Agra, low cost franchise no royalty, grocery store franchise India, Buyzaar Mart profit sharing model
-            </p>
+            
           </div>
 
           <CityInternalLinks
             city="agra"
-            currentSlug="/agra/grocery-store-franchise-with-zero-royalty-in-agra"
+            currentSlug="/agra/grocery-store-franchise-with-zero-royalty-agra"
           />
         </div>
 

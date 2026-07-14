@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Franchise for Salaried Employees in Agra",
   description:
     "Grocery franchise page for salaried employees in Agra covering the Company-Managed, profit-sharing model, store formats, investment, support, and application process.",
-  url: "https://www.thebuyzaarmart.com/agra/grocery-franchise-for-salaried-employees-in-agra",
+  url: "https://www.thebuyzaarmart.com/agra/grocery-franchise-for-salaried-employee-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -134,7 +134,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. Why Salaried Employees Are Looking Beyond Their Jobs
+              Why Salaried Employees Are Looking Beyond Their Jobs
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -150,7 +150,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. Why Grocery Retail Is a Smart Choice for a Side Business
+              Why Grocery Retail Is a Smart Choice for a Side Business
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -165,7 +165,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. Why Agra Is a Strong Location for a Grocery Franchise
+              Why Agra Is a Strong Location for a Grocery Franchise
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -180,7 +180,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Why a Zero-Royalty, Profit-Sharing Model Suits Salaried Investors
+              Why a Zero-Royalty, Profit-Sharing Model Suits Salaried Investors
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -194,7 +194,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. How the Model Works With a Full-Time Job
+              How the Model Works With a Full-Time Job
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -209,7 +209,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. Store Formats, Area
+              Store Formats, Area
             </h2>
 
             <h3 className="font-medium text-gray-900">7. Mini Mart (600 – 1,000 sqft)</h3>
@@ -232,7 +232,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. What's Included in the Investment
+              What's Included in the Investment
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -246,7 +246,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. What Costs Continue Beyond the Initial Investment
+              What Costs Continue Beyond the Initial Investment
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -259,7 +259,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. Step-by-Step Process to Get a Buyzaar Mart Franchise in Agra
+              Step-by-Step Process to Get a Buyzaar Mart Franchise in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -272,7 +272,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Eligibility and Requirements for Salaried Employees
+              Eligibility and Requirements for Salaried Employees
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -286,7 +286,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Key Benefits of Partnering With The Buyzaar Mart
+              Key Benefits of Partnering With The Buyzaar Mart
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -301,7 +301,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Tips for Managing a Franchise Alongside a Job
+              Tips for Managing a Franchise Alongside a Job
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -315,7 +315,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Important Considerations Before Signing
+              Important Considerations Before Signing
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -329,7 +329,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Who Should Consider This Opportunity
+              Who Should Consider This Opportunity
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -403,23 +403,7 @@ const Content = () => {
               </div>
             </div>
 
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Grocery Franchise for Salaried Employees in Agra | Buyzaar Mart
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Start a zero-royalty grocery franchise in Agra with Buyzaar Mart, manageable alongside a full-time job. Explore store formats, area, investment, and process.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> grocery franchise Agra, grocery franchise for salaried employees, Buyzaar Mart franchise Agra, zero royalty franchise Agra, supermarket franchise Agra, part-time business for job holders, Mini Mart Super Mart Hyper Mart franchise, profit sharing franchise Agra, retail franchise investment Agra, Buyzaar Mart grocery store
-              </p>
-            </div>
+            
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
@@ -436,7 +420,7 @@ const Content = () => {
                   href="mailto:info@thebuyzaarmart.com"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
+                  info@thebuyzaarmart.com
                 </a>
               </p>
 
@@ -458,7 +442,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="agra"
-            currentSlug="/agra/grocery-franchise-for-salaried-employees-in-agra"
+            currentSlug="/agra/grocery-franchise-for-salaried-employee-agra"
           />
         </div>
 

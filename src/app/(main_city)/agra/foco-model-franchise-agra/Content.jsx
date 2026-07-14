@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "FOCO Model Franchise in Agra | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers FOCO model franchise opportunities in Agra across Mini Mart, Super Mart, and Hyper Mart formats, with company-operated management, centralized inventory support, hassle-free inventory assurance, technology-enabled reporting, and full franchise partner support.",
-  url: "https://www.thebuyzaarmart.com/agra/foco-model-franchise-in-agra",
+  url: "https://www.thebuyzaarmart.com/agra/foco-model-franchise-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -134,79 +134,43 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. Understanding the FOCO Model
+              Understanding the FOCO Model
             </h2>
 
-            <p>
-              FOCO stands for Franchise Owned, Company Operated, a structure where the investor owns the store and premises while the company runs the entire business.
-            </p>
-
-            <p>
-              The franchise partner provides the capital investment and the commercial space, and holds the franchise rights for the Agra outlet.
-            </p>
-
-            <p>
-              The company takes complete responsibility for staffing, operations, procurement, and daily running of the store.
-            </p>
-
-            <p>
-              In return, the franchise partner earns a structured share of the store's monthly revenue.
-            </p>
-
-            <p>
-              The Buyzaar Mart's FOCO structure is designed specifically for investors who want retail ownership as a managed, hands-off business asset.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>FOCO stands for Franchise Owned, Company Operated, a structure where the investor owns the store and premises while the company runs the entire business.</li>
+              <li>The franchise partner provides the capital investment and the commercial space, and holds the franchise rights for the Agra outlet.</li>
+              <li>The company takes complete responsibility for staffing, operations, procurement, and daily running of the store.</li>
+              <li>In return, the franchise partner earns a structured share of the store's monthly revenue.</li>
+              <li>The Buyzaar Mart's FOCO structure is designed specifically for investors who want retail ownership as a managed, hands-off business asset.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. Why FOCO Is Considered a Passive Investment Structure
+              Why FOCO Is Considered a Passive Investment Structure
             </h2>
 
-            <p>
-              Unlike FOFO (Franchise Owned, Franchise Operated), where the owner manages everything, or FOCM, which involves shared decision-making, FOCO shifts almost all operational responsibility to the company.
-            </p>
-
-            <p>
-              The investor's primary role is limited to providing capital and premises, and periodically reviewing store performance.
-            </p>
-
-            <p>
-              Because the company runs day-to-day operations end-to-end, outcomes tend to be more standardized and less dependent on the owner's personal involvement.
-            </p>
-
-            <p>
-              This structure suits investors who value their time and want retail income without an operational learning curve.
-            </p>
-
-            <p>
-              These factors make FOCO one of the more passive franchise models available in organized retail today.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Unlike FOFO (Franchise Owned, Franchise Operated), where the owner manages everything, or FOCM, which involves shared decision-making, FOCO shifts almost all operational responsibility to the company.</li>
+              <li>The investor's primary role is limited to providing capital and premises, and periodically reviewing store performance.</li>
+              <li>Because the company runs day-to-day operations end-to-end, outcomes tend to be more standardized and less dependent on the owner's personal involvement.</li>
+              <li>This structure suits investors who value their time and want retail income without an operational learning curve.</li>
+              <li>These factors make FOCO one of the more passive franchise models available in organized retail today.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. Why Agra Presents a Strong Market for the FOCO Model
+              Why Agra Presents a Strong Market for the FOCO Model
             </h2>
 
-            <p>
-              Agra's large, permanent residential population, spread across localities such as Sikandra, Dayalbagh, Kamla Nagar, Shahganj, Khandari, and Fatehabad Road, creates steady daily demand for organized retail.
-            </p>
-
-            <p>
-              A significant share of local retail in the city is still unorganized, leaving room for a professionally operated, branded store format.
-            </p>
-
-            <p>
-              Continuous tourist and transient footfall in several parts of Agra adds an additional demand layer beyond the resident population.
-            </p>
-
-            <p>
-              Comparatively lower real estate and setup costs in Agra, relative to metro cities, make it easier to secure suitable commercial premises for a FOCO outlet.
-            </p>
-
-            <p>
-              These factors together make Agra a favourable location for investors seeking a professionally operated retail asset under the FOCO model.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Agra's large, permanent residential population, spread across localities such as Sikandra, Dayalbagh, Kamla Nagar, Shahganj, Khandari, and Fatehabad Road, creates steady daily demand for organized retail.</li>
+              <li>A significant share of local retail in the city is still unorganized, leaving room for a professionally operated, branded store format.</li>
+              <li>Continuous tourist and transient footfall in several parts of Agra adds an additional demand layer beyond the resident population.</li>
+              <li>Comparatively lower real estate and setup costs in Agra, relative to metro cities, make it easier to secure suitable commercial premises for a FOCO outlet.</li>
+              <li>These factors together make Agra a favourable location for investors seeking a professionally operated retail asset under the FOCO model.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Core Responsibilities Under the FOCO Model
+              Core Responsibilities Under the FOCO Model
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -218,31 +182,19 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Store Formats Suited to the FOCO Model in Agra
+              Store Formats Suited to the FOCO Model in Agra
             </h2>
 
-            <p>
-              Mini Mart (600–1,000 sqft): A compact format suited to residential colonies, ideal for first-time investors entering the FOCO structure with a smaller premises.
-            </p>
-
-            <p>
-              Super Mart (1,001–3,000 sqft): A mid-sized format offering a broader product range, suited to larger neighbourhood catchments in Agra.
-            </p>
-
-            <p>
-              Hyper Mart (3,001–8,000 sqft): The largest format, designed for high-footfall commercial zones with an extensive product assortment.
-            </p>
-
-            <p>
-              All three formats can be operated under the FOCO structure, with the company scaling its operational systems to match store size.
-            </p>
-
-            <p>
-              The right format depends on the premises available, local catchment size, and the investor's capital capacity.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Mini Mart (600–1,000 sqft): A compact format suited to residential colonies, ideal for first-time investors entering the FOCO structure with a smaller premises.</li>
+              <li>Super Mart (1,001–3,000 sqft): A mid-sized format offering a broader product range, suited to larger neighbourhood catchments in Agra.</li>
+              <li>Hyper Mart (3,001–8,000 sqft): The largest format, designed for high-footfall commercial zones with an extensive product assortment.</li>
+              <li>All three formats can be operated under the FOCO structure, with the company scaling its operational systems to match store size.</li>
+              <li>The right format depends on the premises available, local catchment size, and the investor's capital capacity.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. Total Investment Under the FOCO Model in Agra
+              Total Investment Under the FOCO Model in Agra
             </h2>
 
             <p>
@@ -250,151 +202,91 @@ const Content = () => {
             </p>
 
             <h3 className="font-medium text-gray-900">1. Mini Mart (600 – 1,000 sqft)</h3>
-            <p>
-              Total Investment starting at ₹15,25,000 (at 600 sqft)
-            </p>
-            <p>
-              A Mini Mart is the ideal low-investment format for entrepreneurs starting out in Agra. It suits residential areas and local markets, offering daily essentials and FMCG products in a compact space. Investment scales up gradually as the sqft increases within this range.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Total Investment starting at ₹15,25,000 (at 600 sqft)</li>
+              <li>A Mini Mart is the ideal low-investment format for entrepreneurs starting out in Agra.</li>
+              <li>It suits residential areas and local markets, offering daily essentials and FMCG products in a compact space.</li>
+              <li>Investment scales up gradually as the sqft increases within this range.</li>
+            </ul>
 
             <h3 className="font-medium text-gray-900">2. Super Mart (1,001 – 3,000 sqft)</h3>
-            <p>
-              Total Investment starting at ₹26,63,407 (at 1,001 sqft)
-            </p>
-            <p>
-              The Super Mart format offers a wider product range across groceries, personal care, and household items. It works well in busy commercial areas of Agra where customers seek variety and convenience. Investment rises with store size and stock requirements.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Total Investment starting at ₹26,63,407 (at 1,001 sqft)</li>
+              <li>The Super Mart format offers a wider product range across groceries, personal care, and household items.</li>
+              <li>It works well in busy commercial areas of Agra where customers seek variety and convenience.</li>
+              <li>Investment rises with store size and stock requirements.</li>
+            </ul>
 
             <h3 className="font-medium text-gray-900">3. Hyper Mart (3,001 – 8,000 sqft)</h3>
-            <p>
-              Total Investment starting at ₹78,89,960 (at 3,001 sqft)
-            </p>
-            <p>
-              Hyper Mart is a large-format retail destination covering groceries, electronics, apparel, and more under one roof. It's best suited for prime locations and malls with high footfall in Agra. This format demands a higher investment for infrastructure and inventory.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Total Investment starting at ₹78,89,960 (at 3,001 sqft)</li>
+              <li>Hyper Mart is a large-format retail destination covering groceries, electronics, apparel, and more under one roof.</li>
+              <li>It's best suited for prime locations and malls with high footfall in Agra.</li>
+              <li>This format demands a higher investment for infrastructure and inventory.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. How Revenue Sharing Works Under FOCO
+              How Revenue Sharing Works Under FOCO
             </h2>
 
-            <p>
-              Once the store is operational, the company manages all running costs and operations, and shares a structured percentage of monthly revenue with the franchise partner.
-            </p>
-
-            <p>
-              As an illustrative example, a store generating a certain level of monthly sales may return a proportionate share to the owner, based on the agreed revenue-sharing percentage.
-            </p>
-
-            <p>
-              The exact revenue-sharing structure is defined in the franchise agreement and should be reviewed carefully before signing.
-            </p>
-
-            <p>
-              Because the company bears staffing, electricity, and operational expenses, the owner's share reflects a net return rather than gross sales.
-            </p>
-
-            <p>
-              Investors are encouraged to request a clear, written explanation of the revenue-sharing formula during the inquiry stage.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Once the store is operational, the company manages all running costs and operations, and shares a structured percentage of monthly revenue with the franchise partner.</li>
+              <li>As an illustrative example, a store generating a certain level of monthly sales may return a proportionate share to the owner, based on the agreed revenue-sharing percentage.</li>
+              <li>The exact revenue-sharing structure is defined in the franchise agreement and should be reviewed carefully before signing.</li>
+              <li>Because the company bears staffing, electricity, and operational expenses, the owner's share reflects a net return rather than gross sales.</li>
+              <li>Investors are encouraged to request a clear, written explanation of the revenue-sharing formula during the inquiry stage.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. Why the FOCO Model Minimizes Owner Involvement
+              Why the FOCO Model Minimizes Owner Involvement
             </h2>
 
-            <p>
-              Staff recruitment, training, salaries, and supervision are handled entirely by the company.
-            </p>
-
-            <p>
-              Day-to-day operations, including billing, customer service, and store upkeep, are managed by the operations team without requiring the owner's presence.
-            </p>
-
-            <p>
-              Electricity bills and other routine operational expenses are borne by the company as part of this structure.
-            </p>
-
-            <p>
-              Marketing, promotional campaigns, and merchandising are planned and executed by the brand.
-            </p>
-
-            <p>
-              This level of delegation makes FOCO particularly suitable for investors who want retail income without dedicating time to the business.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Staff recruitment, training, salaries, and supervision are handled entirely by the company.</li>
+              <li>Day-to-day operations, including billing, customer service, and store upkeep, are managed by the operations team without requiring the owner's presence.</li>
+              <li>Electricity bills and other routine operational expenses are borne by the company as part of this structure.</li>
+              <li>Marketing, promotional campaigns, and merchandising are planned and executed by the brand.</li>
+              <li>This level of delegation makes FOCO particularly suitable for investors who want retail income without dedicating time to the business.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. The Role of Site Selection Under FOCO
+              The Role of Site Selection Under FOCO
             </h2>
 
-            <p>
-              Since the company operates the store but does not own the premises, site quality is critical to the success of a FOCO outlet.
-            </p>
-
-            <p>
-              Residential neighborhoods with consistent daily foot traffic and visibility from main roads tend to perform best under this model.
-            </p>
-
-            <p>
-              Proximity to housing colonies, apartment complexes, or dense residential pockets supports steady, recurring customer demand in Agra.
-            </p>
-
-            <p>
-              Limited presence of existing organized retail nearby improves the store's competitive position.
-            </p>
-
-            <p>
-              A structured location survey is conducted before finalizing any FOCO site, helping ensure the premises can support strong revenue performance.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Since the company operates the store but does not own the premises, site quality is critical to the success of a FOCO outlet.</li>
+              <li>Residential neighborhoods with consistent daily foot traffic and visibility from main roads tend to perform best under this model.</li>
+              <li>Proximity to housing colonies, apartment complexes, or dense residential pockets supports steady, recurring customer demand in Agra.</li>
+              <li>Limited presence of existing organized retail nearby improves the store's competitive position.</li>
+              <li>A structured location survey is conducted before finalizing any FOCO site, helping ensure the premises can support strong revenue performance.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Realistic Expectations Around FOCO Franchise Returns
+              Realistic Expectations Around FOCO Franchise Returns
             </h2>
 
-            <p>
-              Break-even and revenue stabilization timelines for FOCO-operated grocery retail typically fall within the 12 to 18 month range, depending on location and footfall.
-            </p>
-
-            <p>
-              Returns depend heavily on the quality of the premises, local catchment strength, and the company's operational execution.
-            </p>
-
-            <p>
-              The agreed revenue-sharing percentage should be reviewed and understood in detail before finalizing the franchise agreement.
-            </p>
-
-            <p>
-              A well-located FOCO store in a growing Agra neighborhood can offer steady, predictable returns over the agreement term.
-            </p>
-
-            <p>
-              Investors should approach this model with realistic expectations, recognizing that returns depend on store performance rather than a fixed guaranteed income.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Break-even and revenue stabilization timelines for FOCO-operated grocery retail typically fall within the 12 to 18 month range, depending on location and footfall.</li>
+              <li>Returns depend heavily on the quality of the premises, local catchment strength, and the company's operational execution.</li>
+              <li>The agreed revenue-sharing percentage should be reviewed and understood in detail before finalizing the franchise agreement.</li>
+              <li>A well-located FOCO store in a growing Agra neighborhood can offer steady, predictable returns over the agreement term.</li>
+              <li>Investors should approach this model with realistic expectations, recognizing that returns depend on store performance rather than a fixed guaranteed income.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Advantages of Choosing FOCO Over Other Franchise Models
+              Advantages of Choosing FOCO Over Other Franchise Models
             </h2>
 
-            <p>
-              Minimal operational involvement, since the company manages staffing, procurement, and daily running of the store.
-            </p>
-
-            <p>
-              No requirement for prior retail experience, as the entire operational function is handled by trained professionals.
-            </p>
-
-            <p>
-              Reduced day-to-day risk, since the company bears staffing and running costs rather than the franchise owner.
-            </p>
-
-            <p>
-              Suitable for investors who already own or can access suitable commercial property in Agra but do not have time to manage a business.
-            </p>
-
-            <p>
-              A practical option for salaried professionals, NRIs, retired individuals, and those seeking a genuinely passive retail investment.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Minimal operational involvement, since the company manages staffing, procurement, and daily running of the store.</li>
+              <li>No requirement for prior retail experience, as the entire operational function is handled by trained professionals.</li>
+              <li>Reduced day-to-day risk, since the company bears staffing and running costs rather than the franchise owner.</li>
+              <li>Suitable for investors who already own or can access suitable commercial property in Agra but do not have time to manage a business.</li>
+              <li>A practical option for salaried professionals, NRIs, retired individuals, and those seeking a genuinely passive retail investment.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Who Should Consider the FOCO Model in Agra
+              Who Should Consider the FOCO Model in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -406,7 +298,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Documents and Application Process
+              Documents and Application Process
             </h2>
 
             <p>
@@ -422,7 +314,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Ongoing Support for FOCO Franchise Partners in Agra
+              Ongoing Support for FOCO Franchise Partners in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -486,60 +378,37 @@ const Content = () => {
                 Start Your FOCO Franchise Journey in Agra
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                The FOCO model offers a genuinely passive path to retail ownership in Agra with structured company support and reduced operational involvement.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Join The Buyzaar Mart franchise network and build a professionally operated neighborhood retail store designed for long-term growth.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
+                <li>The FOCO model offers a genuinely passive path to retail ownership in Agra with structured company support and reduced operational involvement.</li>
+                <li>Join The Buyzaar Mart franchise network and build a professionally operated neighborhood retail store designed for long-term growth.</li>
+                <li>
+                  Email:{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  Phone / WhatsApp:{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>Business Hours: Monday to Saturday, 09:00 AM – 07:00 PM</li>
+              </ul>
             </div>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Meta Title
-            </h2>
-            <p>FOCO Model Franchise in Agra | Buyzaar Mart Investment Guide</p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Meta Description
-            </h2>
-            <p>Explore the FOCO (Franchise Owned, Company Operated) franchise opportunity in Agra with Buyzaar Mart — model details, store formats, investment, and revenue sharing.</p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Meta Tag Keywords
-            </h2>
-            <p>
-              FOCO franchise Agra, FOCO model franchise India, Buyzaar Mart Agra, franchise owned company operated Agra, Buyzaar Mart investment, FOCO store franchise, passive investment franchise Agra, grocery franchise Uttar Pradesh, organized retail franchise Agra, Buyzaar Mart FOCO franchise
-            </p>
+            
           </div>
 
           <CityInternalLinks
             city="agra"
-            currentSlug="/agra/foco-model-franchise-in-agra"
+            currentSlug="/agra/foco-model-franchise-agra"
           />
         </div>
 

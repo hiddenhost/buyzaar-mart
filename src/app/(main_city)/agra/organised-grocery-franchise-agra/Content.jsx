@@ -5,10 +5,10 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Organised Grocery Franchise Agra",
+  name: "Mini Mart Franchise in Agra | The Buyzaar Mart",
   description:
-    "Organised grocery franchise page for Agra covering Buyzaar Mart's Company-Managed, zero-royalty model, store formats, investment, and franchise process.",
-  url: "https://www.thebuyzaarmart.com/agra/organised-grocery-franchise-agra",
+    "The Buyzaar Mart offers a Mini Mart franchise in Agra with a compact 600 to 1,000 sqft format, company-managed operations, structured support, and a transparent investment breakdown.",
+  url: "https://www.thebuyzaarmart.com/agra/mini-mart-franchise-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -25,25 +25,25 @@ const localBusinessSchema = {
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Grocery Franchise Formats in Agra",
+    name: "The Buyzaar Mart Mini Mart Franchise in Agra",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Suited for residential colonies and first-time investors.",
+          "Compact retail format ranging from 600 to 1,000 sqft for neighborhood-level catchments in Agra.",
       },
       {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "Suited for busy market areas and growing residential sectors.",
+          "Larger format suited to bigger residential neighborhoods and catchment areas in Agra.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
         description:
-          "Suited for high-footfall main roads and expressway-adjacent locations.",
+          "Largest format suited to prime commercial zones and high-footfall locations in Agra.",
       },
     ],
   },
@@ -55,50 +55,66 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is an organised grocery franchise?",
+      name: "What is the Mini Mart franchise format?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A branded, standardized store format with consistent pricing, layout, and technology-enabled operations.",
+        text: "A compact retail format ranging from 600 to 1,000 sqft, suited to neighborhood-level catchments.",
       },
     },
     {
       "@type": "Question",
-      name: "How is this different from a traditional kirana store?",
+      name: "How much investment is required for a Mini Mart in Agra?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Organised franchises follow structured systems for inventory, pricing, and customer experience, unlike informal local shops.",
+        text: "Total investment starts at approximately ₹15,25,000 at 600 sqft.",
       },
     },
     {
       "@type": "Question",
-      name: "Is there a fixed royalty fee?",
+      name: "Is Agra a good location for a Mini Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No, Buyzaar Mart operates on a zero-royalty, profit-sharing model.",
+        text: "Yes, its mix of residential neighborhoods and low organized retail penetration support this format well.",
       },
     },
     {
       "@type": "Question",
-      name: "How much investment is required in Agra?",
+      name: "Do I need retail experience to operate a Mini Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Mini Mart starts at ₹15,25,000, Super Mart at ₹26,63,407, and Hyper Mart at ₹78,89,960.",
+        text: "No, the Company-Managed model handles daily operations for you.",
       },
     },
     {
       "@type": "Question",
-      name: "Do I need retail experience to invest?",
+      name: "What does the investment include?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No, training and operational support are provided by Buyzaar Mart's team.",
+        text: "Stock, interior, software fee, franchise fee, and a refundable security deposit.",
       },
     },
     {
       "@type": "Question",
-      name: "How do I apply for an organised grocery franchise in Agra?",
+      name: "How long does it take to break even with a Mini Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Submit an enquiry through the official Buyzaar Mart website, mentioning Agra as your preferred city.",
+        text: "Typically around 12 to 18 months, depending on location and footfall.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Can I expand to a larger format later?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Yes, many investors start with a Mini Mart before scaling to a Super Mart or Hyper Mart.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Does Buyzaar Mart help find a location in Agra?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Yes, the team conducts location surveys and can assist in identifying suitable sites.",
       },
     },
   ],
@@ -126,238 +142,198 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Organised Grocery Franchise Agra – Buyzaar Mart
+              Mini Mart Franchise in Agra – Complete Overview
             </h1>
 
             <p>
-              India's retail sector is steadily shifting from scattered, unorganized shops to structured, branded outlets — and Agra is no exception. An organised grocery franchise in Agra with The Buyzaar Mart offers investors a chance to be part of this shift early, backed by a Company-Managed, zero-royalty model. This guide breaks down what organized grocery retail means, why Agra is ready for it, and how Buyzaar Mart's franchise works, presented point by point for easy reference.
+              For investors looking to enter organized retail in Agra without committing to a large-scale store, The Buyzaar Mart's Mini Mart franchise offers a focused, manageable option. This format is built around simplicity and efficiency, allowing investors to run a well-organized retail outlet without the operational complexity or capital requirements associated with larger store formats. It's an especially practical choice for those who want to understand the retail business firsthand before considering expansion.
+
+              Designed for compact commercial spaces and neighborhood catchments, the Mini Mart is often the starting point for first-time franchise owners in the city.
+
+              Its smaller footprint makes it easier to identify suitable locations within residential colonies and local markets.
+
+              Consistent footfall comes from nearby households rather than large-scale commercial traffic.
+
+              This makes site selection more flexible and reduces dependency on prime high-rent commercial areas.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              1. What Does "Organised Grocery Retail" Actually Mean
+              About the Mini Mart Format?
             </h2>
 
-            <p>
-              Before evaluating a franchise, it helps to understand what separates organized retail from the traditional kirana store model most people are used to.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Organised retail refers to standardized, branded stores with consistent product ranges, pricing, and shopping experiences across locations.</li>
-              <li>It typically involves structured supply chains, quality control, and technology-enabled billing and inventory systems.</li>
-              <li>Unlike unorganized kirana stores, organized outlets follow defined store layouts, staff training, and customer service standards.</li>
-              <li>Organised retail often includes systems for tracking sales, stock, and expiry, reducing wastage and pricing inconsistencies.</li>
-              <li>The shift toward organized retail reflects changing consumer expectations around hygiene, transparency, and convenience.</li>
+              <li>The Mini Mart is The Buyzaar Mart's smallest franchise format, designed for compact retail spaces ranging from 600 to 1,000 square feet.</li>
+              <li>It offers a focused selection of grocery essentials and daily-use products suited to quick, convenient shopping trips.</li>
+              <li>The format is built for neighborhood-level catchments rather than drawing footfall from across an entire city.</li>
+              <li>Despite its compact size, the Mini Mart follows the same brand standards, systems, and operational model used across all Buyzaar Mart formats.</li>
+              <li>It is positioned as an accessible entry point into organized retail franchising for investors with a smaller budget or limited commercial space.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              2. Why Agra Is Ready for Organised Grocery Retail
+              Why Agra Is Well Suited to the Mini Mart Format
             </h2>
 
-            <p>
-              Every city reaches a tipping point where consumer demand starts favoring organized formats over traditional ones. Several signs suggest Agra is approaching that stage now.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Agra's population is expanding through new residential sectors, gated societies, and improved city infrastructure.</li>
-              <li>Rising disposable incomes are shifting consumer preference toward branded, well-stocked, hygienic stores.</li>
-              <li>Organised grocery retail penetration remains relatively low across many Agra localities, leaving room for early movers.</li>
-              <li>Improved connectivity via the Agra–Lucknow Expressway, Yamuna Expressway, and NH-19 is opening new catchment areas for retail investment.</li>
-              <li>A strong local economy — driven by tourism, handicrafts, education, and services — supports consistent daily consumer spending.</li>
+              <li>Agra's urban layout includes numerous mid-density residential neighborhoods that align well with a compact, neighborhood-focused store.</li>
+              <li>Many of these areas are currently served primarily by unorganized kirana stores, leaving room for an organized, branded alternative.</li>
+              <li>Smaller commercial spaces are generally easier to locate and lease across different parts of Agra compared to larger retail footprints.</li>
+              <li>The city's mix of established colonies and newer residential developments offers multiple potential catchments for a Mini Mart.</li>
+              <li>Lower real estate costs in several parts of Agra, compared to metro cities, support a more accessible entry investment for this format.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              3. How Organised Retail Differs From Traditional Kirana Stores
+              Total Investment for a Mini Mart Franchise in Agra
             </h2>
 
-            <p>
-              Understanding this contrast helps explain why organized formats tend to build stronger, more loyal customer bases over time.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Traditional kirana stores often have inconsistent stock availability, while organized stores maintain structured inventory management.</li>
-              <li>Pricing in kirana stores can vary by negotiation, while organized retail typically follows transparent, fixed pricing.</li>
-              <li>Kirana stores rarely offer digital billing or loyalty systems, while organized outlets use technology for both.</li>
-              <li>Store hygiene, layout, and product presentation are usually more consistent in organized formats.</li>
-              <li>Organised retail brands typically offer a broader, more curated product range across categories.</li>
+              <li>Total investment starts at ₹15,25,000 for a Mini Mart at the minimum area of 600 sqft.</li>
+              <li>This covers initial stock, store interior, software fee, the franchise fee (inclusive of GST), and a refundable security deposit.</li>
+              <li>Investment figures scale slightly as the selected area increases within the 600–1,000 sqft range, up to a maximum of 1,000 sqft.</li>
+              <li>Applicants can use the investment calculator on the official Buyzaar Mart website for a precise estimate based on their chosen area.</li>
+              <li>A detailed, itemised breakdown is shared once the specific location and area are finalized.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              4. Why Choose Buyzaar Mart for an Organised Grocery Franchise
+              What the Mini Mart Investment Typically Includes
             </h2>
 
-            <p>
-              Not every organized retail brand offers the same structure or support. Here's what sets Buyzaar Mart apart for investors evaluating this space.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>A Company-Managed model where the brand's trained team handles daily store operations.</li>
-              <li>A zero-royalty, profit-sharing structure that aligns the brand's earnings directly with store performance.</li>
-              <li>Defined store formats — Mini Mart, Super Mart, and Hyper Mart — designed for different budgets and locations.</li>
-              <li>Technology-enabled billing and inventory systems that support transparent, organized operations.</li>
-              <li>Structured location surveys to help ensure new stores are placed in commercially viable areas.</li>
+              <li>
+                <span className="font-medium text-gray-900">Stock:</span> Initial inventory covering grocery essentials and daily-use categories suited to a compact store layout.
+              </li>
+              <li>
+                <span className="font-medium text-gray-900">Interior:</span> Store fixtures, shelving, and layout design aligned with Buyzaar Mart's brand standards.
+              </li>
+              <li>
+                <span className="font-medium text-gray-900">Software Fee:</span> A one-time cost covering billing and inventory management systems.
+              </li>
+              <li>
+                <span className="font-medium text-gray-900">Franchise Fee (incl. 18% GST):</span> Grants the right to operate under The Buyzaar Mart brand name and systems.
+              </li>
+              <li>
+                <span className="font-medium text-gray-900">Security Deposit:</span> A refundable deposit associated with the franchise agreement, based on the selected area.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              5. Store Formats Under the Organised Franchise Model
+              Who Should Consider a Mini Mart Franchise in Agra?
             </h2>
 
-            <p>
-              Buyzaar Mart's organized retail approach is built around three clearly defined store formats, each suited to a different scale of operation.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart (600 – 1,000 sqft): Total investment starting at ₹15,25,000 (at 600 sqft) — suited for residential colonies and first-time investors.</li>
-              <li>Super Mart (1,001 – 3,000 sqft): Total investment starting at ₹26,63,407 (at 1,001 sqft) — suited for busy market areas and growing residential sectors.</li>
-              <li>Hyper Mart (3,001 – 8,000 sqft): Total investment starting at ₹78,89,960 (at 3,001 sqft) — suited for high-footfall main roads and expressway-adjacent locations.</li>
+              <li>First-time investors looking for an accessible entry point into organized retail without a large capital commitment.</li>
+              <li>Local property owners in Agra with smaller commercial spaces who want to convert them into an income-generating business.</li>
+              <li>Working professionals interested in a secondary income stream through a Company-Managed franchise model.</li>
+              <li>Investors who want to start small and evaluate the retail business model before potentially scaling up to a larger format.</li>
+              <li>Individuals seeking a structured, branded business opportunity suited to residential neighborhood catchments.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              6. What the Investment Covers in an Organised Franchise
+              How the Company-Managed Model Works for a Mini Mart
             </h2>
 
-            <p>
-              Understanding what your investment actually funds helps clarify why organized retail requires more structured upfront planning than a traditional shop.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>A one-time franchise fee, inclusive of applicable GST.</li>
-              <li>Store interior, branding, and shelving setup as per Buyzaar Mart's standard organized format.</li>
-              <li>Initial inventory stock across grocery, FMCG, personal care, and household categories.</li>
-              <li>Billing and POS software/hardware for technology-enabled, organized operations.</li>
-              <li>Security deposit, where applicable, depending on the property arrangement.</li>
+              <li>Daily operations — including staffing, inventory management, and billing — are handled by trained personnel and centralized systems rather than the investor.</li>
+              <li>Investors are not required to have prior retail experience to operate a Mini Mart under this model.</li>
+              <li>Technology-enabled reporting keeps investors informed about store performance without requiring daily physical presence.</li>
+              <li>This operational structure is particularly useful for Agra-based investors who may have other professional commitments alongside the franchise.</li>
+              <li>The same Company-Managed principles apply consistently across all Buyzaar Mart formats, including the Mini Mart.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              7. Why the Zero-Royalty Model Fits an Organised Retail Approach
+              Ideal Locations for a Mini Mart Within Agra
             </h2>
 
-            <p>
-              Organised retail brands typically charge for their systems and brand value through a royalty fee — but Buyzaar Mart takes a different approach.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart's Company-Managed model does not charge a fixed monthly or annual royalty fee.</li>
-              <li>Instead, the franchisor earns through profit sharing, tied directly to the store's actual performance.</li>
-              <li>This reduces fixed financial pressure during the early ramp-up period, especially relevant in a developing market like Agra.</li>
-              <li>It aligns the franchisor's incentives with the investor's success, encouraging active operational support.</li>
-              <li>This structure allows investors to adopt an organized retail format without a heavy fixed monthly cost.</li>
+              <li>Residential neighborhoods with limited existing organized retail presence tend to offer the strongest catchment potential.</li>
+              <li>Areas near apartment complexes, gated colonies, or dense housing pockets typically support consistent daily footfall.</li>
+              <li>Good visibility from main roads or neighborhood entry points helps improve walk-in customer traffic.</li>
+              <li>Proximity to schools, small offices, or other regular foot-traffic generators can further support steady demand.</li>
+              <li>A structured location survey helps determine whether a specific site in Agra is commercially viable for a Mini Mart.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              8. How Profit Sharing Works in This Model
+              Product Range and Store Layout Considerations
             </h2>
 
-            <p>
-              Since there's no fixed royalty, profit sharing forms the core of how the franchisor and investor both benefit from store performance.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Distributable profit is calculated after deducting operating costs such as staff salaries and store expenses.</li>
-              <li>The profit-sharing percentage between investor and company is clearly defined in the franchise agreement.</li>
-              <li>Payouts are typically made on a monthly or quarterly basis, depending on the specific agreement terms.</li>
-              <li>Because there's no fixed royalty, the profit-sharing percentage directly determines actual investor returns.</li>
-              <li>Investors should request sample calculations based on realistic sales projections before signing.</li>
+              <li>The Mini Mart format typically focuses on high-demand, fast-moving grocery and daily essential categories.</li>
+              <li>Product selection is tailored to reflect local shopping habits and preferences within the specific Agra neighborhood.</li>
+              <li>Efficient shelf layout and space planning are essential to maximizing sales within the format's compact footprint.</li>
+              <li>Centralized inventory management helps maintain the right product mix despite the limited retail space.</li>
+              <li>The goal is to offer a focused, convenient shopping experience rather than an extensive product catalogue.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              9. Benefits of Investing in Organised Grocery Retail in Agra
+              Realistic Break-Even and Return Expectations
             </h2>
 
-            <p>
-              Choosing an organized format over an independent, unbranded store comes with several practical advantages.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Stronger customer trust due to consistent quality, pricing, and store experience.</li>
-              <li>Structured inventory systems that reduce wastage from expired or damaged stock.</li>
-              <li>A defined, professional store layout that improves customer footfall and repeat visits.</li>
-              <li>Brand-backed marketing and promotional support during and after store launch.</li>
-              <li>Long-term scalability, since successful outlets can be expanded to additional locations.</li>
+              <li>Break-even timelines for Mini Mart formats generally fall within the 12 to 18 month range typical of organized grocery retail.</li>
+              <li>Store performance depends on factors such as location quality, local competition, and consistent operational execution.</li>
+              <li>Returns are linked to the franchise's profit-sharing structure, which should be reviewed carefully before signing the agreement.</li>
+              <li>A well-located Mini Mart in a growing Agra neighborhood can offer steady, predictable performance over time.</li>
+              <li>Investors should approach the format with realistic expectations rather than assuming immediate profitability.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              10. Step-by-Step Process to Start an Organised Franchise in Agra
+              Advantages of Choosing a Mini Mart in Agra
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Initial Enquiry – Submit interest through the official Buyzaar Mart website, mentioning Agra as your preferred city.</li>
-              <li>Discussion Call – Discuss your investment budget, preferred store format, and locality with the franchise team.</li>
-              <li>Location Survey – A proposed property is evaluated, or a suitable site is identified with the team's assistance.</li>
-              <li>Agreement Review – Investment breakdown, profit-sharing terms, and responsibilities are explained in detail.</li>
-              <li>Agreement Signing – The franchise agreement is signed, formalizing the partnership.</li>
-              <li>Store Setup – Interior, branding, inventory, and billing systems are installed as per organized retail standards.</li>
-              <li>Staffing &amp; Training – Store staff are hired and trained by the company's operational team.</li>
-              <li>Store Launch – The outlet opens with marketing and promotional support.</li>
+              <li>Lower upfront investment compared to Super Mart or Hyper Mart formats, reducing overall financial risk.</li>
+              <li>Easier to identify and lease suitable commercial spaces, given the smaller footprint required.</li>
+              <li>Reduced staffing and operational complexity compared to managing a larger-format store.</li>
+              <li>A practical way to test the organized retail business model before committing to a larger investment.</li>
+              <li>Well suited to underserved residential pockets across Agra that may not yet support a larger store format.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              11. Best Localities in Agra for Organised Grocery Retail
+              Documents Typically Required to Apply
             </h2>
 
-            <p>
-              Location plays a central role in how quickly an organized store builds footfall and customer loyalty. These Agra localities are worth considering.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Sikandra – growing residential development with expanding infrastructure.</li>
-              <li>Dayalbagh – established residential area with steady daily footfall.</li>
-              <li>Kamla Nagar – a well-known commercial and residential hub in the city.</li>
-              <li>Shastripuram – an emerging residential pocket with retail potential.</li>
-              <li>Tajganj – high footfall due to tourism and local residential demand.</li>
-              <li>Agra–Lucknow Expressway corridor – developing sectors with long-term growth potential.</li>
+              <li>Identity proof, such as Aadhaar card, PAN card, or Voter ID.</li>
+              <li>Educational Certificate: Certificate of Highest Education - 10th/12th/Grad/Post-Grad.</li>
+              <li>Bank Details: Cancelled cheque/Copy of Passbook.</li>
+              <li>Property Documents for Proposed Store: Ownership/Rental Agreement.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              12. Who Should Consider an Organised Grocery Franchise in Agra
+              Step-by-Step Process to Apply for a Mini Mart Franchise in Agra
             </h2>
 
-            <p>
-              This model suits a range of investors, not just those with prior retail experience.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Salaried professionals seeking a structured, lower-effort entry into retail ownership.</li>
-              <li>First-time investors who want the reliability of an organized, brand-backed format.</li>
-              <li>Property owners in Agra looking to convert commercial space into an active organized outlet.</li>
-              <li>Local entrepreneurs seeking brand support instead of building a business from scratch.</li>
-              <li>Investors focused on long-term, scalable retail opportunities in a developing city.</li>
+              <li>Step 1: Submit an inquiry through the official Buyzaar Mart website, specifying Agra and your interest in the Mini Mart format.</li>
+              <li>Step 2: Discuss your investment capacity and any potential property with the franchise development team.</li>
+              <li>Step 3: Undergo a location survey if a site has been identified, or request assistance finding a suitable location.</li>
+              <li>Step 4: Review the detailed investment breakdown for your chosen area within the 600–1,000 sqft range.</li>
+              <li>Step 5: Sign the franchise agreement, covering investment terms and profit-sharing structure.</li>
+              <li>Step 6: Proceed through store setup, staffing, training, and launch.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              13. Important Considerations Before Investing
+              Support Available to Mini Mart Franchise Partners in Agra
             </h2>
 
-            <p>
-              As with any business decision, it's worth reviewing a few key details carefully before committing to an organized franchise.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Break-even in grocery retail typically takes 12 to 18 months and should be factored into expectations.</li>
-              <li>Location quality significantly impacts how quickly an organized store builds consistent footfall.</li>
-              <li>Profit-sharing terms and cost deductions should be reviewed thoroughly before signing.</li>
-              <li>Understand how underperformance or slow-sales periods are handled under the agreement.</li>
-              <li>Confirm the frequency and method of profit distribution in advance.</li>
+              <li>Structured location surveys to help evaluate potential sites within the city.</li>
+              <li>A transparent, itemised investment breakdown specific to the Mini Mart format.</li>
+              <li>Centralized inventory management to help maintain optimal stock levels within a compact retail space.</li>
+              <li>A Hassle-Free Inventory Assurance, protecting against losses from expired or damaged stock.</li>
+              <li>Technology-enabled billing and reporting systems for ongoing performance visibility.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              14. Long-Term Outlook for Organised Retail in Agra
+              Mini Mart as a Stepping Stone to Larger Formats
             </h2>
 
-            <p>
-              As Agra continues to grow, organized retail is expected to play a larger role in how residents shop for daily essentials.
-            </p>
-
             <ul className="list-disc space-y-2 pl-6">
-              <li>Increasing urbanization and rising incomes typically accelerate the shift toward organized retail formats.</li>
-              <li>Early movers in Agra's organized grocery segment are likely to benefit from lower competition today.</li>
-              <li>As more residential and commercial sectors develop, demand for structured, reliable grocery outlets is expected to grow.</li>
-              <li>Investors who establish a strong presence early may be better positioned for expansion as the market matures.</li>
-              <li>Long-term success will depend on consistent execution, location quality, and maintaining organized retail standards.</li>
+              <li>Many investors use the Mini Mart as an initial entry point before considering an upgrade to a Super Mart or Hyper Mart format.</li>
+              <li>Hands-on familiarity gained from operating a Mini Mart can inform future decisions about scaling to a larger store.</li>
+              <li>The Buyzaar Mart's consistent brand standards and Company-Managed model make transitioning between formats more straightforward.</li>
+              <li>Starting with a Mini Mart allows investors to build confidence in the business model with a comparatively lower initial commitment.</li>
+              <li>This phased approach can be a practical strategy for investors planning long-term growth within Agra's retail market.</li>
             </ul>
-
-            <p>
-              An organised grocery franchise in Agra with The Buyzaar Mart offers investors a structured, brand-backed way to participate in the city's evolving retail landscape. With defined store formats, a zero-royalty profit-sharing model, and technology-enabled operations, the opportunity is designed to make organized retail accessible even to first-time investors. As Agra's residential and commercial sectors continue to expand, early participation in organized grocery retail may offer long-term advantages for those who invest today.
-            </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions (FAQs)
@@ -365,118 +341,98 @@ const Content = () => {
 
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">Q1. What is an organised grocery franchise?</h3>
+                <h3 className="font-medium text-gray-900">Q1. What is the Mini Mart franchise format?</h3>
                 <p className="mt-2">
-                  A branded, standardized store format with consistent pricing, layout, and technology-enabled operations.
+                  A compact retail format ranging from 600 to 1,000 sqft, suited to neighborhood-level catchments.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Q2. How is this different from a traditional kirana store?</h3>
+                <h3 className="font-medium text-gray-900">Q2. How much investment is required for a Mini Mart in Agra?</h3>
                 <p className="mt-2">
-                  Organised franchises follow structured systems for inventory, pricing, and customer experience, unlike informal local shops.
+                  Total investment starts at approximately ₹15,25,000 at 600 sqft.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Q3. Is there a fixed royalty fee?</h3>
+                <h3 className="font-medium text-gray-900">Q3. Is Agra a good location for a Mini Mart?</h3>
                 <p className="mt-2">
-                  No, Buyzaar Mart operates on a zero-royalty, profit-sharing model.
+                  Yes, its mix of residential neighborhoods and low organized retail penetration support this format well.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Q4. How much investment is required in Agra?</h3>
+                <h3 className="font-medium text-gray-900">Q4. Do I need retail experience to operate a Mini Mart?</h3>
                 <p className="mt-2">
-                  Mini Mart starts at ₹15,25,000, Super Mart at ₹26,63,407, and Hyper Mart at ₹78,89,960.
+                  No, the Company-Managed model handles daily operations for you.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Q5. Do I need retail experience to invest?</h3>
+                <h3 className="font-medium text-gray-900">Q5. What does the investment include?</h3>
                 <p className="mt-2">
-                  No, training and operational support are provided by Buyzaar Mart's team.
+                  Stock, interior, software fee, franchise fee, and a refundable security deposit.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Q6. Which Agra localities suit an organised grocery store?</h3>
+                <h3 className="font-medium text-gray-900">Q6. How long does it take to break even with a Mini Mart?</h3>
                 <p className="mt-2">
-                  Sikandra, Dayalbagh, Kamla Nagar, Shastripuram, and Tajganj are strong options.
+                  Typically around 12 to 18 months, depending on location and footfall.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Q7. How long does it take to break even?</h3>
+                <h3 className="font-medium text-gray-900">Q7. Can I expand to a larger format later?</h3>
                 <p className="mt-2">
-                  Typically 12 to 18 months, depending on location and store performance.
+                  Yes, many investors start with a Mini Mart before scaling to a Super Mart or Hyper Mart.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Q8. How do I apply for an organised grocery franchise in Agra?</h3>
+                <h3 className="font-medium text-gray-900">Q8. Does Buyzaar Mart help find a location in Agra?</h3>
                 <p className="mt-2">
-                  Submit an enquiry through the official Buyzaar Mart website, mentioning Agra as your preferred city.
+                  Yes, the team conducts location surveys and can assist in identifying suitable sites.
                 </p>
               </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Meta Information
+                Start Your Mini Mart Journey in Agra
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Title:</span> Organised Grocery Franchise in Agra | Buyzaar Mart
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Meta Description:</span> Invest in an organised grocery franchise in Agra with Buyzaar Mart's zero-royalty, Company-Managed model. Explore store formats, investment, and process.
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Meta Tag Keywords:</span> organised grocery franchise Agra, Buyzaar Mart franchise Agra, organized retail franchise Agra, grocery store franchise Agra, zero royalty franchise Agra, branded grocery store Agra, Mini Mart Super Mart Hyper Mart, company managed franchise Agra, retail investment Agra, Buyzaar Mart organised retail
-              </p>
-            </div>
-
-            <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Franchise Enquiry
-              </h2>
-
-              <p className="mb-4 text-gray-800">
-                Agra applicants can use the contact options above to start a franchise discussion with Buyzaar Mart.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  [info@thebuyzaarmart.com](mailto:info@thebuyzaarmart.com)
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="list-disc space-y-2 pl-6 text-gray-800">
+                <li>The Mini Mart format provides a practical way to enter organized retail in Agra with a starting investment of approximately ₹15,25,000.</li>
+                <li>Join The Buyzaar Mart franchise network and build a branded neighborhood store with professional support and a lower entry barrier.</li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
           </div>
 
           <CityInternalLinks
             city="agra"
-            currentSlug="/agra/organised-grocery-franchise-agra"
+            currentSlug="/agra/mini-mart-franchise-agra"
           />
         </div>
 

@@ -9,13 +9,13 @@ export const metadata = {
     "Start your own convenience store franchise in Lucknow with The Buyzaar Mart. Low investment starting ₹15 Lakh, FOCM model, full setup support, POS system & supply chain. Apply now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-in-lucknow",
+      "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-lucknow",
   },
   openGraph: {
     title: "Convenience Store Franchise Lucknow | The Buyzaar Mart",
     description:
       "Start your own convenience store franchise in Lucknow with The Buyzaar Mart. Low investment starting ₹15 Lakh, FOCM model, full setup support, POS system & supply chain. Apply now!",
-    url: "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-in-lucknow",
+    url: "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
       {

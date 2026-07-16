@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Low Investment Supermarket Franchise in Lucknow | Buyzaar Mart",
+  name: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
   description:
     "Buyzaar Mart offers low investment supermarket franchise opportunities in Lucknow with full setup, operational support, and formats suitable for beginners and small investors.",
   url: "https://www.thebuyzaarmart.com/lucknow/Grocery-supermarket-franchise-in-lucknow-for-beginners",

@@ -5,10 +5,10 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "The Buyzaar Mart - Convenience Store Franchise in Lucknow",
+  name: "Supermarket Franchise Opportunity in Lucknow | Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers a convenience store franchise opportunity in Lucknow with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, full store setup support, POS technology, staff training, hyper-local marketing, and inventory protection.",
-  url: "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-in-lucknow",
+    "Explore a low investment supermarket franchise opportunity in Lucknow with Buyzaar Mart. Get high ROI, brand support, and complete business setup guidance.",
+  url: "https://www.thebuyzaarmart.com/lucknow/supermarket-franchise-opportunity-in-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -25,25 +25,25 @@ const localBusinessSchema = {
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Convenience Store Franchise Formats in Lucknow",
+    name: "Buyzaar Mart Supermarket Franchise Formats in Lucknow",
     itemListElement: [
       {
         "@type": "Offer",
-        name: "Mini Mart Franchise",
+        name: "Small Format Store",
         description:
-          "Entry-level convenience store franchise format for residential lanes, smaller localities, and compact daily-needs retail locations in Lucknow",
+          "Low investment supermarket franchise format suited for compact locations and residential catchments in Lucknow.",
       },
       {
         "@type": "Offer",
-        name: "Super Mart Franchise",
+        name: "Mid Format Supermarket",
         description:
-          "Mid-sized convenience store franchise for market areas, busy roads, and larger residential colonies in Lucknow",
+          "Flexible supermarket format designed for growing residential and semi-commercial areas in Lucknow.",
       },
       {
         "@type": "Offer",
-        name: "Hyper Mart Franchise",
+        name: "Large Format Supermarket",
         description:
-          "Large-format convenience and daily-needs retail franchise for high-footfall commercial areas and township projects in Lucknow",
+          "Full supermarket format suited for high-footfall, larger commercial spaces and expanding localities in Lucknow.",
       },
     ],
   },
@@ -55,58 +55,66 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is the minimum investment to start a The Buyzaar Mart franchise in Lucknow?",
+      name: "What is the minimum investment for a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from approximately ₹15 lakh for a Mini Mart format. The Super Mart and Hyper Mart formats require higher investment depending on store size and location.",
+        text: "It varies by store size and location; smaller formats need lower investment, larger ones need more. Contact the franchise team for exact figures.",
       },
     },
     {
       "@type": "Question",
-      name: "What is the FOCM model offered by The Buyzaar Mart?",
+      name: "Is prior retail experience required?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "FOCM stands for Franchise Owned Company Managed. You invest in and own the store, while The Buyzaar Mart team handles operations, branding, supply chain, staff training, and technology management.",
+        text: "No, Buyzaar Mart provides training and operational support, making it suitable for first-time business owners.",
       },
     },
     {
       "@type": "Question",
-      name: "Do I need retail experience to open a The Buyzaar Mart franchise in Lucknow?",
+      name: "What store size is needed for a franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No prior retail experience is required. The Buyzaar Mart provides complete training, operational SOPs, and ongoing support so that motivated investors can run a successful store.",
+        text: "Store size requirements start from a compact format and go up to larger supermarket layouts, depending on the model chosen.",
       },
     },
     {
       "@type": "Question",
-      name: "What areas in Lucknow are suitable for a The Buyzaar Mart franchise?",
+      name: "Which areas in Lucknow are best for this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "High-footfall residential areas such as Gomti Nagar, Indira Nagar, Aliganj, Vikas Nagar, Hazratganj surroundings, Faizabad Road, and new township developments along Shaheed Path are ideal locations.",
+        text: "High-footfall residential areas like Gomti Nagar, Indira Nagar, Alambagh, and Jankipuram are generally preferred.",
       },
     },
     {
       "@type": "Question",
-      name: "Does The Buyzaar Mart take back expired or damaged stock?",
+      name: "Does Buyzaar Mart help with store setup?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. One of the brand's key investor benefits is its policy of taking back expired and damaged goods from franchise partners, significantly reducing inventory risk.",
+        text: "Yes, support is provided for interiors, branding, inventory placement, and staff training.",
       },
     },
     {
       "@type": "Question",
-      name: "How long is the franchise agreement?",
+      name: "How long does it take to launch a store?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The FOCM model franchise agreement is for a period of 5 years and is renewable upon mutual evaluation. The FOCO company-operated model agreement is structured for 10 years.",
+        text: "Timeline depends on location readiness and interiors but typically spans a few weeks after agreement finalisation.",
       },
     },
     {
       "@type": "Question",
-      name: "How do I apply for a The Buyzaar Mart franchise in Lucknow?",
+      name: "Is this a good business for beginners?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Visit www.thebuyzaarmart.com, fill out the online inquiry form, and the franchise team will connect with you to guide you through the process step by step.",
+        text: "Yes, the low investment format and franchise support make it accessible for new entrepreneurs.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "How do I apply for a Buyzaar Mart franchise in Lucknow?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Interested applicants can reach out through the official franchise inquiry channel to begin the process.",
       },
     },
   ],
@@ -134,443 +142,198 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Convenience Store Franchise in Lucknow &mdash; The Buyzaar Mart
+              Supermarket Franchise Opportunity in Lucknow | Buyzaar Mart
             </h1>
 
             <p>
-              Lucknow is no longer just the city of nawabs and tehzeeb. It is rapidly
-              becoming one of Uttar Pradesh&apos;s most exciting retail markets. With a
-              growing population, rising disposable income, expanding residential colonies,
-              and a shift toward organized retail, Lucknow presents a golden window of
-              opportunity for anyone looking to start a convenience store franchise. And
-              among the emerging brands making their mark across North India, The Buyzaar
-              Mart stands out as the most investor-friendly and community-focused retail
-              franchise available today.
-            </p>
+              Lucknow is growing fast, and so is the demand for organised retail. People here want clean stores, fair prices, and all their daily needs under one roof. This is exactly the gap Buyzaar Mart fills, and it's why a supermarket franchise in Lucknow with Buyzaar Mart is turning into one of the most talked-about business opportunities in the city.
 
-            <p>
-              Whether you are a first-time entrepreneur, a salaried professional looking to
-              invest, or an existing business owner wanting to diversify, The Buyzaar
-              Mart&apos;s convenience store franchise in Lucknow could be the smartest
-              business decision you make this year.
+              Retail in India is shifting rapidly, and Tier-2 cities are leading this change. Lucknow, being the capital of Uttar Pradesh, sits right at the centre of this shift. It has the population base of a metro, the affordability of a smaller city, and the aspirations of a rapidly urbanising market. For anyone exploring retail as a business option, this combination makes the timing especially favourable.
+
+              If you're looking for a low investment supermarket franchise in Lucknow, here's everything you need to know, in simple, easy-to-read points.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Lucknow Is the Right City for a Convenience Store Franchise
+              Why Lucknow Is the Right City for a Supermarket Franchise
             </h2>
 
-            <p>
-              Lucknow is experiencing a surge in planned residential areas, tech parks, and
-              commercial hubs across localities like Gomti Nagar, Hazratganj, Aliganj,
-              Indira Nagar, Vikas Nagar, Faizabad Road, and the Lucknow-Kanpur highway
-              corridor. Each of these areas hosts dense residential populations that require
-              daily-need retail outlets within walking distance.
-            </p>
-
-            <p>
-              The retail gap in Lucknow is significant. Most neighborhoods still depend on
-              unorganized kirana stores that lack variety, consistent pricing, modern
-              billing, or product assurance. This is precisely where a branded convenience
-              store franchise like The Buyzaar Mart fills the void, delivering a
-              professional, trust-building retail experience at the neighborhood level.
-            </p>
-
-            <p>Key reasons why Lucknow is ideal for a convenience store franchise:</p>
-
-            <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>
-                Lucknow is the state capital of Uttar Pradesh with a population of over 35
-                lakh, growing steadily every year.
-              </li>
-              <li>
-                Expanding urban infrastructure is creating new catchment areas across
-                Lucknow&apos;s peripheral zones.
-              </li>
-              <li>
-                A large middle-class demographic actively seeks organized, transparent, and
-                reliable grocery retail.
-              </li>
-              <li>
-                The city&apos;s improving road network and residential development are driving
-                footfall into new localities.
-              </li>
-              <li>
-                Lucknow ranks among the top tier-2 cities in India with high retail growth
-                potential per industry estimates.
-              </li>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Lucknow is one of the fastest-growing cities in North India, with rising population and disposable income.</li>
+              <li>The city has a mix of old residential colonies and new townships, both of which need organised grocery retail.</li>
+              <li>Local kirana stores still dominate, which means the organised supermarket segment has huge room to grow.</li>
+              <li>Government infrastructure push (metro, highways, smart city projects) is bringing more footfall and better connectivity to commercial areas.</li>
+              <li>Young working professionals and nuclear families in Lucknow prefer one-stop supermarkets over multiple small shops.</li>
+              <li>Areas like Gomti Nagar, Indira Nagar, Aliganj, Alambagh, Jankipuram, and Chinhat are seeing rapid residential growth, opening up fresh franchise locations.</li>
+              <li>Lucknow's cost of commercial real estate is still lower than metro cities, which directly reduces the overall setup cost for a franchise.</li>
+              <li>The city's expanding IT parks, educational institutions, and hospitals are creating new pockets of daily footfall around campuses and residential hubs.</li>
+              <li>E-commerce awareness has made customers more quality and price conscious, and organised supermarkets fit this evolving mindset better than traditional shops.</li>
+              <li>Migration from smaller towns of Uttar Pradesh into Lucknow for work and education is steadily increasing the customer base for daily-need retail formats.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Your Friendly Neighborhood Store
+              Why Choose Buyzaar Mart Franchise
             </h2>
 
-            <p>
-              The Buyzaar Mart is a fast-growing retail franchise brand built on the
-              philosophy of &quot;Apna Bazar, Bachat Ka Saath, Quality Ki Baat.&quot; The
-              brand is designed to bring organized, affordable, and transparent retail to
-              Indian neighborhoods, starting with Uttar Pradesh and expanding across North
-              India.
-            </p>
-
-            <p>
-              What makes The Buyzaar Mart different from other franchise brands is its
-              genuinely franchise-friendly structure. Under the FOCM (Franchise Owned,
-              Company Managed) model, the franchisee owns the store and invests in the
-              setup, while The Buyzaar Mart&apos;s corporate team manages branding,
-              operations, technology, supply chain, staff training, and day-to-day
-              performance. This means you own the asset and earn the returns without being
-              overwhelmed by the operational complexities of running a modern retail store.
-            </p>
-
-            <p>
-              The brand is already committed to investor protection in a way most retail
-              franchises are not. The Buyzaar Mart takes back expired and damaged goods from
-              its franchise partners, removing one of the biggest pain points of grocery
-              retail for first-time investors.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What You Get as a The Buyzaar Mart Franchise Partner in Lucknow
-            </h2>
-
-            <p>
-              When you apply for a convenience store franchise in Lucknow through The
-              Buyzaar Mart, you are not just buying a store &mdash; you are joining a
-              complete retail ecosystem. Here is what the brand provides:
-            </p>
-
-            <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>
-                Store Location Survey and Approval &mdash; The team helps you identify the
-                right location in Lucknow based on footfall analysis, catchment mapping, and
-                competition assessment.
-              </li>
-              <li>
-                Store Layout, Interior Design, and Branding Setup &mdash; Full interior
-                design and branding execution aligned with brand standards, ensuring every
-                Buyzaar Mart store has a uniform, professional identity.
-              </li>
-              <li>
-                POS-Enabled Billing System &mdash; Modern point-of-sale technology for
-                seamless billing, inventory tracking, and sales reporting.
-              </li>
-              <li>
-                Supply Chain and Inventory Management &mdash; Opening stock recommendations,
-                replenishment systems, procurement coordination, and pricing strategy tailored
-                to Lucknow&apos;s local consumer preferences.
-              </li>
-              <li>
-                Staff Training and SOP Compliance &mdash; Comprehensive training for the
-                franchisee and store staff on daily operations, billing systems, customer
-                engagement, and brand standards.
-              </li>
-              <li>
-                Hyper-Local Marketing Campaigns &mdash; Customized marketing strategies for
-                each Lucknow franchise location, including digital marketing, store launch
-                promotions, and customer acquisition support.
-              </li>
-              <li>
-                CRM and Customer Loyalty Programs &mdash; Tools to build lasting
-                relationships with your neighborhood customers.
-              </li>
-              <li>
-                Regular Audits and Performance Reviews &mdash; Ongoing operational reviews,
-                performance dashboards, and improvement plans to keep your store on track.
-              </li>
-              <li>
-                Return of Expired and Damaged Products &mdash; Industry-leading inventory
-                protection that minimizes financial risk for the franchisee.
-              </li>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Buyzaar Mart offers a low investment supermarket franchise model, making it accessible for first-time entrepreneurs.</li>
+              <li>The brand focuses on daily essentials, groceries, packaged foods, personal care, and household products, ensuring repeat customer visits.</li>
+              <li>Franchise partners get access to an established supply chain, reducing procurement hassles.</li>
+              <li>Buyzaar Mart provides store layout planning, so partners don't need prior retail experience.</li>
+              <li>The brand handles vendor tie-ups and bulk purchasing, which helps keep product pricing competitive.</li>
+              <li>Marketing and branding support is provided to help new stores gain visibility quickly.</li>
+              <li>Buyzaar Mart's model is designed for both compact stores and larger supermarket formats, giving flexibility based on your budget and space.</li>
+              <li>The brand's sourcing network helps maintain consistent product quality across categories like staples, snacks, dairy, and household items.</li>
+              <li>Franchise partners benefit from a tested store format, so there's no need to experiment with layout, category mix, or pricing strategy from scratch.</li>
+              <li>Buyzaar Mart's growing presence means new franchisees join a network rather than starting an isolated, unknown store.</li>
+              <li>The brand keeps its focus on essential, everyday-use products, which naturally protects the business from seasonal demand swings.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              The Buyzaar Mart Franchise Models Available in Lucknow
+              Key Features of the Buyzaar Mart Franchise Model
             </h2>
 
-            <p>
-              The Buyzaar Mart offers multiple store formats to suit different investment
-              capacities and location opportunities in Lucknow.
-            </p>
-
-            <h3 className="font-medium text-gray-900">1. Mini Mart</h3>
-            <p>
-              This is the entry-level format, ideal for smaller localities, residential
-              lanes, or investors beginning with limited capital. The Mini Mart is a compact
-              convenience store covering essential daily-need categories.
-            </p>
-
-            <h3 className="font-medium text-gray-900">2. Super Mart</h3>
-            <p>
-              The Super Mart format is designed for mid-sized high-footfall locations such as
-              market areas, busy roads, or larger residential colonies in Lucknow. It carries
-              a broader product range across FMCG, groceries, personal care, household items,
-              and more.
-            </p>
-
-            <h3 className="font-medium text-gray-900">3. Hyper Mart</h3>
-            <p>
-              The Hyper Mart is the flagship format, built for high-density commercial
-              areas, large residential clusters, or township projects in Lucknow. It offers
-              the widest product assortment, the largest retail floor space, and the highest
-              revenue potential.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Investment Breakdown: Super Mart Franchise in Lucknow
-            </h2>
-
-            <p>
-              The Super Mart model is the most popular format for franchise investors in
-              cities like Lucknow where medium-sized retail spaces are widely available
-              across colonies and market streets.
-            </p>
-
-            <div className="overflow-x-auto">
-              <table className="mt-4 min-w-full border border-gray-200 text-left text-sm">
-                <thead className="bg-gray-50">
-                  <tr>
-                    <th className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      Investment Component
-                    </th>
-                    <th className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      Estimated Amount
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      Franchise Fee (one-time, inclusive of GST)
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 2,95,000</td>
-                  </tr>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      Interior Setup Cost (approx. ₹1,200/sq ft)
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 10,01,000</td>
-                  </tr>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      POS Software (per login)
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 1,00,000</td>
-                  </tr>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      Opening Stock / Product Stocking
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 11,01,100</td>
-                  </tr>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      Security Deposit
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 1,66,307</td>
-                  </tr>
-                  <tr className="bg-green-50">
-                    <td className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      Total Estimated Investment
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      ₹ 26,63,407
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-
-            <p>
-              Rent, electricity, and staff salaries are operational expenses borne by the
-              franchisee on a monthly basis. All figures are indicative and may vary based
-              on specific location and store size in Lucknow.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Investment Breakdown: Hyper Mart Franchise in Lucknow
-            </h2>
-
-            <p>
-              The Hyper Mart format requires a larger floor area &mdash; typically starting
-              at 3,001 sq ft and above &mdash; and is suitable for high-visibility,
-              high-footfall zones in Lucknow such as Gomti Nagar Extension, Shaheed Path
-              commercial zones, Indira Nagar main roads, or township retail anchors.
-            </p>
-
-            <div className="overflow-x-auto">
-              <table className="mt-4 min-w-full border border-gray-200 text-left text-sm">
-                <thead className="bg-gray-50">
-                  <tr>
-                    <th className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      Investment Component
-                    </th>
-                    <th className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      Estimated Amount
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      Franchise Fee (one-time, inclusive of GST)
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 2,95,000</td>
-                  </tr>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      Interior Setup Cost
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 33,01,100</td>
-                  </tr>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      POS Software (per login)
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 2,00,000</td>
-                  </tr>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      Opening Stock / Product Stocking
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 36,01,200</td>
-                  </tr>
-                  <tr>
-                    <td className="border border-gray-200 px-4 py-3">
-                      Security Deposit
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3">₹ 4,92,660</td>
-                  </tr>
-                  <tr className="bg-green-50">
-                    <td className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      Total Estimated Investment
-                    </td>
-                    <td className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      ₹ 78,89,960
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-
-            <p>
-              For the Hyper Mart and FOCO model stores, operational costs including rent,
-              electricity, and salaries are borne by the franchisee. The franchise
-              agreement for the company-operated format spans 10 years, providing long-term
-              business security. Figures are indicative.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Investment Process for Starting a Franchise in Lucknow
-            </h2>
-
-            <div className="space-y-3">
-              <p>
-                <span className="font-semibold text-gray-900">
-                  Step 1 &mdash; Submit an Inquiry:
-                </span>{" "}
-                Visit{" "}
-                <a
-                  href="https://www.thebuyzaarmart.com"
-                  className="text-green-600 hover:underline"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  www.thebuyzaarmart.com
-                </a>
-                , fill out the inquiry form, and receive an instant response from the
-                franchise team.
-              </p>
-
-              <p>
-                <span className="font-semibold text-gray-900">
-                  Step 2 &mdash; Location Finalization:
-                </span>{" "}
-                The Buyzaar Mart team conducts a survey and approves your chosen location in
-                Lucknow based on catchment analysis and brand fit.
-              </p>
-
-              <p>
-                <span className="font-semibold text-gray-900">
-                  Step 3 &mdash; Documentation and Agreement:
-                </span>{" "}
-                Complete KYC formalities, review the franchise agreement, and sign with full
-                compliance support from the brand&apos;s team.
-              </p>
-
-              <p>
-                <span className="font-semibold text-gray-900">
-                  Step 4 &mdash; Store Setup:
-                </span>{" "}
-                Interior design, branding, shelving, POS installation, and product stocking
-                are executed by The Buyzaar Mart&apos;s setup team.
-              </p>
-
-              <p>
-                <span className="font-semibold text-gray-900">
-                  Step 5 &mdash; Staff Training:
-                </span>{" "}
-                You and your team are trained on SOPs, billing systems, customer service,
-                and inventory management.
-              </p>
-
-              <p>
-                <span className="font-semibold text-gray-900">
-                  Step 6 &mdash; Store Launch:
-                </span>{" "}
-                A grand opening campaign is executed with hyper-local marketing, promotions,
-                and customer acquisition initiatives.
-              </p>
-
-              <p>
-                <span className="font-semibold text-gray-900">
-                  Step 7 &mdash; Ongoing Support:
-                </span>{" "}
-                Regular operational audits, performance reviews, marketing campaigns, and
-                replenishment support continue throughout the franchise term.
-              </p>
-            </div>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Choose The Buyzaar Mart Over Other Convenience Store Franchises in Lucknow
-            </h2>
-
-            <p>
-              There are several retail franchise options available in India today, but The
-              Buyzaar Mart specifically stands out for Lucknow investors for the following
-              reasons:
-            </p>
-
-            <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>
-                The FOCM model means you do not need prior retail experience &mdash; the
-                company manages operations professionally while you own the asset.
-              </li>
-              <li>
-                The brand&apos;s inventory protection policy, including the return of expired
-                and damaged goods, removes a major financial risk unique to grocery retail.
-              </li>
-              <li>
-                Localized product flexibility means your Lucknow store stocks products tuned
-                to local taste, preference, and cultural context instead of a one-size-fits-all
-                national catalog.
-              </li>
-              <li>
-                Starting investment from ₹15 lakh for a Mini Mart makes it accessible for
-                first-time franchise investors.
-              </li>
-              <li>
-                Uniform branding and store design builds customer trust rapidly in any new
-                neighborhood.
-              </li>
-              <li>
-                Technology-first approach with POS billing, CRM, and sales dashboards
-                ensures your store operates at par with organized retail chains.
-              </li>
-              <li>
-                A 5-year renewable franchise agreement under FOCM provides a stable,
-                long-term business structure.
-              </li>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Low to mid-range investment requirement compared to big national supermarket chains.</li>
+              <li>Flexible store size options starting from small format stores to full supermarkets.</li>
+              <li>Centralised billing and inventory software provided to franchise partners.</li>
+              <li>Regular training for store staff on customer service and store operations.</li>
+              <li>Continuous product range updates based on market trends and local demand.</li>
+              <li>Support with store branding, signage, and interior setup guidance.</li>
+              <li>Transparent franchise agreement with clear terms on revenue sharing and support.</li>
+              <li>Assistance in demand forecasting so shelves stay stocked with fast-moving items and don't get overloaded with slow sellers.</li>
+              <li>Periodic review visits or check-ins from the brand team to help franchise partners troubleshoot operational issues.</li>
+              <li>Access to seasonal promotional campaigns and festive offers designed at the brand level, which local stores can run to boost footfall.</li>
+              <li>Standardised store branding elements, such as signage, uniforms, and price tags, that give every outlet a consistent, professional look.</li>
             </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Investment Range for a Buyzaar Mart Franchise in Lucknow
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Investment typically depends on store size, location, and format chosen.</li>
+              <li>Mini Mart format stores (600–1000 sq. ft.) require comparatively lower investment.</li>
+              <li>Larger supermarket formats (1000 sq. ft. and above) need higher setup cost but offer better margins and footfall.</li>
+              <li>Investment generally covers store interiors, initial inventory, billing systems, signage, and franchise fee.</li>
+              <li>Buyzaar Mart is positioned as a low investment supermarket franchise, keeping entry costs friendlier than most national retail brands.</li>
+              <li>Exact figures vary store to store, so interested applicants are advised to connect directly with the Buyzaar Mart franchise team for a customised cost sheet.</li>
+              <li>Working capital for the first few months should also be planned separately, since new stores usually take some time to build a steady, loyal customer base.</li>
+              <li>Some partners choose to start with a smaller format and expand the same store once footfall and revenue stabilise, which spreads out the overall investment.</li>
+              <li>Franchise fee structures may be one-time or partly linked to revenue sharing, depending on the agreement finalised with the Buyzaar Mart team.</li>
+              <li>Compared to independent supermarket setups, the franchise route often works out more cost-efficient because bulk procurement and vendor relationships are already in place.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Who Can Apply for a Buyzaar Mart Franchise
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Individuals looking to start their first retail business.</li>
+              <li>Existing kirana or grocery store owners wanting to upgrade to an organised supermarket format.</li>
+              <li>Investors looking for a stable, recurring-revenue retail business.</li>
+              <li>Entrepreneurs with a suitable commercial space in residential or semi-commercial areas of Lucknow.</li>
+              <li>People with basic business management skills and interest in day-to-day retail operations.</li>
+              <li>Working professionals looking to build a secondary source of income through a managed retail outlet.</li>
+              <li>Families or partners planning to run the business together, sharing day-to-day responsibilities like billing, stock checks, and staff supervision.</li>
+              <li>NRIs or investors based outside Lucknow who want a locally-managed business with a trusted operating partner on ground.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Space and Location Requirements
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>A minimum carpet area is required, which increases based on the store format chosen.</li>
+              <li>Ground floor location with good road visibility is preferred.</li>
+              <li>High footfall areas such as near residential societies, markets, schools, and colleges work best.</li>
+              <li>Adequate parking space or easy accessibility adds value to the chosen location.</li>
+              <li>Buyzaar Mart's team typically assists in evaluating whether a location is suitable before finalising.</li>
+              <li>Corner plots or shops facing a main internal road within a residential colony tend to perform better than hidden inner-lane locations.</li>
+              <li>Proximity to schools, hospitals, gyms, or office complexes can add steady, repeat footfall throughout the day.</li>
+              <li>Store frontage and signage visibility from a distance matters as much as the total covered area.</li>
+              <li>Basic infrastructure readiness, such as power supply and drainage, should be checked before finalising any commercial space.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Step-by-Step Process to Get a Buyzaar Mart Franchise in Lucknow
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Submit an inquiry through the official franchise contact channel.</li>
+              <li>Initial discussion with the franchise team about your budget, location, and store size preference.</li>
+              <li>Site visit and evaluation of your proposed store location.</li>
+              <li>Franchise agreement discussion covering investment, revenue sharing, and support terms.</li>
+              <li>Store setup begins, including interiors, branding, and inventory placement.</li>
+              <li>Staff hiring and training conducted before store launch.</li>
+              <li>Grand store launch with marketing support from the Buyzaar Mart team.</li>
+              <li>Post-launch handholding, where the brand team monitors early sales and helps fine-tune stock levels and pricing.</li>
+              <li>Ongoing coordination with the regional team for reordering, offers, and any operational queries once the store is running.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Benefits of Owning a Buyzaar Mart Supermarket Franchise
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Steady daily footfall since groceries and essentials are recurring purchases.</li>
+              <li>Lower business risk compared to seasonal or trend-based businesses.</li>
+              <li>Established brand name helps build customer trust faster than starting an independent store.</li>
+              <li>Support system reduces the learning curve for new entrepreneurs.</li>
+              <li>Opportunity to expand to multiple outlets once the first store stabilises.</li>
+              <li>Scalable business model suited to Lucknow's expanding residential map.</li>
+              <li>Predictable, non-seasonal cash flow since groceries and household items are purchased throughout the year.</li>
+              <li>Ability to build a loyal, local customer base through personalised service, something large-format hypermarkets often struggle with.</li>
+              <li>Simplified operations through centralised billing and inventory tools, which reduce manual errors and save time.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Challenges to Keep in Mind
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Retail businesses require hands-on daily involvement, especially in the initial months.</li>
+              <li>Local competition from kirana stores and other retail chains needs to be studied before finalising a location.</li>
+              <li>Inventory management and shrinkage control require consistent monitoring.</li>
+              <li>Initial break-even period may vary based on location and footfall.</li>
+              <li>Staff turnover in retail can be higher than other sectors, so having a backup hiring plan helps avoid operational gaps.</li>
+              <li>Seasonal price fluctuations in certain categories, like fresh produce, need careful buying to avoid wastage.</li>
+              <li>New franchise owners should be prepared for a learning curve in the first few months while systems and routines settle in.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Tips to Succeed with Your Supermarket Franchise in Lucknow
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Choose a location with consistent residential footfall rather than only relying on main road visibility.</li>
+              <li>Maintain product freshness and stock availability, especially for daily essentials.</li>
+              <li>Focus on customer service, since repeat visits drive supermarket revenue.</li>
+              <li>Use local marketing (posters, offers, community engagement) alongside brand-level marketing support.</li>
+              <li>Keep a close eye on inventory turnover to avoid overstocking slow-moving items.</li>
+              <li>Build a habit of reviewing daily sales data to spot which product categories are performing and which need attention.</li>
+              <li>Train staff regularly on hygiene, courtesy, and quick billing, since these small details influence repeat visits.</li>
+              <li>Encourage customer feedback and act on it quickly, especially in the store's early months when reputation is still being built.</li>
+              <li>Stay updated on nearby competitor pricing to keep your store's offerings attractive without compromising on margins.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why Now Is a Good Time to Invest
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Organised retail penetration in Tier-2 cities like Lucknow is still low compared to metro cities, meaning early movers get an advantage.</li>
+              <li>Rising urbanisation and new residential projects are constantly creating fresh customer catchments.</li>
+              <li>Consumer preference is visibly shifting from unorganised kirana shops to clean, organised supermarket formats.</li>
+              <li>A low investment supermarket franchise in Lucknow with an established brand like Buyzaar Mart reduces the uncertainty that comes with starting an independent store from scratch.</li>
+              <li>As more residential townships come up on the outskirts of Lucknow, first-mover franchise partners in these areas can build strong customer loyalty before competition catches up.</li>
+              <li>Banks and financial institutions are increasingly open to funding organised retail franchise setups, making it easier to plan the required investment.</li>
+              <li>Entering now, while the brand is still expanding in the city, gives franchise partners a stronger say in choosing prime, less-saturated locations.</li>
+            </ul>
+
+
+            <p>
+              Starting a supermarket franchise in Lucknow is no longer just an idea for big investors. With a low investment supermarket franchise model like Buyzaar Mart, first-time entrepreneurs, working professionals, and small business owners now have a practical, structured path into organised retail. The city's growth story, combined with brand-level support on setup, sourcing, and operations, makes this a business opportunity worth serious consideration for anyone exploring retail in Lucknow today.
+            </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions (FAQs)
@@ -579,123 +342,88 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. What is the minimum investment to start a The Buyzaar Mart franchise
-                  in Lucknow?
+                  1. What is the minimum investment for a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from approximately ₹15 lakh for a Mini Mart
-                  format. The Super Mart and Hyper Mart formats require higher investment
-                  depending on store size and location.
+                  It varies by store size and location; smaller formats need lower investment, larger ones need more. Contact the franchise team for exact figures.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q2. What is the FOCM model offered by The Buyzaar Mart?
+                  2. Is prior retail experience required?
                 </h3>
                 <p className="mt-2">
-                  FOCM stands for Franchise Owned Company Managed. You invest in and own the
-                  store, while The Buyzaar Mart&apos;s team handles all operations,
-                  branding, supply chain, staff training, and technology management.
+                  No, Buyzaar Mart provides training and operational support, making it suitable for first-time business owners.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q3. Do I need retail experience to open a The Buyzaar Mart franchise in
-                  Lucknow?
+                  3. What store size is needed for a franchise?
                 </h3>
                 <p className="mt-2">
-                  No prior retail experience is required. The Buyzaar Mart provides complete
-                  training, operational SOPs, and ongoing support so that any motivated
-                  investor can run a successful store.
+                  Store size requirements start from a compact format and go up to larger supermarket layouts, depending on the model chosen.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q4. What areas in Lucknow are suitable for a The Buyzaar Mart franchise?
+                  4. Which areas in Lucknow are best for this franchise?
                 </h3>
                 <p className="mt-2">
-                  High-footfall residential areas such as Gomti Nagar, Indira Nagar,
-                  Aliganj, Vikas Nagar, Hazratganj surroundings, Faizabad Road, and new
-                  township developments along Shaheed Path are ideal locations.
+                  High-footfall residential areas like Gomti Nagar, Indira Nagar, Alambagh, and Jankipuram are generally preferred.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q5. Does The Buyzaar Mart take back expired or damaged stock?
+                  5. Does Buyzaar Mart help with store setup?
                 </h3>
                 <p className="mt-2">
-                  Yes. One of the brand&apos;s key investor benefits is its policy of taking
-                  back expired and damaged goods from franchise partners, significantly
-                  reducing inventory risk.
+                  Yes, support is provided for interiors, branding, inventory placement, and staff training.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q6. How long is the franchise agreement?
+                  6. How long does it take to launch a store?
                 </h3>
                 <p className="mt-2">
-                  The FOCM model franchise agreement is for a period of 5 years, renewable
-                  upon mutual evaluation. The FOCO company-operated model agreement is
-                  structured for 10 years.
+                  Timeline depends on location readiness and interiors but typically spans a few weeks after agreement finalisation.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q7. How do I apply for a The Buyzaar Mart franchise in Lucknow?
+                  7. Is this a good business for beginners?
                 </h3>
                 <p className="mt-2">
-                  Simply visit{" "}
-                  <a
-                    href="https://www.thebuyzaarmart.com"
-                    className="text-green-600 hover:underline"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    www.thebuyzaarmart.com
-                  </a>
-                  , fill out the online inquiry form, and the franchise team will connect
-                  with you to guide you through the process step by step.
+                  Yes, the low investment format and franchise support make it accessible for new entrepreneurs.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-medium text-gray-900">
+                  8. How do I apply for a Buyzaar Mart franchise in Lucknow?
+                </h3>
+                <p className="mt-2">
+                  Interested applicants can reach out through the official franchise inquiry channel to begin the process.
                 </p>
               </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Convenience Store Franchise in Lucknow Today
+                Start Your Supermarket Franchise Journey in Lucknow
               </h2>
 
               <p className="mb-4 text-gray-800">
-                Lucknow&apos;s retail market is at an inflection point. Organized, branded
-                convenience stores are replacing unstructured kirana shops across the
-                city&apos;s growing neighborhoods. The window to establish your presence,
-                build customer loyalty, and generate consistent returns is open right now
-                &mdash; and The Buyzaar Mart is the partner designed to help you do exactly
-                that.
+                Lucknow's growing retail market offers a strong opportunity for a modern supermarket franchise.
               </p>
 
               <p className="mb-4 text-gray-800">
-                Join The Buyzaar Mart family and bring your neighborhood the retail
-                experience it deserves: affordable prices, quality products, transparent
-                service, and the pride of owning a professionally managed store.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Visit{" "}
-                <a
-                  href="https://www.thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  www.thebuyzaarmart.com
-                </a>{" "}
-                or walk into the nearest The Buyzaar Mart outlet to begin your journey.
+                Join the Buyzaar Mart network and build a local business focused on daily essentials, customer trust, and organised retail growth.
               </p>
 
               <p className="mb-4 text-gray-800">
@@ -719,15 +447,14 @@ const Content = () => {
               </p>
 
               <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday,
-                09:00 AM &ndash; 7:00 PM
+                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
               </p>
             </div>
           </div>
 
           <CityInternalLinks
             city="lucknow"
-            currentSlug="/lucknow/convenience-store-franchise-in-lucknow"
+            currentSlug="/lucknow/supermarket-franchise-opportunity-in-lucknow"
           />
         </div>
 

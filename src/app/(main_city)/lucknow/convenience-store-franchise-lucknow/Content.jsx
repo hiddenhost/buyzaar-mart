@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "The Buyzaar Mart - Convenience Store Franchise in Lucknow",
   description:
     "The Buyzaar Mart offers a convenience store franchise opportunity in Lucknow with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, full store setup support, POS technology, staff training, hyper-local marketing, and inventory protection.",
-  url: "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-in-lucknow",
+  url: "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -713,7 +713,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="lucknow"
-            currentSlug="/lucknow/convenience-store-franchise-in-lucknow"
+            currentSlug="/lucknow/convenience-store-franchise-lucknow"
           />
         </div>
 

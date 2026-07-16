@@ -4,7 +4,7 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Low Investment Supermarket Franchise in Lucknow | Buyzaar Mart",
+  title: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
   description:
     "Start your own grocery supermarket franchise in Lucknow with Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
   keywords: [
@@ -22,7 +22,7 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/lucknow/Grocery-supermarket-franchise-in-lucknow-for-beginners",
   },
   openGraph: {
-    title: "Low Investment Supermarket Franchise in Lucknow | Buyzaar Mart",
+    title: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
     description:
       "Start your own grocery supermarket franchise in Lucknow with Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
     url: "https://www.thebuyzaarmart.com/lucknow/Grocery-supermarket-franchise-in-lucknow-for-beginners",
@@ -32,7 +32,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Low Investment Supermarket Franchise in Lucknow | Buyzaar Mart",
+        alt: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -40,7 +40,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Low Investment Supermarket Franchise in Lucknow | Buyzaar Mart",
+    title: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
     description:
       "Start your own grocery supermarket franchise in Lucknow with Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

@@ -87,7 +87,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Do I need prior FMCG experience to become a Buyzaar Mart franchise partner?",
+      name: "Do I need prior FMCG experience to become a The Buyzaar Mart franchise partner?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "No. The FOCM model is designed to support franchise partners without retail backgrounds because the company manages store operations on their behalf."
@@ -461,7 +461,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  5. Do I need prior FMCG experience to become a Buyzaar Mart franchise
+                  5. Do I need prior FMCG experience to become a The Buyzaar Mart franchise
                   partner?
                 </h3>
                 <p className="mt-2">

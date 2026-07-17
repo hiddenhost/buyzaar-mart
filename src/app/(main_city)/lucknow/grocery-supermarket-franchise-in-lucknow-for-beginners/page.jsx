@@ -4,9 +4,9 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
+  title: "Grocery Supermarket Franchise in Lucknow for Beginners | The Buyzaar Mart",
   description:
-    "Start your own grocery supermarket franchise in Lucknow with Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
+    "Start your own grocery supermarket franchise in Lucknow with The Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
   keywords: [
     "supermarket franchise in Lucknow",
     "grocery franchise Lucknow",
@@ -22,9 +22,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/lucknow/Grocery-supermarket-franchise-in-lucknow-for-beginners",
   },
   openGraph: {
-    title: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
+    title: "Grocery Supermarket Franchise in Lucknow for Beginners | The Buyzaar Mart",
     description:
-      "Start your own grocery supermarket franchise in Lucknow with Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
+      "Start your own grocery supermarket franchise in Lucknow with The Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
     url: "https://www.thebuyzaarmart.com/lucknow/Grocery-supermarket-franchise-in-lucknow-for-beginners",
     siteName: "Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
+        alt: "Grocery Supermarket Franchise in Lucknow for Beginners | The Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -40,9 +40,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
+    title: "Grocery Supermarket Franchise in Lucknow for Beginners | The Buyzaar Mart",
     description:
-      "Start your own grocery supermarket franchise in Lucknow with Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
+      "Start your own grocery supermarket franchise in Lucknow with The Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

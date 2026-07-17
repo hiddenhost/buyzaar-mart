@@ -248,7 +248,7 @@ const Content = () => {
               <li>
                 Store Layout, Interior Design, and Branding Setup &mdash; Full interior
                 design and branding execution aligned with brand standards, ensuring every
-                Buyzaar Mart store has a uniform, professional identity.
+                The Buyzaar Mart store has a uniform, professional identity.
               </li>
               <li>
                 POS-Enabled Billing System &mdash; Modern point-of-sale technology for

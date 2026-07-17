@@ -55,7 +55,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Is prior retail experience required to open a Buyzaar Mart franchise in Lucknow?",
+      name: "Is prior retail experience required to open a The Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "No. The FOCM model is specifically designed so that franchisees do not need retail or FMCG experience. The company manages store operations on your behalf.",
@@ -63,7 +63,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "What is the minimum space required to open a Buyzaar Mart?",
+      name: "What is the minimum space required to open a The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "The Mini Mart format can work in approximately 600 to 1000 square feet, making it feasible in most neighborhood locations across Lucknow.",
@@ -71,7 +71,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "How soon can a Buyzaar Mart franchise in Lucknow become profitable?",
+      name: "How soon can a The Buyzaar Mart franchise in Lucknow become profitable?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "While results vary by location and format, the company's operational support and established brand presence are designed to accelerate the path to breakeven and sustained profitability.",
@@ -87,7 +87,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "How do I apply for a Buyzaar Mart franchise in Lucknow?",
+      name: "How do I apply for a The Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "You can reach out through the official website or contact the franchise team directly to begin the application and discussion process.",
@@ -209,7 +209,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Profitable Localities in Lucknow for a Buyzaar Mart Franchise
+              Profitable Localities in Lucknow for The Buyzaar Mart Franchise
             </h2>
 
             <p>
@@ -243,7 +243,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Is prior retail experience required to open a Buyzaar Mart franchise in Lucknow?
+                  Is prior retail experience required to open The Buyzaar Mart franchise in Lucknow?
                 </h3>
                 <p className="mt-2">
                   No. The FOCM model is specifically designed so that franchisees do not need retail or FMCG experience. The company manages store operations on your behalf.
@@ -252,7 +252,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  What is the minimum space required to open a Buyzaar Mart?
+                  What is the minimum space required to open The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
                   The Mini Mart format can work in approximately 600 to 1000 square feet, making it feasible in most neighborhood locations across Lucknow.
@@ -261,7 +261,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  How soon can a Buyzaar Mart franchise in Lucknow become profitable?
+                  How soon can The Buyzaar Mart franchise in Lucknow become profitable?
                 </h3>
                 <p className="mt-2">
                   While results vary by location and format, the company&apos;s operational support and established brand presence are designed to accelerate the path to breakeven and sustained profitability.
@@ -279,7 +279,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  How do I apply for a Buyzaar Mart franchise in Lucknow?
+                  How do I apply for The Buyzaar Mart franchise in Lucknow?
                 </h3>
                 <p className="mt-2">
                   You can reach out through the official website or contact the franchise team directly to begin the application and discussion process.

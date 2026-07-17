@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Supermarket Franchise in Lucknow for Beginners | Buyzaar Mart",
   description:
-    "Buyzaar Mart offers low investment supermarket franchise opportunities in Lucknow with full setup, operational support, and formats suitable for beginners and small investors.",
+    "Start your own grocery supermarket franchise in Lucknow with Buyzaar Mart. Low investment, full support, and a beginner-friendly business model. Enquire today!",
   url: "https://www.thebuyzaarmart.com/lucknow/Grocery-supermarket-franchise-in-lucknow-for-beginners",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,12 +34,12 @@ const faqSchema = {
       name: "Is a supermarket franchise a good option for someone with no retail experience?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, franchise models like Buyzaar Mart offer training and operational support, making it beginner-friendly.",
+        text: "Yes, franchise models like The Buyzaar Mart offer training and operational support, making it beginner-friendly.",
       },
     },
     {
       "@type": "Question",
-      name: "How much space is needed to start a Buyzaar Mart franchise in Lucknow?",
+      name: "How much space is needed to start a The Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Typically between 600 to 8000 sq. ft., depending on the store format chosen.",
@@ -63,7 +63,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Does Buyzaar Mart provide support after the store launch?",
+      name: "Does The Buyzaar Mart provide support after the store launch?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, ongoing support is provided for restocking, staff training, and promotional strategies.",
@@ -110,7 +110,7 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Supermarket Franchise in Lucknow for Beginners – A Complete Guide by Buyzaar Mart
+              Grocery Supermarket Franchise in Lucknow for Beginners – A Complete Guide by The Buyzaar Mart
             </h1>
 
             <p>
@@ -134,7 +134,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What Makes Buyzaar Mart a Good Franchise Choice for Beginners
+              What Makes The Buyzaar Mart a Good Franchise Choice for Beginners
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -181,14 +181,14 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Start Your Buyzaar Mart Franchise
+              Step-by-Step Process to Start Your The Buyzaar Mart Franchise
             </h2>
 
             <ol className="list-decimal space-y-2 pl-6">
-              <li>Step 1: Initial Inquiry – Contact Buyzaar Mart through their official channel and express interest in the franchise opportunity.</li>
+              <li>Step 1: Initial Inquiry – Contact The Buyzaar Mart through their official channel and express interest in the franchise opportunity.</li>
               <li>Step 2: Location Evaluation – The team helps assess whether your proposed location in Lucknow is commercially viable based on footfall and demographics.</li>
               <li>Step 3: Franchise Agreement – Once the location is approved, a franchise agreement is signed outlining terms, investment, and support structure.</li>
-              <li>Step 4: Store Setup – Interior design, branding, shelving, and layout planning are done according to Buyzaar Mart's standard store format.</li>
+              <li>Step 4: Store Setup – Interior design, branding, shelving, and layout planning are done according to The Buyzaar Mart's standard store format.</li>
               <li>Step 5: Inventory Stocking – Initial stock of groceries, FMCG products, and daily essentials is supplied through the brand's distribution network.</li>
               <li>Step 6: Staff Training – Store staff are trained on billing systems, customer service, inventory management, and daily operations.</li>
               <li>Step 7: Store Launch – The outlet is officially launched with marketing support to attract local customers.</li>
@@ -291,7 +291,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q5. Does Buyzaar Mart provide support after the store launch?
+                  Q5. Does The Buyzaar Mart provide support after the store launch?
                 </h3>
                 <p className="mt-2">Yes, ongoing support is provided for restocking, staff training, and promotional strategies.</p>
               </div>
@@ -313,11 +313,11 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Enquire About a Buyzaar Mart Franchise in Lucknow
+                Enquire About a The Buyzaar Mart Franchise in Lucknow
               </h2>
 
               <p className="mb-4 text-gray-800">
-                Start your own grocery supermarket franchise in Lucknow with Buyzaar Mart. Low investment, full support, and a beginner-friendly business model.
+                Start your own grocery supermarket franchise in Lucknow with The Buyzaar Mart. Low investment, full support, and a beginner-friendly business model.
               </p>
 
               <p className="mb-4 text-gray-800">

@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/buyzaar-mart-mini-mart-franchise-in-agra",
+      "https://www.thebuyzaarmart.com/agra/buyzaar-mart-mini-mart-agra",
   },
   openGraph: {
     title: "Buyzaar Mart Mini Mart Franchise in Agra | Buyzaar Mart",
     description:
       "Open a Buyzaar Mart MiniMart franchise in Agra — low investment, POS billing & full brand support for residential localities. Enquire now to get started!",
-    url: "https://www.thebuyzaarmart.com/agra/buyzaar-mart-mini-mart-franchise-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/buyzaar-mart-mini-mart-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

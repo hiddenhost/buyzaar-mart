@@ -18,13 +18,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-in-varanasi",
+      "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi",
   },
   openGraph: {
     title: "Supermarket Franchise Starting at 15 Lakh in Varanasi | Buyzaar Mart",
     description:
       "Start your own supermarket franchise in Varanasi at an investment of just ₹15 lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
-    url: "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-in-varanasi",
+    url: "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
       {

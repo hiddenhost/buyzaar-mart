@@ -9,13 +9,13 @@ export const metadata = {
     "Start a Buyzaar Mart franchise in Delhi. FOCM & FOCO models — you invest, we manage or fully operate your daily needs store. FSSAI licensed. Call 9217991727!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-franchise-in-delhi",
+      "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-franchise-delhi",
   },
   openGraph: {
     title: "Buyzaar Mart Franchise in Delhi | Own Your Store Today",
     description:
       "Start a Buyzaar Mart franchise in Delhi. FOCM & FOCO models — you invest, we manage or fully operate your daily needs store. FSSAI licensed. Call 9217991727!",
-    url: "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-franchise-in-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-franchise-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

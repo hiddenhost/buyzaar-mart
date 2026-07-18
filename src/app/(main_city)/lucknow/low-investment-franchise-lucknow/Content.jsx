@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "The Buyzaar Mart - Low Investment Franchise in Lucknow",
   description:
     "Explore a low investment franchise opportunity in Lucknow with The Buyzaar Mart. Start a Mini Mart from ₹15 Lakh under the FOCM model with store setup, branding, POS technology, inventory support, staff training, and marketing assistance.",
-  url: "https://www.thebuyzaarmart.com/lucknow/low-investment-franchise-in-lucknow",
+  url: "https://www.thebuyzaarmart.com/lucknow/low-investment-franchise-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -578,7 +578,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="lucknow"
-            currentSlug="/lucknow/low-investment-franchise-in-lucknow"
+            currentSlug="/lucknow/low-investment-franchise-lucknow"
           />
         </div>
 

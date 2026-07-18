@@ -258,7 +258,7 @@ const Content = () => {
               </div>
             </div>
 
-            <CityInternalLinks city="meerut" currentSlug="/cities/meerut/supermarket-business-meerut" />
+            <CityInternalLinks city="meerut" currentSlug="/cities/meerut/supermarket-franchise-cost-meerut" />
           </div>
         </div>
 

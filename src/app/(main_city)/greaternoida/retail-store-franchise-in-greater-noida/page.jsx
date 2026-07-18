@@ -9,13 +9,13 @@ export const metadata = {
     "Looking for a retail store franchise in Greater Noida? Join The Buyzaar Mart. Low investment from ₹15 Lakh, FOCM model, full setup & brand support. Apply now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/greater-noida/retail-store-franchise-in-greater-noida",
+      "https://www.thebuyzaarmart.com/greaternoida/retail-store-franchise-in-greater-noida",
   },
   openGraph: {
     title: "Retail Store Franchise in Greater Noida | The Buyzaar Mart",
     description:
       "Looking for a retail store franchise in Greater Noida? Join The Buyzaar Mart. Low investment from ₹15 Lakh, FOCM model, full setup & brand support. Apply now!",
-    url: "https://www.thebuyzaarmart.com/greater-noida/retail-store-franchise-in-greater-noida",
+    url: "https://www.thebuyzaarmart.com/greaternoida/retail-store-franchise-in-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

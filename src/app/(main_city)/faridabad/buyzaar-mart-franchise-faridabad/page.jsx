@@ -10,14 +10,14 @@ export const metadata = {
     "Start your successful grocery franchise in Faridabad with Buyzaar Mart. Low investment from ₹15 Lakh with complete business setup, training, supply chain & ongoing support. FOCM model with proven ROI.",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+      "https://www.thebuyzaarmart.com/faridabad/buyzaar-mart-franchise-faridabad",
   },
   openGraph: {
     title:
       "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from ₹15 Lakh",
     description:
       "Start your successful grocery franchise in Faridabad with Buyzaar Mart. Low investment from ₹15 Lakh with complete business setup, training, supply chain & ongoing support. FOCM model with proven ROI.",
-    url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+    url: "https://www.thebuyzaarmart.com/faridabad/buyzaar-mart-franchise-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

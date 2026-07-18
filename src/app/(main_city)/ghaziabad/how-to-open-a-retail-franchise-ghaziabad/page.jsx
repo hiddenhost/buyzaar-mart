@@ -11,13 +11,13 @@ export const metadata = {
     "start grocery business meerut, buyzaar mart meerut, grocery business investment meerut, grocery licenses meerut, profitable grocery business meerut",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/ghaziabad/supermarket-business-ghaziabad",
+      "https://www.thebuyzaarmart.com/ghaziabad/how-to-open-a-retail-franchise-ghaziabad",
   },
   openGraph: {
     title: "How to Open a Retail Franchise Ghaziabad 2026 | Step-by-Step Guide|",
     description:
       "Want to open a retail franchise in Ghaziabad? Follow this complete step-by-step guide — from choosing the right brand and legal documents to location selection and store launch. Start with The Buyzaar Mart today.",
-    url: "https://www.thebuyzaarmart.com/ghaziabad/supermarket-business-ghaziabad",
+    url: "https://www.thebuyzaarmart.com/ghaziabad/how-to-open-a-retail-franchise-ghaziabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

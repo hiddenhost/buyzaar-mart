@@ -8,13 +8,13 @@ export const metadata = {
   description: "Explore the best franchise business in Meerut with The Buyzaar Mart. Low-risk entry, strong local demand, and expert support for success in grocery retail. Start your profitable venture today!",
   keywords: "start grocery business meerut, buyzaar mart meerut, grocery business investment meerut, grocery licenses meerut, profitable grocery business meerut",
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    canonical: "https://www.thebuyzaarmart.com/cities/meerut/best-franchise-business-meerut",
   },
   // ✅ OPEN GRAPH  
   openGraph: {
     title: "Best Franchise Business in Meerut | The Buyzaar Mart Opportunity",
     description: "Explore the best franchise business in Meerut with The Buyzaar Mart. Low-risk entry, strong local demand, and expert support for success in grocery retail. Start your profitable venture today!",
-    url: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    url: "https://www.thebuyzaarmart.com/cities/meerut/best-franchise-business-meerut",
     siteName: "The Buyzaar Mart",
     images: [
       {

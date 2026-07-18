@@ -8,13 +8,13 @@ export const metadata = {
   description: "Discover profitable grocery business opportunities in Meerut, Uttar Pradesh with The Buyzaar Mart franchise.",
   keywords: "start grocery business meerut, buyzaar mart meerut, grocery business investment meerut, grocery licenses meerut, profitable grocery business meerut",
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    canonical: "https://www.thebuyzaarmart.com/cities/meerut/profitable-grocery-business-meerut",
   },
   // ✅ OPEN GRAPH  
   openGraph: {
     title: "Profitable Grocery Business Meerut in Uttar Pradesh | Supermart Franchise Investment | The Buyzaar Mart",
     description: "Discover profitable grocery business opportunities in Meerut, Uttar Pradesh with The Buyzaar Mart franchise.",
-    url: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    url: "https://www.thebuyzaarmart.com/cities/meerut/profitable-grocery-business-meerut",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Low Investment Franchise in Greater Noida - Start Your Own Buyzaar Mart Today",
   description:
     "Explore The Buyzaar Mart low-investment franchise opportunity in Greater Noida with Mini Mart, Super Mart, and Hyper Mart formats under the FOCM model, end-to-end support, and investment starting from ₹15 Lakh.",
-  url: "https://www.thebuyzaarmart.com/greater-noida/low-investment-franchise-in-greater-noida",
+  url: "https://www.thebuyzaarmart.com/greaternoida/low-investment-franchise-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {

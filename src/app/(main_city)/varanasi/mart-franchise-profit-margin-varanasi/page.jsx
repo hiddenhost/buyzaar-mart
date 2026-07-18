@@ -19,13 +19,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/varanasi/mart-franchise-profit-margin-in-varanasi",
+      "https://www.thebuyzaarmart.com/varanasi/mart-franchise-profit-margin-varanasi",
   },
   openGraph: {
     title: "Mart Franchise Profit Margin in Varanasi | Buyzaar Mart",
     description:
       "Know the real profit margin of a mart franchise in Varanasi with Buyzaar Mart. Explore investment, ROI, category-wise margins, and growth potential.",
-    url: "https://www.thebuyzaarmart.com/varanasi/mart-franchise-profit-margin-in-varanasi",
+    url: "https://www.thebuyzaarmart.com/varanasi/mart-franchise-profit-margin-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
       {

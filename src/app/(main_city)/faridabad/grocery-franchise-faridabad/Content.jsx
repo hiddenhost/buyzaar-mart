@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Franchise in Faridabad - The Buyzaar Mart",
   description:
     "Own a grocery franchise in Faridabad with The Buyzaar Mart from ₹15 Lakh. Explore FOCM and FOCO models, store setup, POS, supply chain, marketing support, and launch assistance.",
-  url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+  url: "https://www.thebuyzaarmart.com/faridabad/grocery-franchise-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -722,7 +722,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="faridabad"
-            currentSlug="/faridabad/local-mart-franchise-faridabad"
+            currentSlug="/faridabad/grocery-franchise-faridabad"
           />
         </div>
 

@@ -10,14 +10,14 @@ export const metadata = {
     "Open a Buyzaar Mart grocery franchise in Greater Noida. Low investment from ₹15 Lakh, FOCM model, full brand & supply chain support. Apply now at thebuyzaarmart.com!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+      "https://www.thebuyzaarmart.com/greaternoida/buyzaar-mart-franchise-greater-noida",
   },
   openGraph: {
     title:
       "Buyzaar Mart Franchise in Greater Noida | Low Investment Grocery Store",
     description:
       "Open a Buyzaar Mart grocery franchise in Greater Noida. Low investment from ₹15 Lakh, FOCM model, full brand & supply chain support. Apply now at thebuyzaarmart.com!",
-    url: "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+    url: "https://www.thebuyzaarmart.com/greaternoida/buyzaar-mart-franchise-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

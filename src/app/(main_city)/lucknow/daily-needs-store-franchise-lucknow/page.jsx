@@ -10,7 +10,7 @@ export const metadata = {
     "Looking for a daily needs store franchise in Lucknow? Partner with The Buyzaar Mart and launch your own Mini Mart or Super Mart under FOCM or FOCO model. Full brand support, POS system & training included. Apply today!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/lucknow/daily-needs-store-franchise-in-lucknow",
+      "https://www.thebuyzaarmart.com/lucknow/daily-needs-store-franchise-lucknow",
   },
   openGraph: {
     title:
@@ -18,7 +18,7 @@ export const metadata = {
     description:
       "Looking for a daily needs store franchise in Lucknow? Partner with The Buyzaar Mart and launch your own Mini Mart or Super Mart under FOCM or FOCO model. Full brand support, POS system & training included. Apply today!",
     url:
-      "https://www.thebuyzaarmart.com/lucknow/daily-needs-store-franchise-in-lucknow",
+      "https://www.thebuyzaarmart.com/lucknow/daily-needs-store-franchise-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
       {

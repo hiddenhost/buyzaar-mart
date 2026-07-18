@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Neighbourhood Mart Franchise in Faridabad - The Buyzaar Mart",
   description:
     "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart from ₹15 Lakh. Explore FOCM and FOCO models, POS, CRM, inventory assurance, local marketing, and launch support.",
-  url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+  url: "https://www.thebuyzaarmart.com/faridabad/neighbourhood-mart-franchise-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -670,7 +670,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="faridabad"
-            currentSlug="/faridabad/local-mart-franchise-faridabad"
+            currentSlug="/faridabad/neighbourhood-mart-franchise-faridabad"
           />
         </div>
 

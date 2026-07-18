@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Mart Franchise Profit Margin in Varanasi | The Buyzaar Mart",
   description:
     "Buyzaar Mart offers mart franchise opportunities in Varanasi with Mini Mart, Super Mart, and Hyper Mart formats, centralized supply chain support, staff training, marketing support, and operational guidance.",
-  url: "https://www.thebuyzaarmart.com/varanasi/mart-franchise-profit-margin-in-varanasi",
+  url: "https://www.thebuyzaarmart.com/varanasi/mart-franchise-profit-margin-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -412,7 +412,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="varanasi"
-            currentSlug="/varanasi/mart-franchise-profit-margin-in-varanasi"
+            currentSlug="/varanasi/mart-franchise-profit-margin-varanasi"
           />
         </div>
 

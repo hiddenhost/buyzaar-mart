@@ -9,13 +9,13 @@ export const metadata = {
     "Start your own grocery & supermarket franchise in Greater Noida with The Buyzaar",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/greater-noida/low-investment-franchise-in-greater-noida",
+      "https://www.thebuyzaarmart.com/greaternoida/low-investment-franchise-greater-noida",
   },
   openGraph: {
     title: "Low Investment Franchise in Greater Noida | The Buyzaar Mart",
     description:
       "Start your own grocery & supermarket franchise in Greater Noida with The Buyzaar",
-    url: "https://www.thebuyzaarmart.com/greater-noida/low-investment-franchise-in-greater-noida",
+    url: "https://www.thebuyzaarmart.com/greaternoida/low-investment-franchise-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

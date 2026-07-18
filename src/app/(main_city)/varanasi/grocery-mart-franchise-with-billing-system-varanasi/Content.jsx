@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Mart Franchise with Billing System in Varanasi | The Buyzaar Mart",
   description:
     "Buyzaar Mart offers a grocery mart franchise in Varanasi with an integrated billing system, POS software, inventory management, franchise support, and three scalable store formats.",
-  url: "https://www.thebuyzaarmart.com/varanasi/grocery-mart-franchise-with-billing-system-in-varanasi",
+  url: "https://www.thebuyzaarmart.com/varanasi/grocery-mart-franchise-with-billing-system-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -358,7 +358,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="varanasi"
-            currentSlug="/varanasi/grocery-mart-franchise-with-billing-system-in-varanasi"
+            currentSlug="/varanasi/grocery-mart-franchise-with-billing-system-varanasi"
           />
         </div>
 

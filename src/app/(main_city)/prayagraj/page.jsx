@@ -28,13 +28,13 @@ export const metadata = {
     "passive franchise investment Prayagraj",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/prayagraj",
+    canonical: "https://www.thebuyzaarmart.com/prayagraj",
   },
   openGraph: {
     title: "Franchise in Prayagraj | Buyzaar Mart Supermarket",
     description:
       "Start a supermarket business in Prayagraj from ₹15.25L with Buyzaar Mart. Full operational support, trusted retail model, and limited franchise availability.",
-    url: "https://www.thebuyzaarmart.com/cities/prayagraj",
+    url: "https://www.thebuyzaarmart.com/prayagraj",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -9,7 +9,7 @@ const localBusinessSchema = {
   name: "FMCG Store Franchise in Kanpur - The Buyzaar Mart",
   description:
     "FMCG store franchise in Kanpur with The Buyzaar Mart. Start a supermarket and FMCG goods store with ₹15 Lakh investment under the FOCM or FOCO model, with inventory assurance, setup support, and hyper-local marketing.",
-  url: "https://www.thebuyzaarmart.com/kanpur/fmcg-store-franchise-in-kanpur",
+  url: "https://www.thebuyzaarmart.com/kanpur/fmcg-store-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -523,7 +523,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="kanpur"
-            currentSlug="/kanpur/fmcg-store-franchise-in-kanpur"
+            currentSlug="/kanpur/fmcg-store-franchise-kanpur"
           />
         </div>
 

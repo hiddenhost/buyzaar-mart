@@ -28,13 +28,13 @@ export const metadata = {
     "passive franchise investment Varanasi",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/varanasi",
+    canonical: "https://www.thebuyzaarmart.com/varanasi",
   },
   openGraph: {
     title: "Franchise in Varanasi | Buyzaar Mart Supermarket",
     description:
       "Start a supermarket business in Varanasi from ₹15.25L with Buyzaar Mart. Full operational support, trusted retail model, and limited franchise availability.",
-    url: "https://www.thebuyzaarmart.com/cities/varanasi",
+    url: "https://www.thebuyzaarmart.com/varanasi",
     siteName: "The Buyzaar Mart",
     images: [
       {

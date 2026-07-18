@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/varanasi/how-to-apply-for-buyzaar-mart-franchise-in-varanasi",
+      "https://www.thebuyzaarmart.com/varanasi/how-to-apply-for-buyzaar-mart-franchise-varanasi",
   },
   openGraph: {
     title: "How to Apply for Buyzaar Mart Franchise in Varanasi | 2026 Guide",
     description:
       "Step-by-step guide on how to apply for a Buyzaar Mart franchise in Varanasi — eligibility, documents, process, investment, and application tips.",
-    url: "https://www.thebuyzaarmart.com/varanasi/how-to-apply-for-buyzaar-mart-franchise-in-varanasi",
+    url: "https://www.thebuyzaarmart.com/varanasi/how-to-apply-for-buyzaar-mart-franchise-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -18,13 +18,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/varanasi/franchise-mart-opportunity-in-varanasi",
+      "https://www.thebuyzaarmart.com/varanasi/franchise-mart-opportunity-varanasi",
   },
   openGraph: {
     title: "Franchise Mart Opportunity in Varanasi | Buyzaar Mart",
     description:
       "Explore a profitable franchise mart opportunity in Varanasi with Buyzaar Mart. Learn about store formats, investment, support, and growth potential.",
-    url: "https://www.thebuyzaarmart.com/varanasi/franchise-mart-opportunity-in-varanasi",
+    url: "https://www.thebuyzaarmart.com/varanasi/franchise-mart-opportunity-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
       {

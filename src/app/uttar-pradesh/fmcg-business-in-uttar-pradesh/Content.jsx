@@ -186,7 +186,7 @@ Additionally, the organized retail sector in many districts is still expanding, 
               </div>
             </div>
           </div>
-          <CityInternalLinks city="uttar-pradesh" currentSlug="/cities/uttar-pradesh/fmcg-business-up"/>
+          <CityInternalLinks city="uttar-pradesh" currentSlug="/uttar-pradesh/fmcg-business-in-uttar-pradesh"/>
         </div>
         
         {/* Form Section */}

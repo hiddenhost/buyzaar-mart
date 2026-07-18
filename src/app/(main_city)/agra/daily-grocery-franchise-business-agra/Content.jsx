@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Daily Grocery Franchise Business in Agra | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers daily grocery franchise opportunities in Agra with MiniMart, SuperMart, and HyperMart formats, FOCM support, inventory assurance, centralized procurement, and technology-enabled operations.",
-  url: "https://www.thebuyzaarmart.com/agra/daily-grocery-franchise-business-in-agra",
+  url: "https://www.thebuyzaarmart.com/agra/daily-grocery-franchise-business-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -417,7 +417,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="agra"
-            currentSlug="/agra/daily-grocery-franchise-business-in-agra"
+            currentSlug="/agra/daily-grocery-franchise-business-agra"
           />
         </div>
 

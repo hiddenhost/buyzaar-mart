@@ -9,13 +9,13 @@ export const metadata = {
     "Open a neighbourhood store franchise in Kanpur with The Buyzaar Mart. Understand FOCM, minimart, supermart & hypermart formats. Low investment, full support. Start from ₹15 Lakh today!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/kanpur/neighbourhood-store-franchise-in-kanpur",
+      "https://www.thebuyzaarmart.com/kanpur/neighbourhood-store-franchise-kanpur",
   },
   openGraph: {
     title: "Neighbourhood Store Franchise Kanpur | The Buyzaar Mart FOCM Model — Apply Now",
     description:
       "Open a neighbourhood store franchise in Kanpur with The Buyzaar Mart. Understand FOCM, minimart, supermart & hypermart formats. Low investment, full support. Start from ₹15 Lakh today!",
-    url: "https://www.thebuyzaarmart.com/kanpur/neighbourhood-store-franchise-in-kanpur",
+    url: "https://www.thebuyzaarmart.com/kanpur/neighbourhood-store-franchise-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
       {

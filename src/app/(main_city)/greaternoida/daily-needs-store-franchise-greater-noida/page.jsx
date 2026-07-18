@@ -10,14 +10,14 @@ export const metadata = {
     "Start a highly profitable daily needs store franchise in Greater Noida with The Buyzaar Mart. Invest in our risk-free, passive income FOCM business model today.",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+      "https://www.thebuyzaarmart.com/greaternoida/daily-needs-store-franchise-greater-noida",
   },
   openGraph: {
     title:
       "Daily Needs Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
     description:
       "Start a highly profitable daily needs store franchise in Greater Noida with The Buyzaar Mart. Invest in our risk-free, passive income FOCM business model today.",
-    url: "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+    url: "https://www.thebuyzaarmart.com/greaternoida/daily-needs-store-franchise-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -60,7 +60,7 @@ const Content = () => {
 
               <div className="bg-green-50 p-6 rounded-lg">
                 <h3 className="font-semibold text-green-900 mb-3">Supermart Format</h3>
-                <p className="text-sm mb-2"><strong>Size:</strong> 1500-3000 sq ft</p>
+                <p className="text-sm mb-2"><strong>Size:</strong> 1000-3000 sq ft</p>
                 <p className="text-sm mb-1">Best for main markets, commercial areas</p>
                 <ul className="list-disc list-inside text-sm space-y-1">
                   <li>Balanced investment/returns</li>
@@ -264,7 +264,7 @@ const Content = () => {
               </div>
             </div>
 
-            <CityInternalLinks city="meerut" currentSlug="/cities/meerut/supermarket-business-meerut" />
+            <CityInternalLinks city="meerut" currentSlug="/cities/meerut/start-grocery-business-in-meerut" />
           </div>
         </div>
 

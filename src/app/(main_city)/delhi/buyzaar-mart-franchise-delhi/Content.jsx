@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "The Buyzaar Mart \u2013 Best Franchise Business in Delhi",
   description:
     "The Buyzaar Mart offers the best franchise business in Delhi with FOCM and FOCO models, Hassle-Free Inventory Assurance, FSSAI licensing, and complete operational management.",
-  url: "https://www.thebuyzaarmart.com/delhi/best-franchise-business-in-delhi",
+  url: "https://www.thebuyzaarmart.com/delhi/buyzaar-mart-franchise-delhi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -728,7 +728,7 @@ const Content = () => {
               <p className="mt-4 text-gray-800">
                 <span className="font-semibold">Apply instantly:</span>{" "}
                 <a
-                  href="https://www.thebuyzaarmart.com/delhi/best-franchise-business-in-delhi"
+                  href="https://www.thebuyzaarmart.com/delhi/buyzaar-mart-franchise-delhi"
                   className="font-semibold text-green-600 hover:underline"
                 >
                   thebuyzaarmart.com/delhi/best-franchise-business-in-delhi
@@ -739,7 +739,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="delhi"
-            currentSlug="/delhi/best-franchise-business-in-delhi"
+            currentSlug="/delhi/buyzaar-mart-franchise-delhi"
           />
         </div>
 

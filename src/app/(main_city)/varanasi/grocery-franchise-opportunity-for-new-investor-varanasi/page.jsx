@@ -18,13 +18,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-opportunity-for-new-investors-in-varanasi",
+      "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-opportunity-for-new-investor-varanasi",
   },
   openGraph: {
     title: "Grocery Franchise Opportunity for New Investors in Varanasi | Buyzaar Mart",
     description:
       "Looking for a grocery franchise opportunity in Varanasi? Explore Buyzaar Mart's investment plans, support system, and ideal setup for new investors.",
-    url: "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-opportunity-for-new-investors-in-varanasi",
+    url: "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-opportunity-for-new-investor-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
       {

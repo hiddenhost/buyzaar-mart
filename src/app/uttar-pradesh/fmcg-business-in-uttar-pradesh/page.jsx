@@ -8,14 +8,14 @@ export const metadata = {
   description: "Launch your FMCG business in Uttar Pradesh with proven models like hypermarts and supermarts. Discover investment costs, legal steps, top products, supply chain tips, and The Buyzaar Mart franchise benefits for high profits. Get started now!",
   keywords: "FMCG business Uttar Pradesh, FMCG franchise UP, hypermart investment UP, supermart franchise Uttar Pradesh, FMCG investment guide, The Buyzaar Mart franchise, FMCG supply chain UP, FMCG profit margins, FMCG legal requirements UP, start FMCG business UP",
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/uttar-pradesh/fmcg-business-in-uttar-pradesh",
+    canonical: "https://www.thebuyzaarmart.com/uttar-pradesh/fmcg-business-in-uttar-pradesh",
   },
 
   // ✅ OPEN GRAPH
   openGraph: {
     title: "FMCG Business in Uttar Pradesh: Franchise Opportunities | The Buyzaar Mart",
     description: "Launch your FMCG business in Uttar Pradesh with proven models like hypermarts and supermarts. Discover investment costs, legal steps, top products, supply chain tips, and The Buyzaar Mart franchise benefits for high profits.",
-    url: "https://www.thebuyzaarmart.com/cities/uttar-pradesh/fmcg-business-in-uttar-pradesh",
+    url: "https://www.thebuyzaarmart.com/uttar-pradesh/fmcg-business-in-uttar-pradesh",
     siteName: "The Buyzaar Mart",
     images: [
       {

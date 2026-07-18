@@ -22,13 +22,13 @@ export const metadata = {
     "best franchise to start in Bareilly",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/bareilly/retail-franchise-with-training-support-in-bareilly",
+    canonical: "https://www.thebuyzaarmart.com/bareilly/retail-franchise-with-training-support-bareilly",
   },
   openGraph: {
     title: "Retail Franchise with Training Support in Bareilly | The Buyzaar Mart",
     description:
       "Start a retail franchise in Bareilly with The Buyzaar Mart. Get complete training support, low investment, FOCM model & 3 store formats. Enquire now!",
-    url: "https://www.thebuyzaarmart.com/bareilly/retail-franchise-with-training-support-in-bareilly",
+    url: "https://www.thebuyzaarmart.com/bareilly/retail-franchise-with-training-support-bareilly",
     siteName: "The Buyzaar Mart",
     images: [
       {

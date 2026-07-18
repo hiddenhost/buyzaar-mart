@@ -8,13 +8,13 @@ export const metadata = {
   description: "Want to start a grocery business in Meerut? Get expert insights on investment, location, licensing & profit strategies with The Buyzaar Mart. Complete 2025 guide!",
   keywords: "start grocery business meerut, buyzaar mart meerut, grocery business investment meerut, grocery licenses meerut, profitable grocery business meerut",
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    canonical: "https://www.thebuyzaarmart.com/cities/meerut/start-grocery-business-in-meerut",
   },
   // ✅ OPEN GRAPH  
   openGraph: {
     title: "Start Grocery Business in Meerut | The Buyzaar Mart Guide",
     description: "Want to start a grocery business in Meerut? Get expert insights on investment, location, licensing & profit strategies with The Buyzaar Mart. Complete 2025 guide!",
-    url: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    url: "https://www.thebuyzaarmart.com/cities/meerut/start-grocery-business-in-meerut",
     siteName: "The Buyzaar Mart",
     images: [
       {

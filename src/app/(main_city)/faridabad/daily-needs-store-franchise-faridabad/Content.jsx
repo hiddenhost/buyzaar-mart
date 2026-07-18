@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Daily Needs Store Franchise in Faridabad - The Buyzaar Mart",
   description:
     "Own a daily needs store franchise in Faridabad with The Buyzaar Mart. Explore Mini Mart, Super Mart, and Hyper Mart formats with FOCM and FOCO models, full setup, supply chain, POS, and brand support.",
-  url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+  url: "https://www.thebuyzaarmart.com/faridabad/daily-needs-store-franchise-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -666,7 +666,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="faridabad"
-            currentSlug="/faridabad/local-mart-franchise-faridabad"
+            currentSlug="/faridabad/daily-needs-store-franchise-faridabad"
           />
         </div>
 

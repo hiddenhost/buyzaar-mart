@@ -30,14 +30,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/greater-noida",
+    canonical: "https://www.thebuyzaarmart.com/greaternoida",
   },
 
   openGraph: {
     title: "Franchise in Greater Noida | Buyzaar Mart Supermarket",
     description:
       "Start a supermarket business in Pari Chowk, Alpha, Beta, Greater Noida West, or Knowledge Park from ₹15,25,000. Grow with Buyzaar Mart and apply today.",
-    url: "https://www.thebuyzaarmart.com/greater-noida",
+    url: "https://www.thebuyzaarmart.com/greaternoida",
     siteName: "The Buyzaar Mart",
     images: [
       {

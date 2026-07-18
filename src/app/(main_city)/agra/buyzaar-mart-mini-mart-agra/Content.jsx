@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Store Franchise in Agra | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers a modern grocery store franchise in Agra with integrated POS billing, MiniMart, SuperMart, and HyperMart formats, FOCM support, and complete franchise assistance.",
-  url: "https://www.thebuyzaarmart.com/agra/grocery-store-franchise-in-agra",
+  url: "https://www.thebuyzaarmart.com/agra/buyzaar-mart-mini-mart-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -387,7 +387,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="agra"
-            currentSlug="/agra/grocery-store-franchise-in-agra"
+            currentSlug="/agra/buyzaar-mart-mini-mart-agra"
           />
         </div>
 

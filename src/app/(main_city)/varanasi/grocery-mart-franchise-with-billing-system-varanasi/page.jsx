@@ -19,13 +19,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/varanasi/grocery-mart-franchise-with-billing-system-in-varanasi",
+      "https://www.thebuyzaarmart.com/varanasi/grocery-mart-franchise-with-billing-system-varanasi",
   },
   openGraph: {
     title: "Grocery Mart Franchise with Billing System in Varanasi | Buyzaar Mart",
     description:
       "Start a grocery mart franchise in Varanasi with an integrated billing system. Explore Buyzaar Mart's POS software, investment, and franchise benefits.",
-    url: "https://www.thebuyzaarmart.com/varanasi/grocery-mart-franchise-with-billing-system-in-varanasi",
+    url: "https://www.thebuyzaarmart.com/varanasi/grocery-mart-franchise-with-billing-system-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
       {

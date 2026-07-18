@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Mart Franchise Opportunity in Greater Noida | The Buyzaar Mart",
   description:
     "Explore The Buyzaar Mart franchise opportunity in Greater Noida with a structured FOCM model, backend support, organized retail systems, and scalable store formats for long-term growth.",
-  url: "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+  url: "https://www.thebuyzaarmart.com/greaternoida/mart-franchise-opportunity-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -726,7 +726,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="greater-noida"
-            currentSlug="/greater-noida/buyzaar-mart-franchise-in-greater-noida"
+            currentSlug="/greaternoida/mart-franchise-opportunity-greater-noida"
           />
         </div>
 

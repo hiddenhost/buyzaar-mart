@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Mart Franchise Opportunity in Faridabad - The Buyzaar Mart",
   description:
     "Explore a profitable mart franchise opportunity in Faridabad with The Buyzaar Mart. Choose FOCM or FOCO models, start from ₹15 Lakh, and get store setup, POS, backend, inventory, and marketing support.",
-  url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+  url: "https://www.thebuyzaarmart.com/faridabad/mart-franchise-opportunity-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -612,7 +612,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="faridabad"
-            currentSlug="/faridabad/local-mart-franchise-faridabad"
+            currentSlug="/faridabad/mart-franchise-opportunity-faridabad"
           />
         </div>
 

@@ -8,13 +8,13 @@ export const metadata = {
   description: "Start a profitable supermarket business in Meerut with The Buyzaar Mart. High-demand retail opportunity with complete setup support and proven model. Enquire now!",
   keywords: "supermarket business meerut, buyzaar mart business, grocery business meerut, retail business meerut, supermarket opportunity meerut",
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    canonical: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-in-meerut",
   },
   // ✅ OPEN GRAPH  
   openGraph: {
     title: "Supermarket Business in Meerut | The Buyzaar Mart",
     description: "Start a profitable supermarket business in Meerut with The Buyzaar Mart. High-demand retail opportunity with complete setup support and proven model. Enquire now!",
-    url: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    url: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-in-meerut",
     siteName: "The Buyzaar Mart",
     images: [
       {

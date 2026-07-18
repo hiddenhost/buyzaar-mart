@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   "name": "The Buyzaar Mart – Neighbourhood Mart Franchise Gurgaon",
   "description": "The Buyzaar Mart offers neighbourhood mart franchise opportunities in Gurgaon with complete setup support, FOCM model, FSSAI licensing, and Hassle-Free Inventory Assurance.",
-  "url": "https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-in-gurgaon",
+  "url": "https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-gurgaon",
   "telephone": "+919217991727",
   "email": "info@thebuyzaarmart.com",
   "address": {

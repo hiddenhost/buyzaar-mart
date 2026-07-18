@@ -9,13 +9,13 @@ export const metadata = {
     "Start a daily needs store franchise in Faridabad with The Buyzaar Mart. Mini Mart, Super Mart & Hyper Mart formats. FOCM & FOCO models from ₹15 Lakh. Apply now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+      "https://www.thebuyzaarmart.com/faridabad/daily-needs-store-franchise-faridabad",
   },
   openGraph: {
     title: "Daily Needs Store Franchise Faridabad | Buyzaar Mart",
     description:
       "Start a daily needs store franchise in Faridabad with The Buyzaar Mart. Mini Mart, Super Mart & Hyper Mart formats. FOCM & FOCO models from ₹15 Lakh. Apply now!",
-    url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+    url: "https://www.thebuyzaarmart.com/faridabad/daily-needs-store-franchise-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

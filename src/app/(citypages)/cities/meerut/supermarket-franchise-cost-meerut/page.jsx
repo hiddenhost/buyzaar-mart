@@ -8,13 +8,13 @@ export const metadata = {
   description: "Explore supermarket franchise cost in Meerut with The Buyzaar Mart. Learn investment details, setup process, and growth potential to start your retail business successfully.",
   keywords: "supermarket franchise meerut, buyzaar mart franchise cost, supermarket investment meerut, retail franchise meerut, supermarket cost meerut",
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    canonical: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-franchise-cost-meerut",
   },
   // ✅ OPEN GRAPH  
   openGraph: {
     title: "Supermarket Franchise Cost in Meerut | The Buyzaar Mart Investment Guide",
     description: "Explore supermarket franchise cost in Meerut with The Buyzaar Mart. Learn investment details, setup process, and growth potential to start your retail business successfully.",
-    url: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-business-meerut",
+    url: "https://www.thebuyzaarmart.com/cities/meerut/supermarket-franchise-cost-meerut",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -8,13 +8,13 @@ export const metadata = {
   description: "Complete guide to open supermarket in Meerut with The Buyzaar Mart. Licenses, investment, prime locations, step-by-step execution. Launch your profitable store now!",
   keywords: "open supermarket meerut, buyzaar mart supermarket meerut, supermarket franchise meerut, start supermarket business meerut, supermarket licenses meerut",
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/meerut/grocery-business-opportunity-meerut",
+    canonical: "https://www.thebuyzaarmart.com/cities/meerut/open-supermarket-in-meerut",
   },
   // ✅ OPEN GRAPH  
   openGraph: {
     title: "Open Supermarket in Meerut | The Buyzaar Mart Guide",
     description: "Complete guide to open supermarket in Meerut with The Buyzaar Mart. Licenses, investment, prime locations, step-by-step execution. Launch your profitable store now!",
-    url: "https://www.thebuyzaarmart.com/cities/meerut/grocery-business-opportunity-meerut",
+    url: "https://www.thebuyzaarmart.com/cities/meerut/open-supermarket-in-meerut",
     siteName: "The Buyzaar Mart",
     images: [
       {

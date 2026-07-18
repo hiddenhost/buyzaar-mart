@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Neighbourhood Store Franchise in Kanpur - The Buyzaar Mart",
   description:
     "Neighbourhood Store Franchise in Kanpur with The Buyzaar Mart. Start a community grocery store with ₹15 Lakh investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
-  url: "https://www.thebuyzaarmart.com/kanpur/neighbourhood-store-franchise-in-kanpur",
+  url: "https://www.thebuyzaarmart.com/kanpur/neighbourhood-store-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -401,7 +401,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="kanpur"
-            currentSlug="/kanpur/neighbourhood-store-franchise-in-kanpur"
+            currentSlug="/kanpur/neighbourhood-store-franchise-kanpur"
           />
         </div>
 

@@ -13,14 +13,14 @@ export const metadata = {
     "grocery mart business noida, buyzaar mart noida, noida grocery business, supermarket business noida, grocery store noida, retail business noida, grocery mart opportunity noida, noida retail startup, profitable grocery noida, buyzaar mart opportunities",
 
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/noida/grocery-mart-business-noida",
+    canonical: "https://www.thebuyzaarmart.com/cities/noida/grocery-mart-business-in-noida",
   },
 
   // ✅ OPEN GRAPH
   openGraph: {
     title: "Grocery Mart Business in Noida | Profitable Opportunities at The Buyzaar Mart",
     description: "Explore grocery mart business in Noida with The Buyzaar Mart. Discover startup strategies, market potential, operations, and growth tips for success in Noida's booming retail scene.",
-    url: "https://www.thebuyzaarmart.com/cities/noida/grocery-mart-business-noida",
+    url: "https://www.thebuyzaarmart.com/cities/noida/grocery-mart-business-in-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

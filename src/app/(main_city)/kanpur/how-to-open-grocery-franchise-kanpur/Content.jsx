@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Franchise in Kanpur - The Buyzaar Mart",
   description:
     "Open a grocery franchise in Kanpur with The Buyzaar Mart. Choose from MiniMart, SuperMart, or HyperMart formats under FOFO, FOCO, or FOCM models with full operational support, supply chain access, and hyper-local marketing.",
-  url: "https://www.thebuyzaarmart.com/kanpur/grocery-franchise-in-kanpur",
+  url: "https://www.thebuyzaarmart.com/kanpur/how-to-open-grocery-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -703,7 +703,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="kanpur"
-            currentSlug="/kanpur/grocery-franchise-in-kanpur"
+            currentSlug="/kanpur/how-to-open-grocery-franchise-kanpur"
           />
         </div>
 

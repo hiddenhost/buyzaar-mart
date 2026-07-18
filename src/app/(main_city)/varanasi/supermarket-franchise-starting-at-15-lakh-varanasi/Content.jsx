@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Supermarket Franchise at 15 Lakh in Varanasi | The Buyzaar Mart",
   description:
     "Buyzaar Mart offers a supermarket franchise starting at approximately ₹15 lakh in Varanasi with the Mini Mart format, billing software, inventory management, and full franchise support.",
-  url: "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-at-15-lakh-in-varanasi",
+  url: "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -359,7 +359,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="varanasi"
-            currentSlug="/varanasi/supermarket-franchise-at-15-lakh-in-varanasi"
+            currentSlug="/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi"
           />
         </div>
 

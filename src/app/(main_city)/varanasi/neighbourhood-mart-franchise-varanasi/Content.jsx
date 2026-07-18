@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "The Buyzaar Mart: Neighbourhood Mart Franchise Opportunity in Varanasi",
   description:
     "The Buyzaar Mart offers a neighbourhood mart franchise opportunity in Varanasi with standardized store design, POS billing, staff training, and ongoing operational support.",
-  url: "https://www.thebuyzaarmart.com/varanasi/neighbourhood-mart-franchise-opportunity-in-varanasi",
+  url: "https://www.thebuyzaarmart.com/varanasi/neighbourhood-mart-franchise-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -422,7 +422,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="varanasi"
-            currentSlug="/varanasi/neighbourhood-mart-franchise-opportunity-in-varanasi"
+            currentSlug="/varanasi/neighbourhood-mart-franchise-varanasi"
           />
         </div>
 

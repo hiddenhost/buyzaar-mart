@@ -20,13 +20,13 @@ export const metadata = {
     "POS billing grocery franchise",
   ],
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/agra/daily-grocery-franchise-business-in-agra",
+    canonical: "https://www.thebuyzaarmart.com/agra/daily-grocery-franchise-business-agra",
   },
   openGraph: {
     title: "Daily Grocery Franchise Business in Agra | The Buyzaar Mart",
     description:
       "Start a daily grocery franchise business in Agra with The Buyzaar Mart. Low investment, POS billing, full brand support. MiniMart to HyperMart formats. Enquire now!",
-    url: "https://www.thebuyzaarmart.com/agra/daily-grocery-franchise-business-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/daily-grocery-franchise-business-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

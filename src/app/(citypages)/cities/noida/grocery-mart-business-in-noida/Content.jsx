@@ -203,7 +203,7 @@ This combination of high demand, growing purchasing power, and structured suppor
 
           <CityInternalLinks
             city="saharanpur"
-            currentSlug="/cities/saharanpur/supermarket-business-saharanpur"
+            currentSlug="/cities/noida/grocery-mart-business-in-noida"
           />
         </div>
 

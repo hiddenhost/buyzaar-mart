@@ -9,13 +9,13 @@ export const metadata = {
     "Open a neighbourhood mart franchise in Gurgaon with The Buyzaar Mart. FOCM model — you own, we manage your community store. FSSAI licensed. Call 9217991727 now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-in-gurgaon",
+      "https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-gurgaon",
   },
   openGraph: {
     title: "Neighbourhood Mart Franchise in Gurgaon | Buyzaar Mart",
     description:
       "Open a neighbourhood mart franchise in Gurgaon with The Buyzaar Mart. FOCM model — you own, we manage your community store. FSSAI licensed. Call 9217991727 now!",
-    url: "https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-in-gurgaon",
+    url: "https://www.thebuyzaarmart.com/gurgaon/neighbourhood-mart-franchise-gurgaon",
     siteName: "The Buyzaar Mart",
     images: [
       {

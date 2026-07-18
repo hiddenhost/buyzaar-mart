@@ -10,14 +10,14 @@ export const metadata = {
     "Launch your retail business franchise in Greater Noida with The Buyzaar Mart. FOCM model with company-managed operations, POS system, supply chain & full marketing support. Investment starts ₹15 Lakh. Apply now.",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/greater-noida/retail-business-franchise-in-greater-noida",
+      "https://www.thebuyzaarmart.com/greaternoida/retail-business-franchise-greater-noida",
   },
   openGraph: {
     title:
       "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from ₹15 Lakh",
     description:
       "Launch your retail business franchise in Greater Noida with The Buyzaar Mart. FOCM model with company-managed operations, POS system, supply chain & full marketing support. Investment starts ₹15 Lakh. Apply now.",
-    url: "https://www.thebuyzaarmart.com/greater-noida/retail-business-franchise-in-greater-noida",
+    url: "https://www.thebuyzaarmart.com/greaternoida/retail-business-franchise-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

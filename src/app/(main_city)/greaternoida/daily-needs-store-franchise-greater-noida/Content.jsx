@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Organized Daily Needs Retail in Greater Noida | The Buyzaar Mart Franchise",
   description:
     "Explore organized daily needs retail franchise opportunities in Greater Noida with The Buyzaar Mart. Start with transparent investment, smart store systems, strong backend support, and scalable neighborhood retail formats.",
-  url: "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+  url: "https://www.thebuyzaarmart.com/greaternoida/daily-needs-store-franchise-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -704,7 +704,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="greater-noida"
-            currentSlug="/greater-noida/buyzaar-mart-franchise-in-greater-noida"
+            currentSlug="/greaternoida/daily-needs-store-franchise-greater-noida"
           />
         </div>
 

@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Convenience Store Franchise Faridabad - The Buyzaar Mart",
   description:
     "Explore a convenience store franchise in Faridabad with The Buyzaar Mart. Start with Mini Mart, Super Mart, or Hyper Mart formats and get POS, supply chain, marketing, and operational support.",
-  url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+  url: "https://www.thebuyzaarmart.com/faridabad/convenience-store-franchise-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -645,7 +645,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="faridabad"
-            currentSlug="/faridabad/local-mart-franchise-faridabad"
+            currentSlug="/faridabad/convenience-store-franchise-faridabad"
           />
         </div>
 

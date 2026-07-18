@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Convenience Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
   description:
     "Explore The Buyzaar Mart convenience store franchise in Greater Noida with a structured FOCM model, low entry investment from ₹15 Lakh, store setup support, supply chain systems, and ongoing operational assistance.",
-  url: "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+  url: "https://www.thebuyzaarmart.com/greaternoida/convenience-store-franchise-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -658,7 +658,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="greater-noida"
-            currentSlug="/greater-noida/buyzaar-mart-franchise-in-greater-noida"
+            currentSlug="/greaternoida/convenience-store-franchise-greater-noida"
           />
         </div>
 

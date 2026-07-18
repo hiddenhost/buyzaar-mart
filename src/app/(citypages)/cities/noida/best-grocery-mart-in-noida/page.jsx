@@ -13,14 +13,14 @@ export const metadata = {
     "best grocery mart noida, grocery mart noida, buyzaar mart noida, best supermarket noida, grocery store noida, fresh groceries noida, grocery delivery noida, top grocery store noida, noida extension grocery, sector 18 grocery",
 
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/noida/best-grocery-mart-noida",
+    canonical: "https://www.thebuyzaarmart.com/cities/noida/best-grocery-mart-in-noida",
   },
 
   // ✅ OPEN GRAPH
   openGraph: {
     title: "Best Grocery Mart in Noida | Top Quality at The Buyzaar Mart",
     description: "Find the best grocery mart in Noida at The Buyzaar Mart. Fresh produce, daily essentials, fast delivery, and unbeatable convenience for Sector 18 to Extension. Shop smarter today!",
-    url: "https://www.thebuyzaarmart.com/cities/noida/best-grocery-mart-noida",
+    url: "https://www.thebuyzaarmart.com/cities/noida/best-grocery-mart-in-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

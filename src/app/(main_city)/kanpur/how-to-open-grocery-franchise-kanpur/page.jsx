@@ -9,13 +9,13 @@ export const metadata = {
     "Open a grocery franchise in Kanpur with The Buyzaar Mart. Choose from MiniMart, SuperMart, or HyperMart formats ,Enquire now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/kanpur/grocery-franchise-in-kanpur",
+      "https://www.thebuyzaarmart.com/kanpur/how-to-open-grocery-franchise-kanpur",
   },
   openGraph: {
     title: "How to Open Grocery Franchise Kanpur | The Buyzaar Mart",
     description:
       "Open a grocery franchise in Kanpur with The Buyzaar Mart. Choose from MiniMart, SuperMart, or HyperMart formats ,Enquire now!",
-    url: "https://www.thebuyzaarmart.com/kanpur/grocery-franchise-in-kanpur",
+    url: "https://www.thebuyzaarmart.com/kanpur/how-to-open-grocery-franchise-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
       {

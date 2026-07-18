@@ -9,13 +9,13 @@ export const metadata = {
     "Looking for a grocery franchise in Faridabad? The Buyzaar Mart offers FOCM & FOCO models starting at ₹15 Lakh with full setup, supply chain & brand support. Apply now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+      "https://www.thebuyzaarmart.com/faridabad/grocery-franchise-faridabad",
   },
   openGraph: {
     title: "Grocery Franchise in Faridabad | The Buyzaar Mart",
     description:
       "Looking for a grocery franchise in Faridabad? The Buyzaar Mart offers FOCM & FOCO models starting at ₹15 Lakh with full setup, supply chain & brand support. Apply now!",
-    url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+    url: "https://www.thebuyzaarmart.com/faridabad/grocery-franchise-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

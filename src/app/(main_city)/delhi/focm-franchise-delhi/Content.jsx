@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: 'The Buyzaar Mart – Daily Needs Franchise in NCR',
   description:
     'The Buyzaar Mart offers daily needs franchise in NCR with FOCM model, Hassle-Free Inventory Assurance, FSSAI licensing, and complete operational management across Delhi, Gurgaon, Noida, Ghaziabad, and Faridabad.',
-  url: 'https://www.thebuyzaarmart.com/ncr/daily-needs-franchise-ncr',
+  url: 'https://www.thebuyzaarmart.com/delhi/focm-franchise-delhi',
   telephone: '+919217991727',
   email: 'info@thebuyzaarmart.com',
   address: {
@@ -1590,7 +1590,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="ncr"
-            currentSlug="/ncr/daily-needs-franchise-ncr"
+            currentSlug="/delhi/focm-franchise-delhi"
           />
         </div>
 

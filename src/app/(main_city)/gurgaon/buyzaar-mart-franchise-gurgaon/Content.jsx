@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "The Buyzaar Mart – Franchise in Gurgaon",
   description:
     "The Buyzaar Mart offers franchise opportunities in Gurgaon with complete setup support, FOCM model, FSSAI licensing, and Hassle-Free Inventory Assurance.",
-  url: "https://www.thebuyzaarmart.com/gurgaon/franchise-in-gurgaon",
+  url: "https://www.thebuyzaarmart.com/gurgaon/buyzaar-mart-franchise-gurgaon",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {

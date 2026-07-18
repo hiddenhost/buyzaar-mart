@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Buyzaar Mart Franchise in Greater Noida - Own Your Neighbourhood Store Today",
   description:
     "Explore The Buyzaar Mart supermarket franchise in Greater Noida. Start with investment from ₹13 Lakh to ₹18 Lakh, modern store systems, full support, and a scalable grocery retail business model.",
-  url: "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+  url: "https://www.thebuyzaarmart.com/greaternoida/buyzaar-mart-franchise-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -473,8 +473,8 @@ const Content = () => {
                   Mart in Greater Noida?
                 </h3>
                 <p className="mt-2">
-                  The total investment for a Mini Mart (600&ndash;900 sq. ft.)
-                  is approximately ₹13 Lakh to ₹18 Lakh, covering franchise fee,
+                  The total investment for a Mini Mart (600&ndash;1000 sq. ft.)
+                  is approximately ₹15+ Lakh, covering franchise fee,
                   setup, branding, POS, inventory, and working capital. Property
                   rent and advance are separate and vary by location.
                 </p>
@@ -642,7 +642,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="greater-noida"
-            currentSlug="/greater-noida/buyzaar-mart-franchise-in-greater-noida"
+            currentSlug="/greaternoida/buyzaar-mart-franchise-greater-noida"
           />
         </div>
 

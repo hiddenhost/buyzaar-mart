@@ -9,13 +9,13 @@ export const metadata = {
     "Start your own retail store franchise in Faridabad with The Buyzaar Mart from just ₹15 Lakh. FOCM model, full setup support, POS system & supply chain. Apply now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+      "https://www.thebuyzaarmart.com/faridabad/retail-store-franchise-in-faridabad",
   },
   openGraph: {
     title: "Retail Store Franchise in Faridabad | The Buyzaar Mart",
     description:
       "Start your own retail store franchise in Faridabad with The Buyzaar Mart from just ₹15 Lakh. FOCM model, full setup support, POS system & supply chain. Apply now!",
-    url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+    url: "https://www.thebuyzaarmart.com/faridabad/retail-store-franchise-in-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

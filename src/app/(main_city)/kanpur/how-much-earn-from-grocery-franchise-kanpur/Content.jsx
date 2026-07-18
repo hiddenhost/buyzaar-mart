@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Franchise in Kanpur - The Buyzaar Mart",
   description:
     "Start a grocery franchise in Kanpur with The Buyzaar Mart. Investment starts from ₹15 Lakh with FOCM model, store setup support, POS system, and operational assistance.",
-  url: "https://www.thebuyzaarmart.com/kanpur/grocery-franchise-in-kanpur",
+  url: "https://www.thebuyzaarmart.com/kanpur/how-much-earn-from-grocery-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -635,7 +635,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="kanpur"
-            currentSlug="/kanpur/grocery-franchise-in-kanpur"
+            currentSlug="/kanpur/how-much-earn-from-grocery-franchise-kanpur"
           />
         </div>
 

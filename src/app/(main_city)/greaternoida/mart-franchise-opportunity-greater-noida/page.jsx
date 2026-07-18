@@ -10,14 +10,14 @@ export const metadata = {
     "Discover mart franchise opportunities in Greater Noida with The Buyzaar Mart. Low investment supermarket franchise from ₹15 Lakh. Full training, supply chain & ongoing support. Apply now for your business success.",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+      "https://www.thebuyzaarmart.com/greaternoida/mart-franchise-opportunity-greater-noida",
   },
   openGraph: {
     title:
       "Mart Franchise in Greater Noida | The Buyzaar Mart Opportunity ₹15 Lakh+",
     description:
       "Discover mart franchise opportunities in Greater Noida with The Buyzaar Mart. Low investment supermarket franchise from ₹15 Lakh. Full training, supply chain & ongoing support. Apply now for your business success.",
-    url: "https://www.thebuyzaarmart.com/greater-noida/buyzaar-mart-franchise-in-greater-noida",
+    url: "https://www.thebuyzaarmart.com/greaternoida/mart-franchise-opportunity-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

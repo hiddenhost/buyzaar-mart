@@ -187,7 +187,7 @@ Moreover, modern consumers are increasingly seeking stores that combine quality,
 
           <CityInternalLinks
             city="saharanpur"
-            currentSlug="/cities/saharanpur/supermarket-business-saharanpur"
+            currentSlug="/cities/saharanpur/grocery-franchise-cost-in-noida"
           />
         </div>
 

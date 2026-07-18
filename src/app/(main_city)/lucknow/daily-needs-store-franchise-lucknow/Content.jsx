@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "The Buyzaar Mart - Daily Needs Store Franchise in Lucknow",
   description:
     "The Buyzaar Mart offers a daily needs store franchise opportunity in Lucknow with low investment, Mini Mart and Super Mart formats, full company support, POS technology, inventory systems, and hyper-local marketing support.",
-  url: "https://www.thebuyzaarmart.com/lucknow/daily-needs-store-franchise-in-lucknow",
+  url: "https://www.thebuyzaarmart.com/lucknow/daily-needs-store-franchise-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -655,7 +655,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="lucknow"
-            currentSlug="/lucknow/daily-needs-store-franchise-in-lucknow"
+            currentSlug="/lucknow/daily-needs-store-franchise-lucknow"
           />
         </div>
 

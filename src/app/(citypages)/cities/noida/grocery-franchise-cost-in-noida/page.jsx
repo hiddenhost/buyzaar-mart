@@ -13,14 +13,14 @@ export const metadata = {
     "grocery franchise cost noida, buyzaar mart franchise noida, noida grocery investment, supermarket franchise cost noida, retail franchise noida, grocery business cost noida, franchise investment noida, buyzaar mart investment guide, noida franchise opportunity, grocery startup cost noida",
 
   alternates: {
-    canonical: "https://www.thebuyzaarmart.com/cities/noida/grocery-franchise-cost-noida",
+    canonical: "https://www.thebuyzaarmart.com/cities/noida/grocery-franchise-cost-in-noida",
   },
 
   // ✅ OPEN GRAPH
   openGraph: {
     title: "Grocery Franchise Cost in Noida | The Buyzaar Mart Investment Guide",
     description: "Learn about grocery franchise cost in Noida with The Buyzaar Mart. Get a clear overview of investment factors, support included, and why it's a smart choice for local entrepreneurs.",
-    url: "https://www.thebuyzaarmart.com/cities/noida/grocery-franchise-cost-noida",
+    url: "https://www.thebuyzaarmart.com/cities/noida/grocery-franchise-cost-in-noida",
     siteName: "The Buyzaar Mart",
     images: [
       {

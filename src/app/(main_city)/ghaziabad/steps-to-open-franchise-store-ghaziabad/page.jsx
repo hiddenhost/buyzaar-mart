@@ -11,13 +11,13 @@ export const metadata = {
     "steps to open a franchise store in Ghaziabad, franchise store in Ghaziabad, open franchise in Ghaziabad, Buyzaar Mart Ghaziabad, daily needs franchise Ghaziabad, grocery franchise Ghaziabad, supermarket franchise Ghaziabad",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/ghaziabad/steps-to-open-a-franchise-store-ghaziabad",
+      "https://www.thebuyzaarmart.com/ghaziabad/steps-to-open-franchise-store-ghaziabad",
   },
   openGraph: {
     title: "Steps to Open a Franchise Store in Ghaziabad | Buyzaar Mart",
     description:
       "Know the exact steps to open a franchise store in Ghaziabad with The Buyzaar Mart. From enquiry to grand opening in 8-12 weeks. Call 9217991727 to get started!",
-    url: "https://www.thebuyzaarmart.com/ghaziabad/steps-to-open-a-franchise-store-ghaziabad",
+    url: "https://www.thebuyzaarmart.com/ghaziabad/steps-to-open-franchise-store-ghaziabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

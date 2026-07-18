@@ -9,13 +9,13 @@ export const metadata = {
     "Looking for the best FOCM franchise in Delhi? Invest in The Buyzaar Mart's supermarket model. Zero operational headaches: you invest, we manage. High ROI!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/delhi/focm-grocery-franchise-delhi",
+      "https://www.thebuyzaarmart.com/delhi/focm-franchise-delhi",
   },
   openGraph: {
     title: "Start an FOCM Grocery Franchise in Delhi | The Buyzaar Mart",
     description:
       "Looking for the best FOCM franchise in Delhi? Invest in The Buyzaar Mart's supermarket model. Zero operational headaches: you invest, we manage. High ROI!",
-    url: "https://www.thebuyzaarmart.com/delhi/focm-grocery-franchise-delhi",
+    url: "https://www.thebuyzaarmart.com/delhi/focm-franchise-delhi",
     siteName: "The Buyzaar Mart",
     images: [
       {

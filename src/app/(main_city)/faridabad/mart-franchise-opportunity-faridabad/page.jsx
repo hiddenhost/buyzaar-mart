@@ -10,14 +10,14 @@ export const metadata = {
     "Looking for a mart franchise opportunity in Faridabad? Join The Buyzaar Mart – India's trusted grocery & supermarket franchise with FOCM/FOCO models, full setup support, POS system, and hassle-free inventory management. Apply now!",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+      "https://www.thebuyzaarmart.com/faridabad/mart-franchise-opportunity-faridabad",
   },
   openGraph: {
     title:
       "Mart Franchise Opportunity in Faridabad | The Buyzaar Mart – Start from ₹15 Lakh",
     description:
       "Looking for a mart franchise opportunity in Faridabad? Join The Buyzaar Mart – India's trusted grocery & supermarket franchise with FOCM/FOCO models, full setup support, POS system, and hassle-free inventory management. Apply now!",
-    url: "https://www.thebuyzaarmart.com/faridabad/local-mart-franchise-faridabad",
+    url: "https://www.thebuyzaarmart.com/faridabad/mart-franchise-opportunity-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

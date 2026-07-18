@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Franchise for New Investors in Varanasi | Buyzaar Mart",
   description:
     "Buyzaar Mart offers a grocery franchise opportunity in Varanasi for new investors with Mini Mart, Super Mart, and Hyper Mart formats, staff training, supply chain support, and operational guidance.",
-  url: "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-for-new-investors-in-varanasi",
+  url: "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-opportunity-for-new-investor-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -399,7 +399,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="varanasi"
-            currentSlug="/varanasi/grocery-franchise-for-new-investors-in-varanasi"
+            currentSlug="/varanasi/grocery-franchise-opportunity-for-new-investor-varanasi"
           />
         </div>
 

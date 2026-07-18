@@ -12,13 +12,13 @@ export const metadata = {
     "low investment franchise in Ghaziabad, franchise under 20 lakh in Ghaziabad, affordable franchise in Ghaziabad, best low cost franchise Ghaziabad, high return franchise Ghaziabad, food franchise Ghaziabad, retail franchise Ghaziabad, education franchise Ghaziabad, service franchise Ghaziabad, start business in Ghaziabad",
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/ghaziabad/low-investment-franchise-in-ghaziabad",
+      "https://www.thebuyzaarmart.com/ghaziabad/low-investment-franchise-ghaziabad",
   },
   openGraph: {
     title: "Low Investment Franchise in Ghaziabad | Start from ₹15–20 Lakh",
     description:
       "Looking for a low investment franchise in Ghaziabad? Explore top affordable franchise opportunities with high returns across food, retail, education & services. Start your business today!",
-    url: "https://www.thebuyzaarmart.com/ghaziabad/low-investment-franchise-in-ghaziabad",
+    url: "https://www.thebuyzaarmart.com/ghaziabad/low-investment-franchise-ghaziabad",
     siteName: "The Buyzaar Mart",
     images: [
       {

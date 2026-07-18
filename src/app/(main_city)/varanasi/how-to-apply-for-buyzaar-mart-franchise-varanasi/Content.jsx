@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Buyzaar Mart Franchise Application Process in Varanasi",
   description:
     "Buyzaar Mart offers a structured grocery franchise application process in Varanasi with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, and guided support.",
-  url: "https://www.thebuyzaarmart.com/varanasi/buyzaar-mart-franchise-application-process-in-varanasi",
+  url: "https://www.thebuyzaarmart.com/varanasi/how-to-apply-for-buyzaar-mart-franchise-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -373,7 +373,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="varanasi"
-            currentSlug="/varanasi/buyzaar-mart-franchise-application-process-in-varanasi"
+            currentSlug="/varanasi/how-to-apply-for-buyzaar-mart-franchise-varanasi"
           />
         </div>
 

@@ -144,33 +144,23 @@ const Content = () => {
 
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
-          <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
+          <div className="max-w-4xl space-y-6 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
               Buyzaar Mart Franchise Contact Gurugram | Get in Touch Today
             </h1>
 
-            <p>
-              The Buyzaar Mart is a rapidly expanding grocery and FMCG retail brand with an established presence across Uttar Pradesh and an increasing footprint in the NCR region, including Gurugram
-            </p>
-            <p>
-              For anyone in Gurugram considering a supermarket or grocery mart business, connecting with the correct franchise contact point is the essential first step before any planning or investment decisions are made
-            </p>
-            <p>
-              The franchise contact team at The Buyzaar Mart is equipped to handle a wide range of enquiries, covering site evaluation, investment structuring, documentation, staffing coordination, and complete store setup guidance
-            </p>
-            <p>
-              Whether you are a salaried employee working in one of Gurugram's many corporate offices, an independent business owner, an NRI investor based overseas, or a local property owner with unused commercial space, the franchise contact desk is built to support your specific situation
-            </p>
-            <p>
-              Getting in touch early in your decision-making process allows the franchise team to begin a preliminary feasibility check on your preferred Gurugram location well before you commit any financial resources
-            </p>
-            <p>
-              Many people reaching out for the first time are unsure of exactly what to ask or share — the contact team is trained to guide first-time enquirers through the process in simple, practical terms
-            </p>
-
+            <ul className="list-disc pl-6 space-y-2">
+              <li>The Buyzaar Mart is a rapidly expanding grocery and FMCG retail brand with an established presence across Uttar Pradesh and an increasing footprint in the NCR region, including Gurugram.</li>
+              <li>For anyone in Gurugram considering a supermarket or grocery mart business, connecting with the correct franchise contact point is the essential first step before any planning or investment decisions are made.</li>
+              <li>The franchise contact team at The Buyzaar Mart is equipped to handle a wide range of enquiries, covering site evaluation, investment structuring, documentation, staffing coordination, and complete store setup guidance.</li>
+              <li>Whether you are a salaried employee working in one of Gurugram's many corporate offices, an independent business owner, an NRI investor based overseas, or a local property owner with unused commercial space, the franchise contact desk is built to support your specific situation.</li>
+              <li>Getting in touch early in your decision-making process allows the franchise team to begin a preliminary feasibility check on your preferred Gurugram location well before you commit any financial resources.</li>
+              <li>Many people reaching out for the first time are unsure of exactly what to ask or share — the contact team is trained to guide first-time enquirers through the process in simple, practical terms.</li>
+            </ul>
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Contacting the Franchise Team Directly Matters
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Accurate, personalized information: Generic online research often cannot answer location-specific or budget-specific questions the way a direct conversation with the franchise team can.</li>
               <li>Real-time feasibility insights: The team can quickly assess whether your preferred Gurugram locality has strong footfall potential, or whether an alternate nearby area might work better.</li>
@@ -182,6 +172,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What Information to Prepare Before Reaching Out
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Your preferred locality or sector within Gurugram — for example, Sohna Road, Dwarka Expressway, Sector 45–58, or the New Gurugram belt covering Sectors 76–95.</li>
               <li>The approximate size of any commercial property you already have access to, measured in square feet, if you already own or have identified a potential location.</li>
@@ -194,31 +185,28 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Store Formats You Can Discuss With the Contact Team
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Mini Mart – A compact retail format ideal for smaller residential pockets, requiring comparatively lower investment and less physical space.</li>
-              <li>Super Mart – A mid-sized format suited for busy neighborhood locations, offering a wider daily-needs product assortment than the Mini Mart.</li>
-              <li>Hyper Mart – A large-format store designed for high-footfall commercial zones, shopping complexes, or well-established main markets.</li>
+              <li><strong>Mini Mart:</strong> A compact retail format ideal for smaller residential pockets, requiring comparatively lower investment and less physical space.</li>
+              <li><strong>Super Mart:</strong> A mid-sized format suited for busy neighborhood locations, offering a wider daily-needs product assortment than the Mini Mart.</li>
+              <li><strong>Hyper Mart:</strong> A large-format store designed for high-footfall commercial zones, shopping complexes, or well-established main markets.</li>
               <li>During your initial contact, the franchise team will help match your available property and budget to the most appropriate of these three formats.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Franchise Models the Contact Team Will Walk You Through
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li><strong>FOCM (Franchise Owned Company Managed)</strong></li>
-              <li>You provide the investment for store setup and inventory.</li>
-              <li>The Buyzaar Mart's trained staff manage all daily operations, billing, and inventory replenishment.</li>
-              <li>Best suited for those who want ownership without needing to be present at the store daily.</li>
-              <li><strong>FOCO (Franchise Owned Company Operated)</strong></li>
-              <li>You own the property and physical infrastructure.</li>
-              <li>Company-appointed staff handle the complete operational side of the business.</li>
-              <li>Ideal for investors who prefer a largely passive, real estate-linked retail investment.</li>
+              <li><strong>FOCM (Franchise Owned Company Managed):</strong> You provide the investment for store setup and inventory; The Buyzaar Mart's trained staff manage all daily operations, billing, and inventory replenishment; best suited for those who want ownership without needing to be present at the store daily.</li>
+              <li><strong>FOCO (Franchise Owned Company Operated):</strong> You own the property and physical infrastructure; company-appointed staff handle the complete operational side of the business; ideal for investors who prefer a largely passive, real estate-linked retail investment.</li>
               <li>The contact team helps you evaluate which model aligns better with your available time, risk tolerance, and long-term financial objectives.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Investment Details You Can Discuss During Your Enquiry
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Investment requirements vary based on the store format selected, the exact location, and the total available carpet area of the property.</li>
               <li>Low investment supermarket franchise options are available for those beginning with a Mini Mart format, making the entry point more accessible for first-time investors.</li>
@@ -230,19 +218,21 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What Happens After You Make Contact
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Initial Enquiry: You share your preferred location, approximate budget, and contact details with the franchise team through their official enquiry channel.</li>
-              <li>Feasibility Review: The team evaluates your preferred Gurugram locality for residential density, expected footfall, and nearby competitor presence.</li>
-              <li>Format Recommendation: Based on this assessment, the team suggests the most suitable store format along with an appropriate franchise model.</li>
-              <li>Investment Discussion: A complete breakdown of costs, payment terms, and expected setup timelines is shared during a follow-up consultation.</li>
-              <li>Agreement Signing: Once terms are mutually finalized, the official franchise agreement is signed, covering all operational and financial clauses.</li>
-              <li>Store Setup: This phase includes interior branding, inventory stocking, and staff onboarding, generally completed within 30–45 days.</li>
-              <li>Launch Support: The Buyzaar Mart team provides marketing and promotional support specifically planned around your store's opening.</li>
+              <li><strong>Initial Enquiry:</strong> You share your preferred location, approximate budget, and contact details with the franchise team through their official enquiry channel.</li>
+              <li><strong>Feasibility Review:</strong> The team evaluates your preferred Gurugram locality for residential density, expected footfall, and nearby competitor presence.</li>
+              <li><strong>Format Recommendation:</strong> Based on this assessment, the team suggests the most suitable store format along with an appropriate franchise model.</li>
+              <li><strong>Investment Discussion:</strong> A complete breakdown of costs, payment terms, and expected setup timelines is shared during a follow-up consultation.</li>
+              <li><strong>Agreement Signing:</strong> Once terms are mutually finalized, the official franchise agreement is signed, covering all operational and financial clauses.</li>
+              <li><strong>Store Setup:</strong> This phase includes interior branding, inventory stocking, and staff onboarding, generally completed within 30–45 days.</li>
+              <li><strong>Launch Support:</strong> The Buyzaar Mart team provides marketing and promotional support specifically planned around your store's opening.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Best Gurugram Areas to Mention During Your Enquiry
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Sohna Road residential belt, where new mid-income housing projects are steadily increasing the local population.</li>
               <li>Dwarka Expressway sectors, currently underserved by organized retail chains despite strong residential growth.</li>
@@ -255,6 +245,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Documentation the Contact Team Will Help You Navigate
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>FSSAI license registration, mandatory for any grocery or food retail operation, with support provided throughout onboarding.</li>
               <li>GST registration, required for proper billing procedures and overall tax compliance.</li>
@@ -266,6 +257,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Investors Choose to Contact The Buyzaar Mart Specifically
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>An established FMCG and grocery brand with a consistently growing presence across Uttar Pradesh and the broader NCR region.</li>
               <li>A proven low investment supermarket franchise model already delivering results in cities such as Lucknow, Bareilly, Kanpur, and Prayagraj.</li>
@@ -276,8 +268,36 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              The Buyzaar Mart Website – Your Gateway to Franchise Information
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>The official website, www.thebuyzaarmart.com, serves as the central hub for all franchise-related information, investment details, and application processes.</li>
+              <li>Prospective franchisees can explore detailed pages on store formats, investment breakdowns, city-specific opportunities, and the complete franchise onboarding journey.</li>
+              <li>The website features a user-friendly inquiry form that connects you directly with the franchise development team for personalized guidance.</li>
+              <li>City-specific landing pages like this one provide localized insights into Gurugram's retail landscape, profitable localities, and market potential.</li>
+              <li>Regular updates on the website keep investors informed about new store launches, expansion plans, and upcoming franchise opportunities across NCR and Uttar Pradesh.</li>
+              <li>The website also hosts comprehensive FAQs, testimonial sections, and contact information to address all queries before you make a commitment.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why Choose The Buyzaar Mart Website for Your Franchise Journey
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>The Buyzaar Mart website is designed to provide complete transparency, from investment figures to operational support structures.</li>
+              <li>Every city page, including this Gurugram franchise contact page, is optimized with local market data, locality recommendations, and real-time contact options.</li>
+              <li>The website's structured layout ensures you can quickly find information on Mini Mart, Super Mart, and Hyper Mart formats without confusion.</li>
+              <li>Secure online inquiry submission protects your data while ensuring fast response times from the franchise team.</li>
+              <li>Mobile-friendly design allows you to explore franchise opportunities on the go, whether you're in Gurugram, Delhi, or anywhere else in India.</li>
+              <li>The website integrates seamlessly with the franchise team's CRM, ensuring your inquiry is tracked and followed up promptly.</li>
+              <li>By starting your franchise journey on the official website, you ensure you're dealing directly with the brand and not through unauthorized intermediaries.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Discussed Topics During Initial Contact
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>How much total investment is genuinely required for a smaller-format store compared to a larger Hyper Mart setup.</li>
               <li>Whether prior retail or business experience is truly necessary before a franchise application can be approved.</li>
@@ -290,6 +310,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Practical Tips Before Reaching Out to the Team
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Keep a flexible budget range in mind rather than insisting on one exact figure, as this helps the team recommend the most suitable format.</li>
               <li>If you already own or have reliable access to commercial property in Gurugram, mention its exact size and precise location during your first contact.</li>
@@ -301,6 +322,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Expansion Beyond Gurugram
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>The Buyzaar Mart continues to expand its low investment supermarket franchise network across Uttar Pradesh, with a particularly strong and growing presence in Lucknow.</li>
               <li>Investors initially contacting the Gurugram franchise team can also separately enquire about parallel opportunities in Lucknow, should they be interested in a multi-city investment approach.</li>
@@ -391,6 +413,19 @@ const Content = () => {
               </p>
 
               <p className="mb-4 text-gray-800">
+                Visit{" "}
+                <a
+                  href="https://www.thebuyzaarmart.com"
+                  className="font-semibold text-green-600 hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  www.thebuyzaarmart.com
+                </a>{" "}
+                or reach out to the franchise team directly to begin your journey.
+              </p>
+
+              <p className="mb-4 text-gray-800">
                 <span className="font-semibold">Email:</span>{" "}
                 <a
                   href="mailto:info@thebuyzaarmart.com"
@@ -406,7 +441,7 @@ const Content = () => {
                   href="tel:+919217991727"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  9217991727
+                  +91 9217991727
                 </a>
               </p>
 

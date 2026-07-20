@@ -2,7 +2,6 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
-
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
@@ -49,7 +48,6 @@ const localBusinessSchema = {
     ],
   },
 };
-
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -122,7 +120,6 @@ const faqSchema = {
   ],
 };
 
-
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -141,7 +138,6 @@ const Content = () => {
         }}
       />
 
-
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -149,20 +145,17 @@ const Content = () => {
               Buyzaar Mart Franchise Varanasi: Your Gateway to Retail Success in the City of Light
             </h1>
 
-
             <p>
-              Varanasi, one of India's oldest and most culturally rich cities, is not just a spiritual destination — it is rapidly emerging as one of Uttar Pradesh's most dynamic commercial hubs. With a population of over 1.5 million and a thriving economy driven by tourism, textiles, handloom exports, and a growing middle class, Varanasi presents an extraordinary opportunity for retail entrepreneurs. In this exciting landscape, Buyzaar Mart stands out as a franchise model that combines the trust of an established brand with the energy of modern retail — and bringing it to Varanasi could be the business decision of a lifetime.
+              Varanasi, one of India&apos;s oldest and most culturally rich cities, is not just a spiritual destination — it is rapidly emerging as one of Uttar Pradesh&apos;s most dynamic commercial hubs. With a population of over 1.5 million and a thriving economy driven by tourism, textiles, handloom exports, and a growing middle class, Varanasi presents an extraordinary opportunity for retail entrepreneurs. In this exciting landscape, Buyzaar Mart stands out as a franchise model that combines the trust of an established brand with the energy of modern retail — and bringing it to Varanasi could be the business decision of a lifetime.
             </p>
-
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Varanasi?
             </h2>
 
-
             <ul className="list-disc pl-6 space-y-2">
-              <li>Choosing Varanasi as the location for a Buyzaar Mart franchise is a strategically sound decision. The city's consumer landscape is evolving rapidly, and it attracts over 6 million domestic and international tourists every year, creating consistent footfall across commercial areas.</li>
-              <li>Beyond tourism, the city's growing urban middle class — fueled by education institutions like Banaras Hindu University, IIT-BHU, and multiple private colleges — creates a strong, sustained demand for everyday products.</li>
+              <li>Choosing Varanasi as the location for a Buyzaar Mart franchise is a strategically sound decision. The city&apos;s consumer landscape is evolving rapidly, and it attracts over 6 million domestic and international tourists every year, creating consistent footfall across commercial areas.</li>
+              <li>Beyond tourism, the city&apos;s growing urban middle class — fueled by education institutions like Banaras Hindu University, IIT-BHU, and multiple private colleges — creates a strong, sustained demand for everyday products.</li>
               <li>With the development of new residential colonies in areas like Sigra, Lanka, Sarnath, Bhelupur, Orderly Bazar, and the BHU corridor, Varanasi is witnessing a real estate and retail boom.</li>
               <li>New roads, improved connectivity, and urban expansion under smart city initiatives are making it easier for businesses to reach consumers across the city.</li>
               <li>Despite its economic growth, Varanasi remains relatively underserved when it comes to organized retail chains. Most shopping in the city is still driven by small, unorganized kirana stores and local markets.</li>
@@ -170,29 +163,25 @@ const Content = () => {
               <li>Varanasi is also famous for its Banarasi silk sarees, handicrafts, and artisanal products. A Buyzaar Mart franchise can tap into local pride and cultural commerce by featuring these iconic products alongside mainstream consumer goods — creating a unique blend of local identity and modern retail.</li>
             </ul>
 
-
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               The Buyzaar Mart Franchise Opportunity
             </h2>
 
-
             <ul className="list-disc pl-6 space-y-2">
               <li>Becoming a Buyzaar Mart franchisee in Varanasi means joining a proven system with the support of an experienced team.</li>
-              <li>Starting a business from scratch requires years of brand building, but with a Buyzaar Mart franchise, you inherit the brand's established identity, customer trust, and marketing assets from day one.</li>
+              <li>Starting a business from scratch requires years of brand building, but with a Buyzaar Mart franchise, you inherit the brand&apos;s established identity, customer trust, and marketing assets from day one.</li>
               <li>Buyzaar Mart provides end-to-end support to its franchise partners. From store setup and interior design guidelines to staff training, inventory management, and customer service protocols, every aspect of the business is covered.</li>
               <li>Franchisees receive hands-on training before launch and continued operational support afterward.</li>
-              <li>One of the biggest challenges for any retail business is maintaining the right inventory at the right price. Buyzaar Mart's centralized supply chain ensures that franchisees get consistent product availability, timely restocking, and competitive pricing — which translates directly to better margins and happier customers.</li>
+              <li>One of the biggest challenges for any retail business is maintaining the right inventory at the right price. Buyzaar Mart&apos;s centralized supply chain ensures that franchisees get consistent product availability, timely restocking, and competitive pricing — which translates directly to better margins and happier customers.</li>
               <li>Buyzaar Mart also handles brand-level marketing at the national and regional level, while empowering local franchisees with customizable marketing tools.</li>
               <li>From digital campaigns and social media promotions to in-store offers and seasonal sales, the brand keeps the customer engagement engine running throughout the year.</li>
               <li>Modern retail is driven by data, and Buyzaar Mart equips its franchisees with state-of-the-art point-of-sale systems, inventory tracking tools, and customer analytics dashboards.</li>
               <li>This enables franchise owners to make informed decisions, reduce wastage, and improve profitability over time.</li>
             </ul>
 
-
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Ideal Locations in Varanasi for Buyzaar Mart
             </h2>
-
 
             <ul className="list-disc pl-6 space-y-2">
               <li>The success of any retail franchise depends heavily on location. In Varanasi, there are several prime areas well-suited for a Buyzaar Mart outlet.</li>
@@ -204,11 +193,9 @@ const Content = () => {
               <li>A Buyzaar Mart store in any of these locations, with a floor area of 600+ sq. ft., can attract significant daily footfall and build a loyal customer base within months of launch.</li>
             </ul>
 
-
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Investment and Returns
             </h2>
-
 
             <ul className="list-disc pl-6 space-y-2">
               <li>The Buyzaar Mart franchise is designed to be accessible to a wide range of entrepreneurs, from first-time business owners to seasoned retail professionals.</li>
@@ -220,11 +207,9 @@ const Content = () => {
               <li>Franchisees in cities like Varanasi, with lower real estate costs compared to metros, enjoy better profit margins and faster break-even timelines — making the Buyzaar Mart opportunity especially attractive here.</li>
             </ul>
 
-
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Who Should Apply?
             </h2>
-
 
             <ul className="list-disc pl-6 space-y-2">
               <li>The Buyzaar Mart franchise in Varanasi is ideal for local entrepreneurs looking to upgrade from kirana stores to organized retail.</li>
@@ -235,11 +220,9 @@ const Content = () => {
               <li>No prior retail experience is mandatory — the Buyzaar Mart training and support system is designed to bring anyone up to speed quickly.</li>
             </ul>
 
-
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               A Partnership Built for Growth
             </h2>
-
 
             <ul className="list-disc pl-6 space-y-2">
               <li>What sets Buyzaar Mart apart from other franchise options is its commitment to mutual growth.</li>
@@ -249,24 +232,20 @@ const Content = () => {
               <li>The brand understands that every city is unique, and its franchise model is built with enough flexibility to honor local tastes while maintaining the quality standards that customers expect from Buyzaar Mart everywhere.</li>
             </ul>
 
-
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Start Your Retail Journey in Varanasi Today
             </h2>
 
-
             <ul className="list-disc pl-6 space-y-2">
               <li>Varanasi is on the cusp of a retail revolution, and there is no better time to plant your flag in this historic city than now.</li>
-              <li>A Buyzaar Mart franchise gives you the tools, training, supply chain, and brand power to compete confidently in Varanasi's growing retail landscape.</li>
+              <li>A Buyzaar Mart franchise gives you the tools, training, supply chain, and brand power to compete confidently in Varanasi&apos;s growing retail landscape.</li>
               <li>Whether you are a seasoned businessperson or a first-time entrepreneur, the Buyzaar Mart franchise opportunity in Varanasi is your chance to build something meaningful — a business that serves your community, honors your city, and grows with you year after year.</li>
-              <li>Don't wait. The market is ready. Varanasi is ready. Are you?</li>
+              <li>Don&apos;t wait. The market is ready. Varanasi is ready. Are you?</li>
             </ul>
-
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions (FAQs) — Buyzaar Mart Franchise Varanasi
             </h2>
-
 
             <div className="mt-4 space-y-4">
               <div>
@@ -278,16 +257,14 @@ const Content = () => {
                 </p>
               </div>
 
-
               <div>
                 <h3 className="font-medium text-gray-900">
                   Why should I choose Varanasi to open a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  Varanasi has 6+ million annual tourists, a large student population, and a largely underserved organized retail market — making it one of Uttar Pradesh's most profitable franchise destinations.
+                  Varanasi has 6+ million annual tourists, a large student population, and a largely underserved organized retail market — making it one of Uttar Pradesh&apos;s most profitable franchise destinations.
                 </p>
               </div>
-
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -298,7 +275,6 @@ const Content = () => {
                 </p>
               </div>
 
-
               <div>
                 <h3 className="font-medium text-gray-900">
                   What is the minimum space required?
@@ -307,7 +283,6 @@ const Content = () => {
                   A minimum of 600 sq. ft. is required. For high-footfall areas like Lanka or Sigra, 1,000+ sq. ft. is recommended for better product range and customer capacity.
                 </p>
               </div>
-
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -318,7 +293,6 @@ const Content = () => {
                 </p>
               </div>
 
-
               <div>
                 <h3 className="font-medium text-gray-900">
                   What support does Buyzaar Mart provide?
@@ -327,7 +301,6 @@ const Content = () => {
                   Franchisees receive store setup guidance, staff training, centralized supply chain support, marketing campaigns, and ongoing operational assistance throughout their franchise journey.
                 </p>
               </div>
-
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -338,23 +311,20 @@ const Content = () => {
                 </p>
               </div>
 
-
               <div>
                 <h3 className="font-medium text-gray-900">
                   What is the expected ROI?
                 </h3>
                 <p className="mt-2">
-                  ROI depends on location, footfall, and store efficiency. Varanasi's lower rental costs compared to metros allow franchisees to achieve break-even faster than in larger cities.
+                  ROI depends on location, footfall, and store efficiency. Varanasi&apos;s lower rental costs compared to metros allow franchisees to achieve break-even faster than in larger cities.
                 </p>
               </div>
             </div>
-
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Start Your Retail Journey in Varanasi Today
               </h2>
-
 
               <ul className="space-y-3 text-gray-800">
                 <li>
@@ -385,7 +355,7 @@ const Content = () => {
                       href="tel:+919217991727"
                       className="font-semibold text-green-600 hover:underline"
                     >
-                      9217991727
+                      +91 9217991727
                     </a>
                   </p>
                 </li>
@@ -398,13 +368,11 @@ const Content = () => {
             </div>
           </div>
 
-
           <CityInternalLinks
             city="varanasi"
             currentSlug="/varanasi/buyzaar-mart-franchise-varanasi"
           />
         </div>
-
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
           <div className="lg:sticky lg:top-28">
@@ -415,6 +383,5 @@ const Content = () => {
     </div>
   );
 };
-
 
 export default Content;

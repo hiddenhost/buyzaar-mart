@@ -8,6 +8,19 @@ export const metadata = {
   description:
     "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from ₹15 lakh, full brand support. Apply now and own your neighborhood supermarket.",
   keywords: [
+    "supermarket franchise for first time investors",
+    "franchise grocery mart Lucknow",
+    "trusted supermarket franchise Lucknow",
+    "India supermarket franchise",
+    "franchise mart in Lucknow",
+    "daily grocery franchise Lucknow",
+    "supermarket business in Lucknow",
+    "retail chain franchise Lucknow",
+    "multi product supermarket franchise Lucknow",
+    "supermarket store franchise Lucknow",
+    "supermarket brand franchise Lucknow",
+    "buy supermarket franchise Lucknow",
+    "investment in supermarket franchise Lucknow",
     "supermarket franchise opportunity in Lucknow",
     "supermarket franchise in Lucknow",
     "Lucknow supermarket franchise",
@@ -22,6 +35,16 @@ export const metadata = {
     "FOCO franchise model",
     "organized retail franchise in Lucknow",
     "daily needs franchise in Lucknow",
+    "best supermarket franchise in Lucknow",
+    "top supermarket franchise in Lucknow",
+    "supermarket business opportunity Lucknow",
+    "supermarket chain franchise Lucknow",
+    "grocery supermarket franchise Lucknow",
+    "branded supermarket franchise Lucknow",
+    "franchise supermarket business Lucknow",
+    "low investment supermarket franchise Lucknow",
+    "affordable supermarket franchise Lucknow",
+    "profitable supermarket franchise Lucknow"
   ],
   alternates: {
     canonical:

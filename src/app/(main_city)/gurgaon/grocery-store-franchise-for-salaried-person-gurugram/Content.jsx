@@ -152,18 +152,25 @@ const Content = () => {
 
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
-          <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
+          <div className="max-w-4xl space-y-6 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
               Grocery Store Franchise for Salaried Person in Gurugram | The Buyzaar Mart
             </h1>
 
-            <p>
-              Gurugram's corporate workforce — spread across IT parks, MNC hubs, and Cyber City — is increasingly looking for stable, passive income sources beyond their 9-to-5 jobs. Rising cost of living and stagnant salary hikes have pushed many professionals to actively search for side-income business models that don't demand their physical presence. Grocery and FMCG retail is recession-proof — people need daily essentials regardless of economic slowdowns, job market shifts, or inflation cycles. Unlike stock markets or trading, a grocery franchise offers a tangible, asset-backed business with predictable demand patterns. The Buyzaar Mart offers a low investment supermarket franchise model designed specifically for salaried individuals who cannot manage day-to-day operations themselves. With a managed-operations franchise structure, you don't need to quit your job to become a business owner — the store runs independently of your work schedule. Gurugram's rapid urban expansion (Sohna Road, Dwarka Expressway, New Gurugram sectors) has created fresh residential catchments with limited organized retail presence. New residential societies coming up in Sectors 76–95 and along the Dwarka Expressway currently rely on unorganized kirana stores, creating a clear gap for an organized, branded supermarket.
-            </p>
-
+            <ul className="list-disc pl-6 space-y-2">
+              <li>Gurugram's corporate workforce — spread across IT parks, MNC hubs, and Cyber City — is increasingly looking for stable, passive income sources beyond their 9-to-5 jobs.</li>
+              <li>Rising cost of living and stagnant salary hikes have pushed many professionals to actively search for side-income business models that don't demand their physical presence.</li>
+              <li>Grocery and FMCG retail is recession-proof — people need daily essentials regardless of economic slowdowns, job market shifts, or inflation cycles.</li>
+              <li>Unlike stock markets or trading, a grocery franchise offers a tangible, asset-backed business with predictable demand patterns.</li>
+              <li>The Buyzaar Mart offers a low investment supermarket franchise model designed specifically for salaried individuals who cannot manage day-to-day operations themselves.</li>
+              <li>With a managed-operations franchise structure, you don't need to quit your job to become a business owner — the store runs independently of your work schedule.</li>
+              <li>Gurugram's rapid urban expansion (Sohna Road, Dwarka Expressway, New Gurugram sectors) has created fresh residential catchments with limited organized retail presence.</li>
+              <li>New residential societies coming up in Sectors 76–95 and along the Dwarka Expressway currently rely on unorganized kirana stores, creating a clear gap for an organized, branded supermarket.</li>
+            </ul>
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Salaried Professionals in Gurugram Are Choosing Grocery Retail
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Gurugram's corporate workforce is increasingly looking for stable, passive income sources beyond their salaries.</li>
               <li>Rising living costs and slower salary growth are pushing many professionals toward side-income business models.</li>
@@ -178,6 +185,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Grocery Retail Makes Sense for a Salaried Person
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>No operational hassle: trained staff handle the store, so you do not need to be present daily.</li>
               <li>Fixed working hours are not required: you can monitor the business remotely through reports and dashboards.</li>
@@ -191,29 +199,26 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               The Buyzaar Mart Franchise Models
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li><strong>FOCM (Franchise Owned Company Managed)</strong> — You invest in the store setup and inventory.</li>
-              <li>The Buyzaar Mart's trained team handles daily operations, billing, staff management, and inventory replenishment.</li>
-              <li>It is ideal for salaried professionals who want ownership without daily involvement.</li>
-              <li>You receive periodic performance reports and profit-sharing as per the agreement.</li>
-              <li><strong>FOCO (Franchise Owned Company Operated)</strong> — You own the outlet and infrastructure, while the company runs operations.</li>
-              <li>Company-appointed staff and systems manage procurement and billing end-to-end.</li>
-              <li>It suits investors looking for returns without operational responsibility.</li>
-              <li>It works well for those treating the business as a long-term real estate-linked investment.</li>
+              <li><strong>FOCM (Franchise Owned Company Managed):</strong> You invest in the store setup and inventory; The Buyzaar Mart's trained team handles daily operations, billing, staff management, and inventory replenishment; ideal for salaried professionals who want ownership without daily involvement; you receive periodic performance reports and profit-sharing as per the agreement.</li>
+              <li><strong>FOCO (Franchise Owned Company Operated):</strong> You own the outlet and infrastructure, while the company runs operations; company-appointed staff and systems manage procurement and billing end-to-end; suits investors looking for returns without operational responsibility; works well for those treating the business as a long-term real estate-linked investment.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Store Format Options
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Mini Mart — Compact format for smaller residential pockets and mid-density colonies, requiring the lowest investment and space.</li>
-              <li>Super Mart — Mid-sized format covering a wider daily-needs basket for busy neighborhoods, balancing investment with revenue potential.</li>
-              <li>Hyper Mart — Large-format store for high-footfall areas, malls, or main markets, suited to investors with higher capital and larger commercial space.</li>
+              <li><strong>Mini Mart:</strong> Compact format for smaller residential pockets and mid-density colonies, requiring the lowest investment and space.</li>
+              <li><strong>Super Mart:</strong> Mid-sized format covering a wider daily-needs basket for busy neighborhoods, balancing investment with revenue potential.</li>
+              <li><strong>Hyper Mart:</strong> Large-format store for high-footfall areas, malls, or main markets, suited to investors with higher capital and larger commercial space.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Investment Range for Gurugram Franchise
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Low investment supermarket franchise options start from an affordable entry point suited to salaried buyers.</li>
               <li>Investment varies by format, location, and carpet area.</li>
@@ -226,6 +231,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What's Included in the Franchise Package
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Complete store interior branding based on The Buyzaar Mart's standard layout and visual identity.</li>
               <li>POS and billing software for real-time sales, inventory, and billing tracking accessible from anywhere.</li>
@@ -239,6 +245,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Ideal Locations in Gurugram for a Franchise
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Sohna Road residential belt, where new mid-income projects are increasing population density.</li>
               <li>Dwarka Expressway sectors, which are underserved by organized retail despite fast-growing housing inventory.</li>
@@ -251,6 +258,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Who Should Consider This Franchise
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Salaried employees in IT, corporate, or government jobs looking for secondary income.</li>
               <li>NRIs wanting to invest in Indian real estate-linked retail businesses.</li>
@@ -263,6 +271,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Choose The Buyzaar Mart Over Other Retail Franchises
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>An established FMCG and grocery brand with a growing presence across Uttar Pradesh and NCR.</li>
               <li>A proven low investment supermarket franchise model already running successfully in cities like Lucknow, Bareilly, Kanpur, and Prayagraj.</li>
@@ -273,20 +282,49 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              The Buyzaar Mart Website – Your Gateway to Franchise Information
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>The official website, www.thebuyzaarmart.com, serves as the central hub for all franchise-related information, investment details, and application processes.</li>
+              <li>Prospective franchisees can explore detailed pages on store formats, investment breakdowns, city-specific opportunities, and the complete franchise onboarding journey.</li>
+              <li>The website features a user-friendly inquiry form that connects you directly with the franchise development team for personalized guidance.</li>
+              <li>City-specific landing pages like this one provide localized insights into Gurugram's retail landscape, profitable localities, and market potential.</li>
+              <li>Regular updates on the website keep investors informed about new store launches, expansion plans, and upcoming franchise opportunities across NCR and Uttar Pradesh.</li>
+              <li>The website also hosts comprehensive FAQs, testimonial sections, and contact information to address all queries before you make a commitment.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why Choose The Buyzaar Mart Website for Your Franchise Journey
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>The Buyzaar Mart website is designed to provide complete transparency, from investment figures to operational support structures.</li>
+              <li>Every city page, including this salaried-person franchise page for Gurugram, is optimized with local market data, locality recommendations, and real-time contact options.</li>
+              <li>The website's structured layout ensures you can quickly find information on Mini Mart, Super Mart, and Hyper Mart formats without confusion.</li>
+              <li>Secure online inquiry submission protects your data while ensuring fast response times from the franchise team.</li>
+              <li>Mobile-friendly design allows you to explore franchise opportunities on the go, whether you're in Gurugram, Delhi, or anywhere else in India.</li>
+              <li>The website integrates seamlessly with the franchise team's CRM, ensuring your inquiry is tracked and followed up promptly.</li>
+              <li>By starting your franchise journey on the official website, you ensure you're dealing directly with the brand and not through unauthorized intermediaries.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step-by-Step Process to Get Started
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Step 1: Submit an enquiry with your preferred Gurugram location and available budget.</li>
-              <li>Step 2: The franchise team evaluates your area for feasibility, footfall potential, and competitor mapping.</li>
-              <li>Step 3: Choose your format — Mini Mart, Super Mart, or Hyper Mart — based on space and investment.</li>
-              <li>Step 4: Sign the franchise agreement and complete the investment as per the payment schedule.</li>
-              <li>Step 5: Store setup, branding, and staff onboarding typically take 30–45 days from agreement.</li>
-              <li>Step 6: Launch the store with marketing support from The Buyzaar Mart team, including local promotions.</li>
+              <li><strong>Step 1:</strong> Submit an enquiry with your preferred Gurugram location and available budget.</li>
+              <li><strong>Step 2:</strong> The franchise team evaluates your area for feasibility, footfall potential, and competitor mapping.</li>
+              <li><strong>Step 3:</strong> Choose your format — Mini Mart, Super Mart, or Hyper Mart — based on space and investment.</li>
+              <li><strong>Step 4:</strong> Sign the franchise agreement and complete the investment as per the payment schedule.</li>
+              <li><strong>Step 5:</strong> Store setup, branding, and staff onboarding typically take 30–45 days from agreement.</li>
+              <li><strong>Step 6:</strong> Launch the store with marketing support from The Buyzaar Mart team, including local promotions.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Common Mistakes to Avoid When Choosing a Franchise
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Picking a location without checking competitor density and residential population.</li>
               <li>Ignoring the difference between FOCM and FOCO, which affects your time commitment.</li>
@@ -299,6 +337,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Revenue Potential and Profit Margins
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Grocery retail typically uses a mix of margins, with staples and packaged FMCG often lower and dairy, bakery, and private-label products often stronger.</li>
               <li>Daily footfall can vary widely by society size, so a proper feasibility check is important.</li>
@@ -311,6 +350,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Legal and Documentation Requirements
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>FSSAI license is mandatory for grocery and food retail, and The Buyzaar Mart team assists with registration.</li>
               <li>GST registration is required for billing and tax compliance.</li>
@@ -323,6 +363,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Expansion Beyond Gurugram
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>The Buyzaar Mart is actively expanding its low investment supermarket franchise network across Uttar Pradesh, including Lucknow.</li>
               <li>Gurugram investors exploring multi-city opportunities can also evaluate Lucknow as a lower-entry-cost secondary market.</li>
@@ -422,6 +463,19 @@ const Content = () => {
               </p>
 
               <p className="mb-4 text-gray-800">
+                Visit{" "}
+                <a
+                  href="https://www.thebuyzaarmart.com"
+                  className="font-semibold text-green-600 hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  www.thebuyzaarmart.com
+                </a>{" "}
+                or reach out to the franchise team directly to begin your journey.
+              </p>
+
+              <p className="mb-4 text-gray-800">
                 <span className="font-semibold">Email:</span>{" "}
                 <a
                   href="mailto:info@thebuyzaarmart.com"
@@ -437,7 +491,7 @@ const Content = () => {
                   href="tel:+919217991727"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  9217991727
+                  +91 9217991727
                 </a>
               </p>
 

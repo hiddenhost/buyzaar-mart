@@ -144,18 +144,23 @@ const Content = () => {
 
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
-          <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
+          <div className="max-w-4xl space-y-6 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
               How to Apply for Buyzaar Mart Franchise Gurugram | Step-by-Step Guide
             </h1>
 
-            <p>
-              The Buyzaar Mart offers a structured application process for individuals in Gurugram interested in starting a grocery and FMCG retail franchise, designed to be simple and accessible even for first-time applicants. Whether you are a salaried professional, a business owner, an NRI investor, or a property owner looking to convert commercial space into an active business, the application process follows a clear, step-by-step path. Understanding exactly how to apply, what documents are needed, and what to expect at each stage helps prospective franchise partners move through the process smoothly without unnecessary delays. Gurugram's rapidly growing residential sectors, including Dwarka Expressway, Sohna Road, and New Gurugram, make it an attractive market for new applicants looking to secure a strong location early. This guide walks through the complete application journey, from your first enquiry to the final store launch, so you know exactly what to prepare at every stage.
-            </p>
+            <ul className="list-disc pl-6 space-y-2">
+              <li>The Buyzaar Mart offers a structured application process for individuals in Gurugram interested in starting a grocery and FMCG retail franchise, designed to be simple and accessible even for first-time applicants.</li>
+              <li>Whether you are a salaried professional, a business owner, an NRI investor, or a property owner looking to convert commercial space into an active business, the application process follows a clear, step-by-step path.</li>
+              <li>Understanding exactly how to apply, what documents are needed, and what to expect at each stage helps prospective franchise partners move through the process smoothly without unnecessary delays.</li>
+              <li>Gurugram's rapidly growing residential sectors, including Dwarka Expressway, Sohna Road, and New Gurugram, make it an attractive market for new applicants looking to secure a strong location early.</li>
+              <li>This guide walks through the complete application journey, from your first enquiry to the final store launch, so you know exactly what to prepare at every stage.</li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step 1: Initial Enquiry Submission
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>The application process begins with submitting a basic enquiry to The Buyzaar Mart franchise team, sharing your preferred Gurugram location and approximate investment budget.</li>
               <li>At this stage, you don't need finalized numbers; a rough budget range and general area of interest is sufficient to start the conversation.</li>
@@ -167,6 +172,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step 2: Feasibility Assessment of Your Location
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Once your enquiry is received, the franchise team conducts a feasibility assessment of your preferred Gurugram locality.</li>
               <li>This assessment covers residential population density, existing competitor presence, and overall footfall potential in the surrounding catchment area.</li>
@@ -178,6 +184,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step 3: Store Format and Franchise Model Selection
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Based on the feasibility assessment, the team recommends a suitable store format — Mini Mart, Super Mart, or Hyper Mart — aligned with your property size and budget.</li>
               <li>You will also need to decide between the FOCM (Franchise Owned Company Managed) and FOCO (Franchise Owned Company Operated) models during this stage.</li>
@@ -189,6 +196,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step 4: Document Preparation and Submission
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Once the format and model are finalized, you will need to prepare and submit key documents required for the franchise application.</li>
               <li>Property ownership or lease documents, if you already have a commercial space identified in Gurugram.</li>
@@ -200,6 +208,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step 5: Investment Discussion and Cost Breakdown
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>The franchise team shares a detailed, itemized breakdown of the total investment required, covering store setup, branding, inventory, POS software, and staff training.</li>
               <li>This is the stage where applicants clarify exact figures, rather than the rough estimates shared during the initial enquiry.</li>
@@ -211,6 +220,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step 6: Franchise Agreement Signing
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Once all terms are mutually agreed upon, the official franchise agreement is prepared and shared for review.</li>
               <li>The agreement covers investment terms, profit-sharing structure, operational responsibilities, renewal conditions, and exit clauses.</li>
@@ -222,6 +232,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step 7: Store Setup and Staff Onboarding
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>After the agreement is signed, the store setup phase begins, typically taking around 30 to 45 days to complete.</li>
               <li>This phase includes interior branding, shelving, refrigeration installation, and overall store fit-out as per Buyzaar Mart's standard design.</li>
@@ -233,6 +244,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Step 8: Store Launch and Marketing Support
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Once setup is complete, the store officially launches with marketing and promotional support coordinated by The Buyzaar Mart team.</li>
               <li>Local outreach activities, including opening promotions, are planned to build initial awareness in the surrounding residential catchment.</li>
@@ -244,6 +256,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Eligibility Criteria for Applying
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>No specific educational qualification is required to apply for a Buyzaar Mart franchise.</li>
               <li>Prior retail or business experience is not mandatory, though it can be helpful for applicants choosing the more involved FOCM model.</li>
@@ -255,6 +268,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Common Questions During the Application Process
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>How long the complete application process takes from initial enquiry to store launch.</li>
               <li>Whether the investment amount can be adjusted if the applicant wants a different store format later.</li>
@@ -266,6 +280,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Tips for a Smooth Application Process
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>Be clear and honest about your budget range from the very first enquiry, as this helps the team recommend the most suitable format immediately.</li>
               <li>If you don't yet have a specific property in Gurugram, mention your preferred general area so the team can suggest suitable options.</li>
@@ -275,8 +290,36 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              The Buyzaar Mart Website – Your Gateway to Franchise Information
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>The official website, www.thebuyzaarmart.com, serves as the central hub for all franchise-related information, investment details, and application processes.</li>
+              <li>Prospective franchisees can explore detailed pages on store formats, investment breakdowns, city-specific opportunities, and the complete franchise onboarding journey.</li>
+              <li>The website features a user-friendly inquiry form that connects you directly with the franchise development team for personalized guidance.</li>
+              <li>City-specific landing pages like this one provide localized insights into Gurugram's retail landscape, profitable localities, and market potential.</li>
+              <li>Regular updates on the website keep investors informed about new store launches, expansion plans, and upcoming franchise opportunities across NCR and Uttar Pradesh.</li>
+              <li>The website also hosts comprehensive FAQs, testimonial sections, and contact information to address all queries before you make a commitment.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why Choose The Buyzaar Mart Website for Your Franchise Journey
+            </h2>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>The Buyzaar Mart website is designed to provide complete transparency, from investment figures to operational support structures.</li>
+              <li>Every city page, including this step-by-step application guide for Gurugram, is optimized with local market data, locality recommendations, and real-time contact options.</li>
+              <li>The website's structured layout ensures you can quickly find information on Mini Mart, Super Mart, and Hyper Mart formats without confusion.</li>
+              <li>Secure online inquiry submission protects your data while ensuring fast response times from the franchise team.</li>
+              <li>Mobile-friendly design allows you to explore franchise opportunities on the go, whether you're in Gurugram, Delhi, or anywhere else in India.</li>
+              <li>The website integrates seamlessly with the franchise team's CRM, ensuring your inquiry is tracked and followed up promptly.</li>
+              <li>By starting your franchise journey on the official website, you ensure you're dealing directly with the brand and not through unauthorized intermediaries.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Apply to The Buyzaar Mart Specifically
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>An established FMCG and grocery brand with a proven low investment supermarket franchise model already successful in cities like Lucknow, Bareilly, Kanpur, and Prayagraj.</li>
               <li>A transparent, structured application process that keeps applicants informed at every stage, from enquiry through store launch.</li>
@@ -289,6 +332,7 @@ const Content = () => {
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Applying for a Franchise in Lucknow as Well
             </h2>
+
             <ul className="list-disc pl-6 space-y-2">
               <li>The Buyzaar Mart's application process for a low investment supermarket franchise in Lucknow follows a similarly structured path to the one used in Gurugram.</li>
               <li>Applicants interested in a multi-city investment can enquire about both Gurugram and Lucknow opportunities through the same franchise contact channel.</li>
@@ -379,6 +423,19 @@ const Content = () => {
               </p>
 
               <p className="mb-4 text-gray-800">
+                Visit{" "}
+                <a
+                  href="https://www.thebuyzaarmart.com"
+                  className="font-semibold text-green-600 hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  www.thebuyzaarmart.com
+                </a>{" "}
+                or reach out to the franchise team directly to begin your journey.
+              </p>
+
+              <p className="mb-4 text-gray-800">
                 <span className="font-semibold">Email:</span>{" "}
                 <a
                   href="mailto:info@thebuyzaarmart.com"
@@ -394,7 +451,7 @@ const Content = () => {
                   href="tel:+919217991727"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  9217991727
+                  +91 9217991727
                 </a>
               </p>
 

@@ -27,6 +27,16 @@ const nextConfig = {
         destination: '/delhi/:path*',
         permanent: true,
       },
+      {
+        source: '/noida/:path*',
+        destination: '/cities/noida/:path*',
+        permanent: true,
+      },
+      {
+        source: '/noida',
+        destination: '/cities/noida',
+        permanent: true,
+      },
     ];
   },
 };

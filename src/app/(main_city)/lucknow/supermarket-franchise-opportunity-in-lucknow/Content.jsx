@@ -140,7 +140,7 @@ const Content = () => {
 
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
-          <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
+          <div className="max-w-4xl space-y-6 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
               Supermarket Franchise Opportunity in Lucknow | The Buyzaar Mart
             </h1>
@@ -330,6 +330,32 @@ const Content = () => {
               <li>Entering now, while the brand is still expanding in the city, gives franchise partners a stronger say in choosing prime, less-saturated locations.</li>
             </ul>
 
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              The Buyzaar Mart Website – Your Gateway to Franchise Information
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>The official website, www.thebuyzaarmart.com, serves as the central hub for all franchise-related information, investment details, and application processes.</li>
+              <li>Prospective franchisees can explore detailed pages on store formats, investment breakdowns, city-specific opportunities, and the complete franchise onboarding journey.</li>
+              <li>The website features a user-friendly inquiry form that connects you directly with the franchise development team for personalized guidance.</li>
+              <li>City-specific landing pages like this one provide localized insights into Lucknow's retail landscape, profitable localities, and market potential.</li>
+              <li>Regular updates on the website keep investors informed about new store launches, expansion plans, and upcoming franchise opportunities across North India.</li>
+              <li>The website also hosts comprehensive FAQs, testimonial sections, and contact information to address all queries before you make a commitment.</li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why Choose The Buyzaar Mart Website for Your Franchise Journey
+            </h2>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>The Buyzaar Mart website is designed to provide complete transparency, from investment figures to operational support structures.</li>
+              <li>Every city page, including this Lucknow franchise opportunity page, is optimized with local market data, locality recommendations, and real-time contact options.</li>
+              <li>The website's structured layout ensures you can quickly find information on Mini Mart, Super Mart, and Hyper Mart formats without confusion.</li>
+              <li>Secure online inquiry submission protects your data while ensuring fast response times from the franchise team.</li>
+              <li>Mobile-friendly design allows you to explore franchise opportunities on the go, whether you're in Lucknow, Delhi, or anywhere else in India.</li>
+              <li>The website integrates seamlessly with the franchise team's CRM, ensuring your inquiry is tracked and followed up promptly.</li>
+              <li>By starting your franchise journey on the official website, you ensure you're dealing directly with the brand and not through unauthorized intermediaries.</li>
+            </ul>
 
             <p>
               Starting a supermarket franchise in Lucknow is no longer just an idea for big investors. With a low investment supermarket franchise model like The Buyzaar Mart, first-time entrepreneurs, working professionals, and small business owners now have a practical, structured path into organised retail. The city's growth story, combined with brand-level support on setup, sourcing, and operations, makes this a business opportunity worth serious consideration for anyone exploring retail in Lucknow today.
@@ -427,6 +453,19 @@ const Content = () => {
               </p>
 
               <p className="mb-4 text-gray-800">
+                Visit{" "}
+                <a
+                  href="https://www.thebuyzaarmart.com"
+                  className="font-semibold text-green-600 hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  www.thebuyzaarmart.com
+                </a>{" "}
+                or walk into the nearest The Buyzaar Mart outlet to begin your journey.
+              </p>
+
+              <p className="mb-4 text-gray-800">
                 <span className="font-semibold">Email:</span>{" "}
                 <a
                   href="mailto:info@thebuyzaarmart.com"
@@ -442,7 +481,7 @@ const Content = () => {
                   href="tel:+919217991727"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  9217991727
+                  +91 9217991727
                 </a>
               </p>
 

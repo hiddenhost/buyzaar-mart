@@ -362,7 +362,7 @@ const Calculator = ({ openModal }) => {
             {/* ROI Image */}
             <div className="rounded-xl sm:rounded-2xl shadow-lg h-64 sm:h-80 lg:h-[500px] overflow-hidden">
               <img
-                src="/images/Comic-2.png"
+                src="/images/Carefree earning with buyzaar.png"
                 alt="Franchise Investment Chart"
                 className="w-full h-full object-contain object-center"
               />

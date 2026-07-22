@@ -167,14 +167,14 @@ export default function FranchisePage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center w-full">
           <div className="flex justify-center">
             <img
-              src="/images/Comic 1 Panel 1.png"
+              src="/images/franchise with us.png"
               alt="Expired and damaged products concern"
               className="max-h-64 sm:max-h-80 md:max-h-96 w-auto rounded-lg shadow-md border border-gray-300"
             />
           </div>
           <div className="flex justify-center">
             <img
-              src="/images/Comic 1 Panel 2.png"
+              src="/images/franchise with us 2.png"
               alt="Buyzaar Mart takes back expired/damaged goods"
               className="max-h-64 sm:max-h-80 md:max-h-96 w-auto rounded-lg shadow-md border border-gray-300"
             />
@@ -276,7 +276,7 @@ export default function FranchisePage() {
         <div className="flex flex-col md:flex-row gap-4 sm:gap-6 md:gap-8 items-center justify-center">
           <div className="w-full md:w-1/2 flex justify-center">
             <img
-              src="/images/Comic-2.png"
+              src="/images/Carefree earning with buyzaar.png"
               alt="Franchise Store Interior"
               className="rounded-2xl shadow-xl border-2 border-red-800 w-full object-cover max-h-80 sm:max-h-96 md:max-h-100 transition duration-300 hover:scale-105"
             />

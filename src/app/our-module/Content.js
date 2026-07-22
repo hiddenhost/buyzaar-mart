@@ -177,10 +177,10 @@
 //           </p>
 //           <div className="grid md:grid-cols-2 gap-8 items-center">
 //             <div className="flex justify-center">
-//               <img src="/images/Comic 1 Panel 1.png" alt="Expired and damaged products concern" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
+//               <img src="/images/franchise with us.png" alt="Expired and damaged products concern" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
 //             </div>
 //             <div className="flex justify-center">
-//               <img src="/images/Comic 1 Panel 2.png" alt="Buyzaar Mart takes back expired/damaged goods" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
+//               <img src="/images/franchise with us 2.png" alt="Buyzaar Mart takes back expired/damaged goods" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
 //             </div>
 //           </div>
 //         </div>
@@ -382,10 +382,10 @@ const BuyzaarMartFOCM = () => {
           </p>
           <div className="grid md:grid-cols-2 gap-8 items-center">
              <div className="flex justify-center">
-               <img src="/images/Comic 1 Panel 1.png" alt="Expired and damaged products concern" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
+               <img src="/images/franchise with us.png" alt="Expired and damaged products concern" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
          </div>
           <div className="flex justify-center">
-              <img src="/images/Comic 1 Panel 2.png" alt="Buyzaar Mart takes back expired/damaged goods" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
+              <img src="/images/franchise with us 2.png" alt="Buyzaar Mart takes back expired/damaged goods" className="max-h-96 rounded-lg shadow-md border border-gray-300" />
             </div>
       </div>
          </div>

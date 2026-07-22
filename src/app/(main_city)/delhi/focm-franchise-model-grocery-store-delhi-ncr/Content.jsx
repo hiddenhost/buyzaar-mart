@@ -5,45 +5,45 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "FOCM Franchise Model for Grocery Store in Delhi NCR | Buyzaar Mart",
+  name: "FOCM Franchise Model for a Grocery Store in Delhi NCR | The Buyzaar Mart",
   description:
-    "Buyzaar Mart offers a FOCM (Franchise Owned, Company Managed) grocery franchise model across Delhi NCR with Mini Mart, Super Mart, and Hyper Mart formats, structured operational support, company-managed store operations, and franchise ownership benefits.",
+    "The Buyzaar Mart offers FOCM (Franchise Owned, Company Managed) franchise opportunities in Delhi NCR with Mini Mart, Super Mart, and Hyper Mart formats, professional operations management, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/delhi/focm-franchise-model-grocery-store-delhi-ncr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
     "@type": "PostalAddress",
     addressLocality: "Delhi NCR",
-    addressRegion: "Delhi NCR",
+    addressRegion: "Delhi",
     addressCountry: "IN",
   },
   areaServed: {
-    "@type": "Place",
+    "@type": "City",
     name: "Delhi NCR",
   },
   openingHours: "Mo-Sa 10:00-18:00",
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart FOCM Grocery Franchise Formats in Delhi NCR",
+    name: "The Buyzaar Mart FOCM Franchise Formats in Delhi NCR",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level grocery franchise format suited for smaller catchments and neighbourhood retail spaces under the FOCM model.",
+          "Entry-level FOCM franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Delhi NCR.",
       },
       {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "Mid-size grocery franchise format suited for larger residential sectors and mixed-use catchments under the FOCM model.",
+          "Mid-tier FOCM franchise format suited for main market locations, colony chowks, and busy residential sector roads in Delhi NCR.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
         description:
-          "Large-format grocery franchise suited for high-density markets, premium catchments, and township retail under the FOCM model.",
+          "Large-format FOCM franchise suited for high-traffic commercial locations, township market areas, and premium residential zones in Delhi NCR.",
       },
     ],
   },
@@ -55,82 +55,58 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What does FOCM mean in franchising?",
+      name: "What does FOCM mean in a franchise agreement?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "FOCM stands for Franchise Owned, Company Managed — the investor owns the store, while the brand manages daily operations.",
+        text: "FOCM stands for Franchise Owned, Company Managed — the franchisee owns the store and stays involved, while the company manages day-to-day operations.",
       },
     },
     {
       "@type": "Question",
-      name: "How is FOCM different from FOFO?",
+      name: "How is FOCM different from FOCO?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "In FOFO, the franchisee manages daily operations themselves; in FOCM, the company's team handles operations on the investor's behalf.",
+        text: "Under FOCM, the franchisee owns the store and stays involved with company support; under FOCO, the company fully operates the store, making it a more passive investment.",
       },
     },
     {
       "@type": "Question",
-      name: "Who should consider the FOCM model?",
+      name: "What is the minimum investment for an FOCM grocery store in Delhi NCR?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investors seeking a passive role, such as those with full-time jobs or multiple business interests, are well-suited to this model.",
+        text: "The Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.",
       },
     },
     {
       "@type": "Question",
-      name: "What is the investment required under FOCM?",
+      name: "Do I need retail experience for the FOCM model?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts around ₹15,25,000 for a Mini Mart, ₹26,63,407 for a Super Mart, and ₹78,89,960 for a Hyper Mart.",
+        text: "No. The FOCM structure is designed to be accessible even for investors with zero prior retail background, since the company manages operational complexity.",
       },
     },
     {
       "@type": "Question",
-      name: "Does the investor have any operational involvement under FOCM?",
+      name: "How long does it take to open a store?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Involvement is minimal, though investors typically receive regular performance reports on the store.",
+        text: "Typically 8–12 weeks from initial enquiry to grand opening, depending on location finalisation and documentation.",
       },
     },
     {
       "@type": "Question",
-      name: "Is there an additional fee for the company-managed structure?",
+      name: "What happens to unsold or expired stock?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, a management fee or revenue-sharing arrangement is typically part of the FOCM agreement; specifics should be confirmed with the franchise team.",
+        text: "Expired and damaged goods are taken back under the brand's hassle-free inventory assurance policy.",
       },
     },
     {
       "@type": "Question",
-      name: "Can I switch from FOCM to FOFO later?",
+      name: "What is the term of the FOCM agreement?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "This depends on the specific terms of the franchise agreement and should be discussed directly with Buyzaar Mart.",
-      },
-    },
-    {
-      "@type": "Question",
-      name: "Is FOCM available across all of Delhi NCR?",
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: "Availability may depend on specific locations; it's best to confirm with the franchise team for your preferred area.",
-      },
-    },
-    {
-      "@type": "Question",
-      name: "How are profits shared under the FOCM model?",
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: "Profit-sharing or fixed-return structures are defined in the franchise agreement and vary based on terms negotiated with the brand.",
-      },
-    },
-    {
-      "@type": "Question",
-      name: "How do I start the FOCM franchise application process?",
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: "Contact the Buyzaar Mart team directly through their official enquiry channels to discuss the FOCM model and begin the process.",
+        text: "The FOCM partnership agreement is typically for 5 years, with renewal support and criteria evaluated at the end of the term.",
       },
     },
   ],
@@ -158,227 +134,396 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              FOCM Franchise Model for Grocery Store in Delhi NCR – Buyzaar Mart
+              FOCM Franchise Model for a Grocery Store in Delhi NCR: Complete Guide
             </h1>
 
+            {/* Keep this first paragraph as-is (not converted to bullets) */}
             <p>
-              Choosing the right franchise model is one of the most important decisions for anyone planning to enter the organised retail industry. The success of a grocery franchise often depends not only on the brand but also on the operational structure under which the business is managed. Among the various franchise formats available in India's retail sector, the FOCM (Franchise Owned, Company Managed) model has emerged as a preferred option for entrepreneurs and investors who wish to own a retail business while reducing the burden of day-to-day store management.
-
-              Under the Franchise Owned, Company Managed model, the franchise partner primarily invests in establishing the store, while the company manages key operational activities such as store operations, inventory management, merchandising, staffing, customer service, promotional campaigns, and operational compliance. This structure is particularly attractive to professionals, business owners, NRIs, and investors who may not have the time or retail experience required to oversee daily supermarket operations but still want to participate in the growing organised grocery retail market.
+              For entrepreneurs across Delhi NCR who want to own a grocery store and stay involved in the business without carrying the full operational burden alone, the FOCM franchise model offers a structured middle path. Here&apos;s a complete breakdown of how the FOCM model works with The Buyzaar Mart, what it costs, and which store formats and NCR localities suit it best.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              About the FOCM Franchise Model
+              What Is the FOCM Franchise Model?
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>FOCM stands for Franchise Owned, Company Managed — a business model where the franchisee owns the store investment, but day-to-day operations are managed by the brand&apos;s trained operational team.</li>
-              <li>Under this model, the investor is primarily responsible for the capital investment, while the brand handles staffing, inventory management, billing, and daily store operations.</li>
-              <li>This differs from the more commonly known FOFO (Franchise Owned, Franchise Operated) model, where the franchisee themselves manages daily operations after initial training.</li>
-              <li>FOCM is designed for investors who want exposure to the retail business and its returns without needing to be personally involved in daily store management.</li>
-              <li>The brand typically retains operational control to maintain consistency, service quality, and adherence to standard operating procedures across all outlets.</li>
-            </ul>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why the FOCM Model Appeals to Certain Investors
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li><span className="font-medium">Passive Investment Style:</span> Investors who have full-time jobs, other businesses, or simply prefer a hands-off approach can still participate in retail ownership.</li>
-              <li><span className="font-medium">Professional Management:</span> Since operations are handled by trained staff under the brand&apos;s supervision, investors benefit from professional, standardised store management.</li>
-              <li><span className="font-medium">Reduced Time Commitment:</span> Unlike the FOFO model, which often requires significant owner involvement, FOCM allows investors to earn from the business without daily operational responsibilities.</li>
-              <li><span className="font-medium">Consistency Across Outlets:</span> Company-managed operations help maintain uniform service quality, which can be harder to achieve when multiple independent franchisees manage their own stores differently.</li>
-              <li><span className="font-medium">Ideal for Multiple Outlet Ownership:</span> Investors interested in owning several stores across different locations may prefer FOCM, as managing multiple outlets personally under FOFO would be operationally demanding.</li>
-            </ul>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              FOCM & FOFO: Key Differences
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li><span className="font-medium">Ownership:</span> In both models, the franchisee owns the store investment; the difference lies in who manages daily operations.</li>
-              <li><span className="font-medium">Operational Involvement:</span> FOFO requires the franchisee to actively manage the store; FOCM shifts this responsibility to the brand&apos;s operational team.</li>
-              <li><span className="font-medium">Time Commitment:</span> FOCM suits investors seeking a more passive role, while FOFO suits those who want to be hands-on in running their business.</li>
-              <li><span className="font-medium">Management Fee:</span> FOCM arrangements typically involve a management fee or revenue-sharing structure paid to the brand for handling operations, which is generally not applicable in a standard FOFO setup.</li>
-              <li><span className="font-medium">Suitability:</span> FOFO often suits first-time entrepreneurs who want full control and hands-on learning, while FOCM suits investors prioritising returns over active involvement.</li>
-            </ul>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Delhi NCR Is a Strong Market for This Model
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Delhi NCR&apos;s large population and diverse residential and commercial catchments provide consistent footfall potential across multiple locations.</li>
-              <li>The region&apos;s scale allows investors under the FOCM model to consider multiple store locations without the operational strain of personally managing each one.</li>
-              <li>Rising urban incomes and growing preference for organised retail across Delhi, Gurgaon, Noida, and Faridabad support stable demand for grocery stores.</li>
-              <li>NCR&apos;s expanding infrastructure, including metro connectivity and improved road networks, continues to widen viable catchment areas for new store locations.</li>
-              <li>Several developing pockets within NCR still have limited organised grocery retail presence, offering opportunities for investors regardless of the operational model chosen.</li>
-            </ul>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              About Buyzaar Mart
-            </h2>
-
-            <ul className="list-disc list-outside pl-6 space-y-3">
+            <ul className="list-disc pl-5 space-y-2">
               <li>
-                Buyzaar Mart is an organised retail chain offering groceries, daily
-                essentials, packaged foods, personal care, and household products through
-                a standardised store format.
+                FOCM stands for Franchise Owned, Company Managed. Under this structure, the franchise partner owns the store and invests the required capital, while The Buyzaar Mart&apos;s professional operations team manages day-to-day store activities.
               </li>
-
               <li>
-                The brand is designed to deliver a supermarket-style shopping experience
-                across residential and commercial neighbourhoods throughout Delhi NCR.
+                This is The Buyzaar Mart&apos;s primary and most recommended franchise model, especially suited for investors who want to own a grocery store business without being deeply involved in daily store management.
               </li>
-
               <li>
-                Buyzaar Mart follows structured store layouts, efficient inventory
-                management systems, and standardised customer service protocols to maintain
-                consistency across all franchise outlets.
+                The franchisee holds the franchise rights, builds a real business asset, and participates in significant business decisions — while the company runs inventory management, staff recruitment and supervision, supply chain operations, billing system management, and store standards maintenance.
               </li>
-
               <li>
-                The brand's well-defined operational systems and trained management teams
-                make it well-positioned to support a Franchise Owned, Company Managed
-                (FOCM) model for investors seeking a professionally managed grocery
-                business.
+                Because operational processes follow a standardized system across every FOCM outlet, stores maintain consistent brand quality, layout, and customer experience regardless of location within Delhi NCR.
+              </li>
+              <li>
+                The FOCM partnership agreement typically runs for 5 years, with renewal support and criteria evaluated at the end of the term.
               </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              How the FOCM Model Works with Buyzaar Mart
+              Why FOCM Suits a Grocery Store Investment in Delhi NCR
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li><span className="font-medium">Investment by Franchisee:</span> The investor funds the store setup, including stock, interior, technology, and other associated costs based on the chosen store format.</li>
-              <li><span className="font-medium">Store Operations by Company Team:</span> Buyzaar Mart&apos;s trained staff and operational systems manage daily store activities, including billing, inventory replenishment, and customer service.</li>
-              <li><span className="font-medium">Revenue and Reporting:</span> Investors typically receive regular sales and performance reports, allowing them to track store performance without being involved in daily management.</li>
-              <li><span className="font-medium">Profit Sharing or Fixed Returns:</span> Specific financial arrangements, including profit-sharing ratios or management fee structures, are defined in the franchise agreement and should be discussed directly with the Buyzaar Mart team.</li>
-              <li><span className="font-medium">Quality Control:</span> Since the brand&apos;s own team manages operations, consistency in service quality and adherence to company standards is generally easier to maintain.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Delhi NCR — spanning Delhi, Gurgaon, Noida, Greater Noida, Faridabad, and Ghaziabad — has a massive, recurring daily-needs consumer base across dense residential colonies, high-rise societies, and growing township corridors.
+              </li>
+              <li>
+                Grocery and FMCG retail is one of the most recession-resistant business categories — households buy staples, dairy, and packaged goods every week, regardless of broader economic conditions.
+              </li>
+              <li>
+                FOCM gives investors an established brand, a tested operating system, an existing supply chain, full management support, and contractual inventory protection from day one — a fundamentally different risk profile than starting an independent store from scratch.
+              </li>
+              <li>
+                Organized retail penetration still varies significantly across NCR neighbourhoods, with many residential pockets still served by unorganized kirana stores lacking billing transparency and consistent product quality.
+              </li>
+              <li>
+                FOCM does not require daily presence on the retail floor — investors receive performance reports and KPI data and participate in significant decisions, while the company runs daily operations.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Store Formats and Investment Overview
+              What the Company Manages Under FOCM
             </h2>
 
-            <p>
-              Buyzaar Mart offers three franchise formats, applicable under both FOCM and FOFO structures, allowing investors to choose a store size that matches their budget and investment goals.
-            </p>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Site approval: The company conducts a location survey and gives site approval before major setup investment begins, reducing the risk of a poor location choice.
+              </li>
+              <li>
+                Store design and setup: Complete store interior, layout planning, branding, signage, and POS deployment per brand standards.
+              </li>
+              <li>
+                Inventory management: Ongoing stock calibration, restocking, and inventory systems tailored to the specific locality&apos;s purchase patterns.
+              </li>
+              <li>
+                Staff recruitment and supervision: Hiring, training, and day-to-day supervision of your store team, covering billing, customer service, and daily routines.
+              </li>
+              <li>
+                Supply chain operations: Centralized procurement, FMCG distributor relationships, and regional sourcing for competitive pricing and reliable restocking.
+              </li>
+              <li>
+                Billing and technology systems: POS billing, real-time sales tracking, and inventory control systems deployed and maintained by the company.
+              </li>
+              <li>
+                Marketing: Local promotions, hyperlocal launch campaigns, and ongoing marketing support targeting your store&apos;s immediate catchment.
+              </li>
+              <li>
+                Performance monitoring: Periodic performance reviews, operational audits, and KPI dashboards to track and improve store performance.
+              </li>
+              <li>
+                Buyback protection: Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy — a formal, contractual commitment in every franchise agreement.
+              </li>
+            </ul>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart (600 – 1,000 sq. ft.): Total Investment starting at ₹15,25,000</li>
-              <li>Super Mart (1,001 – 3,000 sq. ft.): Total Investment starting at ₹26,63,407</li>
-              <li>Hyper Mart (3,001 – 8,000 sq. ft.): Total Investment starting at ₹78,89,960</li>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              FOCM & FOCO — Choosing the Right Model in NCR
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart offers two franchise structures across NCR, and understanding the difference is essential before deciding which fits your goals.
+              </li>
+              <li>
+                FOCM (Franchise Owned, Company Managed): You own the outlet and stay involved in your business, while the company manages day-to-day operations and provides strong operational and brand support. Best for investors who want ownership plus some involvement in decisions, without the full daily operational load.
+              </li>
+              <li>
+                FOCO (Franchise Owned, Company Operated): A more passive model where you provide the capital and commercial space, while the company manages the store entirely, and you earn returns through an agreed revenue share — reported at approximately 10% revenue sharing on monthly sales in some markets. Best for investors who want a fully hands-off investment.
+              </li>
+              <li>
+                Key distinction: In FOCM, the franchisee owns the store and stays involved with company support; in FOCO, the company fully operates the store, making it a more passive investment format.
+              </li>
+              <li>
+                Two-model flexibility means The Buyzaar Mart suits both semi-active owners and fully passive investors, depending on lifestyle and business goals.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Store Formats and Investment — Mini Mart, Super Mart, and Hyper Mart
+            </h2>
+
+            <ul >
+              <li>
+                The Buyzaar Mart offers three store formats under the FOCM model, allowing investors across Delhi NCR to choose based on available capital, space, and target locality.
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 600–1,000 sq ft (a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store)
+              </li>
+              <li>
+                Investment: Total setup costs typically range from approximately ₹15 lakh to ₹22 lakh
+              </li>
+              <li>
+                Best for: First-time FOCM investors, compact residential lanes, colony markets, and newer possession societies
+              </li>
+              <li>
+                Focus: Fast-moving daily essentials — groceries, staples, dairy, packaged foods, beverages, personal care, and household basics
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 1,001–3,000 sq ft
+              </li>
+              <li>
+                Investment: Starting from approximately ₹25 lakh, scaling with size and fit-out
+              </li>
+              <li>
+                Best for: Higher-footfall residential sectors and mixed-use commercial pockets with strong household density
+              </li>
+              <li>
+                Focus: A broader product assortment with more SKUs per category and a richer in-store experience
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: 3,000 sq ft and above
+              </li>
+              <li>
+                Investment: Scales upward significantly based on store size and location
+              </li>
+              <li>
+                Best for: High-traffic commercial locations, township markets, and busy residential zones across NCR
+              </li>
+              <li>
+                Focus: The widest assortment — fresh produce, frozen foods, personal care, home care, stationery, toys, pet care, and devotional items
+              </li>
+            </ul>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Across all formats, the investment typically covers the franchise fee (inclusive of 18% GST), interior setup and store assets, POS technology, opening stock, and the security deposit — invested upfront by the FOCM franchisee, with the company then managing daily operations.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              The FOCM Process — From Enquiry to Launch
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Initial enquiry and consultation: Submit a franchise enquiry and discuss your preferred NCR locality, budget, and format with the franchise team.
+              </li>
+              <li>
+                Site survey and approval: The company conducts a location survey assessing population density, purchasing capacity, and local demand before approving your proposed site.
+              </li>
+              <li>
+                Franchise agreement: A formal 5-year agreement is signed, covering investment terms, roles, and renewal criteria.
+              </li>
+              <li>
+                Store design and setup: Interior planning, branding, signage, POS deployment, and technology infrastructure installed to brand standard.
+              </li>
+              <li>
+                Staff hiring and training: Recruitment and complete training on billing, customer service, and daily store operations before opening.
+              </li>
+              <li>
+                Launch marketing: A hyperlocal grand opening campaign targeting the specific streets and residential blocks around your store.
+              </li>
+              <li>
+                Ongoing support: Operational audits, performance dashboards, restocking guidance, and continuous marketing support after launch.
+              </li>
+              <li>
+                Timeline: From initial enquiry to grand opening typically takes 8–12 weeks, depending on location finalisation, documentation, and interior setup — though some markets report a faster 4–8 week timeline where location and documentation move quickly.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Best Delhi NCR Locations for a FOCM Grocery Store
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Delhi — dense residential colonies and urban villages: Large resident bases with recurring daily grocery demand, and many pockets still served by unorganized kirana stores.
+              </li>
+              <li>
+                Gurgaon — Dwarka Expressway, Southern Peripheral Road, established sectors: Fast-growing residential corridors with a real, significant organized retail gap.
+              </li>
+              <li>
+                Noida — established and developing sectors: Consistent daily footfall across colony markets and society clusters.
+              </li>
+              <li>
+                Greater Noida — Greater Noida West, Yamuna Expressway belt: Rapidly filling new townships where an FOCM store can capture resident habits early.
+              </li>
+              <li>
+                Faridabad — NIT, Old Faridabad, Sectors 14–17, Greater Faridabad: Dense, underserved residential pockets with comparatively lower commercial rents than Delhi or Gurgaon.
+              </li>
+              <li>
+                Ghaziabad — Indirapuram, Vasundhara, Raj Nagar Extension: High residential density with organized retail still underrepresented in large corridors.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Product Categories Your FOCM Store Will Carry
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Grocery and staples: rice, wheat, pulses, flour, sugar, edible oils, and spices.
+              </li>
+              <li>
+                Packaged and branded FMCG products across major national and regional categories.
+              </li>
+              <li>
+                Dairy and beverages: milk, curd, butter, cheese, juices, cold drinks, and packaged water.
+              </li>
+              <li>
+                Personal care and hygiene: soaps, shampoos, skincare, oral care, and hygiene products.
+              </li>
+              <li>
+                Home care products: detergents, floor cleaners, dishwash liquids, and fresheners.
+              </li>
+              <li>
+                Packaged snacks and confectionery: biscuits, chips, chocolates, and namkeen.
+              </li>
+              <li>
+                Frozen and chilled foods: frozen vegetables, ice cream, and chilled ready-to-eat products (for applicable formats).
+              </li>
+              <li>
+                Additional categories for Super Mart and Hyper Mart formats: bakery items, fresh produce, stationery, toys, pet care, and devotional items.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Revenue Potential Under FOCM
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart franchise model works with an expected profit margin in the range of 18% to 20%, depending on format, location, and operational efficiency.
+              </li>
+              <li>
+                Because the franchisee owns the outlet, the store revenue and customer relationship under FOCM belong directly to the franchise owner, with the company&apos;s management fee or share structured within the agreement.
+              </li>
+              <li>
+                A well-located Mini Mart in a dense NCR residential pocket typically stabilizes its footfall within the first 2–3 months as the surrounding community adopts it as its default nearby store.
+              </li>
+              <li>
+                Profitability generally improves further with multi-unit ownership, as supplier relationships and operational learnings from the first store lower the cost and risk of opening the next across NCR.
+              </li>
+              <li>
+                Existing kirana or grocery store owners are among the ideal FOCM candidates, since they already understand grocery retail basics, have supplier contacts, and know their local customer base — while the FOCM structure adds brand, technology, and systemized operations on top.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              FOCM Grocery Store vs. Independent Kirana Store in NCR
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Branding and trust: A kirana store operates without a recognizable brand or food-safety certification; a Buyzaar Mart FOCM store is FSSAI licensed, GST registered, and MSME certified from day one.
+              </li>
+              <li>
+                Operational burden: An independent owner builds a brand, supplier relationships, staffing, and marketing from scratch with no support; an FOCM franchisee gets an established brand, a tested operating system, and full management support.
+              </li>
+              <li>
+                Technology: Kirana stores typically rely on manual billing with no inventory tracking; an FOCM store runs on POS billing and real-time inventory systems from launch.
+              </li>
+              <li>
+                Risk protection: Independent owners absorb the full cost of expired or damaged stock themselves; FOCM franchisees are protected through the contractual buyback policy.
+              </li>
+              <li>
+                Consistency: Product range, pricing, and store experience are standardized under company-managed operations, building the kind of repeat trust an unbranded store takes much longer to establish.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Who Should Consider the FOCM Model
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Investors who have full-time employment or other business commitments and prefer a passive investment approach.</li>
-              <li>Individuals interested in retail ownership as a wealth-building avenue rather than a full-time occupation.</li>
-              <li>Investors looking to eventually own multiple store locations without the operational burden of managing each one personally.</li>
-              <li>Property owners in Delhi NCR who want to convert their commercial space into an income-generating retail asset without direct involvement in daily operations.</li>
-              <li>NRIs or out-of-city investors who cannot be physically present to manage day-to-day store activities.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                First-time entrepreneurs across Delhi NCR looking for a low-risk, structured entry into organized retail without needing prior retail experience.
+              </li>
+              <li>
+                Working professionals who want ownership and some involvement in their business, backed by company-managed daily operations.
+              </li>
+              <li>
+                Existing kirana or grocery store owners looking to formalize and scale their business under an established brand.
+              </li>
+              <li>
+                Investors with access to a 600 sq ft or larger commercial or residential-facing space anywhere across Delhi NCR.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Key Considerations Before Choosing FOCM
+              Frequently Asked Questions
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li><span className="font-medium">Understand the Fee Structure:</span> Clarify any management fee, revenue-sharing percentage, or other financial arrangements tied to the company-managed structure.</li>
-              <li><span className="font-medium">Review Reporting Mechanisms:</span> Ensure there is clear, regular reporting on sales, expenses, and profitability so you can monitor your investment&apos;s performance.</li>
-              <li><span className="font-medium">Clarify Decision-Making Authority:</span> Understand which operational decisions remain with the company and which, if any, require your input as the investor.</li>
-              <li><span className="font-medium">Assess Long-Term Commitment:</span> FOCM arrangements are typically structured for a defined term, so review the agreement&apos;s duration and renewal terms carefully.</li>
-              <li><span className="font-medium">Compare with FOFO:</span> If you&apos;re open to a more hands-on role, compare potential returns and involvement levels between FOCM and FOFO before finalising your decision.</li>
-            </ul>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Get a Buyzaar Mart FOCM Franchise in Delhi NCR
-            </h2>
-
-            <ol className="list-decimal space-y-2 pl-6">
-              <li>Initial Enquiry: Contact the Buyzaar Mart team expressing interest in the FOCM franchise model.</li>
-              <li>Discussion on Investment and Terms: Understand the applicable investment, management fee structure, and profit-sharing terms.</li>
-              <li>Location Evaluation: The team evaluates potential store locations across Delhi NCR based on footfall and catchment potential.</li>
-              <li>Agreement Signing: Finalise the FOCM franchise agreement, including all operational and financial terms.</li>
-              <li>Store Setup: The company oversees interior design, branding, shelving, and technology installation.</li>
-              <li>Staffing and Training: Company-managed staff are hired and trained according to Buyzaar Mart&apos;s operational standards.</li>
-              <li>Store Launch: The store opens with company-led marketing and promotional support.</li>
-              <li>Ongoing Reporting: Investors receive periodic performance updates and reports as per the agreed reporting structure.</li>
-            </ol>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Frequently Asked Questions (FAQs)
-            </h2>
-
+            {/* Keep FAQ answers as <p>, not bullets */}
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  1. What does FOCM mean in franchising?
+                  Q1. What does FOCM mean in a franchise agreement?
                 </h3>
                 <p className="mt-2">
-                  FOCM stands for Franchise Owned, Company Managed — the investor owns the store, while the brand manages daily operations.
+                  FOCM stands for Franchise Owned, Company Managed — the franchisee owns the store and stays involved, while the company manages day-to-day operations.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  2. How is FOCM different from FOFO?
+                  Q2. How is FOCM different from FOCO?
                 </h3>
                 <p className="mt-2">
-                  In FOFO, the franchisee manages daily operations themselves; in FOCM, the company&apos;s team handles operations on the investor&apos;s behalf.
+                  Under FOCM, the franchisee owns the store and stays involved with company support; under FOCO, the company fully operates the store, making it a more passive investment.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  3. Who should consider the FOCM model?
+                  Q3. What is the minimum investment for an FOCM grocery store in Delhi NCR?
                 </h3>
                 <p className="mt-2">
-                  Investors seeking a passive role, such as those with full-time jobs or multiple business interests, are well-suited to this model.
+                  The Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  4. What is the investment required under FOCM?
+                  Q4. Do I need retail experience for the FOCM model?
                 </h3>
                 <p className="mt-2">
-                  Investment starts around ₹15,25,000 for a Mini Mart, ₹26,63,407 for a Super Mart, and ₹78,89,960 for a Hyper Mart.
+                  No. The FOCM structure is designed to be accessible even for investors with zero prior retail background, since the company manages operational complexity.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  5. Does the investor have any operational involvement under FOCM?
+                  Q5. How long does it take to open a store?
                 </h3>
                 <p className="mt-2">
-                  Involvement is minimal, though investors typically receive regular performance reports on the store.
+                  Typically 8–12 weeks from initial enquiry to grand opening, depending on location finalisation and documentation.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  6. Is there an additional fee for the company-managed structure?
+                  Q6. What happens to unsold or expired stock?
                 </h3>
                 <p className="mt-2">
-                  Yes, a management fee or revenue-sharing arrangement is typically part of the FOCM agreement; specifics should be confirmed with the franchise team.
+                  Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  7. Can I switch from FOCM to FOFO later?
+                  Q7. What is the term of the FOCM agreement?
                 </h3>
                 <p className="mt-2">
-                  This depends on the specific terms of the franchise agreement and should be discussed directly with Buyzaar Mart.
+                  The FOCM partnership agreement is typically for 5 years, with renewal support and criteria evaluated at the end of the term.
                 </p>
               </div>
-
-
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
@@ -386,41 +531,42 @@ const Content = () => {
                 Start Your FOCM Franchise Journey in Delhi NCR
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                Buyzaar Mart&apos;s company-managed model gives investors a practical route into organised grocery retail without the burden of daily store operations.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Join the Buyzaar Mart franchise network and explore a structured FOCM opportunity built for Delhi NCR&apos;s growing retail market.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  info@thebuyzaarmart.com
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="mb-4 list-disc pl-5 space-y-2">
+                <li>
+                  Delhi NCR&apos;s daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
+                </li>
+                <li>
+                  Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
+                </li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
           </div>
 
-          <CityInternalLinks city="delhi-ncr" currentSlug="/delhi/focm-franchise-model-grocery-store-delhi-ncr" />
+          <CityInternalLinks
+            city="delhi-ncr"
+            currentSlug="/delhi/focm-franchise-model-grocery-store-delhi-ncr"
+          />
         </div>
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">

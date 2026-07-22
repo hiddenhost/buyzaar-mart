@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Daily Essentials Store Franchise in Gurgaon | Buyzaar Mart",
+  name: "Daily Essentials Store Franchise in Gurgaon | The Buyzaar Mart",
   description:
-    "Buyzaar Mart offers daily essentials store franchise opportunities in Gurgaon with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
+    "The Buyzaar Mart offers daily essentials store franchise opportunities in Gurgaon with Mini Mart, Super Mart, and Hyper Mart formats, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/delhi/daily-essentials-store-franchise-gurgaon",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -25,25 +25,25 @@ const localBusinessSchema = {
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Franchise Formats in Gurgaon",
+    name: "The Buyzaar Mart Daily Essentials Franchise Formats in Gurgaon",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Compact format with approximately 600 to 1000 sq. ft. of retail space, suited for neighborhood locations.",
+          "Entry-level daily essentials franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Gurgaon.",
       },
       {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "Mid-size format with 1001 to 3000 sq. ft. of retail space and an entry investment of approximately ₹26,63,407 at the 1001 sq. ft. point.",
+          "Mid-tier daily essentials franchise format suited for main market locations, colony chowks, and busy residential sector roads in Gurgaon.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
         description:
-          "Large-format supermarket with 3001 to 8000 sq. ft. of retail space and an entry investment of approximately ₹78,89,960 at the 3001 sq. ft. point.",
+          "Large-format daily essentials franchise suited for high-traffic commercial locations, township market areas, and premium residential zones in Gurgaon.",
       },
     ],
   },
@@ -55,82 +55,58 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is the Buyzaar Mart franchise model?",
+      name: "What is the minimum investment for a daily essentials store franchise in Gurgaon?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It's an organised daily essentials retail franchise offering groceries, packaged foods, and household products through a standardised store format with brand and operational support.",
+        text: "A Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.",
       },
     },
     {
       "@type": "Question",
-      name: "Why is Gurgaon a good location for this franchise?",
+      name: "What store size fits the Mini Mart format?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It has a large corporate workforce, growing residential population, and rising demand for organised daily essentials shopping, with several under-served micro-markets.",
+        text: "Approximately 600–1,000 sq ft, with a minimum carpet area of 600 sq ft required.",
       },
     },
     {
       "@type": "Question",
-      name: "Who can apply for a Buyzaar Mart franchise?",
+      name: "Do I need to be present at the store every day?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Entrepreneurs, investors, and property owners with suitable commercial space and interest in the retail sector can apply.",
+        text: "No. Under the FOCM model, Buyzaar Mart's operations team manages daily operations; you receive performance reports and participate in key decisions.",
       },
     },
     {
       "@type": "Question",
-      name: "What kind of support does Buyzaar Mart provide?",
+      name: "Do I need retail experience to apply?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Support typically includes training, marketing assistance, supply chain access, technology setup, and ongoing operational guidance.",
+        text: "No. Prior retail experience is not a prerequisite — your staff are trained by Buyzaar Mart before opening, and the store runs to the brand's SOP from day one.",
       },
     },
     {
       "@type": "Question",
-      name: "What store formats are available for franchising?",
+      name: "How long does it take to open the store?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Buyzaar Mart offers Mini Mart (600–1,000 sq. ft.), Super Mart (1,001–3,000 sq. ft.), and Hyper Mart (3,001–8,000 sq. ft.) formats.",
+        text: "Typically 8–12 weeks from initial enquiry to grand opening, covering location approval, agreement, setup, training, and launch marketing.",
       },
     },
     {
       "@type": "Question",
-      name: "How much investment is required to open a franchise?",
+      name: "What happens to unsold or expired stock?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts around ₹15,25,000 for a Mini Mart, ₹26,63,407 for a Super Mart, and ₹78,89,960 for a Hyper Mart, depending on store size.",
+        text: "Expired and damaged goods are taken back under the brand's hassle-free inventory assurance policy.",
       },
     },
     {
       "@type": "Question",
-      name: "How long does it take to set up a new store?",
+      name: "What is the franchise agreement term?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Timelines depend on location readiness and interior fit-out but generally range from a few weeks to a couple of months.",
-      },
-    },
-    {
-      "@type": "Question",
-      name: "Is prior retail experience required to get a franchise?",
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: "No, but prior experience can be helpful; training and support are typically provided to first-time entrepreneurs as well.",
-      },
-    },
-    {
-      "@type": "Question",
-      name: "Does Buyzaar Mart offer territory exclusivity?",
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: "Exclusivity terms, if any, should be clarified and documented in the franchise agreement before signing.",
-      },
-    },
-    {
-      "@type": "Question",
-      name: "How can I start the franchise application process?",
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: "Interested applicants can contact the Buyzaar Mart team directly through their official enquiry channels to begin the process.",
+        text: "5 years, with renewal criteria evaluated at the end of the term.",
       },
     },
   ],
@@ -158,259 +134,406 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Daily Essentials Store Franchise in Gurgaon – Buyzaar Mart
+              Daily Essentials Store Franchise in Gurgaon: Complete Investment &amp; Location Guide
             </h1>
 
-            <p>
-              Gurgaon (Gurugram) has firmly established itself as one of India's leading corporate, commercial, and residential destinations, making it one of the most attractive cities for organised retail businesses. Home to numerous multinational companies, IT parks, business centres, luxury residential societies, and rapidly developing neighbourhoods, the city attracts thousands of working professionals, families, students, and entrepreneurs every year. This steady population growth, combined with rising disposable incomes and changing consumer lifestyles, has significantly increased the demand for organised grocery stores that offer convenience, product variety, competitive pricing, and a modern shopping experience.
-
-              As consumers increasingly prefer supermarkets over traditional neighbourhood stores for their daily shopping needs, the organised grocery retail sector in Gurgaon continues to experience strong and sustained growth.            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Gurgaon Is Ideal for a Daily Essentials Store Franchise
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Gurgaon is home to hundreds of corporate offices, IT parks, and MNC headquarters, resulting in a large working population with limited time for daily shopping.</li>
-              <li>The city has witnessed rapid vertical growth, with numerous high-rise residential societies, gated communities, and townships across sectors like Sohna Road, Dwarka Expressway, New Gurgaon, and Golf Course Extension Road.</li>
-              <li>Rising disposable income levels among Gurgaon's urban population translate into higher spending on quality daily essentials, groceries, and household products.</li>
-              <li>The city's cosmopolitan population, including a significant number of working couples and nuclear families, prefers organised, one-stop shopping over multiple visits to scattered local stores.</li>
-              <li>Many upcoming residential and commercial developments in the outskirts of Gurgaon still have limited organised retail presence, creating opportunities for new entrants.</li>
-              <li>Improved infrastructure, including metro connectivity, expressways, and rapid urbanisation, continues to expand the city's active consumer base.</li>
+            <ul >
+              <li>
+                Gurgaon runs on daily essentials. Corporate professionals in Cyber City, IT employees in Udyog Vihar, business owners along Golf Course Road, and families across DLF Phase, Palam Vihar, Sushant Lok, and the fast-growing Dwarka Expressway corridor all share one behaviour in common — they buy groceries, dairy, and household essentials every single week without fail. Here&apos;s a complete guide to starting a daily essentials store franchise in Gurgaon with The Buyzaar Mart.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              About Buyzaar Mart
+              Why Gurgaon Is a Strong Market for a Daily Essentials Store Franchise
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Buyzaar Mart is an organised retail chain offering daily essentials, groceries, packaged foods, personal care, and household products under a standardised store format.</li>
-              <li>The brand is designed to bring supermarket-style convenience and reliability to growing residential and commercial neighbourhoods.</li>
-              <li>Buyzaar Mart follows structured store layouts, inventory systems, and customer service standards to ensure consistency across all franchise outlets.</li>
-              <li>The franchise model caters to both first-time entrepreneurs and experienced retail investors seeking to expand their business portfolio.</li>
-              <li>Focus areas include product quality, competitive pricing, and a pleasant in-store shopping experience to build long-term customer loyalty.</li>
-              <li>The brand positions itself as a trusted neighbourhood daily essentials destination, bridging the gap between small kirana stores and large-format supermarkets.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Gurgaon&apos;s economic engine runs on a large, earning, spending population across every income bracket and profession, all generating consistent, non-discretionary daily essentials demand.
+              </li>
+              <li>
+                Daily needs retail — groceries, FMCG, dairy, packaged foods, personal care, and household essentials — is the most stable, consistent, and recession-proof retail category available to a franchise investor.
+              </li>
+              <li>
+                Most independent retail businesses in Gurgaon do not survive their first three years because they underestimate operational complexity and overestimate how quickly a new, unbranded store builds consumer trust.
+              </li>
+              <li>
+                Gurgaon&apos;s fastest-growing residential corridors — Dwarka Expressway, Southern Peripheral Road, Golf Course Extension — have thousands of new families taking possession every month, with organized daily essentials retail almost entirely absent at the sector and society level.
+              </li>
+              <li>
+                Established zones like Palam Vihar, Sushant Lok, DLF Phases, and South City have high household incomes and a clear consumer preference for organized, branded retail over local kirana alternatives.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a Daily Essentials Store Is a Smart Business Choice
+              What Makes Daily Essentials Retail Different from Other Categories
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Daily essentials and grocery retail is a non-discretionary spending category, meaning demand remains stable regardless of broader economic fluctuations.</li>
-              <li>Repeat purchase behaviour is high, as customers return regularly for groceries, household items, and personal care products.</li>
-              <li>Organised daily essentials stores benefit from consistent footfall, especially in densely populated residential catchments.</li>
-              <li>The category offers opportunities for cross-selling and upselling through combo offers, seasonal products, and loyalty programs.</li>
-              <li>Compared to many other retail categories, daily essentials stores typically have shorter inventory cycles, helping maintain healthier cash flow.</li>
-              <li>Growing consumer preference for hygienic, well-organised, and clearly priced products favours organised retail formats over unorganised outlets.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Daily essentials cover the products every household buys on a recurring, non-discretionary basis: groceries, staples, dairy, packaged foods, beverages, personal care, and household cleaning products.
+              </li>
+              <li>
+                Because these purchases happen every week regardless of season or economic sentiment, a daily essentials store generates far more predictable, stable footfall than fashion, electronics, or food-service categories.
+              </li>
+              <li>
+                High-frequency, perishable categories like dairy and beverages bring customers back to the same store consistently, building loyal repeat behaviour faster than one-time purchase categories.
+              </li>
+              <li>
+                FMCG and impulse items positioned at the billing counter capture spontaneous add-on purchases, contributing meaningfully to basket size and margin on every visit.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Key Benefits of Partnering with Buyzaar Mart in Gurgaon
+              The FOCM Model — Own the Business, Buyzaar Mart Runs It
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Established Brand Identity: Leverage an existing retail brand name to build customer trust quickly in a new location.</li>
-              <li>Operational Training: Comprehensive guidance on store setup, staff training, inventory management, and daily operations.</li>
-              <li>Supply Chain Support: Access to established vendor and distribution networks for consistent product availability and quality.</li>
-              <li>Marketing Assistance: Support with branding, signage, promotional campaigns, and local marketing strategies to drive footfall.</li>
-              <li>Technology Integration: Access to point-of-sale (POS) systems, billing software, and inventory tracking tools for efficient store management.</li>
-              <li>Flexible Store Formats: Multiple store size options to suit different budgets, locations, and catchment area requirements.</li>
-              <li>Scalability: Opportunity to expand into multiple outlets across Gurgaon's various sectors and neighbouring micro-markets.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The single most important question when evaluating any daily essentials store franchise in Gurgaon is: who is actually responsible for running it? The Buyzaar Mart FOCM model — Franchise Owned, Company Managed — resolves this clearly.
+              </li>
+              <li>
+                You own the franchise. The investment is yours, the franchise rights are yours under a formal 5-year agreement, and the growing business asset in your Gurgaon locality belongs to your investment portfolio.
+              </li>
+              <li>
+                Buyzaar Mart manages the store. Complete store setup, daily operations under a tested Standard Operating Process, inventory and supply chain management, staff training, marketing, and performance monitoring are all handled by the company&apos;s operations team.
+              </li>
+              <li>
+                No daily presence required. You receive real-time KPI dashboards and participate in significant decisions, but daily presence on the retail floor is not required.
+              </li>
+              <li>
+                No retail experience needed. Your staff are trained by Buyzaar Mart&apos;s team before opening, and the store is run to the brand&apos;s SOP from day one.
+              </li>
+              <li>
+                FOCO is also available for investors who want an even more passive structure, where the company manages daily operations, staff salaries, and procurement entirely, and the investor earns an agreed revenue share.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Who Should Consider This Franchise Opportunity
+              What&apos;s Included in Your Franchise Support Package
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Local entrepreneurs looking to enter the organised retail sector with established brand backing.</li>
-              <li>Investors seeking a stable, recurring-revenue business model in the daily essentials and FMCG retail space.</li>
-              <li>Individuals with prior retail or grocery business experience wanting to transition to a more structured, scalable format.</li>
-              <li>Property owners in Gurgaon with suitable commercial space looking to maximise returns through an active retail business.</li>
-              <li>Professionals considering a shift into full-time entrepreneurship with the support of an established franchise system.</li>
-              <li>NRIs or investors looking for a semi-managed retail business model in a high-growth Indian city.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Complete store setup: Interior layout optimized for daily-needs retail flow, shelving and fixture installation, refrigeration units for dairy and chilled products, branding and external signage, and POS billing and inventory tracking technology, deployed and tested before opening.
+              </li>
+              <li>
+                Daily operations under tested SOP: Inventory discipline, billing accuracy, restocking schedules, customer service standards, hygiene routines, and merchandising protocols applied consistently every day of the week.
+              </li>
+              <li>
+                Inventory and supply chain management: Connection to Buyzaar Mart&apos;s procurement network — FMCG distributor relationships, direct vendor access, and regional sourcing — with opening inventory calibrated to your specific Gurgaon locality&apos;s purchasing patterns.
+              </li>
+              <li>
+                Staff training before opening: Complete training on POS operations, daily routines, inventory management, customer engagement, and hygiene compliance before your first customer walks in.
+              </li>
+              <li>
+                Marketing from grand opening onwards: Hyperlocal digital campaigns targeting residents in your specific catchment, social media activation, grand opening promotions, and customer loyalty programme onboarding.
+              </li>
+              <li>
+                Live performance data and audits: Real-time KPI dashboards covering daily sales, inventory, and transactions, plus scheduled operational and quality audits with written improvement recommendations.
+              </li>
+              <li>
+                Buyback protection: Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy, protecting your investment from a common retail loss.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Ideal Store Requirements
+              Store Formats and Investment — Mini Mart, Super Mart, and Hyper Mart
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Commercial or ground-floor retail space located near residential societies, main markets, or high-footfall road junctions.</li>
-              <li>Adequate frontage and visibility to attract walk-in customers from nearby streets and societies.</li>
-              <li>Sufficient carpet area to accommodate grocery aisles, checkout counters, and storage space depending on the chosen store format.</li>
-              <li>Access to basic utilities such as power supply, water connection, and convenient parking or accessibility for customers.</li>
-              <li>Locations near upcoming residential societies, schools, offices, or commercial complexes tend to generate stronger footfall.</li>
+            <ul >
+              <li>
+                The right format for your Gurgaon daily essentials store depends on your commercial space, footfall profile, and residential catchment.
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 600–1,000 sq ft (a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store)
+              </li>
+              <li>
+                Investment: Total setup costs typically range from approximately ₹15 lakh to ₹22 lakh
+              </li>
+              <li>
+                Best fit in Gurgaon: Housing society retail units across Dwarka Expressway sectors, inner colony lanes in Palam Vihar and South City, DLF Phase society market units, Sushant Lok inner residential shops, and Sector 56–58 colony-facing commercial spaces
+              </li>
+              <li>
+                Focus: Fast-moving daily essentials — groceries, staples, dairy, packaged foods, beverages, personal care, and household basics
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 1,001–3,000 sq ft
+              </li>
+              <li>
+                Investment: Starting from approximately ₹26.6 lakh, scaling with size and fit-out
+              </li>
+              <li>
+                Best fit in Gurgaon: Dwarka Expressway township commercial blocks in Sectors 82–102, Southern Peripheral Road commercial units, Golf Course Extension commercial areas, Palam Vihar main market, and main road commercial spaces in Sector 45 and Sector 46
+              </li>
+              <li>
+                Focus: A full daily needs product range serving a wider residential and commercial catchment
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: 3,000 sq ft and above
+              </li>
+              <li>
+                Investment: Scales upward significantly based on store size and location
+              </li>
+              <li>
+                Best fit in Gurgaon: NH-48 main road frontages, Sohna Road commercial corridor, Golf Course Road main market areas, Sector 14 and Sector 45 main markets, and Manesar commercial zones
+              </li>
+              <li>
+                Focus: The widest assortment across groceries, FMCG, dairy, personal care, home care, and specialty categories, positioned as the primary organized daily needs destination for its zone
+              </li>
+            </ul>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Across all formats, the investment covers the franchise fee, interior setup and store assets, POS technology, opening stock, and the security deposit. Buyzaar Mart&apos;s team evaluates your proposed site — catchment population, daily footfall, competition, and physical suitability — and recommends the right format with a personalised investment breakdown before you commit.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Store Formats and Investment
+              Product Range Your Store Will Carry
             </h2>
 
-            <p>
-              Buyzaar Mart offers three franchise formats, allowing entrepreneurs to select a store size that matches their budget, location, and target catchment area in Gurgaon.
-            </p>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart (600 – 1,000 sq. ft.): Total Investment starting at ₹15,25,000 (for a 600 sq. ft. store).</li>
-              <li>Super Mart (1,001 – 3,000 sq. ft.): Total Investment starting at ₹26,63,407 (for a 1,001 sq. ft. store).</li>
-              <li>Hyper Mart (3,001 – 8,000 sq. ft.): Total Investment starting at ₹78,89,960 (for a 3,001 sq. ft. store).</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Grocery and staples: Atta, rice, dal, cooking oil, sugar, salt, spices, dry fruits, and pulses — the foundational daily needs that drive the highest repeat-visit frequency.
+              </li>
+              <li>
+                Dairy and beverages: Milk, curd, butter, paneer, juices, energy drinks, soft drinks, bottled water, and health drinks — high-frequency, perishable-category products that bring customers back consistently.
+              </li>
+              <li>
+                Packaged and processed foods: Biscuits, chips, namkeen, noodles, breakfast cereals, ready-to-eat, and instant foods — fast-moving products with strong margin contribution.
+              </li>
+              <li>
+                Personal care: Soaps, shampoos, conditioners, toothpaste, face wash, razors, deodorants, skincare basics, and sanitary essentials — regular replenishment purchases that build basket size.
+              </li>
+              <li>
+                Household essentials: Detergents, dishwash, floor cleaners, toilet cleaners, scrubs, garbage bags, and kitchen accessories — consistent weekly demand across every household.
+              </li>
+              <li>
+                FMCG and impulse: High-margin fast movers positioned at the billing counter and throughout the store to capture spontaneous add-on purchases.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Investment Considerations
+              Best Gurgaon Locations for a Daily Essentials Store Franchise
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Investment requirements scale with store size — larger formats like Hyper Mart require higher overall investment but offer greater revenue potential.</li>
-              <li>Costs generally include stock, interior, software fee, franchise fee, and security deposit.</li>
-              <li>Prospective franchisees should request a detailed cost breakdown and expected return on investment (ROI) directly from the Buyzaar Mart team before finalising a location.</li>
-              <li>A clear understanding of franchise fees, royalty structure (if applicable), and profit-sharing terms should be reviewed carefully in the franchise agreement.</li>
-              <li>It's advisable to compare the investment against local market potential, footfall estimates, rental costs, and competitor presence in the chosen Gurgaon sector before finalising a store format.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Dwarka Expressway (Sectors 82–115): Gurgaon&apos;s most active residential delivery corridor, with thousands of new families taking possession monthly and organized retail almost entirely absent at the society level.
+              </li>
+              <li>
+                Southern Peripheral Road and Golf Course Extension: Premium residential and commercial development with high-income households and a clear preference for organized, branded retail — excellent Super Mart territory.
+              </li>
+              <li>
+                Palam Vihar: One of Gurgaon&apos;s largest and most densely populated localities, with multiple distinct residential pockets each functioning as a natural retail micro-market.
+              </li>
+              <li>
+                Sushant Lok: Premium established residential zone with high household income and strong preference for organized retail over local kirana alternatives.
+              </li>
+              <li>
+                DLF Phase 1, 2, 3, 4: Premium residential zones with organized society-level commercial markets and above-average daily household spend.
+              </li>
+              <li>
+                South City 1 and 2: Well-developed residential clusters with large family populations and limited organized retail presence in inner residential areas.
+              </li>
+              <li>
+                Sector 56, 57, 58: Dense established residential zones with consistent daily retail demand and lower commercial rents than newer development corridors.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Get a Buyzaar Mart Franchise in Gurgaon
+              Revenue Potential and Growth Path
             </h2>
 
-            <ol className="list-decimal space-y-2 pl-6">
-              <li>Initial Enquiry: Reach out to the Buyzaar Mart team through their official contact channels expressing interest in a franchise.</li>
-              <li>Application & Discussion: Share basic details about your background, investment capacity, and preferred location in Gurgaon.</li>
-              <li>Location Evaluation: The team assesses your proposed store location based on catchment area, footfall, and competition.</li>
-              <li>Business Plan & Investment Discussion: Review of store format options, expected investment, and revenue potential.</li>
-              <li>Agreement Signing: Finalisation of franchise terms, including fees, support structure, and operational guidelines.</li>
-              <li>Store Setup: Support with interior design, branding, shelving, and technology installation.</li>
-              <li>Training: Staff and owner training on inventory management, billing systems, and customer service standards.</li>
-              <li>Store Launch: Official opening supported by marketing and promotional activities to attract initial footfall.</li>
-              <li>Ongoing Support: Continued operational, marketing, and supply chain support post-launch.</li>
-            </ol>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Growth Potential in Gurgaon
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Gurgaon's population continues to grow steadily as new residential and commercial developments reach completion, particularly along expressway corridors.</li>
-              <li>Continuous infrastructure upgrades, including metro extensions and road connectivity improvements, are expected to further boost footfall in emerging sectors.</li>
-              <li>The presence of numerous corporate offices and business parks adds a steady stream of daytime footfall in addition to residential demand.</li>
-              <li>As awareness and preference for organised daily essentials shopping grows, early movers stand to benefit from stronger brand recall and customer loyalty.</li>
-              <li>Multiple franchise outlets across different sectors of Gurgaon can help build a strong local network and economies of scale for investors.</li>
-              <li>Gurgaon's status as a major employment hub ensures a continuously replenishing customer base as new residents and professionals relocate to the city.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Daily essentials retail generates consistent, Monday-through-Sunday footfall since grocery and FMCG demand is non-discretionary and holds steady across every season.
+              </li>
+              <li>
+                A well-located Mini Mart in a Gurgaon housing society or busy residential lane typically stabilizes its footfall within the first 2–3 months as residents adopt it as their default nearby store.
+              </li>
+              <li>
+                Under the FOCM model, the franchisee retains the gross margin on every product sold, since store revenue and the customer relationship belong directly to the franchise owner.
+              </li>
+              <li>
+                Under the FOCO model, returns are structured as an agreed revenue share, suited to investors who prefer a fully passive role.
+              </li>
+              <li>
+                Profitability generally improves further with multi-unit ownership, as supplier relationships, staff training, and marketing learnings from the first store lower the cost and risk of opening the next.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Tips for Prospective Franchisees
+              Daily Essentials Franchise vs. Independent Kirana Store in Gurgaon
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Conduct thorough local market research on footfall patterns, competing stores, and resident demographics before finalising a location in Gurgaon.</li>
-              <li>Visit existing Buyzaar Mart outlets, if available, to understand store operations and customer experience firsthand.</li>
-              <li>Prepare a clear financial plan, including working capital needs beyond the initial setup investment.</li>
-              <li>Ask detailed questions about ongoing support, restocking timelines, and how disputes or operational issues are typically resolved.</li>
-              <li>Ensure all terms, including exclusivity rights for your area (if offered), are clearly documented in the franchise agreement.</li>
-              <li>Consider rental costs carefully, as commercial rents in prime Gurgaon sectors can be significantly higher than in emerging areas.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Branding and trust: An unregistered kirana store has no recognizable brand or food-safety certification; a Buyzaar Mart franchise is FSSAI licensed, GST registered, and MSME certified from day one.
+              </li>
+              <li>
+                Technology: Kirana stores typically rely on manual billing with no inventory tracking; a Buyzaar Mart store runs on POS billing and real-time inventory systems.
+              </li>
+              <li>
+                Risk protection: Independent store owners absorb the full cost of expired or damaged stock themselves; Buyzaar Mart franchisees are protected through the contractual buyback policy.
+              </li>
+              <li>
+                Structured support: A kirana store owner manages sourcing, pricing, staffing, and marketing alone; a Buyzaar Mart franchisee has a tested Standard Operating Process behind every part of the business.
+              </li>
+              <li>
+                Consumer preference: Gurgaon&apos;s professional, quality-conscious residents increasingly prefer branded, hygienic, transparently priced stores — a clear structural advantage for an organized franchise.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Frequently Asked Questions (FAQs)
+              Who Should Consider This Franchise
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Working professionals in Gurgaon looking for a business investment that doesn&apos;t require managing a store every day.
+              </li>
+              <li>
+                First-time entrepreneurs seeking a low-risk, structured entry into organized retail with full brand and operational backing.
+              </li>
+              <li>
+                Residents of Dwarka Expressway, Palam Vihar, Sushant Lok, or DLF Phase societies who understand their own community&apos;s daily essentials needs.
+              </li>
+              <li>
+                Investors with access to a 600 sq ft or larger commercial or residential-facing space in Gurgaon.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Frequently Asked Questions
             </h2>
 
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">What is the Buyzaar Mart franchise model?</h3>
-                <p className="mt-2">
-                  It's an organised daily essentials retail franchise offering groceries, packaged foods, and household products through a standardised store format with brand and operational support.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q1. What is the minimum investment for a daily essentials store franchise in Gurgaon?
+                </h3>
+                <ul >
+                  <li>
+                    A Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Why is Gurgaon a good location for this franchise?</h3>
-                <p className="mt-2">
-                  It has a large corporate workforce, growing residential population, and rising demand for organised daily essentials shopping, with several under-served micro-markets.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q2. What store size fits the Mini Mart format?
+                </h3>
+                <ul >
+                  <li>
+                    Approximately 600–1,000 sq ft, with a minimum carpet area of 600 sq ft required.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Who can apply for a Buyzaar Mart franchise?</h3>
-                <p className="mt-2">
-                  Entrepreneurs, investors, and property owners with suitable commercial space and interest in the retail sector can apply.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q3. Do I need to be present at the store every day?
+                </h3>
+                <ul >
+                  <li>
+                    No. Under the FOCM model, Buyzaar Mart&apos;s operations team manages daily operations; you receive performance reports and participate in key decisions.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What kind of support does Buyzaar Mart provide?</h3>
-                <p className="mt-2">
-                  Support typically includes training, marketing assistance, supply chain access, technology setup, and ongoing operational guidance.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q4. Do I need retail experience to apply?
+                </h3>
+                <ul >
+                  <li>
+                    No. Prior retail experience is not a prerequisite — your staff are trained by Buyzaar Mart before opening, and the store runs to the brand&apos;s SOP from day one.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What store formats are available for franchising?</h3>
-                <p className="mt-2">
-                  Buyzaar Mart offers Mini Mart (600–1,000 sq. ft.), Super Mart (1,001–3,000 sq. ft.), and Hyper Mart (3,001–8,000 sq. ft.) formats.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q5. How long does it take to open the store?
+                </h3>
+                <ul >
+                  <li>
+                    Typically 8–12 weeks from initial enquiry to grand opening, covering location approval, agreement, setup, training, and launch marketing.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">How much investment is required to open a franchise?</h3>
-                <p className="mt-2">
-                  Investment starts around ₹15,25,000 for a Mini Mart, ₹26,63,407 for a Super Mart, and ₹78,89,960 for a Hyper Mart, depending on store size.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q6. What happens to unsold or expired stock?
+                </h3>
+                <ul >
+                  <li>
+                    Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">How long does it take to set up a new store?</h3>
-                <p className="mt-2">
-                  Timelines depend on location readiness and interior fit-out but generally range from a few weeks to a couple of months.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q7. What is the franchise agreement term?
+                </h3>
+                <ul >
+                  <li>
+                    5 years, with renewal criteria evaluated at the end of the term.
+                  </li>
+                </ul>
               </div>
-
-              <div>
-                <h3 className="font-medium text-gray-900">Is prior retail experience required to get a franchise?</h3>
-                <p className="mt-2">
-                  No, but prior experience can be helpful; training and support are typically provided to first-time entrepreneurs as well.
-                </p>
-              </div>
-
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Buyzaar Mart Franchise Journey in Gurgaon
+                Start Your Daily Essentials Franchise Journey in Gurgaon
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                Gurgaon offers a strong mix of residential density, corporate footfall, and rising demand for organised daily essentials shopping.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Join Buyzaar Mart's franchise network to build a reliable retail business backed by structured support and a proven format.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  info@thebuyzaarmart.com
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="mb-4 list-disc pl-5 space-y-2">
+                <li>
+                  Gurgaon&apos;s daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
+                </li>
+                <li>
+                  Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
+                </li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
           </div>
 

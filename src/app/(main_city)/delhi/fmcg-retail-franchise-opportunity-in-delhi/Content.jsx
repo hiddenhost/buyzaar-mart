@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "FMCG Retail Franchise in Delhi | Buyzaar Mart",
+  name: "FMCG Retail Franchise Opportunity in Delhi | The Buyzaar Mart",
   description:
-    "Buyzaar Mart offers FMCG retail franchise opportunities in Delhi with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
+    "The Buyzaar Mart offers FMCG retail franchise opportunities in Delhi with Mini Mart, Super Mart, and Hyper Mart formats, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/delhi/fmcg-retail-franchise-opportunity-in-delhi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -25,25 +25,25 @@ const localBusinessSchema = {
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Franchise Formats in Delhi",
+    name: "The Buyzaar Mart FMCG Retail Franchise Formats in Delhi",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Compact format with approximately 600 to 1000 sq. ft. of retail space, suited for neighborhood locations.",
+          "Entry-level FMCG retail franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Delhi.",
       },
       {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "Mid-size format with 1001 to 3000 sq. ft. of retail space and an entry investment of approximately ₹26.63 lakh at the 1001 sq. ft. point.",
+          "Mid-tier FMCG retail franchise format suited for main market locations, colony chowks, and busy residential sector roads in Delhi.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
         description:
-          "Large-format supermarket with 3001 to 8000 sq. ft. of retail space and an entry investment of approximately ₹78.89 lakh at the 3001 sq. ft. point.",
+          "Large-format FMCG retail franchise suited for high-traffic commercial locations, township market areas, and premium residential zones in Delhi.",
       },
     ],
   },
@@ -55,58 +55,58 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is FMCG retail, and why is it a good business category?",
+      name: "What is the minimum investment for an FMCG retail franchise in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "FMCG retail involves selling fast-moving daily essentials like groceries and personal care items, offering steady, repeat-customer revenue.",
+        text: "A Mini Mart format starts from approximately ₹15 lakh, going up to around ₹22 lakh depending on location and fit-out.",
       },
     },
     {
       "@type": "Question",
-      name: "How much space is required for this franchise in Delhi?",
+      name: "What space is required for the Mini Mart format?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Space requirements range from 600 sq. ft. for a Mini Mart to 8000 sq. ft. for a Hyper Mart, depending on the format chosen.",
+        text: "A minimum carpet area of 600 sq ft is required, with the format typically ranging up to 1,000 sq ft.",
       },
     },
     {
       "@type": "Question",
-      name: "What is the price range for a Buyzaar Mart franchise?",
+      name: "Do I need retail experience to apply?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment ranges from a lower amount for Mini Mart to around ₹26.63 lakh for Super Mart and ₹78.89 lakh for Hyper Mart, depending on the format.",
+        text: "No. Complete training, POS software, and ongoing operational support are provided for first-time franchisees.",
       },
     },
     {
       "@type": "Question",
-      name: "Is prior retail experience necessary to start this franchise?",
+      name: "Can I choose my own store location in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No, prior experience isn't mandatory. Buyzaar Mart provides training and operational support to new franchise partners.",
+        text: "Yes. You can propose a location, and the team will assess population density, purchasing capacity, and demand before approval.",
       },
     },
     {
       "@type": "Question",
-      name: "Which areas in Delhi are best suited for an FMCG retail store?",
+      name: "What happens to unsold or expired stock?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Dwarka, Rohini, East Delhi, and South Delhi neighborhoods offer strong footfall potential for this format.",
+        text: "Expired and damaged goods are taken back under the brand's hassle-free inventory assurance policy.",
       },
     },
     {
       "@type": "Question",
-      name: "What support does Buyzaar Mart provide to franchise partners?",
+      name: "What is the difference between FOCM and FOCO?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Support includes site selection, store setup, staff training, product supply, and marketing assistance.",
+        text: "FOCM means you own and stay involved while the company manages operations; FOCO means the company operates the store entirely while you function as a pure investor.",
       },
     },
     {
       "@type": "Question",
-      name: "Can I start small and expand later?",
+      name: "Can I scale up from a Mini Mart to a larger format later?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, franchise partners can begin with a Mini Mart and scale up to Super Mart or Hyper Mart formats as the business grows.",
+        text: "Yes. Franchisees commonly start with a Mini Mart and expand to a Super Mart or Hyper Mart, or add additional outlets, as the business grows.",
       },
     },
   ],
@@ -134,190 +134,288 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Why Delhi is a High-Potential Market for an FMCG Retail Franchise
+              FMCG Retail Franchise Opportunity in Delhi: Complete Investment &amp; Format Guide
             </h1>
 
-            <p>
-              Delhi, as India's capital and one of the largest urban agglomerations in the country, offers an enormous and diverse consumer base for FMCG (Fast-Moving Consumer Goods) retail. The city's population spans a wide economic spectrum, from dense middle-class colonies to upscale residential enclaves, each generating consistent, high-volume demand for packaged foods, personal care products, household essentials, and daily groceries.
-            </p>
-
-            <p>
-              Delhi's retail landscape is a mix of organized and unorganized formats, but a large share of neighborhood shopping still happens through traditional kirana stores that often lack consistent stock availability, standardized pricing, and hygienic storage practices. This creates a substantial opportunity for a well-run, branded FMCG retail store to capture loyal customers looking for a more reliable shopping experience.
-            </p>
-
-            <p>
-              The city's dense population and high footfall in most residential and commercial areas mean that even a moderately sized FMCG store can achieve strong daily sales volumes. Delhi's extensive metro network, well-developed road infrastructure, and established logistics ecosystem also make supply chain management considerably easier compared to smaller or less-connected cities, ensuring consistent stock replenishment for franchise partners.
-            </p>
-
-            <p>
-              With continuous urban redevelopment, new residential projects, and commercial hubs emerging across areas like Dwarka, Rohini, East Delhi, and South Delhi, there are ongoing opportunities to establish FMCG retail stores in both established and emerging neighborhoods.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Understanding the FMCG Retail Opportunity
-            </h2>
-
-            <p>
-              FMCG retail refers to stores that primarily stock fast-moving consumer goods — items that are purchased frequently and consumed quickly, such as packaged foods, beverages, toiletries, dairy products, and household cleaning items. This category benefits from consistent, high-frequency purchase behavior, meaning customers return regularly rather than making occasional big-ticket purchases.
-            </p>
-
-            <p>
-              Because FMCG products have relatively short purchase cycles, stores in this category typically see faster inventory turnover, which helps maintain healthy cash flow and reduces the risk of unsold stock sitting on shelves for extended periods. This also means that even smaller-format stores can generate meaningful daily revenue if positioned in a high-footfall location.
-            </p>
-
-            <p>
-              Given Delhi's dense urban population and fast-paced lifestyle, an FMCG retail store that offers convenience, consistent stock, and competitive pricing is well positioned to build a loyal, repeat customer base across almost any neighborhood in the city.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Buyzaar Mart is an Ideal Franchise Partner for FMCG Retail
-            </h2>
-
-            <p>
-              Buyzaar Mart's franchise model is built specifically around daily essentials and FMCG products, making it a natural fit for entrepreneurs looking to enter this retail category in Delhi. The brand offers three franchise formats, each suited to a different budget and target location within the city.
-            </p>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Access to an established supply chain covering a wide range of FMCG categories, eliminating the need to negotiate individually with multiple vendors and distributors.</li>
-              <li>Support with store layout planning and product categorization to ensure optimal shelf visibility for fast-moving items.</li>
-              <li>Centralized billing and inventory management systems that simplify daily operations and stock tracking.</li>
-              <li>Standardized branding and signage that build immediate customer recognition and trust.</li>
-              <li>A curated product catalog that reflects current market demand, reducing guesswork around what to stock.</li>
-            </ul>
-
-            <p>
-              Because Buyzaar Mart already has operational systems and vendor relationships in place, franchise partners can focus on running the store efficiently rather than building an FMCG supply chain from the ground up, which would typically take considerable time and negotiation effort for an independent retailer.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Franchise Formats and Price Range
-            </h2>
-
-            <p>
-              Buyzaar Mart offers three franchise formats to suit different budgets, store sizes, and locations across Delhi.
-            </p>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: Requires 600 to 1000 sq. ft. of retail space, suited for compact neighborhood locations with a lower entry investment.</li>
-              <li>Super Mart: Requires 1001 to 3000 sq. ft. of retail space, with a total investment of approximately ₹26.63 lakh at the 1001 sq. ft. entry point, covering stock, interior, software fee, franchise fee, and security deposit.</li>
-              <li>Hyper Mart: Requires 3001 to 8000 sq. ft. of retail space, with a total investment of approximately ₹78.89 lakh at the 3001 sq. ft. entry point, covering stock, interior, software fee, franchise fee, and security deposit.</li>
-            </ul>
-
-            <p>
-              Franchise partners can choose the format that best matches their available budget and target locality in Delhi, with the option to start smaller and scale up to a larger format as the business grows.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Key Benefits of This Franchise Opportunity
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>High purchase frequency: FMCG products are bought regularly, ensuring steady, predictable footfall and revenue.</li>
-              <li>Faster inventory turnover: Quick-moving stock reduces the risk of capital getting tied up in unsold inventory.</li>
-              <li>Established brand trust: Operating under a recognized name builds customer confidence faster than an independent store.</li>
-              <li>Structured training and support: Reduces the learning curve for first-time retail entrepreneurs.</li>
-              <li>Scalable business model: Franchise partners can start with a smaller format and expand into larger formats or additional locations over time.</li>
-              <li>Technology-enabled operations: Point-of-sale and inventory systems simplify daily store management significantly.</li>
+            <ul >
+              <li>
+                Delhi is India&apos;s largest consumer market and one of the most active retail economies in the country. High population density, rising disposable incomes, and a rapid shift toward organized, branded shopping make it a strong ground for an FMCG retail franchise. Here&apos;s a complete look at the FMCG retail franchise opportunity in Delhi with The Buyzaar Mart — investment, store formats, locations, and support.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Market Outlook for 2026
+              Why Delhi Is a Strong Market for an FMCG Retail Franchise
             </h2>
 
-            <p>
-              The FMCG sector in India continues to show resilient, steady growth, driven by rising urban consumption and a gradual shift towards organized, branded retail formats. Consumers, particularly in metro cities like Delhi, increasingly prefer stores that offer consistent product quality, transparent pricing, and a wider variety of choices compared to traditional unorganized shops.
-            </p>
-
-            <p>
-              FMCG products, being non-discretionary daily-use items, remain largely insulated from broader economic slowdowns, making this category one of the more stable and recession-resistant retail segments available to new entrepreneurs. Franchise models further reduce business risk by providing a tested operational blueprint, meaning new owners don't have to navigate the trial-and-error phase that independent retailers typically face.
-            </p>
-
-            <p>
-              Delhi's fast urbanization, growing number of nuclear families, and busy professional lifestyles continue to drive demand for convenient, well-stocked neighborhood stores, supporting long-term growth potential for FMCG retail franchises across the city.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Ideal Locations in Delhi
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Dwarka and surrounding sectors: Large, well-planned residential zones with consistent daily footfall.</li>
-              <li>Rohini and Pitampura: Established middle-class neighborhoods with steady demand for daily essentials.</li>
-              <li>East Delhi (Laxmi Nagar, Preet Vihar, Mayur Vihar): Densely populated areas with strong walk-in customer potential.</li>
-              <li>South Delhi (Saket, Malviya Nagar, Chattarpur): Higher disposable income areas with demand for quality and variety.</li>
-              <li>Near metro stations across the city: Easy accessibility that naturally draws in walk-in and commuter customers.</li>
-              <li>Emerging colonies in outer Delhi: Growing residential pockets with limited organized retail competition so far.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Delhi&apos;s population runs into the crores, spread across dense residential colonies, urban villages, resettlement colonies, and premium gated communities — all generating consistent daily FMCG demand.
+              </li>
+              <li>
+                FMCG and grocery retail is one of the most recession-resistant business categories in India — households buy staples, dairy, and packaged goods every single week, regardless of economic sentiment.
+              </li>
+              <li>
+                Organized retail penetration still varies widely across Delhi — while some pockets have modern trade, large residential neighbourhoods continue to depend on unorganized kirana stores lacking billing transparency and product consistency.
+              </li>
+              <li>
+                Delhi acts as the FMCG distribution hub for the entire NCR region, giving a franchise located here direct access to distributor networks, wholesale markets, and faster restocking cycles.
+              </li>
+              <li>
+                Rising middle-class incomes and a growing preference for hygienic, branded, professionally run stores are steadily shifting consumer behaviour away from unbranded shops.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a Franchise Partner Needs to Get Started
+              What Makes FMCG Retail a Resilient Franchise Category
             </h2>
 
-            <p>
-              Getting started with an FMCG retail franchise requires a commercial retail space that can range from around 600 sq. ft. for a Mini Mart format up to 8000 sq. ft. for a Hyper Mart, depending on the chosen format and target location. The investment generally covers store interior setup, initial inventory stocking, signage, refrigeration equipment where applicable, and billing counter installation.
-            </p>
-
-            <p>
-              Staffing requirements vary by format size, with smaller Mini Mart stores typically needing just one or two employees, while larger formats require a bigger team for billing, stocking, and customer assistance. Buyzaar Mart provides training support to help new hires get up to speed quickly regardless of store size.
-            </p>
-
-            <p>
-              Some familiarity with the target neighborhood's shopping preferences is helpful in stocking an appropriate product mix from day one. Standard business registration requirements, including GST registration and applicable trade licenses, need to be completed before operations can begin. Active daily involvement from the owner in inventory checks, staff supervision, and customer service remains important for smooth operations, particularly during the early months.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Franchise Support Offered by Buyzaar Mart
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Site selection guidance to identify locations with strong footfall potential matching the partner's budget and format.</li>
-              <li>Store layout planning to optimize product visibility and customer flow within the chosen space.</li>
-              <li>Standardized branding elements, including signage and interior design guidelines.</li>
-              <li>Access to a curated FMCG product catalog covering groceries, packaged foods, personal care, and household essentials.</li>
-              <li>Staff training programs covering billing systems, customer handling, and inventory management.</li>
-              <li>Marketing collateral and promotional support to build local awareness and drive footfall.</li>
-              <li>Ongoing operational guidance and periodic business reviews to help optimize inventory turnover and profitability.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                FMCG covers the products every household buys on a recurring, non-discretionary basis: groceries, staples, dairy, packaged foods, beverages, personal care, and household essentials.
+              </li>
+              <li>
+                Because these purchases happen daily rather than seasonally, an FMCG retail store sees steady, Monday-through-Sunday footfall — unlike fashion, entertainment, or food-service franchises that see sharper seasonal swings.
+              </li>
+              <li>
+                Repeat purchase behaviour means a well-run FMCG store builds a loyal, returning customer base within the first few months of opening.
+              </li>
+              <li>
+                Nationally, the FMCG and grocery retail market is valued in the tens of lakh crores and continues to grow steadily even as e-commerce and quick-commerce expand.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Steps to Apply for a Buyzaar Mart Franchise in Delhi
+              The Buyzaar Mart Franchise Models Available in Delhi
             </h2>
 
-            <p>
-              The process begins with submitting an inquiry through the official Buyzaar Mart franchise application channel, sharing your preferred format, budget, and target location within Delhi. This is followed by an initial discussion with the franchise team to clarify investment requirements, timelines, and operational expectations in more detail.
-            </p>
-
-            <p>
-              A site evaluation is then conducted for the proposed location to confirm its suitability based on footfall and local demographics. Once approved, the franchise agreement is finalized, covering terms, support structure, and ongoing responsibilities for both parties.
-            </p>
-
-            <p>
-              Store setup begins with guidance from the Buyzaar Mart team on layout, inventory, and staff onboarding. The store then launches with initial marketing support designed to build local awareness and drive strong opening footfall.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Common Challenges to Prepare For
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Managing inventory carefully is important in FMCG retail, since fast-moving stock requires regular reordering to avoid running out of popular items while avoiding overstocking slower-moving categories.</li>
-              <li>Building a loyal customer base takes time even with brand support, so patience during the initial ramp-up phase is genuinely important.</li>
-              <li>Delhi's retail market is highly competitive, with both organized chains and unorganized kirana stores vying for the same customers, requiring competitive pricing and strong customer service to stand out.</li>
-              <li>Staff turnover in retail tends to be high, so having a basic training and retention plan helps maintain smooth operations.</li>
-              <li>Seasonal demand fluctuations, particularly around festivals, require proactive inventory planning to avoid stockouts during peak shopping periods.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart offers two franchise structures, giving Delhi investors flexibility based on their available time and level of involvement.
+              </li>
+              <li>
+                FOCM (Franchise Owned, Company Managed): You own the store and invest in the setup. Buyzaar Mart manages daily operations, including staffing, inventory, billing, marketing, and audits. This model suits professionals and first-time entrepreneurs who want ownership without the full operational burden. The agreement term is 5 years.
+              </li>
+              <li>
+                FOCO (Franchise Owned, Company Operated): A more passive model where you provide the capital and premises while the company manages staff salaries, procurement, electricity costs, and daily operations entirely. You function as a pure investor, with returns agreed through a revenue-sharing or fixed-return structure.
+              </li>
+              <li>
+                Both models require no prior retail experience and come with complete training, POS software, and ongoing operational support.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Who Should Consider This Franchise Opportunity
+              Store Formats and Investment — Mini Mart, Super Mart, and Hyper Mart
             </h2>
 
-            <p>
-              This franchise model works well for first-time entrepreneurs looking for a structured entry into Delhi's competitive retail market with brand and operational support already in place. It's also a strong fit for individuals who already own or can lease retail space in high-footfall Delhi neighborhoods and want to convert that space into a profitable business.
-            </p>
+            <ul >
+              <li>
+                The Buyzaar Mart offers three store formats, so the franchise can adapt to your budget, available space, and the specific locality you&apos;re targeting in Delhi.
+              </li>
+            </ul>
 
-            <p>
-              Existing kirana store owners looking to upgrade to an organized, branded retail format may find this a natural next step. Investors seeking a steady, recurring-revenue business model within the resilient FMCG category will find this appealing. Local business owners familiar with their neighborhood who want to serve their community through a trusted, well-stocked retail brand are also well positioned to succeed with this model.
-            </p>
+            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 600–1,000 sq ft (minimum carpet area required for any Buyzaar Mart store is 600 sq ft)
+              </li>
+              <li>
+                Investment: Approximately ₹15 lakh to ₹22 lakh, depending on exact store size, location, and fit-out condition
+              </li>
+              <li>
+                Best for: Compact residential colonies, urban villages, and first-time investors
+              </li>
+              <li>
+                Focus: Groceries, FMCG, dairy, personal care, and household products
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 1,000–3,000 sq ft
+              </li>
+              <li>
+                Investment: Starting from approximately ₹26.63 lakh, scaling with size and fit-out
+              </li>
+              <li>
+                Best for: Market areas, mixed-use zones, and higher-footfall residential pockets
+              </li>
+              <li>
+                Focus: Broader product assortment with more SKUs per category and a richer in-store experience
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: 3,000 sq ft and above
+              </li>
+              <li>
+                Investment: Scales upward significantly based on store size and location
+              </li>
+              <li>
+                Best for: High-traffic commercial locations, township markets, and busy Delhi residential zones
+              </li>
+              <li>
+                Focus: One-stop supermarket destination — groceries, FMCG, bakery, dairy, fresh produce, beverages, frozen foods, personal care, stationery, toys, pet care, household essentials, and devotional items
+              </li>
+            </ul>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Across all formats, the investment typically covers the franchise fee (inclusive of 18% GST), interior setup and store assets, POS technology, opening stock, and the security deposit.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              What&apos;s Included in Your Franchise Support Package
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store setup: Layout planning, shelving, racks, display units, lighting, flooring, branding, and signage — designed and installed before your store opens.
+              </li>
+              <li>
+                Technology infrastructure: POS billing, sales tracking, and inventory control systems deployed as part of the franchise setup.
+              </li>
+              <li>
+                Site evaluation: You can propose a Delhi location, and the team assesses population density, purchasing capacity, and local demand before approval.
+              </li>
+              <li>
+                Inventory and supply chain: Your store connects to Buyzaar Mart&apos;s procurement network — FMCG distributor relationships, direct vendor access, and regional sourcing — for competitive pricing and reliable restocking.
+              </li>
+              <li>
+                Buyback protection: Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy, reducing inventory risk.
+              </li>
+              <li>
+                Staff recruitment and training: Complete training on POS operations, daily routines, inventory management, customer engagement, and hygiene compliance before your first customer walks in.
+              </li>
+              <li>
+                Marketing support: Hyperlocal launch campaigns targeting the specific streets, colonies, and blocks around your store.
+              </li>
+              <li>
+                Certifications: FSSAI licensed, GST registered, and MSME certified — building instant credibility with Delhi&apos;s increasingly quality-conscious households.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Best Delhi Locations for an FMCG Retail Franchise
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                High-density residential colonies: Neighbourhoods with a large resident base ensure steady, daily customer traffic for a Mini Mart or Super Mart format.
+              </li>
+              <li>
+                Urban villages and resettlement colonies: Areas still largely served by unorganized kirana stores, offering a clear first-mover advantage for an organized, branded store.
+              </li>
+              <li>
+                Commercial and market zones: Areas near local markets, office complexes, and business districts suit the Super Mart or Hyper Mart format with broader footfall.
+              </li>
+              <li>
+                Near educational institutions: Proximity to schools and colleges brings consistent daily footfall throughout the week.
+              </li>
+              <li>
+                Ground-floor units with parking access: Preferred for any format, since easy accessibility directly improves walk-in conversion.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Product Range Your Store Will Carry
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Staple groceries: rice, wheat, pulses, flour, sugar, edible oils, and spices.
+              </li>
+              <li>
+                Packaged and branded FMCG products across major national and regional categories.
+              </li>
+              <li>
+                Dairy and beverages: milk, curd, butter, cheese, juices, cold drinks, and packaged water.
+              </li>
+              <li>
+                Personal care items: soaps, shampoos, skincare, oral care, and hygiene products.
+              </li>
+              <li>
+                Home care products: detergents, floor cleaners, dishwash liquids, and fresheners.
+              </li>
+              <li>
+                Packaged snacks and confectionery: biscuits, chips, chocolates, and namkeen.
+              </li>
+              <li>
+                Frozen and chilled foods: frozen vegetables, ice cream, and chilled ready-to-eat products.
+              </li>
+              <li>
+                Additional categories for Super Mart and Hyper Mart formats: bakery items, fresh produce, stationery, toys, pet care, and devotional items.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Revenue Potential and Growth Path
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                FMCG retail franchises typically operate on an expected profit margin in the range of 18% to 20%, depending on format, location, and operational efficiency.
+              </li>
+              <li>
+                A well-located Mini Mart in a dense Delhi residential pocket generally stabilizes its footfall within the first 2–3 months as the surrounding colony adopts it as the default nearby store.
+              </li>
+              <li>
+                Under the FOCM model, the franchisee retains the gross margin on every product sold, since the store revenue and customer relationship belong directly to the franchise owner.
+              </li>
+              <li>
+                Under the FOCO model, returns are structured as an agreed revenue share or fixed payout, suited to investors who want income without daily involvement.
+              </li>
+              <li>
+                Profitability typically improves further with multi-unit ownership, as supplier relationships, staff training, and marketing learnings from the first store reduce the cost and risk of opening the next.
+              </li>
+              <li>
+                Because FMCG demand is non-discretionary, the business is considerably less exposed to seasonal dips than fashion, electronics, or food-service categories.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              FMCG Franchise vs. Traditional Kirana Store in Delhi
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Branding and trust: An unregistered kirana store has no recognizable brand or food-safety certification; a Buyzaar Mart franchise is FSSAI licensed, GST registered, and MSME certified from day one.
+              </li>
+              <li>
+                Technology: Kirana stores typically rely on manual billing with no inventory tracking; a Buyzaar Mart store runs on POS billing and real-time inventory systems.
+              </li>
+              <li>
+                Risk protection: Independent store owners absorb the full cost of expired or damaged stock; Buyzaar Mart franchisees are protected through the contractual buyback policy.
+              </li>
+              <li>
+                Marketing: A kirana store depends on word-of-mouth alone; a Buyzaar Mart franchise gets a structured, hyperlocal launch campaign.
+              </li>
+              <li>
+                Consumer preference: Delhi&apos;s increasingly quality-conscious, brand-aware residents are steadily shifting toward organized, hygienic retail over unbranded shops.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Who Should Consider This Franchise
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                First-time entrepreneurs in Delhi looking for a low-risk entry into organized retail.
+              </li>
+              <li>
+                Working professionals seeking a business investment that doesn&apos;t require quitting their job, via the FOCM or FOCO model.
+              </li>
+              <li>
+                Residents of dense colonies or urban villages who understand their own community&apos;s daily shopping needs.
+              </li>
+              <li>
+                Investors with access to a 600 sq ft or larger ground-floor commercial or residential-facing space in Delhi.
+              </li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
@@ -325,52 +423,80 @@ const Content = () => {
 
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">What is FMCG retail, and why is it a good business category?</h3>
-                <p className="mt-2">
-                  FMCG retail involves selling fast-moving daily essentials like groceries and personal care items, offering steady, repeat-customer revenue.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q1. What is the minimum investment for an FMCG retail franchise in Delhi?
+                </h3>
+                <ul >
+                  <li>
+                    A Mini Mart format starts from approximately ₹15 lakh, going up to around ₹22 lakh depending on location and fit-out.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">How much space is required for this franchise in Delhi?</h3>
-                <p className="mt-2">
-                  Space requirements range from 600 sq. ft. for a Mini Mart to 8000 sq. ft. for a Hyper Mart, depending on the format chosen.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q2. What space is required for the Mini Mart format?
+                </h3>
+                <ul >
+                  <li>
+                    A minimum carpet area of 600 sq ft is required, with the format typically ranging up to 1,000 sq ft.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What is the price range for a Buyzaar Mart franchise?</h3>
-                <p className="mt-2">
-                  Investment ranges from a lower amount for Mini Mart to around ₹15.25 lakh for Super Mart and ₹78.89 lakh for Hyper Mart, depending on the format.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q3. Do I need retail experience to apply?
+                </h3>
+                <ul >
+                  <li>
+                    No. Complete training, POS software, and ongoing operational support are provided for first-time franchisees.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Is prior retail experience necessary to start this franchise?</h3>
-                <p className="mt-2">
-                  No, prior experience isn't mandatory. Buyzaar Mart provides training and operational support to new franchise partners.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q4. Can I choose my own store location in Delhi?
+                </h3>
+                <ul >
+                  <li>
+                    Yes. You can propose a location, and the team will assess population density, purchasing capacity, and demand before approval.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Which areas in Delhi are best suited for an FMCG retail store?</h3>
-                <p className="mt-2">
-                  Dwarka, Rohini, East Delhi, and South Delhi neighborhoods offer strong footfall potential for this format.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q5. What happens to unsold or expired stock?
+                </h3>
+                <ul >
+                  <li>
+                    Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What support does Buyzaar Mart provide to franchise partners?</h3>
-                <p className="mt-2">
-                  Support includes site selection, store setup, staff training, product supply, and marketing assistance.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q6. What is the difference between FOCM and FOCO?
+                </h3>
+                <ul >
+                  <li>
+                    FOCM means you own and stay involved while the company manages operations; FOCO means the company operates the store entirely while you function as a pure investor.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Can I start small and expand later?</h3>
-                <p className="mt-2">
-                  Yes, franchise partners can begin with a Mini Mart and scale up to Super Mart or Hyper Mart formats as the business grows.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q7. Can I scale up from a Mini Mart to a larger format later?
+                </h3>
+                <ul >
+                  <li>
+                    Yes. Franchisees commonly start with a Mini Mart and expand to a Super Mart or Hyper Mart, or add additional outlets, as the business grows.
+                  </li>
+                </ul>
               </div>
             </div>
 
@@ -379,37 +505,35 @@ const Content = () => {
                 Start Your FMCG Retail Franchise Journey in Delhi
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                Delhi's dense population, strong logistics network, and growing preference for organized retail make it a compelling market for a branded FMCG store.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Join Buyzaar Mart's franchise network to build a reliable retail business backed by structured support and a proven format.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  info@thebuyzaarmart.com
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="mb-4 list-disc pl-5 space-y-2">
+                <li>
+                  Delhi&apos;s daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
+                </li>
+                <li>
+                  Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
+                </li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
           </div>
 

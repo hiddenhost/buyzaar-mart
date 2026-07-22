@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Daily Needs Store Franchise in Faridabad | Buyzaar Mart",
+  name: "Daily Needs Store Franchise in Faridabad | The Buyzaar Mart",
   description:
-    "Buyzaar Mart offers daily needs store franchise opportunities in Faridabad with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
+    "The Buyzaar Mart offers daily needs store franchise opportunities in Faridabad with Mini Mart, Super Mart, and Hyper Mart formats, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/delhi/daily-needs-store-franchise-in-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -25,25 +25,25 @@ const localBusinessSchema = {
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Franchise Formats in Faridabad",
+    name: "The Buyzaar Mart Daily Needs Store Franchise Formats in Faridabad",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Compact daily needs store format (600 to 1000 sq. ft.) suited for neighborhood retail spaces.",
+          "Entry-level daily needs franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Faridabad.",
       },
       {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "Mid-size format (1001 to 3000 sq. ft.) with an entry investment of approximately ₹26,63,407 at the 1001 sq. ft. entry point.",
+          "Mid-tier daily needs franchise format suited for main market locations, colony chowks, and busy residential sector roads in Faridabad.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
         description:
-          "Large-format supermarket (3001 to 8000 sq. ft.) with an entry investment of approximately ₹78,89,960 at the 3001 sq. ft. entry point.",
+          "Large-format daily needs store franchise suited for high-traffic commercial locations, township market areas, and premium residential zones in Faridabad.",
       },
     ],
   },
@@ -55,58 +55,58 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "How much space is needed for a daily needs store franchise?",
+      name: "What is the minimum investment to start a daily needs store franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately 600 to 1000 sq. ft. of commercial retail space is required for this format.",
+        text: "A Mini Mart format starts from approximately ₹15.25 lakh, covering store setup, stock, and franchise fee.",
       },
     },
     {
       "@type": "Question",
-      name: "Is prior retail experience necessary to start this franchise?",
+      name: "What space do I need for a Mini Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No, prior experience isn't mandatory. Buyzaar Mart provides training and operational support to new franchise partners.",
+        text: "Around 600–1,000 sq ft is sufficient for the Mini Mart format.",
       },
     },
     {
       "@type": "Question",
-      name: "Which areas in Faridabad are best suited for this franchise?",
+      name: "Do I need retail experience to apply?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Sector 15, 16, 21, Greater Faridabad, and areas near the Violet Line metro offer strong footfall potential.",
+        text: "No. Complete training, POS software, and ongoing support are provided, making it suitable for first-time franchisees.",
       },
     },
     {
       "@type": "Question",
-      name: "What support does Buyzaar Mart provide to franchise partners?",
+      name: "Can I choose my own store location in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Support includes site selection, store setup, staff training, product supply, and marketing assistance.",
+        text: "Yes. You can propose a location, and the team will survey it for population density and demand before approval.",
       },
     },
     {
       "@type": "Question",
-      name: "How long does it take to set up a daily needs store?",
+      name: "What happens to unsold or expired stock?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Setup timelines vary by location readiness, but most stores can be operational within a few weeks of agreement finalization.",
+        text: "Expired and damaged goods are taken back under the brand's hassle-free inventory assurance policy.",
       },
     },
     {
       "@type": "Question",
-      name: "Can I expand to a bigger format later?",
+      name: "What is the difference between FOCM and FOCO?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, franchise partners can scale up from Mini Mart to Super Mart or Hyper Mart formats as the business grows.",
+        text: "FOCM means you own and are involved while the company manages operations; FOCO means the company runs the store entirely and you function as a pure investor.",
       },
     },
     {
       "@type": "Question",
-      name: "Is a daily needs store franchise profitable in Faridabad?",
+      name: "Can I upgrade from a Mini Mart to a larger format later?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, given Faridabad's dense population and steady demand for daily essentials, a well-located store has strong earning potential.",
+        text: "Yes. Franchisees commonly start with a Mini Mart and scale up to a Super Mart or Hyper Mart as the business grows.",
       },
     },
   ],
@@ -134,162 +134,329 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Why Faridabad is a Strong Market for a Daily Needs Store Franchise
+              Daily Needs Store Franchise in Faridabad: Complete Investment &amp; Location Guide
             </h1>
 
-            <p>
-              Faridabad, one of the largest industrial and residential hubs in the National Capital Region, has seen consistent population growth over the years, driven by its proximity to Delhi and its expanding industrial base. The city is home to a mix of factory workers, small business owners, corporate employees, and long-settled middle-class families, creating steady, round-the-clock demand for daily essentials and household goods.
-            </p>
-
-            <p>
-              Faridabad's residential landscape spans both older, well-established colonies and newer developments along the Delhi-Mathura Road and Greater Faridabad areas, meaning there's demand across a wide spectrum of neighborhoods. Many of these areas continue to depend on small, unorganized kirana shops that often lack consistent quality, hygiene standards, or a wide product range, leaving a clear gap for a trusted, branded daily needs store.
-            </p>
-
-            <p>
-              The city's improving infrastructure, including the Delhi Metro's Violet Line extension and better road connectivity via the Faridabad-Noida-Ghaziabad corridor, is making supply chain logistics smoother for retail businesses. This also means new residential and commercial pockets are becoming more accessible, opening up additional opportunities for a well-located daily needs store to capture a loyal local customer base.
-
-              As Faridabad continues to grow both residentially and commercially, the demand for reliable, everyday shopping options is expected to rise steadily, making it a favorable time for entrepreneurs to establish an organized retail presence in the city.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a Daily Needs Store Format Works Well Here
-            </h2>
-
-            <p>
-              A daily needs store, by design, focuses on the essentials people need to restock frequently — groceries, dairy, packaged foods, personal care items, and household basics. This format thrives on convenience and proximity rather than large-scale variety, making it a practical fit for dense residential pockets and busy neighborhoods where people prefer quick, nearby shopping over traveling to larger supermarkets.
-
-              Because the store focuses on high-frequency purchase categories, it naturally benefits from repeat visits and predictable, steady sales rather than relying on occasional big-ticket transactions. This also means inventory turnover tends to be faster, reducing the risk of stock sitting unsold for long periods.
-            </p>
-
-            <p>
-              For a city like Faridabad, where daily commuting patterns and long work hours are common among residents, a nearby daily needs store that saves time on routine shopping trips has strong appeal. The format is also relatively simple to operate, making it accessible for entrepreneurs without extensive retail experience.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Buyzaar Mart is a Reliable Franchise Partner
-            </h2>
-
-            <p>
-              Buyzaar Mart offers a franchise model specifically built around daily essentials, making it a natural fit for entrepreneurs looking to open a daily needs store in a growing city like Faridabad. The brand's Mini Mart format, requiring around 600 to 1000 sq. ft. of retail space, is well suited for this kind of neighborhood-focused store.
-            </p>
-
-            <p>
-              Franchise partners get access to an established supply chain covering groceries, packaged foods, dairy, personal care, and household essentials, removing the need to independently negotiate with multiple vendors and suppliers. Buyzaar Mart also assists with store layout planning and product categorization, helping ensure the store stocks a relevant, well-organized mix of daily essentials suited to local demand.
-            </p>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Centralized billing and inventory management systems that simplify daily store operations.</li>
-              <li>A curated product catalog designed around fast-moving daily essentials.</li>
-              <li>Standardized store branding and signage that build immediate customer recognition.</li>
-              <li>Reduced vendor negotiation effort due to the brand's existing supply network.</li>
-            </ul>
-
-            <p>
-              Because the format is designed for smaller retail spaces, the overall investment stays relatively accessible while still offering the credibility and operational backing of an established brand.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Key Benefits of This Franchise Opportunity
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Low entry barrier compared to larger retail formats.</li>
-              <li>Consistent daily footfall and predictable recurring revenue.</li>
-              <li>Immediate brand credibility under the Buyzaar Mart name.</li>
-              <li>Structured training that reduces the learning curve for new owners.</li>
-              <li>Faster path to profitability due to lower fixed costs.</li>
-              <li>Room to grow into a larger format over time.</li>
+            <ul >
+              <li>
+                Faridabad is the largest city in Haryana and one of the most significant urban centres in the National Capital Region. With a population exceeding 18 lakh and a steady influx of families moving into its residential sectors, the city offers strong, largely untapped ground for an organized daily needs store franchise. Here&apos;s a complete breakdown of what a daily needs store franchise in Faridabad with The Buyzaar Mart looks like — investment, formats, locations, and support.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Market Outlook for 2026
+              Why Faridabad Is a Strong Market for a Daily Needs Store Franchise
             </h2>
 
-            <p>
-              India's retail landscape continues its gradual shift towards organized, branded formats, as more consumers prioritize hygiene, consistent pricing, and product variety over traditional unorganized shopping options. Daily needs and grocery retail, in particular, remain largely insulated from broader economic slowdowns, since these are non-discretionary purchases that continue regardless of market conditions.
-
-              Franchise models reduce much of the uncertainty tied to starting an independent business, since the product range, supply chain, and operational systems are already established and proven. Consumers today also increasingly value convenience, preferring a single nearby store that covers most of their daily shopping needs over visiting multiple smaller, specialized shops.
-            </p>
-
-            <p>
-              In Faridabad specifically, where daily commuting and work schedules leave limited time for shopping, this preference for convenient, nearby daily needs stores is expected to continue strengthening, supporting long-term demand for franchise-backed retail formats.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Ideal Locations in Faridabad
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Sector 15, 16, 21: Established residential areas with consistent daily footfall from long-settled communities.</li>
-              <li>Greater Faridabad (Sector 75–89): Rapidly developing residential zones with limited organized retail competition so far.</li>
-              <li>NIT Faridabad and Old Faridabad: Densely populated areas with steady demand from long-term residents and small business owners.</li>
-              <li>Near industrial areas: Strong daily footfall from factory workers and staff looking for quick, convenient shopping options.</li>
-              <li>Areas near Delhi-Mathura Road: Good connectivity supporting both customer access and supply chain logistics.</li>
-              <li>Near metro stations along the Violet Line: Easy accessibility that naturally draws in walk-in customers.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Faridabad&apos;s population of over 18 lakh continues to grow with residents moving in from rural areas, smaller towns, and Delhi into affordable residential sectors.
+              </li>
+              <li>
+                The city spans a wide geographic area — from NIT and the older sectors near NHPC Colony and Sector 14–16 to the rapidly developing localities of Greater Faridabad.
+              </li>
+              <li>
+                Faridabad&apos;s workforce includes industrial workers, IT professionals, government employees, and business families — a broad consumer base shifting toward branded, organized retail.
+              </li>
+              <li>
+                Most neighbourhoods in Faridabad are still served primarily by unorganized kirana stores, leaving a clear gap for a branded, hygienic, technology-enabled store.
+              </li>
+              <li>
+                Daily needs retail is a non-discretionary category — grocery, dairy, and FMCG purchases happen every single day, regardless of season or economic sentiment.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a Franchise Partner Needs to Get Started
+              What Is a Daily Needs Store Franchise?
             </h2>
 
-            <p>
-              Setting up a daily needs store typically requires a commercial retail space of around 600 to 1000 sq. ft., keeping the format accessible for most first-time franchise owners. The investment generally covers interior setup, initial inventory stocking, signage, basic refrigeration equipment, and billing counter installation.
-
-              A small team of one or two staff members for billing, stocking, and customer assistance is usually sufficient for this format, with Buyzaar Mart providing training support to help new hires settle in quickly. Some familiarity with the surrounding neighborhood's shopping preferences helps in stocking an appropriate product mix right from launch.
-            </p>
-
-            <p>
-              Standard business registration requirements, including GST registration and applicable local trade licenses, need to be completed before the store can start operating. As with any retail venture, the owner's active daily involvement in inventory checks, staff supervision, and customer service plays an important role in smooth early operations.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Franchise Support Offered by Buyzaar Mart
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Site selection guidance to help identify a suitable location within your target area and budget.</li>
-              <li>Store layout planning to make the best use of compact retail space.</li>
-              <li>Standardized branding elements, including signage and interior design guidelines.</li>
-              <li>Access to a curated product catalog covering essential daily-use categories.</li>
-              <li>Staff training programs covering billing systems, basic customer handling, and inventory management.</li>
-              <li>Marketing support and promotional materials to build initial awareness within the local community.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                A daily needs store franchise is a retail business where an investor opens and operates a store under an established brand&apos;s name, systems, and support structure.
+              </li>
+              <li>
+                Instead of building a store, supply chain, and brand from scratch, the franchisee gets a tested operating model, technology, and ongoing operational guidance.
+              </li>
+              <li>
+                The category covers groceries, staples, dairy, FMCG, packaged foods, personal care, and household essentials — items every household buys on a recurring basis.
+              </li>
+              <li>
+                Because demand is recurring and non-seasonal, daily needs stores tend to have more predictable revenue cycles than most other retail categories.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Steps to Apply for a Buyzaar Mart Franchise in Faridabad
+              The Buyzaar Mart Franchise Models in Faridabad
             </h2>
 
-            <p>
-              The process begins with submitting an inquiry through the official Buyzaar Mart franchise application channel, sharing your preferred location and budget details for a daily needs store setup in Faridabad. This is followed by an initial discussion with the franchise team to clarify investment requirements, timelines, and mutual expectations.
-
-              A site evaluation is then conducted for the proposed location to confirm it meets footfall and demographic suitability for the format. Once the location is approved, the franchise agreement is finalized, covering terms, support structure, and ongoing responsibilities for both parties.
-            </p>
-
-            <p>
-              Store setup begins with guidance from the Buyzaar Mart team on layout, initial stock ordering, and staff onboarding. The store then launches with initial marketing support aimed at building local awareness and generating strong opening footfall in the surrounding neighborhood.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Common Challenges to Prepare For
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Managing inventory carefully matters in a smaller store format, since limited shelf space means overstocking ties up capital while understocking risks missed sales opportunities.</li>
-              <li>Building a loyal customer base takes time, and patience is needed in the initial months as word-of-mouth and repeat visits gradually build up momentum.</li>
-              <li>Competition from established local kirana stores in older parts of Faridabad may require competitive pricing and better customer service to win over price-sensitive shoppers.</li>
-              <li>Staff retention can be a general challenge in retail, so having a simple training and motivation plan helps maintain consistent service quality over time.</li>
-              <li>Seasonal spikes in demand, especially around festivals, require proactive planning to ensure adequate stock without over-committing limited capital.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart offers two franchise structures, giving Faridabad investors flexibility based on how involved they want to be.
+              </li>
+              <li>
+                FOCM (Franchise Owned, Company Managed): You own the outlet and provide the investment; Buyzaar Mart&apos;s team manages daily operations, staffing, inventory, and technology. Best for investors who want ownership without hands-on daily involvement.
+              </li>
+              <li>
+                FOCO (Franchise Owned, Company Operated): You provide the capital and the space; the company operates the store entirely — including staff salaries, procurement, and daily running. You function as a pure investor, with returns agreed through a revenue-sharing or fixed-return structure.
+              </li>
+              <li>
+                Both models are designed for individuals with no prior retail experience, backed by full training, POS software, and continuous operational support.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Who Should Consider This Franchise Opportunity
+              Store Formats and Investment — Mini Mart, Super Mart, and Hyper Mart
             </h2>
 
-            <p>
-              This format is well suited for first-time entrepreneurs who want to enter organized retail without a large capital commitment. It also appeals to local residents in Faridabad who understand their neighborhood well and want to start a business serving their own community.
+            <ul >
+              <li>
+                The Buyzaar Mart offers three store formats in Faridabad, so the business model can adapt to your budget, available space, and locality demand.
+              </li>
+            </ul>
 
-              Individuals who already own or can lease a small commercial space in a high-footfall Faridabad locality may find this an efficient way to convert that asset into a revenue-generating business. Existing local grocery or kirana store owners looking to formalize and rebrand their business under an established name may also find this format a natural upgrade path.
-            </p>
+            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 600–1,000 sq ft
+              </li>
+              <li>
+                Investment: Starting from approximately ₹15.25 lakh
+              </li>
+              <li>
+                Best for: Compact residential lanes, colony markets, and first-time investors
+              </li>
+              <li>
+                Focus: Fast-moving daily essentials — staples, packaged foods, dairy, snacks, beverages, personal care, and household basics
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 1,001–3,000 sq ft
+              </li>
+              <li>
+                Investment: Starting from approximately ₹26.63 lakh, scaling with size and fit-out
+              </li>
+              <li>
+                Best for: Higher-footfall residential and commercial pockets that can support a broader assortment
+              </li>
+              <li>
+                Focus: Full-service neighbourhood supermarket range across groceries, FMCG, dairy, and household categories
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: 3,000 sq ft and above
+              </li>
+              <li>
+                Investment: Scales upward significantly based on store size and location
+              </li>
+              <li>
+                Best for: High-traffic commercial locations, township markets, and busy residential zones in Greater Faridabad
+              </li>
+              <li>
+                Focus: The widest assortment — fresh produce, frozen foods, personal care, home care, devotional items, toys, and pet care, in addition to everything in the Super Mart range
+              </li>
+            </ul>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Across all formats, the investment typically covers the franchise fee, store interiors and fit-out, POS billing technology, initial inventory, branding and signage, and the security deposit.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              What&apos;s Included in Your Franchise Support Package
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store setup: Layout design, branding, signage, POS billing system, and inventory tracking technology, all installed before your store opens.
+              </li>
+              <li>
+                Site approval: You can propose a location in Faridabad, and the team surveys it, assessing population density, purchasing capacity, and local demand before approval.
+              </li>
+              <li>
+                Inventory calibration: Opening stock and ongoing restocking matched to your locality&apos;s specific purchase patterns.
+              </li>
+              <li>
+                Buyback protection: Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy, reducing inventory risk.
+              </li>
+              <li>
+                Staff recruitment and training: Complete training on billing, customer service, and daily store operations — no prior experience required.
+              </li>
+              <li>
+                Marketing support: Hyperlocal launch campaigns targeting the specific streets and residential blocks around your store.
+              </li>
+              <li>
+                Certifications: FSSAI licensed, GST registered, and MSME certified, giving instant credibility with Faridabad&apos;s increasingly quality-conscious households.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Best Faridabad Locations for a Daily Needs Store Franchise
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                NIT (North Industrial Town) and older sectors: Established, densely populated zones with consistent daily footfall and long-settled residential demand.
+              </li>
+              <li>
+                Sector 14–16 and NHPC Colony: Long-standing residential pockets currently served mostly by unorganized stores.
+              </li>
+              <li>
+                Greater Faridabad: Rapidly developing new townships and residential sectors where organized retail options are still limited.
+              </li>
+              <li>
+                Township and commercial markets: Larger commercial locations in Greater Faridabad suited to the Super Mart or Hyper Mart format.
+              </li>
+              <li>
+                Residential colony markets across the city: Ground-floor shops in colony markets offer strong walk-in footfall for a Mini Mart format at lower commercial rents.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Product Range Your Store Will Carry
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Grocery and staples: rice, wheat flour, pulses, oils, sugar, spices, and grains.
+              </li>
+              <li>
+                Packaged and processed foods: snacks, biscuits, noodles, ready-to-eat items, and cereals.
+              </li>
+              <li>
+                Beverages: juices, soft drinks, tea, coffee, and packaged water.
+              </li>
+              <li>
+                Dairy products: milk, butter, cheese, curd, and paneer.
+              </li>
+              <li>
+                Personal care and hygiene: soaps, shampoos, toothpaste, skincare, and sanitary products.
+              </li>
+              <li>
+                Household cleaning and care: detergents, floor cleaners, dishwash, and fresheners.
+              </li>
+              <li>
+                Baby care: diapers, baby food, and hygiene items.
+              </li>
+              <li>
+                Frozen foods, bakery items, and fresh fruits and vegetables (for applicable formats).
+              </li>
+              <li>
+                Stationery and utility items, plus devotional items, toys, and pet care essentials in the Hyper Mart format.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why Choose The Buyzaar Mart Over an Independent Store
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Established brand trust: Faridabad customers recognize organized, branded retail and prefer it over unregistered local shops.
+              </li>
+              <li>
+                Structured operating system: A tested Standard Operating Process for setup, inventory, staffing, and marketing — not just a brand name to figure out alone.
+              </li>
+              <li>
+                Reduced inventory risk: The buyback guarantee on expired and damaged stock protects your margins from a common retail loss.
+              </li>
+              <li>
+                Scalability: Many franchisees start with a Mini Mart, build local trust and operational confidence, and later scale up to a Super Mart, Hyper Mart, or additional outlets.
+              </li>
+              <li>
+                Full compliance: FSSAI, GST, and MSME certification handled as part of the standard setup process.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Revenue Potential and Growth Path
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Daily needs stores earn from two consistent sources: high-frequency repeat purchases (dairy, staples, snacks) and steady basket-size growth as customer trust builds over time.
+              </li>
+              <li>
+                A well-located Mini Mart in a dense Faridabad residential pocket typically sees its footfall stabilize within the first 2–3 months as the surrounding society or colony adopts it as their default store.
+              </li>
+              <li>
+                Under the FOCO model, returns are structured as a revenue share or fixed payout agreed with the company, so the investor&apos;s income is tied to the store&apos;s ongoing sales performance.
+              </li>
+              <li>
+                Under the FOCM model, the franchisee retains the gross margin on every product sold, since the customer relationship and store revenue belong directly to the franchise owner.
+              </li>
+              <li>
+                Profitability improves further once a franchisee operates more than one outlet, since staff training, supplier relationships, and marketing learnings from the first store carry over to the next.
+              </li>
+              <li>
+                Because the category is non-discretionary, daily needs stores are far less exposed to seasonal dips than fashion, electronics, or food-service franchises — grocery and FMCG demand holds steady across the year.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Daily Needs Store vs. Traditional Kirana Store in Faridabad
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Branding and trust: A kirana store operates without a recognizable brand or food-safety certification; a Buyzaar Mart franchise is FSSAI licensed, GST registered, and MSME certified from day one.
+              </li>
+              <li>
+                Technology: Kirana stores typically rely on manual billing and no inventory tracking; a Buyzaar Mart store runs on POS billing and real-time inventory systems.
+              </li>
+              <li>
+                Risk protection: Independent store owners absorb the full cost of expired or damaged stock themselves; Buyzaar Mart franchisees are protected through the buyback policy.
+              </li>
+              <li>
+                Marketing: A kirana store depends purely on word-of-mouth; a Buyzaar Mart franchise gets a structured, hyperlocal launch campaign and ongoing marketing support.
+              </li>
+              <li>
+                Consistency: Product range, pricing strategy, and store experience are standardized across a franchise, building the kind of repeat trust that an unbranded store struggles to establish quickly.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Who Should Consider This Franchise
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                First-time entrepreneurs in Faridabad looking for a low-risk entry into organized retail.
+              </li>
+              <li>
+                Working professionals seeking a business investment that doesn&apos;t require quitting their job (via the FOCM or FOCO model).
+              </li>
+              <li>
+                Residents of established or newly developing sectors who understand their own community&apos;s daily shopping needs.
+              </li>
+              <li>
+                Investors with access to a 600 sq ft or larger commercial or residential-facing space in Faridabad.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              How to Get Started
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Visit thebuyzaarmart.com/franchise and submit a franchise inquiry, or call the number below directly.
+              </li>
+              <li>
+                Propose your preferred Faridabad location; the team will conduct a site survey and demand assessment.
+              </li>
+              <li>
+                Choose your format — Mini Mart, Super Mart, or Hyper Mart — based on your budget and available space.
+              </li>
+              <li>
+                Sign the franchise agreement and begin the 8–12 week setup process covering store fit-out, staff training, and launch marketing.
+              </li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
@@ -297,91 +464,117 @@ const Content = () => {
 
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">How much space is needed for a daily needs store franchise?</h3>
-                <p className="mt-2">
-                  Approximately 600 to 8000 sq. ft. of commercial retail space is required for this format.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q1. What is the minimum investment to start a daily needs store franchise in Faridabad?
+                </h3>
+                <ul >
+                  <li>
+                    A Mini Mart format starts from approximately ₹15.25 lakh, covering store setup, stock, and franchise fee.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Is prior retail experience necessary to start this franchise?</h3>
-                <p className="mt-2">
-                  No, prior experience isn't mandatory. Buyzaar Mart provides training and operational support to new franchise partners.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q2. What space do I need for a Mini Mart?
+                </h3>
+                <ul >
+                  <li>
+                    Around 600–1,000 sq ft is sufficient for the Mini Mart format.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Which areas in Faridabad are best suited for this franchise?</h3>
-                <p className="mt-2">
-                  Sector 15, 16, 21, Greater Faridabad, and areas near the Violet Line metro offer strong footfall potential.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q3. Do I need retail experience to apply?
+                </h3>
+                <ul >
+                  <li>
+                    No. Complete training, POS software, and ongoing support are provided, making it suitable for first-time franchisees.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What support does Buyzaar Mart provide to franchise partners?</h3>
-                <p className="mt-2">
-                  Support includes site selection, store setup, staff training, product supply, and marketing assistance.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q4. Can I choose my own store location in Faridabad?
+                </h3>
+                <ul >
+                  <li>
+                    Yes. You can propose a location, and the team will survey it for population density and demand before approval.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">How long does it take to set up a daily needs store?</h3>
-                <p className="mt-2">
-                  Setup timelines vary by location readiness, but most stores can be operational within a few weeks of agreement finalization.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q5. What happens to unsold or expired stock?
+                </h3>
+                <ul >
+                  <li>
+                    Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Can I expand to a bigger format later?</h3>
-                <p className="mt-2">
-                  Yes, franchise partners can scale up from Mini Mart to Super Mart or Hyper Mart formats as the business grows.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q6. What is the difference between FOCM and FOCO?
+                </h3>
+                <ul >
+                  <li>
+                    FOCM means you own and are involved while the company manages operations; FOCO means the company runs the store entirely and you function as a pure investor.
+                  </li>
+                </ul>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Is a daily needs store franchise profitable in Faridabad?</h3>
-                <p className="mt-2">
-                  Yes, given Faridabad's dense population and steady demand for daily essentials, a well-located store has strong earning potential.
-                </p>
+                <h3 className="font-medium text-gray-900">
+                  Q7. Can I upgrade from a Mini Mart to a larger format later?
+                </h3>
+                <ul >
+                  <li>
+                    Yes. Franchisees commonly start with a Mini Mart and scale up to a Super Mart or Hyper Mart as the business grows.
+                  </li>
+                </ul>
               </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Daily Needs Store Journey in Faridabad
+                Start Your Daily Needs Store Franchise Journey in Faridabad
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                Faridabad's residential density and steady daily demand make it a strong market for a trusted neighborhood daily needs store.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Join Buyzaar Mart's franchise network to build a reliable retail business backed by structured support and a proven format.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  info@thebuyzaarmart.com
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="mb-4 list-disc pl-5 space-y-2">
+                <li>
+                  Faridabad&apos;s daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
+                </li>
+                <li>
+                  Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
+                </li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
           </div>
 

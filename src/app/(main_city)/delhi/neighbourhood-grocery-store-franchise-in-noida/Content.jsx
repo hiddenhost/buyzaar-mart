@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Neighbourhood Grocery Franchise in Noida | Buyzaar Mart",
+  name: "Neighbourhood Grocery Store Franchise in Noida | The Buyzaar Mart",
   description:
-    "Buyzaar Mart offers neighbourhood grocery franchise opportunities in Noida with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
+    "The Buyzaar Mart offers neighbourhood grocery store franchise opportunities in Noida with Mini Mart, Super Mart, and Hyper Mart formats, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/delhi/neighbourhood-grocery-store-franchise-in-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -25,25 +25,25 @@ const localBusinessSchema = {
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Franchise Formats in Noida",
+    name: "The Buyzaar Mart Neighbourhood Grocery Store Franchise Formats in Noida",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Compact format (600 to 1000 sq. ft.) suited for residential neighbourhood retail spaces.",
+          "Entry-level neighbourhood grocery franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Noida.",
       },
       {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "Mid-size format (1001 to 3000 sq. ft.) with an entry investment of approximately ₹26,63,407 at the 1001 sq. ft. entry point.",
+          "Mid-tier neighbourhood grocery franchise format suited for main market locations, colony chowks, and busy residential sector roads in Noida.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
         description:
-          "Large-format supermarket (3001 to 8000 sq. ft.) with an entry investment of approximately ₹78,89,960 at the 3001 sq. ft. entry point.",
+          "Large-format neighbourhood grocery store franchise suited for high-traffic commercial locations, township market areas, and premium residential zones in Noida.",
       },
     ],
   },
@@ -55,58 +55,58 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "How much space is required for a neighbourhood grocery store franchise?",
+      name: "What mainly determines the cost of a grocery franchise in Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately 600 to 1000 sq. ft. of commercial retail space is required for this format.",
+        text: "Store size, location quality, setup needs, and initial stock levels are the main factors, with Mini Mart costs typically ranging from ₹15 lakh to ₹22 lakh.",
       },
     },
     {
       "@type": "Question",
-      name: "Is prior retail experience necessary to start this franchise?",
+      name: "What space is required for a Mini Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No, prior experience isn't mandatory. Buyzaar Mart provides training and operational support to new franchise partners.",
+        text: "Approximately 600–1,000 sq ft is sufficient for the Mini Mart format.",
       },
     },
     {
       "@type": "Question",
-      name: "Which sectors in Noida are best suited for this franchise?",
+      name: "Do I need retail experience to apply?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Sector 50–52, Noida Extension, Sector 137, and Sector 168 offer strong residential footfall potential.",
+        text: "No. Complete training and ongoing operational support are provided for first-time franchisees.",
       },
     },
     {
       "@type": "Question",
-      name: "What support does Buyzaar Mart provide to franchise partners?",
+      name: "Can I start small to manage my investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Support includes site selection, store setup, staff training, product supply, and marketing assistance.",
+        text: "Yes. Compact Mini Mart formats suit neighbourhood locations and keep initial costs lower, with room to scale later.",
       },
     },
     {
       "@type": "Question",
-      name: "How long does it take to build a loyal customer base?",
+      name: "How does location affect my investment and returns?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It varies, but neighbourhood stores typically see steady growth in repeat customers within the first few months of operation.",
+        text: "Prime areas raise setup costs but usually deliver higher footfall and faster returns compared to secondary locations.",
       },
     },
     {
       "@type": "Question",
-      name: "Can I expand to a bigger format later?",
+      name: "What happens to unsold or expired stock?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, franchise partners can scale up from Mini Mart to Super Mart or Hyper Mart formats as the business grows.",
+        text: "Expired and damaged goods are taken back under the brand's hassle-free inventory assurance policy.",
       },
     },
     {
       "@type": "Question",
-      name: "Is a neighbourhood grocery store franchise profitable in Noida?",
+      name: "Can I upgrade from a Mini Mart to a larger format later?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, given Noida's sector-based residential planning and steady demand for daily essentials, a well-located store has strong earning potential.",
+        text: "Yes. Many franchisees start with a Mini Mart and later scale up to a Super Mart or Hyper Mart as the business grows.",
       },
     },
   ],
@@ -134,217 +134,364 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Why Noida&apos;s Neighbourhoods are Ideal for a Local Grocery Franchise
+              Neighbourhood Grocery Store Franchise in Noida: Complete Investment &amp; Location Guide
             </h1>
 
+            {/* Keep this first paragraph as-is (not converted to bullets) */}
             <p>
-              Noida has grown into a city of well-planned residential sectors, each functioning almost like a self-contained neighbourhood with its own housing societies, markets, and daily rhythms. This sector-based layout means residents largely shop close to home, making neighbourhood-level grocery stores an essential part of daily life rather than an occasional convenience.
-            </p>
-
-            <p>
-              The city&apos;s population includes a large share of working professionals, IT employees, and families living in mid-to-high-rise apartments, most of whom prefer quick, nearby shopping options over traveling across sectors for daily essentials. Many of these residential pockets, especially newer sectors and extensions, still rely on scattered, unorganized kirana shops that often lack consistent stock, hygienic storage, and standardized pricing.
-            </p>
-
-            <p>
-              Noida&apos;s well-developed internal road network and sector-wise planning make it easy for a neighbourhood store to become a fixture within its immediate community, building strong repeat footfall from residents who value convenience over variety. As more residential towers and societies continue to come up across sectors like Noida Extension, Sector 137, and Sector 168, the opportunity for a trusted, branded neighbourhood grocery store keeps expanding.
+              Noida is one of the fastest-growing cities in the National Capital Region, with a rapidly expanding base of families, professionals, and residential sectors. As more households settle into Noida&apos;s growing neighbourhoods, the demand for a reliable, branded, daily-needs grocery store keeps rising. Here&apos;s a complete guide to starting a neighbourhood grocery store franchise in Noida with The Buyzaar Mart — investment, formats, locations, and support.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What Makes a Neighbourhood Grocery Store Different
+              Why Noida Is a Strong Market for a Neighbourhood Grocery Franchise
             </h2>
 
-            <p>
-              A neighbourhood grocery store is built around proximity and convenience rather than scale. Its core purpose is to serve the immediate residential community with daily essentials — groceries, dairy, packaged foods, personal care items, and household basics — without requiring customers to travel far or plan elaborate shopping trips.
-            </p>
-
-            <p>
-              This format thrives on relationship-building with local residents, since a well-run neighbourhood store often becomes the default shopping destination for an entire housing society or block. Customers tend to visit frequently, sometimes daily, for smaller basket sizes, which means consistent footfall and predictable revenue rather than large but infrequent purchases.
-            </p>
-
-            <p>
-              Because the store caters to a defined, local catchment area, inventory planning can be more precise, focusing on products that match the specific preferences and needs of that community. This localized approach also reduces the risk of stock mismatches that larger, less-targeted stores sometimes face.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Buyzaar Mart is a Strong Partner for This Format
-            </h2>
-
-            <p>
-              Buyzaar Mart&apos;s Mini Mart format, designed for compact spaces of roughly 600 to 1000 sq. ft., is well suited to the neighbourhood grocery store model, allowing franchise partners to set up within residential sectors without requiring large commercial spaces.
-            </p>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Access to an established supply chain covering daily essentials, packaged foods, dairy, and household items.</li>
-              <li>Support with store layout planning tailored to smaller retail spaces.</li>
-              <li>Centralized billing and inventory management systems that simplify daily operations.</li>
-              <li>Standardized branding and signage that help the store stand out from unorganized local competitors.</li>
-              <li>A curated product catalog designed around everyday, high-frequency purchase categories.</li>
-            </ul>
-
-            <p>
-              Because Buyzaar Mart already has supplier relationships and operational systems in place, franchise partners can focus on building strong local customer relationships rather than managing supply chain logistics from scratch.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Key Benefits of This Franchise Opportunity
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Strong local customer loyalty from frequent visits by the same residents.</li>
-              <li>Lower investment requirement due to the compact format.</li>
-              <li>Consistent daily footfall from proximity-driven shopping habits.</li>
-              <li>Faster brand trust under the Buyzaar Mart identity.</li>
-              <li>Simpler operations for first-time owners.</li>
-              <li>Reduced marketing effort through residential word-of-mouth.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Noida&apos;s population mix of families, working professionals, and growing residential sectors creates steady, recurring demand for daily groceries and essentials.
+              </li>
+              <li>
+                Consumer preferences in the city are shifting toward organized retail that offers convenience, hygiene, and quality — a clear structural advantage for a branded franchise.
+              </li>
+              <li>
+                More households, commercial offices, and residential complexes are emerging across Noida, pushing daily-needs demand higher every year.
+              </li>
+              <li>
+                The Buyzaar Mart is headquartered right in Noida (Sector-6), giving Noida franchisees direct access to the brand&apos;s operations, supply chain, and support teams.
+              </li>
+              <li>
+                Grocery retail is a recession-resistant category — households buy staples, dairy, and packaged goods every week regardless of broader economic conditions.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Market Outlook for 2026
+              What Is a Neighbourhood Grocery Store Franchise?
             </h2>
 
-            <p>
-              Consumer shopping habits continue to shift towards convenience and proximity, especially in cities like Noida where residents often juggle demanding work schedules with limited free time. This trend favors well-located neighbourhood stores over larger stores that require more travel time and planning.
-            </p>
-
-            <p>
-              Organized retail formats are gaining preference over unorganized shops as customers increasingly value hygiene, consistent pricing, and product reliability. Neighbourhood grocery stores, being rooted in daily-use categories, remain largely insulated from broader economic fluctuations, since these purchases continue regardless of market conditions.
-            </p>
-
-            <p>
-              As Noida&apos;s residential sectors continue to fill up with new societies and families, the demand for dependable, nearby grocery options is expected to keep growing steadily, supporting long-term viability for franchise-backed neighbourhood stores.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Ideal Locations in Noida
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Sector 50, 51, 52: Established residential neighbourhoods with steady demand from long-settled communities.</li>
-              <li>Noida Extension (Greater Noida West): Rapidly growing residential hub with new societies and limited organized retail so far.</li>
-              <li>Sector 137, 168: Emerging areas with new housing projects and increasing population density.</li>
-              <li>Sector 62, 63: High concentration of working professionals seeking quick, convenient shopping options.</li>
-              <li>Near residential society gates and community markets: Direct visibility to walk-in residents on their daily routes.</li>
-              <li>Areas with limited existing organized retail: Locations where a branded store can quickly become the preferred shopping option.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                A neighbourhood grocery store franchise is a retail business where the investor opens and owns a store under an established brand&apos;s systems, technology, and support structure.
+              </li>
+              <li>
+                Instead of building supply chains, branding, and operations from scratch, the franchisee gets a tested operating model along with ongoing guidance.
+              </li>
+              <li>
+                The category covers daily groceries, fresh items, packaged foods, drinks, cleaning products, and personal essentials — items every household in the neighbourhood needs on a recurring basis.
+              </li>
+              <li>
+                Because purchases are frequent and non-discretionary, a well-located neighbourhood store tends to build loyal, repeat footfall faster than most other retail categories.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a Franchise Partner Needs to Get Started
+              The Buyzaar Mart Franchise Models in Noida
             </h2>
 
-            <p>
-              Setting up a neighbourhood grocery store typically requires a commercial retail space of around 600 to 1000 sq. ft., ideally located near or within a residential sector for maximum convenience to local customers. The investment generally covers interior setup, initial inventory stocking, signage, basic refrigeration equipment, and billing counter installation.
-            </p>
-
-            <p>
-              A small team of one or two staff members for billing, stocking, and customer assistance is usually sufficient for this format, with Buyzaar Mart providing training support to help new hires settle in quickly. Understanding the specific preferences of the local resident base helps in stocking a relevant product mix from day one, which is especially important for a store built around a defined neighbourhood catchment.
-            </p>
-
-            <p>
-              Standard business registration requirements, including GST registration and applicable local trade licenses, need to be completed before the store can start operating. Active daily involvement from the owner in inventory checks, staff supervision, and customer service plays an important role in building the kind of trust that keeps neighbourhood customers coming back.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Franchise Support Offered by Buyzaar Mart
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Site selection guidance to help identify a suitable neighbourhood location within the franchise partner&apos;s target sector.</li>
-              <li>Store layout planning tailored to compact retail spaces for optimal product visibility.</li>
-              <li>Standardized branding elements, including signage and interior design guidelines.</li>
-              <li>Access to a curated product catalog covering everyday grocery and household essentials.</li>
-              <li>Staff training programs covering billing systems, customer handling, and inventory management.</li>
-              <li>Marketing support and promotional materials to build awareness within the local residential community.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart offers two franchise structures, giving Noida investors flexibility based on how involved they want to be.
+              </li>
+              <li>
+                FOCM (Franchise Owned, Company Managed): You own the store and invest in the setup, while Buyzaar Mart manages daily operations — staffing, inventory, billing, marketing, and audits. Ideal for professionals and first-time entrepreneurs who want ownership without full day-to-day involvement. The agreement term is 5 years.
+              </li>
+              <li>
+                FOCO (Franchise Owned, Company Operated): A more passive model where you provide capital and premises while the company manages staff salaries, procurement, and daily operations entirely. You function as a pure investor, with returns agreed through a revenue-sharing or fixed-return structure.
+              </li>
+              <li>
+                Both models are designed for individuals without prior retail experience, backed by full training, POS software, and continuous operational support.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Steps to Apply for a Buyzaar Mart Franchise in Noida
+              Store Formats and Investment — Mini Mart, Super Mart, and Hyper Mart
             </h2>
 
-            <p>
-              The process begins with submitting an inquiry through the official Buyzaar Mart franchise application channel, sharing your preferred sector and location details in Noida. This is followed by an initial discussion with the franchise team to clarify investment requirements, timelines, and mutual expectations.
-            </p>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart offers three store formats in Noida, allowing the business model to match your available space and investment capacity.
+              </li>
+            </ul>
 
-            <p>
-              A site evaluation is then conducted for the proposed location to confirm it meets footfall and demographic suitability for a neighbourhood store format. Once approved, the franchise agreement is finalized, covering terms, support structure, and ongoing responsibilities for both parties.
-            </p>
+            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 600–1,000 sq ft
+              </li>
+              <li>
+                Investment: Total setup costs range from approximately ₹15 lakh to ₹22 lakh
+              </li>
+              <li>
+                What&apos;s covered: Store infrastructure, initial inventory, franchise fees, and technology systems
+              </li>
+              <li>
+                Best for: Compact residential streets, colony markets, and first-time investors
+              </li>
+            </ul>
 
-            <p>
-              Store setup begins with guidance from the Buyzaar Mart team on layout, initial stock ordering, and staff onboarding. The store then launches with initial marketing support aimed at building awareness within the immediate residential community and generating strong opening footfall.
-            </p>
+            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 1,001–3,000 sq ft
+              </li>
+              <li>
+                Investment: Starting from approximately ₹26.63 lakh, scaling with size and fit-out
+              </li>
+              <li>
+                Best for: Higher-footfall residential sectors and mixed-use commercial pockets
+              </li>
+              <li>
+                Focus: A broader product assortment with more SKUs per category and a richer in-store experience
+              </li>
+            </ul>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Common Challenges to Prepare For
-            </h2>
+            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: 3,000 sq ft and above
+              </li>
+              <li>
+                Investment: Scales upward significantly based on store size and location
+              </li>
+              <li>
+                Best for: High-traffic commercial locations and busy residential sectors of Noida and Greater Noida
+              </li>
+              <li>
+                Focus: The widest assortment — fresh produce, frozen foods, personal care, home care, and specialty categories, in addition to everything in the Super Mart range
+              </li>
+            </ul>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Building trust within a specific neighbourhood takes time.</li>
-              <li>Managing inventory carefully matters because shelf space is limited.</li>
-              <li>Competition from existing local kirana stores may require better pricing and service.</li>
-              <li>Staff retention can be a general challenge in retail.</li>
-              <li>Seasonal spikes in demand require proactive planning to avoid stock issues.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Across all formats, the investment covers store infrastructure and interior fit-out, initial inventory, the franchise fee, POS and technology systems, and the security deposit.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Who Should Consider This Franchise Opportunity
+              What&apos;s Included in Your Franchise Support Package
             </h2>
 
-            <p>
-              This format is well suited for individuals who already live in or are familiar with a specific Noida sector and want to serve that community directly. It also appeals to first-time entrepreneurs looking for a low-risk entry into organized retail with brand and operational support already in place.
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store setup: Layout design, branding, POS billing systems, and technology infrastructure deployed before your store opens.
+              </li>
+              <li>
+                Site evaluation: Location, real estate cost, and store size are assessed together, since prime commercial areas near residential societies command higher rents but deliver better footfall.
+              </li>
+              <li>
+                Supply chain and sourcing: Centralized procurement delivers competitive pricing, localized assortments, and reliable inventory availability.
+              </li>
+              <li>
+                Buyback protection: Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy, protecting franchisee margins.
+              </li>
+              <li>
+                Staff recruitment and training: Comprehensive training covering inventory management, customer service, store operations, billing systems, and marketing strategies.
+              </li>
+              <li>
+                Marketing support: Local promotions and hyperlocal campaigns to build awareness in your immediate catchment from day one.
+              </li>
+              <li>
+                Technology and analytics: Modern POS, inventory tracking, and performance analytics included as part of the franchise package.
+              </li>
+              <li>
+                Certifications: FSSAI licensed, GST registered, and MSME certified, giving your store instant credibility with Noida&apos;s increasingly quality-conscious residents.
+              </li>
+            </ul>
 
-              Residents who own or can lease a small commercial space within their own residential sector may find this an efficient way to convert that asset into a steady revenue-generating business. Existing local kirana store owners looking to formalize and rebrand their business under an established name may also find this format a natural upgrade path.
-            </p>
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Best Noida Locations for a Neighbourhood Grocery Franchise
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Established residential sectors: Dense, settled sectors with consistent daily footfall and stable resident demand.
+              </li>
+              <li>
+                New residential complexes and townships: Rapidly filling housing projects across Noida and Greater Noida where organized grocery retail is still catching up with population growth.
+              </li>
+              <li>
+                Colony and society markets: Small commercial clusters within or at the entrance of residential societies, ideal for a Mini Mart format with strong walk-in footfall.
+              </li>
+              <li>
+                Mixed-use commercial pockets: Areas combining residential and office footfall, well suited to a Super Mart or Hyper Mart format.
+              </li>
+              <li>
+                Ground-floor units with easy accessibility: Preferred across all formats, since visible, accessible shops convert walk-in traffic more effectively.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Product Categories Your Store Will Carry
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Daily groceries and fresh items: staples, grains, pulses, oils, and seasonal fresh produce where applicable.
+              </li>
+              <li>
+                Packaged foods and drinks: snacks, biscuits, noodles, beverages, and packaged water.
+              </li>
+              <li>
+                Dairy products: milk, curd, butter, paneer, and cheese.
+              </li>
+              <li>
+                Cleaning and personal essentials: detergents, dishwash, floor cleaners, soaps, shampoos, and toiletries.
+              </li>
+              <li>
+                Household basics: cleaning supplies, fresheners, and everyday utility items.
+              </li>
+              <li>
+                Additional categories for Super Mart and Hyper Mart formats: frozen foods, bakery items, personal care ranges, and specialty products.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Revenue Potential and Growth Path
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                A well-located Mini Mart in a dense Noida residential sector typically stabilizes its footfall within the first 2–3 months as the surrounding community adopts it as their default store.
+              </li>
+              <li>
+                Under the FOCM model, the franchisee retains the gross margin on every product sold, since the store revenue and customer relationship belong directly to the franchise owner.
+              </li>
+              <li>
+                Under the FOCO model, returns are structured as an agreed revenue share or fixed payout, suited to investors who prefer a passive role.
+              </li>
+              <li>
+                Profitability generally improves with multi-unit ownership, as supplier relationships, staff training, and marketing learnings from the first store lower the cost of opening subsequent stores.
+              </li>
+              <li>
+                Because grocery demand is non-discretionary, the business sees far less seasonal fluctuation than fashion, electronics, or food-service franchises.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Neighbourhood Grocery Franchise vs. Traditional Kirana Store in Noida
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Branding and trust: A kirana store operates without a recognizable brand or food-safety certification; a Buyzaar Mart franchise is FSSAI licensed, GST registered, and MSME certified from day one.
+              </li>
+              <li>
+                Technology: Kirana stores typically rely on manual billing with no inventory tracking; a Buyzaar Mart store runs on POS billing and real-time inventory systems.
+              </li>
+              <li>
+                Risk protection: Independent store owners absorb the full cost of expired or damaged stock; Buyzaar Mart franchisees are protected through the buyback policy.
+              </li>
+              <li>
+                Consistency: Product range, pricing strategy, and store experience are standardized across the brand, building the kind of repeat trust that unbranded stores take much longer to establish.
+              </li>
+              <li>
+                Support system: A kirana store owner manages everything alone; a Buyzaar Mart franchisee has structured support across setup, training, supply chain, and marketing.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Factors That Influence Your Actual Investment
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Location and real estate cost: Prime commercial areas near residential societies command higher rents but typically deliver higher footfall and faster returns.
+              </li>
+              <li>
+                Store size within your chosen format: A 600 sq ft Mini Mart costs less to set up than a 1,000 sq ft store, even within the same format.
+              </li>
+              <li>
+                Initial stock levels: Opening inventory is calibrated to the specific locality&apos;s purchase patterns and format size.
+              </li>
+              <li>
+                Ongoing costs after launch: Utilities, staffing, and restocking are the primary recurring costs, managed through Buyzaar Mart&apos;s operational systems for efficiency.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Who Should Consider This Franchise
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                First-time entrepreneurs in Noida looking for a low-risk, structured entry into organized retail.
+              </li>
+              <li>
+                Working professionals seeking a business investment that doesn&apos;t require quitting their job, via the FOCM or FOCO model.
+              </li>
+              <li>
+                Residents of established or newly developing sectors who understand their own community&apos;s daily shopping habits.
+              </li>
+              <li>
+                Investors with access to a 600 sq ft or larger commercial or residential-facing space in Noida or Greater Noida.
+              </li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>
 
+            {/* Keep FAQ answers as <p>, not bullets */}
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">How much space is required for a neighbourhood grocery store franchise?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q1. What mainly determines the cost of a grocery franchise in Noida?
+                </h3>
                 <p className="mt-2">
-                  Approximately 600 to 8000 sq. ft. of commercial retail space is required for this format.
+                  Store size, location quality, setup needs, and initial stock levels are the main factors, with Mini Mart costs typically ranging from ₹15 lakh to ₹22 lakh.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Is prior retail experience necessary to start this franchise?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q2. What space is required for a Mini Mart?
+                </h3>
                 <p className="mt-2">
-                  No, prior experience isn&apos;t mandatory. Buyzaar Mart provides training and operational support to new franchise partners.
+                  Approximately 600–1,000 sq ft is sufficient for the Mini Mart format.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Which sectors in Noida are best suited for this franchise?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q3. Do I need retail experience to apply?
+                </h3>
                 <p className="mt-2">
-                  Sector 50–52, Noida Extension, Sector 137, and Sector 168 offer strong residential footfall potential.
+                  No. Complete training and ongoing operational support are provided for first-time franchisees.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What support does Buyzaar Mart provide to franchise partners?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q4. Can I start small to manage my investment?
+                </h3>
                 <p className="mt-2">
-                  Support includes site selection, store setup, staff training, product supply, and marketing assistance.
+                  Yes. Compact Mini Mart formats suit neighbourhood locations and keep initial costs lower, with room to scale later.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">How long does it take to build a loyal customer base?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q5. How does location affect my investment and returns?
+                </h3>
                 <p className="mt-2">
-                  It varies, but neighbourhood stores typically see steady growth in repeat customers within the first few months of operation.
+                  Prime areas raise setup costs but usually deliver higher footfall and faster returns compared to secondary locations.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Can I expand to a bigger format later?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q6. What happens to unsold or expired stock?
+                </h3>
                 <p className="mt-2">
-                  Yes, franchise partners can scale up from Mini Mart to Super Mart or Hyper Mart formats as the business grows.
+                  Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Is a neighbourhood grocery store franchise profitable in Noida?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q7. Can I upgrade from a Mini Mart to a larger format later?
+                </h3>
                 <p className="mt-2">
-                  Yes, given Noida&apos;s sector-based residential planning and steady demand for daily essentials, a well-located store has strong earning potential.
+                  Yes. Many franchisees start with a Mini Mart and later scale up to a Super Mart or Hyper Mart as the business grows.
                 </p>
               </div>
             </div>
@@ -354,37 +501,35 @@ const Content = () => {
                 Start Your Neighbourhood Grocery Franchise Journey in Noida
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                Noida&apos;s sector-based residential layout and steady daily demand make it a strong market for a trusted neighbourhood grocery store.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Join Buyzaar Mart&apos;s franchise network to build a reliable retail business backed by structured support and a proven format.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  info@thebuyzaarmart.com
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="mb-4 list-disc pl-5 space-y-2">
+                <li>
+                  Noida&apos;s daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
+                </li>
+                <li>
+                  Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
+                </li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
           </div>
 

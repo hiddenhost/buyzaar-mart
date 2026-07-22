@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Supermarket Franchise in Gurgaon Under 20 Lakh | Buyzaar Mart",
+  name: "Supermarket Franchise in Gurgaon Under 20 Lakh | The Buyzaar Mart",
   description:
-    "Start a supermarket franchise in Gurgaon under 20 lakh with Buyzaar Mart. Low investment, brand support, and strong daily demand. Apply now!",
+    "The Buyzaar Mart offers supermarket franchise opportunities in Gurgaon under 20 lakh with Mini Mart format, FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-in-gurgaon-under-20-lakh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -22,25 +22,28 @@ const localBusinessSchema = {
     name: "Gurgaon",
   },
   openingHours: "Mo-Sa 10:00-18:00",
-  priceRange: "₹",
+  priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Mini Mart Franchise in Gurgaon",
+    name: "The Buyzaar Mart Supermarket Franchise Formats in Gurgaon",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
-        description: "Compact format (600–1000 sq. ft.) designed to fit a budget under ₹20 lakh.",
+        description:
+          "Entry-level supermarket franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Gurgaon, with investment under ₹20 lakh.",
       },
       {
         "@type": "Offer",
         name: "Super Mart",
-        description: "Mid-tier format (1001–3000 sq. ft.).",
+        description:
+          "Mid-tier supermarket franchise format suited for main market locations, colony chowks, and busy residential sector roads in Gurgaon.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
-        description: "Large-format supermarket (3001–8000 sq. ft.).",
+        description:
+          "Large-format supermarket franchise suited for high-traffic commercial locations, township market areas, and premium residential zones in Gurgaon.",
       },
     ],
   },
@@ -52,50 +55,42 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Can I really start a supermarket franchise in Gurgaon under 20 lakh?",
+      name: "Can I really start a supermarket franchise in Gurgaon under ₹20 lakh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, Buyzaar Mart's Mini Mart format (600–1000 sq. ft.) is designed to fit within this budget range.",
+        text: "Yes. The Buyzaar Mart Mini Mart format starts from around ₹15.25 lakh and typically stays within ₹15–22 lakh depending on location and size.",
       },
     },
     {
       "@type": "Question",
-      name: "How much retail space do I need for this franchise?",
+      name: "Do I need retail experience to run this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Around 600 to 1000 sq. ft. of commercial space is typically required for the Mini Mart format.",
+        text: "No. The FOCM model is built for first-time investors, with full training and daily operations managed by Buyzaar Mart's team.",
       },
     },
     {
       "@type": "Question",
-      name: "Is prior retail experience required to start this franchise?",
+      name: "What space do I need for this budget?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No, prior experience isn't mandatory. Buyzaar Mart provides training and operational support to new franchise partners.",
+        text: "Around 600–1,000 sq ft, easily found in residential lanes, society markets, or ground-floor shops across Gurgaon.",
       },
     },
     {
       "@type": "Question",
-      name: "Which areas in Gurgaon are best for this franchise?",
+      name: "How long does it take to open the store?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Sohna Road, New Gurgaon, Golf Course Extension Road, and sectors near office hubs offer strong footfall potential.",
+        text: "Typically 8–12 weeks from enquiry to grand opening.",
       },
     },
     {
       "@type": "Question",
-      name: "What support does Buyzaar Mart provide to franchise partners?",
+      name: "What happens if products expire before they're sold?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Support includes site selection guidance, store setup, staff training, product supply, and marketing assistance.",
-      },
-    },
-    {
-      "@type": "Question",
-      name: "How long does it take to break even with this format?",
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: "Break-even timelines vary by location and footfall, but smaller formats generally recover investment faster than larger stores.",
+        text: "Buyzaar Mart takes back expired and damaged goods as part of the franchise agreement, protecting your margins.",
       },
     },
     {
@@ -103,7 +98,15 @@ const faqSchema = {
       name: "Can I upgrade to a bigger format later?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, franchise partners can scale from Mini Mart to Super Mart or Hyper Mart formats as the business grows.",
+        text: "Yes. Many franchisees start with a Mini Mart and later scale up to a Super Mart or Hyper Mart as the business grows.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "What certifications does the store carry?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "FSSAI licensing, GST registration, and MSME certification.",
       },
     },
   ],
@@ -131,207 +134,392 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Supermarket Franchise in Gurgaon Under 20 Lakh with Buyzaar Mart
+              Supermarket Franchise in Gurgaon Under 20 Lakh: A Complete Investment Guide
             </h1>
 
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Gurgaon is a Prime Market for a Budget-Friendly Supermarket Franchise
-            </h2>
-
+            {/* Keep this first paragraph as-is (not converted to bullets) */}
             <p>
-              Gurgaon, now officially known as Gurugram, is one of India's fastest-growing commercial and residential hubs, home to a dense population of corporate professionals, MNC employees, and young families. This concentration of working professionals with disposable income creates strong, consistent demand for daily groceries and household essentials across the city's sectors and residential colonies.
-            </p>
-
-            <p>
-              The city's rapid vertical growth, with countless high-rise societies, gated communities, and mixed-use developments coming up every year, means new residential pockets are constantly opening up with limited organized retail presence. Many of these emerging neighborhoods still rely heavily on scattered kirana stores, leaving room for a well-stocked, branded supermarket to capture loyal, repeat customers.
-            </p>
-
-            <p>
-              Gurgaon's excellent road and metro connectivity, along with its proximity to Delhi and other NCR cities, makes it easy for supply chains to function efficiently and for franchise partners to receive regular stock replenishment without major logistics headaches. The city's cosmopolitan population, which includes a large number of working couples and nuclear families with limited time for daily shopping, also drives strong demand for convenient, nearby supermarkets offering a wide product range under one roof.
+              Gurgaon is one of the fastest-growing retail markets in the National Capital Region. High-rise residential towers, dual-income households, and busy professionals have created massive daily demand for organized, branded, neighbourhood retail — and much of that demand can still be met with an investment well under ₹20 lakh. Here&apos;s everything you need to know before starting a supermarket franchise in Gurgaon under 20 lakh with The Buyzaar Mart.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a Supermarket Franchise Under 20 Lakh Makes Sense
+              Why Gurgaon Is a Strong Market for a Low-Investment Supermarket Franchise
             </h2>
 
-            <p>
-              Starting a supermarket franchise under 20 lakh is an appealing entry point for first-time entrepreneurs, working professionals looking for a side business, or local investors who want to test the retail waters without committing a large sum upfront. This budget range typically aligns with a compact store format, allowing owners to validate the business model in their chosen locality before considering expansion.
-
-              A lower initial investment also means faster recovery of capital, since the break-even period is generally shorter compared to larger store formats that require heavier spending on interior, stock, and staffing. This makes the under-20-lakh segment particularly suitable for cautious first-time business owners who want to minimize risk while still entering a recession-resistant sector like grocery retail.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Buyzaar Mart is a Strong Franchise Partner for This Budget
-            </h2>
-
-            <p>
-              Buyzaar Mart offers a structured, scalable franchise model built specifically to serve tier-1 and tier-2 city markets, including high-growth cities like Gurgaon. The brand's Mini Mart format, designed for compact retail spaces of roughly 600 to 1000 sq. ft., is positioned to fit within a budget under 20 lakh, making it one of the most accessible entry points into organized grocery retail available today.
-
-              This format allows aspiring franchise owners to offer a curated range of daily essentials, packaged foods, dairy, personal care items, and household products without needing the larger capital commitment associated with mid-size or large-format stores. Buyzaar Mart's established supply chain and support services simplify setup and early operations.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Key Benefits of This Franchise Opportunity
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Lower financial risk and faster potential path to profitability due to smaller initial investment.</li>
-              <li>Instant customer trust through the Buyzaar Mart brand and standardized store presentation.</li>
-              <li>Operational support, training, and centralized inventory/billing systems to shorten the learning curve.</li>
-              <li>Smaller staffing needs and simpler day-to-day management for compact formats.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Gurgaon has one of the highest concentrations of working professionals in NCR, with limited time for long grocery trips.
+              </li>
+              <li>
+                New possession societies along Dwarka Expressway, Southern Peripheral Road, and Golf Course Extension are being occupied rapidly, and most don&apos;t yet have an organized daily-needs store nearby.
+              </li>
+              <li>
+                Established sectors such as Sushant Lok, Palam Vihar, South City, and DLF Phases have dense, high-income residential catchments that prefer branded, hygienic stores over unorganized kirana shops.
+              </li>
+              <li>
+                Rising preference for FSSAI-licensed, GST-compliant, professionally run stores over traditional unbranded outlets.
+              </li>
+              <li>
+                Recurring daily-need purchases (groceries, dairy, FMCG, personal care) mean predictable, repeat footfall rather than one-time sales.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Market Outlook for 2026
+              Why Under ₹20 Lakh Is a Realistic Budget
             </h2>
 
-            <p>
-              India's organized retail sector continues to expand steadily, with more consumers shifting away from unorganized stores towards branded, hygienic shopping experiences. Grocery, being a non-discretionary category, remains largely insulated from economic slowdowns, making it a stable sector for new entrepreneurs.
-
-              Franchise models like Buyzaar Mart's reduce the uncertainty of starting from scratch, since the business blueprint, product range, and operational systems are already established and tested in other markets. Busy professional lifestyles in cities like Gurgaon further increase reliance on nearby, well-organized supermarkets.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Ideal Locations in Gurgaon
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Sectors along Sohna Road, Golf Course Extension Road, and New Gurgaon: strong daily footfall potential.</li>
-              <li>Sectors 45–49: established residential communities with consistent demand.</li>
-              <li>Emerging localities in Sectors 82–95: rapid residential development with limited organized retail.</li>
-              <li>Locations near office complexes and metro stations: high footfall from working professionals.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                A full-scale hypermarket or mall-based supermarket can cost anywhere from ₹50 lakh to over ₹1 crore — out of reach for most first-time investors.
+              </li>
+              <li>
+                A compact, well-located neighbourhood format store, however, can be launched profitably for well under ₹20 lakh with the right brand and operational backing.
+              </li>
+              <li>
+                The key isn&apos;t the size of the store — it&apos;s matching the format to your budget, your available space, and the demand pattern of your specific locality.
+              </li>
+              <li>
+                With a lean model, you can enter organized retail now and scale up later rather than waiting years to save for a larger format.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a Franchise Partner Needs to Get Started
+              The Buyzaar Mart Mini Mart Format — Built for a Budget Under 20 Lakh
             </h2>
 
-            <p>
-              Getting started with a Mini Mart format typically requires a commercial retail space of around 600 to 1000 sq. ft., covering store interior setup, initial inventory, signage, refrigeration where needed, and billing counter setup. A small staff team is usually sufficient, with Buyzaar Mart providing training support.
-
-              Standard business registration and compliance requirements, including GST registration and trade licenses, must be completed before operations begin. Active owner involvement in early months helps ensure proper inventory management and customer service.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Franchise Support Offered by Buyzaar Mart
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Site selection guidance and site evaluation for Mini Mart suitability.</li>
-              <li>Store layout planning and standardized branding elements for a professional look.</li>
-              <li>Access to curated product catalogs and centralized supply chain support.</li>
-              <li>Staff training programs, marketing materials, and operational guidance.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart&apos;s Mini Mart format is specifically designed for investors working with a budget under ₹20 lakh.
+              </li>
+              <li>
+                Store size: Approximately 600–1,000 sq ft — easily available in residential lane-facing shops, society market clusters, or ground-floor commercial units in Gurgaon.
+              </li>
+              <li>
+                Total investment: Starts from approximately ₹15.25 lakh and typically stays within the ₹15.25–80 lakh range, depending on the exact location and store size.
+              </li>
+              <li>
+                What the investment covers: Franchise fee, store interiors and fit-out, POS billing technology, initial inventory, branding and signage, and the security deposit.
+              </li>
+              <li>
+                Ideal for: First-time entrepreneurs, working professionals looking for a side investment, and residents of a society who want to serve their own community.
+              </li>
+              <li>
+                Product focus: Fast-moving daily essentials — packaged groceries, staples, dairy, snacks, beverages, personal care, and household basics.
+              </li>
+              <li>
+                Best-suited locations: Residential colony lanes, society market clusters, ground floors of new possession housing societies, and mid-density residential sectors.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Steps to Apply for a Buyzaar Mart Franchise in Gurgaon
+              The FOCM Model — Why It Matters for a Low-Investment Franchise
             </h2>
 
-            <ol className="list-decimal space-y-2 pl-6">
-              <li>Submit an inquiry through the official Buyzaar Mart franchise channel with your budget and preferred format.</li>
-              <li>Discuss specifics with the franchise team and undergo a site evaluation.</li>
-              <li>Sign the franchise agreement and begin store setup with Buyzaar Mart's support.</li>
-              <li>Launch with initial marketing and scale to additional formats or locations as business grows.</li>
-            </ol>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Common Challenges to Prepare For
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Careful inventory planning is required to manage limited shelf space in a compact format.</li>
-              <li>Building a loyal customer base takes time and consistent service quality.</li>
-              <li>Competition from local kirana stores may require competitive pricing and superior service.</li>
-              <li>Staff retention and seasonal demand spikes require proactive management.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart operates on the FOCM model — Franchise Owned, Company Managed.
+              </li>
+              <li>
+                You invest in the store and hold the franchise rights under a formal agreement — the business asset is yours.
+              </li>
+              <li>
+                Buyzaar Mart&apos;s operations team manages daily running of the store, including staffing, inventory, and technology.
+              </li>
+              <li>
+                You don&apos;t need any prior retail or supermarket experience to get started.
+              </li>
+              <li>
+                The model is particularly suited to investors who want ownership without the daily operational burden of running long store hours themselves.
+              </li>
+              <li>
+                From initial enquiry to store launch typically takes 8–12 weeks, covering location approval, agreement signing, store setup, staff training, and launch marketing.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Who Should Consider This Franchise Opportunity
+              What&apos;s Included in Your Franchise Support Package
             </h2>
 
-            <p>
-              The Buyzaar Mart Mini Mart franchise is designed for entrepreneurs who want
-              to enter the organized grocery retail sector with a relatively low initial
-              investment and a proven business model. It is an ideal opportunity for
-              first-time business owners, working professionals seeking an additional
-              source of income, investors looking for a managed retail business, and local
-              property owners who want to utilize their commercial space more
-              productively. The compact store format makes it particularly suitable for
-              residential neighborhoods, mixed-use developments, and high-footfall
-              commercial areas where customers frequently shop for daily essentials.
-            </p>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store design and setup: Layout planning, branding, external signage, POS billing system, and inventory tracking technology installed before opening.
+              </li>
+              <li>
+                Inventory management: Stock calibrated to your locality&apos;s actual purchase behaviour, with ongoing restocking support.
+              </li>
+              <li>
+                Buyback protection: Expired and damaged goods are taken back by Buyzaar Mart — a contractual commitment that protects your margins from inventory write-offs.
+              </li>
+              <li>
+                Staff hiring and training: Recruitment support plus training on billing, customer service, and daily store operations.
+              </li>
+              <li>
+                Marketing support: Hyperlocal launch campaigns targeting the specific streets, buildings, and blocks around your store.
+              </li>
+              <li>
+                Performance monitoring: Real-time KPI dashboards and periodic operational audits to track and improve store performance.
+              </li>
+              <li>
+                Certifications: FSSAI licensed, GST registered, and MSME certified — giving your store instant credibility with Gurgaon&apos;s quality-conscious residents.
+              </li>
+            </ul>
 
-            <p>
-              This grocery franchise opportunity is also well suited for existing kirana
-              store owners who want to upgrade to a modern, branded retail format with
-              standardized store design, organized product displays, and reliable supply
-              chain support. Entrepreneurs looking for a supermarket franchise in Gurgaon,
-              a low-investment grocery franchise, or a retail business with structured
-              operational guidance can benefit from the Mini Mart model. With support for
-              store setup, branding, inventory planning, and business operations, the
-              format enables franchise partners to establish a professionally managed
-              grocery store while serving the growing demand for convenient neighborhood
-              shopping in Gurgaon.
-            </p> 
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Best Gurgaon Locations for a Franchise Under 20 Lakh
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Dwarka Expressway (Sectors 82–115): New possession societies with immediate, unmet demand for organized daily-needs retail.
+              </li>
+              <li>
+                Sushant Lok, Palam Vihar, South City: Established society market clusters with consistent daily footfall.
+              </li>
+              <li>
+                Sector 56, 57, 58 residential lanes: Ground-floor shops with lower commercial rents, improving your investment payback period.
+              </li>
+              <li>
+                Sector 45, 46, 47: Dense mid-Gurgaon residential pockets with steady demand through the day.
+              </li>
+              <li>
+                Bajghera and Sector 23: Growing residential areas with lower rents and limited organized retail competition currently.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Scaling Up Beyond the Mini Mart
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Once your Mini Mart is stable and generating consistent footfall, you can scale to the Super Mart format (roughly 1,001–3,000 sq ft), which starts at a higher investment and offers a broader product range and higher revenue potential.
+              </li>
+              <li>
+                Beyond that sits the Hyper Mart format (3,000 sq ft and above), suited for large-family, one-stop bulk shopping in high-density commercial locations.
+              </li>
+              <li>
+                This tiered structure means you don&apos;t need to commit to a large investment on day one — you can start small, prove the model in your locality, and expand later.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Key Factors That Affect Your Actual Investment
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store location and rent: A ground-floor unit in a premium DLF-phase market will cost more to fit out than a residential lane shop in an emerging sector.
+              </li>
+              <li>
+                Store size within the Mini Mart range: A 600 sq ft store costs less to set up than a 1,000 sq ft store.
+              </li>
+              <li>
+                Local civic approvals: FSSAI, GST, and shop establishment registrations are part of the standard process and are factored into your setup timeline.
+              </li>
+              <li>
+                Working capital buffer: It&apos;s advisable to keep a small buffer beyond the fixed investment for the first few months of operations.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Revenue Potential and Growth Path
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Daily needs and supermarket retail earn from two consistent sources: high-frequency repeat purchases (dairy, staples, snacks, beverages) and steadily growing basket sizes as customer trust builds.
+              </li>
+              <li>
+                A well-located Mini Mart inside a Gurgaon housing society or a busy residential lane typically stabilizes its footfall within the first 2–3 months, once residents adopt it as their default nearby store.
+              </li>
+              <li>
+                Under the FOCM model, the franchisee retains the gross margin on every product sold, since the store revenue and customer relationship belong directly to the franchise owner.
+              </li>
+              <li>
+                Under the FOCO model, returns are structured as an agreed revenue share or fixed payout from the company, giving more passive investors income tied to the store&apos;s ongoing performance without daily involvement.
+              </li>
+              <li>
+                Profitability typically improves once a franchisee runs more than one outlet, since supplier relationships, staff training, and marketing learnings from the first store carry over and reduce the cost of opening the next.
+              </li>
+              <li>
+                Because grocery and FMCG demand is non-discretionary, a supermarket franchise is considerably less exposed to seasonal swings than fashion, electronics, or food-service businesses — Gurgaon&apos;s residents buy daily essentials every week of the year.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Supermarket Franchise vs. Traditional Kirana Store in Gurgaon
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Branding and trust: An unregistered kirana store has no recognizable brand or food-safety certification; a Buyzaar Mart franchise is FSSAI licensed, GST registered, and MSME certified from day one.
+              </li>
+              <li>
+                Technology: Kirana stores generally rely on manual billing with no inventory tracking; a Buyzaar Mart store runs on POS billing and real-time inventory systems from launch.
+              </li>
+              <li>
+                Risk protection: Independent store owners absorb the full cost of expired or damaged stock; Buyzaar Mart franchisees are protected through the contractual buyback policy on such goods.
+              </li>
+              <li>
+                Marketing: A kirana store depends on word-of-mouth alone; a Buyzaar Mart franchise gets a structured, hyperlocal launch campaign targeting the exact buildings and lanes around the store.
+              </li>
+              <li>
+                Consumer preference: Gurgaon&apos;s professional, quality-conscious residents increasingly prefer branded, hygienic, and transparently priced stores — a clear structural advantage for an organized franchise over an unbranded shop.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Additional Investment Details Across Store Formats
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Franchise fee: Included in the total investment figure for each format, along with 18% GST as applicable, and covers brand usage rights under the 5-year franchise agreement.
+              </li>
+              <li>
+                Interior and fit-out costs: Scale with store size — a compact 600 sq ft Mini Mart requires a smaller fit-out budget than an 600–1,000 sq ft unit, which is why the Mini Mart investment range itself spans roughly ₹15.25+ lakh.
+              </li>
+              <li>
+                Initial inventory: Calibrated to the specific catchment — a residential lane store stocks differently from a society-market cluster store, even within the same Mini Mart format.
+              </li>
+              <li>
+                Security deposit and working capital: A standard part of the total investment, along with a small recommended buffer for the first few months of operations before footfall stabilizes.
+              </li>
+              <li>
+                Format progression: Mini Mart (600–1,000 sq ft, ₹15.25+ lakh) is the entry point; Super Mart (1,001–3,000 sq ft, ₹26.63+ lakh onward) suits higher-footfall locations; Hyper Mart (3,000 sq ft and above) suits large township or high-traffic commercial locations in Gurgaon&apos;s outer sectors — each format&apos;s investment scales with its store size and fit-out requirement.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Who Should Consider This Franchise
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Working professionals in Gurgaon looking for a business investment that doesn&apos;t require quitting their job.
+              </li>
+              <li>
+                Residents of a housing society who understand their own community&apos;s daily needs.
+              </li>
+              <li>
+                First-time entrepreneurs seeking a low-risk entry into organized retail with brand backing.
+              </li>
+              <li>
+                Investors who prefer a tangible, community-based business over passive financial instruments.
+              </li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>
 
+            {/* Keep FAQ answers as <p>, not bullets */}
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">Can I really start a supermarket franchise in Gurgaon under 20 lakh?</h3>
-                <p className="mt-2">Yes, Buyzaar Mart's Mini Mart format (600–1000 sq. ft.) is designed to fit within this budget range.</p>
+                <h3 className="font-medium text-gray-900">
+                  Q1. Can I really start a supermarket franchise in Gurgaon under ₹20 lakh?
+                </h3>
+                <p className="mt-2">
+                  Yes. The Buyzaar Mart Mini Mart format starts from around ₹15.25 lakh and typically stays within ₹15–22 lakh depending on location and size.
+                </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">How much retail space do I need?</h3>
-                <p className="mt-2">Around 600 to 1000 sq. ft. of commercial space is typically required for the Mini Mart format.</p>
+                <h3 className="font-medium text-gray-900">
+                  Q2. Do I need retail experience to run this franchise?
+                </h3>
+                <p className="mt-2">
+                  No. The FOCM model is built for first-time investors, with full training and daily operations managed by Buyzaar Mart&apos;s team.
+                </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Is prior retail experience required?</h3>
-                <p className="mt-2">No — Buyzaar Mart provides training and operational support to new franchise partners.</p>
+                <h3 className="font-medium text-gray-900">
+                  Q3. What space do I need for this budget?
+                </h3>
+                <p className="mt-2">
+                  Around 600–1,000 sq ft, easily found in residential lanes, society markets, or ground-floor shops across Gurgaon.
+                </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Which areas in Gurgaon are best?</h3>
-                <p className="mt-2">Sohna Road, New Gurgaon, Golf Course Extension Road, and sectors near office hubs offer strong footfall potential.</p>
+                <h3 className="font-medium text-gray-900">
+                  Q4. How long does it take to open the store?
+                </h3>
+                <p className="mt-2">
+                  Typically 8–12 weeks from enquiry to grand opening.
+                </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What support does Buyzaar Mart provide?</h3>
-                <p className="mt-2">Site selection, store setup, staff training, product supply, and marketing assistance.</p>
+                <h3 className="font-medium text-gray-900">
+                  Q5. What happens if products expire before they&apos;re sold?
+                </h3>
+                <p className="mt-2">
+                  Buyzaar Mart takes back expired and damaged goods as part of the franchise agreement, protecting your margins.
+                </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Can I upgrade to a bigger format later?</h3>
-                <p className="mt-2">Yes — partners can scale from Mini Mart to Super Mart or Hyper Mart formats as the business grows.</p>
+                <h3 className="font-medium text-gray-900">
+                  Q6. Can I upgrade to a bigger format later?
+                </h3>
+                <p className="mt-2">
+                  Yes. Many franchisees start with a Mini Mart and later scale up to a Super Mart or Hyper Mart as the business grows.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-medium text-gray-900">
+                  Q7. What certifications does the store carry?
+                </h3>
+                <p className="mt-2">
+                  FSSAI licensing, GST registration, and MSME certification.
+                </p>
               </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
-              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">Start Your Mini Mart Journey in Gurgaon</h2>
+              <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
+                Start Your Supermarket Franchise Journey in Gurgaon
+              </h2>
 
-              <p className="mb-4 text-gray-800">Gurgaon's high purchasing power and ongoing residential growth make it a strong market for a budget-friendly Mini Mart franchise.</p>
-
-              <p className="mb-4 text-gray-800">Join Buyzaar Mart's franchise network to launch a compact supermarket with structured support and a centralized supply chain.</p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a href="mailto:info@thebuyzaarmart.com" className="font-semibold text-green-600 hover:underline">info@thebuyzaarmart.com</a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a href="tel:+919217991727" className="font-semibold text-green-600 hover:underline">9217991727</a>
-              </p>
-
-              <p className="text-gray-800"><span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM</p>
+              <ul className="mb-4 list-disc pl-5 space-y-2">
+                <li>
+                  Gurgaon&apos;s daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
+                </li>
+                <li>
+                  Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
+                </li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
           </div>
 
-          <CityInternalLinks city="gurgaon" currentSlug="/delhi/supermarket-franchise-in-gurgaon-under-20-lakh" />
+          <CityInternalLinks
+            city="gurgaon"
+            currentSlug="/delhi/supermarket-franchise-in-gurgaon-under-20-lakh"
+          />
         </div>
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">

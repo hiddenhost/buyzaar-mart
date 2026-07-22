@@ -5,45 +5,45 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "FOCO Grocery Franchise in Delhi NCR | Buyzaar Mart",
+  name: "FOCO Franchise Model for a Grocery Store in Delhi | The Buyzaar Mart",
   description:
-    "Buyzaar Mart offers FOCO grocery franchise opportunities across Delhi NCR with Mini Mart, Super Mart, and Hyper Mart formats, structured support, and scalable retail growth.",
+    "The Buyzaar Mart offers FOCO (Franchise Owned, Company Operated) franchise opportunities in Delhi with Mini Mart, Super Mart, and Hyper Mart formats, passive investor returns, centralized operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/delhi/foco-franchise-model-grocery-store-delhi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
     "@type": "PostalAddress",
-    addressLocality: "Delhi NCR",
-    addressRegion: "Delhi NCR",
+    addressLocality: "Delhi",
+    addressRegion: "Delhi",
     addressCountry: "IN",
   },
   areaServed: {
-    "@type": "AdministrativeArea",
-    name: "Delhi NCR",
+    "@type": "City",
+    name: "Delhi",
   },
   openingHours: "Mo-Sa 10:00-18:00",
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Franchise Formats in Delhi NCR",
+    name: "The Buyzaar Mart FOCO Franchise Formats in Delhi",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Compact format with approximately 600 to 1000 sq. ft. of retail space, suited for residential pockets across NCR.",
+          "Entry-level FOCO franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Delhi.",
       },
       {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "Mid-size format with 1001 to 3000 sq. ft. of retail space and a total investment of approximately ₹26,63,407 at the 1001 sq. ft. entry point.",
+          "Mid-tier FOCO franchise format suited for main market locations, colony chowks, and busy residential sector roads in Delhi.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
         description:
-          "Large-format supermarket with 3001 to 8000 sq. ft. of retail space and a total investment of approximately ₹78,89,960 at the 3001 sq. ft. entry point.",
+          "Large-format FOCO franchise suited for high-traffic commercial locations, township market areas, and premium residential zones in Delhi.",
       },
     ],
   },
@@ -55,58 +55,58 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What does FOCO mean in franchising?",
+      name: "What does FOCO mean in a franchise agreement?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "FOCO stands for Franchise Owned, Company Operated — the investor provides capital and space, while the company manages daily operations.",
+        text: "FOCO stands for Franchise Owned, Company Operated — the investor owns the store, and the company manages all daily operations.",
       },
     },
     {
       "@type": "Question",
-      name: "Is this model available across all NCR cities?",
+      name: "How is FOCO different from FOCM?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, investors across Delhi, Noida, Gurgaon, Ghaziabad, and Faridabad can explore this model based on available commercial space.",
+        text: "Under FOCO, the company runs the store with minimal investor involvement; under FOCM, the investor owns the store and stays moderately involved while the company manages centralized systems.",
       },
     },
     {
       "@type": "Question",
-      name: "Do I need retail experience to invest under this model?",
+      name: "What is the minimum investment for a FOCO grocery store in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No, since operational management is handled by the company's trained team, retail experience isn't required for investors.",
+        text: "The Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.",
       },
     },
     {
       "@type": "Question",
-      name: "What space is required for a FOCO grocery store?",
+      name: "Do I need retail experience to opt for FOCO?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Space requirements range from 600 sq. ft. for a Mini Mart to 8000 sq. ft. for a Hyper Mart format.",
+        text: "No. FOCO is specifically designed for investors without prior retail experience, since the company handles all operations.",
       },
     },
     {
       "@type": "Question",
-      name: "Who manages staff and daily operations?",
+      name: "How do I earn returns under the FOCO model?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The company's operational team handles staffing, inventory, billing, and customer service under this model.",
+        text: "Through an agreed revenue share or fixed profit percentage outlined in the franchise agreement, since the company manages daily operations.",
       },
     },
     {
       "@type": "Question",
-      name: "Is this a good option for passive investors?",
+      name: "What happens to unsold or expired stock under FOCO?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, this model is designed for investors who want retail business exposure without active daily involvement.",
+        text: "Expired and damaged goods are taken back under the brand's hassle-free inventory assurance policy, protecting the investor's returns.",
       },
     },
     {
       "@type": "Question",
-      name: "Which NCR cities are best for this model?",
+      name: "Can I switch from FOCO to FOCM later?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Noida, Gurgaon, Ghaziabad, Faridabad, and Delhi all offer strong footfall potential depending on the specific locality.",
+        text: "Switching between models generally depends on the brand's policies and contractual terms; this can be discussed directly with the franchise team.",
       },
     },
   ],
@@ -134,273 +134,397 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Understanding the FOCO Franchise Model
+              FOCO Franchise Model for a Grocery Store in Delhi: Complete Guide
             </h1>
 
+            {/* Keep this first paragraph as-is (not converted to bullets) */}
             <p>
-              FOCO stands for Franchise Owned, Company Operated, a business model where the investor puts in the capital for the retail space, interior setup, and inventory, while the parent brand's trained team manages the daily running of the store. This differs from the more common FOFO (Franchise Owned, Franchise Operated) model, where the franchise partner is responsible for both funding and actively operating the business day to day.
-            </p>
-
-            <p>
-              Under FOCO, the investor essentially plays the role of a capital partner rather than an active business operator, allowing them to participate in the retail sector without needing to manage staff, inventory, or daily customer interactions themselves. This structure has become increasingly popular in India's organized retail space, especially among individuals who own commercial property or have investible capital but limited time or interest in hands-on store management.
+              For investors in Delhi who want to own a grocery store without managing it day to day, the FOCO franchise model offers a genuinely passive route into organized retail. Here&apos;s a complete breakdown of how the FOCO model works with The Buyzaar Mart, what it costs, and which store formats and localities in Delhi suit it best.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Delhi NCR is a Strong Region for This Model
+              What Is the FOCO Franchise Model?
             </h2>
 
-            <p>
-              Delhi NCR, spanning Delhi, Noida, Gurgaon, Ghaziabad, and Faridabad, offers one of the largest and most diverse consumer markets in India. This wide geographic spread means investors have multiple city options to choose from when identifying a suitable commercial property for a FOCO grocery store, each with its own demographic strengths and growth trajectory.
-            </p>
-
-            <p>
-              The region's dense population, ranging from established colonies to rapidly developing residential sectors, ensures consistent demand for daily essentials regardless of the specific city or locality chosen. Many pockets across NCR, particularly in newer or semi-developed areas, still lack strong organized retail presence, leaving room for a professionally managed, branded grocery store to build a loyal customer base.
-            </p>
-
-            <p>
-              Delhi NCR's well-developed metro network, expressways, and logistics infrastructure also support efficient supply chain management across multiple locations, which is particularly relevant for a FOCO model where consistent stock availability depends on smooth operational execution by the company's team.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why the FOCO Model Suits Certain Types of Investors in NCR
-            </h2>
-
-            <p>
-              This model is particularly relevant for individuals across Delhi NCR who already own or can acquire commercial retail space in a high-footfall locality but don't have the time, inclination, or retail experience to manage daily operations themselves. This includes working professionals in cities like Gurgaon and Noida with demanding corporate jobs, NRIs looking to invest in India-based businesses, or property owners with underutilized commercial spaces in residential colonies.
-            </p>
-
-            <p>
-              Because daily operational responsibility shifts to the company's trained team, FOCO investors remain largely insulated from staff management challenges, customer service issues, and daily inventory decisions. This makes it an attractive route for those seeking retail sector exposure without the hands-on commitment a traditional franchise typically requires.
-            </p>
-
-            <p>
-              At the same time, investors continue to benefit from the underlying resilience of grocery retail, since daily essentials remain in consistent demand across NCR's cities regardless of broader economic conditions.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Buyzaar Mart is a Suitable Partner for This Model
-            </h2>
-
-            <p>
-              Buyzaar Mart's established retail systems, including standardized store layouts, centralized billing and inventory management, and a curated product catalog, position the brand well to operate stores consistently across multiple NCR locations under a FOCO arrangement.
-            </p>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Standardized operational procedures ensuring consistent store performance regardless of city or specific location.</li>
-              <li>Centralized supply chain relationships that maintain stock quality and availability across NCR.</li>
-              <li>Trained operational teams capable of independently managing staffing, billing, and customer service.</li>
-              <li>Established branding and marketing systems that build local customer trust without requiring investor involvement.</li>
-              <li>Regular performance reporting that keeps investors informed without needing active daily oversight.</li>
-            </ul>
-
-            <p>
-              This operational maturity gives investors confidence that their capital is being deployed in a professionally managed retail environment, regardless of which NCR city their property is located in.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Franchise Formats Available Under This Model
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: Requires 600 to 1000 sq. ft., suited for compact commercial spaces in residential pockets across any NCR city.</li>
-              <li>Super Mart: Requires 1001 to 3000 sq. ft., with a total investment of approximately ₹26,63,407 at the 1001 sq. ft. entry point.</li>
-              <li>Hyper Mart: Requires 3001 to 8000 sq. ft., with a total investment of approximately ₹78,89,960 at the 3001 sq. ft. entry point.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                FOCO stands for Franchise Owned, Company Operated. In this model, the franchise partner invests in and owns the store&apos;s infrastructure, while the company takes full responsibility for running it.
+              </li>
+              <li>
+                The franchise partner bears the initial investment and setup expenditure; the franchisor manages all day-to-day operations, including staffing, procurement, marketing, and daily store running.
+              </li>
+              <li>
+                The franchisee earns a return through an agreed revenue share or a fixed profit percentage — the business generates income for the owner without requiring their daily involvement.
+              </li>
+              <li>
+                All business responsibilities are clearly divided: the franchisor keeps the operations and logistics running to brand standard, while the franchisee&apos;s role is largely limited to ownership and receiving the agreed returns.
+              </li>
+              <li>
+                Because the company manages operations directly, FOCO outlets typically maintain highly consistent brand standards, store layouts, and customer experience across every location.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Key Benefits of the FOCO Model for Grocery Retail in NCR
+              Why FOCO Suits a Grocery Store Investment in Delhi
             </h2>
 
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Passive investment structure: Investors provide capital and space without managing daily operations.</li>
-              <li>Professional management: Trained operational teams handle staffing, inventory, and customer service across NCR locations.</li>
-              <li>Reduced operational risk: Standardized systems minimize inconsistency that can arise from inexperienced first-time management.</li>
-              <li>Time efficiency: Ideal for investors with demanding careers across NCR's corporate hubs.</li>
-              <li>Steady revenue potential: Grocery retail's consistent demand supports predictable returns on investment.</li>
-              <li>Regional flexibility: NCR's multiple cities offer varied options for identifying the right location and format combination.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Delhi&apos;s dense residential colonies, urban villages, and resettlement colonies generate steady, non-discretionary daily demand for groceries and FMCG — an ideal category for a passive, company-run store.
+              </li>
+              <li>
+                Many Delhi investors already have a primary source of income (a job, another business, or a professional practice) and want a retail investment that doesn&apos;t demand daily operational attention — exactly the gap the FOCO model fills.
+              </li>
+              <li>
+                Because the company bears the operational cost and risk, FOCO reduces the operational burden for investors who have no retail experience but want exposure to organized retail&apos;s steady, recurring returns.
+              </li>
+              <li>
+                Grocery and daily-needs retail is one of the most recession-resistant business categories — a significant advantage for an investor relying on consistent, predictable payouts rather than active management.
+              </li>
+              <li>
+                Delhi&apos;s organized retail penetration is still uneven across neighbourhoods, with many pockets still served by unorganized kirana stores — leaving room for a professionally run, branded FOCO store to capture loyal footfall quickly.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Market Outlook for 2026
+              FOCO & FOCM — Understanding the Difference
             </h2>
 
-            <p>
-              India's organized retail sector continues expanding steadily, with grocery and daily essentials remaining one of the more resilient categories due to their non-discretionary nature. This underlying stability makes grocery retail a strong candidate for investment-focused models like FOCO, since demand tends to hold steady even during broader economic fluctuations.
-            </p>
-
-            <p>
-              The FOCO model itself is gaining traction across India as more brands look to scale their physical footprint without requiring every investor to also become an active operator. Across Delhi NCR specifically, where commercial real estate ownership is common among working professionals and business families, this model allows property owners to generate active retail income from their assets while relying on an experienced operational partner to run the actual business.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Ideal Locations Across Delhi NCR for This Model
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Noida (Sector 62, 63, Noida Extension): Strong professional population with consistent daily footfall.</li>
-              <li>Gurgaon (Sohna Road, New Gurgaon sectors): High-density residential and corporate hub with growing demand.</li>
-              <li>Ghaziabad (Indirapuram, Vaishali, Raj Nagar Extension): Expanding residential base with limited organized retail penetration.</li>
-              <li>Faridabad (Sector 15, 21, Greater Faridabad): Established and emerging residential zones with steady demand.</li>
-              <li>Delhi (Dwarka, Rohini, East Delhi): Dense population centers with consistent daily essential purchases.</li>
-              <li>Investor-owned commercial properties in any of these areas: Existing properties in strong locations are ideal candidates regardless of specific city.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart&apos;s core operating structure is the FOCM model, but FOCO is also offered as an option for more passive investors in several city markets. Here&apos;s how the three compare.
+              </li>
+              <li>
+                FOCO (Franchise Owned, Company Operated): The franchise partner owns the store; the company handles all daily operations. Investor involvement is low, and operational control sits fully with the company.
+              </li>
+              <li>
+                FOCM (Franchise Owned, Company Managed): The franchise partner owns the store and stays moderately involved, while the company manages centralized operational systems — inventory, technology, marketing, and audits — in partnership with the owner.
+              </li>
+              <li>
+                The key distinction for Delhi investors: if you want zero daily involvement and a purely passive return, FOCO is the closest fit; if you want ownership plus some involvement backed by company-managed systems, FOCM is the better structure.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What an Investor Needs to Consider
+              How Returns Work Under the FOCO Model
             </h2>
 
-            <p>
-              Investors considering this arrangement need access to a suitable commercial retail space, either owned outright or leased long-term, in a location with strong footfall potential anywhere across NCR. The investment typically covers store interior setup, initial inventory stocking, signage, and equipment, with the specific amount depending on the format chosen.
-            </p>
-
-            <p>
-              Since the company handles day-to-day operations, investors don't need retail management experience themselves, but should still understand the revenue-sharing or return structure of the arrangement clearly before committing capital. Standard business registration and compliance requirements still apply in each respective city, and having a clear, documented agreement covering profit distribution, reporting frequency, and responsibilities is essential.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Support Structure Under This Model
-            </h2>
-
-            <p>
-              Buyzaar Mart typically handles site assessment to confirm the suitability of the investor's proposed location, followed by complete store layout planning and branding implementation tailored to the specific city and locality. The company also manages staff recruitment, training, and ongoing supervision, removing this responsibility entirely from the investor.
-            </p>
-
-            <p>
-              Inventory management, vendor relationships, and stock replenishment are handled centrally through Buyzaar Mart's established supply chain, which spans multiple NCR cities, ensuring consistent product availability. Regular financial reporting keeps the investor informed of the store's performance, while marketing and promotional activities are managed by the company to build local brand awareness in that specific NCR locality.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Steps to Explore This Arrangement with Buyzaar Mart
-            </h2>
-
-            <p>
-              The process begins with submitting an inquiry through the official Buyzaar Mart franchise application channel, indicating interest in a company-operated arrangement along with details of your available commercial space anywhere in Delhi NCR. This is followed by an initial discussion with the franchise team to understand specific terms, investment requirements, and the revenue arrangement under this model.
-            </p>
-
-            <p>
-              A site evaluation is then conducted to confirm the location's suitability for a company-operated store. Once approved, a detailed agreement is finalized, covering investment terms, operational responsibilities, and profit-sharing structure. Store setup follows, managed largely by the Buyzaar Mart team, culminating in a launch supported by the company's marketing efforts specific to that city and locality.
-            </p>
-
-            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Common Considerations to Keep in Mind
-            </h2>
-
-            <ul className="list-disc space-y-2 pl-6">
-              <li>Review reporting frequency, profit-sharing terms, and dispute resolution mechanisms before signing.</li>
-              <li>Understand how underperformance at a specific location would be addressed.</li>
-              <li>Confirm that the chosen location has strong footfall, since location quality remains critical even under company operation.</li>
-              <li>Clarify the duration and renewal terms of the arrangement.</li>
-              <li>Check exit provisions in advance before committing capital.</li>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Under FOCO, the company manages staff recruitment and salaries, product procurement, supply chain, inventory control, merchandising, electricity, and all daily operations and customer service.
+              </li>
+              <li>
+                The franchisee, as the store owner, earns a structured share of the revenue the store generates — the specific percentage or fixed-return structure is agreed upon in the franchise agreement.
+              </li>
+              <li>
+                This arrangement gives franchisees a minimum guarantee or an agreed percentage of revenue, offering more predictable income than managing a store independently without any operational backing.
+              </li>
+              <li>
+                Because operational costs and risks are borne by the company, the franchisee&apos;s financial exposure is largely limited to the initial investment and any working capital buffer agreed at the outset.
+              </li>
+              <li>
+                Performance monitoring, KPI dashboards, and regular audits are used by the company to track and improve store performance — directly benefiting the franchisee&apos;s revenue share over time.
+              </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Who Should Consider This Model
+              Store Formats and Investment — Mini Mart, Super Mart, and Hyper Mart
             </h2>
 
-            <p>
-              This model is particularly well suited for property owners with commercial space in high-footfall NCR localities who want to generate active retail income without personally managing a store. It also appeals to working professionals across Gurgaon, Noida, and other NCR cities who want exposure to the resilient grocery retail sector without taking on daily operational responsibilities.
-            </p>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                The Buyzaar Mart offers three store formats under its franchise models, allowing FOCO investors in Delhi to choose based on available capital and target locality.
+              </li>
+            </ul>
 
-            <p>
-              Individuals who value a more passive investment structure, backed by an established brand's operational expertise, will find this model aligns with their goals, provided they conduct proper due diligence on location quality and agreement terms before proceeding, regardless of which NCR city they choose to invest in.
-            </p>
+            <h3 className="font-medium text-gray-900">Mini Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 600–1,000 sq ft (a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store)
+              </li>
+              <li>
+                Investment: Total setup costs typically range from approximately ₹15 lakh to ₹22 lakh
+              </li>
+              <li>
+                Best for: First-time FOCO investors, compact residential lanes, colony markets, and urban villages
+              </li>
+              <li>
+                Focus: Fast-moving daily essentials — groceries, staples, dairy, packaged foods, beverages, personal care, and household basics
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Super Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: Approximately 1,001–3,000 sq ft
+              </li>
+              <li>
+                Investment: Starting from approximately ₹26.6 lakh, scaling with size and fit-out
+              </li>
+              <li>
+                Best for: FOCO investors with a larger budget targeting higher-footfall residential and mixed-use commercial pockets
+              </li>
+              <li>
+                Focus: A broader product assortment with more SKUs per category and a richer in-store experience
+              </li>
+            </ul>
+
+            <h3 className="font-medium text-gray-900">Hyper Mart</h3>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Store size: 3,000 sq ft and above
+              </li>
+              <li>
+                Investment: Scales upward significantly based on store size and location
+              </li>
+              <li>
+                Best for: Larger-capital FOCO investors targeting high-traffic commercial locations and busy Delhi residential zones
+              </li>
+              <li>
+                Focus: The widest assortment — fresh produce, frozen foods, personal care, home care, stationery, toys, pet care, and devotional items
+              </li>
+            </ul>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Across all formats, the investment typically covers the franchise fee (inclusive of 18% GST), interior setup and store assets, POS technology, opening stock, and the security deposit — all borne upfront by the FOCO investor, with operations then handed fully to the company.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              What the Company Handles Under FOCO
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Staff recruitment and salary management: Hiring, training, and paying store staff entirely, removing HR responsibility from the investor.
+              </li>
+              <li>
+                Day-to-day store operations and customer service: Full daily running of the store, including opening hours, billing, and customer engagement.
+              </li>
+              <li>
+                Product procurement, supply chain, and inventory control: Centralized purchasing and restocking, supported by FMCG distributor relationships and regional sourcing.
+              </li>
+              <li>
+                Store layout, display, and merchandising: Ongoing merchandising decisions to keep the store performing to brand standard.
+              </li>
+              <li>
+                Marketing and promotional campaigns: Hyperlocal launch and ongoing marketing targeting the store&apos;s specific catchment.
+              </li>
+              <li>
+                Electricity and other operational expenses: Day-to-day running costs of the store, managed by the company rather than the investor.
+              </li>
+              <li>
+                Performance monitoring and optimisation: Regular audits and KPI dashboards used to track and improve the store&apos;s financial performance.
+              </li>
+              <li>
+                Buyback protection: Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy, protecting the investor&apos;s returns from inventory write-offs.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Best Delhi Localities for a FOCO Grocery Store
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Dense residential colonies: A large, stable resident base ensures steady, daily customer traffic — ideal for a company-operated store aiming for consistent revenue.
+              </li>
+              <li>
+                Urban villages and resettlement colonies: Neighbourhoods still largely served by unorganized kirana stores, offering strong first-mover potential for a professionally run FOCO outlet.
+              </li>
+              <li>
+                Colony interiors and internal residential lanes: Lower commercial rents keep the total investment closer to the entry-level Mini Mart figure while still capturing steady local footfall.
+              </li>
+              <li>
+                Market areas near local commercial zones: Suited to the Super Mart or Hyper Mart format for investors with a larger FOCO budget.
+              </li>
+              <li>
+                Ground-floor units with parking access: Preferred across all formats, since visible, accessible shops perform more consistently under company-managed operations.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Product Categories Your FOCO Store Will Carry
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Grocery and staples: rice, wheat, pulses, flour, sugar, edible oils, and spices.
+              </li>
+              <li>
+                Packaged and branded FMCG products across major national and regional categories.
+              </li>
+              <li>
+                Dairy and beverages: milk, curd, butter, cheese, juices, cold drinks, and packaged water.
+              </li>
+              <li>
+                Personal care and hygiene: soaps, shampoos, skincare, oral care, and hygiene products.
+              </li>
+              <li>
+                Home care products: detergents, floor cleaners, dishwash liquids, and fresheners.
+              </li>
+              <li>
+                Packaged snacks and confectionery: biscuits, chips, chocolates, and namkeen.
+              </li>
+              <li>
+                Frozen and chilled foods: frozen vegetables, ice cream, and chilled ready-to-eat products (for applicable formats).
+              </li>
+              <li>
+                Additional categories for Super Mart and Hyper Mart formats: bakery items, fresh produce, stationery, toys, pet care, and devotional items.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Who Should Consider the FOCO Model
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Investors with a primary job, profession, or other business who want retail exposure without daily involvement.
+              </li>
+              <li>
+                First-time entrepreneurs who prefer the company to bear full operational responsibility while they focus purely on capital and ownership.
+              </li>
+              <li>
+                Investors seeking more predictable, structured returns through an agreed revenue share rather than variable owner-operated profits.
+              </li>
+              <li>
+                Delhi residents or NRIs/out-of-city investors who cannot be physically present to manage a store but want to own a retail business asset in the city.
+              </li>
+            </ul>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              FOCO vs. Independent Kirana Store Ownership in Delhi
+            </h2>
+
+            <ul className="list-disc pl-5 space-y-2">
+              <li>
+                Involvement: An independent kirana owner manages everything personally; a FOCO investor&apos;s involvement is limited to ownership and receiving returns.
+              </li>
+              <li>
+                Branding and trust: A kirana store has no recognizable brand or food-safety certification; a Buyzaar Mart FOCO store is FSSAI licensed, GST registered, and MSME certified from day one.
+              </li>
+              <li>
+                Risk exposure: An independent owner absorbs operational losses directly; under FOCO, the company bears operational costs and risk, and expired or damaged stock is covered under the buyback policy.
+              </li>
+              <li>
+                Consistency: Product range, pricing, and store experience are standardized under company operation, rather than depending on one owner&apos;s day-to-day decisions.
+              </li>
+              <li>
+                Return structure: A kirana owner&apos;s income is whatever is left after all costs; a FOCO investor&apos;s income is a pre-agreed revenue share or fixed percentage, offering more predictability.
+              </li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>
 
+            {/* Keep FAQ answers as <p>, not bullets */}
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">What does FOCO mean in franchising?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q1. What does FOCO mean in a franchise agreement?
+                </h3>
                 <p className="mt-2">
-                  FOCO stands for Franchise Owned, Company Operated — the investor provides capital and space, while the company manages daily operations.
+                  FOCO stands for Franchise Owned, Company Operated — the investor owns the store, and the company manages all daily operations.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Is this model available across all NCR cities?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q2. How is FOCO different from FOCM?
+                </h3>
                 <p className="mt-2">
-                  Yes, investors across Delhi, Noida, Gurgaon, Ghaziabad, and Faridabad can explore this model based on available commercial space.
+                  Under FOCO, the company runs the store with minimal investor involvement; under FOCM, the investor owns the store and stays moderately involved while the company manages centralized systems.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Do I need retail experience to invest under this model?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q3. What is the minimum investment for a FOCO grocery store in Delhi?
+                </h3>
                 <p className="mt-2">
-                  No, since operational management is handled by the company's trained team, retail experience isn't required for investors.
+                  The Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What space is required for a FOCO grocery store?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q4. Do I need retail experience to opt for FOCO?
+                </h3>
                 <p className="mt-2">
-                  Space requirements range from 600 sq. ft. for a Mini Mart to 8000 sq. ft. for a Hyper Mart format.
+                  No. FOCO is specifically designed for investors without prior retail experience, since the company handles all operations.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Who manages staff and daily operations?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q5. How do I earn returns under the FOCO model?
+                </h3>
                 <p className="mt-2">
-                  The company's operational team handles staffing, inventory, billing, and customer service under this model.
+                  Through an agreed revenue share or fixed profit percentage outlined in the franchise agreement, since the company manages daily operations.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Is this a good option for passive investors?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q6. What happens to unsold or expired stock under FOCO?
+                </h3>
                 <p className="mt-2">
-                  Yes, this model is designed for investors who want retail business exposure without active daily involvement.
+                  Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy, protecting the investor&apos;s returns.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">Which NCR cities are best for this model?</h3>
+                <h3 className="font-medium text-gray-900">
+                  Q7. Can I switch from FOCO to FOCM later?
+                </h3>
                 <p className="mt-2">
-                  Noida, Gurgaon, Ghaziabad, Faridabad, and Delhi all offer strong footfall potential depending on the specific locality.
+                  Switching between models generally depends on the brand&apos;s policies and contractual terms; this can be discussed directly with the franchise team.
                 </p>
               </div>
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Explore a FOCO Grocery Franchise in Delhi NCR
+                Start Your FOCO Franchise Journey in Delhi
               </h2>
 
-              <p className="mb-4 text-gray-800">
-                Delhi NCR's scale, connectivity, and strong grocery demand make it a compelling region for a company-operated retail model.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                Join Buyzaar Mart's franchise network to explore a professionally managed retail opportunity backed by structured support and a proven format.
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Email:</span>{" "}
-                <a
-                  href="mailto:info@thebuyzaarmart.com"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  info@thebuyzaarmart.com
-                </a>
-              </p>
-
-              <p className="mb-4 text-gray-800">
-                <span className="font-semibold">Phone / WhatsApp:</span>{" "}
-                <a
-                  href="tel:+919217991727"
-                  className="font-semibold text-green-600 hover:underline"
-                >
-                  9217991727
-                </a>
-              </p>
-
-              <p className="text-gray-800">
-                <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
-              </p>
+              <ul className="mb-4 list-disc pl-5 space-y-2">
+                <li>
+                  Delhi&apos;s daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
+                </li>
+                <li>
+                  Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
+                </li>
+                <li>
+                  <span className="font-semibold">Email:</span>{" "}
+                  <a
+                    href="mailto:info@thebuyzaarmart.com"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    info@thebuyzaarmart.com
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Phone / WhatsApp:</span>{" "}
+                  <a
+                    href="tel:+919217991727"
+                    className="font-semibold text-green-600 hover:underline"
+                  >
+                    9217991727
+                  </a>
+                </li>
+                <li>
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                </li>
+              </ul>
             </div>
           </div>
 
           <CityInternalLinks
-            city="delhi-ncr"
+            city="delhi"
             currentSlug="/delhi/foco-franchise-model-grocery-store-delhi"
           />
         </div>

@@ -18,6 +18,7 @@ export const metadata = {
     "beginner friendly franchise India",
     "franchise opportunity NCR",
     "grocery business first time investor",
+    "grocery franchise for first time investor delhi ncr",
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/grocery-franchise-for-first-time-investor-delhi-ncr",

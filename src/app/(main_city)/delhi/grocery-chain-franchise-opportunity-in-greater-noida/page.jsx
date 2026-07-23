@@ -18,6 +18,16 @@ export const metadata = {
     "Buyzaar Mart chain franchise",
     "grocery business Greater Noida",
     "franchise expansion Greater Noida",
+    "grocery chain franchise opportunity in greater noida",
+    "grocery franchise Greater Noida",
+    "supermarket franchise Greater Noida",
+    "Buyzaar Mart franchise Greater Noida",
+    "grocery franchise cost Greater Noida",
+    "low investment franchise Greater Noida",
+    "mini mart franchise Greater Noida",
+    "retail franchise Greater Noida West",
+    "FOCM franchise model",
+    "best grocery chain franchise India"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/grocery-chain-franchise-opportunity-in-greater-noida",

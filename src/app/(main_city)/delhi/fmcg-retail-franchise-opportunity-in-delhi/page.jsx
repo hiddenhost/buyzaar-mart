@@ -18,6 +18,16 @@ export const metadata = {
     "franchise opportunity Delhi",
     "Buyzaar Mart Delhi",
     "FMCG store franchise",
+    "fmcg retail franchise opportunity in delhi",
+    "FMCG franchise Delhi",
+    "retail franchise Delhi",
+    "supermarket franchise Delhi",
+    "Buyzaar Mart franchise Delhi",
+    "grocery franchise Delhi NCR",
+    "low investment franchise Delhi",
+    "mini mart franchise Delhi",
+    "FOCM franchise model",
+    "best FMCG franchise India"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/fmcg-retail-franchise-opportunity-in-delhi",

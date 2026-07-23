@@ -18,6 +18,16 @@ export const metadata = {
     "affordable franchise Faridabad",
     "Buyzaar Mart daily needs store",
     "franchise business Faridabad",
+    "daily needs store franchise in faridabad",
+    "grocery franchise Faridabad",
+    "supermarket franchise Faridabad",
+    "Buyzaar Mart franchise Faridabad",
+    "low investment franchise Faridabad",
+    "mini mart franchise Faridabad",
+    "daily needs retail franchise India",
+    "FOCM franchise model",
+    "franchise business Faridabad NCR",
+    "best franchise under 20 lakh Faridabad"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/daily-needs-store-franchise-in-faridabad",

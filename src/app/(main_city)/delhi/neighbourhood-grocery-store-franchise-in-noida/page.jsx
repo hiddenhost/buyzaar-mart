@@ -18,6 +18,16 @@ export const metadata = {
     "residential grocery franchise",
     "Buyzaar Mart Noida",
     "franchise business Noida",
+    "neighbourhood grocery store franchise in Noida",
+    "grocery franchise Noida",
+    "supermarket franchise Noida",
+    "Buyzaar Mart franchise Noida",
+    "grocery franchise cost Noida",
+    "low investment franchise Noida",
+    "mini mart franchise Noida",
+    "retail franchise Noida",
+    "FOCM franchise model",
+    "best grocery franchise India"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/neighbourhood-grocery-store-franchise-in-noida",

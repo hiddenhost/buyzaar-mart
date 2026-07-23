@@ -18,6 +18,16 @@ export const metadata = {
     "franchise opportunity Delhi",
     "Buyzaar Mart Mini Mart",
     "small business franchise Delhi",
+    "mart franchise with low investment in Delhi",
+    "low investment franchise Delhi",
+    "mart franchise Delhi",
+    "grocery franchise Delhi low investment",
+    "Buyzaar Mart franchise Delhi",
+    "mini mart franchise Delhi",
+    "supermarket franchise Delhi",
+    "retail franchise Delhi under 20 lakh",
+    "FOCM franchise model",
+    "best low investment franchise India"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/mart-franchise-with-low-investment-in-delhi",

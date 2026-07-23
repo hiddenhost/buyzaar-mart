@@ -18,6 +18,16 @@ export const metadata = {
     "franchise opportunity Delhi NCR",
     "Buyzaar Mart Mini Mart",
     "small business franchise Delhi NCR",
+    "small retail franchise under 15 lakh Delhi NCR",
+    "franchise under 15 lakh Delhi NCR",
+    "low investment franchise NCR",
+    "Buyzaar Mart franchise NCR",
+    "mini mart franchise Delhi NCR",
+    "grocery franchise under 15 lakh",
+    "small business franchise NCR",
+    "FOCM franchise model",
+    "retail franchise Noida Gurgaon Faridabad",
+    "best franchise under 15 lakh India"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/small-retail-franchise-under-15-lakh-delhi-ncr",

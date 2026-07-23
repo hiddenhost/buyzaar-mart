@@ -18,6 +18,16 @@ export const metadata = {
     "Buyzaar Mart NCR",
     "investment franchise grocery",
     "company operated store NCR",
+    "foco franchise model grocery store delhi",
+    "FOCO franchise Delhi",
+    "grocery franchise Delhi FOCO",
+    "Buyzaar Mart FOCO model",
+    "passive franchise investment Delhi",
+    "low investment grocery franchise Delhi",
+    "franchise owned company operated",
+    "mini mart franchise Delhi",
+    "FOCM vs FOCO",
+    "best grocery franchise India"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/foco-franchise-model-grocery-store-delhi",

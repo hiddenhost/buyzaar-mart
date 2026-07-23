@@ -18,6 +18,16 @@ export const metadata = {
     "franchise opportunity under 20 lakh",
     "retail franchise Gurgaon",
     "Buyzaar Mart Mini Mart",
+    "supermarket franchise in Gurgaon under 20 lakh",
+    "supermarket franchise Gurgaon",
+    "grocery franchise Gurgaon low investment",
+    "mini mart franchise Gurgaon",
+    "Buyzaar Mart franchise Gurgaon",
+    "low investment franchise Gurgaon",
+    "retail franchise under 20 lakh",
+    "FOCM franchise model",
+    "best supermarket franchise India",
+    "franchise business Gurgaon"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-in-gurgaon-under-20-lakh",

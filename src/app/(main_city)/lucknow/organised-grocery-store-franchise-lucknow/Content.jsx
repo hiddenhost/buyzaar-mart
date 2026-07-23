@@ -2,6 +2,7 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
+
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
@@ -48,6 +49,7 @@ const localBusinessSchema = {
     ],
   },
 };
+
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -96,6 +98,7 @@ const faqSchema = {
   ],
 };
 
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -114,6 +117,7 @@ const Content = () => {
         }}
       />
 
+
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -121,23 +125,27 @@ const Content = () => {
               Organised Grocery Store Franchise in Lucknow – The Buyzaar Mart Opportunity
             </h1>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Lucknow Is the Right City for a Grocery Franchise Right Now
             </h2>
 
+
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>Lucknow has evolved from a traditional bazaar economy into one of North India's fastest-expanding organised retail markets.</li>
-              <li>Rising disposable incomes and a growing middle class are driving demand for branded, hygienic, and price-transparent grocery shopping.</li>
+              <li>Lucknow has evolved from a traditional bazaar economy into one of North India's fastest-expanding organised retail markets, driven by urbanization and rising consumer aspirations.</li>
+              <li>Rising disposable incomes and a growing middle class are driving demand for branded, hygienic, and price-transparent grocery shopping experiences.</li>
               <li>The city's population exceeds 35 lakh residents, spread across fast-developing localities like Gomti Nagar, Hazratganj, Aliganj, Indira Nagar, Alambagh, and Mahanagar.</li>
-              <li>New townships along the Lucknow-Agra Expressway corridor are creating fresh catchment areas for organised retail.</li>
-              <li>A large proportion of daily grocery purchases still happen through unorganised kirana stores, leaving significant room for organised players.</li>
-              <li>Consumers are actively upgrading their expectations, seeking cleaner, better-stocked, and more price-predictable alternatives.</li>
+              <li>New townships along the Lucknow-Agra Expressway corridor are creating fresh catchment areas for organised retail expansion.</li>
+              <li>A large proportion of daily grocery purchases still happen through unorganised kirana stores, leaving significant room for organised players to capture market share.</li>
+              <li>Consumers are actively upgrading their expectations, seeking cleaner, better-stocked, and more price-predictable alternatives to traditional neighbourhood shops.</li>
               <li>With the right location and brand-backed setup, franchisees can tap into a loyal customer base within the first few months of operations.</li>
             </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               The FOCM Model – Why It Works for Franchise Investors
             </h2>
+
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>Most retail franchises in India put the entire operational burden on the franchisee, but The Buyzaar Mart takes a fundamentally different approach.</li>
@@ -150,9 +158,11 @@ const Content = () => {
               <li>This model is particularly well-suited for professionals, retired executives, NRIs looking to invest back home, and first-generation entrepreneurs.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Franchise Formats Available in Lucknow
             </h2>
+
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>The Buyzaar Mart offers three distinct store formats to match different investment capacities and location types across Lucknow.</li>
@@ -162,9 +172,11 @@ const Content = () => {
               <li>The Buyzaar Mart's team helps you identify the format that maximizes your return potential based on your budget, available space, and target locality.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What Support Does The Buyzaar Mart Provide?
             </h2>
+
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>The Buyzaar Mart's support structure is comprehensive and covers every stage of the franchise lifecycle.</li>
@@ -179,9 +191,11 @@ const Content = () => {
               <li><strong>Ongoing Guidance:</strong> Continuous operational support and strategic guidance throughout the franchise tenure.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Profitable Localities in Lucknow for The Buyzaar Mart Franchise
             </h2>
+
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>Lucknow's growth is distributed across multiple localities, each presenting strong potential for an organised grocery store franchise.</li>
@@ -197,12 +211,14 @@ const Content = () => {
             </ul>
 
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               The Buyzaar Mart Website – Your Gateway to Franchise Information
             </h2>
 
+
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>The official website, www.thebuyzaarmart.com, serves as the central hub for all franchise-related information, investment details, and application processes.</li>
+              <li>The official website, [www.thebuyzaarmart.com](https://www.thebuyzaarmart.com), serves as the central hub for all franchise-related information, investment details, and application processes.</li>
               <li>Prospective franchisees can explore detailed pages on store formats, investment breakdowns, city-specific opportunities, and the complete franchise onboarding journey.</li>
               <li>The website features a user-friendly inquiry form that connects you directly with the franchise development team for personalized guidance.</li>
               <li>City-specific landing pages like this one provide localized insights into Lucknow's retail landscape, profitable localities, and market potential.</li>
@@ -210,9 +226,11 @@ const Content = () => {
               <li>The website also hosts comprehensive FAQs, testimonial sections, and contact information to address all queries before you make a commitment.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Choose The Buyzaar Mart Website for Your Franchise Journey
             </h2>
+
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>The Buyzaar Mart website is designed to provide complete transparency, from investment figures to operational support structures.</li>
@@ -225,9 +243,11 @@ const Content = () => {
             </ul>
 
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Investment and Growth
             </h2>
+
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>The Buyzaar Mart franchise is designed to be accessible to a wide range of investors across different budget segments.</li>
@@ -240,9 +260,11 @@ const Content = () => {
               <li>The company's inventory protection policies, including buyback of expired and damaged goods, reduce financial risk for franchisees.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>
+
 
             <div className="mt-4 space-y-4">
               <div>
@@ -254,6 +276,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   What is the minimum space required to open The Buyzaar Mart?
@@ -262,6 +285,7 @@ const Content = () => {
                   The Mini Mart format can work in approximately 600 to 1000 square feet, making it feasible in most neighborhood locations across Lucknow.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -272,6 +296,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Does The Buyzaar Mart provide marketing support for my Lucknow store?
@@ -280,6 +305,7 @@ const Content = () => {
                   Yes. All franchise stores benefit from central brand marketing, digital campaigns, and local promotional activities coordinated by the company.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -291,10 +317,12 @@ const Content = () => {
               </div>
             </div>
 
+
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Start Your Grocery Franchise in Lucknow Today
               </h2>
+
 
               <ul className="ml-4 list-inside list-disc space-y-2 text-gray-800">
                 <li>Lucknow's retail market is at an inflection point, with organised grocery stores replacing unstructured kirana shops across the city's growing neighborhoods.</li>
@@ -331,11 +359,13 @@ const Content = () => {
             </div>
           </div>
 
+
           <CityInternalLinks
             city="lucknow"
             currentSlug="/lucknow/organised-grocery-store-franchise-in-lucknow"
           />
         </div>
+
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
           <div className="lg:sticky lg:top-28">
@@ -346,5 +376,6 @@ const Content = () => {
     </div>
   );
 };
+
 
 export default Content;

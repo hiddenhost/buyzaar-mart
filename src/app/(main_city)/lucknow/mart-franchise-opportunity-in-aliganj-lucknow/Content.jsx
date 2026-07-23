@@ -2,6 +2,7 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
+
 const localBusinessSchema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
@@ -48,6 +49,7 @@ const localBusinessSchema = {
         ],
     },
 };
+
 
 const faqSchema = {
     "@context": "https://schema.org",
@@ -104,6 +106,7 @@ const faqSchema = {
     ],
 };
 
+
 const Content = () => {
     return (
         <div className="min-h-screen bg-white pt-0">
@@ -122,6 +125,7 @@ const Content = () => {
                 }}
             />
 
+
             <div className="flex flex-col lg:flex-row">
                 <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
                     <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -129,17 +133,22 @@ const Content = () => {
                             Mart Franchise Opportunity in Aliganj, Lucknow with The Buyzaar Mart
                         </h1>
 
+
                         <p>
                             Aliganj is one of Lucknow's well-established, family-oriented residential localities, known for its mix of government housing colonies, private residential developments, and a steadily growing middle-class population.
 
+
                             As one of the city's older planned neighbourhoods, Aliganj offers a stable, high-demand customer base for daily grocery needs, the kind of predictable, repeat-purchase demand that makes it an attractive location for a mart franchise.
+
 
                             The Buyzaar Mart's flexible store formats and franchise models are well suited to tap into this consistent local demand without requiring the scale or footfall assumptions that a larger commercial catchment would demand.
                         </p>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Why Aliganj Is a Strong Location
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>A well-established residential locality with a mix of government colonies, private housing, and newer developments.</li>
@@ -152,9 +161,11 @@ const Content = () => {
                             <li>Low resident turnover favors long-term customer relationships.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             About The Buyzaar Mart Franchise
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Offers a complete, ready-to-deploy retail business system suited to a residential locality like Aliganj.</li>
@@ -165,9 +176,11 @@ const Content = () => {
                             <li>Local marketing assistance and promotional campaigns help increase customer footfall and strengthen the store's presence in the neighbourhood.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Franchise Models Offered
                         </h2>
+
 
                         <h3 className="font-medium text-gray-900">1. FOCO (Franchise Owned, Company Operated)</h3>
                         <ul className="list-disc space-y-2 pl-6">
@@ -177,6 +190,7 @@ const Content = () => {
                             <li>Returns are typically structured as a fixed share of revenue or profit.</li>
                         </ul>
 
+
                         <h3 className="font-medium text-gray-900">2. FOCM (Franchise Owned, Company Managed)</h3>
                         <ul className="list-disc space-y-2 pl-6">
                             <li>You own the store and take an active role in daily operations.</li>
@@ -185,9 +199,11 @@ const Content = () => {
                             <li>A good fit for local entrepreneurs or existing kirana owners wanting to modernize their store.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Recommended Store Format
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Mini Mart or Super Mart is typically the most practical choice for Aliganj's residential character.</li>
@@ -196,12 +212,15 @@ const Content = () => {
                             <li>Hyper Mart is generally better suited to large commercial catchments rather than Aliganj's core profile.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Investment and Space Requirements
                         </h2>
 
 
+
                         <h4>Mini Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -215,7 +234,9 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h4>Super Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -229,7 +250,9 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h4>Hyper Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -243,9 +266,11 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Step-by-Step Process to Open
                         </h2>
+
 
                         <ol className="list-decimal space-y-2 pl-6">
                             <li>Initial Inquiry — Contact The Buyzaar Mart's franchise team expressing interest specifically in an Aliganj location.</li>
@@ -259,9 +284,11 @@ const Content = () => {
                             <li>Ongoing Performance Review — Regular audits and sales tracking help fine-tune inventory and service over time.</li>
                         </ol>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Investment Considerations
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Commercial rentals in Aliganj are generally more moderate than in premium zones.</li>
@@ -272,9 +299,11 @@ const Content = () => {
                             <li>Exact investment figures and revenue-sharing terms are shared directly by the franchise team.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             What The Buyzaar Mart Provides
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>An established brand name that helps build trust among Aliganj's residential customer base.</li>
@@ -286,9 +315,11 @@ const Content = () => {
                             <li>Local marketing support for store launch and continued promotions.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Ideal Micro-Locations
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Sector-wise residential colonies — Dense housing pockets suited for a Mini Mart serving local households directly.</li>
@@ -299,9 +330,11 @@ const Content = () => {
                             <li>Areas near local schools and community centers — Reliable footfall from families throughout the week.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Who Should Consider This Franchise
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Property owners in Aliganj looking to convert commercial space into a steady income stream via the FOCO model.</li>
@@ -310,9 +343,11 @@ const Content = () => {
                             <li>Individuals wanting a moderate-investment, manageable retail business suited to a residential locality.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Common Mistakes to Avoid
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Choosing a format too large for Aliganj's predominantly residential footfall pattern.</li>
@@ -323,9 +358,11 @@ const Content = () => {
                             <li>Overlooking the seasonal footfall bump around the academic calendar near Lucknow University.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Frequently Asked Questions
                         </h2>
+
 
                         <div className="mt-4 space-y-4">
                             <div>
@@ -333,25 +370,30 @@ const Content = () => {
                                 <p className="mt-2">Mini Mart or Super Mart formats work best given Aliganj's residential character.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">Is Aliganj a good location for a mart franchise?</h3>
                                 <p className="mt-2">Yes, its stable residential population and limited organized retail presence make it well suited for daily-needs retail.</p>
                             </div>
+
 
                             <div>
                                 <h3 className="font-medium text-gray-900">What is the difference between FOCO and FOCM models?</h3>
                                 <p className="mt-2">FOCO means the company operates the store for you, while FOCM means you manage it with company support.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">Does The Buyzaar Mart help find a location in Aliganj?</h3>
                                 <p className="mt-2">Yes, the franchise team evaluates your property or helps identify suitable spaces in the area.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">Are rental costs in Aliganj lower than premium areas like Hazratganj?</h3>
                                 <p className="mt-2">Generally yes, making Aliganj more accessible for a wider range of investment budgets.</p>
                             </div>
+
 
                             <div>
                                 <h3 className="font-medium text-gray-900">What support is provided after the store opens?</h3>
@@ -359,18 +401,22 @@ const Content = () => {
                             </div>
                         </div>
 
+
                         <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
                             <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                                 Start Your Mart Franchise Journey in Aliganj
                             </h2>
 
+
                             <p className="mb-4 text-gray-800">
                                 The Buyzaar Mart offers a practical route into a stable residential retail market with flexible franchise support.
                             </p>
 
+
                             <p className="mb-4 text-gray-800">
                                 With the right location, format, and operating model, Aliganj can be a strong base for a neighbourhood mart.
                             </p>
+
 
                             <p className="mb-4 text-gray-800">
                                 <span className="font-semibold">Email:</span>{" "}
@@ -382,6 +428,7 @@ const Content = () => {
                                 </a>
                             </p>
 
+
                             <p className="mb-4 text-gray-800">
                                 <span className="font-semibold">Phone / WhatsApp:</span>{" "}
                                 <a
@@ -392,17 +439,20 @@ const Content = () => {
                                 </a>
                             </p>
 
+
                             <p className="text-gray-800">
                                 <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
                             </p>
                         </div>
                     </div>
 
+
                     <CityInternalLinks
                         city="lucknow"
                         currentSlug="/lucknow/mart-franchise-opportunity-in-aliganj-lucknow"
                     />
                 </div>
+
 
                 <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
                     <div className="lg:sticky lg:top-28">
@@ -413,5 +463,6 @@ const Content = () => {
         </div>
     );
 };
+
 
 export default Content;

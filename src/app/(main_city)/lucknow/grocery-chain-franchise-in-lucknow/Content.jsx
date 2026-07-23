@@ -2,6 +2,7 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
+
 const localBusinessSchema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
@@ -48,6 +49,7 @@ const localBusinessSchema = {
         ],
     },
 };
+
 
 const faqSchema = {
     "@context": "https://schema.org",
@@ -104,6 +106,7 @@ const faqSchema = {
     ],
 };
 
+
 const Content = () => {
     return (
         <div className="min-h-screen bg-white pt-0">
@@ -122,6 +125,7 @@ const Content = () => {
                 }}
             />
 
+
             <div className="flex flex-col lg:flex-row">
                 <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
                     <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -129,17 +133,22 @@ const Content = () => {
                             How to Open a Grocery Chain Franchise in Lucknow with The Buyzaar Mart
                         </h1>
 
+
                         <p>
                             Lucknow's retail landscape is evolving rapidly, and grocery chain franchising has emerged as one of the most reliable ways for entrepreneurs and investors to enter organized retail without the risk of building a brand from the ground up.
 
+
                             Unlike a single standalone store, a grocery chain franchise model is built around scalability — the ability to replicate a proven store format across multiple locations in the city under one consistent brand.
+
 
                             The Buyzaar Mart offers exactly this kind of scalable, multi-store franchise opportunity in Lucknow, backed by a centralized supply chain, standardized operations, and full brand support.
                         </p>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Why Lucknow Is Well Suited
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>A population of over 3.8 million spread across diverse residential, commercial, and institutional zones.</li>
@@ -151,9 +160,11 @@ const Content = () => {
                             <li>Growing consumer familiarity with organized retail brands lowers customer acquisition effort per store.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             About The Buyzaar Mart
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>An established grocery and FMCG retail brand built around franchise-led multi-store expansion.</li>
@@ -163,9 +174,11 @@ const Content = () => {
                             <li>Suited to both first-time entrepreneurs and existing partners looking to expand into a multi-store chain.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Franchise Models Offered
                         </h2>
+
 
                         <h3 className="font-medium text-gray-900">1. FOCO (Franchise Owned, Company Operated)</h3>
                         <ul className="list-disc space-y-2 pl-6">
@@ -176,6 +189,7 @@ const Content = () => {
                             <li>Well suited to investors focused on capital deployment and passive returns.</li>
                         </ul>
 
+
                         <h3 className="font-medium text-gray-900">2. FOCM (Franchise Owned, Company Managed)</h3>
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Franchise partner owns the store and takes an active operational role.</li>
@@ -185,12 +199,15 @@ const Content = () => {
                             <li>As the number of outlets grows, partners can bring in store-level managers while retaining oversight.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Store Formats Across a Chain
                         </h2>
 
 
+
                         <h4>Mini Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -204,7 +221,9 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h4>Super Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -218,7 +237,9 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h4>Hyper Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -232,9 +253,11 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Step-by-Step Process to Build a Chain
                         </h2>
+
 
                         <ol className="list-decimal space-y-2 pl-6">
                             <li>Initial Inquiry — Contact The Buyzaar Mart's franchise development team outlining your interest in a single or multi-store rollout across Lucknow.</li>
@@ -248,9 +271,11 @@ const Content = () => {
                             <li>Chain-Wide Performance Review — Regular audits and comparisons across outlets help identify best practices.</li>
                         </ol>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Investment Considerations
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Total investment scales with the number of outlets and formats.</li>
@@ -260,9 +285,11 @@ const Content = () => {
                             <li>A phased rollout is generally a lower-risk approach than opening multiple stores simultaneously.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             What The Buyzaar Mart Provides
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>A consistent brand identity that builds customer trust faster at each new outlet.</li>
@@ -272,9 +299,11 @@ const Content = () => {
                             <li>Staff training programs that can be scaled and replicated as new stores open.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Prime Localities to Consider
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Gomti Nagar and Gomti Nagar Extension — high-income residential catchment suited for a Super Mart or Hyper Mart flagship.</li>
@@ -286,9 +315,11 @@ const Content = () => {
                             <li>A chain typically starts with one or two anchor stores before expanding into adjacent residential neighbourhoods.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Who Should Consider This Opportunity
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>
@@ -297,17 +328,20 @@ const Content = () => {
                                 Buyzaar Mart franchise stores in high-demand residential and commercial locations.
                             </li>
 
+
                             <li>
                                 Entrepreneurs with retail or business management experience who want to actively grow
                                 a successful regional supermarket chain. The franchise model provides the support,
                                 branding, and operational guidance needed to scale the business efficiently.
                             </li>
 
+
                             <li>
                                 Existing single-outlet Buyzaar Mart franchise partners looking to expand into additional
                                 neighbourhoods and increase their market presence. Multi-unit ownership allows partners
                                 to benefit from greater brand recognition and improved operational efficiency.
                             </li>
+
 
                             <li>
                                 Business groups or family enterprises with access to multiple commercial properties
@@ -316,9 +350,11 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Common Mistakes to Avoid
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Expanding too quickly before the first store has stabilized.</li>
@@ -329,9 +365,11 @@ const Content = () => {
                             <li>Ignoring performance data across the chain.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Frequently Asked Questions
                         </h2>
+
 
                         <div className="mt-4 space-y-4">
                             <div>
@@ -339,25 +377,30 @@ const Content = () => {
                                 <p className="mt-2">It is a franchise structure where a single brand operates multiple stores across a city under standardized systems.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">Can I start with one store and expand later in Lucknow?</h3>
                                 <p className="mt-2">Yes, a phased rollout starting with one store and expanding after stabilization is the recommended approach.</p>
                             </div>
+
 
                             <div>
                                 <h3 className="font-medium text-gray-900">What is the difference between FOCO and FOCM for a chain?</h3>
                                 <p className="mt-2">FOCO means the company operates each store for you, while FOCM means you manage stores directly with company support.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">Does The Buyzaar Mart help identify multiple locations in Lucknow?</h3>
                                 <p className="mt-2">Yes, the franchise team assists with market mapping across different neighbourhoods.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">Do all stores in a chain need the same format?</h3>
                                 <p className="mt-2">No, chains often mix Mini Mart, Super Mart, and Hyper Mart formats based on each location's catchment.</p>
                             </div>
+
 
                             <div>
                                 <h3 className="font-medium text-gray-900">What ongoing support is provided across multiple stores?</h3>
@@ -365,18 +408,22 @@ const Content = () => {
                             </div>
                         </div>
 
+
                         <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
                             <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                                 Start Your Grocery Chain Expansion
                             </h2>
 
+
                             <p className="mb-4 text-gray-800">
                                 The Buyzaar Mart offers a scalable model for building a multi-store grocery chain across Lucknow.
                             </p>
 
+
                             <p className="mb-4 text-gray-800">
                                 With the right rollout plan, store mix, and operating model, chain expansion can become a practical path to long-term growth.
                             </p>
+
 
                             <p className="mb-4 text-gray-800">
                                 <span className="font-semibold">Email:</span>{" "}
@@ -388,6 +435,7 @@ const Content = () => {
                                 </a>
                             </p>
 
+
                             <p className="mb-4 text-gray-800">
                                 <span className="font-semibold">Phone / WhatsApp:</span>{" "}
                                 <a
@@ -398,17 +446,20 @@ const Content = () => {
                                 </a>
                             </p>
 
+
                             <p className="text-gray-800">
                                 <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM - 07:00 PM
                             </p>
                         </div>
                     </div>
 
+
                     <CityInternalLinks
                         city="lucknow"
                         currentSlug="/lucknow/grocery-chain-franchise-in-lucknow"
                     />
                 </div>
+
 
                 <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
                     <div className="lg:sticky lg:top-28">
@@ -419,5 +470,6 @@ const Content = () => {
         </div>
     );
 };
+
 
 export default Content;

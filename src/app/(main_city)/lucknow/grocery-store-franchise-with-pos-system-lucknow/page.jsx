@@ -35,13 +35,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/lucknow/grocery-store-franchise-with-pos-system-in-lucknow",
+      "https://www.thebuyzaarmart.com/lucknow/grocery-store-franchise-with-pos-system-lucknow",
   },
   openGraph: {
     title: "Grocery Store Franchise with POS System in Lucknow | The Buyzaar Mart",
     description:
       "Open a grocery store franchise in Lucknow with The Buyzaar Mart's integrated POS system. Real-time billing, inventory tracking, FOCO and FOCM models and full support.",
-    url: "https://www.thebuyzaarmart.com/lucknow/grocery-store-franchise-with-pos-system-in-lucknow",
+    url: "https://www.thebuyzaarmart.com/lucknow/grocery-store-franchise-with-pos-system-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
       {

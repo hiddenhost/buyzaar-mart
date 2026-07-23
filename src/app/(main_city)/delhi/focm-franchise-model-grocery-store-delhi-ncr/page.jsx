@@ -17,7 +17,17 @@ export const metadata = {
     "retail franchise model India",
     "company managed store franchise",
     "grocery franchise Delhi NCR",
-    "FOCM vs FOFO franchise",
+    "FOCM vs FOCO franchise",
+    "FOCM franchise model grocery store Delhi NCR",
+    "FOCM grocery franchise Delhi NCR",
+    "FOCM franchise Delhi NCR",
+    "grocery franchise Delhi NCR",
+    "supermarket franchise Delhi NCR",
+    "mini mart franchise Delhi NCR",
+    "Buyzaar Mart franchise Delhi NCR",
+    "low investment grocery franchise Delhi NCR",
+    "company managed grocery franchise Delhi NCR",
+    "retail franchise Delhi NCR"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/focm-franchise-model-grocery-store-delhi-ncr",

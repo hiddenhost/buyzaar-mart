@@ -2,6 +2,7 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
+
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
@@ -36,6 +37,7 @@ const localBusinessSchema = {
     ],
   },
 };
+
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -107,6 +109,7 @@ const faqSchema = {
   ],
 };
 
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -125,6 +128,7 @@ const Content = () => {
         }}
       />
 
+
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -132,25 +136,28 @@ const Content = () => {
               Mini Mart Franchise in Gomti Nagar, Lucknow with Buyzaar Mart
             </h1>
 
+
             <ul className="list-disc pl-6 space-y-2">
-              <li>Gomti Nagar is one of Lucknow&apos;s most well-planned and rapidly expanding residential and commercial localities.</li>
-              <li>With wide roads, premium housing societies, corporate offices, and a growing population of young professionals and families, it has become one of the most sought-after addresses in the city.</li>
-              <li>This steady rise in population density, combined with changing shopping habits, has created strong demand for organised, well-stocked mini marts that offer convenience, variety, and reliability.</li>
-              <li>Buyzaar Mart&apos;s mini mart franchise model is designed to meet exactly this demand, giving entrepreneurs a ready-to-launch, low investment supermarket franchise in Lucknow with strong brand backing.</li>
-              <li>India&apos;s retail landscape is shifting quickly from scattered, unorganised kirana stores toward branded, systematic retail formats.</li>
-              <li>Shoppers today expect clean store layouts, transparent pricing, quick billing, and a dependable range of daily-use products — expectations that traditional stores often struggle to meet consistently.</li>
-              <li>Localities like Gomti Nagar, with their higher-income, convenience-driven customer base, are especially receptive to this shift.</li>
+              <li>Gomti Nagar is one of Lucknow&apos;s most well-planned and rapidly expanding residential and commercial localities, known for its wide roads, premium housing societies, and strong infrastructure.</li>
+              <li>With a growing population of young professionals, families, and business elites, it has become one of the most premium and sought-after addresses in the city.</li>
+              <li>This steady rise in population density, coupled with evolving shopping preferences, has created strong demand for organised, well-stocked mini marts that offer convenience, variety, and a reliable shopping experience.</li>
+              <li>Buyzaar Mart&apos;s mini mart franchise model is designed to meet this demand, giving entrepreneurs a ready-to-launch, low investment supermarket franchise in Lucknow with strong brand backing and operational support.</li>
+              <li>India&apos;s retail landscape is shifting quickly from scattered, unorganised kirana stores toward branded, systematic retail formats that offer better hygiene, transparency, and customer service.</li>
+              <li>Shoppers today expect clean store layouts, transparent pricing, quick digital billing, and a dependable range of daily-use products — expectations that traditional stores often struggle to meet consistently.</li>
+              <li>Localities like Gomti Nagar, with their higher-income, convenience-driven customer base, are especially receptive to this shift toward organised retail.</li>
               <li>For an aspiring entrepreneur, this presents a timely opportunity to enter organised retail with an established brand rather than starting from zero.</li>
-              <li>Below is a complete, easy-to-scan breakdown of the opportunity.</li>
+              <li>Below is a complete, easy-to-scan breakdown of the Buyzaar Mart mini mart franchise opportunity in Gomti Nagar.</li>
             </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Gomti Nagar Is Ideal for a Mini Mart Franchise
             </h2>
 
+
             <ul className="list-disc space-y-2 pl-6">
               <li>Gomti Nagar is home to a dense mix of residential colonies, gated societies, and independent houses, offering a strong and steady base of potential customers.</li>
-              <li>The locality has a high concentration of working professionals, government employees, and business families with consistent purchasing power.</li>
+              <li>The locality has a high concentration of working professionals, government employees, and business families with consistent purchasing power and a preference for organised shopping.</li>
               <li>Several corporate offices, hospitals, educational institutions, and commercial complexes in the area generate daily footfall beyond just residents.</li>
               <li>Compared to older parts of Lucknow, Gomti Nagar has fewer organised retail chains relative to its population, leaving room for new, well-run mini marts to capture market share.</li>
               <li>Wide roads and better civic infrastructure make the area convenient for both walk-in customers and daily supply deliveries.</li>
@@ -160,9 +167,11 @@ const Content = () => {
               <li>Proximity to schools and colleges also brings in a younger customer segment looking for snacks, personal care items, and quick-purchase products.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Buyzaar Mart Is the Right Franchise Partner
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Buyzaar Mart operates on a structured, transparent franchise model built specifically to help entrepreneurs succeed in organised retail.</li>
@@ -175,9 +184,11 @@ const Content = () => {
               <li>A dedicated support system helps franchisees troubleshoot day-to-day operational issues instead of navigating challenges alone.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Key Features of the Buyzaar Mart Mini Mart Franchise Model
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li><strong>Low Investment, High Accessibility:</strong> The model is specifically structured to keep entry costs manageable, making it a genuinely low investment supermarket franchise in Lucknow.</li>
@@ -190,9 +201,11 @@ const Content = () => {
               <li><strong>Scalable Format:</strong> Successful franchisees can look at scaling into additional mini mart locations across Lucknow once the first store stabilises.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Store Area and Space Requirement
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart mini mart format is designed for compact retail spaces, typically ranging between 600 to 1000 sq. ft., making it easy to find suitable properties in a locality like Gomti Nagar.</li>
@@ -202,9 +215,11 @@ const Content = () => {
               <li>Properties located within or near gated residential societies, close to schools, or along frequently used commuter routes tend to perform best for this format.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Investment Breakdown and Earning Potential
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li>As a low investment supermarket franchise in Lucknow, the mini mart format is designed to lower the entry barrier compared to large-format supermarkets, with total investment typically starts from ₹15.25 lakh and above, depending on store size and location.</li>
@@ -218,9 +233,11 @@ const Content = () => {
               <li>Based on typical mini mart performance in high-footfall residential areas, break-even is often targeted within the first 12 to 18 months, though actual timelines depend on location, footfall, and how effectively the store is managed.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Who Should Consider This Franchise Opportunity
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Aspiring entrepreneurs in Lucknow looking to enter retail with the support of an established, recognisable brand.</li>
@@ -232,9 +249,11 @@ const Content = () => {
               <li>First-time business owners who prefer a proven, replicable model over building operations and vendor relationships from scratch.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Steps to Start Your Buyzaar Mart Mini Mart Franchise
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li><strong>Initial Inquiry:</strong> Contact the Buyzaar Mart franchise team and share your interest along with your preferred location in Gomti Nagar.</li>
@@ -247,9 +266,11 @@ const Content = () => {
               <li><strong>Grand Opening and Ongoing Support:</strong> Post-launch, franchisees receive continued operational and marketing support to help stabilise and grow the business.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Ongoing Operational Support for Franchise Partners
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li><strong>Timely Restocking:</strong> A centralised supply chain ensures fast-moving products are replenished quickly, reducing lost sales from empty shelves.</li>
@@ -259,9 +280,11 @@ const Content = () => {
               <li><strong>Compliance Guidance:</strong> Support with licensing, GST, and other regulatory requirements helps franchisees stay compliant without added stress.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Advantages of Partnering with an Organised Retail Brand
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li><strong>Instant Brand Trust:</strong> Customers are more likely to trust and return to a branded mini mart over an unbranded local shop.</li>
@@ -271,9 +294,11 @@ const Content = () => {
               <li><strong>Reduced Business Risk:</strong> Ongoing brand support lowers the typical risks associated with starting an independent, unbranded retail business.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Points to Evaluate Before Signing the Franchise Agreement
             </h2>
+
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Get a complete breakdown of costs, including franchise fee, store setup, initial inventory, and working capital needs.</li>
@@ -283,9 +308,11 @@ const Content = () => {
               <li>Clarify the exact scope of ongoing support, including training, marketing, and supply chain reliability, after the store goes live.</li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions (FAQs)
             </h2>
+
 
             <div className="mt-4 space-y-4">
               <div>
@@ -297,6 +324,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Q2. Is Gomti Nagar a good location for a mini mart franchise?
@@ -305,6 +333,7 @@ const Content = () => {
                   Yes, due to its dense residential population, rising incomes, and limited organised retail presence.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -315,6 +344,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Q9. How much space is needed to open a Buyzaar Mart mini mart?
@@ -323,6 +353,7 @@ const Content = () => {
                   Around 600 to 1000 sq. ft. of ground-floor retail space with good visibility and easy customer access.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -333,6 +364,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Q5. Do I need prior retail experience to apply?
@@ -341,6 +373,7 @@ const Content = () => {
                   No, Buyzaar Mart provides complete setup and training support, making it suitable for first-time entrepreneurs.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -352,18 +385,22 @@ const Content = () => {
               </div>
             </div>
 
+
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Start Your Mini Mart Franchise Journey in Gomti Nagar, Lucknow
               </h2>
 
+
               <p className="mb-4 text-gray-800">
                 Gomti Nagar&apos;s daily consumer economy offers one of the most reliable opportunities for a branded mini mart retail store.
               </p>
 
+
               <p className="mb-4 text-gray-800">
                 Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
               </p>
+
 
               <p className="mb-4 text-gray-800">
                 <span className="font-semibold">Email:</span>{" "}
@@ -375,6 +412,7 @@ const Content = () => {
                 </a>
               </p>
 
+
               <p className="mb-4 text-gray-800">
                 <span className="font-semibold">Phone / WhatsApp:</span>{" "}
                 <a
@@ -385,17 +423,20 @@ const Content = () => {
                 </a>
               </p>
 
+
               <p className="text-gray-800">
                 <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
               </p>
             </div>
           </div>
 
+
           <CityInternalLinks
             city="lucknow"
             currentSlug="/lucknow/mini-mart-franchise-in-gomti-nagar-lucknow"
           />
         </div>
+
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
           <div className="lg:sticky lg:top-28">
@@ -406,5 +447,6 @@ const Content = () => {
     </div>
   );
 };
+
 
 export default Content;

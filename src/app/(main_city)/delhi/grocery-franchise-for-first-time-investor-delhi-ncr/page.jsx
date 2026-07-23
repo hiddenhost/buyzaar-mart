@@ -19,6 +19,16 @@ export const metadata = {
     "franchise opportunity NCR",
     "grocery business first time investor",
     "grocery franchise for first time investor delhi ncr",
+    "grocery franchise for first time investor Delhi NCR",
+    "first time investor grocery franchise Delhi NCR",
+    "low investment grocery franchise Delhi NCR",
+    "mini mart franchise Delhi NCR",
+    "supermarket franchise Delhi NCR",
+    "Buyzaar Mart franchise Delhi NCR",
+    "grocery store franchise Delhi NCR",
+    "retail franchise for beginners Delhi NCR",
+    "FOCM franchise model Delhi NCR",
+    "best grocery franchise for first time investors"
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/grocery-franchise-for-first-time-investor-delhi-ncr",

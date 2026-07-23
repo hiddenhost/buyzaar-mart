@@ -2,6 +2,7 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
+
 const localBusinessSchema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
@@ -48,6 +49,7 @@ const localBusinessSchema = {
         ],
     },
 };
+
 
 const faqSchema = {
     "@context": "https://schema.org",
@@ -104,6 +106,7 @@ const faqSchema = {
     ],
 };
 
+
 const Content = () => {
     return (
         <div className="min-h-screen bg-white pt-0">
@@ -122,6 +125,7 @@ const Content = () => {
                 }}
             />
 
+
             <div className="flex flex-col lg:flex-row">
                 <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
                     <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -129,8 +133,10 @@ const Content = () => {
                             Small Supermarket Franchise in Lucknow with The Buyzaar Mart
                         </h1>
 
+
                         <p>
                             Not every entrepreneur wants to invest in the space, capital, and operational complexity required to establish a large-format supermarket. Setting up a full-scale retail store often demands significant investment in commercial property, infrastructure, inventory, staffing, technology, and day-to-day management, making it a challenging option for many first-time business owners.
+
 
                             For many entrepreneurs, investors, and existing retailers in Lucknow, a small supermarket franchise offers the ideal balance between affordability, profitability, and operational simplicity. It provides enough product variety to meet the everyday shopping needs of a local neighbourhood while requiring a comparatively lower investment and a more manageable store size. This makes it an attractive opportunity for individuals looking to enter the organized retail sector with reduced financial risk.
                         </p>
@@ -138,9 +144,11 @@ const Content = () => {
                             The Buyzaar Mart's compact supermarket formats are specifically designed for residential neighbourhoods and growing semi-commercial locations across Lucknow. These stores offer a carefully selected assortment of groceries, packaged foods, beverages, dairy products, personal care items, home care products, household essentials, snacks, and other fast-moving consumer goods (FMCG), allowing customers to complete their daily shopping conveniently under one roof.
                         </p>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Why a Small Supermarket Format Works Well in Lucknow
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Lucknow has a large number of dense residential colonies and mid-sized commercial lanes where a large-format hypermarket is not practical or necessary.</li>
@@ -151,9 +159,11 @@ const Content = () => {
                             <li>The format also works well for existing kirana store owners looking to upgrade to an organized setup without a large jump in investment or space requirement.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             About The Buyzaar Mart's Small Supermarket Offering
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>The Buyzaar Mart offers dedicated compact formats designed to function as full-fledged small supermarkets rather than basic convenience stores.</li>
@@ -163,9 +173,11 @@ const Content = () => {
                             <li>Brand consistency across formats means a small supermarket franchise still carries the same customer trust as larger outlets.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Franchise Models Offered
                         </h2>
+
 
                         <h3 className="font-medium text-gray-900">1. FOCO (Franchise Owned, Company Operated)</h3>
                         <ul className="list-disc space-y-2 pl-6">
@@ -175,6 +187,7 @@ const Content = () => {
                             <li>Well suited to those who own or can lease a compact commercial space in a good Lucknow locality.</li>
                         </ul>
 
+
                         <h3 className="font-medium text-gray-900">2. FOCM (Franchise Owned, Company Managed)</h3>
                         <ul className="list-disc space-y-2 pl-6">
                             <li>You own the store and are actively involved in daily operations.</li>
@@ -183,12 +196,15 @@ const Content = () => {
                             <li>A natural fit for existing kirana owners or first-time entrepreneurs who want to run a manageable store themselves.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Recommended Store Formats for a Small Supermarket
                         </h2>
 
 
+
                         <h4>Mini Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -202,7 +218,9 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h4>Super Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -216,7 +234,9 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h4>Hyper Mart Format</h4>
+
 
                         <ul className="list-disc pl-6 space-y-3">
                             <li>
@@ -230,9 +250,11 @@ const Content = () => {
                             </li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Step-by-Step Process to Open
                         </h2>
+
 
                         <ol className="list-decimal space-y-2 pl-6">
                             <li>Initial Inquiry — Contact The Buyzaar Mart's franchise team specifying interest in a small-format store in Lucknow.</li>
@@ -246,9 +268,11 @@ const Content = () => {
                             <li>Ongoing Review — Regular audits and sales tracking help fine-tune the product mix for the specific catchment over time.</li>
                         </ol>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Investment Considerations for a Small Supermarket
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Because the format is compact, overall investment is significantly lower than a Hyper Mart.</li>
@@ -260,9 +284,11 @@ const Content = () => {
                             <li>Precise investment figures and revenue-sharing terms are shared by the franchise team once your specific location and format are confirmed.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             What The Buyzaar Mart Provides
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>An established brand name that builds customer trust quickly, even in a compact store format.</li>
@@ -274,22 +300,26 @@ const Content = () => {
                             <li>Local marketing support tailored to a neighbourhood-level customer base.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Ideal Localities in Lucknow
                         </h2>
 
+
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Aliganj and Jankipuram — growing middle-class residential belt well suited to a compact Mini Mart or Super Mart.</li>
                             <li>Indira Nagar — dense residential population offering consistent daily footfall for a small-format store.</li>
-                            <li>Rajajipuram and Aashiyana — established residential zones with steady, repeat grocery demand.</li>
+                            <li>Rajajipuram and Aashiyana — established residential zones with steady, repeat grocery demand from families.</li>
                             <li>Vrindavan Yojna and Vibhuti Khand — newer residential developments where a small supermarket can serve an underserved catchment.</li>
                             <li>Smaller lanes within Gomti Nagar and Hazratganj — where a compact format fits better than a larger store given space and rental constraints.</li>
-                            <li>Areas near schools, hospitals, and local markets — where consistent footfall supports a small supermarket.</li>
+                            <li>Areas near schools, hospitals, and local markets — where consistent footfall supports a small supermarket business.</li>
                         </ul>
+
 
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Who Should Consider a Small Supermarket Franchise
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>First-time entrepreneurs looking for a manageable entry point into organized retail without a large capital commitment.</li>
@@ -298,9 +328,11 @@ const Content = () => {
                             <li>Individuals who want a business that can be run part-time or with a small team rather than a large-format store requiring more staff and management.</li>
                         </ul>
 
+
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Common Mistakes to Avoid
                         </h2>
+
 
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Choosing a location with insufficient residential density to support even a small-format store.</li>
@@ -308,12 +340,14 @@ const Content = () => {
                             <li>Assuming a smaller store means minimal setup investment.</li>
                             <li>Not planning working capital for the initial stabilization period.</li>
                             <li>Skipping staff training, which affects customer experience regardless of store size.</li>
-                            <li>Underinvesting in local marketing during launch.</li>
+                            <li>Underinvesting in local marketing during the critical launch phase.</li>
                         </ul>
+
 
                         <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
                             Frequently Asked Questions
                         </h2>
+
 
                         <div className="mt-4 space-y-4">
                             <div>
@@ -321,25 +355,30 @@ const Content = () => {
                                 <p className="mt-2">Mini Mart and Super Mart are the formats best suited to a small supermarket setup.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">What is the investment difference between a small supermarket and a Hyper Mart?</h3>
                                 <p className="mt-2">A small supermarket requires significantly lower investment due to its compact size and reduced inventory needs.</p>
                             </div>
+
 
                             <div>
                                 <h3 className="font-medium text-gray-900">Can an existing kirana store be converted into a Buyzaar Mart small supermarket?</h3>
                                 <p className="mt-2">Yes, many franchise partners are existing kirana owners upgrading to an organized format.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">Is FOCO or FOCM better for a small supermarket?</h3>
                                 <p className="mt-2">FOCO suits passive investors, while FOCM suits those wanting active, hands-on involvement.</p>
                             </div>
 
+
                             <div>
                                 <h3 className="font-medium text-gray-900">How long does it take to break even on a small supermarket franchise?</h3>
                                 <p className="mt-2">It varies by location, but smaller formats generally stabilize faster than larger stores.</p>
                             </div>
+
 
                             <div>
                                 <h3 className="font-medium text-gray-900">Does The Buyzaar Mart help choose the right location for a small format store?</h3>
@@ -347,18 +386,22 @@ const Content = () => {
                             </div>
                         </div>
 
+
                         <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
                             <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                                 Start Your Small Supermarket Journey
                             </h2>
 
+
                             <p className="mb-4 text-gray-800">
                                 The Buyzaar Mart offers a practical entry into organized retail with compact formats designed for residential and semi-commercial neighbourhoods.
                             </p>
 
+
                             <p className="mb-4 text-gray-800">
                                 With the right location and store size, a small supermarket can become a steady and manageable business in Lucknow.
                             </p>
+
 
                             <p className="mb-4 text-gray-800">
                                 <span className="font-semibold">Email:</span>{" "}
@@ -370,6 +413,7 @@ const Content = () => {
                                 </a>
                             </p>
 
+
                             <p className="mb-4 text-gray-800">
                                 <span className="font-semibold">Phone / WhatsApp:</span>{" "}
                                 <a
@@ -380,17 +424,20 @@ const Content = () => {
                                 </a>
                             </p>
 
+
                             <p className="text-gray-800">
                                 <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM - 07:00 PM
                             </p>
                         </div>
                     </div>
 
+
                     <CityInternalLinks
                         city="lucknow"
                         currentSlug="/lucknow/small-supermarket-franchise-in-lucknow"
                     />
                 </div>
+
 
                 <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
                     <div className="lg:sticky lg:top-28">
@@ -401,5 +448,6 @@ const Content = () => {
         </div>
     );
 };
+
 
 export default Content;

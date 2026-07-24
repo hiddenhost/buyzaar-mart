@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from ₹15 Lakh. Apply for franchise partnership today.",
   keywords: [
-    "Buyzaar Mart partner Gurugram",
+    "buyzaar mart partner gurugram",
     "become a Buyzaar Mart franchise partner",
     "retail franchise partnership Gurugram",
     "low investment supermarket franchise",
@@ -18,6 +18,26 @@ export const metadata = {
     "franchise partner India",
     "low investment supermarket franchise Lucknow",
     "retail business franchise Gurugram",
+    "buyzaar mart partner Gurugram",
+    "Buyzaar Mart business partner Gurugram",
+    "Buyzaar Mart franchise partner Gurugram",
+    "become Buyzaar Mart partner Gurugram",
+    "Buyzaar Mart retail partner Gurugram",
+    "Buyzaar Mart grocery partner Gurugram",
+    "Buyzaar Mart supermarket partner Gurugram",
+    "Buyzaar Mart franchise Gurugram",
+    "Buyzaar Mart grocery franchise Gurugram",
+    "Buyzaar Mart mini mart franchise Gurugram",
+    "Buyzaar Mart dealership Gurugram",
+    "Buyzaar Mart distributorship Gurugram",
+    "Buyzaar Mart investment opportunity Gurugram",
+    "Buyzaar Mart business opportunity Gurugram",
+    "Buyzaar Mart franchise investment Gurugram",
+    "Buyzaar Mart franchise cost Gurugram",
+    "Buyzaar Mart franchise enquiry Gurugram",
+    "Buyzaar Mart franchise contact Gurugram",
+    "Buyzaar Mart apply for partnership Gurugram",
+    "best grocery franchise partner Gurugram"
   ],
   alternates: {
     canonical:

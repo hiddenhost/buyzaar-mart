@@ -8,6 +8,7 @@ export const metadata = {
   description:
     "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from ₹15 lakh, full brand support. Apply now and own your neighborhood supermarket.",
   keywords: [
+    "supermarket franchise opportunity in Lucknow",
     "supermarket franchise for first time investors",
     "franchise grocery mart Lucknow",
     "trusted supermarket franchise Lucknow",

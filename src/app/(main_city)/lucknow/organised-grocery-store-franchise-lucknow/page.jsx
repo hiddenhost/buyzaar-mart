@@ -8,6 +8,7 @@ export const metadata = {
   description:
     "Looking for a profitable organised grocery store franchise in Lucknow? The Buyzaar Mart offers a proven FOCM model with low investment, strong margins, and full support. Start your franchise today.",
   keywords: [
+    "organized grocery store franchise lucknow",
     "grocery franchise opportunity Lucknow",
     "grocery franchise in Lucknow",
     "Lucknow grocery franchise",

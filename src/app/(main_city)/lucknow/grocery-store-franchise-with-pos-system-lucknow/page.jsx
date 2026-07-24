@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Open a grocery store franchise in Lucknow with The Buyzaar Mart's integrated POS system. Real-time billing, inventory tracking, FOCO and FOCM models and full support.",
   keywords: [
-    "grocery franchise POS system Lucknow",
+    "grocery store franchise with pos system Lucknow",
     "franchise with billing system Lucknow",
     "The Buyzaar Mart POS",
     "retail franchise technology Lucknow",
@@ -32,6 +32,12 @@ export const metadata = {
     "automated billing supermarket franchise",
     "retail technology backbone franchise",
     "grocery franchise operational technology",
+    "grocery store franchise with POS system Lucknow",
+    "grocery franchise with POS system Lucknow",
+    "supermarket franchise with POS system Lucknow",
+    "mini mart franchise with POS system Lucknow",
+    "retail franchise with POS system Lucknow",
+    "POS enabled grocery franchise Lucknow",
   ],
   alternates: {
     canonical:

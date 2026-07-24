@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Understand grocery franchise profit potential in Lucknow with The Buyzaar Mart. Learn how location, format, and FOCO and FOCM models affect your margins.",
   keywords: [
-    "grocery franchise profit Lucknow",
+    "grocery franchise profit in lucknow",
     "franchise profit margin Lucknow",
     "The Buyzaar Mart profit",
     "grocery franchise ROI Lucknow",
@@ -31,6 +31,13 @@ export const metadata = {
     "grocery franchise cash flow",
     "franchise profit vs investment ratio",
     "retail franchise earning potential Lucknow",
+    "low investment grocery franchise Lucknow",
+    "grocery store franchise Lucknow",
+    "organized retail franchise Lucknow",
+    "retail business opportunity Lucknow",
+    "grocery business opportunity Lucknow",
+    "franchise business Lucknow",
+    "daily essentials franchise Lucknow",
   ],
   alternates: {
     canonical:

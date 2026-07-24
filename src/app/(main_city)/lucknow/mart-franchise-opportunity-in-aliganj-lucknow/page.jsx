@@ -8,6 +8,7 @@ export const metadata = {
   description:
     "Explore a mart franchise opportunity in Aliganj, Lucknow with The Buyzaar Mart. FOCO and FOCM models, Mini Mart and Super Mart formats, low investment and full support.",
   keywords: [
+    "mart franchise opportunity in aliganj lucknow",
     "mart franchise Aliganj Lucknow",
     "grocery franchise Aliganj",
     "mini mart franchise Aliganj",

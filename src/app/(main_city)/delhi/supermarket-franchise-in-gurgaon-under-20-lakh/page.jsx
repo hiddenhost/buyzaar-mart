@@ -27,7 +27,9 @@ export const metadata = {
     "retail franchise under 20 lakh",
     "FOCM franchise model",
     "best supermarket franchise India",
-    "franchise business Gurgaon"
+    "franchise business Gurgaon",
+    "Buyzaar Mart franchise Gurugram"
+
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/delhi/supermarket-franchise-in-gurgaon-under-20-lakh",

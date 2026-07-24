@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Open a retail franchise in Lucknow with The Buyzaar Mart's centralized supply chain support. Reliable sourcing, bulk pricing, FOCO and FOCM models and full support.",
   keywords: [
-    "retail franchise supply chain Lucknow",
+    "retail franchise with supply chain support Lucknow",
     "grocery franchise supply chain support",
     "The Buyzaar Mart supply chain",
     "centralized procurement franchise Lucknow",
@@ -25,6 +25,28 @@ export const metadata = {
     "FMCG distribution franchise Lucknow",
     "franchise stock availability India",
     "grocery franchise sourcing system",
+    "supply chain supported retail franchise Lucknow",
+    "grocery franchise with supply chain support Lucknow",
+    "supermarket franchise with supply chain support Lucknow",
+    "mini mart franchise with supply chain support Lucknow",
+    "Buyzaar Mart supply chain support Lucknow",
+    "Buyzaar Mart retail franchise Lucknow",
+    "Buyzaar Mart grocery franchise Lucknow",
+    "grocery store franchise Lucknow",
+    "retail franchise Lucknow",
+    "supermarket franchise Lucknow",
+    "mini mart franchise Lucknow",
+    "organized retail franchise Lucknow",
+    "grocery chain franchise Lucknow",
+    "FMCG retail franchise Lucknow",
+    "daily essentials franchise Lucknow",
+    "low investment retail franchise Lucknow",
+    "best retail franchise Lucknow",
+    "profitable grocery franchise Lucknow",
+    "retail business opportunity Lucknow",
+    "grocery business opportunity Lucknow",
+    "franchise with inventory support Lucknow",
+    "end to end supply chain franchise Lucknow"
   ],
   alternates: {
     canonical:

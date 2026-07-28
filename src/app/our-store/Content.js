@@ -120,7 +120,7 @@ export default function OurStore() {
               </div>
               <div className="relative w-full max-w-4xl mx-auto rounded-lg overflow-hidden shadow-lg border border-gray-200" style={{ paddingBottom: '50%' }}>
                 <iframe
-                  src="https://gothru.co/P69KCywUH?index=scene_7&hlookat=167&vlookat=12&fov=120"
+                  src="https://www.google.com/maps/embed?pb=!4v1785225268257!6m8!1m7!1sCAoSHENJQUJJaERYbWRGYzEyTnlKUTd1WVNoVGFSeHI.!2m2!1d28.55804249226858!2d77.34193465857015!3f60!4f0!5f0.7820865974627469"
                   className="absolute top-0 left-0 w-full h-full"
                   frameBorder="0"
                   allowFullScreen

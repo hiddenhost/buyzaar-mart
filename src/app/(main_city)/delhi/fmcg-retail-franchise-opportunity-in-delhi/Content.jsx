@@ -2,6 +2,7 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
+
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
@@ -22,7 +23,7 @@ const localBusinessSchema = {
     name: "Delhi",
   },
   openingHours: "Mo-Sa 10:00-18:00",
-  priceRange: "₹₹",
+  priceRange: "INR",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
     name: "The Buyzaar Mart FMCG Retail Franchise Formats in Delhi",
@@ -49,6 +50,7 @@ const localBusinessSchema = {
   },
 };
 
+
 const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -58,7 +60,7 @@ const faqSchema = {
       name: "What is the minimum investment for an FMCG retail franchise in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart format starts from approximately ₹15 lakh, going up to around ₹22 lakh depending on location and fit-out.",
+        text: "A Mini Mart format starts from approximately INR 15 lakh, going up to around INR 22 lakh depending on location and fit-out.",
       },
     },
     {
@@ -112,6 +114,7 @@ const faqSchema = {
   ],
 };
 
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -130,6 +133,7 @@ const Content = () => {
         }}
       />
 
+
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -137,56 +141,63 @@ const Content = () => {
               FMCG Retail Franchise Opportunity in Delhi: Complete Investment &amp; Format Guide
             </h1>
 
+
             <ul >
               <li>
-                Delhi is India&apos;s largest consumer market and one of the most active retail economies in the country. High population density, rising disposable incomes, and a rapid shift toward organized, branded shopping make it a strong ground for an FMCG retail franchise. Here&apos;s a complete look at the FMCG retail franchise opportunity in Delhi with The Buyzaar Mart — investment, store formats, locations, and support.
+                Delhi is India's largest consumer market and one of the most dynamic retail economies in the country. High population density, rising disposable incomes, and a strong shift toward organized, branded shopping make it an excellent market for an FMCG retail franchise. Here's a complete look at the FMCG retail franchise opportunity in Delhi with The Buyzaar Mart - investment, store formats, locations, and support.
               </li>
             </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Delhi Is a Strong Market for an FMCG Retail Franchise
             </h2>
 
+
             <ul className="list-disc pl-5 space-y-2">
               <li>
-                Delhi&apos;s population runs into the crores, spread across dense residential colonies, urban villages, resettlement colonies, and premium gated communities — all generating consistent daily FMCG demand.
+                Delhi's population runs into the crores, spread across dense residential colonies, urban villages, resettlement colonies, and premium gated communities - all of which generate steady daily FMCG demand.
               </li>
               <li>
-                FMCG and grocery retail is one of the most recession-resistant business categories in India — households buy staples, dairy, and packaged goods every single week, regardless of economic sentiment.
+                FMCG and grocery retail is one of the most recession-resistant business categories in India - households continue buying staples, dairy, and packaged goods every single week, regardless of market sentiment.
               </li>
               <li>
-                Organized retail penetration still varies widely across Delhi — while some pockets have modern trade, large residential neighbourhoods continue to depend on unorganized kirana stores lacking billing transparency and product consistency.
+                Organized retail penetration still varies widely across Delhi - while some pockets have modern trade, many large residential neighbourhoods continue to depend on unorganized kirana stores that lack billing transparency and product consistency.
               </li>
               <li>
-                Delhi acts as the FMCG distribution hub for the entire NCR region, giving a franchise located here direct access to distributor networks, wholesale markets, and faster restocking cycles.
+                Delhi also serves as a major FMCG distribution hub for the NCR region, giving a franchise located here direct access to distributor networks, wholesale markets, and faster restocking cycles.
               </li>
               <li>
                 Rising middle-class incomes and a growing preference for hygienic, branded, professionally run stores are steadily shifting consumer behaviour away from unbranded shops.
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What Makes FMCG Retail a Resilient Franchise Category
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
                 FMCG covers the products every household buys on a recurring, non-discretionary basis: groceries, staples, dairy, packaged foods, beverages, personal care, and household essentials.
               </li>
               <li>
-                Because these purchases happen daily rather than seasonally, an FMCG retail store sees steady, Monday-through-Sunday footfall — unlike fashion, entertainment, or food-service franchises that see sharper seasonal swings.
+                Because these purchases happen daily rather than seasonally, an FMCG retail store can see steady, Monday-through-Sunday footfall - unlike fashion, entertainment, or food-service franchises that experience sharper seasonal swings.
               </li>
               <li>
-                Repeat purchase behaviour means a well-run FMCG store builds a loyal, returning customer base within the first few months of opening.
+                Repeat purchase behaviour means a well-run FMCG store can build a loyal, returning customer base within the first few months of opening.
               </li>
               <li>
                 Nationally, the FMCG and grocery retail market is valued in the tens of lakh crores and continues to grow steadily even as e-commerce and quick-commerce expand.
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               The Buyzaar Mart Franchise Models Available in Delhi
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -203,23 +214,26 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Store Formats and Investment — Mini Mart, Super Mart, and Hyper Mart
+              Store Formats and Investment - Mini Mart, Super Mart, and Hyper Mart
             </h2>
+
 
             <ul >
               <li>
-                The Buyzaar Mart offers three store formats, so the franchise can adapt to your budget, available space, and the specific locality you&apos;re targeting in Delhi.
+                The Buyzaar Mart offers three store formats, so the franchise can adapt to your budget, available space, and the specific locality you're targeting in Delhi.
               </li>
             </ul>
+
 
             <h3 className="font-medium text-gray-900">Mini Mart</h3>
             <ul className="list-disc pl-5 space-y-2">
               <li>
-                Store size: Approximately 600–1,000 sq ft (minimum carpet area required for any Buyzaar Mart store is 600 sq ft)
+                Store size: Approximately 600-1,000 sq ft (minimum carpet area required for any Buyzaar Mart store is 600 sq ft)
               </li>
               <li>
-                Investment: Approximately ₹15 lakh to ₹22 lakh, depending on exact store size, location, and fit-out condition
+                Investment: Approximately INR 15 lakh to INR 22 lakh, depending on exact store size, location, and fit-out condition
               </li>
               <li>
                 Best for: Compact residential colonies, urban villages, and first-time investors
@@ -229,13 +243,14 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h3 className="font-medium text-gray-900">Super Mart</h3>
             <ul className="list-disc pl-5 space-y-2">
               <li>
-                Store size: Approximately 1,000–3,000 sq ft
+                Store size: Approximately 1,000-3,000 sq ft
               </li>
               <li>
-                Investment: Starting from approximately ₹26.63 lakh, scaling with size and fit-out
+                Investment: Starting from approximately INR 26.63 lakh, scaling with size and fit-out
               </li>
               <li>
                 Best for: Market areas, mixed-use zones, and higher-footfall residential pockets
@@ -244,6 +259,7 @@ const Content = () => {
                 Focus: Broader product assortment with more SKUs per category and a richer in-store experience
               </li>
             </ul>
+
 
             <h3 className="font-medium text-gray-900">Hyper Mart</h3>
             <ul className="list-disc pl-5 space-y-2">
@@ -257,9 +273,10 @@ const Content = () => {
                 Best for: High-traffic commercial locations, township markets, and busy Delhi residential zones
               </li>
               <li>
-                Focus: One-stop supermarket destination — groceries, FMCG, bakery, dairy, fresh produce, beverages, frozen foods, personal care, stationery, toys, pet care, household essentials, and devotional items
+                Focus: One-stop supermarket destination - groceries, FMCG, bakery, dairy, fresh produce, beverages, frozen foods, personal care, stationery, toys, pet care, household essentials, and devotional items
               </li>
             </ul>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -267,13 +284,15 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What&apos;s Included in Your Franchise Support Package
+              What's Included in Your Franchise Support Package
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
-                Store setup: Layout planning, shelving, racks, display units, lighting, flooring, branding, and signage — designed and installed before your store opens.
+                Store setup: Layout planning, shelving, racks, display units, lighting, flooring, branding, and signage - designed and installed before your store opens.
               </li>
               <li>
                 Technology infrastructure: POS billing, sales tracking, and inventory control systems deployed as part of the franchise setup.
@@ -282,10 +301,10 @@ const Content = () => {
                 Site evaluation: You can propose a Delhi location, and the team assesses population density, purchasing capacity, and local demand before approval.
               </li>
               <li>
-                Inventory and supply chain: Your store connects to Buyzaar Mart&apos;s procurement network — FMCG distributor relationships, direct vendor access, and regional sourcing — for competitive pricing and reliable restocking.
+                Inventory and supply chain: Your store connects to Buyzaar Mart's procurement network - FMCG distributor relationships, direct vendor access, and regional sourcing - for competitive pricing and reliable restocking.
               </li>
               <li>
-                Buyback protection: Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy, reducing inventory risk.
+                Buyback protection: Expired and damaged goods are taken back under the brand's hassle-free inventory assurance policy, reducing inventory risk.
               </li>
               <li>
                 Staff recruitment and training: Complete training on POS operations, daily routines, inventory management, customer engagement, and hygiene compliance before your first customer walks in.
@@ -294,13 +313,15 @@ const Content = () => {
                 Marketing support: Hyperlocal launch campaigns targeting the specific streets, colonies, and blocks around your store.
               </li>
               <li>
-                Certifications: FSSAI licensed, GST registered, and MSME certified — building instant credibility with Delhi&apos;s increasingly quality-conscious households.
+                Certifications: FSSAI licensed, GST registered, and MSME certified - building instant credibility with Delhi's increasingly quality-conscious households.
               </li>
             </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Best Delhi Locations for an FMCG Retail Franchise
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -320,9 +341,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Product Range Your Store Will Carry
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -351,16 +374,18 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Revenue Potential and Growth Path
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
                 FMCG retail franchises typically operate on an expected profit margin in the range of 18% to 20%, depending on format, location, and operational efficiency.
               </li>
               <li>
-                A well-located Mini Mart in a dense Delhi residential pocket generally stabilizes its footfall within the first 2–3 months as the surrounding colony adopts it as the default nearby store.
+                A well-located Mini Mart in a dense Delhi residential pocket generally stabilizes its footfall within the first 2-3 months as the surrounding colony adopts it as the default nearby store.
               </li>
               <li>
                 Under the FOCM model, the franchisee retains the gross margin on every product sold, since the store revenue and customer relationship belong directly to the franchise owner.
@@ -376,9 +401,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               FMCG Franchise vs. Traditional Kirana Store in Delhi
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -394,32 +421,36 @@ const Content = () => {
                 Marketing: A kirana store depends on word-of-mouth alone; a Buyzaar Mart franchise gets a structured, hyperlocal launch campaign.
               </li>
               <li>
-                Consumer preference: Delhi&apos;s increasingly quality-conscious, brand-aware residents are steadily shifting toward organized, hygienic retail over unbranded shops.
+                Consumer preference: Delhi's increasingly quality-conscious, brand-aware residents are steadily shifting toward organized, hygienic retail over unbranded shops.
               </li>
             </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Who Should Consider This Franchise
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
                 First-time entrepreneurs in Delhi looking for a low-risk entry into organized retail.
               </li>
               <li>
-                Working professionals seeking a business investment that doesn&apos;t require quitting their job, via the FOCM or FOCO model.
+                Working professionals seeking a business investment that doesn't require quitting their job, via the FOCM or FOCO model.
               </li>
               <li>
-                Residents of dense colonies or urban villages who understand their own community&apos;s daily shopping needs.
+                Residents of dense colonies or urban villages who understand their own community's daily shopping needs.
               </li>
               <li>
                 Investors with access to a 600 sq ft or larger ground-floor commercial or residential-facing space in Delhi.
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>
+
 
             <div className="mt-4 space-y-4">
               <div>
@@ -428,10 +459,11 @@ const Content = () => {
                 </h3>
                 <ul >
                   <li>
-                    A Mini Mart format starts from approximately ₹15 lakh, going up to around ₹22 lakh depending on location and fit-out.
+                    A Mini Mart format starts from approximately INR 15 lakh, going up to around INR 22 lakh depending on location and fit-out.
                   </li>
                 </ul>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -444,6 +476,7 @@ const Content = () => {
                 </ul>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Q3. Do I need retail experience to apply?
@@ -454,6 +487,7 @@ const Content = () => {
                   </li>
                 </ul>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -466,16 +500,18 @@ const Content = () => {
                 </ul>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Q5. What happens to unsold or expired stock?
                 </h3>
                 <ul >
                   <li>
-                    Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy.
+                    Expired and damaged goods are taken back under the brand's hassle-free inventory assurance policy.
                   </li>
                 </ul>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -487,6 +523,7 @@ const Content = () => {
                   </li>
                 </ul>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -500,14 +537,16 @@ const Content = () => {
               </div>
             </div>
 
+
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Start Your FMCG Retail Franchise Journey in Delhi
               </h2>
 
+
               <ul className="mb-4 list-disc pl-5 space-y-2">
                 <li>
-                  Delhi&apos;s daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
+                  Delhi's daily consumer economy offers one of the most reliable opportunities for a branded FMCG retail store.
                 </li>
                 <li>
                   Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
@@ -531,17 +570,19 @@ const Content = () => {
                   </a>
                 </li>
                 <li>
-                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
+                  <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM - 07:00 PM
                 </li>
               </ul>
             </div>
           </div>
+
 
           <CityInternalLinks
             city="delhi"
             currentSlug="/delhi/fmcg-retail-franchise-opportunity-in-delhi"
           />
         </div>
+
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
           <div className="lg:sticky lg:top-28">
@@ -552,5 +593,6 @@ const Content = () => {
     </div>
   );
 };
+
 
 export default Content;

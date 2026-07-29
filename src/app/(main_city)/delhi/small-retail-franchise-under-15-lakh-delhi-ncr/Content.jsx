@@ -2,6 +2,7 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
+
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
@@ -48,6 +49,7 @@ const localBusinessSchema = {
     ],
   },
 };
+
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -112,6 +114,7 @@ const faqSchema = {
   ],
 };
 
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -130,6 +133,7 @@ const Content = () => {
         }}
       />
 
+
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -137,14 +141,17 @@ const Content = () => {
               Small Retail Franchise Under 15 Lakh in Delhi NCR: Complete Investment Guide
             </h1>
 
+
             {/* Keep this first paragraph as-is (not converted to bullets) */}
             <p>
               Delhi NCR is one of India&apos;s largest and most active consumer markets, spanning Delhi, Gurgaon, Noida, Greater Noida, Faridabad, and Ghaziabad. For entrepreneurs working with a tight budget, a small retail franchise under 15 lakh in this region can still deliver a fully branded, professionally supported business. Here&apos;s a complete guide to what this looks like with The Buyzaar Mart.
             </p>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Delhi NCR Suits a Small Retail Franchise Under 15 Lakh
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -164,9 +171,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What a Franchise Under 15 Lakh Actually Buys You
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -183,9 +192,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               The Buyzaar Mart Mini Mart Format — Built for This Budget
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -205,9 +216,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               The FOCM and FOCO Models — Choosing How Involved You Want to Be
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -224,9 +237,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What&apos;s Included in Your Franchise Support Package
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -255,9 +270,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Best NCR Locations for a Franchise Under 15 Lakh
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -280,9 +297,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Factors That Keep Your Investment Close to ₹15 Lakh
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -302,9 +321,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Revenue Potential and Growth Path
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -324,9 +345,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Small Franchise vs. Independent Kirana Store in NCR
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -346,9 +369,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Who Should Consider This Franchise
             </h2>
+
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
@@ -365,9 +390,11 @@ const Content = () => {
               </li>
             </ul>
 
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>
+
 
             {/* Keep FAQ answers as <p>, not bullets */}
             <div className="mt-4 space-y-4">
@@ -380,6 +407,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Q2. What store size fits this budget?
@@ -388,6 +416,7 @@ const Content = () => {
                   Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to ₹15 lakh.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -398,6 +427,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Q4. Do I need retail experience to apply?
@@ -406,6 +436,7 @@ const Content = () => {
                   No. Both the FOCM and FOCO models are designed for first-time investors, with full training and support provided.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -416,6 +447,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Q6. What happens to unsold or expired stock?
@@ -424,6 +456,7 @@ const Content = () => {
                   Expired and damaged goods are taken back under the brand&apos;s hassle-free inventory assurance policy.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -435,10 +468,12 @@ const Content = () => {
               </div>
             </div>
 
+
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Start Your Small Retail Franchise Journey in Delhi NCR
               </h2>
+
 
               <ul className="mb-4 list-disc pl-5 space-y-2">
                 <li>
@@ -472,11 +507,13 @@ const Content = () => {
             </div>
           </div>
 
+
           <CityInternalLinks
             city="delhi-ncr"
             currentSlug="/delhi/small-retail-franchise-under-15-lakh-delhi-ncr"
           />
         </div>
+
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
           <div className="lg:sticky lg:top-28">
@@ -487,5 +524,6 @@ const Content = () => {
     </div>
   );
 };
+
 
 export default Content;

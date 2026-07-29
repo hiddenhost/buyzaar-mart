@@ -8,6 +8,7 @@ export const metadata = {
   description:
     "Explore an FMCG retail franchise opportunity in Delhi with Buyzaar Mart. Investment options from Mini Mart to Hyper Mart. Apply now!",
   keywords: [
+        "FMCG retail franchise opportunity in Delhi",
     "FMCG retail franchise Delhi",
     "Buyzaar Mart franchise Delhi",
     "best FMCG franchise India",

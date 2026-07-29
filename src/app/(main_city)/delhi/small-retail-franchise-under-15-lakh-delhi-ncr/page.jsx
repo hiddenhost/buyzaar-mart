@@ -8,8 +8,8 @@ export const metadata = {
   description:
     "Start a small retail franchise under 15 lakh in Delhi NCR with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply now!",
   keywords: [
-    "small retail franchise under 15 lakh",
     "small retail franchise under 15 lakh Delhi NCR",
+    "small retail franchise under 15 lakh",
     "retail franchise under 15 lakh Delhi NCR",
     "low investment retail franchise Delhi NCR",
     "grocery franchise under 15 lakh Delhi NCR",

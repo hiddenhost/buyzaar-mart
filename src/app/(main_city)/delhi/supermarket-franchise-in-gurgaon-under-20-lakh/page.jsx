@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Start a supermarket franchise in Gurgaon under 20 lakh with Buyzaar Mart. Low investment, brand support, and strong daily demand. Apply now!",
   keywords: [
-    "supermarket franchise Gurgaon under 20 lakh",
+    "supermarket franchise in Gurgaon under 20 lakh",
     "Buyzaar Mart franchise Gurgaon",
     "low investment supermarket franchise",
     "grocery franchise Gurgaon",

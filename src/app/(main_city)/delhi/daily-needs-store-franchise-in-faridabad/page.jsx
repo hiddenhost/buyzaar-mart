@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Start a daily needs store franchise in Faridabad with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply today!",
   keywords: [
-    "daily needs store franchise Faridabad",
+    "daily needs store franchise in Faridabad",
     "Buyzaar Mart franchise Faridabad",
     "grocery franchise Faridabad",
     "low investment franchise Faridabad",

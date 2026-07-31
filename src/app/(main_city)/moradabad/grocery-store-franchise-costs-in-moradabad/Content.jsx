@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Grocery Store Franchise Costs in Moradabad | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers a transparent grocery store franchise cost breakdown in Moradabad across Mini Mart, Super Mart, and Hyper Mart formats, covering franchise fee, interiors, technology, and opening inventory.",
-  url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-cost-in-moradabad",
+  url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-costs-in-moradabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -495,7 +495,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="moradabad"
-            currentSlug="/moradabad/grocery-store-franchise-cost-in-moradabad"
+            currentSlug="/moradabad/grocery-store-franchise-costs-in-moradabad"
           />
         </div>
 

@@ -22,13 +22,13 @@ export const metadata = {
     ],
     alternates: {
         canonical:
-            "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-cost-in-moradabad",
+            "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-costs-in-moradabad",
     },
     openGraph: {
         title: "Grocery Store Franchise Costs in Moradabad | The Buyzaar Mart",
         description:
             "Explore complete grocery store franchise costs in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment, from ₹15 lakh, with full cost breakdown.",
-        url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-cost-in-moradabad",
+        url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-costs-in-moradabad",
         siteName: "The Buyzaar Mart",
         images: [
             {

@@ -2,6 +2,7 @@ import React from "react";
 import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
+
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
@@ -36,6 +37,7 @@ const localBusinessSchema = {
     ],
   },
 };
+
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -84,6 +86,7 @@ const faqSchema = {
   ],
 };
 
+
 const Content = () => {
   return (
     <div className="min-h-screen bg-white pt-0">
@@ -102,6 +105,7 @@ const Content = () => {
         }}
       />
 
+
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
@@ -109,208 +113,222 @@ const Content = () => {
               The Buyzaar Mart: Understanding the FOCO Model Retail Store Opportunity in Varanasi
             </h1>
 
-            <p>
-              Among the various franchise structures available to investors today, the FOCO model — Franchise Owned, Company Operated — has gained particular attention from individuals who want exposure to retail business returns without taking on the day-to-day responsibility of running a store. For investors in Varanasi exploring this format, The Buyzaar Mart's FOCO retail store model offers a structured way to participate in the city's growing organized retail sector while keeping operational involvement to a minimum.
-            </p>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Among the most discussed franchise formats today, the FOCO model — Franchise Owned, Company Operated — stands out for investors who want exposure to organized retail income without having to manage the store themselves.</li>
+              <li>For investors in Varanasi looking for a structured, brand-led business opportunity, The Buyzaar Mart&apos;s FOCO retail store model provides a practical way to enter the city&apos;s growing retail market while keeping day-to-day involvement to a minimum.</li>
+              <li>This model is especially relevant for those who want asset-based participation in retail and prefer a professionally managed store backed by an established brand system.</li>
+              <li>It is also suitable for investors who are comparing passive business opportunities and want a retail asset with clear operational separation.</li>
+              <li>The model combines the stability of organized retail with the convenience of company-managed execution.</li>
+            </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What the FOCO Model Actually Means
             </h2>
 
-            <p>
-              The FOCO structure divides responsibilities clearly between the investor and the brand. Under this arrangement, the franchise partner invests in the property, infrastructure, and setup of the store — essentially owning the physical asset — while The Buyzaar Mart takes charge of running daily operations, including staffing, inventory management, billing, and customer service.
-            </p>
 
-            <p>
-              This differs significantly from the more commonly known FOFO model (Franchise Owned, Franchise Operated), where the franchise partner is responsible for both the investment and the hands-on management of the store. In a FOCO arrangement, the investor's role shifts from active operator to a more passive stakeholder, receiving returns based on store performance while the brand's team handles execution.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>The FOCO structure clearly separates ownership from operations, allowing the investor and the brand to handle different parts of the business.</li>
+              <li>Under this model, the franchise partner invests in the property, infrastructure, and store setup, meaning the investor owns the physical asset.</li>
+              <li>The Buyzaar Mart manages the store&apos;s daily execution, including staffing, inventory control, billing, and customer service.</li>
+              <li>This arrangement allows the investor to remain more passive while the brand team handles performance, systems, and operational discipline.</li>
+              <li>This is different from the FOFO model (Franchise Owned, Franchise Operated), where the franchise partner handles both investment and operational responsibility.</li>
+              <li>In a FOCO arrangement, the investor shifts from an active operator to a more passive stakeholder who receives returns based on store performance.</li>
+              <li>The brand&apos;s team manages execution, compliance, and service quality, which helps maintain consistency across the outlet.</li>
+              <li>For many investors, this distinction is the main reason FOCO feels more manageable than traditional retail ownership.</li>
+            </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Varanasi Presents a Strong Case for FOCO Investment
             </h2>
 
-            <p>
-              Varanasi's retail sector is undergoing steady transformation, driven by a growing residential base, a large student population tied to Banaras Hindu University, consistent religious tourism, and expanding commercial development along corridors like the Ring Road. These factors create dependable consumer demand for daily essentials and groceries — precisely the kind of stable, recurring revenue base that makes a FOCO investment attractive.
-            </p>
 
-            <p>
-              Much of Varanasi's grocery retail remains unorganized, served by small kirana stores without structured systems. This gap presents an opportunity for organized, professionally run stores to capture market share — and the FOCO model allows investors to benefit from this opportunity without needing direct retail management experience.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Varanasi&apos;s retail environment is evolving steadily, supported by a growing residential population and changing consumer expectations.</li>
+              <li>A significant student base connected to Banaras Hindu University helps create regular demand for groceries and daily essentials.</li>
+              <li>Consistent religious tourism and expanding commercial activity along corridors such as the Ring Road create dependable consumer movement.</li>
+              <li>These factors together support recurring purchases, which is ideal for a FOCO retail model focused on stable and repeat business.</li>
+              <li>A large part of Varanasi&apos;s grocery market is still served by unorganized kirana stores that often lack standardized systems and modern store operations.</li>
+              <li>This creates room for organized retail stores to grow, and the FOCO model allows investors to benefit from that opportunity without requiring retail management experience.</li>
+              <li>For investors looking at long-term urban consumption growth, Varanasi offers both scale and untapped retail potential.</li>
+              <li>The city&apos;s customer base is diverse, which improves the likelihood of consistent demand across multiple store formats.</li>
+            </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Who the FOCO Model Is Designed For
             </h2>
 
-            <p>
-              The FOCO structure tends to appeal to a specific type of investor profile:
-            </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Working professionals who want a retail investment but don't have time to manage daily operations.</li>
-              <li>Business owners already occupied with another venture who want diversified income streams.</li>
-              <li>Individuals seeking property-backed investment returns in the retail sector.</li>
-              <li>Investors who value brand-managed consistency over personal involvement in store-level decision-making.</li>
+              <li>Working professionals who want a retail investment but do not have time to manage the store on a daily basis.</li>
+              <li>Business owners already running another venture and looking to diversify income streams through a structured retail asset.</li>
+              <li>Individuals seeking property-backed investment returns in the organized retail sector.</li>
+              <li>Investors who prefer brand-managed consistency and professional execution over personal involvement in store operations.</li>
+              <li>People who want exposure to the retail industry without learning every operational detail themselves.</li>
+              <li>Passive investors who value a structured business model with clearly divided responsibilities.</li>
+              <li>Property owners who want to convert commercial space into a professionally run retail asset.</li>
+              <li>Those seeking a model that balances limited involvement with a branded business presence.</li>
             </ul>
 
-            <p>
-              For these individuals, the FOCO model offers exposure to retail returns while removing the operational burden typically associated with running a grocery store.
-            </p>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>For such investors, the FOCO model creates a route into retail ownership without the pressure of handling billing, staffing, inventory, or customer service personally.</li>
+              <li>It is particularly appealing to those who see retail as a stable income opportunity rather than a full-time operating business.</li>
+              <li>The structure can also reduce uncertainty for first-time investors who want a guided entry into organized retail.</li>
+            </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              The Buyzaar Mart's Role in the FOCO Structure
+              The Buyzaar Mart&apos;s Role in the FOCO Structure
             </h2>
 
-            <p>
-              Under this model, The Buyzaar Mart takes on substantial operational responsibility, which typically includes:
-            </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Recruiting, training, and managing store staff.</li>
-              <li>Overseeing day-to-day billing and customer service through the POS system.</li>
-              <li>Managing inventory procurement and restocking through the centralized supply chain network.</li>
-              <li>Monitoring sales performance and making category-level adjustments based on demand.</li>
-              <li>Ensuring the store maintains brand standards in cleanliness, layout, and customer experience.</li>
+              <li>Under this model, The Buyzaar Mart assumes a large share of the operational responsibility from the beginning of the business.</li>
+              <li>Recruiting, training, and managing store staff is handled to maintain service quality and operational discipline.</li>
+              <li>Daily billing and customer service are overseen through an efficient POS-based billing system.</li>
+              <li>Procurement, stock planning, and replenishment are managed through a centralized supply chain network.</li>
+              <li>Sales performance is monitored regularly so the store can adjust categories based on customer demand.</li>
+              <li>The outlet is maintained according to brand standards in cleanliness, layout, product presentation, and customer experience.</li>
+              <li>This hands-on operational involvement is what makes FOCO distinct from a conventional franchise setup, where the partner would normally handle these tasks directly.</li>
+              <li>It also gives investors confidence that the store will be run using a standard system rather than ad hoc decisions.</li>
             </ul>
 
-            <p>
-              This level of involvement from The Buyzaar Mart is what distinguishes the FOCO model from a traditional franchise arrangement, where these responsibilities would otherwise fall on the franchise partner.
-            </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              The Investor's Responsibilities in a FOCO Arrangement
+              The Investor&apos;s Responsibilities in a FOCO Arrangement
             </h2>
 
-            <p>
-              While operational duties shift to The Buyzaar Mart, the investor still holds key responsibilities, primarily centered around the physical asset:
-            </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Securing and leasing or owning the commercial property.</li>
-              <li>Funding the interior fit-out, including shelving, refrigeration, and checkout infrastructure.</li>
-              <li>Covering the initial setup costs, including POS hardware installation.</li>
-              <li>Entering into a formal agreement outlining revenue-sharing terms, responsibilities, and duration.</li>
+              <li>The investor still carries key responsibilities even though daily operations are managed by the brand.</li>
+              <li>Securing and leasing or owning the commercial property is one of the first responsibilities.</li>
+              <li>Funding the interior fit-out, including shelving, refrigeration, fixtures, and checkout infrastructure, remains the investor&apos;s role.</li>
+              <li>Covering the initial setup costs, including POS hardware installation and store-readiness expenses, is also part of the contribution.</li>
+              <li>The investor must enter a formal agreement that defines revenue-sharing terms, responsibilities, duration, and exit conditions.</li>
+              <li>In simple terms, the investor contributes capital and property, while the brand contributes operational expertise, retail systems, and management capability.</li>
+              <li>This division of roles is what makes FOCO attractive to people who want a more passive retail investment structure.</li>
+              <li>The clearer the agreement, the easier it becomes to manage expectations over time.</li>
             </ul>
 
-            <p>
-              Essentially, the investor's primary contribution is capital and property, while the brand contributes operational expertise and management.
-            </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Revenue Sharing and Return Structure
             </h2>
 
-            <p>
-              In a FOCO model, returns to the investor are typically structured around a revenue-sharing or fixed-return arrangement, as defined in the franchise agreement. This can vary depending on store performance, location, and the specific terms negotiated with The Buyzaar Mart. Because the brand operates the store, the investor's returns are generally tied to overall store profitability rather than direct involvement in driving sales.
-            </p>
-
-            <p>
-              It's important for investors to review these terms carefully, including:
-            </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>How revenue or profit is calculated and shared.</li>
-              <li>The duration of the agreement and renewal terms.</li>
-              <li>Conditions under which the agreement can be terminated by either party.</li>
-              <li>Responsibilities for major repairs, renovations, or unexpected operational costs.</li>
+              <li>In a FOCO model, the investor&apos;s returns are usually structured through a revenue-sharing or fixed-return arrangement defined in the franchise agreement.</li>
+              <li>The exact return may vary depending on the store location, sales performance, operating costs, and the negotiated terms with The Buyzaar Mart.</li>
+              <li>Because the brand operates the store, the investor&apos;s income is generally linked to overall business performance rather than personal involvement in daily sales generation.</li>
+              <li>This structure is designed for investors who prefer predictable participation in retail rather than active business management.</li>
+              <li>Understanding the return mechanism in advance helps investors compare this model with other business opportunities more clearly.</li>
+              <li>It also helps in assessing whether the expected return matches the property value and setup cost.</li>
             </ul>
 
-            <p>
-              A clear understanding of these terms upfront helps set realistic expectations about the nature and timing of expected returns.
-            </p>
+
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Investors should always study these terms carefully before proceeding.</li>
+              <li>It is important to understand how revenue or profit is calculated and how the distribution is structured.</li>
+              <li>The duration of the contract and the renewal terms should also be reviewed carefully.</li>
+              <li>The conditions under which either party can terminate the agreement must be clearly understood.</li>
+              <li>Responsibilities for major repairs, upgrades, or unexpected operational expenses should be clearly assigned in the contract.</li>
+              <li>A clear understanding of these points at the beginning helps investors set realistic expectations and plan their investment more confidently.</li>
+              <li>Proper review of the agreement can also prevent future disputes and misunderstandings.</li>
+            </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Choosing the Right Property for a FOCO Store
             </h2>
 
-            <p>
-              Since the investor's primary contribution is the property itself, site selection remains a critical factor in the success of a FOCO arrangement. The Buyzaar Mart's team typically evaluates proposed locations based on:
-            </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Residential density and demographic profile of the surrounding area.</li>
-              <li>Visibility and accessibility from main roads.</li>
-              <li>Competition from existing organized and unorganized retail nearby.</li>
-              <li>Overall footfall potential based on nearby institutions, transit points, or commercial activity.</li>
+              <li>Since the investor&apos;s main role is to provide the location, site selection is one of the most important parts of a successful FOCO arrangement.</li>
+              <li>The Buyzaar Mart&apos;s team typically evaluates potential properties based on residential density and the demographic profile of the surrounding neighborhood.</li>
+              <li>Visibility, frontage, and accessibility from nearby roads or main routes are also critical factors.</li>
+              <li>Competition from both organized retailers and local unorganized stores in the area is reviewed carefully before approval.</li>
+              <li>Overall footfall potential from nearby homes, institutions, transit points, and commercial activity is another important factor.</li>
+              <li>Promising locations in Varanasi may include Sigra, Lanka, Mahmoorganj, Sundarpur, and the Cantonment belt.</li>
+              <li>These areas combine population growth, active consumption patterns, and lower organized retail density, making them favorable for FOCO retail development.</li>
+              <li>A well-placed location can significantly improve both customer inflow and long-term store stability.</li>
             </ul>
 
-            <p>
-              Strong locations to consider in Varanasi include Sigra, Lanka, Mahmoorganj, Sundarpur, and the Cantonment belt — areas combining residential growth with limited organized retail presence.
-            </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Setting Up the Store Under a FOCO Agreement
             </h2>
 
-            <p>
-              Once a location is finalized and the agreement is signed, the setup process typically follows a structured path:
-            </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Property preparation — the investor arranges the commercial space according to The Buyzaar Mart's design and layout specifications.</li>
-              <li>Infrastructure installation — shelving, refrigeration, checkout counters, and POS billing systems are installed.</li>
-              <li>Inventory stocking — managed by The Buyzaar Mart through its centralized supply chain network.</li>
-              <li>Staff recruitment and training — handled directly by The Buyzaar Mart's operational team.</li>
-              <li>Store launch — coordinated by the brand, with marketing and promotional activity managed centrally or in coordination with the investor.</li>
+              <li>After the property is finalized and the agreement is signed, the setup process follows a structured implementation path.</li>
+              <li>Property preparation begins with the investor arranging the commercial space as per The Buyzaar Mart&apos;s layout and design requirements.</li>
+              <li>Infrastructure installation includes shelving, refrigeration units, counters, and POS billing systems.</li>
+              <li>Inventory stocking is handled by The Buyzaar Mart through its centralized sourcing and replenishment network.</li>
+              <li>Staff recruitment and training are coordinated directly by the brand&apos;s operations team.</li>
+              <li>Store launch is managed in a planned manner with marketing and promotional support from the brand.</li>
+              <li>This structured approach helps ensure the outlet opens with consistent branding, operational discipline, and customer-ready systems aligned with other Buyzaar Mart locations.</li>
+              <li>The process is designed to reduce confusion and keep the launch smooth and organized.</li>
             </ul>
 
-            <p>
-              This structured handover ensures the store opens with consistent branding, staffing, and inventory standards aligned with other Buyzaar Mart outlets.
-            </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Advantages of the FOCO Model for Passive Investors
             </h2>
 
-            <p>
-              For investors seeking retail exposure without operational responsibility, the FOCO model offers several distinct advantages:
-            </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>No requirement to manage staff, billing, or daily store operations.</li>
-              <li>Reduced time commitment compared to a fully owner-operated franchise.</li>
-              <li>Access to The Buyzaar Mart's operational expertise, including supply chain management and POS systems.</li>
-              <li>Consistency in store performance, since operations follow standardized brand processes.</li>
-              <li>An opportunity to diversify income through a retail-backed asset without becoming a full-time retailer.</li>
+              <li>The FOCO model offers several advantages for investors who want retail exposure without the burden of daily store management.</li>
+              <li>There is no need to personally manage staff, billing, inventory, or customer service.</li>
+              <li>The time commitment is much lower than that of a fully owner-operated franchise model.</li>
+              <li>Investors gain access to The Buyzaar Mart&apos;s operational systems, supply chain management, and retail expertise.</li>
+              <li>Greater consistency in execution is possible because the outlet follows standardized brand processes.</li>
+              <li>The model also creates an opportunity to diversify income through a retail-backed business without becoming a hands-on retailer.</li>
+              <li>For many investors, this balance of ownership and low involvement is the biggest appeal of FOCO.</li>
+              <li>It can be especially attractive for people who want a business asset but limited daily responsibility.</li>
             </ul>
 
-            <p>
-              This makes the FOCO model particularly suitable for individuals who view the investment primarily as a financial decision rather than a hands-on business venture.
-            </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Considerations Before Choosing the FOCO Model
             </h2>
 
-            <p>
-              While the FOCO structure offers reduced operational involvement, investors should also weigh certain trade-offs:
-            </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Returns are generally dependent on the brand's operational performance, with limited direct control over day-to-day decisions.</li>
-              <li>The investor's role is largely confined to property and capital contribution, offering less personal involvement in shaping the business.</li>
-              <li>Revenue-sharing terms need to be clearly understood and negotiated upfront to avoid future disputes.</li>
+              <li>Although FOCO reduces operational involvement, investors should still understand the model&apos;s limitations and trade-offs.</li>
+              <li>Returns depend largely on the brand&apos;s operational performance, so the investor has limited day-to-day control.</li>
+              <li>The investor&apos;s role is mostly confined to property and capital contribution, which means less personal control over daily decisions.</li>
+              <li>Revenue-sharing terms must be reviewed and documented carefully at the outset to avoid misunderstandings later.</li>
+              <li>Any investor considering FOCO should evaluate whether passive participation aligns with their financial goals and risk comfort.</li>
+              <li>For those comfortable with delegated control, FOCO can provide a practical mix of passive involvement and organized retail participation.</li>
+              <li>A realistic view of expected returns and responsibilities leads to better decision-making before investment.</li>
             </ul>
 
-            <p>
-              For investors comfortable with this level of delegated control, the FOCO model offers a balanced trade-off between passive involvement and exposure to retail business returns.
-            </p>
 
-            
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Varanasi's Timing Favors FOCO Investment
+              Why Varanasi&apos;s Timing Favors FOCO Investment
             </h2>
 
-            <p>
-              As Varanasi continues to urbanize, with improved infrastructure and rising residential demand, the city's retail sector is likely to see continued growth in organized formats. For investors looking to participate in this growth without becoming full-time retail operators, the FOCO model offers a timely, structured entry point — particularly in a city where unorganized retail still dominates and organized alternatives remain relatively limited.
-            </p>
 
-            <p>
-              The FOCO model retail store opportunity in Varanasi, offered through The Buyzaar Mart, provides a distinctive path for investors seeking exposure to organized retail without the demands of daily store management. By contributing property and capital while The Buyzaar Mart manages operations, staffing, and inventory, investors can participate in the city's retail growth story through a structured, brand-supported framework — one that prioritizes passive involvement over hands-on entrepreneurship.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>Varanasi continues to urbanize, and improved infrastructure is likely to increase demand for modern organized retail formats.</li>
+              <li>The city&apos;s growing residential demand creates room for more structured convenience-oriented retail outlets.</li>
+              <li>For investors who want to participate in that growth without becoming full-time retail operators, FOCO offers a timely and structured entry point.</li>
+              <li>This is especially relevant in a city where unorganized retail still dominates and professionally managed alternatives remain limited.</li>
+              <li>The Buyzaar Mart FOCO store model provides a practical route to enter organized retail while avoiding the pressure of daily store management.</li>
+              <li>By contributing property and capital while The Buyzaar Mart handles staffing, inventory, billing, and operations, investors can participate in Varanasi&apos;s retail growth through a brand-supported framework.</li>
+              <li>The model prioritizes passive involvement, operational consistency, and long-term retail stability.</li>
+              <li>For many investors, this creates a compelling balance between opportunity and convenience.</li>
+            </ul>
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>
+
 
             <div className="mt-4 space-y-4">
                 <div>
@@ -322,6 +340,7 @@ const Content = () => {
                     </p>
                 </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   Does the investor need any retail experience for a FOCO arrangement?
@@ -330,6 +349,7 @@ const Content = () => {
                   No. Since The Buyzaar Mart manages daily operations, staffing, and inventory, the investor does not need prior retail management experience.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -340,6 +360,7 @@ const Content = () => {
                 </p>
               </div>
 
+
               <div>
                 <h3 className="font-medium text-gray-900">
                   What responsibilities does the investor retain under this model?
@@ -348,6 +369,7 @@ const Content = () => {
                   The investor is primarily responsible for securing the property, funding the interior setup, and entering into the formal franchise agreement.
                 </p>
               </div>
+
 
               <div>
                 <h3 className="font-medium text-gray-900">
@@ -359,18 +381,22 @@ const Content = () => {
               </div>
             </div>
 
+
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Start Your FOCO Journey in Varanasi
               </h2>
 
+
               <p className="mb-4 text-gray-800">
                 The FOCO model gives investors a practical way to participate in organized retail while keeping day-to-day management in the hands of an experienced brand team.
               </p>
 
+
               <p className="mb-4 text-gray-800">
                 Join The Buyzaar Mart franchise network and explore a structured, brand-supported retail opportunity in Varanasi.
               </p>
+
 
               <p className="mb-4 text-gray-800">
                 <span className="font-semibold">Email:</span>{" "}
@@ -382,6 +408,7 @@ const Content = () => {
                 </a>
               </p>
 
+
               <p className="mb-4 text-gray-800">
                 <span className="font-semibold">Phone / WhatsApp:</span>{" "}
                 <a
@@ -392,17 +419,20 @@ const Content = () => {
                 </a>
               </p>
 
+
               <p className="text-gray-800">
                 <span className="font-semibold">Business Hours:</span> Monday to Saturday, 09:00 AM – 07:00 PM
               </p>
             </div>
           </div>
 
+
           <CityInternalLinks
             city="varanasi"
             currentSlug="/varanasi/foco-model-retail-store-opportunity-in-varanasi"
           />
         </div>
+
 
         <div className="order-2 w-full p-8 lg:order-2 lg:w-[500px]">
           <div className="lg:sticky lg:top-28">
@@ -413,5 +443,6 @@ const Content = () => {
     </div>
   );
 };
+
 
 export default Content;

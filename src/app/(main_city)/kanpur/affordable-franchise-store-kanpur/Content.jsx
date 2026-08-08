@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Affordable Franchise Store in Kanpur - The Buyzaar Mart",
   description:
     "Start an affordable franchise store in Kanpur with The Buyzaar Mart. Explore the FOCM model, ₹15 lakh starting investment, store formats, inventory support, and complete launch assistance.",
-  url: "https://www.thebuyzaarmart.com/kanpur/local-mart-franchise-kanpur",
+  url: "https://www.thebuyzaarmart.com/kanpur/affordable-franchise-store-kanpurr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -596,7 +596,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="kanpur"
-            currentSlug="/kanpur/local-mart-franchise-kanpur"
+            currentSlug="/kanpur/affordable-franchise-store-kanpur"
           />
         </div>
 

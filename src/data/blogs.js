@@ -13316,5 +13316,259 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+},
+
+{
+  id: 47,
+  slug: "packaged-snacks-beverages-highest-margin-category-grocery-franchise-2026",
+  title: "How Packaged Snacks and Beverages Are Becoming the Highest-Margin Category in 2026",
+  subtitle: "Packaged snacks and beverages are no longer just impulse buys — they are the fastest-growing, highest-margin categories on the grocery franchise shelf in 2026. Here is the complete data-backed picture and what it means for your store.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-08-09",
+  readTime: "12 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786274468/packaged-snacks-beverages-highest-margin-category-grocery-franchise-202_k1cg7q.jpg", // Add Cloudinary image URL here
+  content: "Packaged snacks and beverages are no longer just impulse buys — they are the fastest-growing, highest-margin categories on the grocery franchise shelf in 2026. Here is the complete data-backed picture and what it means for your store.",
+  tags: [
+    "Packaged Snacks Beverages Margin India 2026",
+    "Snacks FMCG Growth India",
+    "Beverages Category Grocery Franchise India",
+    "Healthy Snacks FMCG India 2026",
+    "Functional Beverages India Grocery",
+    "Makhana Millet Snacks India",
+    "Impulse Purchase Grocery Store India",
+    "Buyzaar Mart Snacks Beverages Franchise",
+    "Premium Snacks India Retail",
+    "FMCG Margin Grocery Store India 2026"
+  ],
+
+  fullContent: {
+    introduction: "Ask any experienced grocery store owner in India which product category makes them the most money per square foot of shelf space, and most will not say atta or rice. They will say snacks and beverages. This is not a new observation. But in 2026, the margin story of packaged snacks and beverages has become dramatically more compelling, because the category has fundamentally changed. It is no longer just chips and cold drinks. It is makhana, millet bars, protein snacks, functional beverages, probiotic drinks, herbal teas, and premium flavoured waters — all growing at double-digit rates, all commanding significantly higher per-unit prices than their standard equivalents, and all carrying margins that staple categories can never match. Food companies are seeing strong demand across categories such as packaged snacks, beverages, dairy products, frozen foods, and convenience meals in 2026, with high-protein snacks, low-sugar beverages, millet-based foods, and functional drinks becoming popular among younger buyers across both urban and tier-2 markets. For a Buyzaar Mart franchise partner, understanding this category shift is not academic. It is the difference between a store that earns 18% gross margin on average and one that earns 22%, because the product mix decisions you make on your shelves every month determine which side of that margin gap you sit on.",
+
+    sections: [
+      {
+        heading: "Why Snacks and Beverages Are Structurally High-Margin Categories",
+        content: [
+          { type: "paragraph", text: "Before examining what is changing in 2026, it is worth understanding why snacks and beverages are inherently higher-margin categories than staples in the first place, because this structural advantage is what the current growth trends are amplifying. The margin mechanics work differently for snacks and beverages than for staples." },
+          { type: "bullets", items: [
+            "Staple products — atta, rice, dal, edible oil — are price-sensitive commodities where the consumer knows exactly what the product should cost and will switch suppliers for a ₹5 difference. The competitive intensity forces retailer margins down to 6 to 10% on most standard staple SKUs",
+            "Packaged snacks and beverages, by contrast, are perceived-value products — the consumer is not primarily buying a commodity, she is buying a taste experience, a brand association, a convenience, or a health benefit. This perceived value supports significantly higher retail margins of 15 to 25% on standard snack and beverage products and 20 to 35% on premium and functional variants",
+            "Snacks and beverages are impulse-driven categories — the purchase decision happens at the shelf or at the billing counter, not before the customer enters the store. A customer who came in for atta does not buy extra atta because of an impulse, but she absolutely buys an extra packet of makhana or a premium green tea if it catches her attention at the right moment",
+            "They have no substitutability pressure at the immediate transaction level — unlike atta where the customer has a clear price expectation, a customer who sees a premium makhana pack at the billing counter and decides to buy it is not mentally comparing it against a cheaper alternative. The purchase is largely affective, not comparative",
+            "The snacking revolution is driven by urban millennials and dual-income nuclear families — this demographic shops with the highest discretionary spend and the lowest price sensitivity in the grocery category, making every interaction with your snack and beverage section a premium revenue opportunity"
+          ]}
+        ]
+      },
+
+      {
+        heading: "The Numbers — How Fast These Categories Are Actually Growing",
+        content: [
+          { type: "paragraph", text: "India's healthy snack market was valued at around USD 3.13 billion in 2025 and is expected to reach approximately USD 4.77 billion by 2034, growing at a CAGR of around 4.80%, driven by functional, natural options, quick commerce, and premiumisation. The snacking revolution in India is driven by urban millennials and dual-income nuclear families — baked multigrain snacks and protein-enriched packaged foods are experiencing unprecedented demand, reflecting growing health awareness among urban millennials and Gen-Z consumers. The healthy snacks segment, particularly makhana and millet-based products, is an emerging blue ocean with significant headroom for growth, with a projected CAGR of around 16.74% — this segment offers one of the most attractive growth-to-competition ratios of any FMCG category in India right now." },
+          { type: "paragraph", text: "On the beverages side: sugar-free beverages and low-calorie drinks are reshaping India's beverage industry. Vitamin-enriched functional beverages cater to health-conscious consumers seeking nutritional benefits beyond hydration. Immunity-boosting drinks have become mainstream following increased health awareness, and gut health beverages featuring probiotics and natural ingredients are gaining traction among informed consumers." },
+          { type: "paragraph", text: "In August 2025, Reliance Consumer Products Limited acquired a majority stake in Naturedge Beverages, marking its entry into the fast-growing herbal and functional beverages segment — when Reliance is making acquisitions in a category, that category is not niche, it is mainstream and growing fast. In July 2025, Chaudhary Group and Bikaji Foods formed a 50:50 joint venture to launch Indian snacks in Nepal, setting up local production — reflecting how confident FMCG manufacturers are about the long-term trajectory of India's snack category both domestically and regionally." }
+        ]
+      },
+
+      {
+        heading: "The Premiumization Within the Category — Where the Real Margin Uplift Is",
+        content: [
+          { type: "paragraph", text: "The most important story within the snacks and beverages growth narrative is not volume, it is premiumization within the category. This is where the margin story becomes genuinely exceptional. Consider the margin comparison within the biscuits subcategory alone:" },
+          { type: "bullets", items: [
+            "A standard biscuit packet selling at a ₹10 MRP generates a retailer margin of approximately 8 to 10%",
+            "A mid-range health biscuit at ₹30 generates roughly 14 to 16%",
+            "A premium protein biscuit or millet cookie at ₹60 to ₹80 generates 20 to 25%"
+          ]},
+          { type: "paragraph", text: "The consumer buying the premium biscuit is not choosing it instead of the standard option — she is buying it in addition to her regular staple shopping. The premium snack purchase is an additive basket item, not a substitution, and it generates two to three times the margin of the standard equivalent." },
+          { type: "paragraph", text: "This premiumization pattern is visible across every snack and beverage subcategory in 2026:" },
+          { type: "subheading", text: "Snacks" },
+          { type: "bullets", items: [
+            "Traditional fried namkeen (₹10 to ₹20 pack) upgrading to premium baked makhana (₹80 to ₹150 pack)",
+            "Standard potato chips upgrading to multigrain baked snack chips",
+            "Regular biscuits upgrading to protein-enriched, millet-based, or sugar-free biscuit variants",
+            "Generic dry fruit mix upgrading to branded portion-controlled premium trail mix"
+          ]},
+          { type: "subheading", text: "Beverages" },
+          { type: "bullets", items: [
+            "Standard carbonated drinks (₹20 to ₹40) upgrading to functional electrolyte drinks (₹60 to ₹120)",
+            "Regular packaged juice upgrading to cold-pressed or fortified vitamin juice",
+            "Standard tea bags upgrading to specialty green tea, tulsi tea, or immunity herbal blends",
+            "Packaged milk upgrading to probiotic drinks or protein-enriched milk variants"
+          ]},
+          { type: "paragraph", text: "In January 2026, ITC expanded its line of high-end, freshness-oriented packaged foods including cookies, cakes, chutneys, and namkeens, to connect the divide between mainstream snacks and freshly baked excellence — a clear signal from one of India's largest FMCG companies that the premium snack opportunity in India is large enough to justify significant product line investment." }
+        ]
+      },
+
+      {
+        heading: "Why Tier-2 North Indian Markets Are the Fastest-Adopting Consumer Base",
+        content: [
+          { type: "paragraph", text: "The snacks and beverages premiumization trend did not originate in tier-2 Indian cities — it started in metros. But in 2026, the adoption curve in tier-2 North Indian markets has accelerated to the point where these markets are now growing faster than metros in several premium snack and functional beverage subcategories. FMCG volume growth in India could approach 5 percent in 2026 if economic conditions remain stable, with rural markets growing faster than urban areas for multiple consecutive quarters. Three forces are specifically driving premium snack and beverage adoption in Buyzaar Mart's core tier-2 North Indian markets." },
+          { type: "bullets", items: [
+            "<strong>Social media-driven product discovery</strong> — a consumer in Kanpur or Lucknow who watches cooking reels on Instagram, follows fitness influencers on YouTube, or sees Blinkit promotions for makhana variants is discovering premium snack products at the same moment as her metro counterpart. The discovery gap has collapsed even though the organised retail supply gap has not — which means organised stores that stock these products immediately capture consumers who have been wanting them",
+            "<strong>Rising dual-income household penetration</strong> — as more women in tier-2 North Indian cities enter the formal workforce, household discretionary income rises and time for home cooking compresses simultaneously. Both changes favour snack and convenience food consumption. The dual-income family in Gomti Nagar or Indira Nagar is buying packaged snacks for evening consumption and functional beverages for weekday mornings in quantities that a single-income household in the same area would not",
+            "<strong>Young consumer demographic dominance</strong> — the snacking revolution is driven by urban millennials and Gen-Z consumers, and tier-2 North Indian cities have an exceptionally young population profile. The median age in cities like Lucknow, Kanpur, and Meerut is lower than the national average, meaning the demographic most likely to adopt premium snacks and functional beverages is the dominant consumer segment in exactly the markets where Buyzaar Mart franchise stores operate"
+          ]}
+        ]
+      },
+
+      {
+        heading: "The Impulse Architecture — How Snacks and Beverages Generate Revenue That Staples Cannot",
+        content: [
+          { type: "paragraph", text: "Understanding why snacks and beverages generate disproportionate margin is not just about the per-unit margin percentage — it is about where in the customer's shopping journey the purchase decision happens and what triggers it. Staple purchases are pre-decided — the customer has atta and oil on her mental list before she enters the store, and will buy them regardless of where they are placed on the shelf. Snack and beverage purchases are in-store-decided — a large share happen because something caught the customer's attention in the store, not because she planned to buy it." },
+          { type: "paragraph", text: "The three impulse triggers in snacks and beverages:" },
+          { type: "bullets", items: [
+            "<strong>Visual trigger</strong> — a well-organised, visually appealing snack display with attractive product packaging at eye level creates purchase consideration that was not there before the customer saw it. A new makhana flavour at eye level, a premium beverage display at the store entrance, a seasonal snack bundle on a dedicated promotional gondola — each one generates purchase decisions that would not exist in a bare-shelf presentation",
+            "<strong>Contextual trigger</strong> — certain snack and beverage purchases are triggered by the context of other purchases in the same basket. A customer buying bread and butter naturally considers a jam to go with it. A customer buying tea naturally considers biscuits. Cross-merchandising that places beverages near breakfast items, snacks near billing counters, and premium snack ranges near FMCG gift categories activates these contextual triggers systematically",
+            "<strong>Social trigger</strong> — a customer who sees an unfamiliar product with interesting packaging and a health claim will often pick it up, read the label, and buy it specifically to try it. This trial purchase, if the product is good, converts into a repeat purchase, and the repeat purchase cycle compounds the revenue and margin contribution of the category over time"
+          ]},
+          { type: "paragraph", text: "The billing counter strategy is the highest-ROI impulse activation in the entire store. A billing counter stocked with ₹20 to ₹80 snack and beverage items — sachets, mini packs, small functional drink bottles — captures customers at the moment of maximum idle attention. At 200 transactions per day, even a ₹25 average additional impulse purchase from 30% of transactions adds roughly ₹1,500 per day, or ₹45,000 per month, of pure snack and beverage revenue at 20 to 25% margin. This generates roughly ₹9,000 to ₹11,250 in additional monthly gross profit, from products placed at the billing counter at zero additional rental cost." }
+        ]
+      },
+
+      {
+        heading: "Category by Category — The Specific Snack and Beverage Subcategories to Prioritise",
+        content: [
+          { type: "subheading", text: "Makhana and Millet Snacks — The Blue Ocean of Indian FMCG" },
+          { type: "paragraph", text: "The healthy snacks segment, particularly makhana and millet-based products, offers one of the most attractive growth-to-competition ratios with a projected CAGR of around 16.74% — a blue ocean with significant headroom for growth as tier-2 consumers begin adopting premium health-oriented snacks." },
+          { type: "bullets", items: [
+            "Stock makhana in at minimum three flavours — plain, peri peri, and cheese/cream variants — from established brands including Farmley, Happilo, and Haldiram's premium range",
+            "Ragi cookies, bajra puffs, jowar sticks, and multigrain baked chips from ITC Sunfeast, Britannia NutriChoice, and emerging brands",
+            "Price point range ₹30 to ₹150 per pack — positioned as premium but not luxury, making them accessible to the mainstream middle-income consumer"
+          ]},
+
+          { type: "subheading", text: "Protein and Functional Snacks" },
+          { type: "bullets", items: [
+            "Roasted nuts and trail mixes from Happilo, Rostaa, and Too Yumm — growing fastest among working professionals",
+            "Protein bars from Yoga Bar, RiteBite, and Probar — strong demand among fitness-aware millennials in tier-2 markets",
+            "Seed mixes and energy balls — still early-stage but growing rapidly in health-conscious household segments"
+          ]},
+
+          { type: "subheading", text: "Standard Packaged Snacks — The Volume Foundation" },
+          { type: "paragraph", text: "Do not abandon the volume categories while building the premium range:" },
+          { type: "bullets", items: [
+            "Haldiram's namkeen range — consistently among the highest-velocity snack SKUs in North Indian grocery stores",
+            "Bingo and Lay's chips — strong impulse purchase drivers at the ₹10 to ₹30 price point",
+            "Parle, Britannia, and ITC biscuit ranges — non-negotiable high-velocity SKUs that anchor footfall in the snack section"
+          ]},
+
+          { type: "subheading", text: "Functional and Premium Beverages" },
+          { type: "bullets", items: [
+            "Electrolyte and hydration drinks — Gatorade, Enerzal, and Glucon-D ready-to-drink formats",
+            "Probiotic beverages — Yakult, Amul Kefir — strong with health-aware women shoppers",
+            "Herbal and immunity teas — Organic India, Himalaya, and Tata Tea's wellness range",
+            "Coconut water and flavoured water — Dabur Real Coconut Water, Evocus, and premium sparkling water for aspirational consumers"
+          ]},
+
+          { type: "subheading", text: "Summer and Seasonal Beverages — The Peak Revenue Window" },
+          { type: "paragraph", text: "The summer season has boosted demand for beverages and cold snacks — bottled drinks, flavoured yogurt products, and hydration-focused beverages are seeing strong sales growth across urban markets." },
+          { type: "bullets", items: [
+            "Pre-empt summer demand by stocking up four to six weeks before peak season — April to June is the highest beverage revenue period in North Indian grocery stores",
+            "Position refrigerated beverages at maximum visibility — eye level in the cooler with clear pricing",
+            "Create summer promotional bundles — a mango drink plus snack pack at a bundled price — that drive higher basket size during the peak season"
+          ]}
+        ]
+      },
+
+      {
+        heading: "How to Structurally Build the Snacks and Beverages Section for Maximum Margin",
+        content: [
+          { type: "subheading", text: "Shelf Space Allocation Should Reflect Margin Contribution, Not Just Volume" },
+          { type: "paragraph", text: "Most grocery franchise stores over-allocate shelf space to staples — which are volume drivers but margin compressors — and under-allocate to snacks and beverages — which are lower volume but significantly higher margin. A well-optimised Buyzaar Mart store shelf allocation for maximum overall margin should dedicate:" },
+          { type: "bullets", items: [
+            "20 to 25% of total shelf space to packaged snacks and confectionery — significantly more than most first-time franchise owners initially allocate",
+            "15 to 20% to beverages — both ambient and refrigerated — with refrigerated display prioritised for premium and functional variants",
+            "The billing counter and entry display exclusively to snack and impulse beverage products — these locations should never be used for staples, which are destination purchases that do not benefit from high-visibility placement"
+          ]},
+
+          { type: "subheading", text: "The Premium-Standard-Economy Shelf Architecture" },
+          { type: "paragraph", text: "Within the snacks section, organise each subcategory on a three-tier price architecture:" },
+          { type: "bullets", items: [
+            "Eye level — premium and functional variants (makhana, protein snacks, multigrain biscuits). Highest margin, best visibility",
+            "Mid-shelf — standard branded variants (Lay's, Haldiram's standard range, Britannia standard biscuits). High volume, solid margin",
+            "Lower shelf — economy variants and bulk packs. Lowest margin, serving the most price-sensitive segment"
+          ]},
+          { type: "paragraph", text: "This architecture ensures every customer who approaches the snack section sees the premium option first — and given that premium snack purchases are often trial-driven, this first-impression positioning materially increases premium variant trial and adoption rates in your store." },
+
+          { type: "subheading", text: "Refrigeration Is a Revenue Infrastructure Investment" },
+          { type: "paragraph", text: "For beverages, the single most important shelf decision is not which products to stock, it is whether the products are refrigerated. A premium functional beverage sold at ambient temperature generates fewer impulse purchases than the same product from a cold display. Smaller pack sizes for seasonal beverages optimise consumer spending patterns, and summer drink promotions enhance sales during peak consumption periods. A refrigerated display unit at the front or side of the store — clearly visible from the entrance — that stocks premium beverages, probiotic drinks, coconut water, and functional drinks generates beverage impulse purchase rates that ambient shelf display simply cannot match. If you have refrigeration capacity, this is the category that should occupy the most visible, most accessible position in it." }
+        ]
+      },
+
+      {
+        heading: "The Buyzaar Mart Advantage in Snacks and Beverages",
+        content: [
+          { type: "paragraph", text: "Buyzaar Mart's brand partnerships give franchise stores a significant structural advantage in building a high-margin snacks and beverages section:" },
+          { type: "bullets", items: [
+            "<strong>Haldiram's</strong> — the dominant premium namkeen and snack brand across North India, with a product range that spans every price point from ₹10 to ₹500",
+            "<strong>ITC</strong> (Sunfeast, Bingo, Aashirvaad) — India's most complete snack and biscuit portfolio, including the premium millet and multigrain ranges expanding in 2026",
+            "<strong>Britannia</strong> — NutriChoice health biscuits, premium cookies, and the expanding protein and functional snack range",
+            "<strong>Parle</strong> — the highest-volume biscuit brand in India, anchoring the economy end of the snack section with unmatched footfall-driving power",
+            "<strong>Nestlé</strong> — Maggi, KitKat, Munch, and the beverages portfolio including Nescafé and Nestea",
+            "<strong>Dabur</strong> — Real fruit drinks, Hajmola candy, and the herbal beverage range"
+          ]},
+          { type: "paragraph", text: "This combination of premium, standard, and economy brand partners across both snacks and beverages means a Buyzaar Mart franchise store can build a complete, multi-tier snacks and beverages section without needing to source from outside the established supply chain — covering every consumer segment from the ₹10 impulse buyer to the ₹150 premium health snack shopper." }
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "India's food and FMCG industry continues to show strong growth momentum in 2026, with food companies seeing strong demand across packaged snacks and beverages, driven by rising incomes, urbanisation, digital commerce, and changing consumer lifestyles",
+            "The transition within packaged snacks and beverages — from volume-driven commodity categories to margin-rich premium categories — is the most important category-level shift happening in Indian grocery retail in 2026",
+            "For a Buyzaar Mart franchise partner, this transition is not a challenge to manage, it is an opportunity to capitalise on. The supply chain partnerships, the organised retail environment, the tech-enabled inventory tracking, and the professional shelf display capabilities that come with the Buyzaar Mart franchise model are exactly what is needed to build a high-performing, high-margin snacks and beverages section",
+            "The stores that recognise snacks and beverages as their primary margin-building categories, and invest in shelf space, refrigeration, billing counter placement, and SKU curation accordingly, will consistently outperform their gross margin targets",
+            "Staples bring customers to your store. Snacks and beverages make every visit more profitable than it would otherwise be. That is not a category insight, it is the margin formula for every successful Indian grocery franchise store in 2026"
+          ]},
+          { type: "paragraph", text: "Build a store that earns on every shelf. Apply at <a href='https://thebuyzaarmart.com/franchise' style='color:#2563eb;'>thebuyzaarmart.com/franchise</a> or call <a href='tel:9217991727' style='color:#2563eb;'>9217991727</a> (Monday to Saturday, 9 AM to 7 PM)" }
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "What margin can a Buyzaar Mart franchise store realistically earn on packaged snacks?",
+      answer: "Standard packaged snacks typically carry retailer margins of 12 to 18%. Premium health snacks — makhana, protein bars, multigrain biscuits — carry 20 to 28%. At these margin levels, every rupee of shelf space dedicated to premium snacks generates significantly more gross profit than the same space dedicated to standard staples."
+    },
+    {
+      question: "Should I stock premium snacks even if my locality is predominantly working class?",
+      answer: "Yes — but calibrate the proportion. Even in working-class localities, a meaningful share of shoppers will trial a premium snack priced at ₹20 to ₹40 if it is well-displayed. The ₹100 to ₹150 premium range is better suited to middle and upper-middle-income catchments. Start with the ₹20 to ₹60 health snack range in working-class localities and expand based on what your POS data shows selling."
+    },
+    {
+      question: "Are functional beverages actually selling in tier-2 North Indian cities or is it still a metro trend?",
+      answer: "Adoption has crossed from metro to tier-2 significantly in 2026 — particularly probiotic drinks (Yakult), coconut water, and immunity teas. Electrolyte drinks are selling fastest among working professionals and students. Start with two to three SKUs per functional beverage subcategory and scale based on your specific catchment's response."
+    },
+    {
+      question: "Where should I place the snack and beverage section in my store layout?",
+      answer: "Beverages at the back of the store or in a side refrigerated display unit to drive customers through other sections. Standard snacks in a central mid-store aisle at eye level. Premium health snacks at a dedicated eye-level section visible from the entrance. Impulse snacks and small beverage packs at the billing counter without exception."
+    },
+    {
+      question: "How do I know which snack and beverage SKUs are underperforming and should be replaced?",
+      answer: "Pull your weekly POS slow-mover report — any snack or beverage SKU that has not generated a transaction in 14 days is underperforming. Replace it with a faster-moving alternative or a new variant from the same brand. In snacks and beverages, slow-movers should be cleared and replaced within 30 days rather than allowed to age on the shelf."
+    }
+  ],
+
+  metaTags: {
+    title: "How Packaged Snacks and Beverages Are Becoming the Highest-Margin Category in 2026 | The Buyzaar Mart",
+    description: "Packaged snacks and beverages are no longer just impulse buys — they are the fastest-growing, highest-margin categories on the grocery franchise shelf in 2026. Here is the complete data-backed picture and what it means for your store.",
+    keywords: "packaged snacks beverages highest margin category grocery franchise India 2026, packaged snacks FMCG margin India 2026, beverages category growth grocery store India, snacks beverages impulse purchase grocery franchise, FMCG snacks beverages margin India, Buyzaar Mart snacks beverages franchise, healthy snacks FMCG India 2026, functional beverages margin grocery India",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/packaged-snacks-beverages-highest-margin-category-grocery-franchise-2026"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/packaged-snacks-beverages-highest-margin-category-grocery-franchise-2026",
+      title: "How Packaged Snacks and Beverages Are Becoming the Highest-Margin Category in 2026",
+      description: "The complete data-backed picture of why packaged snacks and beverages are the highest-margin category on the grocery franchise shelf in 2026.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786274468/packaged-snacks-beverages-highest-margin-category-grocery-franchise-202_k1cg7q.jpg", width: 1200, height: 630, alt: "How Packaged Snacks and Beverages Are Becoming the Highest-Margin Category in 2026" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "How Packaged Snacks and Beverages Are Becoming the Highest-Margin Category in 2026",
+      description: "Makhana, functional beverages, protein snacks — why these categories carry the highest margins in 2026. Call 9217991727 or visit thebuyzaarmart.com.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786274468/packaged-snacks-beverages-highest-margin-category-grocery-franchise-202_k1cg7q.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 }
 ]

@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Start a mart franchise in Varanasi with complete training support from The Buyzaar Mart. Check store prices (Mini Mart ₹15 lakh onwards), investment details, and how to apply.",
   keywords: [
-    "mart franchise training support Varanasi",
+    "mart franchise with training support Varanasi",
     "Buyzaar Mart Varanasi",
     "grocery franchise price India",
     "Mini Mart franchise 15 lakh",

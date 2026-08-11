@@ -6,9 +6,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart – Start from ₹15 Lakh",
+  name: "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart",
   description:
-    "Looking to open a Mini Mart franchise in Gomti Nagar, Lucknow? Partner with The Buyzaar Mart under the FOCM model. Full brand support, POS system, training & supply chain included. Apply today.",
+    "Explore the Buyzaar Mart Mini Mart franchise opportunity in Gomti Nagar, Lucknow. Learn about investment starting from approximately ₹15.25 lakh, the FOCM model, store setup, POS technology, staff training, supply chain support, location requirements, and daily-needs retail operations.",
   url: "https://www.thebuyzaarmart.com/lucknow/mini-mart-franchise-in-gomti-nagar-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -22,17 +22,17 @@ const localBusinessSchema = {
     "@type": "City",
     name: "Lucknow",
   },
-  openingHours: "Mo-Sa 10:00-18:00",
+  openingHours: "Mo-Sa 09:00-19:00",
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Mini Mart Franchise Formats in Gomti Nagar, Lucknow",
+    name: "Buyzaar Mart Mini Mart Franchise Format in Gomti Nagar, Lucknow",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Compact, organised retail store format offering groceries, FMCG, and daily essentials with full brand support in Gomti Nagar, Lucknow.",
+          "A compact, organised retail store format offering groceries, FMCG products, household essentials, personal care items, and daily-use products with brand, technology, training, and operational support in Gomti Nagar, Lucknow.",
       },
     ],
   },
@@ -45,38 +45,38 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is the Buyzaar Mart mini mart franchise?",
+      name: "What is the Buyzaar Mart Mini Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "It's a compact, organised retail store format offering groceries, FMCG, and daily essentials with full brand support.",
+          "The Buyzaar Mart Mini Mart franchise is a compact organised retail store format offering groceries, FMCG products, household essentials, personal care items, and other daily-use products with brand, technology, training, and operational support.",
       },
     },
     {
       "@type": "Question",
-      name: "Is Gomti Nagar a good location for a mini mart franchise?",
+      name: "Is Gomti Nagar a good location for a Mini Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "Yes, due to its dense residential population, rising incomes, and limited organised retail presence.",
+          "Gomti Nagar may be suitable because of its residential societies, working professionals, families, offices, educational institutions, hospitals, commercial areas, and demand for convenient daily-needs shopping. Final site suitability depends on footfall, visibility, competition, rent, accessibility, and local demand.",
       },
     },
     {
       "@type": "Question",
-      name: "How much investment is required for this franchise?",
+      name: "How much investment is required for the Buyzaar Mart Mini Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "Typically between ₹5 lakh to ₹12 lakh, covering franchise fee, interiors, inventory, and working capital, depending on store size and location.",
+          "The Mini Mart investment starts from approximately ₹15.25 lakh and may cover stock, interior setup, software fee, franchise fee, and security deposit. The final investment can vary according to store size, location, equipment, fit-out, rent, and working-capital requirements.",
       },
     },
     {
       "@type": "Question",
-      name: "How much space is needed to open a Buyzaar Mart mini mart?",
+      name: "How much space is needed to open a Buyzaar Mart Mini Mart?",
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "Around 300 to 800 sq. ft. of ground-floor retail space with good visibility and easy customer access.",
+          "Approximately 600–1,000 sq. ft. of ground-floor retail space may be suitable for the Mini Mart format. The final requirement depends on the store layout, product range, storage, customer movement, visibility, and site assessment.",
       },
     },
     {
@@ -85,7 +85,7 @@ const faqSchema = {
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "Yes, franchisees receive training on billing, inventory management, and customer service before launch.",
+          "Yes. Franchise staff can receive training on billing, POS software, inventory handling, product display, customer service, hygiene, and daily store operations before launch.",
       },
     },
     {
@@ -94,7 +94,7 @@ const faqSchema = {
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "No, Buyzaar Mart provides complete setup and training support, making it suitable for first-time entrepreneurs.",
+          "Previous retail experience is not necessarily required. Buyzaar Mart provides setup guidance, training, technology support, and operational assistance according to the selected franchise format and agreement.",
       },
     },
     {
@@ -103,7 +103,7 @@ const faqSchema = {
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "Groceries, packaged foods, household essentials, personal care items, and daily-use FMCG products.",
+          "The store can offer groceries, packaged foods, dairy, beverages, household essentials, personal care products, cleaning items, snacks, and other daily-use FMCG products according to the approved product assortment.",
       },
     },
   ],
@@ -133,55 +133,50 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mini Mart Franchise in Gomti Nagar, Lucknow with Buyzaar Mart
+              Mini Mart Franchise in Gomti Nagar, Lucknow: Investment, Location and Complete Business Guide
             </h1>
 
 
             <ul className="list-disc pl-6 space-y-2">
-              <li>Gomti Nagar is one of Lucknow&apos;s most well-planned and rapidly expanding residential and commercial localities, known for its wide roads, premium housing societies, and strong infrastructure.</li>
-              <li>With a growing population of young professionals, families, and business elites, it has become one of the most premium and sought-after addresses in the city.</li>
-              <li>This steady rise in population density, coupled with evolving shopping preferences, has created strong demand for organised, well-stocked mini marts that offer convenience, variety, and a reliable shopping experience.</li>
-              <li>Buyzaar Mart&apos;s mini mart franchise model is designed to meet this demand, giving entrepreneurs a ready-to-launch, low investment supermarket franchise in Lucknow with strong brand backing and operational support.</li>
-              <li>India&apos;s retail landscape is shifting quickly from scattered, unorganised kirana stores toward branded, systematic retail formats that offer better hygiene, transparency, and customer service.</li>
-              <li>Shoppers today expect clean store layouts, transparent pricing, quick digital billing, and a dependable range of daily-use products — expectations that traditional stores often struggle to meet consistently.</li>
-              <li>Localities like Gomti Nagar, with their higher-income, convenience-driven customer base, are especially receptive to this shift toward organised retail.</li>
-              <li>For an aspiring entrepreneur, this presents a timely opportunity to enter organised retail with an established brand rather than starting from zero.</li>
-              <li>Below is a complete, easy-to-scan breakdown of the Buyzaar Mart mini mart franchise opportunity in Gomti Nagar.</li>
+              <li>Gomti Nagar is one of Lucknow&apos;s best-planned and rapidly developing residential and commercial localities, known for wide roads, housing societies, offices, educational institutions, hospitals, retail areas, and improving infrastructure.</li>
+              <li>With a growing population of young professionals, families, government employees, entrepreneurs, students, and business households, Gomti Nagar has become one of the most important consumer markets in Lucknow.</li>
+              <li>This increase in residential density, household spending, and convenience-focused shopping has created demand for organised Mini Marts that offer groceries, FMCG products, household essentials, personal care items, and other daily-use products under one roof.</li>
+              <li>The Buyzaar Mart Mini Mart franchise model is designed to address this demand by giving entrepreneurs a structured entry into organised retail with brand support, store planning, POS technology, product sourcing, staff training, and operational guidance.</li>
+              <li>India&apos;s retail landscape is gradually moving from scattered, unorganised kirana stores toward branded and systematic retail formats that focus on hygiene, product availability, transparent billing, convenience, and customer service.</li>
+              <li>Customers increasingly expect clean store layouts, clear pricing, digital payment options, quick billing, reliable stock, and a dependable range of daily essentials—expectations that independent stores may not always deliver consistently.</li>
+              <li>Localities such as Gomti Nagar, with their residential societies, professional population, commercial development, and convenience-driven customers, may be receptive to organised Mini Mart retail.</li>
             </ul>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Gomti Nagar Is Ideal for a Mini Mart Franchise
+              Why Gomti Nagar Is Suitable for a Mini Mart Franchise
             </h2>
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Gomti Nagar is home to a dense mix of residential colonies, gated societies, and independent houses, offering a strong and steady base of potential customers.</li>
-              <li>The locality has a high concentration of working professionals, government employees, and business families with consistent purchasing power and a preference for organised shopping.</li>
-              <li>Several corporate offices, hospitals, educational institutions, and commercial complexes in the area generate daily footfall beyond just residents.</li>
-              <li>Compared to older parts of Lucknow, Gomti Nagar has fewer organised retail chains relative to its population, leaving room for new, well-run mini marts to capture market share.</li>
-              <li>Wide roads and better civic infrastructure make the area convenient for both walk-in customers and daily supply deliveries.</li>
-              <li>Ongoing residential development in extensions like Gomti Nagar Extension continues to expand the customer catchment area year after year.</li>
-              <li>Rising awareness of hygiene and product quality has pushed local shoppers to prefer branded mini marts over unorganised local shops for daily essentials.</li>
-              <li>The area&apos;s premium positioning within Lucknow means customers are generally willing to pay slightly more for convenience, variety, and a better shopping experience.</li>
-              <li>Proximity to schools and colleges also brings in a younger customer segment looking for snacks, personal care items, and quick-purchase products.</li>
+              <li>Gomti Nagar includes a dense mix of residential colonies, gated societies, apartment communities, commercial blocks, and independent houses, providing multiple potential customer catchments.</li>
+              <li>The locality has a high concentration of working professionals, government employees, business families, students, and service-sector households with regular demand for groceries and daily essentials.</li>
+              <li>Corporate offices, hospitals, coaching centres, educational institutions, restaurants, gyms, and commercial complexes create additional daily footfall beyond the residential population.</li>
+              <li>Compared with the size of the overall customer base, selected parts of Gomti Nagar may still have room for well-organised neighbourhood Mini Marts that offer convenience, product variety, and reliable service.</li>
+              <li>Wide roads, established infrastructure, and better connectivity can make the locality convenient for walk-in shoppers, two-wheeler customers, delivery staff, and regular stock movement.</li>
+              <li>Gomti Nagar Extension and nearby developing residential areas continue to expand the potential customer catchment for daily-needs and grocery retail.</li>
+              <li>Growing awareness of hygiene, product quality, digital billing, and organised shopping may encourage some customers to prefer branded Mini Marts over unorganised local outlets.</li>
             </ul>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Buyzaar Mart Is the Right Franchise Partner
+              Why Choose Buyzaar Mart as Your Franchise Partner
             </h2>
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Buyzaar Mart operates on a structured, transparent franchise model built specifically to help entrepreneurs succeed in organised retail.</li>
-              <li>The brand offers a well-curated product range covering groceries, daily essentials, FMCG products, household items, and personal care goods.</li>
-              <li>A centralised supply chain removes the burden of individually sourcing and negotiating with multiple vendors and distributors.</li>
-              <li>Bulk procurement at the brand level allows franchise partners to access competitive pricing, helping protect margins in a price-sensitive market.</li>
-              <li>Store design, product placement, and signage follow a standardised format, giving every outlet a consistent, professional look that builds customer trust.</li>
-              <li>Buyzaar Mart provides hands-on support during store setup, staff training, and the initial launch phase to reduce first-time business risks.</li>
-              <li>The brand&apos;s positioning as a low investment supermarket franchise in Lucknow makes it accessible to first-time entrepreneurs as well as existing retailers looking to formalise their business.</li>
-              <li>A dedicated support system helps franchisees troubleshoot day-to-day operational issues instead of navigating challenges alone.</li>
+              <li>Buyzaar Mart follows a structured franchise model designed to help entrepreneurs evaluate, establish, and operate an organised daily-needs retail store.</li>
+              <li>The brand offers a planned product range covering groceries, staples, packaged foods, dairy, beverages, FMCG products, household items, personal care, cleaning products, and other frequently purchased categories.</li>
+              <li>A centralised supply chain can reduce the burden of individually identifying suppliers, negotiating with several distributors, monitoring product availability, and arranging every replenishment independently.</li>
+              <li>Bulk procurement and vendor coordination may help franchise partners access competitive product pricing, although actual margins depend on category, market conditions, selling price, rent, wastage, and operating costs.</li>
+              <li>Store design, product placement, branding, and signage follow a planned format that can give the outlet a professional appearance and create a consistent customer experience.</li>
+              <li>Buyzaar Mart provides support during store setup, staff training, technology installation, inventory planning, and the initial launch phase to help first-time entrepreneurs understand routine retail operations.</li>
+              <li>The brand&apos;s positioning as a low-investment supermarket franchise in Lucknow makes the Mini Mart format worth evaluating for first-time entrepreneurs and existing retailers seeking to formalise their business.</li>
             </ul>
 
 
@@ -191,14 +186,14 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li><strong>Low Investment, High Accessibility:</strong> The model is specifically structured to keep entry costs manageable, making it a genuinely low investment supermarket franchise in Lucknow.</li>
-              <li><strong>Compact Mini Mart Format:</strong> Designed for smaller retail spaces, ideal for high-footfall residential and commercial pockets like Gomti Nagar.</li>
-              <li><strong>Standardised Store Branding:</strong> Uniform layout, colour scheme, and signage ensure every Buyzaar Mart outlet is instantly recognisable and trustworthy.</li>
-              <li><strong>Technology-Driven Operations:</strong> POS billing, digital payments, and inventory tracking software come as part of the standard store setup.</li>
-              <li><strong>Curated Product Assortment:</strong> A focused product range ensures faster inventory turnover and reduces the risk of unsold, dead stock.</li>
-              <li><strong>Local Marketing Support:</strong> In-store promotions, launch offers, and brand visibility campaigns help franchisees build early customer traction.</li>
-              <li><strong>Reliable Restocking:</strong> A centralised distribution network minimises stock-outs, keeping shelves consistently full.</li>
-              <li><strong>Scalable Format:</strong> Successful franchisees can look at scaling into additional mini mart locations across Lucknow once the first store stabilises.</li>
+              <li><strong>Accessible Investment Structure:</strong> The Mini Mart format is designed for investors who want to enter organised daily-needs retail with a comparatively compact store and manageable setup requirements.</li>
+              <li><strong>Compact Store Format:</strong> The model is suitable for smaller retail spaces in residential societies, colony markets, neighbourhood commercial areas, and selected high-footfall locations in Gomti Nagar.</li>
+              <li><strong>Standardised Store Branding:</strong> Planned layouts, signage, colours, product displays, and brand communication can help make the outlet recognisable and professional.</li>
+              <li><strong>Technology-Enabled Operations:</strong> POS billing, digital payment support, and inventory tracking technology can help improve billing accuracy, stock visibility, and routine store management.</li>
+              <li><strong>Curated Product Assortment:</strong> A focused product mix can help prioritise fast-moving essentials and reduce unnecessary stock accumulation, subject to local demand and the approved category plan.</li>
+              <li><strong>Local Marketing Support:</strong> Launch communication, in-store offers, promotional campaigns, and local brand visibility activities may help the store attract initial customers.</li>
+              <li><strong>Restocking Support:</strong> Centralised sourcing and distribution coordination may assist with regular replenishment and improve product availability.</li>
+              <li><strong>Scalable Format:</strong> After the first outlet becomes operationally stable, franchisees may explore additional Mini Mart locations or larger formats, subject to approval, investment capacity, and suitable locations.</li>
             </ul>
 
 
@@ -208,29 +203,29 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart mini mart format is designed for compact retail spaces, typically ranging between 600 to 1000 sq. ft., making it easy to find suitable properties in a locality like Gomti Nagar.</li>
-              <li>A ground-floor shop with good road visibility and easy customer access is preferred, ideally located near residential societies, main markets, or busy intersections.</li>
-              <li>Additional space for a small storage or back-office area is useful for holding backup inventory and managing daily stock rotation.</li>
-              <li>Parking availability or proximity to a parking area, even informal two-wheeler parking, can meaningfully boost convenience-driven footfall in a locality like Gomti Nagar.</li>
-              <li>Properties located within or near gated residential societies, close to schools, or along frequently used commuter routes tend to perform best for this format.</li>
+              <li>The Buyzaar Mart Mini Mart format is designed for compact retail spaces, generally ranging between 600 and 1,000 sq. ft., making it easier to identify suitable properties in and around Gomti Nagar.</li>
+              <li>A ground-floor shop with good road visibility, clear signage opportunity, and easy customer access is preferred, especially near residential societies, local markets, schools, offices, or busy internal roads.</li>
+              <li>Additional storage or back-office space can be useful for holding reserve inventory, organising cartons, managing stock rotation, and keeping the customer-facing area uncluttered.</li>
+              <li>Parking availability or convenient two-wheeler parking can improve the shopping experience and encourage repeat visits for daily-need purchases.</li>
+              <li>Properties near gated communities, apartment complexes, schools, hospitals, offices, and commuter routes may provide stronger convenience-based demand than isolated or difficult-to-access locations.</li>
+              <li>Before finalising a property, applicants should evaluate rent, security deposit, frontage, visibility, access, nearby competitors, electricity, water, storage, loading arrangements, and the long-term development of the catchment.</li>
             </ul>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Investment Breakdown and Earning Potential
+              Investment Breakdown and Business Potential
             </h2>
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>As a low investment supermarket franchise in Lucknow, the mini mart format is designed to lower the entry barrier compared to large-format supermarkets, with total investment typically starts from ₹15.25 lakh and above, depending on store size and location.</li>
-              <li>This investment generally covers the stock, interior, software fee, franchise fee, and security deposit.</li>
-              <li>Daily essentials and grocery retail are recurring-demand categories, meaning customers return regularly rather than making one-time purchases, supporting steady monthly revenue once the store stabilises.</li>
-              <li>Multiple product categories under one roof — groceries, personal care, household items, and snacks — help increase the average basket size per customer.</li>
-              <li>Being a needs-based business rather than a discretionary one, mini mart retail tends to remain relatively stable even during broader economic slowdowns.</li>
-              <li>Repeat customers from nearby residential societies can significantly reduce long-term customer acquisition costs once the store is established.</li>
-              <li>Festive seasons, school reopening periods, and year-end shopping typically drive additional spikes in sales volume.</li>
-              <li>Cross-selling combinations, such as pairing grocery purchases with household or personal care items, can help improve overall profitability per transaction.</li>
-              <li>Based on typical mini mart performance in high-footfall residential areas, break-even is often targeted within the first 12 to 18 months, though actual timelines depend on location, footfall, and how effectively the store is managed.</li>
+              <li>As a low-investment supermarket franchise in Lucknow, the Mini Mart format is designed to offer a more accessible entry point than many large-format supermarket chains. The indicative investment starts from approximately ₹15.25 lakh and may vary according to store size, location, property condition, and selected requirements.</li>
+              <li>The estimated investment may include initial stock, interior setup, software fee, franchise fee, branding, POS technology, and security deposit. Applicants should request a complete written cost sheet before making a decision.</li>
+              <li>Daily essentials and grocery retail are recurring-demand categories because customers regularly purchase staples, dairy, snacks, beverages, personal care items, cleaning products, and household supplies.</li>
+              <li>Offering several product categories under one roof can increase customer convenience and may improve the average basket value when customers combine grocery purchases with household or personal-care items.</li>
+              <li>As a needs-based business, a Mini Mart may experience more consistent demand than highly seasonal or trend-dependent categories, although business performance is never guaranteed.</li>
+              <li>Repeat customers from nearby societies and residential colonies can reduce the long-term dependence on continuous advertising once the store develops local awareness and trust.</li>
+              <li>Festive periods, school reopening, weddings, holidays, and seasonal events may create additional demand for groceries, packaged foods, beverages, household products, and personal-care items.</li>
+              <li>Cross-selling products such as snacks, beverages, cleaning products, and personal-care items alongside grocery purchases can help increase the value of individual transactions.</li>
             </ul>
 
 
@@ -240,13 +235,14 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Aspiring entrepreneurs in Lucknow looking to enter retail with the support of an established, recognisable brand.</li>
-              <li>Existing kirana or general store owners in Gomti Nagar wanting to upgrade to an organised, branded mini mart format.</li>
-              <li>Investors seeking a stable, non-seasonal business in the FMCG and daily essentials category.</li>
-              <li>Working professionals looking for a secondary income source through a semi-managed retail setup.</li>
-              <li>Individuals relocating to or already based in Gomti Nagar who understand the local market and want to build a community-facing business.</li>
-              <li>Family-run businesses looking to diversify into organised retail while leveraging existing local market knowledge.</li>
-              <li>First-time business owners who prefer a proven, replicable model over building operations and vendor relationships from scratch.</li>
+              <li>Aspiring entrepreneurs in Lucknow who want to enter organised grocery and FMCG retail with the support of an established brand framework.</li>
+              <li>Existing kirana or general-store owners in Gomti Nagar who want to upgrade to a branded, organised Mini Mart format.</li>
+              <li>Investors seeking to evaluate a daily-needs retail business with recurring household demand in a growing Lucknow locality.</li>
+              <li>Entrepreneurs with suitable commercial space near residential societies, markets, offices, schools, hospitals, or busy neighbourhood routes.</li>
+              <li>Working professionals who want to explore a retail business opportunity with structured operating and support systems, subject to the selected model and agreement.</li>
+              <li>Individuals relocating to Gomti Nagar or already familiar with the local customer base who want to build a community-focused business.</li>
+              <li>Family-run businesses that want to diversify into organised retail while using their understanding of local customers, suppliers, and market behaviour.</li>
+              <li>First-time business owners who prefer a planned, repeatable format instead of creating a brand, store process, vendor network, and technology system independently.</li>
             </ul>
 
 
@@ -256,14 +252,14 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li><strong>Initial Inquiry:</strong> Contact the Buyzaar Mart franchise team and share your interest along with your preferred location in Gomti Nagar.</li>
-              <li><strong>Location Evaluation:</strong> The team assesses your proposed site for footfall, visibility, and overall market suitability.</li>
-              <li><strong>Investment and Terms Discussion:</strong> Franchise fees, setup costs, and expected investment are discussed transparently before moving forward.</li>
-              <li><strong>Franchise Agreement:</strong> Once terms are agreed upon, a formal franchise agreement is signed, outlining roles, responsibilities, and support structure.</li>
-              <li><strong>Store Setup and Branding:</strong> Buyzaar Mart assists with store layout, shelving, branding, and initial stock placement.</li>
-              <li><strong>Staff Training:</strong> Store staff are trained on billing systems, customer handling, and inventory management before launch.</li>
-              <li><strong>Soft Launch:</strong> A soft opening allows franchisees to gather early customer feedback and fine-tune operations before the full-scale launch.</li>
-              <li><strong>Grand Opening and Ongoing Support:</strong> Post-launch, franchisees receive continued operational and marketing support to help stabilise and grow the business.</li>
+              <li><strong>Initial Enquiry:</strong> Contact the Buyzaar Mart franchise team and share your interest, estimated budget, available property details, and preferred location in Gomti Nagar.</li>
+              <li><strong>Location Evaluation:</strong> The team can assess the proposed site for footfall, visibility, customer catchment, accessibility, nearby competition, parking, rent, and overall commercial suitability.</li>
+              <li><strong>Investment and Terms Discussion:</strong> Franchise fees, setup costs, inventory, equipment, deposit, working capital, support, responsibilities, and other commercial terms should be discussed clearly before proceeding.</li>
+              <li><strong>Franchise Agreement:</strong> After reviewing and agreeing to the terms, a formal franchise agreement is signed that defines roles, responsibilities, fees, support, territory, renewal, exit conditions, and operating expectations.</li>
+              <li><strong>Store Setup and Branding:</strong> Buyzaar Mart assists with store layout, shelving, branding, signage, POS setup, product placement, and initial inventory planning according to the approved format.</li>
+              <li><strong>Staff Training:</strong> Store staff receive training on billing systems, customer service, hygiene, stock handling, product displays, and routine store operations before launch.</li>
+              <li><strong>Soft Launch:</strong> A soft opening can help the franchise team and store staff identify operational issues, gather early customer feedback, and improve product availability before the full launch.</li>
+              <li><strong>Grand Opening and Ongoing Support:</strong> After launch, franchisees may receive continued operational, marketing, technology, and supply-chain guidance according to the selected franchise package.</li>
             </ul>
 
 
@@ -273,11 +269,12 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li><strong>Timely Restocking:</strong> A centralised supply chain ensures fast-moving products are replenished quickly, reducing lost sales from empty shelves.</li>
-              <li><strong>Regular Staff Training:</strong> Periodic refresher sessions keep store staff updated on new products, offers, and customer service standards.</li>
-              <li><strong>Coordinated Promotions:</strong> Seasonal discounts and loyalty campaigns are often planned at the brand level, easing the marketing load on individual franchisees.</li>
-              <li><strong>System Upgrades:</strong> Billing and inventory software updates are rolled out centrally, so franchisees don&apos;t need to manage this independently.</li>
-              <li><strong>Compliance Guidance:</strong> Support with licensing, GST, and other regulatory requirements helps franchisees stay compliant without added stress.</li>
+              <li><strong>Timely Restocking:</strong> Centralised sourcing and supply-chain coordination can help replenish fast-moving products and reduce lost sales caused by empty shelves.</li>
+              <li><strong>Staff Training:</strong> Refresher guidance can help staff understand new products, promotions, billing procedures, customer service expectations, and store operating standards.</li>
+              <li><strong>Coordinated Promotions:</strong> Seasonal offers, festive campaigns, loyalty activities, and local promotions may be planned at brand level to support customer awareness.</li>
+              <li><strong>System Support:</strong> Billing and inventory technology support can help franchisees manage sales, stock movement, product records, and routine store reporting more efficiently.</li>
+              <li><strong>Compliance Guidance:</strong> Guidance regarding applicable licensing, GST, food-safety, and other documentation may help franchisees understand their compliance responsibilities. All legal and tax matters should be verified with qualified professionals.</li>
+              <li><strong>Operational Communication:</strong> Franchise partners can raise questions about stock availability, product assortment, staff, customer feedback, promotions, and other store-level requirements through the brand support system.</li>
             </ul>
 
 
@@ -287,11 +284,12 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li><strong>Instant Brand Trust:</strong> Customers are more likely to trust and return to a branded mini mart over an unbranded local shop.</li>
-              <li><strong>Cost Efficiency Through Bulk Buying:</strong> Centralised procurement gives franchisees access to pricing advantages they couldn&apos;t negotiate independently.</li>
-              <li><strong>Proven Operating Systems:</strong> Standard operating procedures for billing, inventory, and staffing remove the guesswork of running a retail store.</li>
-              <li><strong>Room to Scale:</strong> A well-performing first store can open the door to additional franchise locations across Lucknow.</li>
-              <li><strong>Reduced Business Risk:</strong> Ongoing brand support lowers the typical risks associated with starting an independent, unbranded retail business.</li>
+              <li><strong>Brand Identity:</strong> A recognised and consistently presented Mini Mart can help build customer awareness faster than an independent store starting without an established retail identity.</li>
+              <li><strong>Procurement Coordination:</strong> Centralised sourcing may provide better access to suppliers, product categories, and buying support than negotiating with every vendor independently.</li>
+              <li><strong>Standardised Operations:</strong> Defined procedures for billing, inventory, product display, staff training, and customer service can reduce the uncertainty of launching an independent supermarket.</li>
+              <li><strong>Growth Opportunity:</strong> A well-performing outlet may create an opportunity to explore more locations across Lucknow after the first store becomes stable and commercially viable.</li>
+              <li><strong>Structured Support:</strong> Brand guidance during setup, launch, training, marketing, technology, and supply-chain activities can help new franchisees navigate common operational challenges.</li>
+              <li><strong>Customer Convenience:</strong> A professional layout, wider product assortment, digital billing, clear pricing, and reliable stock can create a more convenient neighbourhood shopping experience.</li>
             </ul>
 
 
@@ -301,11 +299,12 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Get a complete breakdown of costs, including franchise fee, store setup, initial inventory, and working capital needs.</li>
-              <li>Carefully review the franchise agreement, particularly clauses on territory rights, renewal terms, and exit conditions.</li>
-              <li>Evaluate the shortlisted location in Gomti Nagar for footfall potential, visibility, and nearby competition.</li>
-              <li>Ask for an estimated break-even timeline based on the performance of existing Buyzaar Mart franchise locations.</li>
-              <li>Clarify the exact scope of ongoing support, including training, marketing, and supply chain reliability, after the store goes live.</li>
+              <li>Request a complete investment breakdown covering franchise fee, store setup, interiors, fixtures, POS technology, initial inventory, security deposit, rent, working capital, staffing, utilities, taxes, and other costs.</li>
+              <li>Review the franchise agreement carefully, especially clauses related to territory rights, agreement duration, renewal terms, fees, inventory, management responsibilities, transfer, dispute resolution, and exit conditions.</li>
+              <li>Evaluate the shortlisted Gomti Nagar location for footfall, visibility, customer profile, nearby competitors, parking, access, property condition, rent, and future development.</li>
+              <li>Ask for realistic financial estimates based on comparable stores and avoid relying on guaranteed sales, guaranteed returns, or unsupported break-even promises.</li>
+              <li>Clarify the exact scope of ongoing support, including training, marketing, staff, supply chain, technology, inventory, reporting, store audits, and problem resolution after launch.</li>
+              <li>Speak with existing franchise partners where possible to understand the practical experience of setup, communication, procurement, staffing, expenses, and store operations.</li>
             </ul>
 
 
@@ -317,20 +316,20 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. What is the Buyzaar Mart mini mart franchise?
+                  Q1. What is the Buyzaar Mart Mini Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  It&apos;s a compact, organised retail store format offering groceries, FMCG, and daily essentials with full brand support.
+                  The Buyzaar Mart Mini Mart franchise is a compact, organised retail store format offering groceries, FMCG products, household essentials, personal care items, and other daily-use products with brand, technology, training, and operational support.
                 </p>
               </div>
 
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q2. Is Gomti Nagar a good location for a mini mart franchise?
+                  Q2. Is Gomti Nagar a good location for a Mini Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  Yes, due to its dense residential population, rising incomes, and limited organised retail presence.
+                  Gomti Nagar may be suitable because of its residential societies, working professionals, families, offices, hospitals, educational institutions, commercial activity, and demand for convenient daily-needs shopping. Final site approval depends on location-specific research.
                 </p>
               </div>
 
@@ -340,47 +339,47 @@ const Content = () => {
                   Q3. How much investment is required for this franchise?
                 </h3>
                 <p className="mt-2">
-                  Typically starts from ₹15.25 lakh and above, covering stock, interior, software fee, franchise fee, and security deposit.
+                  The Mini Mart investment starts from approximately ₹15.25 lakh and may cover initial stock, interior setup, software fee, franchise fee, branding, POS technology, and security deposit. The final amount varies according to store size, location, equipment, fit-out, rent, and working capital.
                 </p>
               </div>
 
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q9. How much space is needed to open a Buyzaar Mart mini mart?
+                  Q4. How much space is needed to open a Buyzaar Mart Mini Mart?
                 </h3>
                 <p className="mt-2">
-                  Around 600 to 1000 sq. ft. of ground-floor retail space with good visibility and easy customer access.
+                  Approximately 600–1,000 sq. ft. of ground-floor retail space may be suitable. The final space requirement depends on layout, product assortment, storage, customer movement, visibility, access, and the site evaluation.
                 </p>
               </div>
 
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q4. Does Buyzaar Mart provide staff training?
+                  Q5. Does Buyzaar Mart provide staff training?
                 </h3>
                 <p className="mt-2">
-                  Yes, franchisees receive training on billing, inventory management, and customer service before launch.
+                  Yes, franchise staff can receive training on POS billing, inventory management, product display, customer service, hygiene, and daily store operations before the outlet launches.
                 </p>
               </div>
 
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q5. Do I need prior retail experience to apply?
+                  Q6. Do I need prior retail experience to apply?
                 </h3>
                 <p className="mt-2">
-                  No, Buyzaar Mart provides complete setup and training support, making it suitable for first-time entrepreneurs.
+                  Previous retail experience is not necessarily required. Buyzaar Mart provides setup guidance, staff training, technology support, and operational assistance according to the selected franchise format and agreement.
                 </p>
               </div>
 
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q6. What products can I sell through this franchise?
+                  Q7. What products can I sell through this franchise?
                 </h3>
                 <p className="mt-2">
-                  Groceries, packaged foods, household essentials, personal care items, and daily-use FMCG products.
+                  Products may include groceries, staples, dairy, beverages, packaged foods, snacks, household essentials, cleaning products, personal care items, and other daily-use FMCG products according to the approved product assortment.
                 </p>
               </div>
             </div>
@@ -393,12 +392,12 @@ const Content = () => {
 
 
               <p className="mb-4 text-gray-800">
-                Gomti Nagar&apos;s daily consumer economy offers one of the most reliable opportunities for a branded mini mart retail store.
+                Gomti Nagar&apos;s growing residential population, commercial activity, professional workforce, and demand for convenient daily-needs shopping make it an important locality to evaluate for a branded Mini Mart.
               </p>
 
 
               <p className="mb-4 text-gray-800">
-                Join The Buyzaar Mart franchise network and bring your neighborhood a modern daily needs store built on trust, convenience, and professional retail systems.
+                Join The Buyzaar Mart franchise network and explore a modern daily-needs store built around convenience, organised operations, technology-enabled billing, planned sourcing, staff training, and professional retail support.
               </p>
 
 
@@ -419,7 +418,7 @@ const Content = () => {
                   href="tel:+919217991727"
                   className="font-semibold text-green-600 hover:underline"
                 >
-                  9217991727
+                  +91 9217991727
                 </a>
               </p>
 

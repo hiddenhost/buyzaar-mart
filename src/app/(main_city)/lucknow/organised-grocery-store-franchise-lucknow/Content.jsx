@@ -6,9 +6,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Organised Grocery Store Franchise in Lucknow – The Buyzaar Mart Opportunity",
+  name: "Organised Grocery Store Franchise in Lucknow | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers an organised grocery store franchise opportunity in Lucknow with Mini Mart, Super Mart, and Hyper Mart formats, FOCM support, store setup, supply chain assistance, and ongoing operational guidance.",
+    "Explore The Buyzaar Mart organised grocery store franchise opportunity in Lucknow with Mini Mart, Super Mart, and Hyper Mart formats. Learn about the FOCM model, investment, store setup, supply chain, POS technology, staff training, marketing support, location assessment, and ongoing operational guidance.",
   url: "https://www.thebuyzaarmart.com/lucknow/organised-grocery-store-franchise-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -22,7 +22,7 @@ const localBusinessSchema = {
     "@type": "City",
     name: "Lucknow",
   },
-  openingHours: "Mo-Sa 10:00-18:00",
+  openingHours: "Mo-Sa 09:00-19:00",
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
@@ -32,19 +32,19 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-          "Entry-level format for neighborhoods, residential colonies, and high-footfall lanes in Lucknow",
+          "An entry-level organised grocery and daily-needs retail format for neighbourhoods, residential colonies, housing societies, and suitable high-footfall locations in Lucknow.",
       },
       {
         "@type": "Offer",
         name: "Super Mart Franchise",
         description:
-          "Mid-tier neighborhood supermarket format for busy commercial streets and market complexes in Lucknow",
+          "A mid-sized neighbourhood supermarket format for busy commercial streets, residential clusters, market complexes, and developing areas in Lucknow.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart Franchise",
         description:
-          "Flagship large-format store for high-traffic locations, shopping centers, and major roads in Lucknow",
+          "A large-format grocery and supermarket store for high-traffic commercial locations, shopping centres, township markets, and major roads in Lucknow.",
       },
     ],
   },
@@ -60,7 +60,7 @@ const faqSchema = {
       name: "Is prior retail experience required to open a The Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No. The FOCM model is specifically designed so that franchisees do not need retail or FMCG experience. The company manages store operations on your behalf.",
+        text: "Previous retail or FMCG experience is not necessarily required. Under the FOCM model, The Buyzaar Mart manages agreed store operations and provides training, technology, setup guidance, and operational support according to the franchise agreement.",
       },
     },
     {
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the minimum space required to open a The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Mini Mart format can work in approximately 600 to 1000 square feet, making it feasible in most neighborhood locations across Lucknow.",
+        text: "The Mini Mart format generally requires approximately 600–1,000 sq. ft. The final requirement depends on the layout, product range, storage, customer movement, visibility, and site assessment.",
       },
     },
     {
@@ -76,7 +76,7 @@ const faqSchema = {
       name: "How soon can a The Buyzaar Mart franchise in Lucknow become profitable?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "While results vary by location and format, the company's operational support and established brand presence are designed to accelerate the path to breakeven and sustained profitability.",
+        text: "The timeline varies by location, format, rent, competition, footfall, product availability, operating expenses, and customer retention. Brand and operational support may help the store establish systems, but no fixed profitability or break-even period should be assumed without a location-specific financial assessment.",
       },
     },
     {
@@ -84,7 +84,7 @@ const faqSchema = {
       name: "Does The Buyzaar Mart provide marketing support for my Lucknow store?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. All franchise stores benefit from central brand marketing, digital campaigns, and local promotional activities coordinated by the company.",
+        text: "Marketing support may include central brand communication, digital campaigns, launch promotions, festive offers, local promotional activities, and store-level marketing according to the selected franchise package and agreement.",
       },
     },
     {
@@ -92,7 +92,7 @@ const faqSchema = {
       name: "How do I apply for a The Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "You can reach out through the official website or contact the franchise team directly to begin the application and discussion process.",
+        text: "You can submit an enquiry through the official The Buyzaar Mart website or contact the franchise team directly. The team can discuss your budget, preferred location, available space, store format, and the next steps in the evaluation process.",
       },
     },
   ],
@@ -106,14 +106,14 @@ const Content = () => {
         key="local-business-schema"
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(localBusinessSchema),
+          __html: JSON.stringify(localBusinessSchema).replace(/</g, "\\u003c"),
         }}
       />
       <script
         key="faq-schema"
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(faqSchema),
+          __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c"),
         }}
       />
 
@@ -122,23 +122,24 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Organised Grocery Store Franchise in Lucknow – The Buyzaar Mart Opportunity
+              Organised Grocery Store Franchise in Lucknow: Investment, Formats, Locations and Business Opportunity
             </h1>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Lucknow Is the Right City for a Grocery Franchise Right Now
+              Why Lucknow Is the Right City for a Grocery Franchise
             </h2>
 
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>Lucknow has evolved from a traditional bazaar economy into one of North India's fastest-expanding organised retail markets, driven by urbanization and rising consumer aspirations.</li>
-              <li>Rising disposable incomes and a growing middle class are driving demand for branded, hygienic, and price-transparent grocery shopping experiences.</li>
-              <li>The city's population exceeds 35 lakh residents, spread across fast-developing localities like Gomti Nagar, Hazratganj, Aliganj, Indira Nagar, Alambagh, and Mahanagar.</li>
-              <li>New townships along the Lucknow-Agra Expressway corridor are creating fresh catchment areas for organised retail expansion.</li>
-              <li>A large proportion of daily grocery purchases still happen through unorganised kirana stores, leaving significant room for organised players to capture market share.</li>
-              <li>Consumers are actively upgrading their expectations, seeking cleaner, better-stocked, and more price-predictable alternatives to traditional neighbourhood shops.</li>
-              <li>With the right location and brand-backed setup, franchisees can tap into a loyal customer base within the first few months of operations.</li>
+              <li>Lucknow has developed from a traditional bazaar economy into one of North India&apos;s important organised retail markets, supported by urbanisation, residential expansion, improving infrastructure, and changing household shopping preferences.</li>
+              <li>Rising disposable income and the growth of middle-class households are increasing demand for branded, hygienic, convenient, and price-transparent grocery shopping experiences.</li>
+              <li>The city has a large and diverse population spread across established and developing localities such as Gomti Nagar, Hazratganj, Aliganj, Indira Nagar, Alambagh, Mahanagar, Chinhat, and Lucknow Extension.</li>
+              <li>New residential projects and developing townships along important road corridors are creating fresh catchment areas for organised grocery and daily-needs retail.</li>
+              <li>A significant share of everyday grocery purchases still takes place through independent kirana stores, creating an opportunity for organised retailers that can offer better product visibility, technology-enabled billing, range, convenience, and customer service.</li>
+              <li>Consumers are increasingly comparing product quality, prices, hygiene, availability, and shopping convenience before selecting a regular grocery store.</li>
+              <li>With the right location, suitable store format, competitive pricing, and effective operations, a franchisee can work toward developing a loyal customer base in the surrounding neighbourhood.</li>
+              <li>Lucknow&apos;s combination of established residential colonies, new housing societies, educational institutions, hospitals, offices, and commercial areas supports multiple types of grocery franchise locations.</li>
             </ul>
 
 
@@ -148,14 +149,14 @@ const Content = () => {
 
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>Most retail franchises in India put the entire operational burden on the franchisee, but The Buyzaar Mart takes a fundamentally different approach.</li>
-              <li>Under the FOCM (Franchise Owned, Company Managed) model, you invest in the store setup and fund the space.</li>
-              <li>The company handles store operations, staff management, inventory planning, billing systems, and category management on your behalf.</li>
-              <li>You own the business and earn returns without needing prior retail experience or managing a large team directly.</li>
-              <li>You do not need to be present at the store every day or hire and train retail staff on your own.</li>
-              <li>You do not need to negotiate with suppliers — The Buyzaar Mart's centralized procurement handles all vendor relationships.</li>
-              <li>The company takes care of the operational side while you benefit from the revenue and profitability the store generates.</li>
-              <li>This model is particularly well-suited for professionals, retired executives, NRIs looking to invest back home, and first-generation entrepreneurs.</li>
+              <li>Many retail franchises expect the franchisee to manage staffing, inventory, suppliers, billing, marketing, and daily store operations personally. The Buyzaar Mart&apos;s FOCM model is designed to separate ownership from agreed operational management.</li>
+              <li>Under the FOCM model, which means Franchise Owned, Company Managed, the partner invests in the approved store setup and provides or arranges the required commercial space according to the agreed terms.</li>
+              <li>The company may manage agreed daily operations, including staffing, inventory coordination, billing systems, store routines, category planning, merchandising, and operational reporting.</li>
+              <li>The partner retains ownership and financial interest in the business according to the franchise agreement, while the company performs the operational responsibilities specifically defined in that agreement.</li>
+              <li>The model may suit investors who do not have prior retail or FMCG experience and prefer support with store launch, staff training, technology, procurement, and routine operations.</li>
+              <li>A partner may not need to be present at the store every day, depending on the final operating arrangement, reporting system, and responsibilities agreed with The Buyzaar Mart.</li>
+              <li>Centralised procurement may reduce the need for the partner to negotiate independently with several suppliers and distributors, although stock availability and commercial terms should be confirmed in writing.</li>
+              <li>The company manages the agreed operational side while the partner monitors business performance through available reports, communication, and other oversight mechanisms.</li>
             </ul>
 
 
@@ -165,11 +166,11 @@ const Content = () => {
 
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>The Buyzaar Mart offers three distinct store formats to match different investment capacities and location types across Lucknow.</li>
-              <li><strong>Mini Mart:</strong> Entry-level format designed for neighborhoods, residential colonies, and high-footfall lanes; typically operates in 600–1000 sq. ft.; ideal for localities with dense residential catchment and limited organised retail competition; accessible investment with faster breakeven due to focused product range and lower operating costs.</li>
-              <li><strong>Super Mart:</strong> Mid-tier neighborhood supermarket format for busy commercial streets, market complexes, and areas adjacent to residential clusters; larger floor area with expanded SKU count; delivers The Buyzaar Mart's characteristic range advantage over local kirana stores.</li>
-              <li><strong>Hyper Mart:</strong> Flagship large-format store for high-traffic locations, shopping centers, and major roads; offers the widest product assortment and strongest brand experience; positioned as a destination store rather than just a convenience stop.</li>
-              <li>The Buyzaar Mart's team helps you identify the format that maximizes your return potential based on your budget, available space, and target locality.</li>
+              <li>The Buyzaar Mart offers three store formats to help applicants compare different investment capacities, space requirements, product ranges, customer catchments, and location types across Lucknow.</li>
+              <li><strong>Mini Mart:</strong> An entry-level format designed for neighbourhoods, residential colonies, housing societies, and suitable high-footfall lanes. It generally operates in approximately 600–1,000 sq. ft. and may suit locations with dense residential demand and limited organised retail competition. Its focused product range and compact layout can help control setup complexity, although actual performance depends on location and execution.</li>
+              <li><strong>Super Mart:</strong> A mid-sized neighbourhood supermarket format for busy commercial streets, market complexes, township areas, and locations near residential clusters. It offers more floor area, a wider SKU range, and greater product display capacity than the Mini Mart format.</li>
+              <li><strong>Hyper Mart:</strong> A large-format store for high-traffic locations, shopping centres, township markets, and major roads. It can offer the widest product assortment and a stronger destination-shopping experience, but it also requires greater investment, space, staffing, storage, and working capital.</li>
+              <li>The Buyzaar Mart team can evaluate the applicant&apos;s budget, available space, proposed locality, catchment, visibility, competition, and demand before recommending a suitable format.</li>
             </ul>
 
 
@@ -179,37 +180,36 @@ const Content = () => {
 
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>The Buyzaar Mart's support structure is comprehensive and covers every stage of the franchise lifecycle.</li>
-              <li><strong>Store Design &amp; Fit-Out:</strong> Professional store design and fit-out assistance ensuring every outlet looks consistent, professional, and aligned with brand retail standards.</li>
-              <li><strong>Supply Chain Access:</strong> Access to the company's established supply chain network, enabling competitive procurement prices and reliable product availability across categories.</li>
-              <li><strong>Digital Marketing:</strong> Central brand investment in digital marketing, regional advertising, and promotional campaigns that benefit all stores in the network.</li>
-              <li><strong>Store-Level Promotions:</strong> Execution of store-level promotions, festive offers, and loyalty programs with central support, freeing you from managing marketing complexity independently.</li>
-              <li><strong>Inventory Planning:</strong> Data-driven inventory planning and replenishment systems to optimize stock levels and minimize dead inventory.</li>
-              <li><strong>POS &amp; Technology:</strong> Modern point-of-sale systems, billing software, and sales dashboards for real-time performance tracking.</li>
-              <li><strong>Staff Training:</strong> Comprehensive training programs for store staff on SOPs, customer service, billing systems, and brand standards.</li>
-              <li><strong>Operational Audits:</strong> Regular performance reviews, operational audits, and improvement plans to keep your store on track.</li>
-              <li><strong>Ongoing Guidance:</strong> Continuous operational support and strategic guidance throughout the franchise tenure.</li>
+              <li>The Buyzaar Mart support structure may cover the major stages of the franchise lifecycle, from location evaluation and store setup to staff training, launch, procurement, and ongoing operations.</li>
+              <li><strong>Store Design and Fit-Out:</strong> Professional store design and fit-out guidance can help create a consistent, convenient, and organised shopping environment aligned with the approved brand format.</li>
+              <li><strong>Supply Chain Access:</strong> Access to the brand&apos;s supply-chain and vendor network may assist with product sourcing, procurement coordination, replenishment, and category availability.</li>
+              <li><strong>Digital Marketing:</strong> Central brand communication, digital marketing, regional advertising, and promotional campaigns may be used to increase awareness for stores in the network.</li>
+              <li><strong>Store-Level Promotions:</strong> Launch offers, festive promotions, loyalty activities, and local campaigns may be coordinated with the store to help generate awareness in the approved catchment.</li>
+              <li><strong>Inventory Planning:</strong> Inventory planning and replenishment systems can help the store maintain fast-moving products while reducing unnecessary accumulation of slow-moving stock.</li>
+              <li><strong>POS and Technology:</strong> POS billing systems, digital payments, inventory software, and sales dashboards can support more organised reporting and store-level monitoring.</li>
+              <li><strong>Staff Training:</strong> Staff may receive training on standard operating procedures, customer service, billing, product handling, hygiene, stock movement, and brand standards.</li>
+              <li><strong>Operational Audits:</strong> Performance reviews, operational checks, and improvement guidance may be provided according to the selected support package and franchise terms.</li>
+              <li><strong>Ongoing Guidance:</strong> Franchise partners may receive continuing assistance with operational questions, stock planning, promotions, technology, staff, and store improvement.</li>
             </ul>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Profitable Localities in Lucknow for The Buyzaar Mart Franchise
+              Suitable Localities in Lucknow for The Buyzaar Mart Franchise
             </h2>
 
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>Lucknow's growth is distributed across multiple localities, each presenting strong potential for an organised grocery store franchise.</li>
-              <li><strong>Gomti Nagar:</strong> Premium residential and commercial hub with a large upper-middle-class and professional population that actively prefers organised retail.</li>
-              <li><strong>Indira Nagar:</strong> One of the densest residential pockets in the city with high daily grocery demand and consistent footfall.</li>
-              <li><strong>Alambagh:</strong> Major transit and commercial node connecting Lucknow with Kanpur, featuring heavy footfall throughout the day from commuters and local residents.</li>
-              <li><strong>Aliganj &amp; Mahanagar:</strong> Established residential areas with a large family-oriented demographic and steady demand for daily essentials.</li>
-              <li><strong>Sushant Golf City:</strong> Premium gated community and emerging township with affluent residents seeking quality organised retail options nearby.</li>
-              <li><strong>Shaheed Path Corridor:</strong> Developing high-growth zone with new residential projects and commercial developments where organised retail has limited presence today but is set to grow rapidly.</li>
-              <li><strong>Chinhat &amp; Surrounding Areas:</strong> Fast-developing outskirts with new housing societies and increasing population density.</li>
-              <li><strong>Juliana Road &amp; Faizabad Road:</strong> High-visibility commercial corridors with strong catchment potential for mid-to-large format stores.</li>
-              <li>The Buyzaar Mart team conducts thorough location analysis including competition mapping, catchment assessment, and potential revenue modelling to help franchisees select the right area.</li>
+              <li>Lucknow&apos;s growth is distributed across several residential, commercial, educational, and developing areas. Each locality requires separate research before a grocery store franchise site is approved.</li>
+              <li><strong>Gomti Nagar:</strong> A major residential and commercial hub with housing societies, offices, professionals, families, and customers who may value organised grocery shopping and convenience.</li>
+              <li><strong>Indira Nagar:</strong> An established residential area with family households, regular daily-needs demand, and multiple neighbourhood markets.</li>
+              <li><strong>Alambagh:</strong> A busy transit and commercial location with local residents, commuters, shops, and daily movement throughout the day.</li>
+              <li><strong>Aliganj and Mahanagar:</strong> Established residential areas with a large family-oriented customer base and recurring demand for groceries, household essentials, and FMCG products.</li>
+              <li><strong>Sushant Golf City:</strong> A developing gated-community and township area that may support organised retail where residential occupancy, access, and customer demand are sufficient.</li>
+              <li><strong>Shaheed Path Corridor:</strong> A developing zone with residential and commercial projects that may create future opportunities for organised grocery stores after evaluating occupancy and competition.</li>
+              <li><strong>Chinhat and Surrounding Areas:</strong> Developing outskirts with new housing societies, increasing population density, and emerging neighbourhood shopping requirements.</li>
+              <li><strong>Faizabad Road and Other Commercial Corridors:</strong> High-visibility roads may suit mid-sized or large-format stores when frontage, parking, rent, access, and customer catchment support the investment.</li>
+              <li>The Buyzaar Mart team should assess competition, residential density, customer profile, footfall, property visibility, accessibility, rent, parking, and potential sales before finalising a locality.</li>
             </ul>
-
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -218,12 +218,12 @@ const Content = () => {
 
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>The official website, [www.thebuyzaarmart.com](https://www.thebuyzaarmart.com), serves as the central hub for all franchise-related information, investment details, and application processes.</li>
-              <li>Prospective franchisees can explore detailed pages on store formats, investment breakdowns, city-specific opportunities, and the complete franchise onboarding journey.</li>
-              <li>The website features a user-friendly inquiry form that connects you directly with the franchise development team for personalized guidance.</li>
-              <li>City-specific landing pages like this one provide localized insights into Lucknow's retail landscape, profitable localities, and market potential.</li>
-              <li>Regular updates on the website keep investors informed about new store launches, expansion plans, and upcoming franchise opportunities across North India.</li>
-              <li>The website also hosts comprehensive FAQs, testimonial sections, and contact information to address all queries before you make a commitment.</li>
+              <li>The official website, www.thebuyzaarmart.com, serves as a central source for franchise information, store formats, investment discussions, support details, and enquiry processes.</li>
+              <li>Prospective franchisees can explore information about Mini Mart, Super Mart, and Hyper Mart formats, location opportunities, support services, and the general franchise onboarding journey.</li>
+              <li>The website includes an enquiry form that allows interested investors to connect directly with the franchise development team for location-specific and budget-specific guidance.</li>
+              <li>City-specific pages such as this Lucknow franchise page provide local information about retail demand, residential growth, possible catchments, and store-format considerations.</li>
+              <li>Website updates may provide information about new store launches, expansion plans, available territories, and additional franchise opportunities across North India.</li>
+              <li>The website also includes FAQs, contact details, and supporting information to help applicants conduct initial research before making a business decision.</li>
             </ul>
 
 
@@ -233,31 +233,30 @@ const Content = () => {
 
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>The Buyzaar Mart website is designed to provide complete transparency, from investment figures to operational support structures.</li>
-              <li>Every city page, including this Lucknow franchise opportunity page, is optimized with local market data, locality recommendations, and real-time contact options.</li>
-              <li>The website's structured layout ensures you can quickly find information on Mini Mart, Super Mart, and Hyper Mart formats without confusion.</li>
-              <li>Secure online inquiry submission protects your data while ensuring fast response times from the franchise team.</li>
-              <li>Mobile-friendly design allows you to explore franchise opportunities on the go, whether you're in Lucknow, Delhi, or anywhere else in India.</li>
-              <li>The website integrates seamlessly with the franchise team's CRM, ensuring your inquiry is tracked and followed up promptly.</li>
-              <li>By starting your franchise journey on the official website, you ensure you're dealing directly with the brand and not through unauthorized intermediaries.</li>
+              <li>The Buyzaar Mart website is designed to present franchise information in a clear format, including store formats, support services, location requirements, and enquiry details.</li>
+              <li>Location-specific pages such as this Lucknow opportunity page help applicants understand local search intent, market conditions, potential areas, and the business considerations involved in organised grocery retail.</li>
+              <li>The structured layout makes it easier to compare Mini Mart, Super Mart, and Hyper Mart formats according to space, investment, customer catchment, and business objectives.</li>
+              <li>Online enquiry submission allows applicants to share their requirements and begin a direct discussion with the franchise team.</li>
+              <li>A mobile-friendly website allows investors to research the opportunity from Lucknow, Delhi, another city, or outside India before arranging a call or meeting.</li>
+              <li>Using the official website helps applicants communicate directly with the brand instead of relying only on third-party intermediaries or incomplete promotional information.</li>
+              <li>Applicants should confirm all investment, return, support, inventory, territory, and operating claims directly with the brand before signing any agreement.</li>
             </ul>
 
 
-
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Investment and Growth
+              Investment and Growth Considerations
             </h2>
 
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>The Buyzaar Mart franchise is designed to be accessible to a wide range of investors across different budget segments.</li>
-              <li>Exact investment figures depend on the format chosen (Mini Mart, Super Mart, or Hyper Mart) and the specific location in Lucknow.</li>
-              <li>Detailed investment breakdowns are shared during the franchise discussion process, including franchise fee, interior setup, POS software, security deposit, and initial inventory costs.</li>
-              <li>The model promises a structured path to profitability driven by strong brand pull, controlled operating costs under the FOCM model, and scale advantages from being part of a growing national retail network.</li>
-              <li>Franchisees typically see returns from monthly revenue-sharing arrangements with defined payout structures.</li>
-              <li>This provides a predictable income stream rather than unpredictable profit-after-losses like you would face running an independent shop.</li>
-              <li>Lower operating costs in Lucknow compared to metros allow franchisees to achieve break-even faster than in larger cities.</li>
-              <li>The company's inventory protection policies, including buyback of expired and damaged goods, reduce financial risk for franchisees.</li>
+              <li>The Buyzaar Mart franchise is designed to provide different entry points for investors with different budgets, available spaces, business plans, and levels of operating involvement.</li>
+              <li>Exact investment figures depend on the format selected—Mini Mart, Super Mart, or Hyper Mart—and the specific location, property condition, fit-out, equipment, inventory, and commercial terms.</li>
+              <li>A complete investment proposal should separately explain the franchise fee, interior setup, POS technology, security deposit, initial inventory, rent, working capital, staffing, utilities, taxes, and other applicable costs.</li>
+              <li>The FOCM model can reduce the partner&apos;s direct involvement in routine operations, but it does not remove business risk. Revenue and profitability depend on sales, margins, expenses, location, competition, stock management, and agreement terms.</li>
+              <li>If a revenue-sharing or payout arrangement is proposed, the calculation method, payment schedule, conditions, deductions, responsibilities, and possible variations should be recorded in the written agreement.</li>
+              <li>Operating costs in Lucknow may differ from those in larger metro cities, but the benefit depends on rent, staffing, property deposit, utilities, customer demand, and the performance of the selected location.</li>
+              <li>Inventory protection or buyback policies should be reviewed carefully, including eligible products, exclusions, documentation, claim timelines, and settlement conditions.</li>
+              <li>Franchisees should prepare realistic financial projections and should not rely on guaranteed profit, guaranteed returns, or fixed break-even promises unless supported by verifiable documentation.</li>
             </ul>
 
 
@@ -272,7 +271,7 @@ const Content = () => {
                   Is prior retail experience required to open The Buyzaar Mart franchise in Lucknow?
                 </h3>
                 <p className="mt-2">
-                  No. The FOCM model is specifically designed so that franchisees do not need retail or FMCG experience. The company manages store operations on your behalf.
+                  Previous retail or FMCG experience is not necessarily required. Under the FOCM model, the company manages agreed store operations and provides setup guidance, training, technology, and operational support according to the franchise agreement.
                 </p>
               </div>
 
@@ -282,7 +281,7 @@ const Content = () => {
                   What is the minimum space required to open The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  The Mini Mart format can work in approximately 600 to 1000 square feet, making it feasible in most neighborhood locations across Lucknow.
+                  The Mini Mart format generally requires approximately 600–1,000 sq. ft. The final requirement depends on the store layout, product range, storage, customer movement, visibility, and location assessment.
                 </p>
               </div>
 
@@ -292,7 +291,7 @@ const Content = () => {
                   How soon can The Buyzaar Mart franchise in Lucknow become profitable?
                 </h3>
                 <p className="mt-2">
-                  While results vary by location and format, the company's operational support and established brand presence are designed to accelerate the path to breakeven and sustained profitability.
+                  The timeline varies by location, store format, rent, footfall, competition, product availability, customer retention, operating expenses, and management. Brand support may help establish systems, but no fixed profitability or break-even period should be assumed without a detailed financial assessment.
                 </p>
               </div>
 
@@ -302,7 +301,7 @@ const Content = () => {
                   Does The Buyzaar Mart provide marketing support for my Lucknow store?
                 </h3>
                 <p className="mt-2">
-                  Yes. All franchise stores benefit from central brand marketing, digital campaigns, and local promotional activities coordinated by the company.
+                  Marketing support may include central brand communication, digital campaigns, opening promotions, festive offers, loyalty activities, and local promotional support according to the selected package and franchise agreement.
                 </p>
               </div>
 
@@ -312,7 +311,7 @@ const Content = () => {
                   How do I apply for The Buyzaar Mart franchise in Lucknow?
                 </h3>
                 <p className="mt-2">
-                  You can reach out through the official website or contact the franchise team directly to begin the application and discussion process.
+                  You can submit an enquiry through the official website or contact the franchise team directly. Share your preferred Lucknow locality, available space, budget, business objectives, and preferred store format to begin the evaluation process.
                 </p>
               </div>
             </div>
@@ -320,14 +319,13 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Grocery Franchise in Lucknow Today
+                Start Your Organised Grocery Store Franchise in Lucknow
               </h2>
 
 
               <ul className="ml-4 list-inside list-disc space-y-2 text-gray-800">
-                <li>Lucknow's retail market is at an inflection point, with organised grocery stores replacing unstructured kirana shops across the city's growing neighborhoods.</li>
-                <li>The window to establish your presence, build customer loyalty, and generate consistent returns is open right now — and The Buyzaar Mart is the partner designed to help you do exactly that.</li>
-                <li>Join The Buyzaar Mart family and bring your website the retail experience it deserves: affordable prices, quality products, transparent service, and the pride of owning a professionally managed store.</li>
+                <li>Lucknow&apos;s residential expansion, commercial growth, and changing customer expectations are creating opportunities for organised grocery and daily-needs retail in suitable neighbourhoods.</li>
+                <li>The Buyzaar Mart provides Mini Mart, Super Mart, and Hyper Mart formats so applicants can evaluate a store option based on budget, space, catchment, and desired level of involvement.</li>
                 <li>Visit{" "}
                   <a
                     href="https://www.thebuyzaarmart.com"
@@ -337,7 +335,7 @@ const Content = () => {
                   >
                     www.thebuyzaarmart.com
                   </a>{" "}
-                  or walk into the nearest The Buyzaar Mart outlet to begin your journey.</li>
+                  or contact the franchise team to discuss your preferred Lucknow location and store format.</li>
                 <li><span className="font-semibold">Email:</span>{" "}
                   <a
                     href="mailto:info@thebuyzaarmart.com"
@@ -362,7 +360,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="lucknow"
-            currentSlug="/lucknow/organised-grocery-store-franchise-in-lucknow"
+            currentSlug="/lucknow/organised-grocery-store-franchise-lucknow"
           />
         </div>
 

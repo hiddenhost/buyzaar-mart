@@ -18,6 +18,15 @@ export const metadata = {
     "fast moving consumer goods franchise",
     "low investment FMCG business",
     "FMCG franchise total investment",
+    "FMCG franchise Varanasi",
+    "FMCG business opportunity Varanasi",
+    "FMCG retail opportunity Varanasi",
+    "FMCG store franchise Varanasi",
+    "FMCG grocery franchise Varanasi",
+    "grocery franchise Varanasi",
+    "retail franchise Varanasi",
+    "supermarket franchise Varanasi",
+    "mini mart franchise Varanasi"
   ],
   alternates: {
     canonical:

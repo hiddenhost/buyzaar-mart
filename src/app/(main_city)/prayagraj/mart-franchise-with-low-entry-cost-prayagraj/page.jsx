@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Start a mart franchise in Prayagraj with low entry cost. The Buyzaar Mart offers an affordable Mini Mart format with full supply chain and operational support.",
   keywords: [
-    "mart franchise low entry cost Prayagraj",
+    "mart franchise with low entry cost Prayagraj",
     "low investment franchise Prayagraj",
     "affordable grocery franchise UP",
     "The Buyzaar Mart franchise",

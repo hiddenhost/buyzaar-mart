@@ -344,34 +344,31 @@ const Content = () => {
             </h2>
 
 
-            <p>
-              The consistent, recurring nature of household item demand makes this category especially attractive for local retail entrepreneurship.
-            </p>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>
+                The consistent and recurring demand for household items makes this category especially attractive for local retail entrepreneurship, as customers regularly need essential products for their homes rather than purchasing them only during specific seasons or occasions.
+              </li>
 
+              <li>
+                The Buyzaar Mart offers structured franchise models, including FOCM (Franchise Owned, Company Managed) and FOCO, giving entrepreneurs the flexibility to choose a business model that matches their preferred level of involvement in managing and operating a household goods store in their locality.
+              </li>
 
-            <p>
-              The Buyzaar Mart offers structured franchise models — FOCM (Franchise Owned, Company Managed) and FOCO — for entrepreneurs interested in bringing this store format to their own locality.
-            </p>
+              <li>
+                The starting investment for a Mini Mart format begins at around ₹15 lakh, covering important components such as the franchise fee, interior setup, POS technology, and opening inventory, making it a comparatively accessible option for entrepreneurs entering the organized retail sector.
+              </li>
 
+              <li>
+                The brand provides support across key areas including site selection, store setup, staff training, and local marketing, helping franchise partners reduce the operational uncertainty and challenges that often come with establishing an independent household goods retail business.
+              </li>
 
-            <p>
-              Starting investment for a Mini Mart format begins around ₹15 lakh, covering the franchise fee, interior setup, POS technology, and opening stock.
-            </p>
+              <li>
+                Since household items are purchased frequently and often on a reactive basis when customers need them, stores can benefit from steady and repeat-driven footfall, creating a favourable demand pattern for franchise owners compared with businesses that depend heavily on seasonal or occasional purchases.
+              </li>
 
-
-            <p>
-              The brand provides support across site selection, store setup, staff training, and local marketing, reducing much of the operational uncertainty that comes with starting an independent household goods business.
-            </p>
-
-
-            <p>
-              Because household items are bought reactively and frequently, footfall tends to be steady and repeat-driven — a favourable demand pattern for franchise owners compared to one-time or seasonal purchase categories.
-            </p>
-
-
-            <p>
-              For Kanpur residents who&apos;ve noticed the recurring gap in reliable household shopping in their own locality, this could be a practical entry point into organised retail.
-            </p>
+              <li>
+                For residents of Kanpur who have noticed a recurring need for reliable and convenient household shopping options within their local area, a Buyzaar Mart franchise can provide a practical opportunity to enter organized retail while serving an everyday consumer requirement.
+              </li>
+            </ul>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">

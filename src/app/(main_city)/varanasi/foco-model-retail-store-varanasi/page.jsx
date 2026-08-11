@@ -8,7 +8,7 @@ export const metadata = {
   description:
     "Explore the FOCO model retail store opportunity in Varanasi with The Buyzaar Mart. Franchise-owned, company-operated retail with structured returns and low involvement.",
   keywords: [
-    "FOCO model retail Varanasi",
+    "FOCO model retail store Varanasi",
     "franchise owned company operated",
     "The Buyzaar Mart Varanasi",
     "passive investment retail franchise",
@@ -18,6 +18,15 @@ export const metadata = {
     "company operated mart franchise",
     "FOCO vs FOFO",
     "retail business investment UP",
+    "FOCO franchise Varanasi",
+    "FOCO retail franchise Varanasi",
+    "franchise owned company operated Varanasi",
+    "FOCO grocery franchise Varanasi",
+    "retail franchise Varanasi",
+    "grocery franchise Varanasi",
+    "mini mart franchise Varanasi",
+    "supermarket franchise Varanasi",
+    "Buyzaar Mart FOCO Varanasi"
   ],
   alternates: {
     canonical:

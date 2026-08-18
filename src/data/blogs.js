@@ -163,7 +163,7 @@ export const blogs = [
       description: "Learn how the Franchise Owned Company Managed model works at Buyzaar Mart.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1772692749/FOCM_Model_zp9wlc.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -320,7 +320,7 @@ export const blogs = [
       description: "Learn how structured retail franchise systems are reshaping investment opportunities in India.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1772789873/why-company-managed-retail-franchises-future-investment_rckaxk.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -510,7 +510,7 @@ export const blogs = [
       description: "Learn the difference between FOCO, FOFO, and FOCM franchise models and discover which is best for investors in 2026.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773138532/FOCO_FOFO_FOCM_s3vh6h.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -641,7 +641,7 @@ export const blogs = [
       description: "Learn how the Buyzaar Mart FOCM franchise model works step-by-step.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773331948/how-buyzaar-mart-focm-model-works_iwybi4.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -815,7 +815,7 @@ export const blogs = [
       description: "Compare Buyzaar Mart and traditional kirana stores to understand which retail model offers better long-term profitability.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773482760/buyzaar-mart-vs-traditional-kirana-store_axxlrp.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -1021,7 +1021,7 @@ export const blogs = [
       description: "Explore market size, profit margins, and growth trends of the supermarket business in India in 2026.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773673568/is-supermarket-business-profitable-india-2026_csflfl.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -1139,7 +1139,7 @@ export const blogs = [
       description: "Discover the top 7 benefits of investing in a company-managed supermarket and why this retail model is growing in India.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773989428/top-benefits-company-managed-supermarket_rllufi.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -1315,7 +1315,7 @@ export const blogs = [
       description: "Compare Mini Mart, Super Mart, and Hyper Mart formats with a detailed investment breakdown.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1773993678/buyzaar-mart-franchise-investment_lifufn.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -1481,7 +1481,7 @@ export const blogs = [
       description: "Discover why structured franchise models are a better option than independent grocery stores in 2026.",
       images: ["https://res.cloudinary.com/dxpyhablz/image/upload/v1774171497/independent-grocery-store-vs-franchise_ctdrps.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -1686,7 +1686,7 @@ export const blogs = [
       description: "Avoid costly mistakes in franchise business and learn how to build a profitable grocery franchise in India.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1774436157/common-mistakes-first-time-franchise-investors_cui4va.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -1874,7 +1874,7 @@ export const blogs = [
       description: "Want to open a Buyzaar Mart franchise in India? Read our complete 2026 step-by-step guide covering eligibility, investment, documentation, and store launch process.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1775381544/how-to-apply-buyzaar-mart-franchise_sd7qgc.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -2033,7 +2033,7 @@ export const blogs = [
       description: "Compare Buyzaar Mart's Mini Mart, Super Mart, and Hyper Mart formats to pick the right franchise for your investment and location.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1775456410/buyzaar-mart-mini-mart-vs-super-mart-vs-hyper-mart_c98kom.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -2201,7 +2201,7 @@ export const blogs = [
       description: "Looking for a supermarket franchise in India under ₹25 lakhs? Discover what's realistically possible in 2026 and why Buyzaar Mart stands out.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1775564509/supermarket-franchise-investment-india-under-25-lakhs-2026_b3qvjh.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -2366,7 +2366,7 @@ export const blogs = [
       description: "India's grocery retail to $1.1T by 2030. Key drivers and why Buyzaar Mart franchise leads Tier II/III opportunity.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1775805431/india-grocery-retail-market-growth-2030_lnzubx.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -2494,7 +2494,7 @@ export const blogs = [
       description: "Real stories of Buyzaar Mart franchise partners who built thriving neighborhood stores across North India.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1775897053/buyzaar-mart-franchise-success-stories-noida-gangoh-haridwar_ejzl5w.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -2775,7 +2775,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1775981582/BuyzaarMartvs7HevenvsSuperKiranaWhichGroceryFranchiseisBestin202_yejydk.jpg"
       ]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -2936,7 +2936,7 @@ export const blogs = [
       description: "Discover what a neighborhood store is, why it dominates Indian retail, and why owning one through Buyzaar Mart is one of the smartest business moves in 2026.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776233204/what-is-neighborhood-store-india-next-big-business-opportunity_o6gkmo.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -3078,7 +3078,7 @@ export const blogs = [
       "description": "₹12-30L investment, 15-22% ROI, 18-28 month breakeven. Tier 2/3 grocery franchise profitability revealed.",
       "images": ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776322553/IstheGroceryFranchiseBusinessProfitableinIndiaRealNumbersfor202_e1zpwj.jpg"]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 {
@@ -3212,7 +3212,7 @@ export const blogs = [
       "description": "FOCM model, inventory assurance, POS tech, training & marketing — everything Buyzaar Mart provides to franchise partners.",
       "images": ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776424763/What_Does_Buyzaar_Mart_Provide_to_Franchise_Partners_Complete_Support_Guide_ttxv3s.jpg"]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 {
@@ -3352,7 +3352,7 @@ export const blogs = [
       "description": "Know your customers, plan inventory, train staff, track sales — 12 proven tips for new grocery store owners in India.",
       "images": ["https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776489049/HowtoRunaProfitableGroceryStore12OperationsTipsforNewStoreOwner_1_dcfpnz.jpg"]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -3679,7 +3679,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776496729/FSSAI_GST_MSME_All_the_Licenses_You_Need_Before_Opening_a_Grocery_Store_in_India_pmereb.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -3999,7 +3999,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1777285132/how-to-choose-right-location-grocery-franchise-indi_i8ufyw.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -4290,7 +4290,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1777373473/a-day-in-the-life-of-a-buyzaar-mart-franchise-owner_t2rz3b.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -4553,7 +4553,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1777715783/rise-of-tier-2-tier-3-city-retail-india-202_xg8ffg.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -4808,7 +4808,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1777716690/profitable-retail-business-without-experience-managed-franchis_zvnq1i.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -5048,7 +5048,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1777889614/grocery-franchise-ghaziabad-2026_rmozf3.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -5281,7 +5281,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1778045402/quick-commerce-vs-grocery-franchise-india_u20mcb.png"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -5547,7 +5547,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1778046265/handle-expiry-wastage-dead-stock-grocery-franchis_ywbeng.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -5832,7 +5832,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1778225110/best-areas-grocery-franchise-delhi-ncr-under-30-lakh_bgp22v.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -6115,7 +6115,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1778401437/whatsapp-instagram-drive-footfall-grocery-stor_brojyp.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -6373,7 +6373,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1778500334/salaried-employee-start-grocery-franchise-without-quitting-job_ls8jnj.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 {
@@ -6581,7 +6581,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1779103745/franchise-failure-rate-india-data-how-to-succeed_jceinl.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -6795,7 +6795,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1779103744/train-retain-store-staff-grocery-franchise_vzndia.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -6996,7 +6996,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1779104198/can-woman-run-grocery-franchise-india_qoylgo.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -7269,7 +7269,7 @@ export const blogs = [
         "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1779365299/managed-franchise-vs-self-operated-store-first-time-owner_r250jm.jpg"
       ]
     },
-    "icons": { "icon": "/images/buyzaar-logo.png" }
+    "icons": { "icon": "/favicon.ico" }
   }
 },
 
@@ -7505,7 +7505,7 @@ export const blogs = [
       description: "Discover what sets Buyzaar Mart apart — three store formats, 18–20% margins, expired stock return policy, 50+ FMCG brands & hyper-local marketing. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1779601069/what-makes-buyzaar-mart-different-grocery-franchise-north-india_l3c2yc.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -7741,7 +7741,7 @@ export const blogs = [
       description: "Discover the best localities in Gurgaon and Faridabad for a Buyzaar Mart grocery franchise under ₹30 lakhs. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1779601950/best-localities-gurgaon-faridabad-grocery-franchise-under-30-lakhs_mxligl.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -7961,7 +7961,7 @@ export const blogs = [
       description: "Indian retailers lose 1.2–2.5% of revenue to shrinkage annually. Learn how to detect, measure, and eliminate shrinkage in your grocery franchise store in 2026.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1780138373/manage-inventory-shrinkage-grocery-franchise-store_p1axbu.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -8252,7 +8252,7 @@ export const blogs = [
       description: "A practical checklist-driven audit guide for grocery franchise store owners in India. Start your Buyzaar Mart franchise at thebuyzaarmart.com or call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1780210854/how-to-run-daily-weekly-monthly-audits-grocery-franchise-stor_fr3vs9.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -8480,7 +8480,7 @@ export const blogs = [
       description: "Kanpur has 30+ lakh residents and less than 10% organized grocery penetration. Discover why 2026 is the year to open a Buyzaar Mart franchise in Kanpur. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1780477835/future-of-organized-grocery-retail-in-kanpur-opportunities-202_jlcuiq.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -8708,7 +8708,7 @@ export const blogs = [
       description: "India's FMCG market hits ₹10.2 lakh crore by 2026. Discover the fastest-growing categories and how Buyzaar Mart franchise owners can capitalise on them. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1780896625/india-fmcg-sector-2026-fastest-growing-categorie_gpsuxn.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -8942,7 +8942,7 @@ export const blogs = [
       description: "Running a grocery franchise with family? Learn how to divide roles smartly and build a profitable store. Start at thebuyzaarmart.com or call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1780897196/running-family-owned-grocery-franchise-divide-roles-partner_hwdgqu.jpg"]
     },
-    icons: { icon: "/images/buyzaar-logo.png" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -9181,7 +9181,7 @@ export const blogs = [
       description: "Discover the best localities in Lucknow for a grocery franchise in 2026 — from Indira Nagar to Sushant Golf City. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1780987066/opening-grocery-store-franchise-lucknow-locality-guid_p6bfc0.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -9429,7 +9429,7 @@ export const blogs = [
       description: "Long queues during rush hours kill customer loyalty. Learn practical peak-hour management strategies for your grocery franchise store. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1780987922/how-to-handle-peak-hours-grocery-store-without-losing-customer_qgnrti.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -9680,7 +9680,7 @@ export const blogs = [
       description: "Staples account for 55–60% of Indian grocery retail value. Discover why atta, rice, and dal are the foundation of every profitable grocery franchise store. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1781076380/why-staples-atta-rice-dal-drive-highest-volume-indian-grocery-store_mbhd9k.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -9897,7 +9897,7 @@ export const blogs = [
       description: "Learn how a planogram can increase basket size and monthly revenue in your grocery franchise store. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1781263840/planogram-101-shelf-arrangement-increases-basket-size-indian-grocery-store_p15qdl.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -10144,7 +10144,7 @@ export const blogs = [
       description: "Discover the six-stage quality control process behind every product on a Buyzaar Mart shelf. Join a franchise brand built on trust. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1781762687/buyzaar-mart-quality-control-process-product-approva_njp73u.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -10318,7 +10318,7 @@ export const blogs = [
       description: "See how Buyzaar Mart's POS alerts, centralized procurement, and stock rotation systems keep franchise shelves full and customers loyal. Call 9217991727.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1781763697/how-buyzaar-mart-handles-stock-shortages-franchise-leve_tev8vi.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -10631,7 +10631,7 @@ export const blogs = [
       description: "Data-backed demand mapping of the best Lucknow neighbourhoods for a Buyzaar Mart grocery franchise in 2026. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1782109356/best-neighbourhoods-lucknow-buyzaar-mart-demand-mapping-202_khkl60.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -10863,7 +10863,7 @@ export const blogs = [
       description: "Can you run a Buyzaar Mart franchise alongside your job? Learn the realistic time commitment and delegation tips. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1782978892/running-buyzaar-mart-franchise-side-business-time-commitment-delegatio_bwvqi4.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -11018,7 +11018,7 @@ export const blogs = [
       description: "Consumer trust is shifting from kiranas to branded franchise stores in tier-2 India. Discover why 2026 is the tipping point. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1783487324/why-tier-2-city-consumers-trust-branded-franchise-stores-buyzaar-mart-202_ptmlhf.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -11203,7 +11203,7 @@ export const blogs = [
       description: "An honest comparison of grocery franchise vs real estate for NRI investors in 2026. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1783673151/nri-investors-buyzaar-mart-grocery-franchise-vs-real-estate-2026_c0459v.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -11395,7 +11395,7 @@ export const blogs = [
       description: "India's under-35 entrepreneurs are choosing grocery franchise businesses over startups. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1783754471/young-entrepreneurs-buyzaar-mart-under-35-grocery-retail-franchis_jojvgg.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -11575,7 +11575,7 @@ export const blogs = [
       description: "Quick commerce isn't killing physical grocery stores — it may be growing them. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1783755216/quick-commerce-growth-increasing-walk-in-customers-buyzaar-mart-store_bjbwma.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -11808,7 +11808,7 @@ export const blogs = [
       description: "Shrinkage and wastage drain 2-5% of grocery store revenue monthly. Here's the brand's system-by-system fix. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1783931922/shrinkage-wastage-control-buyzaar-mart-store-brand-recommendations_d4hv8r.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -12054,7 +12054,7 @@ export const blogs = [
       description: "The eight-step framework Buyzaar Mart franchise partners use to prepare for Navratri, Diwali, and Holi demand. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1783933719/buyzaar-mart-franchisees-handle-festive-season-demand-without-stockouts_i5hf9o.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -12273,7 +12273,7 @@ export const blogs = [
       description: "Seven consumer behaviour shifts reshaping North Indian grocery retail in 2026. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1784264300/consumer-behavior-shifts-north-india-buyzaar-mart-model-timely-2026_v6bzxe.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -12489,7 +12489,7 @@ export const blogs = [
       description: "Health snacks, Ayurvedic care, OTC health, ready-to-cook foods, and functional beverages — what to stock in 2026. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1784264992/buyzaar-mart-top-5-emerging-product-categories-franchisees-stock-mor_lqgxwo.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -12660,7 +12660,7 @@ export const blogs = [
       description: "Why the timing, the model, and the market all align for Buyzaar Mart in 2026. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1784784774/buyzaar-mart-positioned-benefit-india-organized-retail-shift-202_jfsqzm.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -12873,7 +12873,7 @@ export const blogs = [
       description: "Dehradun, Haridwar, Roorkee, Haldwani, Rishikesh — the complete case for Buyzaar Mart's Uttarakhand expansion. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1784785285/buyzaar-mart-uttarakhand-strategy-hill-towns-2026-expansion_rz7f4w.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -13068,7 +13068,7 @@ export const blogs = [
       description: "How Buyzaar Mart franchise stores are cutting plastic waste through smarter bags, sourcing, and segregation. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1785913929/eco-friendly-packaging-buyzaar-mart-franchises-reducing-plastic-waste_tg88vc.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -13314,7 +13314,7 @@ export const blogs = [
       description: "Billing speed, inventory accuracy, GST compliance, analytics, CRM, remote monitoring — the complete POS breakdown. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1785914337/how-pos-billing-software-improve-efficiency-grocery-franchise-indi_u0sxmk.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -13568,7 +13568,7 @@ export const blogs = [
       description: "Makhana, functional beverages, protein snacks — why these categories carry the highest margins in 2026. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786274468/packaged-snacks-beverages-highest-margin-category-grocery-franchise-202_k1cg7q.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -13737,7 +13737,7 @@ export const blogs = [
       description: "Receiving, refrigeration, FIFO, and daily shelf checks — the complete perishables management guide. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786344937/cold-chain-perishables-management-grocery-franchise-owners-202_ggsmg8.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -13924,7 +13924,7 @@ export const blogs = [
       description: "Cleanliness, planogram compliance, staff presentation, and daily audits — inside Buyzaar Mart's retail standards. Call 9217991727 or visit thebuyzaarmart.com.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786611572/how-buyzaar-mart-ensures-clean-organized-stores-retail-standard_jpv2e7.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -14077,7 +14077,7 @@ export const blogs = [
       description: "What turns one-time buyers into daily Buyzaar Mart regulars — layout, staff, availability, cleanliness, and loyalty triggers.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786612434/in-store-customer-experience-buyzaar-mart-shoppers-retur_ehvkyt.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -14288,7 +14288,7 @@ export const blogs = [
       description: "Explore why quick commerce apps in India cannot fully replace neighborhood grocery stores, from trust and affordability to local employment and reliability.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786690590/why-quick-commerce-apps-can_t-replace-neighborhood-grocery-stores-in-india_wkv5ug.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 {
@@ -14428,7 +14428,7 @@ export const blogs = [
       description: "Why organized grocery retail is outgrowing kirana stores in Varanasi, and where the franchise opportunity is concentrated in the city.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786937964/varanasi-retail-market-2026-organized-grocery-stores-boomin_fsjarg.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -14583,7 +14583,7 @@ export const blogs = [
       description: "Mini Mart, Super Mart, or Hyper Mart — exact sq ft requirements and how to pick the right format for your location.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1786938501/buyzaar-mart-franchise-space-requirement-sq-f_v6sduy.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -14726,7 +14726,7 @@ export const blogs = [
       description: "Higher margins, zero spoilage, sticky brand loyalty — why household and cleaning deserve more shelf space in your grocery store.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1787030471/household-cleaning-essentials-hidden-high-margin-category-grocery-store_tghscu.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 },
 
@@ -14879,7 +14879,7 @@ export const blogs = [
       description: "Why baby care is one of the highest-loyalty categories in grocery retail, and how to stock diapers, feeding, and wellness essentials right.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1787030929/baby-care-products-grocery-retail-demand-trends-indian-neighborhood_gqy4wj.jpg"]
     },
-    icons: { icon: "/favicon-v2.ico" }
+    icons: { icon: "/favicon.ico" }
   }
 }
 

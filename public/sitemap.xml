@@ -2296,7 +2296,7 @@
 
 
 
-<!--Bareilly Franchise Pages-->
+<!--Bulandshahr Franchise Pages-->
 
 <url>
   <loc>https://www.thebuyzaarmart.com/bulandshahr/buyzaar-mart-franchise-apply-bulandshahr</loc>
@@ -2428,6 +2428,57 @@
   <loc>https://www.thebuyzaarmart.com/bulandshahr/foco-franchise-opportunity-bulandshahr</loc>
   <priority>0.9</priority>
 </url>
+
+<!--Aligarh Franchise Pages-->
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-franchise-apply-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/how-to-apply-for-buyzaar-mart-franchise-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-retail-partner-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-franchise-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-foco-franchise-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-focm-franchise-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-franchise-details-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/how-to-open-mart-franchise-in-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/how-to-open-grocery-franchise-in-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/how-to-start-retail-franchise-in-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/how-to-become-franchise-partner-in-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.thebuyzaarmart.com/aligarh/how-to-invest-in-grocery-franchise-aligarh</loc>
+  <priority>0.9</priority>
+</url>
+
 
 
 // Moradabad Franchise pages
@@ -3437,6 +3488,11 @@
   
   <url>
   <loc>https://www.thebuyzaarmart.com/blog/social-media-advertising-local-grocery-stores-beginners-guide</loc>
+   <priority>0.9</priority>
+  </url>
+  
+  <url>
+  <loc>https://www.thebuyzaarmart.com/blog/google-my-business-grocery-stores-getting-found-local-customers</loc>
    <priority>0.9</priority>
   </url>
   

@@ -19354,6 +19354,419 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+},
+
+{
+  id: 73,
+  slug: "summer-season-products-boost-grocery-store-sales",
+  title: "Summer Season Products That Boost Grocery Store Sales",
+  subtitle: "Discover the top summer products — cold drinks, ice cream, seasonal fruits & more — that drive grocery store sales, plus merchandising and inventory tips for franchise owners.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-09-11",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1789111275/summer-season-products-boost-grocery-store-sales_jcmtr9.jpg",
+  content: "Discover the top summer products — cold drinks, ice cream, seasonal fruits & more — that drive grocery store sales, plus merchandising and inventory tips for franchise owners.",
+  tags: [
+    "summer grocery store products",
+    "cold drinks sales grocery store",
+    "ice cream sales summer",
+    "grocery store seasonal products",
+    "summer merchandising tips retail",
+    "grocery franchise inventory planning",
+    "FMCG summer season sales",
+    "Buyzaar Mart franchise",
+    "grocery store impulse buying",
+    "seasonal fruit sales grocery",
+    "summer beverage sales India",
+    "frozen dessert sales grocery store",
+    "grocery store checkout merchandising",
+    "summer snacks grocery store",
+    "personal care summer products retail",
+    "grocery franchise seasonal strategy",
+    "cold chain grocery store",
+    "hydration products retail sales",
+    "grocery store sales boost tips",
+    "FOCM FOCO seasonal inventory"
+  ],
+
+  fullContent: {
+    introduction: "Summer is one of the most predictable — and most profitable — seasons for grocery retail, if a store is stocked and positioned correctly. As temperatures climb, consumer buying behavior shifts sharply toward cooling, hydrating, and convenience-driven products. For grocery franchise owners, understanding this seasonal shift isn't optional — it's one of the clearest, most repeatable ways to boost monthly revenue. Here's a complete breakdown of the summer product categories that drive footfall and basket size, and how to plan for them.",
+
+    sections: [
+      {
+        heading: "Why Summer Is a Critical Sales Window for Grocery Stores",
+        content: [
+          { type: "bullets", items: [
+            "Rising temperatures create an immediate, non-discretionary need for cold beverages, hydration products, and quick-cooling foods — demand that's far less price-sensitive than in other seasons",
+            "Summer typically sees higher daily footfall in grocery stores as consumers make more frequent, smaller purchases to keep items fresh and cold at home",
+            "School vacations increase daytime family shopping trips, particularly for snacks, ice creams, and ready-to-eat cooling products",
+            "Impulse purchases rise significantly in summer, especially near checkout counters stocked with cold drinks, ice creams, and quick snacks",
+            "Seasonal demand spikes offer a natural opportunity to introduce new SKUs and test consumer response without long-term inventory risk"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Cold Drinks and Beverages: The Core Summer Category",
+        content: [
+          { type: "bullets", items: [
+            "Carbonated soft drinks see one of the sharpest seasonal upticks of any grocery category, making prominent chilled-shelf placement essential",
+            "Fruit juices and nectar-based drinks perform strongly with health-conscious shoppers looking for refreshment without the sugar load of soda",
+            "Packaged buttermilk (chaas) and lassi see major seasonal spikes in North Indian markets, especially during peak summer months",
+            "Electrolyte and hydration drinks (ORS-based and sports drinks) see rising demand as heat-related dehydration awareness grows",
+            "Bottled water sales increase substantially, particularly larger multi-pack formats for households and smaller single-serve bottles for on-the-go buyers",
+            "Iced tea and cold coffee ready-to-drink formats are a growing category, particularly among younger, urban shoppers"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Ice Cream and Frozen Desserts: A High-Margin Impulse Category",
+        content: [
+          { type: "bullets", items: [
+            "Ice cream is one of the most reliable summer sales drivers, with both family-pack tubs and individual sticks/cups performing well across income segments",
+            "Placing a well-stocked, functioning freezer near the entrance or checkout significantly increases impulse purchases, especially among families with children",
+            "Regional and traditional frozen desserts (kulfi, matka kulfi) often outperform branded ice cream in certain markets and are worth stocking alongside national brands",
+            "Frozen novelty items — ice pops, candy bars, sundae cups — perform especially well with the school-age demographic during vacation months",
+            "Consistent cold-chain maintenance is critical in this category; even brief freezer downtime can lead to product spoilage and direct revenue loss"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Fresh Produce and Seasonal Fruits",
+        content: [
+          { type: "bullets", items: [
+            "Watermelon, muskmelon, mangoes, and cucumbers see significant demand spikes as natural cooling and hydrating foods",
+            "Seasonal fruit displays near the store entrance are effective at driving both planned and impulse purchases",
+            "Fresh mint, lemons, and curry leaves see increased demand as households prepare more cooling drinks and salads at home",
+            "Pre-cut and packaged fruit options are gaining traction among busy, convenience-seeking urban shoppers, particularly in Tier-1 and Tier-2 cities"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Summer Snacks and Convenience Foods",
+        content: [
+          { type: "bullets", items: [
+            "Light, cooling snacks like bhel, chaat mixes, and roasted items see steady demand as heavier fried snacks lose some seasonal appeal",
+            "Instant and ready-to-eat cooling foods (curd-based dishes, ready idli/dosa batters) perform well as consumers look to minimize kitchen heat exposure",
+            "Namkeen and packaged snacks remain consistent sellers but benefit from being merchandised alongside cold beverages for cross-purchase behavior",
+            "Popsicle and candy sections near billing counters capture strong impulse purchases from both children and adults"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Personal Care and Household Essentials With Summer Spikes",
+        content: [
+          { type: "bullets", items: [
+            "Sunscreen, after-sun lotions, and prickly heat powders see significant seasonal demand increases and are worth prominent shelf placement",
+            "Mosquito repellents and cooling gel-based personal care products see rising sales as summer evenings bring increased insect activity",
+            "Room coolers' consumables — cooling pads, fragrance blocks — see steady demand in regions with high cooler usage",
+            "Deodorants and body sprays typically see a seasonal sales bump as consumers manage heat and sweat more actively"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Merchandising and Store Layout Tips for the Summer Season",
+        content: [
+          { type: "bullets", items: [
+            "Position chilled beverage coolers near the store entrance so cooling relief is the first thing customers notice on entry",
+            "Create a dedicated \"summer essentials\" end-cap or display combining cold drinks, ice cream vouchers, sunscreen, and hydration products together",
+            "Ensure checkout counters are stocked with small, low-cost impulse items — ice pops, cold drink cans, candy — to capture last-minute purchases",
+            "Rotate seasonal fruit displays near the entrance to leverage both visual appeal and impulse buying behavior",
+            "Monitor freezer and cooler functionality daily during peak summer months, since equipment downtime directly translates to lost sales and spoilage costs"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Inventory Planning Tips for Franchise Owners",
+        content: [
+          { type: "bullets", items: [
+            "Increase order frequency for high-turnover cold beverage and ice cream SKUs to avoid stockouts during peak afternoon and evening demand windows",
+            "Track daily sales velocity for seasonal categories separately from year-round staples to fine-tune reorder points",
+            "Coordinate with centralized supply chain teams early in the season to secure adequate stock allocation before demand peaks",
+            "Avoid over-ordering perishable seasonal fruit; balance freshness with demand forecasting to minimize wastage",
+            "Use festival and school-vacation calendars to anticipate short-term demand spikes within the broader summer season"
+          ]}
+        ]
+      },
+
+      {
+        heading: "How The Buyzaar Mart Supports Franchise Owners During Peak Season",
+        content: [
+          { type: "bullets", items: [
+            "Centralized supply chain management helps ensure consistent stock availability for high-demand seasonal SKUs across all franchise stores",
+            "Hassle-Free Inventory Assurance reduces the risk of stock-outs and spoilage losses during high-turnover summer months",
+            "A catalog of 15,000+ SKUs, including established FMCG and beverage brands, gives franchise owners a ready-made summer product range without needing to source separately",
+            "Technology-enabled inventory tracking helps franchise partners monitor fast-moving seasonal categories in real time and reorder proactively",
+            "Ongoing operational guidance helps franchise owners plan merchandising and stock strategy ahead of each seasonal shift"
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Q1. Which product categories see the biggest sales boost in summer?",
+      answer: "Cold drinks, ice cream, bottled water, seasonal fruits, and personal care items like sunscreen and prickly heat powder all see significant demand increases."
+    },
+    {
+      question: "Q2. Why is checkout-counter placement important during summer?",
+      answer: "Small, low-cost items like ice pops and cold drink cans placed near billing counters capture impulse purchases that add up meaningfully over the season."
+    },
+    {
+      question: "Q3. How can franchise owners avoid stockouts during peak summer demand?",
+      answer: "By increasing order frequency for high-turnover items and tracking daily sales velocity separately for seasonal categories."
+    },
+    {
+      question: "Q4. Does freezer and cooler maintenance really impact sales?",
+      answer: "Yes — equipment downtime during summer can lead to both lost sales and product spoilage, making daily checks essential."
+    },
+    {
+      question: "Q5. Are regional products like kulfi worth stocking alongside branded ice cream?",
+      answer: "Yes, regional and traditional frozen desserts often perform very well locally and can complement national ice cream brands rather than compete with them."
+    },
+    {
+      question: "Q6. How does The Buyzaar Mart help franchise owners manage seasonal inventory?",
+      answer: "Through centralized supply chain coordination, Hassle-Free Inventory Assurance, and a wide FMCG catalog that covers seasonal beverage, frozen, and personal care categories."
+    }
+  ],
+
+  metaTags: {
+    title: "Summer Season Products That Boost Grocery Store Sales | The Buyzaar Mart",
+    description: "Discover the top summer products — cold drinks, ice cream, seasonal fruits & more — that drive grocery store sales, plus merchandising and inventory tips for franchise owners.",
+    keywords: "summer grocery store products, cold drinks sales grocery store, ice cream sales summer, grocery store seasonal products, summer merchandising tips retail, grocery franchise inventory planning, FMCG summer season sales, Buyzaar Mart franchise, grocery store impulse buying, seasonal fruit sales grocery, summer beverage sales India, frozen dessert sales grocery store, grocery store checkout merchandising, summer snacks grocery store, personal care summer products retail, grocery franchise seasonal strategy, cold chain grocery store, hydration products retail sales, grocery store sales boost tips, FOCM FOCO seasonal inventory",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/summer-season-products-boost-grocery-store-sales"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/summer-season-products-boost-grocery-store-sales",
+      title: "Summer Season Products That Boost Grocery Store Sales | The Buyzaar Mart",
+      description: "Discover the top summer products — cold drinks, ice cream, seasonal fruits & more — that drive grocery store sales, plus merchandising and inventory tips for franchise owners.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1789111275/summer-season-products-boost-grocery-store-sales_jcmtr9.jpg", width: 1200, height: 630, alt: "Summer Season Products That Boost Grocery Store Sales | The Buyzaar Mart" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Summer Season Products That Boost Grocery Store Sales | The Buyzaar Mart",
+      description: "Discover the top summer products — cold drinks, ice cream, seasonal fruits & more — that drive grocery store sales, plus merchandising and inventory tips for franchise owners.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1789111275/summer-season-products-boost-grocery-store-sales_jcmtr9.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
+},
+
+{
+  id: 74,
+  slug: "winter-season-category-planning-grocery-franchise-owners",
+  title: "Winter Season Category Planning for Grocery Franchise Owners",
+  subtitle: "Learn how to plan winter grocery categories — hot beverages, immunity products, festival combos & more — to boost sales and avoid stockouts as a franchise owner.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-09-11",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1789111666/winter-season-category-planning-grocery-franchise-owners_ugvu9y.jpg",
+  content: "Learn how to plan winter grocery categories — hot beverages, immunity products, festival combos & more — to boost sales and avoid stockouts as a franchise owner.",
+  tags: [
+    "winter grocery category planning",
+    "winter grocery store sales",
+    "hot beverage sales winter",
+    "immunity products grocery store",
+    "Diwali gifting inventory",
+    "grocery franchise seasonal planning",
+    "winter FMCG sales India",
+    "Buyzaar Mart franchise",
+    "dry fruits sales winter",
+    "grocery store merchandising winter",
+    "winter personal care products retail",
+    "festival inventory planning grocery",
+    "grocery franchise inventory tips",
+    "winter comfort food sales",
+    "grocery store category management",
+    "FOCM FOCO seasonal planning",
+    "winter skincare retail sales",
+    "grocery business seasonal strategy",
+    "festive season retail sales India",
+    "grocery franchise category planning tips"
+  ],
+
+  fullContent: {
+    introduction: "Winter brings one of the most predictable seasonal shifts in grocery retail — and one of the most commonly under-planned by store owners. As temperatures drop, consumer buying patterns change sharply: hot beverages replace cold ones, immunity and warmth-related products spike, and shopping frequency patterns shift around shorter days and festival clusters. For grocery franchise owners, getting winter category planning right isn't just about stocking a few extra items — it's about restructuring purchasing, merchandising, and inventory cycles around a genuinely different consumer mindset.",
+
+    sections: [
+      {
+        heading: "Why Winter Requires Dedicated Category Planning",
+        content: [
+          { type: "bullets", items: [
+            "Winter consumer behavior is fundamentally different from the rest of the year — demand shifts toward warmth, immunity, and comfort-food categories almost overnight as temperatures drop",
+            "India's winter season overlaps heavily with major festivals (Diwali in early winter, followed by regional harvest and New Year celebrations), creating compounded demand spikes that require separate planning from routine winter stocking",
+            "Shorter daylight hours and colder evenings tend to shift shopping patterns earlier in the day, which has direct implications for staffing and restocking schedules",
+            "Categories that are strong performers in summer (cold beverages, ice cream) see sharp demand drops, and shelf space needs to be reallocated rather than left underutilized",
+            "Poor winter planning typically shows up as either overstocked cold-season items that don't move, or stockouts on genuinely high-demand winter categories — both directly hurt margins"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Hot Beverages: The Core Winter Category Shift",
+        content: [
+          { type: "bullets", items: [
+            "Tea and coffee see a significant consumption increase during winter months, making both loose and packaged formats important shelf priorities",
+            "Hot chocolate and malted beverage mixes (health drink powders) see strong seasonal upticks, particularly among households with children",
+            "Instant soup mixes perform well as a quick, warming snack option, especially in urban and semi-urban markets",
+            "Herbal and immunity-boosting tea blends (tulsi, ginger, kadha mixes) have seen consistent year-over-year growth as health-conscious buying increases in winter",
+            "Dedicated shelf or end-cap placement for hot beverages, positioned prominently as temperatures first start dropping, helps capture early-season demand before competitors adjust their layouts"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Immunity and Health-Focused Products",
+        content: [
+          { type: "bullets", items: [
+            "Vitamin C tablets, immunity syrups, and health supplements see a clear seasonal demand increase as consumers proactively guard against winter colds and flu",
+            "Dry fruits and nuts (almonds, walnuts, dates) see strong seasonal sales growth, both for direct consumption and as gifting items during the festive-winter overlap period",
+            "Honey and jaggery-based products see increased demand as traditional immunity and warmth remedies regain popularity each winter",
+            "Ayurvedic and herbal immunity products have grown into a meaningful category, particularly post-pandemic, and are worth stocking prominently near checkout and health sections",
+            "Turmeric, ginger, and other warming spices see incremental demand increases tied to home remedy and immunity-focused cooking"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Comfort Food and Winter Cooking Essentials",
+        content: [
+          { type: "bullets", items: [
+            "Ghee and cooking oils see increased usage during winter as households shift toward richer, warming meals",
+            "Winter vegetables (carrots, peas, spinach, fenugreek) drive strong fresh produce footfall and are worth prominent seasonal display placement",
+            "Soup bases, ready-to-cook mixes, and instant noodles see a genuine seasonal uptick as quick, hot meal options become more attractive on cold days",
+            "Dry fruit and nut-based sweets see a sharp demand spike tied to both personal consumption and festival gifting",
+            "Packaged snack categories shift toward heavier, spicier options as lighter summer snacks lose some seasonal appeal"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Personal Care and Household Winter Essentials",
+        content: [
+          { type: "bullets", items: [
+            "Moisturizers, body lotions, and lip balms see one of the most consistent seasonal sales spikes of any personal care category as skin dryness increases",
+            "Petroleum jelly and specialized winter skincare products perform particularly well in northern Indian markets with sharper temperature drops",
+            "Woolen accessories and related seasonal non-food items, where stocked, can meaningfully boost basket size when merchandised alongside personal care essentials",
+            "Room heater consumables and related household items see localized demand increases depending on regional winter severity",
+            "Hot water bottle and related comfort items, where relevant to store format, tie in naturally with the broader winter wellness category"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Festival-Linked Category Planning",
+        content: [
+          { type: "bullets", items: [
+            "Diwali falls within the broader winter planning window in most of North India and requires early, separate inventory planning for gifting items, dry fruits, and premium FMCG combos",
+            "Gift packs and combo offers built around dry fruits, sweets, and premium beverages perform strongly during the festive-winter overlap and are worth planning several weeks in advance",
+            "Post-festival demand for health and detox-oriented products (digestive aids, herbal teas) often rises as consumers offset festive indulgence",
+            "Regional New Year and harvest festivals occurring through winter months create additional smaller demand spikes worth tracking locally rather than treating winter as a single uniform season"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Merchandising and Store Layout Adjustments for Winter",
+        content: [
+          { type: "bullets", items: [
+            "Reallocate the shelf and freezer space previously used for summer cold beverages toward hot beverages, soups, and immunity products as the season transitions",
+            "Create a dedicated \"winter essentials\" display combining hot beverages, immunity products, and personal care items to simplify cross-category shopping",
+            "Position dry fruits and gifting combos prominently near entrances during the festival-winter overlap to capture both planned and impulse gifting purchases",
+            "Ensure checkout counters carry small, relevant winter impulse items — hot beverage sachets, small immunity supplement packs — rather than leftover summer impulse stock",
+            "Adjust store lighting and temperature-related merchandising cues to reinforce the seasonal shift and prompt category-relevant browsing"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Inventory Planning Tips for Winter Category Transitions",
+        content: [
+          { type: "bullets", items: [
+            "Begin phasing out summer-specific stock and transitioning shelf space 2–3 weeks before the expected seasonal shift in your specific region",
+            "Track prior-year winter sales data by category to set more accurate reorder points and avoid both overstocking and stockouts",
+            "Plan festival-linked inventory (gift packs, dry fruits, premium combos) separately from routine winter restocking, since demand timing and volume differ significantly",
+            "Coordinate with centralized supply chain teams early to secure adequate allocation of high-demand winter SKUs before regional shortages develop",
+            "Monitor early sales signals in the first cold week of the season to fine-tune ongoing winter orders rather than relying solely on historical patterns"
+          ]}
+        ]
+      },
+
+      {
+        heading: "How The Buyzaar Mart Supports Franchise Owners Through Winter Planning",
+        content: [
+          { type: "bullets", items: [
+            "Centralized supply chain management helps ensure consistent availability of high-demand winter and festival SKUs across all franchise stores",
+            "Hassle-Free Inventory Assurance reduces the risk of overstock losses on seasonal transitions and stockouts during peak winter-festival demand",
+            "A catalog of 15,000+ SKUs, including established FMCG, health, and personal care brands, gives franchise owners a ready winter product range without needing to source separately",
+            "Technology-enabled inventory tracking helps franchise partners identify fast-moving winter categories in real time and adjust reorders proactively",
+            "Ongoing operational guidance supports franchise owners in planning seasonal and festival merchandising well ahead of each transition"
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Q1. Which product categories see the biggest demand increase in winter?",
+      answer: "Hot beverages, immunity products, dry fruits, personal care items like moisturizers and lip balms, and festival gifting combos all see significant seasonal growth."
+    },
+    {
+      question: "Q2. When should franchise owners start winter category planning?",
+      answer: "Ideally 2–3 weeks before the expected seasonal shift in their region, with festival-linked inventory planned even earlier."
+    },
+    {
+      question: "Q3. How does the Diwali-winter overlap affect inventory planning?",
+      answer: "It creates compounded demand for gifting combos, dry fruits, and premium FMCG products, requiring separate planning from routine winter restocking."
+    },
+    {
+      question: "Q4. Should freezer space be repurposed during winter?",
+      answer: "Yes — shelf and cooler space used for summer cold beverages should be reallocated to hot beverages, soups, and immunity products as demand shifts."
+    },
+    {
+      question: "Q5. What's the biggest risk of poor winter category planning?",
+      answer: "Either overstocked leftover summer items that don't move, or stockouts on genuinely high-demand winter categories — both directly hurt margins."
+    },
+    {
+      question: "Q6. How does The Buyzaar Mart help franchise owners manage seasonal transitions?",
+      answer: "Through centralized supply chain coordination, Hassle-Free Inventory Assurance, and a wide FMCG catalog covering winter beverage, health, and personal care categories."
+    }
+  ],
+
+  metaTags: {
+    title: "Winter Season Category Planning for Grocery Franchise Owners | The Buyzaar Mart",
+    description: "Learn how to plan winter grocery categories — hot beverages, immunity products, festival combos & more — to boost sales and avoid stockouts as a franchise owner.",
+    keywords: "winter grocery category planning, winter grocery store sales, hot beverage sales winter, immunity products grocery store, Diwali gifting inventory, grocery franchise seasonal planning, winter FMCG sales India, Buyzaar Mart franchise, dry fruits sales winter, grocery store merchandising winter, winter personal care products retail, festival inventory planning grocery, grocery franchise inventory tips, winter comfort food sales, grocery store category management, FOCM FOCO seasonal planning, winter skincare retail sales, grocery business seasonal strategy, festive season retail sales India, grocery franchise category planning tips",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/winter-season-category-planning-grocery-franchise-owners"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/winter-season-category-planning-grocery-franchise-owners",
+      title: "Winter Season Category Planning for Grocery Franchise Owners | The Buyzaar Mart",
+      description: "Learn how to plan winter grocery categories — hot beverages, immunity products, festival combos & more — to boost sales and avoid stockouts as a franchise owner.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1789111666/winter-season-category-planning-grocery-franchise-owners_ugvu9y.jpg", width: 1200, height: 630, alt: "Winter Season Category Planning for Grocery Franchise Owners | The Buyzaar Mart" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Winter Season Category Planning for Grocery Franchise Owners | The Buyzaar Mart",
+      description: "Learn how to plan winter grocery categories — hot beverages, immunity products, festival combos & more — to boost sales and avoid stockouts as a franchise owner.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1789111666/winter-season-category-planning-grocery-franchise-owners_ugvu9y.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 }
 
 ]

@@ -21682,6 +21682,498 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+},
+
+{
+  id: 86,
+  slug: "health-hygiene-standards-every-grocery-store-must-follow",
+  title: "Health & Hygiene Standards Every Grocery Store Must Follow",
+  subtitle: "Learn essential grocery store hygiene standards, from FSSAI compliance and safe storage to staff hygiene and pest control, to build customer trust.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-09-28",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1790574731/health-hygiene-standards-every-grocery-store-must-follow_bu66w9.jpg",
+  content: "Learn essential grocery store hygiene standards, from FSSAI compliance and safe storage to staff hygiene and pest control, to build customer trust.",
+  tags: [
+    "grocery store hygiene standards",
+    "FSSAI compliance grocery store",
+    "food safety retail store",
+    "grocery store cleanliness tips",
+    "hygiene standards for supermarkets",
+    "grocery store pest control",
+    "safe food storage retail",
+    "FEFO stock rotation",
+    "staff hygiene grocery store",
+    "cold chain management grocery",
+    "grocery franchise hygiene",
+    "food safety training retail",
+    "grocery store sanitation checklist",
+    "expiry date management retail",
+    "FSSAI license grocery shop",
+    "retail store health standards",
+    "hygienic grocery store tips",
+    "grocery store waste management",
+    "dairy storage hygiene",
+    "loose product handling grocery",
+    "supermarket food safety",
+    "grocery store cleaning schedule",
+    "customer trust grocery store",
+    "franchise store quality standards",
+    "grocery store inspection checklist"
+  ],
+
+  fullContent: {
+    introduction: "Customers walk into a grocery store expecting more than just products on shelves. They expect clean floors, fresh produce, properly stored dairy, and staff who handle food responsibly. For grocery store owners and franchise operators, health and hygiene standards are not just a compliance formality. They directly shape customer trust, repeat footfall, brand reputation, and long-term profitability. This guide covers the essential health, hygiene, and food safety standards every grocery store, from a neighborhood Mini Mart to a large Hyper Mart, should follow consistently.",
+
+    sections: [
+      {
+        heading: "Why Hygiene Standards Matter for Grocery Stores",
+        content: [
+          { type: "bullets", items: [
+            "Customers now judge a store within seconds of entering, and visible cleanliness is one of the strongest signals of product quality and trustworthiness",
+            "Poor hygiene leads to product spoilage, contamination risks, customer complaints, and potential legal action or license issues",
+            "Franchise brands depend on consistency, so a single outlet with weak hygiene practices can damage the reputation of the entire network",
+            "Clean, well-maintained stores see longer customer dwell time, higher repeat visits, and stronger word-of-mouth referrals",
+            "Good hygiene practices reduce wastage, since properly stored and handled products last longer and sell better"
+          ]}
+        ]
+      },
+
+      {
+        heading: "FSSAI Compliance: The Legal Foundation",
+        content: [
+          { type: "bullets", items: [
+            "Every grocery store selling food products must hold a valid FSSAI registration or license, depending on the store's turnover and scale of operations",
+            "The FSSAI license number should be displayed prominently at the store, so customers and inspectors can verify compliance easily",
+            "Stores must follow FSSAI guidelines on food storage, labeling, handling, and sanitation as applicable to their category of business",
+            "Keep licenses, renewals, and inspection records organized and accessible at all times",
+            "Stay updated on regulatory changes, since food safety rules and display requirements are revised from time to time"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Store Cleanliness: Daily Housekeeping Standards",
+        content: [
+          { type: "bullets", items: [
+            "Sweep and mop floors multiple times a day, especially during peak hours and after fresh produce restocking",
+            "Clean shelves, racks, and display units on a scheduled rotation to prevent dust buildup and pest attraction",
+            "Wipe billing counters, weighing scales, and card machines regularly, since these are high-touch surfaces",
+            "Keep entrances, glass doors, and signage clean, because they shape the customer's first impression",
+            "Maintain clean, well-stocked restrooms for staff, and for customers where facilities are available",
+            "Dispose of waste in covered bins and remove garbage frequently so it never sits near food areas"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Safe Storage Practices for Different Product Categories",
+        content: [
+          { type: "bullets", items: [
+            "Dry groceries and staples: store on raised racks away from walls and floors, in dry, well-ventilated areas to prevent moisture, fungus, and pest damage",
+            "Dairy products: keep in properly working chillers at recommended cold temperatures, and never leave dairy stock unrefrigerated during restocking",
+            "Frozen foods: maintain consistent deep-freeze temperatures and avoid repeated thawing and refreezing",
+            "Fresh fruits and vegetables: store in cool, ventilated areas, separate damaged or overripe produce quickly to prevent spoilage from spreading",
+            "Bakery and ready-to-eat items: keep covered, at proper temperatures, and clearly labeled with dates",
+            "Non-food items: store cleaning supplies, detergents, and chemicals away from food products to avoid contamination"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Expiry Date and Stock Rotation Management",
+        content: [
+          { type: "bullets", items: [
+            "Follow FEFO (First-Expiry-First-Out) so products closest to expiry are sold first",
+            "Check shelves daily for expired or near-expiry items and remove them immediately",
+            "Never relabel, alter, or extend the expiry date of any product, since this is both illegal and a serious safety risk",
+            "Train staff to check dates during stock receiving as well as during shelf restocking",
+            "Keep a simple expiry tracking log, especially for dairy, packaged snacks, baby food, and beverages"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Personal Hygiene Standards for Store Staff",
+        content: [
+          { type: "bullets", items: [
+            "Require staff to wash hands thoroughly before handling food items, after restroom breaks, and after handling waste",
+            "Provide clean uniforms, aprons, and where relevant gloves and head coverings for staff handling loose or fresh items",
+            "Ensure staff with visible illness or infections do not handle food products until they recover",
+            "Keep nails trimmed and clean, and discourage eating, smoking, or chewing tobacco in food handling areas",
+            "Set up accessible handwashing stations with soap and sanitizer for staff use throughout the day",
+            "Conduct periodic hygiene training sessions so standards stay consistent as new staff join"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Pest Control and Sanitation Management",
+        content: [
+          { type: "bullets", items: [
+            "Schedule regular professional pest control treatments for rodents, cockroaches, ants, and flying insects",
+            "Seal gaps, cracks, and drain openings where pests can enter, particularly in storage rooms and back areas",
+            "Store food products off the floor and away from walls to reduce pest access and make inspection easier",
+            "Keep drains, gutters, and waste disposal areas clean and treated regularly",
+            "Maintain a written pest control log to demonstrate compliance during inspections",
+            "Never store open or damaged packaging, since it is one of the fastest ways to attract pests"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Cold Chain and Temperature Monitoring",
+        content: [
+          { type: "bullets", items: [
+            "Check and record chiller and freezer temperatures at fixed intervals every day",
+            "Avoid overloading refrigeration units, since blocked airflow leads to uneven cooling and faster spoilage",
+            "Keep backup power support ready to protect perishable stock during outages",
+            "Schedule regular servicing of cooling equipment to prevent unexpected breakdowns",
+            "Train staff to limit the time refrigerator and freezer doors stay open during restocking"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Handling Loose, Open, and Fresh Products Safely",
+        content: [
+          { type: "bullets", items: [
+            "Use clean scoops, tongs, and covered containers for loose items like pulses, grains, and dry fruits",
+            "Keep loose items covered to protect against dust, insects, and customer contact",
+            "Use food-grade packaging materials for repacked or loose items sold in-store",
+            "Label repacked products clearly with the date of packing and expiry",
+            "Avoid reusing old or damaged packaging materials for fresh product packing"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Customer-Facing Hygiene Practices",
+        content: [
+          { type: "bullets", items: [
+            "Provide sanitizer at entrance and billing counters as a visible hygiene assurance",
+            "Keep shopping baskets and trolleys clean and wiped regularly",
+            "Display cleanliness and food safety signage that reassures customers and reinforces store standards",
+            "Set up clear waste bins for customer use inside and outside the store",
+            "Address customer hygiene complaints immediately and record the corrective action taken"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Building a Culture of Hygiene Across Your Grocery Franchise",
+        content: [
+          { type: "bullets", items: [
+            "Create a simple daily hygiene checklist for opening, mid-day, and closing routines",
+            "Assign clear responsibility for each area, from shelves to storage to restrooms",
+            "Conduct weekly internal inspections and monthly deeper audits for storage, cold chain, and pest control",
+            "Recognize and reward staff who consistently maintain high standards",
+            "Use CCTV and periodic supervisor visits to keep standards consistent, especially in multi-outlet operations"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Making Hygiene a Long-Term Brand Advantage",
+        content: [
+          { type: "bullets", items: [
+            "Health and hygiene standards are not a one-time setup. They are a daily discipline that shapes how customers see your store. Grocery store owners who treat cleanliness, food safety, and compliance as core business priorities build stronger customer loyalty, avoid costly compliance issues, and create a store environment that customers trust with their family's daily food needs."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Q1. Is FSSAI registration mandatory for all grocery stores?",
+      answer: "Yes, any store selling food products needs FSSAI registration or a license, depending on its size and turnover."
+    },
+    {
+      question: "Q2. How often should a grocery store be cleaned?",
+      answer: "Floors and high-touch surfaces should be cleaned several times daily, while shelves and storage areas follow a scheduled routine."
+    },
+    {
+      question: "Q3. Why is FEFO important for grocery stores?",
+      answer: "It ensures products closest to expiry are sold first, reducing wastage and preventing expired items from reaching customers."
+    },
+    {
+      question: "Q4. How often should pest control be done in a grocery store?",
+      answer: "Professional pest control should be scheduled regularly, typically monthly or quarterly depending on store size and location."
+    },
+    {
+      question: "Q5. What are the hygiene rules for staff handling food?",
+      answer: "Staff should wash hands frequently, wear clean uniforms, and avoid handling food while ill."
+    },
+    {
+      question: "Q6. Should temperature logs be maintained for chillers and freezers?",
+      answer: "Yes, daily temperature records help prevent spoilage and demonstrate compliance during inspections."
+    }
+  ],
+
+  metaTags: {
+    title: "Health & Hygiene Standards Every Grocery Store Must Follow",
+    description: "Learn essential grocery store hygiene standards, from FSSAI compliance and safe storage to staff hygiene and pest control, to build customer trust.",
+    keywords: "grocery store hygiene standards, FSSAI compliance grocery store, food safety retail store, grocery store cleanliness tips, hygiene standards for supermarkets, grocery store pest control, safe food storage retail, FEFO stock rotation, staff hygiene grocery store, cold chain management grocery, grocery franchise hygiene, food safety training retail, grocery store sanitation checklist, expiry date management retail, FSSAI license grocery shop, retail store health standards, hygienic grocery store tips, grocery store waste management, dairy storage hygiene, loose product handling grocery, supermarket food safety, grocery store cleaning schedule, customer trust grocery store, franchise store quality standards, grocery store inspection checklist",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/health-hygiene-standards-every-grocery-store-must-follow"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/health-hygiene-standards-every-grocery-store-must-follow",
+      title: "Health & Hygiene Standards Every Grocery Store Must Follow",
+      description: "Learn essential grocery store hygiene standards, from FSSAI compliance and safe storage to staff hygiene and pest control, to build customer trust.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1790574731/health-hygiene-standards-every-grocery-store-must-follow_bu66w9.jpg", width: 1200, height: 630, alt: "Health & Hygiene Standards Every Grocery Store Must Follow" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Health & Hygiene Standards Every Grocery Store Must Follow",
+      description: "Learn essential grocery store hygiene standards, from FSSAI compliance and safe storage to staff hygiene and pest control, to build customer trust.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1790574731/health-hygiene-standards-every-grocery-store-must-follow_bu66w9.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
+},
+
+{
+  id: 87,
+  slug: "grocery-franchise-opportunities-patna-bihar-growing-retail-market",
+  title: "Grocery Franchise Opportunities in Patna, Bihar",
+  subtitle: "Explore grocery franchise opportunities in Patna, Bihar. Learn about FOCM, FOCO models, store formats, investment from ₹15 lakh and growth potential.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-09-28",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1790574853/grocery-franchise-opportunities-patna-bihar-growing-retail-market_rihggt.jpg",
+  content: "Explore grocery franchise opportunities in Patna, Bihar. Learn about FOCM, FOCO models, store formats, investment from ₹15 lakh and growth potential.",
+  tags: [
+    "grocery franchise in Patna",
+    "Patna franchise opportunities",
+    "Bihar retail market",
+    "grocery store franchise Bihar",
+    "FOCM franchise Patna",
+    "FOCO franchise Patna",
+    "FOFO franchise India",
+    "low investment franchise Patna",
+    "Mini Mart franchise Patna",
+    "Super Mart franchise Patna",
+    "Hyper Mart franchise Bihar",
+    "supermarket franchise Patna",
+    "retail franchise Bihar",
+    "FMCG franchise Patna",
+    "best franchise business Patna",
+    "grocery business Patna",
+    "franchise investment Bihar",
+    "kirana to organized retail Patna",
+    "franchise business opportunity Bihar",
+    "grocery store business plan Patna",
+    "retail growth Bihar",
+    "franchise enquiry Patna",
+    "Buyzaar Mart franchise",
+    "tier 2 city franchise India",
+    "FSSAI GST grocery store"
+  ],
+
+  fullContent: {
+    introduction: "Patna, the capital of Bihar, is one of eastern India's most important commercial and consumption centers. Rising urbanization, expanding residential neighborhoods, and changing shopping habits are pushing more households toward organized grocery retail. For entrepreneurs looking for a proven, structured business model, a grocery franchise in Patna offers a practical way to enter a market where organized retail is still building its presence. This guide explains why Patna is a strong location for grocery franchise investment, what formats and models suit the market, and what to evaluate before you start.",
+
+    sections: [
+      {
+        heading: "Why Patna Is Emerging as a Retail Growth Market",
+        content: [
+          { type: "bullets", items: [
+            "Patna has long been a major trading and wholesale hub for the region, so the city already has a deep commercial culture and established supply networks",
+            "Research on the city notes a spurt in retail activity, with branded showrooms, departmental stores, hyper marts and malls appearing across Patna.",
+            "Organised retail chains are expanding beyond the metros into Tier-2 and Tier-3 cities, even though local kirana stores still hold the bulk of the market. Patna sits squarely in this expansion path",
+            "The city acts as a consumption anchor for surrounding districts, drawing shoppers from nearby towns for daily and monthly grocery needs",
+            "Growing residential colonies and apartment clusters on the city's periphery create demand for neighborhood-format stores close to where people live"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Understanding the Patna Grocery Shopper",
+        content: [
+          { type: "bullets", items: [
+            "Households in Patna tend to be value-conscious, comparing prices and looking for reliable quality at fair rates",
+            "Families buy daily-use items like milk, vegetables, and staples frequently, and stock up on packaged groceries monthly",
+            "Festival seasons such as Chhath Puja, Diwali, Holi, and wedding periods create strong seasonal spikes in demand for dry fruits, sweets, oils, and gift items",
+            "Trust matters: shoppers return to stores that offer consistent quality, honest weights, and clear pricing",
+            "A growing share of younger, working households prefers clean, organized stores with billing convenience over crowded traditional shops"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Why a Grocery Franchise Makes Sense Here",
+        content: [
+          { type: "bullets", items: [
+            "Proven business model: you begin with an established operating system instead of learning through trial and error",
+            "Brand recognition: a structured retail identity helps a new store build customer trust faster than an unbranded shop",
+            "Supply chain support: centralized sourcing helps maintain product availability and competitive pricing",
+            "Lower operational burden: certain models reduce the owner's day-to-day involvement",
+            "Scalable opportunity: a successful first outlet can support expansion into additional locations across the city"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Franchise Models Available for Grocery Investors",
+        content: [
+          { type: "bullets", items: [
+            "FOCM (Franchise Owned Company Managed): the investor funds the store while the company handles management, suitable for working professionals and passive investors",
+            "FOCO (Franchise Owned Company Operated): the company runs day-to-day operations while the franchise owner holds ownership, balancing involvement and returns",
+            "FOFO (Franchise Owned Franchise Operated): the owner manages the store directly, giving maximum control for hands-on entrepreneurs",
+            "Choosing the right model depends on your available time, capital, and comfort with daily retail operations",
+            "Review the responsibilities, support systems, and profit-sharing terms of each model carefully before signing any agreement"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Store Formats Suited to Patna",
+        content: [
+          { type: "bullets", items: [
+            "Mini Mart: compact format ideal for dense residential lanes and neighborhood colonies with high daily footfall",
+            "Super Mart: mid-sized format offering a wider range of groceries, FMCG, and household items for larger residential catchments",
+            "Hyper Mart: large-format store for high-traffic commercial roads or growing suburban corridors, offering a complete one-stop shopping experience",
+            "Investment varies by format and model, with entry points starting from ₹15 lakh, so investors can match the format to their budget",
+            "Format choice should follow local footfall, available space, and competition in your chosen micro-market"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Best Locations to Consider Within Patna",
+        content: [
+          { type: "bullets", items: [
+            "Established residential colonies with dense, stable populations and limited organized retail nearby",
+            "Growing suburban and peripheral corridors where new housing is coming up faster than retail supply",
+            "Main roads and market junctions with consistent walk-in and two-wheeler traffic",
+            "Areas near schools, coaching hubs, hospitals, and offices, which generate steady daily demand",
+            "Locations with easy parking access and good road visibility, both critical for larger formats",
+            "Always verify footfall in person at different times of day before finalizing a site"
+          ]}
+        ]
+      },
+
+      {
+        heading: "What a Grocery Franchise Typically Offers Investors",
+        content: [
+          { type: "bullets", items: [
+            "Hassle-free inventory assurance, so you are not left managing stock planning alone",
+            "Structured store layout guidance to improve footfall, product visibility, and basket size",
+            "Billing and POS systems for accurate sales tracking and stock control",
+            "Staff training support for customer service, billing, and stock handling",
+            "Compliance guidance covering FSSAI and GST requirements",
+            "Marketing support to help announce your store launch and build local awareness"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Key Factors to Evaluate Before Investing",
+        content: [
+          { type: "bullets", items: [
+            "Location quality: footfall, visibility, and nearby competition matter more than brand name alone",
+            "Total investment: confirm the full investment for your chosen format, including what is and isn't covered",
+            "Franchise agreement terms: read the duration, renewal, support obligations, and exit conditions carefully",
+            "Supply reliability: ask how stock availability and delivery are managed for your city",
+            "Existing outlet performance: speak with current franchise owners where possible",
+            "Local licensing: confirm FSSAI, GST, shop establishment, and local municipal requirements before opening"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Challenges to Plan For",
+        content: [
+          { type: "bullets", items: [
+            "Competition from established kirana stores and local supermarkets requires clear value and service differentiation",
+            "Price sensitivity means promotions, private label products, and fair pricing need careful planning",
+            "Seasonal demand swings call for smart inventory planning around major festivals",
+            "Staff hiring and training in a new market takes time, so start early",
+            "Logistics and supply coordination for a city outside a brand's core region need to be confirmed upfront"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Steps to Start Your Grocery Franchise in Patna",
+        content: [
+          { type: "bullets", items: [
+            "Shortlist the format and model that fit your budget and involvement preference",
+            "Identify two or three potential locations and verify footfall on site",
+            "Submit your enquiry and review the franchise proposal and agreement in detail",
+            "Complete licensing and registration, including FSSAI and GST",
+            "Finalize store layout, fixtures, and billing setup",
+            "Recruit and train staff before launch",
+            "Plan a local launch campaign to attract first-week footfall"
+          ]}
+        ]
+      },
+
+      {
+        heading: "Building a Long-Term Retail Business in Bihar's Capital",
+        content: [
+          { type: "bullets", items: [
+            "Patna's mix of a large consumer base, growing residential areas, and still-developing organized retail makes it a promising market for grocery franchise investors. Success depends on choosing the right model and location, staying involved in the early months, and keeping quality and service consistent. With careful planning, a grocery franchise in Patna can become a stable, scalable business built on everyday household demand."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Q1. Is Patna a good city for a grocery franchise?",
+      answer: "Yes, growing residential areas and limited organized retail make it a promising market for grocery franchises."
+    },
+    {
+      question: "Q2. What is the minimum investment for a grocery franchise?",
+      answer: "Entry investment starts from ₹15 lakh, depending on the store format and model chosen."
+    },
+    {
+      question: "Q3. Which franchise model suits working professionals?",
+      answer: "FOCM or FOCO models suit those who want ownership with limited day-to-day involvement."
+    },
+    {
+      question: "Q4. Which store format works best in residential lanes?",
+      answer: "A Mini Mart usually suits dense residential lanes, while Super Mart and Hyper Mart suit larger catchments and main roads."
+    },
+    {
+      question: "Q5. What licenses are needed to open a grocery store?",
+      answer: "FSSAI registration or license and GST registration, plus local shop establishment requirements."
+    },
+    {
+      question: "Q6. Do festivals affect grocery sales in Patna?",
+      answer: "Yes, festivals like Chhath Puja and Diwali create strong seasonal spikes in demand."
+    }
+  ],
+
+  metaTags: {
+    title: "Grocery Franchise Opportunities in Patna, Bihar",
+    description: "Explore grocery franchise opportunities in Patna, Bihar. Learn about FOCM, FOCO models, store formats, investment from ₹15 lakh and growth potential.",
+    keywords: "grocery franchise in Patna, Patna franchise opportunities, Bihar retail market, grocery store franchise Bihar, FOCM franchise Patna, FOCO franchise Patna, FOFO franchise India, low investment franchise Patna, Mini Mart franchise Patna, Super Mart franchise Patna, Hyper Mart franchise Bihar, supermarket franchise Patna, retail franchise Bihar, FMCG franchise Patna, best franchise business Patna, grocery business Patna, franchise investment Bihar, kirana to organized retail Patna, franchise business opportunity Bihar, grocery store business plan Patna, retail growth Bihar, franchise enquiry Patna, Buyzaar Mart franchise, tier 2 city franchise India, FSSAI GST grocery store",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/grocery-franchise-opportunities-patna-bihar-growing-retail-market"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/grocery-franchise-opportunities-patna-bihar-growing-retail-market",
+      title: "Grocery Franchise Opportunities in Patna, Bihar",
+      description: "Explore grocery franchise opportunities in Patna, Bihar. Learn about FOCM, FOCO models, store formats, investment from ₹15 lakh and growth potential.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1790574853/grocery-franchise-opportunities-patna-bihar-growing-retail-market_rihggt.jpg", width: 1200, height: 630, alt: "Grocery Franchise Opportunities in Patna, Bihar" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Grocery Franchise Opportunities in Patna, Bihar",
+      description: "Explore grocery franchise opportunities in Patna, Bihar. Learn about FOCM, FOCO models, store formats, investment from ₹15 lakh and growth potential.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1790574853/grocery-franchise-opportunities-patna-bihar-growing-retail-market_rihggt.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 }
 
 ]

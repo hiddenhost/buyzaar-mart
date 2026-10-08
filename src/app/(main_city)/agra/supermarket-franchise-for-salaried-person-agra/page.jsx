@@ -21,13 +21,13 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.thebuyzaarmart.com/agra/supermarket-franchise-for-salaried-person-in-agra",
+      "https://www.thebuyzaarmart.com/agra/supermarket-franchise-for-salaried-person-agra",
   },
   openGraph: {
     title: "Supermarket Franchise for Salaried Person in Agra | Buyzaar Mart",
     description:
       "Invest in a supermarket franchise in Agra alongside your job. FOCM model, POS billing & full operational support from Buyzaar Mart. Low investment. Enquire now!",
-    url: "https://www.thebuyzaarmart.com/agra/supermarket-franchise-for-salaried-person-in-agra",
+    url: "https://www.thebuyzaarmart.com/agra/supermarket-franchise-for-salaried-person-agra",
     siteName: "The Buyzaar Mart",
     images: [
       {

@@ -8,7 +8,7 @@ const localBusinessSchema = {
   name: "Supermarket Franchise for Salaried Professionals in Agra | The Buyzaar Mart",
   description:
     "Supermarket franchise opportunities in Agra for salaried professionals through The Buyzaar Mart's FOCM model, offering company-managed daily operations, POS-integrated billing, inventory support, and a stable second income stream.",
-  url: "https://www.thebuyzaarmart.com/agra/supermarket-franchise-for-salaried-professionals-in-agra",
+  url: "https://www.thebuyzaarmart.com/agra/supermarket-franchise-for-salaried-person-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
   address: {
@@ -521,7 +521,7 @@ const Content = () => {
 
           <CityInternalLinks
             city="agra"
-            currentSlug="/agra/supermarket-franchise-for-salaried-professionals-in-agra"
+            currentSlug="/agra/supermarket-franchise-for-salaried-person-agra"
           />
         </div>
 

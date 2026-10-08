@@ -23871,10 +23871,7 @@ export const blogs = [
               "Southern and eastern festivals such as Onam, Pongal, and Durga Puja: rice, jaggery, coconut, ghee, and sweets matter more for stores in those regions."
             ]
           },
-          {
-            type: "paragraph",
-            text: "See the existing guide on [festive season demand and Navratri stock management](https://www.thebuyzaarmart.com/blog/buyzaar-mart-franchisees-handle-festive-season-demand-without-stockouts)."
-          },
+          
           {
             type: "subheading",
             text: "Why Local Knowledge Wins"
@@ -23945,7 +23942,6 @@ export const blogs = [
             items: [
               "Order perishables such as milk products and bakery items in smaller, frequent batches.",
               "Discount near-expiry items early.",
-              "See our guide on [shrinkage and wastage control](https://www.thebuyzaarmart.com/blog/shrinkage-wastage-control-buyzaar-mart-store-brand-recommendations)."
             ]
           },
           {
@@ -23990,10 +23986,7 @@ export const blogs = [
               "Hyper-local marketing support helps stores promote festive offers."
             ]
           },
-          {
-            type: "paragraph",
-            text: "Related reading: [Top 5 emerging product categories to stock more of](https://www.thebuyzaarmart.com/blog/buyzaar-mart-top-5-emerging-product-categories-franchisees-stock-more)."
-          }
+          
         ]
       },
 
@@ -24005,7 +23998,6 @@ export const blogs = [
             items: [
               "Festive sales are not limited to Diwali. Holi, Eid, and regional celebrations offer repeat opportunities all year.",
               "Stores that plan, stock locally, and use data turn each festival into revenue and loyalty.",
-              "Ready to run a store built for every season? Explore a Buyzaar Mart franchise at [thebuyzaarmart.com/franchise](https://thebuyzaarmart.com/franchise) or call 9217991727."
             ]
           }
         ]
@@ -24170,7 +24162,6 @@ export const blogs = [
               "Dust shelves and wipe product faces regularly.",
               "Face products forward and rotate stock so older packs sell first.",
               "Remove damaged, dented, or expired items immediately.",
-              "See our guide on [shrinkage and wastage control](https://www.thebuyzaarmart.com/blog/shrinkage-wastage-control-buyzaar-mart-store-brand-recommendations)."
             ]
           },
           {
@@ -24234,7 +24225,6 @@ export const blogs = [
             items: [
               "Clear, wide aisles reduce crowding and make shopping calmer.",
               "Group related items together so shoppers find things fast.",
-              "Our [store layout guide](https://www.thebuyzaarmart.com/blog/how-to-choose-right-store-layout-small-vs-large-formats) covers this by format."
             ]
           },
           {
@@ -24268,7 +24258,6 @@ export const blogs = [
             type: "bullets",
             items: [
               "Uniform colours, shelves, and signage make the store look organised and trustworthy.",
-              "Learn how consistency builds recognition in our post on [consistent store branding across outlets](https://www.thebuyzaarmart.com/blog/how-buyzaar-mart-ensures-consistent-store-branding-across-outlets)."
             ]
           }
         ]
@@ -24403,7 +24392,6 @@ export const blogs = [
               "POS billing and CRM help you track demand and keep customers coming back.",
               "Training and operational support help teams follow consistent standards.",
               "Local sourcing and fresh stock reinforce quality.",
-              "See [why local sourcing matters](https://www.thebuyzaarmart.com/blog/why-local-sourcing-matters-neighborhood-grocery-store).",
               "Formats from Mini Mart to Hyper Mart let you choose the size that fits your market."
             ]
           }

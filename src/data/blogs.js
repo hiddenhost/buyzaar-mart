@@ -25119,6 +25119,481 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+}),
+
+({
+  id: 98,
+  slug: "dry-fruits-and-spices-in-a-grocery-store-margins-and-stocking",
+  title: "Dry Fruits and Spices in a Grocery Store: Margins and Stocking",
+  subtitle: "Learn where dry fruits and spices earn margin, what to stock, how to buy smartly and how to store them without losing profit.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-10-21",
+  readTime: "9 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792567446/dry-fruits-and-spices-in-a-grocery-store-margins-and-stocking_xumj5m.jpg", // Add Cloudinary image URL here
+  content: "Learn where dry fruits and spices earn margin, what to stock, how to buy smartly and how to store them without losing profit.",
+  tags: [
+    "Dry Fruits and Spices in a Grocery Store",
+    "Dry Fruits Margins",
+    "Spices Margins",
+    "Grocery Store Stocking Guide",
+    "Grocery Store Profit Margins",
+    "Festive Dry Fruits Demand",
+    "FSSAI Compliant Grocery Store",
+    "Supermarket Franchise in India",
+    "Buyzaar Mart Franchise"
+  ],
+
+  fullContent: {
+    introduction: "Almonds, cashews, raisins, turmeric, cumin and garam masala sit in almost every Indian kitchen. They store well, sell all year and spike sharply around festivals. That makes dry fruits and spices a strong profit category for a neighbourhood grocery store. The catch is that prices swing, quality is easy to judge wrongly and poor storage can quietly eat your margin. This guide explains where the margin comes from, what to stock and how to manage both categories.",
+
+    sections: [
+      {
+        heading: "Why Dry Fruits and Spices Matter for Grocery Profit",
+        content: [
+          { type: "bullets", items: [
+            "Spices are bought weekly or monthly, while dry fruits sell all year and rise sharply before festivals and weddings.",
+            "This mix gives stable base sales plus predictable seasonal upside.",
+            "Dry fruits and branded spices carry a higher price per kilo than most staples.",
+            "A single purchase can raise the bill noticeably, even when the customer buys small quantities.",
+            "Properly stored dry fruits and spices keep for months, so wastage is far lower than in fresh categories.",
+            "Lower spoilage helps margin, as long as storage and rotation are right."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Understanding Margins in Dry Fruits and Spices",
+        content: [
+          { type: "bullets", items: [
+            "Margins usually improve with better buying, smaller pack sizes, premium selection and private label options.",
+            "Loose or repacked items often earn more than big-brand packs, but they need more effort.",
+            "Dry fruit prices move with harvest, imports, demand and festivals, so buying rates change often.",
+            "Margins differ by item, quality grade and supplier, so track actual profit per product instead of assuming.",
+            "Everyday spices like turmeric, chilli and coriander sell in volume at modest margin.",
+            "Premium items like saffron, cashews and gift packs sell less often but usually carry stronger margin."
+          ]}
+        ]
+      },
+
+      {
+        heading: "What to Stock: Dry Fruits",
+        content: [
+          { type: "bullets", items: [
+            "Almonds, cashews, raisins, walnuts, pistachios and dates cover most household and gifting needs.",
+            "Keep a few trusted grades of each so customers can trade up or down on price.",
+            "Makhana, dried figs, chironji and mixed nuts sell well in fasting seasons and winter.",
+            "Stock these before the season starts, and in smaller lots outside it.",
+            "Ready-made gift boxes and mixed packs sell strongly around Diwali, weddings and special occasions.",
+            "Order early, keep packaging clean and avoid holding leftovers after the season."
+          ]}
+        ]
+      },
+
+      {
+        heading: "What to Stock: Spices",
+        content: [
+          { type: "bullets", items: [
+            "Whole spices like cumin, coriander, cardamom, cloves and pepper hold flavour longer and appeal to careful cooks.",
+            "Ground spices sell faster for convenience, but need quicker turnover to stay fresh.",
+            "Garam masala, chaat masala, sabzi masala and regional blends are high-demand, brand-driven items.",
+            "Carry two or three trusted brands and one value option instead of many similar packs.",
+            "Local taste varies, so stock the spices your neighbourhood asks for most.",
+            "Customer requests at the counter are the best guide to what your range is missing."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Stocking Smartly: How Much to Buy",
+        content: [
+          { type: "bullets", items: [
+            "Begin with fast-moving items and small quantities, then expand using sales data.",
+            "Over-buying premium dry fruits ties up cash when prices can fall.",
+            "Stock up four to six weeks before Diwali, Navratri, Eid, Holi and wedding seasons, in line with your own past sales.",
+            "Reduce orders sharply once the season ends to avoid dead stock.",
+            "Buy larger lots only when rates are favourable and your storage is sound.",
+            "Avoid speculative bulk buying that depends on prices rising."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Packaging, Loose Sales and Weighing",
+        content: [
+          { type: "bullets", items: [
+            "Loose sales give flexibility and better margin, but need care with weighing, hygiene and handling.",
+            "Pre-packed items are faster at the counter and make quality easier to control.",
+            "Small packs such as 100g, 250g and 500g suit most households and keep ticket size comfortable.",
+            "Larger packs work for festival and bulk buyers.",
+            "Use calibrated scales and clear labels with batch, packing date and expiry, as FSSAI norms expect.",
+            "Honest weighing and clear labelling protect both customer trust and your compliance."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Storage, Quality and Hygiene",
+        content: [
+          { type: "bullets", items: [
+            "Store in airtight containers or sealed packs, away from sunlight, damp walls and floors.",
+            "Moisture causes mould in spices and rancidity in nuts, which destroys margin and trust.",
+            "Sell older stock first and check for odour, colour changes and insects every week.",
+            "Remove doubtful stock at once instead of risking customer complaints.",
+            "Choose suppliers who follow FSSAI norms and can show batch and quality details.",
+            "Adulteration is a known concern, so test a sample of each lot before you buy in volume."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Display and Merchandising",
+        content: [
+          { type: "bullets", items: [
+            "Place dry fruits at eye level in clear jars or neat packs, with clear price tags.",
+            "Good lighting and tidy display make premium products look worth their price.",
+            "Keep spices, masalas, pulses and cooking oil near each other to make shopping quick.",
+            "Place dry fruits near sweets, tea and snacks to encourage gifting and add-on purchases.",
+            "Small packs of makhana, mixed nuts and trail mixes sell well near billing.",
+            "Rotate festive gift boxes to a prominent spot as the season approaches."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Buying too much premium dry fruit before prices or demand are clear.",
+            "Storing spices and nuts in damp, warm or sun-exposed corners.",
+            "Ignoring labels, batch numbers and expiry dates on repacked items.",
+            "Stocking too many near-identical masala brands instead of a focused range.",
+            "Missing the festive stocking window, then buying late at higher rates."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Better Stocking",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning help owners place premium categories where they sell best.",
+            "POS billing and CRM show which dry fruits and spices move fast, so ordering follows real demand.",
+            "Partnerships with leading FMCG brands cover the dependable packaged range of masalas and dry fruits.",
+            "Training and operational support help teams follow storage, labelling and hygiene routines.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "Dry fruits and spices offer steady demand, festive upside and better value per basket than many staples.",
+            "Profit depends on disciplined buying, good storage, honest weighing and a focused range.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Are dry fruits and spices profitable in a grocery store?",
+      answer: "Yes, they usually offer steady demand and good value per basket. Margins vary by item, supplier and pack format."
+    },
+    {
+      question: "Should a grocery store sell loose or packaged dry fruits?",
+      answer: "Both can work. Loose sales offer flexibility, while packaged items are faster and easier to control for quality."
+    },
+    {
+      question: "How long can dry fruits and spices be stored?",
+      answer: "With airtight storage away from heat and moisture, many keep for months. Check each pack’s printed expiry and inspect regularly."
+    },
+    {
+      question: "When should a store stock up on dry fruits?",
+      answer: "Start four to six weeks before major festivals and wedding seasons, guided by your own past sales."
+    },
+    {
+      question: "How can a store avoid spice and nut spoilage?",
+      answer: "Use sealed containers, follow FIFO, keep stock away from damp and heat, and check for odour or insects weekly."
+    }
+  ],
+
+  metaTags: {
+    title: "Dry Fruits and Spices in a Grocery Store: Margins and Stocking",
+    description: "Learn where dry fruits and spices earn margin, what to stock, how to buy smartly and how to store them without losing profit.",
+    keywords: "dry fruits and spices in a grocery store, dry fruits margins, spices margins, grocery store stocking guide, grocery store profit margins, festive dry fruits demand, FSSAI compliant grocery store, supermarket franchise in India, Buyzaar Mart franchise",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/dry-fruits-and-spices-in-a-grocery-store-margins-and-stocking"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/dry-fruits-and-spices-in-a-grocery-store-margins-and-stocking",
+      title: "Dry Fruits and Spices in a Grocery Store: Margins and Stocking",
+      description: "Learn where dry fruits and spices earn margin, what to stock, how to buy smartly and how to store them without losing profit.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792567446/dry-fruits-and-spices-in-a-grocery-store-margins-and-stocking_xumj5m.jpg", width: 1200, height: 630, alt: "Dry Fruits and Spices in a Grocery Store: Margins and Stocking" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Dry Fruits and Spices in a Grocery Store: Margins and Stocking",
+      description: "Understand margins, stocking, packaging, storage and display strategies for dry fruits and spices in a grocery store.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792567446/dry-fruits-and-spices-in-a-grocery-store-margins-and-stocking_xumj5m.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
+}),
+
+({
+  id: 99,
+  slug: "personal-care-products-grocery-store-display-margins",
+  title: "Personal Care Products in a Grocery Store: Display & Margins",
+  subtitle: "Learn how to display, stock and price personal care products in a grocery store. Understand margins, shelf placement and brand mix to lift basket size.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-10-21",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792568233/personal-care-products-grocery-store-display-margins_n5yblm.jpg", // Add Cloudinary image URL here
+  content: "Learn how to display, stock and price personal care products in a grocery store. Understand margins, shelf placement and brand mix to lift basket size.",
+  tags: [
+    "Personal Care Products in a Grocery Store",
+    "Personal Care Display Grocery Store",
+    "Personal Care Margins Grocery Store",
+    "How to Display Personal Care Products",
+    "Grocery Store Shelf Placement",
+    "Personal Care Section Layout",
+    "FMCG Personal Care Products",
+    "Soap Shampoo Toothpaste Display",
+    "Grocery Store Profit Margins",
+    "Grocery Store Merchandising",
+    "Increase Basket Size Grocery",
+    "Impulse Purchase Grocery Store",
+    "Private Label Personal Care",
+    "Grocery Store Pricing Strategy",
+    "Grocery Store Inventory Management",
+    "Slow Moving Stock Grocery",
+    "Small Pack Sizes FMCG",
+    "Grocery Store Planogram",
+    "Neighbourhood Grocery Store Tips",
+    "Grocery Store Hygiene Standards",
+    "FMCG Brand Partnerships",
+    "Supermarket Franchise in India",
+    "Grocery Franchise in India",
+    "Buyzaar Mart Franchise",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "Soap, shampoo, toothpaste, face wash and hair oil are bought in almost every household, month after month. That makes personal care one of the most dependable non-food categories in a neighbourhood grocery store. The category also offers better margins than many staples and plenty of room for add-on sales. But it only performs when products are displayed well, ranged carefully and priced with clear thinking. This guide explains how to display, stock and manage personal care for better margins.",
+
+    sections: [
+      {
+        heading: "Why Personal Care Matters in a Grocery Store",
+        content: [
+          { type: "bullets", items: [
+            "Toothpaste, soap and shampoo are used daily and replaced on a regular cycle.",
+            "This steady demand brings customers back and supports stable monthly sales.",
+            "Personal care items often carry higher price per unit than many food staples.",
+            "A single shampoo or face wash purchase can noticeably raise the bill.",
+            "Offering personal care lets customers finish household shopping in one visit.",
+            "This convenience reduces the chance that they shift part of their spending elsewhere."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Understanding Margins in Personal Care",
+        content: [
+          { type: "bullets", items: [
+            "Branded personal care generally offers margins that compare well with many staple food items.",
+            "Premium and value-added products usually earn more per unit than basic packs.",
+            "Brand, pack size, trade schemes, discounts and your buying rate all influence profit.",
+            "Margins differ across brands and distributors, so track actual profit by product.",
+            "A fast-selling item with a modest margin can earn more than a slow item with a higher one.",
+            "Judge each product by margin, speed of sale and the space it uses."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Core Categories to Stock",
+        content: [
+          { type: "bullets", items: [
+            "Toothpaste, toothbrushes, bathing soap, hand wash and sanitary products form the base of the range.",
+            "Keep these always in stock, since customers rarely accept substitutes for them.",
+            "Shampoo, hair oil, conditioner and hair colour sell in many price points and pack sizes.",
+            "Stock sachets and small bottles alongside larger packs to serve every budget.",
+            "Face wash, creams, lotions, talc, deodorant, razors and shaving products suit most households.",
+            "Offer men’s and women’s options, and one or two value-driven choices in each type.",
+            "Baby soap, baby oil, diapers and wipes bring loyal, repeat-buying parents.",
+            "A small, well-chosen baby range builds long-term trust."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Building the Right Brand Mix",
+        content: [
+          { type: "bullets", items: [
+            "Well-known brands move quickly and need little selling effort.",
+            "Make sure the top two or three brands in each category are always available.",
+            "Include one or two value brands for price-conscious shoppers.",
+            "Customer requests at the counter show which local or regional brands to add.",
+            "Private label can improve margin where quality and trust are good.",
+            "Introduce it in simple categories first, and expand only if customers accept it."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Display Strategy: Where and How to Place Personal Care",
+        content: [
+          { type: "bullets", items: [
+            "Place personal care in a clear zone of its own, away from strong food odours and raw items.",
+            "A clean, well-lit section signals quality and invites browsing.",
+            "Put best-sellers and higher-margin products at eye level, where most shoppers look first.",
+            "Keep bulky or low-priced items on lower shelves and light items on higher ones.",
+            "Arrange shelves by use, such as oral care, hair care, skin care and baby care.",
+            "Clear grouping helps shoppers find items quickly and discover related products.",
+            "Face every product forward, and fill gaps promptly.",
+            "Empty shelf space tells shoppers that the item is unavailable or the store is careless."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Smart Merchandising to Lift Basket Size",
+        content: [
+          { type: "bullets", items: [
+            "Place toothbrushes beside toothpaste and conditioner next to shampoo.",
+            "Complementary placement encourages customers to pick up both items.",
+            "Small items like sachets, lip balms, razors and travel packs sell well near the counter.",
+            "These low-price items add margin without needing extra effort.",
+            "Use clear category boards and visible price labels on every shelf.",
+            "Good signage reduces questions and speeds up decisions.",
+            "Combo packs such as soap multipacks or shampoo with conditioner raise basket size.",
+            "Use offers selectively on items with healthy margin, and avoid constant discounting."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Pricing and Pack Size Strategy",
+        content: [
+          { type: "bullets", items: [
+            "Small packs suit trial and low budgets, while larger packs suit regular households.",
+            "A range of sizes helps you serve more customers without adding many brands.",
+            "Sell within the printed MRP and keep price tags consistent and accurate.",
+            "Honest pricing protects customer trust and avoids compliance issues.",
+            "Distributors change schemes often, so compare offers before placing large orders.",
+            "Buy larger lots only on fast-moving products with a clear scheme advantage."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Inventory and Stock Control",
+        content: [
+          { type: "bullets", items: [
+            "Use POS reports to see which brands and sizes sell, and reorder accordingly.",
+            "Avoid ordering by habit, since needs differ across neighbourhoods and seasons.",
+            "Personal care products also carry expiry or best-before dates, especially creams and baby items.",
+            "Rotate stock with FIFO and check shelves regularly.",
+            "Identify items that sit for weeks and reduce reorder quantity.",
+            "Move them to a better shelf, bundle them or run a small offer before they age.",
+            "Store products in a dry, clean area away from heat, moisture and food odours.",
+            "Keep packaging intact and shelves dusted so products always look fresh and new.",
+            "Separate personal care from food items to avoid contamination and strong smells."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Placing the category in a dark or cluttered corner.",
+            "Stocking too many similar brands and sizes, which ties up cash.",
+            "Ignoring expiry dates on creams, lotions and baby products.",
+            "Running heavy discounts on items that already sell well.",
+            "Letting shelves stay empty or untidy for days."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Better Personal Care Sales",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning help owners place personal care where it sells best.",
+            "POS billing and CRM show fast and slow items, so ordering follows real demand.",
+            "Partnerships with leading FMCG brands cover the dependable branded personal care range.",
+            "Training and operational support help teams follow display, stock rotation and hygiene routines.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "Personal care offers steady demand, healthy margins and strong add-on potential for a grocery store.",
+            "Results come from a focused range, clear display, careful pricing and regular stock review.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Are personal care products profitable in a grocery store?",
+      answer: "Yes, they generally offer steady demand and healthy margins. Profit depends on brand mix, pricing and stock control."
+    },
+    {
+      question: "Where should personal care products be placed in a grocery store?",
+      answer: "Use a clean, well-lit zone of its own, with best-sellers at eye level and related items grouped together."
+    },
+    {
+      question: "How can a grocery store increase personal care sales?",
+      answer: "Use cross-merchandising, impulse items near billing, multiple pack sizes and selective bundle offers."
+    },
+    {
+      question: "Should a small store stock premium personal care brands?",
+      answer: "Yes, in limited quantity. Start with a few popular options and expand using POS sales data."
+    },
+    {
+      question: "How often should personal care stock be checked?",
+      answer: "Review stock and expiry dates weekly, and rotate older batches forward using FIFO."
+    }
+  ],
+
+  metaTags: {
+    title: "Personal Care Products in a Grocery Store: Display & Margins",
+    description: "Learn how to display, stock and price personal care products in a grocery store. Understand margins, shelf placement and brand mix to lift basket size.",
+    keywords: "personal care products in a grocery store, personal care display grocery store, personal care margins grocery store, how to display personal care products, grocery store shelf placement, personal care section layout, FMCG personal care products, soap shampoo toothpaste display, grocery store profit margins, grocery store merchandising, increase basket size grocery, impulse purchase grocery store, private label personal care, grocery store pricing strategy, grocery store inventory management, slow moving stock grocery, small pack sizes FMCG, grocery store planogram, neighbourhood grocery store tips, grocery store hygiene standards, FMCG brand partnerships, supermarket franchise in India, grocery franchise in India, Buyzaar Mart franchise, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/personal-care-products-grocery-store-display-margins"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/personal-care-products-grocery-store-display-margins",
+      title: "Personal Care Products in a Grocery Store: Display & Margins",
+      description: "Learn how to display, stock and price personal care products in a grocery store. Understand margins, shelf placement and brand mix to lift basket size.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792568233/personal-care-products-grocery-store-display-margins_n5yblm.jpg", width: 1200, height: 630, alt: "Personal Care Products in a Grocery Store: Display & Margins" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Personal Care Products in a Grocery Store: Display & Margins",
+      description: "Display, stock and price personal care products to improve margins, basket size and repeat sales in a grocery store.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792568233/personal-care-products-grocery-store-display-margins_n5yblm.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 })
 
 ]

@@ -25594,6 +25594,260 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+}),
+
+({
+  id: 100,
+  slug: "stationery-school-supplies-grocery-store-worth-it",
+  title: "Stationery & School Supplies in a Grocery Store: Worth It?",
+  subtitle: "Is selling stationery and school supplies in a grocery store worth it? Learn the pros, cons, margins, stocking tips and seasonal demand before you decide.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-10-22",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792648378/stationery-school-supplies-grocery-store-worth-it_zaq19n.jpg", // Add Cloudinary image URL here
+  content: "Is selling stationery and school supplies in a grocery store worth it? Learn the pros, cons, margins, stocking tips and seasonal demand before you decide.",
+  tags: [
+    "Stationery and School Supplies in a Grocery Store",
+    "Selling Stationery in Grocery Store",
+    "School Supplies in Grocery Store",
+    "Stationery Section Grocery Store",
+    "School Season Grocery Sales",
+    "Back to School Grocery Store",
+    "Stationery Margins Grocery Store",
+    "Grocery Store Non-Food Products",
+    "Add-On Categories Grocery Store",
+    "Grocery Store Profit Margins",
+    "Notebooks Pens Pencils Stocking",
+    "School Stationery Stocking Guide",
+    "Seasonal Demand Grocery Store",
+    "Increase Basket Size Grocery",
+    "Impulse Purchase Grocery Store",
+    "Slow Moving Stock Grocery",
+    "Grocery Store Inventory Management",
+    "Grocery Store Merchandising",
+    "Neighbourhood Grocery Store Tips",
+    "FMCG Brand Partnerships",
+    "Supermarket Franchise in India",
+    "Grocery Franchise in India",
+    "Buyzaar Mart Franchise",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "Notebooks, pens, pencils, geometry boxes and craft items are bought by almost every family with school-going children. Many neighbourhood grocery owners wonder if adding a stationery corner is a smart move or just extra clutter. The category can bring footfall, convenience and add-on sales, but it also has seasonal peaks, many small items and slow-moving stock. This guide helps you decide whether stationery and school supplies are worth it for your store, and how to run the category well.",
+
+    sections: [
+      {
+        heading: "Why Store Owners Consider Stationery and School Supplies",
+        content: [
+          { type: "bullets", items: [
+            "Children need pens, notebooks and project items throughout the school year, with strong peaks at the start of each session.",
+            "Parents often need small items suddenly, which creates steady walk-in demand.",
+            "Many parents prefer buying a notebook or chart paper from the nearby store instead of travelling to a stationery shop.",
+            "Convenience alone can win sales, especially for urgent school requirements.",
+            "Families already visit for groceries, so stationery fits into the same trip.",
+            "This adds a non-food reason to visit your store."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Pros of Selling Stationery and School Supplies",
+        content: [
+          { type: "bullets", items: [
+            "School needs recur through the year, bringing parents and children into the store.",
+            "Each visit is a chance to sell snacks, beverages and household items.",
+            "Parents buying notebooks often add tiffin snacks, juice boxes and biscuits.",
+            "Small stationery add-ons raise the bill with little effort.",
+            "Stationery does not spoil, so wastage risk is far lower than in produce or bakery.",
+            "Unsold stock can usually be carried into the next season.",
+            "Stores that meet children’s school needs become familiar, trusted places for families.",
+            "This loyalty often extends to the rest of your range.",
+            "Pens, erasers, stickers and small craft items sell well as low-cost impulse picks.",
+            "Children influence these purchases, which adds extra sales near the counter."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Cons of Selling Stationery and School Supplies",
+        content: [
+          { type: "bullets", items: [
+            "Demand peaks around school reopening and exam periods, and slows down in between.",
+            "Stock bought for the peak can sit idle for months if you over-order.",
+            "Stationery involves many small items such as pens, pencils, refills, glue and tape.",
+            "Managing this variety can take staff time and shelf space.",
+            "Margins vary widely by brand and item, and some products are very price-sensitive.",
+            "Competition from dedicated stationery shops can pressure pricing.",
+            "Notebooks, charts and craft items can take more space than expected.",
+            "In a small store, this may crowd out faster-selling categories.",
+            "Trend-based items like character-themed products can go out of fashion quickly.",
+            "Unsold items tie up cash and clutter the shelf."
+          ]}
+        ]
+      },
+
+      {
+        heading: "So, Is It Worth It? A Simple Decision Framework",
+        content: [
+          { type: "bullets", items: [
+            "Your store is near a school, tuition centre or dense residential area with many children.",
+            "You have spare shelf space and can manage a compact, focused range.",
+            "Your store is very small and every shelf is needed for food and daily-need categories.",
+            "Few families with school-going children live nearby.",
+            "Begin with a small core range, test demand for a few months and scale only if sales are steady.",
+            "Use POS data to decide, not guesswork."
+          ]}
+        ]
+      },
+
+      {
+        heading: "What to Stock: The Core Range",
+        content: [
+          { type: "bullets", items: [
+            "Ball pens, gel pens, pencils, erasers, sharpeners and rulers are the base of the range.",
+            "Offer a trusted brand and one value option in each type.",
+            "Notebooks, drawing books, graph paper, chart paper and sticky notes sell year-round.",
+            "Stock common sizes and ruling types that local schools ask for.",
+            "Geometry boxes, pencil pouches, glue sticks, tape, scissors and markers serve everyday classroom needs.",
+            "Keep small sizes at accessible prices for quick purchases.",
+            "Colour pencils, crayons, sketch pens, drawing sheets and basic craft items sell around project and exam times.",
+            "Keep quantities small outside peak periods.",
+            "Covers, labels, bags and water bottles move quickly during school reopening.",
+            "Order modestly and track what sells."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Understanding Margins in Stationery",
+        content: [
+          { type: "bullets", items: [
+            "Everyday items like pens and notebooks generally sell in volume, while specialty and branded items may earn more per unit.",
+            "Compare supplier rates and track actual profit per item.",
+            "Even where stationery margins are modest, it can lift total basket value and visit frequency.",
+            "Judge the category by overall contribution, not only item margin.",
+            "Customers often compare stationery prices with nearby shops.",
+            "Keep fair pricing on staples and earn margin from convenient add-ons."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Stocking Smartly Through the Year",
+        content: [
+          { type: "bullets", items: [
+            "Stock up before school reopening, exam seasons and project periods, in line with your own past sales.",
+            "Reduce orders in quiet months to avoid dead stock.",
+            "Small, frequent orders reduce the risk of leftover stock.",
+            "Fast movers like pens, pencils and notebooks justify quicker replenishment.",
+            "Ask parents which brands, sizes and items schools commonly require.",
+            "Local feedback helps you stock what actually sells."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Display and Merchandising",
+        content: [
+          { type: "bullets", items: [
+            "Group all items in one clear section, ideally near the entrance or beside snacks.",
+            "A tidy, well-lit corner is easy for children and parents to browse.",
+            "Place pens, erasers, stickers and small notebooks near billing for impulse buys.",
+            "Keep these low-price items within easy reach.",
+            "Arrange writing items, paper products and craft supplies separately with clear labels.",
+            "Neat grouping helps shoppers find items fast.",
+            "Offer combos such as notebook sets or pen-and-pencil packs during school reopening.",
+            "Use offers on items with healthy margin and avoid constant discounting."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Buying too much stock before checking real demand.",
+            "Stocking too many brands and designs of the same product.",
+            "Ignoring local school requirements.",
+            "Letting the stationery corner become cluttered or dusty.",
+            "Treating stationery as a main category instead of a supportive add-on."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Smart Category Decisions",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning help owners place add-on categories without crowding core products.",
+            "POS billing and CRM show which items sell, so ordering follows real demand.",
+            "Partnerships with leading FMCG brands cover the dependable packaged range alongside add-on items.",
+            "Training and operational support help teams manage stock, display and customer service.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "Stationery and school supplies can be worth it for stores near schools and family neighbourhoods, if kept compact and data-driven.",
+            "The category works best as a convenient add-on that builds footfall and basket size, not as a main profit engine.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Is selling stationery profitable in a grocery store?",
+      answer: "It can be, mainly through footfall and basket size. Margins vary, so start small and track actual profit."
+    },
+    {
+      question: "Which stationery items should a grocery store stock first?",
+      answer: "Start with pens, pencils, erasers, notebooks and basic school utility items that sell all year."
+    },
+    {
+      question: "When is stationery demand highest?",
+      answer: "Demand peaks around school reopening, exam periods and project seasons."
+    },
+    {
+      question: "Can a small grocery store sell school supplies?",
+      answer: "Yes, with a compact range of fast-moving items. Avoid a large section if shelf space is limited."
+    },
+    {
+      question: "How can a store avoid unsold stationery stock?",
+      answer: "Order small lots, plan around the school calendar, review POS data and avoid trend-based items in bulk."
+    }
+  ],
+
+  metaTags: {
+    title: "Stationery & School Supplies in a Grocery Store: Worth It?",
+    description: "Is selling stationery and school supplies in a grocery store worth it? Learn the pros, cons, margins, stocking tips and seasonal demand before you decide.",
+    keywords: "stationery and school supplies in a grocery store, selling stationery in grocery store, school supplies in grocery store, stationery section grocery store, school season grocery sales, back to school grocery store, stationery margins grocery store, grocery store non-food products, add-on categories grocery store, grocery store profit margins, notebooks pens pencils stocking, school stationery stocking guide, seasonal demand grocery store, increase basket size grocery, impulse purchase grocery store, slow moving stock grocery, grocery store inventory management, grocery store merchandising, neighbourhood grocery store tips, FMCG brand partnerships, supermarket franchise in India, grocery franchise in India, Buyzaar Mart franchise, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/stationery-school-supplies-grocery-store-worth-it"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/stationery-school-supplies-grocery-store-worth-it",
+      title: "Stationery & School Supplies in a Grocery Store: Worth It?",
+      description: "Is selling stationery and school supplies in a grocery store worth it? Learn the pros, cons, margins, stocking tips and seasonal demand before you decide.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792648378/stationery-school-supplies-grocery-store-worth-it_zaq19n.jpg", width: 1200, height: 630, alt: "Stationery & School Supplies in a Grocery Store: Worth It?" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Stationery & School Supplies in a Grocery Store: Worth It?",
+      description: "Learn whether stationery and school supplies are worth selling in a grocery store, with margins, stocking and display tips.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1792648378/stationery-school-supplies-grocery-store-worth-it_zaq19n.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 })
 
 ]

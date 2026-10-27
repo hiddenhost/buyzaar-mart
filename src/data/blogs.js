@@ -26344,6 +26344,276 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+}),
+
+({
+  id: 103,
+  slug: "navratri-vrat-items-list-grocery-stores-stock-guide",
+  title: "Navratri Vrat Items List for Grocery Stores: 2026 Guide",
+  subtitle: "Complete Navratri vrat items list for grocery stores. See what to stock, when to order and how to display fasting items to boost festival sales.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-10-27",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793079239/navratri-vrat-items-list-grocery-stores-stock-guide_wt7dw2.jpg", // Add Cloudinary image URL here
+  content: "Complete Navratri vrat items list for grocery stores. See what to stock, when to order and how to display fasting items to boost festival sales.",
+  tags: [
+    "Navratri Vrat Items List for Grocery Stores",
+    "Navratri Stock Guide",
+    "Vrat Items List",
+    "Navratri Fasting Items",
+    "Navratri Grocery List",
+    "Vrat Items for Grocery Store",
+    "Navratri Vrat Samagri List",
+    "Kuttu Atta Singhare Atta",
+    "Sabudana Samak Rice Makhana",
+    "Sendha Namak Rock Salt",
+    "Farali Snacks",
+    "Navratri Special Items",
+    "Festival Stocking Grocery Store",
+    "Navratri Sales Grocery Store",
+    "Navratri Puja Items",
+    "Kanya Pujan Items List",
+    "Vrat Food Items",
+    "Fasting Food List India",
+    "Seasonal Stocking Grocery Store",
+    "Festival Demand Grocery Store",
+    "Grocery Store Inventory Management",
+    "Neighbourhood Grocery Store Tips",
+    "Supermarket Franchise in India",
+    "Grocery Franchise in India",
+    "Buyzaar Mart Franchise",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "Navratri is one of the busiest fasting seasons for neighbourhood grocery stores. Families buy special flours, snacks, dairy and puja items in a short window, and they expect to find everything in one place. Stores that stock the right vrat items early win repeat customers, while those that run out lose sales to the next shop. This guide gives you a practical vrat items list, along with stocking, storage, display and pricing tips for every Navratri season.",
+
+    sections: [
+      {
+        heading: "Why Navratri Is a Big Opportunity for Grocery Stores",
+        content: [
+          { type: "bullets", items: [
+            "Navratri comes twice a year, in the Chaitra and Sharad seasons, so the same planning works for both.",
+            "Each season gives you a nine-day window of focused demand.",
+            "Fasting households buy specific items repeatedly, which makes demand easier to forecast than most festivals.",
+            "Shopping starts days before the first fast and stays strong until the last day.",
+            "A shopper who finds every vrat item in your store often returns for Diwali, Holi and daily needs.",
+            "Being the store that always has stock builds long-term trust."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How Vrat Shopping Works",
+        content: [
+          { type: "bullets", items: [
+            "Fasting customs differ between households, so a product that is essential for one family may not suit another.",
+            "Ask regular customers what they buy and build your range from local habits.",
+            "Many families avoid regular grains, onion and garlic, and use rock salt instead of table salt.",
+            "Labels and clear shelf signs help customers shop quickly and confidently."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Vrat Items List: Flours and Grains",
+        content: [
+          { type: "bullets", items: [
+            "Kuttu atta (buckwheat flour), singhare ka atta (water chestnut flour) and rajgira atta (amaranth flour) lead the category.",
+            "Stock small and medium packs from trusted brands, and check manufacture dates carefully.",
+            "Samak rice (barnyard millet) and sabudana are everyday vrat staples.",
+            "Sabudana in different sizes suits khichdi, vada and papad."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Vrat Items List: Snacks, Dry Fruits and Sweet Items",
+        content: [
+          { type: "bullets", items: [
+            "Makhana, roasted peanuts, almonds, cashews, raisins, dates and dried figs are bought in large volumes.",
+            "Pre-packed small packs sell fast and make comparing prices easy.",
+            "Potato chips, sabudana chips, farali mixture, banana chips and vrat-friendly namkeen are popular tea-time items.",
+            "Check each pack’s ingredients and label before placing it in the vrat section.",
+            "Sugar, jaggery, khand, coconut, dates and ready fasting sweets sell steadily.",
+            "Stock a few pack sizes for both daily use and prasad."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Vrat Items List: Fresh Produce and Fruits",
+        content: [
+          { type: "bullets", items: [
+            "Potatoes, sweet potatoes, raw bananas, pumpkin, arbi, cucumber and tomatoes are in high demand.",
+            "Green chillies, ginger, lemon and fresh coriander are bought in small, frequent quantities.",
+            "Bananas, apples, pomegranates, papaya, grapes and seasonal fruits sell well, as many families eat fruit during the fast.",
+            "Display them fresh and handle them gently, since quality sells here."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Vrat Items List: Dairy and Cooking Essentials",
+        content: [
+          { type: "bullets", items: [
+            "Milk, curd, paneer, buttermilk, ghee and butter are bought daily by fasting households.",
+            "Check chiller temperature and expiry dates every morning.",
+            "Peanut oil, ghee, rock salt (sendha namak), cumin, black pepper and green cardamom are the main vrat cooking items.",
+            "Keep rock salt prominent, because customers search for it first."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Puja and Kanya Pujan Items",
+        content: [
+          { type: "bullets", items: [
+            "Incense, camphor, roli, moli, rice for tilak, diyas, wicks, matchboxes, coconuts and flowers sell daily.",
+            "Group them near the billing counter or the vrat corner for quick access.",
+            "Sooji, black chana, puri flour and small gift items are bought for kanya pujan.",
+            "Prepare a short checklist on a board so shoppers can pick everything in one trip."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How Much to Stock and When",
+        content: [
+          { type: "bullets", items: [
+            "Review last season’s POS sales and customer requests, then set quantities for each product.",
+            "Place orders early, so deliveries arrive before the rush begins.",
+            "Expect strong demand just before the first day, and again around Ashtami and Navami.",
+            "Keep extra stock of fast-moving items for those days.",
+            "Place smaller first orders and top up quickly using daily sales numbers.",
+            "Fresh items need daily or alternate-day ordering."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Storage, Quality and Food Safety",
+        content: [
+          { type: "bullets", items: [
+            "Store flours, sabudana and makhana in dry, clean, airtight spaces away from moisture and pests.",
+            "Flours go stale faster than grains, so rotate with FIFO.",
+            "Verify packaging, batch details and expiry dates at every delivery.",
+            "Buy from reliable suppliers who follow FSSAI norms.",
+            "Maintain steady chiller temperature and remove spoiled items at once.",
+            "Clean produce displays several times a day."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Display and Merchandising",
+        content: [
+          { type: "bullets", items: [
+            "Group all fasting items in one well-lit section with a clear “Vrat Items” sign.",
+            "A single corner saves customers time and raises add-on sales.",
+            "Many fasting families prefer vrat products stored away from onion, garlic and non-vegetarian items.",
+            "Clean, separate shelves build confidence.",
+            "Bundles such as kuttu atta with rock salt and ghee, or a makhana and dry fruit pack, help customers shop faster.",
+            "Use combos on items with healthy margin and avoid constant discounting."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Pricing and Customer Trust",
+        content: [
+          { type: "bullets", items: [
+            "Keep prices fair and visible, since customers compare vrat item rates closely during the festival.",
+            "Sell within the printed MRP and avoid sudden price hikes that harm long-term trust."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Ordering late and missing the first days of demand.",
+            "Over-ordering flours and fresh produce that spoil quickly.",
+            "Mixing vrat items with non-vrat products on the same shelf.",
+            "Ignoring expiry dates on flours and snacks.",
+            "Having no clear signage for vrat items."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Festival Stocking",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning help owners create clear seasonal sections.",
+            "POS billing and CRM show which items sell fast, so festival ordering follows real demand.",
+            "Partnerships with leading FMCG brands cover the dependable packaged range for festive seasons.",
+            "Training and operational support help teams manage stock, display and customer service.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "A well-planned vrat range, stocked early and displayed clearly, turns Navratri into a strong sales and loyalty season.",
+            "Focus on flours, snacks, dairy, fresh produce and puja items, and keep quality and pricing fair.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Which items sell most during Navratri?",
+      answer: "Kuttu atta, singhare ka atta, sabudana, samak rice, makhana, potatoes, fruits, dairy and rock salt sell the most."
+    },
+    {
+      question: "When should a grocery store start stocking for Navratri?",
+      answer: "Plan two to three weeks ahead and place first orders before the festival begins."
+    },
+    {
+      question: "Should a store keep a separate vrat section?",
+      answer: "Yes. A dedicated, clearly signed corner helps customers shop faster and builds trust."
+    },
+    {
+      question: "How can a store avoid unsold vrat stock?",
+      answer: "Order small first lots, use last season’s POS data and reorder based on daily sales."
+    },
+    {
+      question: "Do vrat rules differ between customers?",
+      answer: "Yes, customs vary by family and region, so ask customers and stock what your area buys."
+    }
+  ],
+
+  metaTags: {
+    title: "Navratri Vrat Items List for Grocery Stores: 2026 Guide",
+    description: "Complete Navratri vrat items list for grocery stores. See what to stock, when to order and how to display fasting items to boost festival sales.",
+    keywords: "Navratri vrat items list for grocery stores, Navratri stock guide, vrat items list, Navratri fasting items, Navratri grocery list, vrat items for grocery store, Navratri vrat samagri list, kuttu atta singhare atta, sabudana samak rice makhana, sendha namak rock salt, farali snacks, Navratri special items, festival stocking grocery store, Navratri sales grocery store, Navratri puja items, kanya pujan items list, vrat food items, fasting food list India, seasonal stocking grocery store, festival demand grocery store, grocery store inventory management, neighbourhood grocery store tips, supermarket franchise in India, grocery franchise in India, Buyzaar Mart franchise, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/navratri-vrat-items-list-grocery-stores-stock-guide"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/navratri-vrat-items-list-grocery-stores-stock-guide",
+      title: "Navratri Vrat Items List for Grocery Stores: 2026 Guide",
+      description: "Complete Navratri vrat items list for grocery stores. See what to stock, when to order and how to display fasting items to boost festival sales.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793079239/navratri-vrat-items-list-grocery-stores-stock-guide_wt7dw2.jpg", width: 1200, height: 630, alt: "Navratri Vrat Items List for Grocery Stores: 2026 Guide" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Navratri Vrat Items List for Grocery Stores: 2026 Guide",
+      description: "Stock the right Navratri vrat items, plan orders early and display fasting products to increase festival sales.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793079239/navratri-vrat-items-list-grocery-stores-stock-guide_wt7dw2.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 })
 
 ]

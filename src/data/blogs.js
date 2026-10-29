@@ -26614,6 +26614,517 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+}),
+
+({
+  id: 104,
+  slug: "dussehra-karwa-chauth-sales-grocery-store-prep-guide",
+  title: "Dussehra & Karwa Chauth Sales: Grocery Store Prep Guide",
+  subtitle: "Prepare your grocery store for Dussehra and Karwa Chauth sales. See what to stock, when to order and how to display sargi, puja and gift items.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-10-29",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793251627/dussehra-karwa-chauth-sales-grocery-store-prep-guide_rbarko.jpg", // Add Cloudinary image URL here
+  content: "Prepare your grocery store for Dussehra and Karwa Chauth sales. See what to stock, when to order and how to display sargi, puja and gift items.",
+  tags: [
+    "Dussehra and Karwa Chauth Sales Grocery Store",
+    "Grocery Store Prep Guide",
+    "Dussehra Grocery Items List",
+    "Karwa Chauth Grocery Items List",
+    "Karwa Chauth Sargi Items",
+    "Sargi Kit Grocery Store",
+    "Dussehra Puja Items",
+    "Festive Stocking Grocery Store",
+    "Festival Sales Grocery Store",
+    "Dussehra Sweets Ingredients",
+    "Dry Fruits Gift Boxes",
+    "Festive Gift Hampers Grocery",
+    "Puja Thali Items",
+    "Festival Display Ideas Grocery Store",
+    "Festive Season Planning Retail",
+    "Diwali Preparation Grocery Store",
+    "Grocery Store Inventory Management",
+    "Seasonal Stocking Grocery Store",
+    "Increase Basket Size Grocery",
+    "Neighbourhood Grocery Store Tips",
+    "FMCG Brand Partnerships",
+    "Supermarket Franchise in India",
+    "Grocery Franchise in India",
+    "Buyzaar Mart Franchise",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "Dussehra and Karwa Chauth arrive close together, just before Diwali, and they bring a strong wave of festive shopping to neighbourhood grocery stores. Families buy sweets, dry fruits, puja items, snacks and fresh produce, often in a hurry. Stores that prepare early earn bigger baskets and win customers who stay loyal through Diwali. This guide explains what to stock, when to order, and how to display and sell for both festivals.",
+
+    sections: [
+      {
+        heading: "Why These Two Festivals Matter for Grocery Stores",
+        content: [
+          { type: "bullets", items: [
+            "The two festivals fall within about ten days of each other, so you can plan one combined stocking cycle.",
+            "Strong sales now also warm up customers for Diwali shopping.",
+            "Dussehra brings family gatherings, sweets, snacks and puja items.",
+            "Karwa Chauth brings focused buying of sargi items, dry fruits, fruits and puja thali supplies.",
+            "Customers remember the store that had everything on their list.",
+            "A smooth festive experience brings them back for the next occasion."
+          ]}
+        ]
+      },
+
+      {
+        heading: "What Customers Buy for Dussehra",
+        content: [
+          { type: "bullets", items: [
+            "Sugar, jaggery, maida, sooji, besan, ghee, cooking oil, cardamom and dry fruits go up in demand as families make sweets at home.",
+            "Offer small, medium and family packs.",
+            "Namkeen, chips, biscuits, soft drinks, juices and packaged snacks sell strongly when guests visit.",
+            "Stock multipacks and sharing sizes.",
+            "Roli, moli, incense, camphor, diyas, wicks, coconuts, flowers and fruits are bought for home puja.",
+            "Keep them together in one visible section.",
+            "Dry fruit boxes, chocolates, sweet boxes and small hampers sell well in the days before the festival.",
+            "Keep a few price points, from budget to premium."
+          ]}
+        ]
+      },
+
+      {
+        heading: "What Customers Buy for Karwa Chauth",
+        content: [
+          { type: "bullets", items: [
+            "Dry fruits, fresh fruits, dates, coconut, sweets, mathri, vermicelli (feni) and milk are common sargi purchases.",
+            "Pre-packed sargi kits save shoppers time and lift basket size.",
+            "Roli, rice, ghee, cotton wicks, diyas, incense, matchboxes and sweets are bought for the evening puja.",
+            "Place them near the billing counter for quick pickup.",
+            "Rice, milk, sugar and cardamom for kheer, and flour, sooji and ghee for puri and halwa, see steady demand.",
+            "Fruits and juices sell well for breaking the fast.",
+            "Sweets, dry fruit boxes and small gift packs are popular as gifts for wives, mothers and in-laws.",
+            "Keep gift-ready packs at the entrance for easy discovery."
+          ]}
+        ]
+      },
+
+      {
+        heading: "A Simple Stocking Timeline",
+        content: [
+          { type: "bullets", items: [
+            "Review last year’s POS sales and customer requests for both festivals.",
+            "Place orders with suppliers, and confirm delivery dates.",
+            "Stock puja items, sweet ingredients, dry fruits and packaged snacks.",
+            "Set up the festive display and signage.",
+            "Top up fast-moving items, and bring in fresh fruits, dairy and sweets.",
+            "Keep extra staff on the floor and at billing.",
+            "Clear leftover seasonal stock with sensible offers.",
+            "Shift your display and attention to Diwali."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Stock Priorities by Category",
+        content: [
+          { type: "bullets", items: [
+            "Almonds, cashews, raisins, dates and gift boxes are among the highest-value festive items.",
+            "See our guide on dry fruits and spices for margin and storage tips.",
+            "Milk, curd, paneer, ghee and fresh fruits are needed daily, especially close to the festival.",
+            "Order small lots often to protect freshness.",
+            "Flour, sooji, sugar, oil and rice remain the base of festive cooking.",
+            "Keep enough stock of popular brands to avoid empty shelves.",
+            "Ready sweets, namkeen and cold drinks suit guests and last-minute buying.",
+            "Check expiry dates, and keep chilled items cold."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Display and Merchandising",
+        content: [
+          { type: "bullets", items: [
+            "Group sargi items, puja supplies and gift packs in one well-lit corner with clear signs.",
+            "Shoppers find items faster and add more to their baskets.",
+            "Create a sargi kit, a puja thali kit and a Dussehra sweets kit with items shoppers already buy.",
+            "Price kits fairly and use items with healthy margin.",
+            "Place dry fruits near sweets, ghee near flour and sooji, and diyas near puja items.",
+            "Related placement reminds shoppers of items they have not yet picked.",
+            "A clean entrance with a simple festive display and a “Festive Specials” board catches attention.",
+            "Keep the area uncluttered so customers can enter easily."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Pricing, Offers and Trust",
+        content: [
+          { type: "bullets", items: [
+            "Combos such as dry fruits with sweets, or ghee with flour, raise basket size without cutting prices everywhere.",
+            "Avoid heavy discounts on items that already sell well.",
+            "Customers compare festive prices closely, so keep clear tags on every shelf.",
+            "Sell within the printed MRP and avoid sudden price hikes."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Billing, Staffing and Service",
+        content: [
+          { type: "bullets", items: [
+            "Evenings and the day before each festival are the busiest times, so add staff and billing counters.",
+            "Quick, friendly billing keeps queues short and customers happy.",
+            "Make sure staff know where festive items are placed and can suggest kits and gifts.",
+            "A helpful answer often closes a sale."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Freshness, Storage and Food Safety",
+        content: [
+          { type: "bullets", items: [
+            "Check chiller temperature daily, and keep dairy and sweets cold.",
+            "Verify batch details and expiry dates at every delivery, and buy from suppliers who follow FSSAI norms.",
+            "Store dry fruits, flours and sweets in clean, dry, airtight spaces away from moisture and pests."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Ordering late and missing the first days of demand.",
+            "Over-ordering sweets and fresh items that cannot wait.",
+            "Leaving festive items scattered across the store.",
+            "Under-staffing billing during peak evenings.",
+            "Forgetting to clear leftover stock after the festival."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Festive Preparation",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning help owners set up clear seasonal sections.",
+            "POS billing and CRM show which items sell fast, so festive ordering follows real demand.",
+            "Partnerships with leading FMCG brands cover the dependable packaged range for festive seasons.",
+            "Training and operational support help teams manage stock, display and customer service.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "Early planning, clear displays and fair pricing turn Dussehra and Karwa Chauth into a strong lead-in to Diwali.",
+            "Focus on dry fruits, sweets ingredients, dairy, puja items and ready-made kits, and review your POS data after each festival.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Which items sell most during Dussehra and Karwa Chauth?",
+      answer: "Dry fruits, sweets ingredients, ghee, flour, fruits, dairy, puja items, snacks and gift packs sell the most."
+    },
+    {
+      question: "When should a grocery store start preparing?",
+      answer: "Review last year’s sales and place orders about three weeks before the festivals."
+    },
+    {
+      question: "What is a sargi kit?",
+      answer: "It is a ready pack of items such as dry fruits, fruits, sweets and vermicelli that saves shoppers time before Karwa Chauth."
+    },
+    {
+      question: "How can a store avoid unsold festive stock?",
+      answer: "Order small first lots, use POS data, reorder fast-moving items and clear leftovers after the festival."
+    },
+    {
+      question: "How can a store use these festivals to prepare for Diwali?",
+      answer: "Use the same festive corner, kits and gift packs, then expand them for Diwali demand."
+    }
+  ],
+
+  metaTags: {
+    title: "Dussehra & Karwa Chauth Sales: Grocery Store Prep Guide",
+    description: "Prepare your grocery store for Dussehra and Karwa Chauth sales. See what to stock, when to order and how to display sargi, puja and gift items.",
+    keywords: "Dussehra and Karwa Chauth sales grocery store, grocery store prep guide, Dussehra grocery items list, Karwa Chauth grocery items list, Karwa Chauth sargi items, sargi kit grocery store, Dussehra puja items, festive stocking grocery store, festival sales grocery store, Dussehra sweets ingredients, dry fruits gift boxes, festive gift hampers grocery, puja thali items, festival display ideas grocery store, festive season planning retail, Diwali preparation grocery store, grocery store inventory management, seasonal stocking grocery store, increase basket size grocery, neighbourhood grocery store tips, FMCG brand partnerships, supermarket franchise in India, grocery franchise in India, Buyzaar Mart franchise, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/dussehra-karwa-chauth-sales-grocery-store-prep-guide"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/dussehra-karwa-chauth-sales-grocery-store-prep-guide",
+      title: "Dussehra & Karwa Chauth Sales: Grocery Store Prep Guide",
+      description: "Prepare your grocery store for Dussehra and Karwa Chauth sales. See what to stock, when to order and how to display sargi, puja and gift items.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793251627/dussehra-karwa-chauth-sales-grocery-store-prep-guide_rbarko.jpg", width: 1200, height: 630, alt: "Dussehra & Karwa Chauth Sales: Grocery Store Prep Guide" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Dussehra & Karwa Chauth Sales: Grocery Store Prep Guide",
+      description: "Stock, display and price sargi kits, puja items, dry fruits and festive essentials to boost Dussehra and Karwa Chauth grocery sales.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793251627/dussehra-karwa-chauth-sales-grocery-store-prep-guide_rbarko.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
+}),
+
+({
+  id: 105,
+  slug: "diwali-stock-planning-grocery-stores-2026-guide",
+  title: "Diwali Stock Planning for Grocery Stores: 2026 Guide",
+  subtitle: "Plan your Diwali 2026 stock with this grocery store guide. Get key dates, category checklists, ordering tips and display ideas to boost festive sales.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-10-29",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793252834/diwali-stock-planning-grocery-stores-2026-guide_kb7k0n.jpg", // Add Cloudinary image URL here
+  content: "Plan your Diwali 2026 stock with this grocery store guide. Get key dates, category checklists, ordering tips and display ideas to boost festive sales.",
+  tags: [
+    "Diwali Stock Planning for Grocery Stores",
+    "Diwali 2026 Grocery Guide",
+    "Diwali Stock Planning",
+    "Diwali 2026 Dates Dhanteras",
+    "Diwali Grocery Items List",
+    "Diwali Sales Grocery Store",
+    "Festive Stocking Grocery Store",
+    "Diwali Inventory Planning",
+    "Diwali Gift Hampers Grocery",
+    "Diwali Sweets and Dry Fruits",
+    "Diwali Puja Items List",
+    "Diwali Diyas and Candles",
+    "Diwali Cooking Staples",
+    "Festive Season Planning Retail",
+    "Diwali Display Ideas Grocery Store",
+    "Diwali Offers and Combos",
+    "Post Diwali Clearance",
+    "Grocery Store Inventory Management",
+    "Seasonal Stocking Grocery Store",
+    "Increase Basket Size Grocery",
+    "Neighbourhood Grocery Store Tips",
+    "FMCG Brand Partnerships",
+    "Supermarket Franchise in India",
+    "Grocery Franchise in India",
+    "Buyzaar Mart Franchise",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "Diwali is the biggest shopping season of the year for neighbourhood grocery stores. Families clean their homes, cook festive meals, buy gifts and light up their houses, all within a few days. A store that runs out of ghee, dry fruits or diyas on the busiest evening loses sales it rarely wins back. This guide gives you a practical Diwali stock plan, with key dates, category checklists, ordering tips and display ideas for the 2026 season.",
+
+    sections: [
+      {
+        heading: "Diwali 2026 at a Glance: Key Dates",
+        content: [
+          { type: "bullets", items: [
+            "In 2026, Dhanteras falls on 6 November, Lakshmi Puja (Diwali) on 8 November, Govardhan Puja on 10 November and Bhai Dooj on 11 November.",
+            "Dates can vary slightly by region and panchang, so confirm them locally before you finalise plans.",
+            "Dhanteras drives demand for utensils, sweets, dry fruits and puja items.",
+            "Lakshmi Puja brings the biggest rush for diyas, candles, sweets, flowers and gifts.",
+            "Govardhan Puja and Bhai Dooj bring cooking staples, dairy, sweets and gift packs."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Why Diwali Needs Its Own Stock Plan",
+        content: [
+          { type: "bullets", items: [
+            "Shopping starts days before Dhanteras and continues until Bhai Dooj, so demand is spread over many days.",
+            "Baskets are larger than usual, with cooking, cleaning, decoration and gifting needs together.",
+            "Sweets, dry fruits, puja items, snacks, dairy, home care and gift packs all rise in the same window.",
+            "Without a plan, cash gets stuck in the wrong items."
+          ]}
+        ]
+      },
+
+      {
+        heading: "A Week-by-Week Stock Plan",
+        content: [
+          { type: "bullets", items: [
+            "Review last year’s POS sales by category, note stock-outs and set targets.",
+            "Our guide on festive and gifting products covers early planning and hamper tiers in detail.",
+            "Confirm orders, delivery dates and backup suppliers, and receive dry goods, puja items and gift packs.",
+            "Set up the festive zone and signage.",
+            "Top up fast-moving items daily, and bring in fresh dairy, fruits and sweets.",
+            "Add staff and billing counters before the rush begins.",
+            "Check shelves several times a day, and refill popular items at once.",
+            "Keep gift packs, puja items and sweets in clear view.",
+            "Clear leftover festive stock with sensible offers, and note which items sold out or stayed unsold."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Category Checklist for Diwali",
+        content: [
+          { type: "bullets", items: [
+            "Boxed sweets, dry fruit packs, chocolates, hampers and gift boxes are the main gifting items.",
+            "Offer three price tiers, from budget to premium, so every shopper finds a fit.",
+            "Diyas, candles, cotton wicks, matchboxes, camphor, incense, roli, rangoli colours, flowers, lights and torans sell fast.",
+            "Group them together near the entrance or billing counter.",
+            "Ghee, oil, sugar, jaggery, flour, sooji, besan, rice, pulses, cardamom and spices see the highest demand.",
+            "Stock popular brands in several pack sizes, including family packs.",
+            "Milk, curd, paneer, cream, butter and fresh fruits are needed daily, with spikes before each festival day.",
+            "Order in smaller lots often to protect freshness.",
+            "Namkeen, chips, biscuits, soft drinks, juices, tea and coffee suit guests and family gatherings.",
+            "Multipacks and sharing sizes sell best.",
+            "Detergents, floor cleaners, glass cleaners, brooms, mops, scrubbers and garbage bags sell before Diwali as families clean their homes.",
+            "Stock these early, since cleaning starts weeks ahead.",
+            "Gift sets, grooming kits and festive beauty packs suit family and corporate gifting.",
+            "Read our guide on personal care display and margins for shelf tips."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How to Estimate Quantities",
+        content: [
+          { type: "bullets", items: [
+            "Use POS sales from last Diwali as your base, then adjust for growth in your area.",
+            "Add a small buffer for items that sell out first.",
+            "Commit to a base order now, and keep part of the budget for mid-season top-ups.",
+            "This protects cash if demand is lower than expected.",
+            "Confirm lead times early, since deliveries often slow down near the festival.",
+            "Keep backup suppliers for the top 20 fast-moving items, and stagger deliveries to avoid overcrowding the store room.",
+            "Agree on return or buy-back terms for slow movers and damaged stock before you order."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Display and Layout",
+        content: [
+          { type: "bullets", items: [
+            "Place gifts, puja items and sweets in a bright zone near the entrance.",
+            "Use clear signs, price tags and a simple countdown board.",
+            "Place dry fruits near sweets, ghee near flour and sooji, and diyas near candles and lights.",
+            "Related placement lifts basket size without extra effort."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Staffing, Billing and Service",
+        content: [
+          { type: "bullets", items: [
+            "Add extra staff and billing counters for Dhanteras evening, Diwali day and the days before.",
+            "Train the team on where festive items are placed and how to suggest gifts and combos.",
+            "Offer quick packing, and consider WhatsApp orders or home delivery for busy customers."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Pricing, Offers and Trust",
+        content: [
+          { type: "bullets", items: [
+            "Use combos and tiered hampers instead of deep discounts on every item.",
+            "Keep prices fair, visible and within the printed MRP, since festive shoppers compare closely."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Freshness, Storage and Food Safety",
+        content: [
+          { type: "bullets", items: [
+            "Check chiller temperature daily, and keep sweets and dairy cold.",
+            "Verify batch details and expiry dates on every delivery, and buy from suppliers who follow FSSAI norms.",
+            "Check seals on gift boxes, and store dry fruits and flours in clean, dry spaces."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Ordering late and missing the first rush.",
+            "Over-ordering sweets and fresh items that cannot wait.",
+            "Running out of fast-moving staples on the busiest evenings.",
+            "Under-staffing billing during peak hours.",
+            "Skipping the post-festival review, so next year’s plan repeats the same errors."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Festive Planning",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning help owners set up a clear festive zone.",
+            "POS billing and CRM show which items sell fast, so festive ordering follows real demand.",
+            "Partnerships with leading FMCG brands cover the dependable packaged range, and buy-back support on expired or damaged stock helps reduce festive risk.",
+            "Training and operational support help teams manage stock, display and customer service.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "A clear Diwali plan, built on last year’s data and the five-day calendar, protects your sales and your cash.",
+            "Focus on gifting, puja items, cooking staples, dairy and home care, and review the results after Bhai Dooj.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "When should a grocery store start Diwali stock planning?",
+      answer: "Ideally four to six weeks before, using last year’s POS sales as the base."
+    },
+    {
+      question: "Which items sell most during Diwali?",
+      answer: "Sweets, dry fruits, ghee, oil, flour, sugar, puja items, diyas, snacks, dairy, cleaning products and gift packs sell the most."
+    },
+    {
+      question: "How much stock should a store buy?",
+      answer: "Start from last year’s sales, add a small growth buffer and keep part of the budget for top-ups."
+    },
+    {
+      question: "How can a store avoid unsold Diwali stock?",
+      answer: "Order perishables in small lots, split orders into base and top-up, and clear leftovers after Bhai Dooj."
+    },
+    {
+      question: "What are the Diwali 2026 dates?",
+      answer: "Dhanteras is on 6 November, Lakshmi Puja on 8 November, Govardhan Puja on 10 November and Bhai Dooj on 11 November, subject to regional variation."
+    }
+  ],
+
+  metaTags: {
+    title: "Diwali Stock Planning for Grocery Stores: 2026 Guide",
+    description: "Plan your Diwali 2026 stock with this grocery store guide. Get key dates, category checklists, ordering tips and display ideas to boost festive sales.",
+    keywords: "Diwali stock planning for grocery stores, Diwali 2026 grocery guide, Diwali stock planning, Diwali 2026 dates Dhanteras, Diwali grocery items list, Diwali sales grocery store, festive stocking grocery store, Diwali inventory planning, Diwali gift hampers grocery, Diwali sweets and dry fruits, Diwali puja items list, Diwali diyas and candles, Diwali cooking staples, festive season planning retail, Diwali display ideas grocery store, Diwali offers and combos, post Diwali clearance, grocery store inventory management, seasonal stocking grocery store, increase basket size grocery, neighbourhood grocery store tips, FMCG brand partnerships, supermarket franchise in India, grocery franchise in India, Buyzaar Mart franchise, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/diwali-stock-planning-grocery-stores-2026-guide"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/diwali-stock-planning-grocery-stores-2026-guide",
+      title: "Diwali Stock Planning for Grocery Stores: 2026 Guide",
+      description: "Plan your Diwali 2026 stock with this grocery store guide. Get key dates, category checklists, ordering tips and display ideas to boost festive sales.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793252834/diwali-stock-planning-grocery-stores-2026-guide_kb7k0n.jpg", width: 1200, height: 630, alt: "Diwali Stock Planning for Grocery Stores: 2026 Guide" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Diwali Stock Planning for Grocery Stores: 2026 Guide",
+      description: "Plan Diwali 2026 grocery stock with key dates, category checklists, ordering tips and festive display ideas.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793252834/diwali-stock-planning-grocery-stores-2026-guide_kb7k0n.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 })
 
 ]

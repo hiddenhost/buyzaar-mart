@@ -27128,7 +27128,7 @@ export const blogs = [
 }),
 
 ({
-  id: 61,
+  id: 106,
   slug: "diwali-gift-hamper-ideas-grocery-stores-to-sell",
   title: "Diwali Gift Hamper Ideas for Grocery Stores to Sell",
   subtitle: "Discover Diwali gift hamper ideas for grocery stores. Get price tiers, theme ideas, packing tips and selling methods to raise festive sales and basket size.",
@@ -27378,7 +27378,7 @@ export const blogs = [
 }),
 
 ({
-  id: 62,
+  id: 107,
   slug: "festive-season-cash-flow-and-staffing-for-grocery-stores",
   title: "Festive Season Cash Flow and Staffing for Grocery Stores",
   subtitle: "Plan festive cash flow and staffing for your grocery store. Learn stock budgets, supplier terms, daily cash checks, hiring, shifts and a week-by-week timeline.",
@@ -27616,6 +27616,496 @@ export const blogs = [
       title: "Festive Season Cash Flow and Staffing for Grocery Stores",
       description: "Manage festive cash flow, stock budgets, supplier terms, seasonal hiring and shift planning for a grocery store.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793683363/festive-season-cash-flow-and-staffing-for-grocery-stores_kxuol8.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
+}),
+
+({
+  id: 108,
+  slug: "chhath-puja-bhai-dooj-items-grocery-store-should-stock",
+  title: "Chhath Puja & Bhai Dooj Items Every Grocery Store Should Stock",
+  subtitle: "Complete list of Chhath Puja and Bhai Dooj items for grocery stores. See what to stock, when to order and how to display fruits, puja items and gifts.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-11-04",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793772312/chhath-puja-bhai-dooj-items-grocery-store-should-stock_txzh5c.jpg", // Add Cloudinary image URL here
+  content: "Complete list of Chhath Puja and Bhai Dooj items for grocery stores. See what to stock, when to order and how to display fruits, puja items and gifts.",
+  tags: [
+    "Chhath Puja and Bhai Dooj Items Grocery Store",
+    "Chhath Puja Items List",
+    "Chhath Puja Samagri List",
+    "Bhai Dooj Items List",
+    "Bhai Dooj Tilak Items",
+    "Chhath Puja Grocery Items",
+    "Chhath Puja Fruits and Sugarcane",
+    "Thekua Ingredients Jaggery Flour Ghee",
+    "Bamboo Soop Daura Basket",
+    "Chhath Puja Prasad Items",
+    "Bhai Dooj Sweets and Gifts",
+    "Festive Stocking Grocery Store",
+    "Post Diwali Festive Sales",
+    "Festival Sales Grocery Store",
+    "Chhath Puja 2026",
+    "Bhai Dooj 2026",
+    "Festive Season Planning Retail",
+    "Puja Items Grocery Store",
+    "Grocery Store Inventory Management",
+    "Seasonal Stocking Grocery Store",
+    "Increase Basket Size Grocery",
+    "Neighbourhood Grocery Store Tips",
+    "Supermarket Franchise in India",
+    "Grocery Franchise in India",
+    "Buyzaar Mart Franchise",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "Right after Diwali, two more festivals bring a fresh wave of shoppers. Bhai Dooj calls for sweets, tilak items and gifts, while Chhath Puja calls for fruits, sugarcane, jaggery, flour and a long list of puja items that families want in one trip. Stores that stock these early, keep them clean and display them clearly earn strong sales and lasting trust. This guide lists the items to stock, how much to plan and how to run both seasons smoothly.",
+
+    sections: [
+      {
+        heading: "Key Dates for 2026",
+        content: [
+          { type: "bullets", items: [
+            "Bhai Dooj falls on 11 November 2026, three days after Lakshmi Puja.",
+            "Demand for sweets, gifts and puja items rises in the two to three days before it.",
+            "Chhath Puja runs for four days, from about 13 to 16 November 2026, with the main evening offering around 15 November.",
+            "Dates can vary by region and panchang, so confirm them locally before you plan."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Why These Festivals Matter for Grocery Stores",
+        content: [
+          { type: "bullets", items: [
+            "Many stores slow down after Diwali, but these festivals bring a new burst of focused shopping.",
+            "Good planning extends your festive season by another week.",
+            "Chhath is especially important in Bihar, Jharkhand, eastern Uttar Pradesh, Delhi NCR and many migrant communities.",
+            "Check how many Chhath-observing families live in your area before deciding quantities.",
+            "Chhath shoppers care deeply about cleanliness and purity, so they return to stores they trust.",
+            "Delivering on this builds loyalty well beyond the festival."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Chhath Puja Items: Fruits and Fresh Produce",
+        content: [
+          { type: "bullets", items: [
+            "Bananas, apples, oranges, pomegranates, pineapples, sweet limes, water chestnuts and coconuts are widely bought.",
+            "Choose clean, unblemished fruit and display it separately.",
+            "Sugarcane stalks, sweet potatoes, ginger, turmeric roots, radish and pumpkin are common seasonal items.",
+            "Order in line with local demand, since fresh items cannot wait long."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Chhath Puja Items: Cooking and Prasad Ingredients",
+        content: [
+          { type: "bullets", items: [
+            "Wheat flour, jaggery, ghee, sugar, dry coconut, cardamom and dry fruits are the core ingredients for traditional prasad such as thekua.",
+            "Keep fresh stock of quality brands in several pack sizes.",
+            "Rice, milk and sugar are needed for kheer, which many families prepare during the fast.",
+            "Check dairy freshness and chiller temperature daily.",
+            "Many families use fresh ghee or specific oils and follow strict rules about food purity.",
+            "Keep clearly labelled options, and avoid mixing items on the same shelf."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Chhath Puja Items: Puja Articles",
+        content: [
+          { type: "bullets", items: [
+            "Bamboo soop and daura baskets, kalash, brass or clay lamps and plates are in high demand.",
+            "Stock these early, since quantities are limited and demand is sharp.",
+            "Diyas, cotton wicks, incense, camphor, betel nuts, betel leaves, sindoor, roli, rice, matchboxes and cloth pieces are bought in small packs.",
+            "Place them together near the billing counter.",
+            "Sell fruits, flour and puja items in clean, sealed or new packaging wherever possible.",
+            "This matches shoppers’ expectations of purity during Chhath."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Bhai Dooj Items to Stock",
+        content: [
+          { type: "bullets", items: [
+            "Roli, rice, kalawa, diyas, matchboxes, coconuts, betel nuts and small thalis are needed for the tilak ceremony.",
+            "Offer ready tilak kits at the counter for quick pickup.",
+            "Boxed sweets, dry fruit packs, mishri and coconut sweets are the most common gifts and offerings.",
+            "Stock a range of price points, from small packs to premium boxes.",
+            "Chocolates, cookies, gift hampers, small personal care sets and stationery items suit sibling gifting.",
+            "Pair them with festive wrapping and cards for added appeal.",
+            "Families often cook special meals, so keep oil, flour, rice, dairy, paneer, spices and snacks well stocked.",
+            "Namkeen and beverages sell well for family gatherings."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How Much to Stock and When",
+        content: [
+          { type: "bullets", items: [
+            "Use last year’s POS sales for the same festival weeks, and adjust for local demand.",
+            "Note which items sold out early.",
+            "Order puja articles, baskets and dry goods several days before Diwali ends, since supply can tighten.",
+            "Order fresh items closer to the dates, in smaller lots.",
+            "Demand rises sharply on the day before each main ritual.",
+            "Keep spare stock of fruits, jaggery, flour and ghee for those days."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Display and Merchandising",
+        content: [
+          { type: "bullets", items: [
+            "Group puja items, fruits, prasad ingredients and gifts in one clearly signed section.",
+            "A single corner saves shoppers time and lifts basket size.",
+            "Build a thekua ingredient kit, a Chhath puja kit and a Bhai Dooj tilak kit from items you already stock.",
+            "Price kits fairly, and list contents clearly.",
+            "Place jaggery near flour and ghee, and diyas near wicks and incense.",
+            "Related placement reminds shoppers of items they have not yet picked."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Cleanliness, Hygiene and Customer Care",
+        content: [
+          { type: "bullets", items: [
+            "Chhath shoppers expect very clean floors, shelves and fruit displays.",
+            "Clean several times a day, and keep puja items away from dust and strong odours.",
+            "Keep puja and prasad items on their own shelves, away from onion, garlic and non-vegetarian products.",
+            "Staff should handle these with clean hands.",
+            "Verify batch details and expiry dates on flour, ghee, jaggery and sweets, and buy from FSSAI-compliant suppliers.",
+            "Remove spoiled fruit at once.",
+            "Keep prices visible and fair, and sell within the printed MRP, since shoppers compare rates closely.",
+            "Add extra billing staff before the busiest days, and keep change and bags ready."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Ordering puja baskets and articles too late.",
+            "Over-ordering fresh fruit and sweets that cannot wait.",
+            "Mixing puja items with non-puja products.",
+            "Letting the store look untidy during Chhath days.",
+            "Skipping a review after the festival."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Festive Stocking",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning help owners set up clear seasonal sections.",
+            "POS billing and CRM show which items sell fast, so ordering follows real demand.",
+            "Partnerships with leading FMCG brands and buy-back support on expired or damaged stock help reduce festive risk.",
+            "Training and operational support help teams follow hygiene and service routines.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "Chhath Puja and Bhai Dooj reward stores that stock early, keep everything clean and display items clearly.",
+            "Focus on fruits, prasad ingredients, puja articles, sweets and gifts, and review your data after the festivals.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Which items sell most during Chhath Puja?",
+      answer: "Fruits, sugarcane, jaggery, wheat flour, ghee, coconut, bamboo baskets, diyas and puja items sell the most."
+    },
+    {
+      question: "What should a store stock for Bhai Dooj?",
+      answer: "Roli, rice, kalawa, diyas, coconuts, sweets, dry fruits, mishri, chocolates and gift packs."
+    },
+    {
+      question: "When should a store start preparing?",
+      answer: "Plan from last year’s data, and place orders for puja articles and dry goods several days before the festival."
+    },
+    {
+      question: "Why is cleanliness so important during Chhath?",
+      answer: "Families follow strict purity rules, so clean shelves and fresh, well-handled items build trust."
+    },
+    {
+      question: "How can a store avoid unsold festive stock?",
+      answer: "Order fresh items in small lots, reorder fast movers and clear leftovers with sensible offers after the festival."
+    }
+  ],
+
+  metaTags: {
+    title: "Chhath Puja & Bhai Dooj Items Every Grocery Store Should Stock",
+    description: "Complete list of Chhath Puja and Bhai Dooj items for grocery stores. See what to stock, when to order and how to display fruits, puja items and gifts.",
+    keywords: "Chhath Puja and Bhai Dooj items grocery store, Chhath Puja items list, Chhath Puja samagri list, Bhai Dooj items list, Bhai Dooj tilak items, Chhath Puja grocery items, Chhath Puja fruits and sugarcane, thekua ingredients jaggery flour ghee, bamboo soop daura basket, Chhath Puja prasad items, Bhai Dooj sweets and gifts, festive stocking grocery store, post Diwali festive sales, festival sales grocery store, Chhath Puja 2026, Bhai Dooj 2026, festive season planning retail, puja items grocery store, grocery store inventory management, seasonal stocking grocery store, increase basket size grocery, neighbourhood grocery store tips, supermarket franchise in India, grocery franchise in India, Buyzaar Mart franchise, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/chhath-puja-bhai-dooj-items-grocery-store-should-stock"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/chhath-puja-bhai-dooj-items-grocery-store-should-stock",
+      title: "Chhath Puja & Bhai Dooj Items Every Grocery Store Should Stock",
+      description: "Complete list of Chhath Puja and Bhai Dooj items for grocery stores. See what to stock, when to order and how to display fruits, puja items and gifts.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793772312/chhath-puja-bhai-dooj-items-grocery-store-should-stock_txzh5c.jpg", width: 1200, height: 630, alt: "Chhath Puja & Bhai Dooj Items Every Grocery Store Should Stock" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Chhath Puja & Bhai Dooj Items Every Grocery Store Should Stock",
+      description: "Stock Chhath Puja fruits, prasad ingredients, puja articles and Bhai Dooj sweets, tilak kits and gifts for festive sales.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793772312/chhath-puja-bhai-dooj-items-grocery-store-should-stock_txzh5c.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
+}),
+
+({
+  id: 109,
+  slug: "wedding-season-bulk-orders-how-grocery-stores-can-win-them",
+  title: "Wedding Season Bulk Orders for Grocery Stores | The Buyzaar Mart",
+  subtitle: "Learn how grocery stores can win wedding season bulk orders with smart stock planning, tiered pricing, quick quotes, delivery and caterer partnerships.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-11-05",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793874733/wedding-season-bulk-orders-how-grocery-stores-can-win-them_vfprvw.jpg", // Add Cloudinary image URL here
+  content: "Learn how grocery stores can win wedding season bulk orders with smart stock planning, tiered pricing, quick quotes, delivery and caterer partnerships.",
+  tags: [
+    "Wedding Season Bulk Orders",
+    "Grocery Store Bulk Orders",
+    "Bulk Grocery Orders for Weddings",
+    "Wedding Season Grocery Store Tips",
+    "How to Get Wedding Bulk Orders",
+    "Wedding Catering Grocery Supply",
+    "Grocery Store Wedding Season",
+    "Bulk Order Pricing Grocery Store",
+    "Wedding Grocery List",
+    "Caterer Grocery Supply",
+    "Wholesale Grocery Orders for Weddings",
+    "Wedding Season Stock Planning",
+    "Kirana Store Wedding Orders",
+    "Grocery Store Sales Growth",
+    "Increase Basket Size Grocery",
+    "Bulk Order Delivery Grocery",
+    "Wedding Gift Hampers Grocery",
+    "Dry Fruits Bulk Order Wedding",
+    "Grocery Store Marketing Wedding Season",
+    "Supermarket Franchise India",
+    "Grocery Franchise India",
+    "Buyzaar Mart",
+    "Neighbourhood Grocery Store Tips",
+    "Festive and Wedding Season Retail"
+  ],
+
+  fullContent: {
+    introduction: "Wedding season brings some of the biggest single orders a neighbourhood grocery store will see all year. One family event can need rice, atta, oil, dry fruits, drinks, puja items and return gifts in large quantities, and the buyer wants everything from one trusted place. Stores that plan early, quote fast and deliver on time win these orders. Stores that wait for walk-ins lose them to wholesalers. This guide shows how to prepare, price and serve wedding bulk orders step by step.",
+
+    sections: [
+      {
+        heading: "Why Wedding Season Bulk Orders Matter",
+        content: [
+          { type: "bullets", items: [
+            "One wedding order can equal several days of normal sales, so a few wins change the whole month.",
+            "Bulk buyers plan ahead, which gives you predictable demand and time to arrange stock.",
+            "A good first order often brings repeat business from the same family, caterer or decorator.",
+            "Wedding buyers talk to relatives and neighbours, so word of mouth spreads quickly.",
+            "Large orders can move slow stock and improve cash flow when handled with care."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Know Who Places Wedding Bulk Orders",
+        content: [
+          { type: "bullets", items: [
+            "They need full kitchen lists for the home, visiting relatives and pre-wedding functions.",
+            "They value one bill, one delivery and a store they already trust.",
+            "They buy staples, oil, sugar, ghee, spices and dry fruits in large quantities, often in several rounds.",
+            "They care most about price per kg, steady supply and quick top-up delivery.",
+            "They need puja items, candles, diyas, disposables, cleaning supplies and packaged water.",
+            "They often order late and urgently, which suits stores that keep ready stock.",
+            "They look for return gifts, dry fruit boxes and sweet packs for guests and relatives."
+          ]}
+        ]
+      },
+
+      {
+        heading: "What Wedding Customers Usually Buy",
+        content: [
+          { type: "bullets", items: [
+            "Atta, rice, pulses, sugar, salt, cooking oil, ghee and everyday spices.",
+            "Almonds, cashews, raisins, dates, cardamom, saffron and jaggery.",
+            "See our guide on dry fruits and spices for margin and storage tips.",
+            "Tea, coffee, juices, soft drinks, packaged water, biscuits, namkeen and snacks.",
+            "Roli, kalawa, camphor, incense, diyas, cotton wicks and matchboxes.",
+            "Plates, cups, napkins, tissues, garbage bags, detergents and floor cleaners.",
+            "Dry fruit boxes, chocolates and ready hampers.",
+            "Our Diwali gift hamper guide shows how to price and pack them."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How to Win the Order",
+        content: [
+          { type: "bullets", items: [
+            "Put a “Wedding & Bulk Orders” board at the counter with a WhatsApp number.",
+            "Keep an editable wedding grocery list for small, medium and large guest counts.",
+            "Train staff to note the event date, guest count, delivery address and budget at the first conversation.",
+            "Reply within a few hours, because slow quotes go to the next shop.",
+            "Give an itemised quote with brand, pack size, rate and total.",
+            "Mention how long the quote is valid, since oil, ghee and dry fruit rates can change.",
+            "Set clear slabs, such as better rates above a fixed bill value.",
+            "Suggest larger packs for staples, as they cost less per kg.",
+            "Give real value on a few key items instead of deep discounts on everything.",
+            "Confirm the delivery date and time slot in writing.",
+            "Split deliveries for multi-day events, such as mehndi, sangeet and wedding day.",
+            "Pack by category and label each carton, so the cook or host finds items fast.",
+            "Allow return or exchange of unopened, sealed packs with a clear policy.",
+            "Accept UPI, cards and cash, and take a part-advance on large orders."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Plan Stock and Cash Before the Season",
+        content: [
+          { type: "bullets", items: [
+            "Check last year’s sales for wedding months and note which items ran out.",
+            "Talk to suppliers early about delivery time and credit terms for peak weeks.",
+            "Keep strong stock of fast movers, and order slow or seasonal items only against confirmed bookings.",
+            "Keep a cash reserve for wages and rent, so stock does not lock all your money.",
+            "Our festive season cash flow guide explains how.",
+            "Count stock weekly during peak weeks and reorder from sales data, not guesswork."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Price Bulk Orders Without Losing Margin",
+        content: [
+          { type: "bullets", items: [
+            "Know your full cost, including packaging, delivery and payment charges.",
+            "Set a minimum margin for the whole order, not only for each item.",
+            "Offer discounts for volume, not just because a customer asks.",
+            "Pair slow-moving items with popular ones at a fair bundle price.",
+            "Never include items close to expiry."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Find Wedding Customers Before Someone Else Does",
+        content: [
+          { type: "bullets", items: [
+            "Meet local caterers, halwais, decorators and tent houses, and offer a trade rate with quick delivery.",
+            "Share your price list on WhatsApp groups, status updates and nearby housing societies.",
+            "Ask happy customers for referrals and offer a small thank-you on their next purchase.",
+            "Display sample return gifts or hampers near the billing counter.",
+            "Keep your Google Business Profile updated with phone number and timings, so people searching for a grocery store nearby can reach you."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Accepting a big order without checking stock and supplier lead time.",
+            "Quoting verbally and arguing about rates on delivery day.",
+            "Giving heavy discounts that leave no profit after delivery cost.",
+            "Delivering late or mixing up items.",
+            "Ignoring regular walk-in customers while handling one large order."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Bulk Orders",
+        content: [
+          { type: "bullets", items: [
+            "POS billing and inventory software help owners see which items sell fast, so bulk stock follows real demand.",
+            "Centralised procurement and FMCG brand partnerships, as described by the company, support dependable stock of staples and packaged items.",
+            "Staff training helps teams handle quotes, packing and billing smoothly.",
+            "Mini Mart, Super Mart and Hyper Mart formats let owners match store size to local demand."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "Wedding bulk orders go to stores that are prepared, quick and reliable.",
+            "Start small: list your top caterers, create one WhatsApp price list and fix three pricing slabs.",
+            "Review what sold and what stayed unsold after the season, and save the notes for next year.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "When should a grocery store start preparing for wedding season?",
+      answer: "At least four weeks before the first major wedding dates, so there is time for supplier talks, stock planning and customer outreach."
+    },
+    {
+      question: "How should a store price wedding bulk orders?",
+      answer: "Add all costs, set a minimum margin for the whole order and offer clear volume slabs instead of random discounts."
+    },
+    {
+      question: "Is home delivery necessary to win bulk orders?",
+      answer: "It helps a lot. Most wedding buyers want a fixed delivery slot and organised cartons, so delivery often decides who gets the order."
+    },
+    {
+      question: "Which items sell most during wedding season?",
+      answer: "Staples, oil, ghee, dry fruits, drinks, puja items, disposables and gift packs."
+    },
+    {
+      question: "Can a small grocery store handle wedding bulk orders?",
+      answer: "Yes. Start with a few regular customers and caterers, use supplier top-ups for large items, and grow as you gain confidence."
+    }
+  ],
+
+  metaTags: {
+    title: "Wedding Season Bulk Orders for Grocery Stores | Buyzaar Mart",
+    description: "Learn how grocery stores can win wedding season bulk orders with smart stock planning, tiered pricing, quick quotes, delivery and caterer partnerships.",
+    keywords: "wedding season bulk orders, grocery store bulk orders, bulk grocery orders for weddings, wedding season grocery store tips, how to get wedding bulk orders, wedding catering grocery supply, grocery store wedding season, bulk order pricing grocery store, wedding grocery list, caterer grocery supply, wholesale grocery orders for weddings, wedding season stock planning, kirana store wedding orders, grocery store sales growth, increase basket size grocery, bulk order delivery grocery, wedding gift hampers grocery, dry fruits bulk order wedding, grocery store marketing wedding season, supermarket franchise India, grocery franchise India, Buyzaar Mart, neighbourhood grocery store tips, festive and wedding season retail",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/wedding-season-bulk-orders-how-grocery-stores-can-win-them"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/wedding-season-bulk-orders-how-grocery-stores-can-win-them",
+      title: "Wedding Season Bulk Orders for Grocery Stores | Buyzaar Mart",
+      description: "Learn how grocery stores can win wedding season bulk orders with smart stock planning, tiered pricing, quick quotes, delivery and caterer partnerships.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793874733/wedding-season-bulk-orders-how-grocery-stores-can-win-them_vfprvw.jpg", width: 1200, height: 630, alt: "Wedding Season Bulk Orders for Grocery Stores | Buyzaar Mart" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Wedding Season Bulk Orders for Grocery Stores | Buyzaar Mart",
+      description: "Win wedding season bulk orders with stock planning, tiered pricing, quick quotes, delivery and caterer partnerships.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793874733/wedding-season-bulk-orders-how-grocery-stores-can-win-them_vfprvw.jpg"]
     },
     icons: { icon: "/favicon-v2.ico" }
   }

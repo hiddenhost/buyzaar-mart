@@ -28109,6 +28109,260 @@ export const blogs = [
     },
     icons: { icon: "/favicon-v2.ico" }
   }
+}),
+
+({
+  id: 110,
+  slug: "winter-products-grocery-stores-dry-fruits-gajak-til",
+  title: "Winter Products for Grocery Stores: Dry Fruits, Gajak & Til",
+  subtitle: "Stock the right winter products in your grocery store. Learn how to buy, store and display dry fruits, gajak, til and jaggery sweets for Lohri and Sankranti.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-11-06",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793947185/winter-products-grocery-stores-dry-fruits-gajak-til_ttgolk.jpg", // Add Cloudinary image URL here
+  content: "Stock the right winter products in your grocery store. Learn how to buy, store and display dry fruits, gajak, til and jaggery sweets for Lohri and Sankranti.",
+  tags: [
+    "Winter Products for Grocery Stores",
+    "Dry Fruits Gajak and Til",
+    "Winter Grocery Products List",
+    "Gajak for Grocery Store",
+    "Til Sesame Products Grocery",
+    "Sesame Sweets Til Laddoo",
+    "Til Chikki and Revdi",
+    "Jaggery Products Winter",
+    "Dry Fruits Winter Demand",
+    "Winter Sweets Grocery Store",
+    "Lohri Grocery Items",
+    "Makar Sankranti Grocery Items",
+    "Makar Sankranti Til Gud",
+    "Winter Festival Stocking Grocery Store",
+    "Winter Season Planning Grocery Store",
+    "Gift Packs Dry Fruits and Sweets",
+    "How to Store Gajak and Jaggery",
+    "Seasonal Stocking Grocery Store",
+    "Grocery Store Inventory Management",
+    "Increase Basket Size Grocery",
+    "Neighbourhood Grocery Store Tips",
+    "Supermarket Franchise in India",
+    "Grocery Franchise in India",
+    "Buyzaar Mart Franchise",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "When the first cold days arrive, shoppers change what they buy. Warm, energy-rich foods such as dry fruits, gajak, sesame and jaggery sweets move from the back shelf to the front of the shopping list. These products sell for daily eating, for gifting and for festivals like Lohri and Makar Sankranti. This guide explains which winter products to stock, how to price and store them, and how to display them so they sell well from November to January.",
+
+    sections: [
+      {
+        heading: "Why Winter Products Matter for Grocery Stores",
+        content: [
+          { type: "bullets", items: [
+            "Families look for warming, filling snacks and traditional winter foods as temperatures drop.",
+            "Stores that stock them early capture the first wave of buying.",
+            "Dry fruit boxes, sweet packs and sesame treats are popular gifts around Lohri, Makar Sankranti and the New Year.",
+            "One category serves both home use and gifting.",
+            "These items sit well beside tea, ghee, honey and flour, so they raise the bill without extra effort.",
+            "They also give customers a reason to visit more often."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Key Winter Festival Dates",
+        content: [
+          { type: "bullets", items: [
+            "In 2027, Lohri falls on about 14 January and Makar Sankranti on about 15 January, according to one calendar source.",
+            "Dates can differ by region and panchang, so confirm them locally.",
+            "Winter buying starts weeks earlier, with a clear peak in the five to seven days before the festival.",
+            "See our guide on winter season category planning for the wider seasonal plan."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Dry Fruits: The Winter Anchor",
+        content: [
+          { type: "bullets", items: [
+            "Almonds, cashews, walnuts, raisins, dates, figs, pistachios and mixed packs lead winter demand.",
+            "Offer small, medium and family packs so every budget is covered.",
+            "Pre-packed boxes and mixed assortments suit festive gifting and corporate orders.",
+            "Keep a few clean, sealed options at the entrance during the festival weeks.",
+            "Our guide on dry fruits and spices covers margins, storage and loose versus packaged sales in detail."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Gajak: The Classic Winter Sweet",
+        content: [
+          { type: "bullets", items: [
+            "Gajak is a crisp sweet made from sesame and jaggery or sugar, and many shoppers prefer well-known local makers.",
+            "Freshness, crunch and clean packing matter more than fancy boxes.",
+            "Plain sesame gajak, dry fruit gajak, peanut-based varieties and soft or layered forms suit different tastes.",
+            "Start with two or three bestselling types, then add more if they sell.",
+            "Offer small trial packs, mid-sized boxes and gift boxes.",
+            "Price per pack should be easy to compare, and labels should show weight, ingredients and expiry date."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Til (Sesame) Products",
+        content: [
+          { type: "bullets", items: [
+            "White sesame is bought for cooking and sweets, while black sesame is also used in puja and traditional recipes.",
+            "Stock both in clean, sealed packs.",
+            "Til laddoo, til chikki, revdi and til-jaggery sweets sell strongly before Makar Sankranti.",
+            "Keep them in sealed packs, and check batch dates at every delivery.",
+            "Sesame oil sees steady winter use for cooking and massage in many households.",
+            "Offer small and medium bottles from trusted brands."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Jaggery, Peanuts and Other Winter Staples",
+        content: [
+          { type: "bullets", items: [
+            "Gud blocks, powdered jaggery, jaggery sweets and chikki gain demand because many families see them as warming foods.",
+            "Store them dry, since jaggery absorbs moisture quickly.",
+            "Roasted peanuts, chikki, roasted chana and makhana are affordable winter snacks.",
+            "They suit impulse buying near the billing counter.",
+            "Honey, ghee, ginger, turmeric and dry ginger powder see steady winter demand.",
+            "Group them in a “winter kitchen” section for easy shopping."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How Much to Stock and When",
+        content: [
+          { type: "bullets", items: [
+            "Use POS sales for the same weeks last year, and adjust for local demand.",
+            "Note which items sold out before the festival ended.",
+            "Place a base order early, and keep part of the budget for top-ups close to the festival.",
+            "Order perishable sweets in smaller lots, closer to the dates.",
+            "Demand spikes sharply in the final days before Lohri and Makar Sankranti.",
+            "Keep spare stock of fast movers and extra staff at billing.",
+            "Gajak and sesame sweets have a limited shelf life, so unsold stock loses value quickly.",
+            "Keep first orders lean and reorder from daily sales."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Storage, Freshness and Food Safety",
+        content: [
+          { type: "bullets", items: [
+            "Store gajak, sesame sweets, jaggery and dry fruits in cool, dry, airtight spaces.",
+            "Moisture softens sweets and causes mould or stickiness.",
+            "Sell older stock first, and check expiry and batch details on every delivery.",
+            "Remove stale or damaged packs at once.",
+            "Keep loose items covered, and use clean scoops and gloves for any loose sales.",
+            "Buy from suppliers who follow FSSAI norms."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Display and Merchandising",
+        content: [
+          { type: "bullets", items: [
+            "Group dry fruits, gajak, til sweets, jaggery, honey and ghee in one bright, clearly signed section.",
+            "A single corner saves shoppers time and lifts basket size.",
+            "Create a Sankranti pack with til laddoo, gajak and a small dry fruit pack, or a winter wellness pack with honey and dry fruits.",
+            "Price combos fairly, and list contents clearly.",
+            "Small packs of chikki, revdi and roasted peanuts sell well at the counter.",
+            "Keep them fresh and well wrapped."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Starting too late and missing the first cold-week demand.",
+            "Over-ordering gajak and sweets that cannot wait.",
+            "Storing jaggery and sweets in damp corners.",
+            "Ignoring labels, batch numbers and expiry dates.",
+            "Leaving winter items scattered across the store."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Winter Stocking",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning help owners set up clear seasonal sections.",
+            "POS billing and CRM show which items sell fast, so ordering follows real demand.",
+            "Partnerships with leading FMCG brands and buy-back support on expired or damaged stock help reduce seasonal risk.",
+            "Training and operational support help teams follow storage, hygiene and service routines.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "Dry fruits, gajak, til and jaggery products give grocery stores a strong winter category with festive upside.",
+            "Stock early, store carefully, display clearly and review your POS data after Makar Sankranti.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Which winter products sell most in grocery stores?",
+      answer: "Dry fruits, gajak, sesame sweets, jaggery, peanuts, honey, ghee and warming spices sell the most."
+    },
+    {
+      question: "When should a store start stocking gajak and til?",
+      answer: "Plan from last year’s data, and place a base order a few weeks before Lohri and Makar Sankranti."
+    },
+    {
+      question: "How long can gajak and sesame sweets be stored?",
+      answer: "Shelf life varies by maker and type, so follow the printed expiry date and keep them cool, dry and sealed."
+    },
+    {
+      question: "Should a store sell loose or packed gajak?",
+      answer: "Packed items are easier to keep fresh and label correctly, while loose sales need strict hygiene and fast turnover."
+    },
+    {
+      question: "How can a store avoid unsold winter sweets?",
+      answer: "Order small first lots, reorder from daily sales and clear leftovers with sensible offers after the festival."
+    }
+  ],
+
+  metaTags: {
+    title: "Winter Products for Grocery Stores: Dry Fruits, Gajak & Til",
+    description: "Stock the right winter products in your grocery store. Learn how to buy, store and display dry fruits, gajak, til and jaggery sweets for Lohri and Sankranti.",
+    keywords: "winter products for grocery stores, dry fruits gajak and til, winter grocery products list, gajak for grocery store, til sesame products grocery, sesame sweets til laddoo, til chikki and revdi, jaggery products winter, dry fruits winter demand, winter sweets grocery store, Lohri grocery items, Makar Sankranti grocery items, Makar Sankranti til gud, winter festival stocking grocery store, winter season planning grocery store, gift packs dry fruits and sweets, how to store gajak and jaggery, seasonal stocking grocery store, grocery store inventory management, increase basket size grocery, neighbourhood grocery store tips, supermarket franchise in India, grocery franchise in India, Buyzaar Mart franchise, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/winter-products-grocery-stores-dry-fruits-gajak-til"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/winter-products-grocery-stores-dry-fruits-gajak-til",
+      title: "Winter Products for Grocery Stores: Dry Fruits, Gajak & Til",
+      description: "Stock the right winter products in your grocery store. Learn how to buy, store and display dry fruits, gajak, til and jaggery sweets for Lohri and Sankranti.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793947185/winter-products-grocery-stores-dry-fruits-gajak-til_ttgolk.jpg", width: 1200, height: 630, alt: "Winter Products for Grocery Stores: Dry Fruits, Gajak & Til" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Winter Products for Grocery Stores: Dry Fruits, Gajak & Til",
+      description: "Buy, store and display dry fruits, gajak, til and jaggery sweets for winter and festival sales in grocery stores.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1793947185/winter-products-grocery-stores-dry-fruits-gajak-til_ttgolk.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
 })
 
 ]

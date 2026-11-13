@@ -135,23 +135,22 @@ const Navbar = () => {
           isScrolled ? "bg-white/95 backdrop-blur-sm shadow-lg" : "bg-white shadow-md"
         }`}
       >
-        <nav className="max-w-9xl mx-auto px-4 sm:px-6 py-0">
+        <nav className="max-w-7xl mx-auto px-4 sm:px-6 py-0">
           {/* Desktop Layout */}
-          <div className="hidden lg:flex relative items-center h-18">
-            {/* Absolutely Centered Logo */}
-            <div className="absolute left-1/2 transform -translate-x-1/2 flex items-center justify-center z-10">
+          <div className="hidden lg:flex items-center justify-between h-20">
+            {/* Left-Aligned Logo */}
+            <div className="flex items-center shrink-0">
               <Link href="/" className="flex items-center">
                 <img
                   src="/images/buyzaar-logo.png"
                   alt="The Buyzaar Mart"
-                  className={`w-auto transition-all duration-300 ${isScrolled ? "h-50" : "h-50"}`}
+                  className={`w-auto transition-all duration-300 ${isScrolled ? "h-45" : "h-45"}`}
                 />
               </Link>
             </div>
 
             {/* Right Navigation */}
-            <div className="flex flex-1 justify-end">
-              <div className="flex items-center space-x-7">
+            <div className="flex items-center space-x-6 xl:space-x-7">
                 <Link
                   href="/"
                   className={`text-sm font-medium transition-colors duration-300 ${
@@ -294,8 +293,17 @@ const Navbar = () => {
                 >
                   Contact
                 </Link>
+                <Link
+                  href="/join-our-team/register"
+                  className={`px-4 py-1.5 rounded-md text-sm font-semibold border transition-all duration-300 whitespace-nowrap ${
+                    isActiveLink("/join-our-team")
+                      ? "bg-[#8f0000] border-[#8f0000] text-white"
+                      : "bg-white border-[#b00000] text-[#b00000] hover:bg-[#b00000] hover:text-white"
+                  }`}
+                >
+                  Join Our Team
+                </Link>
               </div>
-            </div>
           </div>
 
           {/* Mobile Layout */}
@@ -396,6 +404,7 @@ const Navbar = () => {
             <Link href="/franchise" onClick={closeMobileMenu} className={`block px-3 py-2.5 rounded-md text-sm transition-colors duration-300 font-medium ${isActiveLink("/franchise") ? "text-black bg-gray-100" : "text-gray-600 hover:text-black hover:bg-gray-50"}`}>Franchise</Link>
             <Link href="/blog" onClick={closeMobileMenu} className={`block px-3 py-2.5 rounded-md text-sm transition-colors duration-300 font-medium ${isActiveLink("/blog") ? "text-black bg-gray-100" : "text-gray-600 hover:text-black hover:bg-gray-50"}`}>Blog</Link>
             <Link href="/contact" onClick={closeMobileMenu} className={`block px-3 py-2.5 rounded-md text-sm transition-all duration-300 font-medium text-center ${isActiveLink("/contact") ? "bg-[#b00000] text-white" : "bg-[#b00000] text-white hover:bg-[#8f0000]"}`}>Contact</Link>
+            <Link href="/join-our-team/register" onClick={closeMobileMenu} className={`block px-3 py-2.5 rounded-md text-sm transition-all duration-300 font-semibold text-center border ${isActiveLink("/join-our-team") ? "bg-[#8f0000] border-[#8f0000] text-white" : "border-[#b00000] text-[#b00000] hover:bg-[#b00000] hover:text-white"}`}>Join Our Team</Link>
 
           </div>
         </div>

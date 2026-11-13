@@ -1,0 +1,25 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Applicant {
+  id          String   @id @default(cuid())
+  name        String   @db.VarChar(120)
+  email       String   @unique @db.VarChar(254)
+  location    String   @db.VarChar(80)
+  designation String   @db.VarChar(100)
+  passwordHash String  @db.VarChar(255)
+  cvUrl       String   @db.VarChar(2048)
+  cvPublicId  String   @db.VarChar(255)
+  cvFileName  String   @db.VarChar(255)
+  cvFileSize  Int
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("applicants")
+}

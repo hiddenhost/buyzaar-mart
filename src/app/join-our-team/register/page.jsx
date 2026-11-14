@@ -124,33 +124,20 @@ export default function ApplicantRegistrationPage() {
     setProgress(30);
 
     try {
-      // Direct FormSubmit.co submission with file attachment (100% Free file uploads)
+      // Direct in-house Nodemailer API with authentic CV file attachment (100% Free & Unlimited)
       const formData = new FormData();
-      formData.append(
-        "_subject",
-        `New Job Application: ${designation} - ${location} (${nameVal})`
-      );
-      formData.append("_template", "table");
-      formData.append("_captcha", "false");
-      formData.append("Applicant Name", nameVal);
-      formData.append("Contact Number", phoneVal);
-      formData.append("Email Address", emailVal);
-      formData.append("Applied Location", location);
-      formData.append("Applied Role", designation);
-      formData.append("Staff Requirement", `${requiredStaff} Open Position(s)`);
-      formData.append("Submission Time", submittedAt);
-      // Attach the CV file directly (FormSubmit supports free file attachments up to 10MB)
-      formData.append("attachment", file, file.name);
+      formData.append("name", nameVal);
+      formData.append("email", emailVal);
+      formData.append("phone", phoneVal);
+      formData.append("location", location);
+      formData.append("designation", designation);
+      formData.append("requiredStaff", String(requiredStaff));
+      formData.append("cv", file, file.name);
 
       setProgress(60);
 
-      // Submit to main endpoint https://formsubmit.co/chandansaini480@gmail.com
-      // (The /ajax/ endpoint only accepts JSON and strips attachments; the main endpoint with Accept: application/json handles attachments properly)
-      const emailResponse = await fetch("https://formsubmit.co/chandansaini480@gmail.com", {
+      const emailResponse = await fetch("/api/applicants/submit-application", {
         method: "POST",
-        headers: {
-          Accept: "application/json",
-        },
         body: formData,
       });
 
@@ -158,7 +145,7 @@ export default function ApplicantRegistrationPage() {
 
       setProgress(100);
 
-      if (emailResponse.ok && (emailResult.success === "true" || emailResult.success === true || emailResult.message || emailResult.ok)) {
+      if (emailResponse.ok && emailResult.success) {
         setSuccess(
           "Your application and CV have been successfully submitted! Our HR team will review your application and contact you shortly."
         );
@@ -170,7 +157,7 @@ export default function ApplicantRegistrationPage() {
         if (fileInput.current) fileInput.current.value = "";
       } else {
         throw new Error(
-          emailResult.message || "Could not submit application. Please try again."
+          emailResult.error || "Could not submit application. Please try again."
         );
       }
     } catch (err) {

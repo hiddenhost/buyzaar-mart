@@ -93,30 +93,28 @@ const MainBanner = () => {
               className="min-w-full h-full relative flex-shrink-0"
             >
               {/* Mobile Layout */}
-              <div className="block md:hidden relative w-full h-full mt-8">
+              <div className="block md:hidden relative w-full h-full">
                 <Image
                   src={slide.image}
                   alt={slide.alt}
                   fill
                   priority={index === 0}
                   sizes="100vw"
-                  className={`object-contain transition-transform duration-[4000ms] ease-in-out 
-                    ${slide.id === 4 ? "scale-90" : "scale-100"}`}
+                  className="object-cover"
                   style={{ objectPosition: "center center" }}
                 />
               </div>
 
-              {/* Desktop Layout - Full Width with padding */}
-              <div className="hidden md:block relative w-full h-full px-4 py-6">
+              {/* Desktop Layout - 100% Full Width */}
+              <div className="hidden md:block relative w-full h-full">
                 <Image
                   src={slide.image}
                   alt={slide.alt}
                   fill
                   priority={index === 0}
                   sizes="100vw"
-                  className={`object-contain transition-transform duration-[4000ms] ease-in-out 
-                    ${slide.id === 4 ? "scale-90" : "scale-100"}`}
-                  style={{ objectPosition: "center bottom" }}
+                  className="object-cover"
+                  style={{ objectPosition: "center center" }}
                 />
               </div>
             </div>

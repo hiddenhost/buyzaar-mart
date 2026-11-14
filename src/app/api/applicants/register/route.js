@@ -6,12 +6,15 @@ import { validApplicantJob, getRequiredStaffCount } from "@/lib/applicant-jobs";
 export const runtime = "nodejs";
 export const maxDuration = 60;
 const MAX_CV_SIZE = 2 * 1024 * 1024; // 2 MB
-const EXTENSIONS = new Set(["pdf", "doc", "docx"]);
+const EXTENSIONS = new Set(["pdf", "doc", "docx", "jpg", "jpeg", "png"]);
 
 function validFileSignature(extension, bytes) {
   if (extension === "pdf") return bytes.subarray(0, 5).toString("ascii") === "%PDF-";
   if (extension === "doc") return bytes.subarray(0, 8).equals(Buffer.from([0xd0, 0xcf, 0x11, 0xe0, 0xa1, 0xb1, 0x1a, 0xe1]));
-  return extension === "docx" && bytes.subarray(0, 2).toString("ascii") === "PK";
+  if (extension === "docx") return bytes.subarray(0, 2).toString("ascii") === "PK";
+  if (extension === "jpg" || extension === "jpeg") return bytes.length >= 3 && bytes[0] === 0xff && bytes[1] === 0xd8 && bytes[2] === 0xff;
+  if (extension === "png") return bytes.length >= 8 && bytes.subarray(0, 8).equals(Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]));
+  return false;
 }
 
 function uploadToCloudinary(buffer, publicId, extension) {
@@ -50,6 +53,9 @@ export async function POST(request) {
     if (email.length > 254 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       return NextResponse.json({ error: "Enter a valid email address." }, { status: 400 });
     }
+    if (!/^[6-9]\d{9}$/.test(phone)) {
+      return NextResponse.json({ error: "Enter a valid 10-digit mobile number." }, { status: 400 });
+    }
     if (!validApplicantJob(location, designation)) {
       return NextResponse.json({ error: "Select a valid location and designation." }, { status: 400 });
     }
@@ -63,12 +69,12 @@ export async function POST(request) {
     const originalFileName = file.name.replace(/[\\/\r\n]/g, "_").slice(0, 255);
     const extension = originalFileName.split(".").pop()?.toLowerCase();
     if (!EXTENSIONS.has(extension)) {
-      return NextResponse.json({ error: "Upload a PDF, DOC or DOCX file." }, { status: 400 });
+      return NextResponse.json({ error: "Upload a PDF, DOC, DOCX, JPG, or PNG file." }, { status: 400 });
     }
 
     const buffer = Buffer.from(await file.arrayBuffer());
     if (!validFileSignature(extension, buffer)) {
-      return NextResponse.json({ error: "The file content does not match a valid PDF, DOC or DOCX document." }, { status: 400 });
+      return NextResponse.json({ error: "The file content does not match a valid document or image file." }, { status: 400 });
     }
 
     // 1. Upload CV to Cloudinary to generate a direct download URL

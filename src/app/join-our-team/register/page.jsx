@@ -42,6 +42,7 @@ function Field({ label, hint, children }) {
 export default function ApplicantRegistrationPage() {
   const [location, setLocation] = useState("");
   const [designation, setDesignation] = useState("");
+  const [phone, setPhone] = useState("");
   const [file, setFile] = useState(null);
   const [progress, setProgress] = useState(0);
   const [loading, setLoading] = useState(false);
@@ -58,8 +59,8 @@ export default function ApplicantRegistrationPage() {
     location && designation
       ? getRequiredStaffCount(location, designation)
       : designation
-      ? getTotalRequiredCountForDesignation(designation)
-      : null;
+        ? getTotalRequiredCountForDesignation(designation)
+        : null;
 
   function handleFile(selected) {
     setError("");
@@ -68,10 +69,10 @@ export default function ApplicantRegistrationPage() {
       setFile(null);
       return;
     }
-    if (!/\.(pdf|doc|docx)$/i.test(selected.name)) {
+    if (!/\.(pdf|doc|docx|jpg|jpeg|png)$/i.test(selected.name)) {
       setFile(null);
       if (fileInput.current) fileInput.current.value = "";
-      setError("Choose a PDF, DOC or DOCX file.");
+      setError("Choose a PDF, DOC, DOCX, JPG, or PNG file.");
       return;
     }
     if (selected.size > 2 * 1024 * 1024) {
@@ -95,6 +96,21 @@ export default function ApplicantRegistrationPage() {
     }
     if (!validApplicantJob(location, designation)) {
       setError("Select a valid location and designation.");
+      return;
+    }
+
+    if (!/^[6-9]\d{9}$/.test(phone)) {
+      setError("Please enter a valid 10-digit mobile number starting with 6, 7, 8, or 9.");
+      return;
+    }
+
+    const passwordVal = form.password.value;
+    if (passwordVal.length < 8) {
+      setError("Password must be at least 8 characters long.");
+      return;
+    }
+    if (!/(?=.*[a-z])(?=.*[A-Z])(?=.*\d)/.test(passwordVal)) {
+      setError("Password must contain at least one uppercase letter, one lowercase letter, and one number.");
       return;
     }
 
@@ -165,6 +181,7 @@ export default function ApplicantRegistrationPage() {
         form.reset();
         setLocation("");
         setDesignation("");
+        setPhone("");
         setFile(null);
         if (fileInput.current) fileInput.current.value = "";
       } else {
@@ -175,12 +192,13 @@ export default function ApplicantRegistrationPage() {
         form.reset();
         setLocation("");
         setDesignation("");
+        setPhone("");
         setFile(null);
       }
     } catch (err) {
       setError(
         err.message ||
-          "We could not complete your registration. Please check your internet connection and try again."
+        "We could not complete your registration. Please check your internet connection and try again."
       );
     } finally {
       setLoading(false);
@@ -214,7 +232,7 @@ export default function ApplicantRegistrationPage() {
                 <p className="flex items-center gap-3">
                   <CheckCircle2 size={18} /> 18 Immediate Staff Openings
                 </p>
-                
+
                 <p className="flex items-center gap-3">
                   <CheckCircle2 size={18} /> Fast CV Screening & Response
                 </p>
@@ -244,7 +262,7 @@ export default function ApplicantRegistrationPage() {
               <h2 className="mt-2 text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl">
                 Join Our Team
               </h2>
-              
+
             </div>
 
             <form className="mt-7 space-y-5" onSubmit={submit}>
@@ -275,28 +293,41 @@ export default function ApplicantRegistrationPage() {
               </div>
 
               <div className="grid gap-5 sm:grid-cols-2">
-                <Field label="Contact Number" hint="10-digit mobile number">
+                <Field label="Contact Number" hint="10-digit mobile number (starts with 6, 7, 8, or 9)">
                   <input
                     className={inputClass}
                     type="tel"
                     name="phone"
+                    value={phone}
+                    onChange={(e) => {
+                      const val = e.target.value.replace(/\D/g, "").slice(0, 10);
+                      setPhone(val);
+                    }}
                     autoComplete="tel"
-                    pattern="[0-9]{10}"
+                    inputMode="numeric"
+                    maxLength={10}
+                    pattern="[6-9][0-9]{9}"
+                    title="Please enter a valid 10-digit Indian mobile number starting with 6, 7, 8, or 9"
                     placeholder="Enter 10-digit mobile number"
                     required
                   />
                 </Field>
 
-                <Field label="Password" hint="Set a secure account/application password">
+                <Field
+                  label="Password"
+                  hint="Min. 8 characters with uppercase, lowercase & number"
+                >
                   <div className="relative">
                     <input
                       className={`${inputClass} pr-12`}
                       type={showPassword ? "text" : "password"}
                       name="password"
                       autoComplete="new-password"
-                      minLength={6}
+                      minLength={8}
                       maxLength={72}
-                      placeholder="Enter your password"
+                      pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+                      title="Must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, and one number"
+                      placeholder="Enter a strong password"
                       required
                     />
                     <button
@@ -392,9 +423,7 @@ export default function ApplicantRegistrationPage() {
                         Staffing Requirement: {requiredCount}{" "}
                         {requiredCount === 1 ? "Employee" : "Employees"}
                       </p>
-                      <p className="mt-0.5 text-xs text-gray-500">
-                        This requirement count is automatic and strictly read-only.
-                      </p>
+
                     </div>
                   </div>
                 </div>
@@ -402,14 +431,14 @@ export default function ApplicantRegistrationPage() {
 
               <Field
                 label="Upload your CV"
-                hint="PDF, DOC or DOCX · Maximum size 1 MB"
+                hint="PDF, DOC, DOCX, JPG, or PNG · Maximum size 2 MB"
               >
                 <input
                   ref={fileInput}
                   className="sr-only"
                   id="cv-upload"
                   type="file"
-                  accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                  accept=".pdf,.doc,.docx,.jpg,.jpeg,.png,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,image/jpeg,image/png"
                   onChange={(event) => handleFile(event.target.files?.[0])}
                 />
                 <label

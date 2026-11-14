@@ -114,61 +114,44 @@ export default function ApplicantRegistrationPage() {
       return;
     }
 
-    const payload = new FormData();
-    payload.set("name", form.name.value);
-    payload.set("email", form.email.value);
-    payload.set("phone", form.phone.value);
-    payload.set("location", location);
-    payload.set("designation", designation);
-    payload.set("cv", file);
+    const nameVal = form.name.value.trim();
+    const emailVal = form.email.value.trim().toLowerCase();
+    const phoneVal = phone.trim();
+    const requiredStaff = getRequiredStaffCount(location, designation) || 1;
+    const submittedAt = new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
 
     setLoading(true);
-    setProgress(20);
+    setProgress(30);
 
     try {
-      // 1. Upload CV to Cloudinary through our API route
-      const uploadResponse = await fetch("/api/applicants/register", {
-        method: "POST",
-        body: payload,
-      });
+      // Direct Web3Forms submission with file attachment (No Cloudinary dependency)
+      const formData = new FormData();
+      formData.append("access_key", WEB3FORMS_ACCESS_KEY);
+      formData.append(
+        "subject",
+        `New Job Application: ${designation} - ${location} (${nameVal})`
+      );
+      formData.append("from_name", "Buyzaar Mart Careers Portal");
+      formData.append("1. Candidate Name", nameVal);
+      formData.append("2. Contact Number", phoneVal);
+      formData.append("3. Email Address", emailVal);
+      formData.append("4. Applied Location", location);
+      formData.append("5. Applied Role", designation);
+      formData.append("6. Staff Requirement", `${requiredStaff} Open Position(s)`);
+      formData.append("7. Attached CV File", file.name);
+      formData.append("8. Submission Time", submittedAt);
+      formData.append(
+        "message",
+        `New job application received:\n\nCandidate: ${nameVal}\nPhone: ${phoneVal}\nEmail: ${emailVal}\nRole: ${designation}\nLocation: ${location}\n\nPlease check the attached CV file.`
+      );
+      // Attach the CV file directly
+      formData.append("attachment", file);
 
-      const uploadResult = await uploadResponse.json();
-
-      if (!uploadResponse.ok || !uploadResult.success) {
-        throw new Error(
-          uploadResult.error || "Failed to process CV upload. Please try again."
-        );
-      }
-
-      setProgress(65);
-
-      const applicantData = uploadResult.applicantData;
-
-      // 2. Send all application details directly via Web3Forms
-      const emailPayload = {
-        access_key: WEB3FORMS_ACCESS_KEY,
-        subject: `New Job Application: ${applicantData.designation} - ${applicantData.location} (${applicantData.name})`,
-        from_name: "Buyzaar Mart Careers Portal",
-        "1. Candidate Name": applicantData.name,
-        "2. Contact Number": applicantData.phone,
-        "3. Email Address": applicantData.email,
-        "4. Applied Location": applicantData.location,
-        "5. Applied Role": applicantData.designation,
-        "6. Staff Requirement": `${applicantData.requiredStaff} Open Position(s)`,
-        "7. Attached CV File": applicantData.cvFileName,
-        "8. Preview CV Online": applicantData.cvUrl,
-        "9. Direct Download CV": applicantData.cvDownloadUrl,
-        "10. Submission Time": applicantData.submittedAt,
-        message: `--- CANDIDATE DETAILS ---\nName: ${applicantData.name}\nPhone: ${applicantData.phone}\nEmail: ${applicantData.email}\nRole: ${applicantData.designation}\nLocation: ${applicantData.location}\n\n--- CV ACTIONS ---\n[1] PREVIEW ONLINE: ${applicantData.cvUrl}\n[2] DIRECT DOWNLOAD: ${applicantData.cvDownloadUrl}`,
-      };
+      setProgress(60);
 
       const emailResponse = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Accept: "application/json",
-        },
-        body: JSON.stringify(emailPayload),
+        body: formData,
       });
 
       const emailResult = await emailResponse.json();
@@ -177,7 +160,7 @@ export default function ApplicantRegistrationPage() {
 
       if (emailResult.success) {
         setSuccess(
-          "Your application has been successfully submitted and forwarded to info@thebuyzaarmart.com! Our team will review your CV and contact you shortly."
+          "Your application and CV have been successfully submitted! Our HR team will review your application and contact you shortly."
         );
         form.reset();
         setLocation("");
@@ -186,15 +169,9 @@ export default function ApplicantRegistrationPage() {
         setFile(null);
         if (fileInput.current) fileInput.current.value = "";
       } else {
-        // Even if web3forms had a notice, CV is already stored
-        setSuccess(
-          "Your application and CV were received successfully! Our team will contact you shortly."
+        throw new Error(
+          emailResult.message || "Could not submit application. Please try again."
         );
-        form.reset();
-        setLocation("");
-        setDesignation("");
-        setPhone("");
-        setFile(null);
       }
     } catch (err) {
       setError(

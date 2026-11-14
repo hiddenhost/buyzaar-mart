@@ -144,7 +144,9 @@ export default function ApplicantRegistrationPage() {
 
       setProgress(60);
 
-      const emailResponse = await fetch("https://formsubmit.co/ajax/chandansaini480@gmail.com", {
+      // Submit to main endpoint https://formsubmit.co/chandansaini480@gmail.com
+      // (The /ajax/ endpoint only accepts JSON and strips attachments; the main endpoint with Accept: application/json handles attachments properly)
+      const emailResponse = await fetch("https://formsubmit.co/chandansaini480@gmail.com", {
         method: "POST",
         headers: {
           Accept: "application/json",
@@ -156,7 +158,7 @@ export default function ApplicantRegistrationPage() {
 
       setProgress(100);
 
-      if (emailResponse.ok && (emailResult.success === "true" || emailResult.success === true || emailResult.message)) {
+      if (emailResponse.ok && (emailResult.success === "true" || emailResult.success === true || emailResult.message || emailResult.ok)) {
         setSuccess(
           "Your application and CV have been successfully submitted! Our HR team will review your application and contact you shortly."
         );
@@ -241,7 +243,7 @@ export default function ApplicantRegistrationPage() {
 
             </div>
 
-            <form className="mt-7 space-y-5" onSubmit={submit}>
+            <form className="mt-7 space-y-5" onSubmit={submit} encType="multipart/form-data">
               <div className="grid gap-5 sm:grid-cols-2">
                 <Field label="Full Name">
                   <input
@@ -413,6 +415,7 @@ export default function ApplicantRegistrationPage() {
                   ref={fileInput}
                   className="sr-only"
                   id="cv-upload"
+                  name="attachment"
                   type="file"
                   accept=".pdf,.doc,.docx,.jpg,.jpeg,.png,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,image/jpeg,image/png"
                   onChange={(event) => handleFile(event.target.files?.[0])}

@@ -124,33 +124,31 @@ export default function ApplicantRegistrationPage() {
     setProgress(30);
 
     try {
-      // Direct Web3Forms submission with file attachment (No Cloudinary dependency)
+      // Direct FormSubmit.co submission with file attachment (100% Free file uploads)
       const formData = new FormData();
-      formData.append("access_key", WEB3FORMS_ACCESS_KEY);
       formData.append(
-        "subject",
+        "_subject",
         `New Job Application: ${designation} - ${location} (${nameVal})`
       );
-      formData.append("from_name", "Buyzaar Mart Careers Portal");
-      formData.append("1. Candidate Name", nameVal);
-      formData.append("2. Contact Number", phoneVal);
-      formData.append("3. Email Address", emailVal);
-      formData.append("4. Applied Location", location);
-      formData.append("5. Applied Role", designation);
-      formData.append("6. Staff Requirement", `${requiredStaff} Open Position(s)`);
-      formData.append("7. Attached CV File", file.name);
-      formData.append("8. Submission Time", submittedAt);
-      formData.append(
-        "message",
-        `New job application received:\n\nCandidate: ${nameVal}\nPhone: ${phoneVal}\nEmail: ${emailVal}\nRole: ${designation}\nLocation: ${location}\n\nPlease check the attached CV file.`
-      );
-      // Attach the CV file directly
-      formData.append("attachment", file);
+      formData.append("_template", "table");
+      formData.append("_captcha", "false");
+      formData.append("Applicant Name", nameVal);
+      formData.append("Contact Number", phoneVal);
+      formData.append("Email Address", emailVal);
+      formData.append("Applied Location", location);
+      formData.append("Applied Role", designation);
+      formData.append("Staff Requirement", `${requiredStaff} Open Position(s)`);
+      formData.append("Submission Time", submittedAt);
+      // Attach the CV file directly (FormSubmit supports free file attachments up to 10MB)
+      formData.append("attachment", file, file.name);
 
       setProgress(60);
 
-      const emailResponse = await fetch("https://api.web3forms.com/submit", {
+      const emailResponse = await fetch("https://formsubmit.co/ajax/chandansaini480@gmail.com", {
         method: "POST",
+        headers: {
+          Accept: "application/json",
+        },
         body: formData,
       });
 
@@ -158,7 +156,7 @@ export default function ApplicantRegistrationPage() {
 
       setProgress(100);
 
-      if (emailResult.success) {
+      if (emailResponse.ok && (emailResult.success === "true" || emailResult.success === true || emailResult.message)) {
         setSuccess(
           "Your application and CV have been successfully submitted! Our HR team will review your application and contact you shortly."
         );

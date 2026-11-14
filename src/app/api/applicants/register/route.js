@@ -80,7 +80,11 @@ export async function POST(request) {
     // 1. Upload CV to Cloudinary to generate a direct download URL
     const publicId = `applicant-${Date.now()}-${randomUUID().slice(0, 8)}`;
     const cloudResult = await uploadToCloudinary(buffer, publicId, extension);
-    const cvDownloadUrl = cloudResult.secure_url;
+    const cvViewUrl = cloudResult.secure_url;
+    // Add fl_attachment flag so clicking triggers immediate file download
+    const cvDownloadUrl = cvViewUrl.includes("/raw/upload/")
+      ? cvViewUrl.replace("/raw/upload/", "/raw/upload/fl_attachment/")
+      : cvViewUrl;
     const requiredStaff = getRequiredStaffCount(location, designation) || 1;
 
     // 2. Return success with payload for client-side Web3Forms submission to info@thebuyzaarmart.com
@@ -95,7 +99,8 @@ export async function POST(request) {
         designation,
         requiredStaff,
         cvFileName: originalFileName,
-        cvUrl: cvDownloadUrl,
+        cvUrl: cvViewUrl,
+        cvDownloadUrl,
         submittedAt: new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" }),
       },
     });

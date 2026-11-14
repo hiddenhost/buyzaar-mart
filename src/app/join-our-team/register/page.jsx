@@ -144,21 +144,22 @@ export default function ApplicantRegistrationPage() {
 
       const applicantData = uploadResult.applicantData;
 
-      // 2. Send all application details directly to info@thebuyzaarmart.com via Web3Forms
+      // 2. Send all application details directly via Web3Forms
       const emailPayload = {
         access_key: WEB3FORMS_ACCESS_KEY,
         subject: `New Job Application: ${applicantData.designation} - ${applicantData.location} (${applicantData.name})`,
         from_name: "Buyzaar Mart Careers Portal",
-        "Applicant Name": applicantData.name,
-        "Email Address": applicantData.email,
-        "Contact Number": applicantData.phone,
-        "Applied Location": applicantData.location,
-        "Applied Role / Designation": applicantData.designation,
-        "Required Staff For This Role": applicantData.requiredStaff,
-        "CV File Name": applicantData.cvFileName,
-        "CV Download Link": applicantData.cvUrl,
-        "Submitted At": applicantData.submittedAt,
-        message: `A new candidate has submitted their application for ${applicantData.designation} at ${applicantData.location}.\n\nCandidate CV Link: ${applicantData.cvUrl}`,
+        "1. Candidate Name": applicantData.name,
+        "2. Contact Number": applicantData.phone,
+        "3. Email Address": applicantData.email,
+        "4. Applied Location": applicantData.location,
+        "5. Applied Role": applicantData.designation,
+        "6. Staff Requirement": `${applicantData.requiredStaff} Open Position(s)`,
+        "7. Attached CV File": applicantData.cvFileName,
+        "8. Preview CV Online": applicantData.cvUrl,
+        "9. Direct Download CV": applicantData.cvDownloadUrl,
+        "10. Submission Time": applicantData.submittedAt,
+        message: `--- CANDIDATE DETAILS ---\nName: ${applicantData.name}\nPhone: ${applicantData.phone}\nEmail: ${applicantData.email}\nRole: ${applicantData.designation}\nLocation: ${applicantData.location}\n\n--- CV ACTIONS ---\n[1] PREVIEW ONLINE: ${applicantData.cvUrl}\n[2] DIRECT DOWNLOAD: ${applicantData.cvDownloadUrl}`,
       };
 
       const emailResponse = await fetch("https://api.web3forms.com/submit", {

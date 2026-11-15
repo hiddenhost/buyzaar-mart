@@ -25,7 +25,7 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
     {
       id: 2,
       title: "DOCUMENTATION:",
-      icon:"https://img.icons8.com/ios/50/10B981/documents.png",
+      icon: "https://img.icons8.com/ios/50/10B981/documents.png",
       description: "Legal formalities made simple!",
       details: [
         "KYC & legal documentation.",
@@ -106,7 +106,7 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
     return () => observer.disconnect();
   }, []);
 
- const getStepColors = (isActive) => {
+  const getStepColors = (isActive) => {
     return {
       bg: isActive ? 'bg-red-800' : 'bg-red-800',
       border: 'border-gray-700',
@@ -130,14 +130,14 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
   };
 
   return (
-    <div className="min-h-screen bg-white overflow-hidden">
+    <div className="bg-white overflow-hidden py-10 md:py-8">
       {/* Hero Section */}
-      <div className="relative z-10 text-center py-20 px-4">
+      <div className="relative z-10 text-center py-8 px-4">
         <div className="inline-flex items-center gap-2 bg-black text-gray-200 px-6 py-2 rounded-full text-sm font-semibold mb-6 animate-bounce">
-         Build a Legacy you can pass on!
+          Build a Legacy you can pass&nbsp;on!
         </div>
-        
-        <h1 className="text-5xl md:text-5xl font-black text-red-700 mb-6 animate-fade-in">
+
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-red-700 mb-6 animate-fade-in">
           HOW TO GET{" "}
           <span style={{ backgroundImage: `linear-gradient(to right, #000000, #000000)`, backgroundClip: 'text', WebkitBackgroundClip: 'text', color: 'transparent' }} className="inline-block">
             STARTED?
@@ -145,23 +145,21 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
         </h1>
 
         {/* Progress Bar */}
-        <div className="max-w-2xl mx-auto mb-16">
+        <div className="max-w-2xl mx-auto mb-12">
           <div className="flex justify-between items-center mb-4">
             {processSteps.map((step, index) => (
               <div key={step.id} className="flex flex-col items-center">
-                <div className={`w-12 h-12 md:w-16 md:h-16 rounded-full flex items-center justify-center transition-all duration-500 ${
-                  index === activeStep 
+                <div className={`w-10 h-10 md:w-14 md:h-14 rounded-full flex items-center justify-center transition-all duration-500 ${index === activeStep
                     ? 'scale-125'
-                    : index < activeStep 
+                    : index < activeStep
                       ? ''
                       : 'bg-gray-200'
-                }`}
-                style={{
-                  backgroundColor: index <= activeStep ? '#000000' : undefined
-                }}>
-                  <span className={`text-sm md:text-base font-bold ${
-                    index <= activeStep ? 'text-white' : 'text-gray-500'
-                  }`}>
+                  }`}
+                  style={{
+                    backgroundColor: index <= activeStep ? '#000000' : undefined
+                  }}>
+                  <span className={`text-sm md:text-base font-bold ${index <= activeStep ? 'text-white' : 'text-gray-500'
+                    }`}>
                     {step.id}
                   </span>
                 </div>
@@ -169,9 +167,9 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
             ))}
           </div>
           <div className="w-full bg-gray-200 h-2 rounded-full overflow-hidden">
-            <div 
+            <div
               className="h-full transition-all duration-1000 ease-out rounded-full"
-              style={{ 
+              style={{
                 width: `${((activeStep + 1) / processSteps.length) * 100}%`,
                 backgroundImage: `linear-gradient(to right, #000000, #000000)`
               }}
@@ -181,40 +179,38 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
       </div>
 
       {/* Process Steps - Centered Grid Layout */}
-      <div className="relative z-10 max-w-6xl mx-auto px-4 pb-20">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 justify-items-center">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 pb-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8 justify-items-center">
           {processSteps.map((step, index) => {
             const IconComponent = step.icon;
             const isActive = index === activeStep;
             const colors = getStepColors(isActive);
             const isVis = isVisible[`step-${index}`];
-            
+
             return (
               <div
                 key={step.id}
                 id={`step-${index}`}
-                className={`relative group transition-all duration-700 transform w-full max-w-sm ${
-                  isVis ? 'translate-y-0 opacity-100' : 'translate-y-20 opacity-0'
-                } ${
-                  isActive ? 'scale-105 z-20' : 'hover:scale-105'
-                }`}
-                style={{ 
+                className={`relative group transition-all duration-700 transform w-full max-w-md ${isVis ? 'translate-y-0 opacity-100' : 'translate-y-20 opacity-0'
+                  } ${isActive ? 'scale-105 z-20' : 'hover:scale-105'
+                  }`}
+                style={{
                   animationDelay: `${index * 200}ms`
                 }}
                 onMouseEnter={() => setActiveStep(index)}
               >
                 {/* Card */}
-                <div 
-                  className={`h-full ${colors.bg} ${colors.border} border-2 rounded-3xl p-6 shadow-xl transition-all duration-500 relative overflow-hidden group-hover:shadow-2xl min-h-[400px] ${(step.hasInquiryPopup || step.hasDocumentationPopup) ? 'cursor-pointer' : ''}`}
+                <div
+                  className={`h-full ${colors.bg} ${colors.border} border-2 rounded-2xl p-6 shadow-xl transition-all duration-500 relative overflow-hidden group-hover:shadow-2xl min-h-[320px] ${(step.hasInquiryPopup || step.hasDocumentationPopup) ? 'cursor-pointer' : ''}`}
                   onClick={() => handleStepClick(step)}
                 >
-                  
+
                   {/* Decorative Elements */}
                   <div className="absolute top-0 right-0 w-20 h-20 bg-white opacity-30 rounded-full -translate-y-10 translate-x-10"></div>
                   <div className="absolute bottom-0 left-0 w-16 h-16 bg-white opacity-30 rounded-full translate-y-8 -translate-x-8"></div>
-                  
+
                   {/* Step Number Badge */}
-                  <div 
+                  <div
                     className={`absolute -top-4 -left-4 w-16 h-16 text-white rounded-full flex items-center justify-center font-black text-2xl shadow-2xl transform transition-all duration-500 ${isActive ? 'scale-125 rotate-12' : 'group-hover:scale-110'} border-4 border-white`}
                     style={{
                       backgroundImage: `linear-gradient(135deg, #000000, #000000)`
@@ -225,9 +221,8 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
 
                   {/* Icon */}
                   <div
-                    className={`w-16 h-16 ${colors.iconBg} rounded-2xl flex items-center justify-center mb-6 transition-all duration-500 ${
-                      isActive ? "animate-bounce" : "group-hover:rotate-12"
-                    }`}
+                    className={`w-16 h-16 ${colors.iconBg} rounded-2xl flex items-center justify-center mb-6 transition-all duration-500 ${isActive ? "animate-bounce" : "group-hover:rotate-12"
+                      }`}
                   >
                     {typeof IconComponent === "string" ? (
                       <img
@@ -244,7 +239,7 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
                   <h3 className={`text-xl font-black mb-3 ${colors.text} transition-colors duration-500 leading-tight`}>
                     {step.title}
                   </h3>
-                  
+
                   <p className={`${colors.text} opacity-90 mb-4 text-sm leading-relaxed transition-colors duration-500`}>
                     {step.description}
                   </p>
@@ -253,7 +248,7 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
                   <div className="space-y-2">
                     {step.details.map((detail, detailIndex) => (
                       <div key={detailIndex} className={`flex items-start gap-3 transition-all duration-500 ${isActive ? 'animate-fade-in' : ''}`} style={{ animationDelay: `${detailIndex * 100}ms` }}>
-                        <div 
+                        <div
                           className={`w-3 h-3 rounded-full mt-1.5 flex-shrink-0 transition-all duration-500 ${isActive ? 'scale-125' : ''}`}
                           style={{ backgroundColor: '#000000' }}
                         ></div>
@@ -283,7 +278,7 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
           <div className="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto shadow-2xl">
             {/* Modal Header */}
             <div className="bg-black text-white p-6  relative">
-              <button 
+              <button
                 onClick={toggleDocumentationPopup}
                 className="absolute top-4 right-4 text-white hover:bg-white hover:bg-opacity-20 rounded-full p-2 transition-all duration-300"
               >
@@ -317,7 +312,7 @@ const Process = ({ openModal }) => {  // Accept openModal as prop
 
             {/* Modal Footer */}
             <div className="bg-gray-50 p-6 rounded-b-3xl">
-              <button 
+              <button
                 onClick={toggleDocumentationPopup}
                 className="w-full bg-black text-white py-3 px-6 rounded-xl font-semibold hover:from-gray-600 hover:to-gray-700 transition-all duration-300 shadow-lg hover:shadow-xl"
               >

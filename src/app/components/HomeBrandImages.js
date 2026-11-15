@@ -15,17 +15,17 @@ const brandImages = [
 ];
 
 const HomeBrandImages = () => (
-  <div className="w-full bg-white py-12 flex flex-col items-center">
+  <div className="w-full bg-white py-10 md:py-8 flex flex-col items-center">
     {/* NEW Heading based on comic */}
-    <h2 className="text-3xl md:text-4xl font-bold text-red-700 mb-4 text-center">
+    <h2 className="text-3xl sm:text-4xl font-bold text-red-700 mb-3 text-center">
       From Chaos to Smart Retail
     </h2>
     {/* NEW Paragraph text */}
-    <p className="text-lg text-gray-800 max-w-2xl text-center mb-10 px-4">
+    <p className="text-sm sm:text-base md:text-lg text-gray-800 max-w-3xl text-center mb-8 px-4 leading-relaxed">
       See how Buyzaar Mart transforms outdated practices into smart choices. Predict what&apos;s in demand, keep your shelves organized, and increase profits by stocking what matters.
     </p>
     {/* Image grid */}
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl w-full px-4">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 max-w-7xl w-full px-4 sm:px-6">
       {brandImages.map((img, idx) => (
         <div key={idx} className="flex flex-col items-center">
           <img

@@ -4,8 +4,8 @@ import nodemailer from "nodemailer";
 export const runtime = "nodejs";
 export const maxDuration = 60;
 
-const GMAIL_USER = process.env.GMAIL_USER || "chandansaini480@gmail.com";
-const GMAIL_PASS = process.env.GMAIL_APP_PASS || "zokfozmmwiiqwnhl";
+const GMAIL_USER = process.env.GMAIL_USER || "info@thebuyzaarmart.com";
+const GMAIL_PASS = process.env.GMAIL_APP_PASS || "zjiccvzkgpmqlhlr";
 
 export async function POST(request) {
   try {

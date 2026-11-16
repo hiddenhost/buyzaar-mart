@@ -322,22 +322,22 @@ const FranchiseApplication = () => {
   };
 
   return (
-    <div id="franchise" className="min-h-screen bg-white">
-      <div className="container mx-auto px-6 lg:px-30 py-8">
+    <div id="franchise" className="bg-white py-10 md:py-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header Badge */}
-        <div className="mb-8">
-          <div className="inline-block bg-black text-white px-6 py-3 rounded-full shadow-lg">
-            <span className="font-bold text-sm flex items-center">
+        <div className="mb-6">
+          <div className="inline-block bg-black text-white px-5 py-2.5 rounded-full shadow-lg">
+            <span className="font-bold text-xs sm:text-sm flex items-center">
               <Leaf className="w-4 h-4 mr-2" />
               India&apos;s leading retail franchise network
             </span>
           </div>
         </div>
-        <div className="grid lg:grid-cols-2 gap-12 items-start">
+        <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-start">
           {/* Left Content */}
-          <div className="space-y-8 animate-fade-in-left">
+          <div className="space-y-6 animate-fade-in-left">
             <div>
-              <h1 className="text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 leading-tight">
                 <span className="text-black">Own Your</span>{" "}
                 <span className="text-black relative">
                   Success
@@ -346,7 +346,7 @@ const FranchiseApplication = () => {
                 <span className="text-[#b00000]">Story with</span>{" "}
                 <span className="text-black font-extrabold">Buyzaar</span>
               </h1>
-              <p className="text-gray-600 text-lg leading-relaxed">
+              <p className="text-gray-600 text-base sm:text-lg leading-relaxed">
                 Join India&apos;s fastest-growing convenience network. With our
                 proven business model, comprehensive support, and innovative
                 technology, we help entrepreneurs build thriving businesses that

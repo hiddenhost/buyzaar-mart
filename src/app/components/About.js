@@ -42,20 +42,20 @@ const About = () => {
       </div> */}
 
       {/* Main Container */}
-      <div className="relative z-10 w-full px-4 py-6 md:px-6 md:py-8 lg:px-8 lg:py-12">
-        <div className="max-w-6xl mx-auto">
+      <div className="relative z-10 w-full px-4 py-8 md:px-6 md:py-8 lg:px-8">
+        <div className="max-w-7xl mx-auto">
           {/* Header Section */}
           <div
             ref={headerRef}
-            className="text-center mb-8 md:mb-16 opacity-0 transform translate-y-8 header-animation"
+            className="text-center mb-8 md:mb-12 opacity-0 transform translate-y-8 header-animation"
           >
-            <h1 className="text-2xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-transparent bg-clip-text bg-black mb-4 leading-tight">
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-black mb-3 leading-tight">
               ABOUT &quot;THE BUYZAAR MART&quot;
             </h1>
-            <div className="w-16 md:w-24 lg:w-32 h-1 bg-[#b00000] rounded-full mx-auto mb-6"></div>
+            <div className="w-16 md:w-20 h-1 bg-[#b00000] rounded-full mx-auto mb-4"></div>
 
             <div className="space-y-4 max-w-4xl mx-auto">
-              <p className="text-sm md:text-lg lg:text-xl text-gray-700 leading-relaxed px-2">
+              <p className="text-sm sm:text-base md:text-lg text-gray-700 leading-relaxed px-2">
                 Buyzaar Mart is committed to providing transparent, high-quality
                 retail solutions that simplify everyday shopping while building
                 trust through clear communication and consistent service
@@ -69,45 +69,41 @@ const About = () => {
             ref={cardsRef}
             className="relative opacity-0 transform translate-y-8 cards-animation"
           >
-            <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 max-w-5xl mx-auto">
+            <div className="grid lg:grid-cols-2 gap-6 lg:gap-8 max-w-6xl mx-auto">
               {/* Mission Card */}
               <div
-                className={`group relative cursor-pointer transition-all duration-700 transform ${
-                  activeCard === null || activeCard === "mission"
+                className={`group relative cursor-pointer transition-all duration-700 transform ${activeCard === null || activeCard === "mission"
                     ? "scale-100 opacity-100"
                     : "scale-95 opacity-60"
-                }`}
+                  }`}
                 onMouseEnter={() => handleCardHover("mission")}
                 onMouseLeave={handleCardLeave}
               >
-                <div className="relative bg-red-800 backdrop-blur-sm rounded-3xl p-8 md:p-10 border border-[#b00000]/50 overflow-hidden min-h-[300px] flex flex-col justify-center">
+                <div className="relative bg-red-800 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-[#b00000]/50 overflow-hidden min-h-[220px] flex flex-col justify-center">
                   {/* Glowing Background Effect */}
                   <div
-                    className={`absolute inset-0 rounded-3xl transition-all duration-700 ${
-                      activeCard === "mission"
+                    className={`absolute inset-0 rounded-3xl transition-all duration-700 ${activeCard === "mission"
                         ? "bg-linear-to-br from-[#800000]/50 via-[#800000]/30 to-[#800000]/20"
                         : ""
-                    }`}
+                      }`}
                   ></div>
 
                   {/* Animated Border */}
                   <div
-                    className={`absolute inset-0 rounded-3xl transition-all duration-700 ${
-                      activeCard === "mission"
+                    className={`absolute inset-0 rounded-3xl transition-all duration-700 ${activeCard === "mission"
                         ? "shadow-2xl shadow-black border-2 border-[#b00000]/50"
                         : "border border-[#b00000]/50"
-                    }`}
+                      }`}
                   ></div>
 
                   {/* Content Container */}
                   <div className="relative z-10 text-center">
                     {/* Icon - Now positioned in center initially, moves up on hover */}
                     <div
-                      className={`bg-linear-to-br from-black via-black to-black w-20 h-20 md:w-24 md:h-24 rounded-2xl flex items-center justify-center mx-auto mb-6 transition-all duration-700 relative overflow-hidden ${
-                        activeCard === "mission"
+                      className={`bg-linear-to-br from-black via-black to-black w-20 h-20 md:w-24 md:h-24 rounded-2xl flex items-center justify-center mx-auto mb-6 transition-all duration-700 relative overflow-hidden ${activeCard === "mission"
                           ? "scale-110 rotate-6 shadow-2xl shadow-black -translate-y-4"
                           : "scale-100"
-                      }`}
+                        }`}
                     >
                       <div className="absolute inset-0 bg-linear-to-br from-white/20 to-transparent rounded-2xl"></div>
                       <img
@@ -119,25 +115,22 @@ const About = () => {
 
                     {/* Title - Always visible */}
                     <h2
-                      className={`text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-6 transition-all duration-700 relative ${
-                        activeCard === "mission" ? "text-black scale-105" : ""
-                      }`}
+                      className={`text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-6 transition-all duration-700 relative ${activeCard === "mission" ? "text-black scale-105" : ""
+                        }`}
                     >
                       Mission
                       <div
-                        className={`absolute -bottom-2 left-1/2 transform -translate-x-1/2 h-0.5 bg-linear-to-r from-black to-black rounded-full transition-all duration-700 ${
-                          activeCard === "mission" ? "w-20" : "w-0"
-                        }`}
+                        className={`absolute -bottom-2 left-1/2 transform -translate-x-1/2 h-0.5 bg-linear-to-r from-black to-black rounded-full transition-all duration-700 ${activeCard === "mission" ? "w-20" : "w-0"
+                          }`}
                       ></div>
                     </h2>
 
                     {/* Content - Only shows on hover */}
                     <div
-                      className={`transition-all duration-700 transform ${
-                        activeCard === "mission"
+                      className={`transition-all duration-700 transform ${activeCard === "mission"
                           ? "opacity-100 scale-100 translate-y-0 max-h-96"
                           : "opacity-0 scale-95 translate-y-4 max-h-0 overflow-hidden"
-                      }`}
+                        }`}
                     >
                       <p className="text-sm md:text-base lg:text-lg text-white leading-relaxed">
                         Our mission is to empower communities through retail
@@ -149,13 +142,12 @@ const About = () => {
 
                     {/* Show placeholder when not active */}
                     <div
-                      className={`transition-all duration-500 ${
-                        activeCard !== "mission" && activeCard !== null
+                      className={`transition-all duration-500 ${activeCard !== "mission" && activeCard !== null
                           ? "opacity-100"
                           : activeCard === null
-                          ? "opacity-100"
-                          : "opacity-0"
-                      }`}
+                            ? "opacity-100"
+                            : "opacity-0"
+                        }`}
                     >
                       {activeCard === null && (
                         <p className="text-gray-400 text-sm">
@@ -167,9 +159,8 @@ const About = () => {
 
                   {/* Ripple Effect */}
                   <div
-                    className={`absolute inset-0 rounded-3xl overflow-hidden pointer-events-none ${
-                      activeCard === "mission" ? "" : "opacity-0"
-                    }`}
+                    className={`absolute inset-0 rounded-3xl overflow-hidden pointer-events-none ${activeCard === "mission" ? "" : "opacity-0"
+                      }`}
                   >
                     <div className="absolute inset-0 bg-linear-to-r from-gray-400/0 via-gray-400/10 to-gray-400/0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-1000 ease-out"></div>
                   </div>
@@ -178,42 +169,38 @@ const About = () => {
 
               {/* Vision Card */}
               <div
-                className={`group relative cursor-pointer transition-all duration-700 transform ${
-                  activeCard === null || activeCard === "vision"
+                className={`group relative cursor-pointer transition-all duration-700 transform ${activeCard === null || activeCard === "vision"
                     ? "scale-100 opacity-100"
                     : "scale-95 opacity-60"
-                }`}
+                  }`}
                 onMouseEnter={() => handleCardHover("vision")}
                 onMouseLeave={handleCardLeave}
               >
-                <div className="relative bg-red-800 backdrop-blur-sm rounded-3xl p-8 md:p-10 border border-gray-200/50 overflow-hidden min-h-[300px] flex flex-col justify-center">
+                <div className="relative bg-red-800 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-gray-200/50 overflow-hidden min-h-[220px] flex flex-col justify-center">
                   {/* Glowing Background Effect */}
                   <div
-                    className={`absolute inset-0 rounded-3xl transition-all duration-700 ${
-                      activeCard === "vision"
+                    className={`absolute inset-0 rounded-3xl transition-all duration-700 ${activeCard === "vision"
                         ? "bg-linear-to-br from-[#800000]/50 via-[#800000]/30 to-[#800000]/20"
                         : ""
-                    }`}
+                      }`}
                   ></div>
 
                   {/* Animated Border */}
                   <div
-                    className={`absolute inset-0 rounded-3xl transition-all duration-700 ${
-                      activeCard === "vision"
+                    className={`absolute inset-0 rounded-3xl transition-all duration-700 ${activeCard === "vision"
                         ? "shadow-2xl shadow-gray-500/30 border-2 border-[#b00000]00/50"
                         : "border border-[#b00000]/100"
-                    }`}
+                      }`}
                   ></div>
 
                   {/* Content Container */}
                   <div className="relative z-10 text-center">
                     {/* Icon - Now positioned in center initially, moves up on hover */}
                     <div
-                      className={`bg-black w-20 h-20 md:w-24 md:h-24 rounded-2xl flex items-center justify-center mx-auto mb-6 transition-all duration-700 relative overflow-hidden ${
-                        activeCard === "vision"
+                      className={`bg-black w-20 h-20 md:w-24 md:h-24 rounded-2xl flex items-center justify-center mx-auto mb-6 transition-all duration-700 relative overflow-hidden ${activeCard === "vision"
                           ? "scale-110 -rotate-6 shadow-2xl shadow-gray-400/50 -translate-y-4"
                           : "scale-100"
-                      }`}
+                        }`}
                     >
                       <div className="absolute inset-0 bg-linear-to-br from-white/20 to-transparent rounded-2xl"></div>
                       <img
@@ -225,25 +212,22 @@ const About = () => {
 
                     {/* Title - Always visible */}
                     <h2
-                      className={`text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-6 transition-all duration-700 relative ${
-                        activeCard === "vision" ? "text-black scale-105" : ""
-                      }`}
+                      className={`text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-6 transition-all duration-700 relative ${activeCard === "vision" ? "text-black scale-105" : ""
+                        }`}
                     >
                       Vision
                       <div
-                        className={`absolute -bottom-2 left-1/2 transform -translate-x-1/2 h-0.5 bg-linear-to-r from-black to-black rounded-full transition-all duration-700 ${
-                          activeCard === "vision" ? "w-20" : "w-0"
-                        }`}
+                        className={`absolute -bottom-2 left-1/2 transform -translate-x-1/2 h-0.5 bg-linear-to-r from-black to-black rounded-full transition-all duration-700 ${activeCard === "vision" ? "w-20" : "w-0"
+                          }`}
                       ></div>
                     </h2>
 
                     {/* Content - Only shows on hover */}
                     <div
-                      className={`transition-all duration-700 transform ${
-                        activeCard === "vision"
+                      className={`transition-all duration-700 transform ${activeCard === "vision"
                           ? "opacity-100 scale-100 translate-y-0 max-h-96"
                           : "opacity-0 scale-95 translate-y-4 max-h-0 overflow-hidden"
-                      }`}
+                        }`}
                     >
                       <p className="text-sm md:text-base lg:text-lg text-white leading-relaxed">
                         The Vision outlines growth to open multiple stores
@@ -254,13 +238,12 @@ const About = () => {
 
                     {/* Show placeholder when not active */}
                     <div
-                      className={`transition-all duration-500 ${
-                        activeCard !== "vision" && activeCard !== null
+                      className={`transition-all duration-500 ${activeCard !== "vision" && activeCard !== null
                           ? "opacity-100"
                           : activeCard === null
-                          ? "opacity-100"
-                          : "opacity-0"
-                      }`}
+                            ? "opacity-100"
+                            : "opacity-0"
+                        }`}
                     >
                       {activeCard === null && (
                         <p className="text-gray-400 text-sm">
@@ -272,9 +255,8 @@ const About = () => {
 
                   {/* Ripple Effect */}
                   <div
-                    className={`absolute inset-0 rounded-3xl overflow-hidden pointer-events-none ${
-                      activeCard === "vision" ? "" : "opacity-0"
-                    }`}
+                    className={`absolute inset-0 rounded-3xl overflow-hidden pointer-events-none ${activeCard === "vision" ? "" : "opacity-0"
+                      }`}
                   >
                     {/* <div className="absolute inset-0 bg-linear-to-r from-gray-400/0 via-gray-400/10 to-gray-400/0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-1000 ease-out"></div> */}
                   </div>

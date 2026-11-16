@@ -128,16 +128,16 @@ const Calculator = ({ openModal }) => {
   return (
     <div
       id="calculator"
-      className="min-h-screen bg-white p-3 sm:p-4 md:p-6 lg:px-8"
+      className="bg-white py-10 md:py-8 px-4 sm:px-6 lg:px-8"
     >
       <div className="max-w-7xl mx-auto">
         {/* Header Section */}
-        <div className="text-center mb-6 sm:mb-8 lg:mb-12">
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-[#b00000] mb-3 sm:mb-4 px-2">
+        <div className="text-center mb-6 sm:mb-8 lg:mb-10">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-[#b00000] mb-3 px-2">
             Calculate Your{" "}
             <span className="text-black">Franchise Investment</span>
           </h1>
-          <p className="text-sm sm:text-base md:text-lg lg:text-xl text-gray-600 max-w-4xl mx-auto px-4">
+          <p className="text-sm sm:text-base md:text-lg text-gray-600 max-w-4xl mx-auto px-4">
             Calculate your estimated investment for Mini Mart, Super Mart, or
             Hyper Mart franchise including stock, interior, software fee,
             franchise fee, and security deposit.
@@ -145,9 +145,9 @@ const Calculator = ({ openModal }) => {
         </div>
 
         {/* Main Content Grid */}
-        <div className="flex flex-col gap-4 sm:gap-6 lg:grid lg:grid-cols-2 lg:gap-8">
+        <div className="flex flex-col gap-4 sm:gap-6 lg:grid lg:grid-cols-2 lg:gap-8 items-stretch">
           {/* Left Panel - Calculator Controls */}
-          <div className="space-y-4 sm:space-y-6 lg:space-y-8">
+          <div className="flex flex-col space-y-4 justify-between">
             {/* Store Type Selection Card */}
             <div className="bg-white rounded-xl sm:rounded-2xl shadow-lg p-4 sm:p-6 lg:p-8">
               <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-gray-800 mb-4 sm:mb-6 text-center lg:text-left">
@@ -165,11 +165,10 @@ const Calculator = ({ openModal }) => {
                         setSelectedSize(size);
                         setArea(details.minArea);
                       }}
-                      className={`relative p-4 sm:p-6 rounded-lg cursor-pointer sm:rounded-xl border-2 transition-all duration-300 hover:shadow-lg min-h-[100px] sm:min-h-auto ${
-                        isSelected
+                      className={`relative p-4 sm:p-6 rounded-lg cursor-pointer sm:rounded-xl border-2 transition-all duration-300 hover:shadow-lg min-h-[100px] sm:min-h-auto ${isSelected
                           ? "border-[#b00000] bg-gray-100 shadow-lg"
                           : "border-gray-200 bg-white hover:border-gray-400"
-                      }`}
+                        }`}
                     >
                       {isSelected && (
                         <div className="absolute -top-2 -right-2 w-6 h-6 sm:w-8 sm:h-8 bg-[#b00000] rounded-full flex items-center justify-center">
@@ -191,21 +190,18 @@ const Calculator = ({ openModal }) => {
                         <img
                           src={details.icon}
                           alt={size}
-                          className={`w-8 h-8 sm:w-10 sm:h-10 lg:w-12 lg:h-12 ${
-                            isSelected ? "filter-black" : ""
-                          }`}
+                          className={`w-8 h-8 sm:w-10 sm:h-10 lg:w-12 lg:h-12 ${isSelected ? "filter-black" : ""
+                            }`}
                         />
                         <h3
-                          className={`font-semibold text-sm sm:text-base lg:text-lg text-center ${
-                            isSelected ? "text-[#b00000]" : "text-gray-700"
-                          }`}
+                          className={`font-semibold text-sm sm:text-base lg:text-lg text-center ${isSelected ? "text-[#b00000]" : "text-gray-700"
+                            }`}
                         >
                           {size}
                         </h3>
                         <p
-                          className={`text-xs sm:text-sm text-center ${
-                            isSelected ? "text-black" : "text-gray-500"
-                          }`}
+                          className={`text-xs sm:text-sm text-center ${isSelected ? "text-black" : "text-gray-500"
+                            }`}
                         >
                           {details.description}
                         </p>
@@ -257,12 +253,12 @@ const Calculator = ({ openModal }) => {
             </div>
 
             {/* Cost Breakdown Card */}
-            <div className="bg-white rounded-xl sm:rounded-2xl shadow-lg p-6 lg:p-8">
+            <div className="bg-white rounded-xl sm:rounded-2xl shadow-md p-4 sm:p-5 border border-gray-100 flex-1 flex flex-col justify-between">
               <h3 className="text-lg sm:text-xl font-bold text-gray-800 mb-4">
                 Investment Breakdown
               </h3>
 
-              <div className="space-y-3">
+              <div className="space-y-2">
                 {/* Stock */}
                 <div className="flex justify-between items-center pb-2 border-b border-gray-200">
                   <span className="text-sm sm:text-base text-gray-600">Stock</span>
@@ -358,9 +354,9 @@ const Calculator = ({ openModal }) => {
           </div>
 
           {/* Right Panel - Images */}
-          <div className="space-y-4 sm:space-y-6 lg:space-y-8">
+          <div className="flex flex-col space-y-4 justify-between">
             {/* ROI Image */}
-            <div className="rounded-xl sm:rounded-2xl shadow-lg h-64 sm:h-80 lg:h-[500px] overflow-hidden">
+            <div className="rounded-xl sm:rounded-2xl shadow-md bg-white border border-gray-100 flex-1 overflow-hidden min-h-[300px] flex items-center justify-center p-2">
               <img
                 src="/images/Carefree earning with buyzaar.png"
                 alt="Franchise Investment Chart"
@@ -369,7 +365,7 @@ const Calculator = ({ openModal }) => {
             </div>
 
             {/* Investment Image */}
-            <div className="rounded-xl border-4 border-red-800 sm:rounded-2xl shadow-lg h-50 sm:h-64 lg:h-[250px] overflow-hidden">
+            <div className="rounded-xl border-2 border-red-800 sm:rounded-2xl shadow-md overflow-hidden h-[180px] sm:h-[190px] flex items-center justify-center bg-white p-2">
               <img
                 src="/images/BUYZAAR BRAND 2.png"
                 alt="Franchise Benefits"

@@ -38,13 +38,13 @@ export default function StoreLocator() {
           viewport={{ once: true, amount: 0.4 }}
           className="text-center mb-10"
         >
-          <p className="text-sm tracking-[0.35em] text-red-800 uppercase">
+          <p className="text-xs sm:text-sm font-bold tracking-[0.3em] text-[#5f8d5d] uppercase">
             Store Network
           </p>
-          <h2 className="text-3xl md:text-4xl font-semibold text-white mt-3">
-            Find Your Nearest <span className="text-red-800">BUYZAAR Mart</span>
+          <h2 className="text-3xl md:text-4xl font-extrabold text-white mt-2">
+            Find Your Nearest <span className="text-[#ff3b30]">BUYZAAR Mart</span>
           </h2>
-          <p className="text-neutral-300 max-w-2xl mx-auto mt-3 text-sm md:text-base">
+          <p className="text-gray-300 max-w-2xl mx-auto mt-3 text-sm md:text-base font-normal">
             Explore our running and upcoming stores, discover exact locations,
             and plan your visit to the nearest BUYZAAR Mart.
           </p>
@@ -61,45 +61,60 @@ export default function StoreLocator() {
               initial="hidden"
               whileInView="show"
               viewport={{ once: true, amount: 0.3 }}
-              className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-red-800/80 via-red-500/80 to-amber-400/80 p-[1px]"
+              className="relative overflow-hidden rounded-2xl border border-red-500/30 p-[1px] bg-gradient-to-br from-red-600/30 via-red-900/20 to-transparent"
             >
-              <div className="relative h-full w-full rounded-2xl bg-[#111111] px-6 py-6 flex flex-col gap-4">
+              <div className="relative h-full w-full rounded-2xl bg-[#161616] px-6 py-6 flex flex-col gap-4 shadow-xl">
                 <div className="flex items-center justify-between gap-4">
                   <div>
-                    <p className="text-xs uppercase tracking-[0.25em] text-red-300">
+                    <p className="text-xs font-bold uppercase tracking-[0.25em] text-[#ff6b6b]">
                       Running Stores
                     </p>
-                    <h3 className="text-xl md:text-2xl font-semibold text-white mt-1">
+                    <h3 className="text-xl md:text-2xl font-bold text-white mt-1">
                       Visit BUYZAAR Mart Today
                     </h3>
                   </div>
-                  <span className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-red-800/80 text-white text-lg font-semibold shadow-[0_0_25px_rgba(248,113,113,0.75)]">
+                  <span className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-red-600/30 border border-red-500/50 text-red-400 text-base font-semibold shadow-[0_0_15px_rgba(239,68,68,0.4)]">
                     •
                   </span>
                 </div>
 
-                <p className="text-sm text-neutral-300 leading-relaxed">
+                <p className="text-sm text-gray-300 leading-relaxed">
                   Visit our operational BUYZAAR Mart outlets and explore our
                   smart retail experience in person.
                 </p>
 
-                <ul className="text-white text-md leading-tight space-y-1">
-                  <li>• The Buyzaar Mart, Shyam Nagar Kanpur.</li>
-                  <li>• The Buyzaar Mart, Sector 44 Chalera Noida.</li>
-                  <li>• The Buyzaar Mart, Gangoh Near Bus Stand.</li>
-                  <li>• The Buyzaar Mart, Behat, Saharanpur.</li>
-                  <li>• The Buyzaar Mart, Bahadrabad, Haridwar.</li>
+                <ul className="text-gray-100 text-sm md:text-base leading-relaxed space-y-2 font-medium">
+                  <li className="flex items-start gap-2">
+                    <span className="text-[#ff4d4d] font-bold">•</span>
+                    <span>The Buyzaar Mart, Shyam Nagar Kanpur.</span>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <span className="text-[#ff4d4d] font-bold">•</span>
+                    <span>The Buyzaar Mart, Sector 44 Chalera Noida.</span>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <span className="text-[#ff4d4d] font-bold">•</span>
+                    <span>The Buyzaar Mart, Haridwar.</span>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <span className="text-[#ff4d4d] font-bold">•</span>
+                    <span>The Buyzaar Mart, Raipur Khadar Noida Sector 126.</span>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <span className="text-[#ff4d4d] font-bold">•</span>
+                    <span>The Buyzaar Mart, Rohtak Haryana</span>
+                  </li>
                 </ul>
 
                 {/* ── Photos & Videos link ── */}
                 <Link
                   href="/store-images"
-                  className="group inline-flex items-center gap-2 self-start mt-1 text-sm font-medium text-red-400 hover:text-red-300 transition-colors duration-200"
+                  className="group inline-flex items-center gap-2 self-start mt-2 text-sm font-semibold text-[#ff6b6b] hover:text-[#ff8787] transition-colors duration-200"
                 >
                   {/* camera icon */}
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    className="h-4 w-4 flex-shrink-0 text-red-500 group-hover:text-red-300 transition-colors duration-200"
+                    className="h-4 w-4 flex-shrink-0 text-[#ff4d4d] group-hover:text-[#ff8787] transition-colors duration-200"
                     viewBox="0 0 24 24"
                     fill="none"
                     stroke="currentColor"
@@ -110,7 +125,7 @@ export default function StoreLocator() {
                     <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z" />
                     <circle cx="12" cy="13" r="4" />
                   </svg>
-                  <span className="underline underline-offset-4 decoration-red-700 group-hover:decoration-red-400 transition-all duration-200">
+                  <span className="underline underline-offset-4 decoration-red-500/60 group-hover:decoration-red-400 transition-all duration-200">
                     Click here to see Photos &amp; Videos
                   </span>
                   {/* arrow */}
@@ -137,33 +152,33 @@ export default function StoreLocator() {
               initial="hidden"
               whileInView="show"
               viewport={{ once: true, amount: 0.3 }}
-              className="relative overflow-hidden rounded-2xl border border-red-800/40 bg-gradient-to-br from-red-900/70 via-black/70 to-red-800/40 px-6 py-6 shadow-[0_18px_45px_rgba(0,0,0,0.75)]"
+              className="relative overflow-hidden rounded-2xl border border-red-500/20 bg-[#161616] px-6 py-6 shadow-xl"
             >
               <div className="flex flex-col gap-3">
                 <div className="flex items-center justify-between gap-3">
                   <div>
-                    <p className="text-xs uppercase tracking-[0.25em] text-red-300">
+                    <p className="text-xs font-bold uppercase tracking-[0.25em] text-[#ff6b6b]">
                       Upcoming Store
                     </p>
-                    <h3 className="text-xl md:text-2xl font-semibold text-white mt-1">
+                    <h3 className="text-xl md:text-2xl font-bold text-white mt-1">
                       New Store Coming Soon
                     </h3>
                   </div>
-                  <span className="px-3 py-1 text-[11px] rounded-full bg-red-500/20 text-red-200 border border-red-400/60 uppercase tracking-[0.2em]">
+                  <span className="px-3 py-1 text-[11px] font-semibold rounded-full bg-red-500/20 text-red-200 border border-red-400/50 uppercase tracking-[0.2em]">
                     Opening Soon
                   </span>
                 </div>
 
-                <div className="mt-1 space-y-2 text-sm text-neutral-300">
-                  <div className="font-medium text-white/90">
-                    <p>
-                      • The Buyzaar Mart, LV Plaza Laxmi Villas Rajnagar
-                      Extension Ghaziabad
-                    </p>
+                <div className="mt-1 space-y-2 text-sm text-gray-200">
+                  <div className="font-medium text-white flex items-start gap-2">
+                    <span className="text-[#ff4d4d] font-bold">•</span>
+                    <span>
+                      The Buyzaar Mart, LV Plaza Laxmi Villas Rajnagar Extension Ghaziabad
+                    </span>
                   </div>
                 </div>
 
-                <p className="mt-2 text-xs text-neutral-400">
+                <p className="mt-2 text-xs text-gray-400">
                   Want to stay updated? Keep an eye on this section as we roll
                   out more BUYZAAR Mart locations across the city.
                 </p>

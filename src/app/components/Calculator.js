@@ -1,420 +1,414 @@
 "use client";
-import React, { useState, useEffect } from "react";
+import React, { useState, useMemo } from "react";
 import { useRouter } from "next/navigation";
+import {
+  Building2,
+  Package,
+  Briefcase,
+  Monitor,
+  ShieldCheck,
+  CheckCircle2,
+  PhoneCall,
+  Info,
+} from "lucide-react";
 
 const Calculator = ({ openModal }) => {
   const router = useRouter();
-  const [selectedSize, setSelectedSize] = useState("Mini Mart");
   const [area, setArea] = useState(600);
-  const [costs, setCosts] = useState({
-    stock: 0,
-    interior: 0,
-    softwareFee: 0,
-    franchiseFeeWithGST: 0,
-    security: 0,
-  });
 
-  const franchiseSizes = {
-    "Mini Mart": {
-      minArea: 600,
-      maxArea: 1000,
-      icon: "https://cdn-icons-png.flaticon.com/128/869/869687.png",
-      description: "600-1000 sqft",
-      stockPerSqft: 900,
-      interiorPerSqft: 900,
-      softwareFee: 50000,
-      franchiseFeeWithGST: 295000,
-    },
-    "Super Mart": {
-      minArea: 1001,
-      maxArea: 3000,
-      icon: "https://cdn-icons-png.flaticon.com/128/4963/4963840.png",
-      description: "1001-3000 sqft",
-      stockPerSqft: 1100,
-      interiorPerSqft: 1000,
-      softwareFee: 100000,
-      franchiseFeeWithGST: 295000,
-    },
-    "Hyper Mart": {
-      minArea: 3001,
-      maxArea: 8000,
-      icon: "https://cdn-icons-png.flaticon.com/128/6842/6842281.png",
-      description: "3001-8000 sqft",
-      stockPerSqft: 1200,
-      interiorPerSqft: 1100,
-      softwareFee: 200000,
-      franchiseFeeWithGST: 295000,
-    },
-  };
-
-  // ✅ Always clamp the area for calculation purposes
-  const getEffectiveArea = () => {
-    const numericArea = Number(area);
-    if (!numericArea || numericArea < 600) return 600;
-    if (numericArea > 8000) return 8000;
-    return numericArea;
-  };
-
-  const calculateCosts = () => {
-    const martDetails = franchiseSizes[selectedSize];
-    const effectiveArea = getEffectiveArea(); // ✅ use clamped area
-
-    const stock = effectiveArea * martDetails.stockPerSqft;
-    const interior = effectiveArea * martDetails.interiorPerSqft;
-    const softwareFee = martDetails.softwareFee;
-    const franchiseFeeWithGST = martDetails.franchiseFeeWithGST;
-
-    const subtotal = stock + interior + softwareFee + franchiseFeeWithGST;
-    const calculatedSecurity = Math.round(subtotal * 0.0666);
-    const security = Math.max(calculatedSecurity, 100000);
-
-    return { stock, interior, softwareFee, franchiseFeeWithGST, security };
-  };
-
-  // Auto-select store type based on effective (clamped) area
-  useEffect(() => {
-    const effectiveArea = getEffectiveArea();
-
-    let newStoreType;
-    if (effectiveArea <= 1000) {
-      newStoreType = "Mini Mart";
-    } else if (effectiveArea <= 3000) {
-      newStoreType = "Super Mart";
+  // Store Tier mapping based on updated details:
+  // Mini Mart: 600 - 1000 sqft | 18.5 - 26 Lakhs | Projected Sales: 10 - 16 Lakhs | Payback: 18 - 24 Months
+  // Super Mart: 1001 - 3000 sqft | 27 - 76 Lakhs | Projected Sales: 16 - 48 Lakhs | Payback: 18 - 24 Months
+  // Hyper Mart: 3001 - 8000 sqft | 77 Lakhs - 2 Cr. | Projected Sales: 48 Lakhs - 2 Cr. | Payback: 18 - 24 Months
+  const currentTier = useMemo(() => {
+    const val = Number(area) || 600;
+    if (val <= 1000) {
+      return {
+        name: "Mini Mart",
+        sizeRange: "600 - 1000 sqft",
+        investmentRange: "18.5 – 26 Lakhs",
+        salesRange: "10 – 16 Lakhs",
+        payback: "18 – 24 Months",
+        minArea: 600,
+        maxArea: 1000,
+        minTotal: 1850000,
+        maxTotal: 2600000,
+        itemCount: "1,000+ products",
+      };
+    } else if (val <= 3000) {
+      return {
+        name: "Super Mart",
+        sizeRange: "1001 - 3000 sqft",
+        investmentRange: "27 – 76 Lakhs",
+        salesRange: "16 – 48 Lakhs",
+        payback: "18 – 24 Months",
+        minArea: 1001,
+        maxArea: 3000,
+        minTotal: 2700000,
+        maxTotal: 7600000,
+        itemCount: "3,000+ products",
+      };
     } else {
-      newStoreType = "Hyper Mart";
+      return {
+        name: "Hyper Mart",
+        sizeRange: "3001 - 8000 sqft",
+        investmentRange: "77 Lakhs – 2 Cr.",
+        salesRange: "48 Lakhs – 2 Cr.",
+        payback: "18 – 24 Months",
+        minArea: 3001,
+        maxArea: 8000,
+        minTotal: 7700000,
+        maxTotal: 20000000,
+        itemCount: "5,000+ products",
+      };
+    }
+  }, [area]);
+
+  const clampedArea = Math.min(Math.max(Number(area) || 600, 600), 8000);
+
+  // Exact proportional interpolation to ensure total investment matches the requested figures
+  const totalInvestment = useMemo(() => {
+    const { minArea, maxArea, minTotal, maxTotal } = currentTier;
+    const ratio = Math.max(0, Math.min(1, (clampedArea - minArea) / (maxArea - minArea || 1)));
+    return Math.round(minTotal + ratio * (maxTotal - minTotal));
+  }, [clampedArea, currentTier]);
+
+  // Breakdown costs including Security Deposit, summing cleanly to totalInvestment
+  const costs = useMemo(() => {
+    const franchiseFeeWithGST = 295000; // ₹2,50,000 + 18% GST
+    const softwareFeeWithGST = clampedArea <= 1000 ? 59000 : clampedArea <= 3000 ? 118000 : 236000;
+    
+    // Security Deposit: Starts at ₹1,00,000 and scales with tier size
+    let securityDeposit = 100000;
+    if (clampedArea > 1000 && clampedArea <= 3000) {
+      const subRatio = (clampedArea - 1000) / 2000;
+      securityDeposit = Math.round(150000 + subRatio * 150000); // 1.5L - 3L
+    } else if (clampedArea > 3000) {
+      const subRatio = (clampedArea - 3000) / 5000;
+      securityDeposit = Math.round(350000 + subRatio * 450000); // 3.5L - 8L
     }
 
-    if (newStoreType !== selectedSize) {
-      setSelectedSize(newStoreType);
-    }
-  }, [area, selectedSize]);
+    const remaining = totalInvestment - franchiseFeeWithGST - softwareFeeWithGST - securityDeposit;
+    const interior = Math.round((remaining * 0.46) / 1000) * 1000;
+    const stock = remaining - interior;
 
-  // Recalculate costs whenever area or store type changes
-  useEffect(() => {
-    setCosts(calculateCosts());
-  }, [area, selectedSize]);
+    return {
+      interior,
+      stock,
+      franchiseFee: franchiseFeeWithGST,
+      softwareFee: softwareFeeWithGST,
+      securityDeposit,
+    };
+  }, [totalInvestment, clampedArea]);
 
-  const totalCost = costs.stock + costs.interior + costs.softwareFee + costs.franchiseFeeWithGST + costs.security;
-
-  const formatCurrency = (amount) => {
-    return new Intl.NumberFormat("en-IN").format(amount);
+  const formatCurrency = (val) => {
+    return new Intl.NumberFormat("en-IN").format(Math.round(val));
   };
 
-  // ✅ Completely free typing — no restrictions, no clamping on change
   const handleAreaChange = (e) => {
-    setArea(e.target.value); // store raw string exactly as typed
+    setArea(e.target.value);
   };
 
-  // ✅ On blur, only reset if completely empty
   const handleAreaBlur = () => {
-    if (area === "" || area === null || area === undefined) setArea(600);
+    if (!area || Number(area) < 600) setArea(600);
+    else if (Number(area) > 8000) setArea(8000);
   };
 
-  const handleApplyForFranchise = () => {
-    if (openModal) {
-      openModal();
-    } else {
-      router.push("/franchise");
-    }
+  const handleContactClick = () => {
+    router.push("/contact");
   };
 
-  const handleDownloadBrochure = () => {
-    const link = document.createElement("a");
-    link.href = "/brochures/franchise-brochure.pdf";
-    link.download = "Franchise-Brochure.pdf";
-    link.click();
-  };
+  const sliderPercent = ((clampedArea - 600) / (8000 - 600)) * 100;
 
   return (
-    <div
-      id="calculator"
-      className="bg-white py-10 md:py-8 px-4 sm:px-6 lg:px-8"
-    >
-      <div className="max-w-7xl mx-auto">
-        {/* Header Section */}
-        <div className="text-center mb-6 sm:mb-8 lg:mb-10">
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-[#b00000] mb-3 px-2">
+    <section id="calculator" className="bg-white py-8 sm:py-10 px-4 sm:px-6 lg:px-8">
+      <div className="max-w-6xl mx-auto">
+        
+        {/* Original Heading & Subtitle */}
+        <div className="text-center mb-6 sm:mb-8">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-[#b00000] mb-2 px-2">
             Calculate Your{" "}
             <span className="text-black">Franchise Investment</span>
           </h1>
-          <p className="text-sm sm:text-base md:text-lg text-gray-600 max-w-4xl mx-auto px-4">
+          <p className="text-sm sm:text-base text-gray-600 max-w-4xl mx-auto px-4">
             Calculate your estimated investment for Mini Mart, Super Mart, or
             Hyper Mart franchise including stock, interior, software fee,
             franchise fee, and security deposit.
           </p>
         </div>
 
-        {/* Main Content Grid */}
-        <div className="flex flex-col gap-4 sm:gap-6 lg:grid lg:grid-cols-2 lg:gap-8 items-stretch">
-          {/* Left Panel - Calculator Controls */}
-          <div className="flex flex-col space-y-4 justify-between">
-            {/* Store Type Selection Card */}
-            <div className="bg-white rounded-xl sm:rounded-2xl shadow-lg p-4 sm:p-6 lg:p-8">
-              <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-gray-800 mb-4 sm:mb-6 text-center lg:text-left">
-                Choose Your Store Type
-              </h2>
-
-              {/* Store Type Grid */}
-              <div className="grid grid-cols-1 gap-3 mb-4 sm:grid-cols-3 sm:gap-4 sm:mb-6 lg:mb-8">
-                {Object.entries(franchiseSizes).map(([size, details]) => {
-                  const isSelected = selectedSize === size;
-                  return (
-                    <button
-                      key={size}
-                      onClick={() => {
-                        setSelectedSize(size);
-                        setArea(details.minArea);
-                      }}
-                      className={`relative p-4 sm:p-6 rounded-lg cursor-pointer sm:rounded-xl border-2 transition-all duration-300 hover:shadow-lg min-h-[100px] sm:min-h-auto ${isSelected
-                          ? "border-[#b00000] bg-gray-100 shadow-lg"
-                          : "border-gray-200 bg-white hover:border-gray-400"
-                        }`}
-                    >
-                      {isSelected && (
-                        <div className="absolute -top-2 -right-2 w-6 h-6 sm:w-8 sm:h-8 bg-[#b00000] rounded-full flex items-center justify-center">
-                          <svg
-                            className="w-3 h-3 sm:w-5 sm:h-5 bg-[#b00000] text-white"
-                            fill="currentColor"
-                            viewBox="0 0 20 20"
-                          >
-                            <path
-                              fillRule="evenodd"
-                              d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                              clipRule="evenodd"
-                            />
-                          </svg>
-                        </div>
-                      )}
-
-                      <div className="flex flex-col items-center space-y-2 sm:space-y-3">
-                        <img
-                          src={details.icon}
-                          alt={size}
-                          className={`w-8 h-8 sm:w-10 sm:h-10 lg:w-12 lg:h-12 ${isSelected ? "filter-black" : ""
-                            }`}
-                        />
-                        <h3
-                          className={`font-semibold text-sm sm:text-base lg:text-lg text-center ${isSelected ? "text-[#b00000]" : "text-gray-700"
-                            }`}
-                        >
-                          {size}
-                        </h3>
-                        <p
-                          className={`text-xs sm:text-sm text-center ${isSelected ? "text-black" : "text-gray-500"
-                            }`}
-                        >
-                          {details.description}
-                        </p>
-                      </div>
-                    </button>
-                  );
-                })}
+        {/* Compact Single-Screen Main Card (No table below) */}
+        <div className="bg-white rounded-3xl shadow-xl border border-gray-100 p-5 sm:p-7 md:p-8">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-10 items-start">
+            
+            {/* Left Column: Store Size Selector & Included Highlights */}
+            <div className="lg:col-span-6 flex flex-col justify-between space-y-4">
+              <div>
+                <span className="text-xs font-bold tracking-wider text-gray-400 uppercase">
+                  STORE SIZE
+                </span>
+                <h3 className="text-xl sm:text-2xl font-bold text-gray-900 mt-0.5">
+                  Choose Your Store Size
+                </h3>
+                <p className="text-xs sm:text-sm text-gray-500 mt-1">
+                  Drag the slider or type your preferred area in sq ft to get a live investment estimate.
+                </p>
               </div>
 
-              {/* Area Selection Section */}
-              <div className="space-y-4">
-                <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between sm:gap-0">
-                  <label className="text-sm sm:text-base lg:text-lg font-medium text-gray-700 text-center sm:text-left">
-                    Select Area:{" "}
-                    <span className="text-[#b00000]">600 - 8000</span> sqft
-                  </label>
-                  {/* Area Input */}
-                  <div className="flex items-center justify-center space-x-3">
-                    <input
-                      type="number"
-                      value={area}
-                      onChange={handleAreaChange}
-                      onBlur={handleAreaBlur}
-                      min={600}
-                      max={8000}
-                      step={1}
-                      className="w-20 sm:w-24 lg:w-28 px-2 sm:px-3 py-2 border border-gray-300 rounded-lg text-center text-base text-[#b00000] sm:text-lg font-bold focus:ring-2 focus:ring-black focus:border-black"
-                      style={{ fontSize: "16px" }}
-                    />
-                    <span className="text-sm font-medium text-gray-500">
-                      sqft
-                    </span>
+              {/* Slider Component with Floating Tooltip Indicator */}
+              <div className="pt-5 pb-1">
+                <div className="relative mb-2.5">
+                  {/* Floating Tooltip Bubble */}
+                  <div
+                    className="absolute -top-8 transform -translate-x-1/2 bg-[#b00000] text-white text-xs font-bold px-2.5 py-0.5 rounded shadow pointer-events-none whitespace-nowrap"
+                    style={{ left: `${sliderPercent}%` }}
+                  >
+                    {clampedArea} sq ft
+                    <div className="w-2 h-2 bg-[#b00000] rotate-45 absolute -bottom-1 left-1/2 -translate-x-1/2"></div>
                   </div>
-                </div>
 
-                {/* Range Slider */}
-                <div className="relative px-2">
+                  {/* Range Slider Track */}
                   <input
                     type="range"
                     min={600}
                     max={8000}
-                    value={getEffectiveArea()}
-                    step={1}
+                    step={10}
+                    value={clampedArea}
                     onChange={(e) => setArea(Number(e.target.value))}
-                    className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer slider"
+                    className="w-full h-2 rounded-lg appearance-none cursor-pointer range-slider"
+                    style={{
+                      background: `linear-gradient(to right, #b00000 0%, #b00000 ${sliderPercent}%, #e5e7eb ${sliderPercent}%, #e5e7eb 100%)`,
+                    }}
                   />
                 </div>
-              </div>
-            </div>
 
-            {/* Cost Breakdown Card */}
-            <div className="bg-white rounded-xl sm:rounded-2xl shadow-md p-4 sm:p-5 border border-gray-100 flex-1 flex flex-col justify-between">
-              <h3 className="text-lg sm:text-xl font-bold text-gray-800 mb-4">
-                Investment Breakdown
-              </h3>
-
-              <div className="space-y-2">
-                {/* Stock */}
-                <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">Stock</span>
-                  <span className="text-sm sm:text-base font-semibold text-gray-800">
-                    ₹ {formatCurrency(costs.stock)}
-                  </span>
-                </div>
-
-                {/* Interior */}
-                <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">Interior</span>
-                  <span className="text-sm sm:text-base font-semibold text-gray-800">
-                    ₹ {formatCurrency(costs.interior)}
-                  </span>
-                </div>
-
-                {/* Software Fee */}
-                <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">Software Fee</span>
-                  <span className="text-sm sm:text-base font-semibold text-gray-800">
-                    ₹ {formatCurrency(costs.softwareFee)}
-                  </span>
-                </div>
-
-                {/* Franchise Fee */}
-                <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">
-                    Franchise Fee (incl. 18% GST)
-                  </span>
-                  <span className="text-sm sm:text-base font-semibold text-gray-800">
-                    ₹ {formatCurrency(costs.franchiseFeeWithGST)}
-                  </span>
-                </div>
-
-                {/* Security */}
-                <div className="flex justify-between items-center pb-2 border-b border-gray-200">
-                  <span className="text-sm sm:text-base text-gray-600">Security Deposit</span>
-                  <span className="text-sm sm:text-base font-semibold text-gray-800">
-                    ₹ {formatCurrency(costs.security)}
-                  </span>
-                </div>
-
-                {/* Total */}
-                <div className="flex justify-between items-center pt-3 mt-2 border-t-2 border-gray-300">
-                  <span className="text-base sm:text-lg font-bold text-gray-800">
-                    Total Investment
-                  </span>
-                  <span className="text-lg sm:text-xl font-bold text-[#b00000]">
-                    ₹ {formatCurrency(totalCost)}
-                  </span>
+                {/* Min & Max labels */}
+                <div className="flex justify-between text-xs font-semibold text-gray-400">
+                  <span>600 sq ft</span>
+                  <span>8000 sq ft</span>
                 </div>
               </div>
 
-              <p className="text-xs sm:text-sm text-gray-500 mt-4 text-center">
-                {selectedSize} - {getEffectiveArea()} sqft
-              </p>
+              {/* Area Input Box & Current Tier Badge */}
+              <div className="flex items-center gap-3">
+                <div className="flex items-center border border-gray-300 focus-within:border-[#b00000] rounded-xl px-3 py-1.5 bg-gray-50/50">
+                  <input
+                    type="number"
+                    value={area}
+                    onChange={handleAreaChange}
+                    onBlur={handleAreaBlur}
+                    min={600}
+                    max={8000}
+                    className="w-20 text-base font-bold text-gray-900 bg-transparent focus:outline-none"
+                  />
+                  <span className="text-xs font-semibold text-gray-500 pl-1">sq ft</span>
+                </div>
 
-              {/* Buttons Container */}
-              <div className="flex flex-col gap-3 sm:flex-row sm:gap-4 items-center justify-center mt-6">
-                {/* Download Button */}
-                <button
-                  onClick={handleDownloadBrochure}
-                  className="w-full sm:w-auto bg-black hover:bg-[#b00000] text-white cursor-pointer font-semibold py-3 px-6 rounded-xl transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center space-x-3"
-                  style={{ minHeight: "44px" }}
-                >
-                  <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                    <path
-                      fillRule="evenodd"
-                      d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                  <span>Download Brochure</span>
-                </button>
+                <div className="flex items-center gap-2 px-3.5 py-1.5 rounded-xl bg-red-50 border border-red-100 text-xs sm:text-sm font-semibold text-[#b00000]">
+                  <span className="w-2 h-2 rounded-full bg-[#b00000] animate-pulse"></span>
+                  <span>{currentTier.name} ({currentTier.sizeRange})</span>
+                </div>
+              </div>
 
-                {/* Apply for Franchise Button */}
-                <button
-                  onClick={handleApplyForFranchise}
-                  className="w-full sm:w-auto bg-white hover:bg-black hover:text-white border border-[#b00000] font-semibold py-3 px-6 rounded-xl transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center space-x-3"
-                  style={{ minHeight: "44px" }}
-                >
-                  <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                    <path
-                      fillRule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                  <span>Apply Now</span>
-                </button>
+              {/* Quick Format Switch Tabs */}
+              <div className="grid grid-cols-3 gap-2 pt-1">
+                {[
+                  { name: "Mini Mart", sqft: 600, range: "18.5 – 26 L" },
+                  { name: "Super Mart", sqft: 1001, range: "27 – 76 L" },
+                  { name: "Hyper Mart", sqft: 3001, range: "77 L – 2 Cr" },
+                ].map((tier) => (
+                  <button
+                    key={tier.name}
+                    type="button"
+                    onClick={() => setArea(tier.sqft)}
+                    className={`p-2 rounded-xl text-center border transition-all cursor-pointer ${
+                      currentTier.name === tier.name
+                        ? "bg-[#b00000] text-white border-[#b00000] shadow-sm"
+                        : "bg-gray-50 text-gray-700 border-gray-200 hover:bg-gray-100"
+                    }`}
+                  >
+                    <div className="text-xs font-bold leading-tight">{tier.name}</div>
+                    <div className={`text-[10px] mt-0.5 ${currentTier.name === tier.name ? "text-red-100" : "text-gray-500"}`}>
+                      {tier.range}
+                    </div>
+                  </button>
+                ))}
+              </div>
+
+              {/* What's Included Section */}
+              <div className="pt-2 border-t border-gray-100">
+                <span className="text-xs font-bold tracking-wider text-gray-400 uppercase block mb-2">
+                  WHAT&apos;S INCLUDED
+                </span>
+                <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs sm:text-sm text-gray-700">
+                  {[
+                    "Complete Store Setup",
+                    "Premium Interior Design",
+                    `Product Stock (${currentTier.itemCount})`,
+                    "POS Billing Software",
+                    "Marketing Support",
+                    "Dedicated Account Manager",
+                  ].map((item, idx) => (
+                    <li key={idx} className="flex items-center gap-2">
+                      <CheckCircle2 size={15} className="text-[#b00000] shrink-0" />
+                      <span className="truncate">{item}</span>
+                    </li>
+                  ))}
+                </ul>
               </div>
             </div>
-          </div>
 
-          {/* Right Panel - Images */}
-          <div className="flex flex-col space-y-4 justify-between">
-            {/* ROI Image */}
-            <div className="rounded-xl sm:rounded-2xl shadow-md bg-white border border-gray-100 flex-1 overflow-hidden min-h-[300px] flex items-center justify-center p-2">
-              <img
-                src="/images/Carefree earning with buyzaar.png"
-                alt="Franchise Investment Chart"
-                className="w-full h-full object-contain object-center"
-              />
-            </div>
+            {/* Right Column: Breakdown Cards (with Security Deposit), Total Highlight, CTA */}
+            <div className="lg:col-span-6 space-y-2.5">
+              
+              {/* Item 1: Interior Setup */}
+              <div className="flex items-center justify-between p-3 rounded-2xl bg-gray-50/80 border border-gray-100">
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-xl bg-red-100/70 flex items-center justify-center text-[#b00000] shrink-0">
+                    <Building2 size={18} />
+                  </div>
+                  <div>
+                    <h4 className="text-xs sm:text-sm font-semibold text-gray-900 leading-tight">Interior Setup</h4>
+                    <p className="text-[11px] text-gray-400">Based on store size</p>
+                  </div>
+                </div>
+                <span className="text-sm sm:text-base font-bold text-gray-900">
+                  ₹{formatCurrency(costs.interior)}
+                </span>
+              </div>
 
-            {/* Investment Image */}
-            <div className="rounded-xl border-2 border-red-800 sm:rounded-2xl shadow-md overflow-hidden h-[180px] sm:h-[190px] flex items-center justify-center bg-white p-2">
-              <img
-                src="/images/BUYZAAR BRAND 2.png"
-                alt="Franchise Benefits"
-                className="w-full h-full object-contain object-center"
-              />
+              {/* Item 2: Product Stock */}
+              <div className="flex items-center justify-between p-3 rounded-2xl bg-gray-50/80 border border-gray-100">
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-xl bg-red-100/70 flex items-center justify-center text-[#b00000] shrink-0">
+                    <Package size={18} />
+                  </div>
+                  <div>
+                    <h4 className="text-xs sm:text-sm font-semibold text-gray-900 leading-tight">Product Stock</h4>
+                    <p className="text-[11px] text-gray-400">{currentTier.itemCount}</p>
+                  </div>
+                </div>
+                <span className="text-sm sm:text-base font-bold text-gray-900">
+                  ₹{formatCurrency(costs.stock)}
+                </span>
+              </div>
+
+              {/* Item 3: Franchise Fee */}
+              <div className="flex items-center justify-between p-3 rounded-2xl bg-gray-50/80 border border-gray-100">
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-xl bg-red-100/70 flex items-center justify-center text-[#b00000] shrink-0">
+                    <Briefcase size={18} />
+                  </div>
+                  <div>
+                    <h4 className="text-xs sm:text-sm font-semibold text-gray-900 leading-tight">Franchise Fee</h4>
+                    <p className="text-[11px] text-gray-400">Incl. 18% GST</p>
+                  </div>
+                </div>
+                <span className="text-sm sm:text-base font-bold text-gray-900">
+                  ₹{formatCurrency(costs.franchiseFee)}
+                </span>
+              </div>
+
+              {/* Item 4: Software Fee */}
+              <div className="flex items-center justify-between p-3 rounded-2xl bg-gray-50/80 border border-gray-100">
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-xl bg-red-100/70 flex items-center justify-center text-[#b00000] shrink-0">
+                    <Monitor size={18} />
+                  </div>
+                  <div>
+                    <h4 className="text-xs sm:text-sm font-semibold text-gray-900 leading-tight">Software Fee</h4>
+                    <p className="text-[11px] text-gray-400">Incl. 18% GST</p>
+                  </div>
+                </div>
+                <span className="text-sm sm:text-base font-bold text-gray-900">
+                  ₹{formatCurrency(costs.softwareFee)}
+                </span>
+              </div>
+
+              {/* Item 5: Security Deposit */}
+              <div className="flex items-center justify-between p-3 rounded-2xl bg-gray-50/80 border border-gray-100">
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-xl bg-red-100/70 flex items-center justify-center text-[#b00000] shrink-0">
+                    <ShieldCheck size={18} />
+                  </div>
+                  <div>
+                    <h4 className="text-xs sm:text-sm font-semibold text-gray-900 leading-tight">Security Deposit</h4>
+                    <p className="text-[11px] text-gray-400">Refundable / Adjustable operational buffer</p>
+                  </div>
+                </div>
+                <span className="text-sm sm:text-base font-bold text-gray-900">
+                  ₹{formatCurrency(costs.securityDeposit)}
+                </span>
+              </div>
+
+              {/* Estimated Setup Investment Box (Website Theme) */}
+              <div className="relative overflow-hidden rounded-2xl bg-gradient-to-r from-[#b00000] to-[#8f0000] text-white p-4 sm:p-5 shadow-md">
+                <div className="relative z-10 flex items-center justify-between">
+                  <div>
+                    <div className="flex items-center gap-1.5 text-xs font-semibold tracking-wider uppercase text-red-200">
+                      <Building2 size={14} />
+                      <span>ESTIMATED SETUP INVESTMENT</span>
+                    </div>
+                    <div className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight mt-0.5">
+                      ₹{formatCurrency(totalInvestment)}
+                    </div>
+                    <p className="text-xs text-red-100 mt-1">
+                      Payback Period: <span className="font-semibold text-white">{currentTier.payback}</span> • Projected Sales: <span className="font-semibold text-white">₹{currentTier.salesRange}</span>
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute -right-6 -bottom-6 w-24 h-24 rounded-full bg-white/10 pointer-events-none"></div>
+              </div>
+
+              {/* Disclaimer */}
+              <div className="flex items-center gap-1.5 text-[11px] text-gray-400 px-1">
+                <Info size={12} className="shrink-0 text-gray-400" />
+                <span>Final numbers may vary slightly based on city, store condition, and scope.</span>
+              </div>
+
+              {/* CTA Button in Black / Red Theme */}
+              <button
+                onClick={handleContactClick}
+                type="button"
+                className="w-full bg-[#111827] hover:bg-[#b00000] text-white font-bold py-3 px-4 rounded-xl transition-all duration-300 shadow hover:shadow-lg flex items-center justify-center gap-2 text-xs sm:text-sm cursor-pointer tracking-wide"
+              >
+                <PhoneCall size={16} />
+                <span>CONTACT US FOR DETAILED PLAN</span>
+              </button>
             </div>
           </div>
         </div>
+
       </div>
 
       <style jsx>{`
-        .slider::-webkit-slider-thumb {
+        .range-slider::-webkit-slider-thumb {
           appearance: none;
-          height: 24px;
-          width: 24px;
+          height: 20px;
+          width: 20px;
           border-radius: 50%;
-          background: #000000;
+          background: #ffffff;
+          border: 3px solid #b00000;
           cursor: pointer;
-          box-shadow: 0 0 2px 0 #555;
-          transition: background 0.15s ease-in-out;
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+          transition: transform 0.1s ease;
         }
 
-        .slider::-webkit-slider-thumb:hover {
-          background: #1f2937;
+        .range-slider::-webkit-slider-thumb:hover {
+          transform: scale(1.15);
         }
 
-        .slider::-moz-range-thumb {
-          height: 24px;
-          width: 24px;
+        .range-slider::-moz-range-thumb {
+          height: 20px;
+          width: 20px;
           border-radius: 50%;
-          background: #000000;
+          background: #ffffff;
+          border: 3px solid #b00000;
           cursor: pointer;
-          border: none;
-          box-shadow: 0 0 2px 0 #555;
-        }
-
-        @media (max-width: 640px) {
-          .slider::-webkit-slider-thumb {
-            height: 28px;
-            width: 28px;
-          }
-
-          .slider::-moz-range-thumb {
-            height: 28px;
-            width: 28px;
-          }
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
         }
       `}</style>
-    </div>
+    </section>
   );
 };
 

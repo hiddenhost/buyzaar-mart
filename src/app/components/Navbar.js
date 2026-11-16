@@ -111,7 +111,7 @@ const Navbar = () => {
     <>
       {/* ── TOP BAR ── */}
       <div className="fixed top-0 w-full z-50 bg-[#b00000] text-white text-sm">
-        <div className="max-w-9xl mx-auto px-4 sm:px-6 py-1.5 flex items-center justify-start gap-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-1.5 flex items-center justify-between">
           <a
             href="tel:+919217991727"
             className="flex items-center gap-1.5 hover:text-red-200 transition-colors duration-200"
@@ -153,7 +153,7 @@ const Navbar = () => {
             <div className="flex items-center space-x-6 xl:space-x-7">
                 <Link
                   href="/"
-                  className={`text-sm font-medium transition-colors duration-300 ${
+                  className={`text-base font-medium transition-colors duration-300 ${
                     isActiveLink("/") ? "text-black" : "text-gray-600 hover:text-black"
                   }`}
                 >
@@ -167,7 +167,7 @@ const Navbar = () => {
                     onClick={toggleAboutDropdown}
                     onMouseEnter={() => setIsAboutDropdownOpen(true)}
                     onMouseLeave={() => setIsAboutDropdownOpen(false)}
-                    className={`text-sm font-medium transition-colors duration-300 flex items-center cursor-pointer space-x-1 focus:outline-none ${
+                    className={`text-base font-medium transition-colors duration-300 flex items-center cursor-pointer space-x-1 focus:outline-none ${
                       isAboutSectionActive() || isAboutDropdownOpen ? "text-black" : "text-gray-600 hover:text-black"
                     }`}
                     aria-expanded={isAboutDropdownOpen}
@@ -175,7 +175,7 @@ const Navbar = () => {
                   >
                     <span>About Us</span>
                     <ChevronDown
-                      size={14}
+                      size={16}
                       className={`transition-transform duration-300 ${isAboutDropdownOpen ? "rotate-180" : "rotate-0"}`}
                     />
                   </button>
@@ -217,7 +217,7 @@ const Navbar = () => {
                     onClick={toggleServicesDropdown}
                     onMouseEnter={() => setIsServicesDropdownOpen(true)}
                     onMouseLeave={() => setIsServicesDropdownOpen(false)}
-                    className={`text-sm font-medium transition-colors duration-300 cursor-pointer flex items-center space-x-1 focus:outline-none ${
+                    className={`text-base font-medium transition-colors duration-300 cursor-pointer flex items-center space-x-1 focus:outline-none ${
                       isServicesSectionActive() || isServicesDropdownOpen ? "text-black" : "text-gray-600 hover:text-black"
                     }`}
                     aria-expanded={isServicesDropdownOpen}
@@ -225,7 +225,7 @@ const Navbar = () => {
                   >
                     <span>Services</span>
                     <ChevronDown
-                      size={14}
+                      size={16}
                       className={`transition-transform duration-300 ${isServicesDropdownOpen ? "rotate-180" : "rotate-0"}`}
                     />
                   </button>
@@ -269,7 +269,7 @@ const Navbar = () => {
 
                 <Link
                   href="/franchise"
-                  className={`text-sm font-medium transition-colors duration-300 ${
+                  className={`text-base font-medium transition-colors duration-300 ${
                     isActiveLink("/franchise") ? "text-black" : "text-gray-600 hover:text-black"
                   }`}
                 >
@@ -278,7 +278,7 @@ const Navbar = () => {
 
                 <Link
                   href="/blog"
-                  className={`text-sm font-medium transition-colors duration-300 ${
+                  className={`text-base font-medium transition-colors duration-300 ${
                     isActiveLink("/blog") ? "text-black" : "text-gray-600 hover:text-black"
                   }`}
                 >
@@ -287,15 +287,15 @@ const Navbar = () => {
 
                 <Link
                   href="/contact"
-                  className={`px-4 py-1.5 rounded-md text-sm font-medium transition-all duration-300 ${
+                  className={`px-5 py-2 rounded-md text-base font-medium transition-all duration-300 ${
                     isActiveLink("/contact") ? "bg-[#b00000] text-white" : "bg-[#b00000] text-white hover:bg-[#8f0000]"
                   }`}
                 >
-                  Contact
+                  Contact Us
                 </Link>
                 <Link
                   href="/join-our-team/register"
-                  className={`px-4 py-1.5 rounded-md text-sm font-semibold border transition-all duration-300 whitespace-nowrap ${
+                  className={`px-5 py-2 rounded-md text-base font-semibold border transition-all duration-300 whitespace-nowrap ${
                     isActiveLink("/join-our-team")
                       ? "bg-[#8f0000] border-[#8f0000] text-white"
                       : "bg-white border-[#b00000] text-[#b00000] hover:bg-[#b00000] hover:text-white"

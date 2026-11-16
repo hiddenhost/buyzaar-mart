@@ -111,7 +111,7 @@ const Navbar = () => {
     <>
       {/* ── TOP BAR ── */}
       <div className="fixed top-0 w-full z-50 bg-[#b00000] text-white text-xs sm:text-sm">
-        <div className="max-w-7xl mx-auto px-3 sm:px-6 py-1.5 flex items-center justify-between">
+        <div className="w-full max-w-[1920px] mx-auto px-4 sm:px-8 lg:px-12 xl:px-16 2xl:px-24 py-1.5 flex items-center justify-between">
           <a
             href="tel:+919217991727"
             className="flex items-center gap-1.5 hover:text-red-200 transition-colors duration-200"
@@ -135,7 +135,7 @@ const Navbar = () => {
           isScrolled ? "bg-white/95 backdrop-blur-sm shadow-lg" : "bg-white shadow-md"
         }`}
       >
-        <nav className="max-w-7xl mx-auto px-4 sm:px-6 py-0">
+        <nav className="w-full max-w-[1920px] mx-auto px-4 sm:px-8 lg:px-12 xl:px-16 2xl:px-24 py-0">
           {/* Desktop & Laptop Layout (xl, 2xl, lg) */}
           <div className="hidden xl:flex items-center justify-between h-20">
             {/* Left-Aligned Logo */}

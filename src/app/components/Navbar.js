@@ -110,8 +110,8 @@ const Navbar = () => {
   return (
     <>
       {/* ── TOP BAR ── */}
-      <div className="fixed top-0 w-full z-50 bg-[#b00000] text-white text-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-1.5 flex items-center justify-between">
+      <div className="fixed top-0 w-full z-50 bg-[#b00000] text-white text-xs sm:text-sm">
+        <div className="max-w-7xl mx-auto px-3 sm:px-6 py-1.5 flex items-center justify-between">
           <a
             href="tel:+919217991727"
             className="flex items-center gap-1.5 hover:text-red-200 transition-colors duration-200"
@@ -131,13 +131,13 @@ const Navbar = () => {
 
       {/* ── MAIN HEADER ── pushed down by top bar (~30px) */}
       <header
-        className={`fixed top-[30px] w-full z-40 transition-all duration-300 ${
+        className={`fixed top-[28px] sm:top-[30px] w-full z-40 transition-all duration-300 ${
           isScrolled ? "bg-white/95 backdrop-blur-sm shadow-lg" : "bg-white shadow-md"
         }`}
       >
         <nav className="max-w-7xl mx-auto px-4 sm:px-6 py-0">
-          {/* Desktop Layout */}
-          <div className="hidden lg:flex items-center justify-between h-20">
+          {/* Desktop & Laptop Layout (xl, 2xl, lg) */}
+          <div className="hidden xl:flex items-center justify-between h-20">
             {/* Left-Aligned Logo */}
             <div className="flex items-center shrink-0">
               <Link href="/" className="flex items-center">
@@ -149,12 +149,12 @@ const Navbar = () => {
               </Link>
             </div>
 
-            {/* Right Navigation */}
-            <div className="flex items-center space-x-6 xl:space-x-7">
+            {/* Center Navigation Tabs */}
+            <div className="flex items-center justify-center space-x-7 2xl:space-x-9 flex-1 px-4">
                 <Link
                   href="/"
-                  className={`text-base font-medium transition-colors duration-300 ${
-                    isActiveLink("/") ? "text-black" : "text-gray-600 hover:text-black"
+                  className={`text-[15px] font-semibold tracking-normal transition-colors duration-200 ${
+                    isActiveLink("/") ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"
                   }`}
                 >
                   Home
@@ -167,16 +167,17 @@ const Navbar = () => {
                     onClick={toggleAboutDropdown}
                     onMouseEnter={() => setIsAboutDropdownOpen(true)}
                     onMouseLeave={() => setIsAboutDropdownOpen(false)}
-                    className={`text-base font-medium transition-colors duration-300 flex items-center cursor-pointer space-x-1 focus:outline-none ${
-                      isAboutSectionActive() || isAboutDropdownOpen ? "text-black" : "text-gray-600 hover:text-black"
+                    className={`text-[15px] font-semibold tracking-normal transition-colors duration-200 flex items-center cursor-pointer space-x-1 focus:outline-none ${
+                      isAboutSectionActive() || isAboutDropdownOpen ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"
                     }`}
                     aria-expanded={isAboutDropdownOpen}
                     aria-haspopup="true"
                   >
                     <span>About Us</span>
                     <ChevronDown
-                      size={16}
-                      className={`transition-transform duration-300 ${isAboutDropdownOpen ? "rotate-180" : "rotate-0"}`}
+                      size={15}
+                      strokeWidth={2.5}
+                      className={`transition-transform duration-200 ${isAboutDropdownOpen ? "rotate-180" : "rotate-0"}`}
                     />
                   </button>
 
@@ -191,7 +192,7 @@ const Navbar = () => {
                       <Link
                         href="/our-mission"
                         className={`block px-4 py-2.5 text-sm transition-colors duration-300 font-medium ${
-                          isActiveLink("/our-mission") ? "text-black bg-gray-100" : "text-gray-600 hover:text-black hover:bg-gray-50"
+                          isActiveLink("/our-mission") ? "text-[#b00000] bg-gray-50" : "text-gray-700 hover:text-[#b00000] hover:bg-gray-50"
                         }`}
                         onClick={() => setIsAboutDropdownOpen(false)}
                       >
@@ -200,7 +201,7 @@ const Navbar = () => {
                       <Link
                         href="/our-vision"
                         className={`block px-4 py-2.5 text-sm transition-colors duration-300 font-medium ${
-                          isActiveLink("/our-vision") ? "text-black bg-gray-100" : "text-gray-600 hover:text-black hover:bg-gray-50"
+                          isActiveLink("/our-vision") ? "text-[#b00000] bg-gray-50" : "text-gray-700 hover:text-[#b00000] hover:bg-gray-50"
                         }`}
                         onClick={() => setIsAboutDropdownOpen(false)}
                       >
@@ -217,16 +218,17 @@ const Navbar = () => {
                     onClick={toggleServicesDropdown}
                     onMouseEnter={() => setIsServicesDropdownOpen(true)}
                     onMouseLeave={() => setIsServicesDropdownOpen(false)}
-                    className={`text-base font-medium transition-colors duration-300 cursor-pointer flex items-center space-x-1 focus:outline-none ${
-                      isServicesSectionActive() || isServicesDropdownOpen ? "text-black" : "text-gray-600 hover:text-black"
+                    className={`text-[15px] font-semibold tracking-normal transition-colors duration-200 cursor-pointer flex items-center space-x-1 focus:outline-none ${
+                      isServicesSectionActive() || isServicesDropdownOpen ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"
                     }`}
                     aria-expanded={isServicesDropdownOpen}
                     aria-haspopup="true"
                   >
                     <span>Services</span>
                     <ChevronDown
-                      size={16}
-                      className={`transition-transform duration-300 ${isServicesDropdownOpen ? "rotate-180" : "rotate-0"}`}
+                      size={15}
+                      strokeWidth={2.5}
+                      className={`transition-transform duration-200 ${isServicesDropdownOpen ? "rotate-180" : "rotate-0"}`}
                     />
                   </button>
 
@@ -240,7 +242,7 @@ const Navbar = () => {
                     <div className="py-2">
                       <Link
                         href="/store-features"
-                        className="block px-4 py-2.5 text-sm text-gray-600 hover:text-black hover:bg-gray-50 transition-colors duration-300 font-medium"
+                        className="block px-4 py-2.5 text-sm text-gray-700 hover:text-[#b00000] hover:bg-gray-50 transition-colors duration-300 font-medium"
                         onClick={() => setIsServicesDropdownOpen(false)}
                       >
                         Store Features
@@ -248,7 +250,7 @@ const Navbar = () => {
                       <Link
                         href="/our-module"
                         className={`block px-4 py-2.5 text-sm transition-colors duration-300 font-medium ${
-                          isActiveLink("/our-module") ? "text-black bg-gray-100" : "text-gray-600 hover:text-black hover:bg-gray-50"
+                          isActiveLink("/our-module") ? "text-[#b00000] bg-gray-50" : "text-gray-700 hover:text-[#b00000] hover:bg-gray-50"
                         }`}
                         onClick={() => setIsServicesDropdownOpen(false)}
                       >
@@ -257,7 +259,7 @@ const Navbar = () => {
                       <Link
                         href="/our-store"
                         className={`block px-4 py-2.5 text-sm transition-colors duration-300 font-medium ${
-                          isActiveLink("/our-store") ? "text-black bg-gray-100" : "text-gray-600 hover:text-black hover:bg-gray-50"
+                          isActiveLink("/our-store") ? "text-[#b00000] bg-gray-50" : "text-gray-700 hover:text-[#b00000] hover:bg-gray-50"
                         }`}
                         onClick={() => setIsServicesDropdownOpen(false)}
                       >
@@ -269,8 +271,8 @@ const Navbar = () => {
 
                 <Link
                   href="/franchise"
-                  className={`text-base font-medium transition-colors duration-300 ${
-                    isActiveLink("/franchise") ? "text-black" : "text-gray-600 hover:text-black"
+                  className={`text-[15px] font-semibold tracking-normal transition-colors duration-200 ${
+                    isActiveLink("/franchise") ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"
                   }`}
                 >
                   Franchise
@@ -278,16 +280,19 @@ const Navbar = () => {
 
                 <Link
                   href="/blog"
-                  className={`text-base font-medium transition-colors duration-300 ${
-                    isActiveLink("/blog") ? "text-black" : "text-gray-600 hover:text-black"
+                  className={`text-[15px] font-semibold tracking-normal transition-colors duration-200 ${
+                    isActiveLink("/blog") ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"
                   }`}
                 >
                   Blog
                 </Link>
+              </div>
 
+            {/* Right Action Buttons */}
+            <div className="flex items-center space-x-4 shrink-0">
                 <Link
                   href="/contact"
-                  className={`px-5 py-2 rounded-md text-base font-medium transition-all duration-300 ${
+                  className={`px-5 py-2 rounded-xl text-[15px] font-semibold transition-all duration-300 ${
                     isActiveLink("/contact") ? "bg-[#b00000] text-white" : "bg-[#b00000] text-white hover:bg-[#8f0000]"
                   }`}
                 >
@@ -295,35 +300,120 @@ const Navbar = () => {
                 </Link>
                 <Link
                   href="/join-our-team/register"
-                  className={`px-5 py-2 rounded-md text-base font-semibold border transition-all duration-300 whitespace-nowrap ${
+                  className={`group relative overflow-hidden px-5 py-2 rounded-xl text-[15px] font-semibold border border-[#b00000] whitespace-nowrap transition-colors duration-300 ${
                     isActiveLink("/join-our-team")
                       ? "bg-[#8f0000] border-[#8f0000] text-white"
-                      : "bg-white border-[#b00000] text-[#b00000] hover:bg-[#b00000] hover:text-white"
+                      : "bg-white text-[#b00000] hover:text-white"
                   }`}
                 >
-                  Join Our Team
+                  <span
+                    className={`absolute inset-0 w-full h-full bg-[#b00000] transition-transform duration-300 ease-out -translate-x-full group-hover:translate-x-0 ${
+                      isActiveLink("/join-our-team") ? "translate-x-0" : ""
+                    }`}
+                  />
+                  <span className="relative z-10">Join Our Team</span>
                 </Link>
               </div>
           </div>
 
-          {/* Mobile Layout */}
-          <div className="flex lg:hidden items-center justify-between h-14 relative ml-4">
-            {/* Mobile Logo - Centered */}
-            <div className="absolute left-0 right-0 flex items-center justify-center z-10 max-w-[35%] mx-auto">
+          {/* Medium Screen / Tablet Landscape Layout (lg only: 1024px - 1279px) */}
+          <div className="hidden lg:flex xl:hidden items-center justify-between h-20">
+            <div className="flex items-center shrink-0">
               <Link href="/" className="flex items-center">
                 <img
                   src="/images/buyzaar-logo.png"
                   alt="The Buyzaar Mart"
-                  className="h-30 w-auto transition-all duration-300 max-w-full"
+                  className={`w-auto transition-all duration-300 ${isScrolled ? "h-36" : "h-36"}`}
                 />
               </Link>
             </div>
 
-            {/* Mobile Hamburger */}
-            <div className="ml-auto">
+            <div className="flex items-center justify-center space-x-4 flex-1 px-2">
+              <Link
+                href="/"
+                className={`text-sm font-semibold transition-colors ${
+                  isActiveLink("/") ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"
+                }`}
+              >
+                Home
+              </Link>
+              <div className="relative" ref={dropdownRef}>
+                <button
+                  onClick={toggleAboutDropdown}
+                  className={`text-sm font-semibold flex items-center space-x-0.5 focus:outline-none ${
+                    isAboutSectionActive() || isAboutDropdownOpen ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"
+                  }`}
+                >
+                  <span>About</span>
+                  <ChevronDown size={13} />
+                </button>
+                {isAboutDropdownOpen && (
+                  <div className="absolute top-full left-0 mt-2 w-44 bg-white rounded-lg shadow-lg border border-gray-100 py-1">
+                    <Link href="/our-mission" onClick={() => setIsAboutDropdownOpen(false)} className="block px-3 py-2 text-xs font-medium text-gray-700 hover:text-[#b00000]">Our Mission</Link>
+                    <Link href="/our-vision" onClick={() => setIsAboutDropdownOpen(false)} className="block px-3 py-2 text-xs font-medium text-gray-700 hover:text-[#b00000]">Our Vision</Link>
+                  </div>
+                )}
+              </div>
+              <div className="relative" ref={servicesDropdownRef}>
+                <button
+                  onClick={toggleServicesDropdown}
+                  className={`text-sm font-semibold flex items-center space-x-0.5 focus:outline-none ${
+                    isServicesSectionActive() || isServicesDropdownOpen ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"
+                  }`}
+                >
+                  <span>Services</span>
+                  <ChevronDown size={13} />
+                </button>
+                {isServicesDropdownOpen && (
+                  <div className="absolute top-full left-0 mt-2 w-48 bg-white rounded-lg shadow-lg border border-gray-100 py-1">
+                    <Link href="/store-features" onClick={() => setIsServicesDropdownOpen(false)} className="block px-3 py-2 text-xs font-medium text-gray-700 hover:text-[#b00000]">Store Features</Link>
+                    <Link href="/our-module" onClick={() => setIsServicesDropdownOpen(false)} className="block px-3 py-2 text-xs font-medium text-gray-700 hover:text-[#b00000]">Our Module</Link>
+                    <Link href="/our-store" onClick={() => setIsServicesDropdownOpen(false)} className="block px-3 py-2 text-xs font-medium text-gray-700 hover:text-[#b00000]">Experience Store</Link>
+                  </div>
+                )}
+              </div>
+              <Link href="/franchise" className={`text-sm font-semibold transition-colors ${isActiveLink("/franchise") ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"}`}>
+                Franchise
+              </Link>
+              <Link href="/blog" className={`text-sm font-semibold transition-colors ${isActiveLink("/blog") ? "text-[#b00000]" : "text-[#1f2937] hover:text-[#b00000]"}`}>
+                Blog
+              </Link>
+            </div>
+
+            <div className="flex items-center space-x-2 shrink-0">
+              <Link href="/contact" className="px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-[#b00000] text-white hover:bg-[#8f0000]">
+                Contact Us
+              </Link>
+              <Link href="/join-our-team/register" className="px-3.5 py-1.5 rounded-lg text-xs font-semibold border border-[#b00000] text-[#b00000] hover:bg-[#b00000] hover:text-white">
+                Join Team
+              </Link>
+            </div>
+          </div>
+
+          {/* Mobile & Tablet Portrait Layout (< 1024px) */}
+          <div className="flex lg:hidden items-center justify-between h-16 relative">
+            {/* Left Mobile Logo */}
+            <div className="flex items-center">
+              <Link href="/" className="flex items-center">
+                <img
+                  src="/images/buyzaar-logo.png"
+                  alt="The Buyzaar Mart"
+                  className="h-12 w-auto object-contain"
+                />
+              </Link>
+            </div>
+
+            {/* Mobile Actions: Contact quick button + Hamburger */}
+            <div className="flex items-center space-x-2">
+              <Link
+                href="/contact"
+                className="px-3 py-1.5 rounded-lg bg-[#b00000] text-white text-xs font-semibold sm:inline-block"
+              >
+                Contact
+              </Link>
               <button
                 onClick={toggleMobileMenu}
-                className="text-gray-800 hover:text-black transition-colors duration-300 p-2 focus:outline-none focus:ring-2 focus:ring-black focus:ring-offset-2 rounded-md"
+                className="text-gray-800 hover:text-[#b00000] transition-colors p-2 focus:outline-none rounded-lg"
                 aria-expanded={isMenuOpen}
                 aria-label="Toggle mobile menu"
                 type="button"

@@ -29554,7 +29554,7 @@ export const blogs = [
 }),
 
 ({
-  id: 73,
+  id: 116,
   slug: "income-tax-and-gst-on-franchise-profits-guide-for-owners",
   title: "Income Tax & GST on Franchise Profits: Owner’s Guide",
   subtitle: "A simple guide to income tax and GST on franchise profits: slabs, audit limits, composition scheme, GST on royalty and filing tips. Consult your CA.",
@@ -29782,6 +29782,245 @@ export const blogs = [
       title: "Income Tax & GST on Franchise Profits: Owner’s Guide",
       description: "Understand income tax and GST for franchise owners, including slabs, GST on royalty, composition scheme and filing tips.",
       images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1794637849/income-tax-and-gst-on-franchise-profits-guide-for-owners_kjegrf.jpg"]
+    },
+    icons: { icon: "/favicon-v2.ico" }
+  }
+}),
+
+({
+  id: 117,
+  slug: "franchise-renewal-and-exit-when-agreement-ends",
+  title: "Franchise Renewal and Exit: When Your Agreement Ends",
+  subtitle: "Know what happens when your franchise agreement ends. Learn how renewal works, what to check before exit, and how to plan the final months with confidence.",
+  category: "Franchise",
+  author: "The Buyzaar Mart",
+  date: "2026-11-16",
+  readTime: "8 min read",
+  image: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1794807638/franchise-renewal-and-exit-when-agreement-ends_p11yo8.jpg", // Add Cloudinary image URL here
+  content: "Know what happens when your franchise agreement ends. Learn how renewal works, what to check before exit, and how to plan the final months with confidence.",
+  tags: [
+    "Franchise Renewal",
+    "Franchise Exit",
+    "Franchise Agreement End",
+    "What Happens When Franchise Agreement Ends",
+    "Franchise Renewal Process",
+    "Franchise Exit Strategy",
+    "Franchise Agreement Terms",
+    "Franchise Renewal Checklist",
+    "Franchise Termination",
+    "Franchise Transfer",
+    "Selling a Franchise Store",
+    "Franchise Non-Compete Clause",
+    "Franchise Agreement Renewal Notice",
+    "Grocery Franchise Agreement",
+    "Grocery Franchise India",
+    "Grocery Franchise Owner Guide",
+    "Franchise Stock Buy-Back",
+    "Franchise Security Deposit",
+    "Franchise Term and Conditions",
+    "Franchisee Rights",
+    "Franchise Exit Planning",
+    "Renew or Exit Franchise",
+    "Retail Franchise India",
+    "Buyzaar Mart Franchise",
+    "Buyzaar Mart Blog"
+  ],
+
+  fullContent: {
+    introduction: "A franchise agreement is not forever. Every agreement has a term, and when it nears the end, an owner faces a clear choice: renew, renegotiate or exit. Many first-time owners focus on the opening and forget to ask what happens at the finish. This guide explains how renewal and exit usually work, what to check in your agreement and how to plan ahead, so the end of the term is a planned step and not a surprise.",
+
+    sections: [
+      {
+        heading: "Why Understanding the End of Your Agreement Matters",
+        content: [
+          { type: "bullets", items: [
+            "Your store, stock and customer base have value, and the agreement decides who keeps what at the end.",
+            "Knowing the rules early lets you plan finances and timing.",
+            "Renewal and exit steps take weeks or months, and missed deadlines can cost you the option to renew.",
+            "A clear calendar keeps you in control.",
+            "An owner who knows the exit path invests, hires and stocks with a long-term view.",
+            "It also builds trust between owner and franchisor."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Understanding the Agreement Term",
+        content: [
+          { type: "bullets", items: [
+            "The term is the fixed period for which you may run the store under the brand.",
+            "It is stated in your signed agreement, and different models can carry different terms.",
+            "Check the start date, end date and any rules for early closure.",
+            "Ask the franchisor to explain anything unclear in plain words.",
+            "Mark the renewal notice window, the review date and the final day on your calendar.",
+            "Set reminders well before each date."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How Franchise Renewal Usually Works",
+        content: [
+          { type: "bullets", items: [
+            "Many franchisors ask that the owner has met the agreed standards before renewing.",
+            "Typical checks include store performance, brand rules, payment record and customer service.",
+            "Renewal normally needs a written request within a set notice period, followed by a review and fresh documents.",
+            "Start the process early, so there is time to fix any gaps.",
+            "Terms, fees or standards may be updated, and the store may need a refresh to match current brand design.",
+            "Ask what will change before you commit.",
+            "A good franchisor guides owners through the renewal steps and criteria.",
+            "Share your questions in writing and keep a record of replies."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Preparing for Renewal: Your Checklist",
+        content: [
+          { type: "bullets", items: [
+            "Study sales, margins, stock turnover and wastage from POS reports over the full term.",
+            "Strong, steady numbers support a smooth renewal.",
+            "Keep licences, FSSAI registration, GST filings and staff records up to date.",
+            "Fix any audit points before the review.",
+            "Repair fixtures, update signage and keep the layout clean and consistent with the brand.",
+            "Our guide on cleanliness and store ambience explains why this builds repeat customers.",
+            "Clear pending payments and keep accounts tidy.",
+            "Clean records make every next step easier."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Renewal or Exit: How to Decide",
+        content: [
+          { type: "bullets", items: [
+            "Compare actual returns with the targets you set at the start.",
+            "Include your time, effort and local market changes.",
+            "You may be able to upgrade to a larger format or add categories, depending on the franchisor’s options.",
+            "Our guides on category mix and add-on products can help you judge extra revenue.",
+            "List renewal fees if any, refurbishment costs and working capital needs.",
+            "Compare them with the expected income from another term.",
+            "A chartered accountant and a lawyer who knows franchise agreements can review the numbers and wording.",
+            "This guide is general information and not legal advice."
+          ]}
+        ]
+      },
+
+      {
+        heading: "What Happens When You Choose to Exit",
+        content: [
+          { type: "bullets", items: [
+            "Your agreement sets the notice period and process for ending the relationship.",
+            "Follow them exactly, in writing, to avoid disputes.",
+            "Owners usually must stop using the brand name, logo, uniforms and trade dress after exit.",
+            "Plan to remove or replace signage by the agreed date.",
+            "Decide how to sell down or return stock before the final date.",
+            "Stock return and buy-back terms vary by agreement, so check what yours allows for unsold, expired or damaged goods.",
+            "Understand what happens to POS software access, customer data and loyalty records.",
+            "Take copies of your own accounts and reports before access ends.",
+            "Settle outstanding payments, and ask in writing how any security deposit will be handled.",
+            "Keep receipts and written confirmations.",
+            "Some agreements limit running a competing business nearby or sharing brand know-how for a period.",
+            "Read these clauses before you plan your next venture.",
+            "Share your plans with the franchisor early and confirm every decision in writing.",
+            "A respectful exit protects your reputation in the local market."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Exit Options Beyond Closing",
+        content: [
+          { type: "bullets", items: [
+            "Some franchisors allow an owner to transfer the store to an approved buyer.",
+            "This usually needs written consent and training for the new owner.",
+            "If you leave the brand, you may be able to run an independent shop, subject to your agreement’s limits.",
+            "Check the brand and non-compete rules first."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Mistakes to Avoid",
+        content: [
+          { type: "bullets", items: [
+            "Missing the renewal notice window.",
+            "Ignoring audit points until the final months.",
+            "Assuming verbal promises will apply without written confirmation.",
+            "Letting stock build up near the end of the term.",
+            "Skipping advice from an accountant or lawyer."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How a Buyzaar Mart Franchise Supports Owners Through Renewal and Beyond",
+        content: [
+          { type: "bullets", items: [
+            "Uniform store design and layout planning keep stores consistent and ready for review.",
+            "POS billing and CRM give clear sales and stock records that support renewal discussions.",
+            "Partnerships with leading FMCG brands and buy-back support on expired or damaged stock help reduce inventory risk.",
+            "Training and operational support, including performance reviews, help teams stay on track.",
+            "Mini Mart, Super Mart and Hyper Mart formats let you choose a size that fits your market and budget."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "The end of an agreement is a planned milestone, and good records, clean compliance and early notice make it smooth.",
+            "Read your agreement, mark the key dates and decide early whether to renew, grow or exit.",
+            "Aspiring store owners who want a proven retail model with these systems can explore the franchise opportunities at The Buyzaar Mart."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "What happens when a franchise agreement ends?",
+      answer: "You may renew, renegotiate or exit, depending on the terms of your signed agreement."
+    },
+    {
+      question: "How early should I start the renewal process?",
+      answer: "As early as the notice window allows, often several months before the term ends."
+    },
+    {
+      question: "Can the franchisor refuse renewal?",
+      answer: "Renewal is often subject to conditions in the agreement, such as performance and compliance. Read your clauses carefully."
+    },
+    {
+      question: "What happens to my stock if I exit?",
+      answer: "It depends on the agreement. Plan to sell down stock and ask in writing about return terms for expired or damaged goods."
+    },
+    {
+      question: "Can I sell my franchise store to someone else?",
+      answer: "Some franchisors allow transfers to an approved buyer with written consent. Check your agreement."
+    }
+  ],
+
+  metaTags: {
+    title: "Franchise Renewal and Exit: When Your Agreement Ends",
+    description: "Know what happens when your franchise agreement ends. Learn how renewal works, what to check before exit, and how to plan the final months with confidence.",
+    keywords: "franchise renewal, franchise exit, franchise agreement end, what happens when franchise agreement ends, franchise renewal process, franchise exit strategy, franchise agreement terms, franchise renewal checklist, franchise termination, franchise transfer, selling a franchise store, franchise non-compete clause, franchise agreement renewal notice, grocery franchise agreement, grocery franchise India, grocery franchise owner guide, franchise stock buy-back, franchise security deposit, franchise term and conditions, franchisee rights, franchise exit planning, renew or exit franchise, retail franchise India, Buyzaar Mart franchise, Buyzaar Mart blog",
+    alternates: {
+      canonical: "https://www.thebuyzaarmart.com/blog/franchise-renewal-and-exit-when-agreement-ends"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.thebuyzaarmart.com/blog/franchise-renewal-and-exit-when-agreement-ends",
+      title: "Franchise Renewal and Exit: When Your Agreement Ends",
+      description: "Know what happens when your franchise agreement ends. Learn how renewal works, what to check before exit, and how to plan the final months with confidence.",
+      images: [{ url: "https://res.cloudinary.com/dt8wjpf9e/image/upload/v1794807638/franchise-renewal-and-exit-when-agreement-ends_p11yo8.jpg", width: 1200, height: 630, alt: "Franchise Renewal and Exit: When Your Agreement Ends" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Franchise Renewal and Exit: When Your Agreement Ends",
+      description: "Plan franchise renewal or exit with a clear checklist for agreements, stock, deposits, compliance and transfers.",
+      images: ["https://res.cloudinary.com/dt8wjpf9e/image/upload/v1794807638/franchise-renewal-and-exit-when-agreement-ends_p11yo8.jpg"]
     },
     icons: { icon: "/favicon-v2.ico" }
   }

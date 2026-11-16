@@ -89,7 +89,7 @@ const HeroPage = ({ openModal }) => {
         className={`${worksans.className} relative bg-white overflow-hidden mt-1`}
       >
         <div className="absolute inset-0 bg-white"></div>
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10 lg:py-12">
+        <div className="relative max-w-7xl 2xl:max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10 lg:py-12">
           <div className="grid lg:grid-cols-2 gap-6 lg:gap-10 items-center">
             {/* Left Content */}
             <div className="text-left space-y-4 sm:space-y-6 lg:space-y-8 px-2 sm:px-0 lg:pr-6">
@@ -99,6 +99,9 @@ const HeroPage = ({ openModal }) => {
                 </h1>
                 <p className="text-sm sm:text-base md:text-lg text-gray-700 leading-relaxed">
                   Join <span className="text-black">Buyzaar</span> and become a part of India&apos;s growing entrepreneurial network.
+                </p>
+                <p className="text-sm sm:text-base text-gray-600 leading-relaxed">
+                  Discover a neighborhood retail opportunity and take the next step toward building your business with Buyzaar.
                 </p>
               </div>
 

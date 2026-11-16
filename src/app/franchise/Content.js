@@ -155,7 +155,7 @@ export default function FranchisePage() {
       </section>
 
       {/* Inventory Assurance - Responsive */}
-      <div className="bg-white rounded-2xl p-4 sm:p-6 md:p-8 shadow-xl border-2 border-gray-200 mb-8 sm:mb-12 md:mb-16 flex flex-col items-center mx-4 sm:mx-6 md:mx-auto max-w-6xl">
+      <div className="bg-white rounded-2xl p-4 sm:p-6 md:p-8 shadow-xl border-2 border-gray-200 mb-8 sm:mb-12 md:mb-16 flex flex-col items-center mx-4 sm:mx-6 md:mx-auto w-[calc(100%_-_2rem)] sm:w-[calc(100%_-_3rem)] max-w-6xl 2xl:max-w-[1280px]">
         <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-center mb-4 sm:mb-6 text-red-800 px-2">
           Hassle-Free Inventory Assurance
         </h2>
@@ -186,7 +186,7 @@ export default function FranchisePage() {
       <Services />
 
       {/* FRANCHISE BENEFITS - Responsive */}
-      <section className="max-w-6xl mx-auto my-8 sm:my-12 md:my-16 px-4 sm:px-6 py-8 sm:py-10 md:py-12 bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl border border-gray-200">
+      <section className="w-[calc(100%_-_2rem)] sm:w-[calc(100%_-_3rem)] max-w-6xl 2xl:max-w-[1280px] mx-auto my-8 sm:my-12 md:my-16 px-4 sm:px-6 py-8 sm:py-10 md:py-12 bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl border border-gray-200">
         <div className="text-center mb-8 sm:mb-10 md:mb-12">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-2 sm:mb-3 px-2">
             What We{" "}
@@ -269,7 +269,7 @@ export default function FranchisePage() {
       </section>
 
       {/* TWO-IMAGE GALLERY - Responsive */}
-      <section className="max-w-5xl mx-auto my-8 sm:my-12 md:my-16 px-4 sm:px-6">
+      <section className="w-[calc(100%_-_2rem)] sm:w-[calc(100%_-_3rem)] max-w-5xl 2xl:max-w-[1200px] mx-auto my-8 sm:my-12 md:my-16 px-4 sm:px-6">
         <h2 className="text-2xl sm:text-3xl font-bold text-center mb-5 sm:mb-7 text-red-800">
           Discover Your Franchise Style!
         </h2>
@@ -292,7 +292,7 @@ export default function FranchisePage() {
       </section>
 
       {/* Store Format Options - Responsive */}
-      <div className="max-w-full rounded-2xl mx-4 sm:mx-6 md:mx-auto p-6 sm:p-8 md:p-10 shadow-xl border-2 border-red-800 bg-gradient-to-br from-gray-50 to-gray-100">
+      <div className="w-[calc(100%_-_2rem)] sm:w-[calc(100%_-_3rem)] max-w-[1440px] rounded-2xl mx-4 sm:mx-6 md:mx-auto p-6 sm:p-8 md:p-10 shadow-xl border-2 border-red-800 bg-gradient-to-br from-gray-50 to-gray-100">
         <h2 className="text-2xl sm:text-3xl font-bold text-center text-black mb-6 sm:mb-8 md:mb-10 px-2">
           Store Formats & Product Categories
         </h2>
@@ -323,7 +323,7 @@ export default function FranchisePage() {
       </div>
 
       {/* DOCUMENTS REQUIRED - Responsive */}
-      <section className="max-w-full sm:max-w-6xl mx-4 sm:mx-6 md:mx-auto my-8 sm:my-10 md:my-12 p-0 rounded-2xl shadow-lg border border-gray-100 bg-white overflow-hidden">
+      <section className="w-[calc(100%_-_2rem)] sm:w-[calc(100%_-_3rem)] max-w-[1440px] mx-4 sm:mx-6 md:mx-auto my-8 sm:my-10 md:my-12 p-0 rounded-2xl shadow-lg border border-gray-100 bg-white overflow-hidden">
         <div className="bg-black px-4 sm:px-6 md:px-8 py-3 sm:py-4 flex items-center justify-between rounded-t-2xl">
           <div className="flex items-center gap-2">
             <span className="text-xl sm:text-2xl text-white">📄</span>
@@ -403,7 +403,7 @@ export default function FranchisePage() {
 
       {/* FRANCHISE APPLICATION FORM - Fully Responsive */}
       {/* FRANCHISE APPLICATION FORM - Fully Responsive */}
-      <section className="max-w-3xl mx-4 sm:mx-6 md:mx-auto mb-12 sm:mb-16 md:mb-20 p-0 rounded-2xl shadow-xl border border-gray-100 bg-white overflow-hidden">
+      <section className="w-[calc(100%_-_2rem)] sm:w-[calc(100%_-_3rem)] max-w-3xl 2xl:max-w-[960px] mx-4 sm:mx-6 md:mx-auto mb-12 sm:mb-16 md:mb-20 p-0 rounded-2xl shadow-xl border border-gray-100 bg-white overflow-hidden">
         <div className="bg-black px-4 sm:px-6 md:px-10 py-4 sm:py-5 md:py-6 rounded-t-2xl">
           <h2 className="font-bold text-white text-xl sm:text-2xl md:text-3xl flex items-center gap-2 sm:gap-3">
             📝 <span className="break-words">Franchise Application Form</span>

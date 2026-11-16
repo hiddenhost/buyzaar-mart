@@ -43,7 +43,7 @@ const About = () => {
 
       {/* Main Container */}
       <div className="relative z-10 w-full px-4 py-8 md:px-6 md:py-8 lg:px-8">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-7xl 2xl:max-w-[1440px] mx-auto">
           {/* Header Section */}
           <div
             ref={headerRef}
@@ -69,7 +69,7 @@ const About = () => {
             ref={cardsRef}
             className="relative opacity-0 transform translate-y-8 cards-animation"
           >
-            <div className="grid lg:grid-cols-2 gap-6 lg:gap-8 max-w-6xl mx-auto">
+            <div className="grid lg:grid-cols-2 gap-6 lg:gap-8 max-w-6xl 2xl:max-w-[1280px] mx-auto">
               {/* Mission Card */}
               <div
                 className={`group relative cursor-pointer transition-all duration-700 transform ${activeCard === null || activeCard === "mission"

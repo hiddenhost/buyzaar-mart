@@ -29,25 +29,25 @@ const MEDIA = [
   {
     id: 2,
     type: "image",
-    src: "/store-images/store2.png",
-    store: "Gangoh, Near Bus Stand",
+    src: "/store-images/WhatsApp Image 2026-11-17 at 10.45.46 AM.jpeg",
+    store: " Raipur Khadar Noida Sector 126",
     caption:
-      "Our Gangoh outlet — serving the community right near the Bus Stand.",
+      "Our Raipur Khadar Noida Sector 126 — serving the community right near Noida Sector 126.",
   },
   {
     id: 3,
     type: "image",
     src: "/store-images/store5.png",
-    store: "Behat, Saharanpur",
-    caption: "The Buyzaar Mart, Behat — bringing smart retail to Saharanpur.",
+    store: "Rohtak Haryana",
+    caption: "The Buyzaar Mart,Rohtak Haryana — bringing smart retail to Haryana.",
   },
   {
     id: 4,
     type: "image",
     src: "/store-images/store1.png",
-    store: "Bahadrabad, Haridwar",
+    store: "The Buyzaar Mart, Haridwa",
     caption:
-      "Our Haridwar store at Bahadrabad, a go-to destination for locals.",
+      "Our Haridwar store , a go-to destination for locals.",
   },
   {
     id: 5,
@@ -58,7 +58,7 @@ const MEDIA = [
       "Exciting things are coming to Laxmi Vilas, Raj Nagar Extension, Ghaziabad — stay tuned!",
     locationEmbed: `<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3499.35787020355!2d77.43051487550358!3d28.708849175623207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDQyJzMxLjkiTiA3N8KwMjUnNTkuMSJF!5e0!3m2!1sen!2sin!4v1775302915562!5m2!1sen!2sin" width="100%" height="300" style="border:0;" loading="lazy"></iframe>`,
   },
-  
+
 ];
 
 // ─────────────────────────────────────────────
@@ -129,11 +129,10 @@ export default function StoreImagesPage() {
             <button
               key={store}
               onClick={() => setActiveStore(store)}
-              className={`px-4 py-1.5 rounded-full text-xs uppercase tracking-[0.2em] border transition-all duration-200 ${
-                activeStore === store
-                  ? "bg-red-700 border-red-600 text-white shadow-[0_0_18px_rgba(220,38,38,0.5)]"
-                  : "border-neutral-700 text-neutral-400 hover:border-red-700 hover:text-red-300"
-              }`}
+              className={`px-4 py-1.5 rounded-full text-xs uppercase tracking-[0.2em] border transition-all duration-200 ${activeStore === store
+                ? "bg-red-700 border-red-600 text-white shadow-[0_0_18px_rgba(220,38,38,0.5)]"
+                : "border-neutral-700 text-neutral-400 hover:border-red-700 hover:text-red-300"
+                }`}
             >
               {store}
             </button>
@@ -216,60 +215,60 @@ export default function StoreImagesPage() {
                   </p>
                 </div>
 
-               {item.locationEmbed && (
-  <button
-    onClick={(e) => {
-      e.stopPropagation();
-      setMapOpen(item);
-    }}
-    className="absolute top-3 left-3 z-10 flex items-center gap-1.5 bg-black/70 backdrop-blur px-3 py-1.5 rounded-full text-xs text-white border border-white/20 hover:bg-red-700 hover:border-red-500 transition-all duration-300"
-  >
-    {/* Location SVG Icon */}
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      className="h-3.5 w-3.5"
-      viewBox="0 0 24 24"
-      fill="currentColor"
-    >
-      <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6a2.5 2.5 0 0 1 0 5.5z" />
-    </svg>
+                {item.locationEmbed && (
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setMapOpen(item);
+                    }}
+                    className="absolute top-3 left-3 z-10 flex items-center gap-1.5 bg-black/70 backdrop-blur px-3 py-1.5 rounded-full text-xs text-white border border-white/20 hover:bg-red-700 hover:border-red-500 transition-all duration-300"
+                  >
+                    {/* Location SVG Icon */}
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="h-3.5 w-3.5"
+                      viewBox="0 0 24 24"
+                      fill="currentColor"
+                    >
+                      <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6a2.5 2.5 0 0 1 0 5.5z" />
+                    </svg>
 
-    <span className="uppercase tracking-wider text-[10px]">View Location</span>
-  </button>
-)}
+                    <span className="uppercase tracking-wider text-[10px]">View Location</span>
+                  </button>
+                )}
               </motion.div>
             ))}
           </AnimatePresence>
           <AnimatePresence>
-  {mapOpen && (
-    <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 px-4"
-      onClick={() => setMapOpen(null)}
-    >
-      <motion.div
-        initial={{ scale: 0.9 }}
-        animate={{ scale: 1 }}
-        exit={{ scale: 0.9 }}
-        className="bg-neutral-900 rounded-xl overflow-hidden max-w-2xl w-full"
-        onClick={(e) => e.stopPropagation()}
-      >
-        <div
-          dangerouslySetInnerHTML={{ __html: mapOpen.locationEmbed }}
-        />
+            {mapOpen && (
+              <motion.div
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 px-4"
+                onClick={() => setMapOpen(null)}
+              >
+                <motion.div
+                  initial={{ scale: 0.9 }}
+                  animate={{ scale: 1 }}
+                  exit={{ scale: 0.9 }}
+                  className="bg-neutral-900 rounded-xl overflow-hidden max-w-2xl w-full"
+                  onClick={(e) => e.stopPropagation()}
+                >
+                  <div
+                    dangerouslySetInnerHTML={{ __html: mapOpen.locationEmbed }}
+                  />
 
-        <button
-          onClick={() => setMapOpen(null)}
-          className="absolute top-3 right-3 bg-black/70 p-2 rounded-full"
-        >
-          ✕
-        </button>
-      </motion.div>
-    </motion.div>
-  )}
-</AnimatePresence>
+                  <button
+                    onClick={() => setMapOpen(null)}
+                    className="absolute top-3 right-3 bg-black/70 p-2 rounded-full"
+                  >
+                    ✕
+                  </button>
+                </motion.div>
+              </motion.div>
+            )}
+          </AnimatePresence>
         </motion.div>
 
         {filtered.length === 0 && (

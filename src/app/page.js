@@ -14,8 +14,6 @@ export const metadata = {
     "grocery franchise in India",
     "supermarket franchise in India",
     "grocery store franchise in India",
-
-
     "grocery franchise under 20 lakh",
     "supermarket franchise cost India",
     "grocery franchise 18.5 lakh",

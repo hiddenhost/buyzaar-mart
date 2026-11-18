@@ -5,7 +5,7 @@ export const metadata = {
     "The Buyzaar Mart — Start Your Grocery & Supermarket Franchise in India",
 
   description:
-    "The Buyzaar Mart — Start your grocery & supermarket franchise in India from 18.5 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
+    "The Buyzaar Mart — Start your grocery & supermarket franchise in India from ₹18.5 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
 
   keywords: [
 
@@ -55,7 +55,7 @@ export const metadata = {
       "The Buyzaar Mart — Start Your Grocery & Supermarket Franchise in India",
 
     description:
-      "The Buyzaar Mart — Start your grocery & supermarket franchise in India from 18.5 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
+      "The Buyzaar Mart — Start your grocery & supermarket franchise in India from ₹18.5 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
 
     url: "https://www.thebuyzaarmart.com/",
     siteName: "The Buyzaar Mart",
@@ -81,7 +81,7 @@ export const metadata = {
       "The Buyzaar Mart — Start Your Grocery & Supermarket Franchise in India",
 
     description:
-      "The Buyzaar Mart — Start your grocery & supermarket franchise in India from 18.5 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
+      "The Buyzaar Mart — Start your grocery & supermarket franchise in India from ₹18.5 Lakh. FOCM model with full setup, supply chain, POS & ongoing support. Apply now.",
 
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },

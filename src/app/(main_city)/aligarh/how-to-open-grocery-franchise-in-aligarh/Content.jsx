@@ -98,7 +98,7 @@ const faqSchema = {
       name: "What is the minimum investment needed for this grocery franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.",
+        text: "Investment generally starts from around ₹18.5 lakh, depending on the chosen store format and location.",
       },
     },
     {
@@ -302,7 +302,7 @@ const Content = () => {
               Investment and Profit Considerations
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Franchise investment for a grocery store in Aligarh generally starts from around ₹15 Lakh, depending on the chosen format and location.</li>
+              <li>Franchise investment for a grocery store in Aligarh generally starts from around ₹18.5 lakh, depending on the chosen format and location.</li>
               <li>The investment typically covers interiors, initial stock, POS installation, branding, and launch support.</li>
               <li>Larger formats such as Super Mart and Hyper Mart require a proportionately higher investment due to increased space and stock needs.</li>
               <li>Profit margins on grocery sales generally range between 18 to 20 percent, depending on store size, location, and monthly sales volume.</li>
@@ -363,7 +363,7 @@ const Content = () => {
                   What is the minimum investment needed for this grocery franchise?
                 </h3>
                 <p className="mt-2">
-                  Investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.
+                  Investment generally starts from around ₹18.5 lakh, depending on the chosen store format and location.
                 </p>
               </div>
 

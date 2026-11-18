@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from ₹15 lakh for a Mini Mart under the FOCM model. Super Mart formats require higher investment starting from approximately ₹25 lakh, depending on store size and location.",
+        text: "The minimum investment starts from ₹18.5 lakh for a Mini Mart under the FOCM model. Super Mart formats require higher investment starting from approximately ₹25 lakh, depending on store size and location.",
       },
     },
     {
@@ -387,7 +387,7 @@ const Content = () => {
             <div className="space-y-4">
               <p>
                 <span className="font-semibold">1. Low Investment, High Support</span>{" "}
-                Starting from ₹15 lakh, The Buyzaar Mart offers one of the most accessible
+                Starting from ₹18.5 lakh, The Buyzaar Mart offers one of the most accessible
                 entry points into organised retail franchising in India. The brand ensures
                 you get full value for your investment through professional setup,
                 technology, and ongoing support.
@@ -516,7 +516,7 @@ const Content = () => {
                   Lucknow?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from ₹15 lakh for a Mini Mart under the FOCM
+                  The minimum investment starts from ₹18.5 lakh for a Mini Mart under the FOCM
                   model. Super Mart formats require higher investment starting from
                   approximately ₹25 lakh, depending on store size and location.
                 </p>

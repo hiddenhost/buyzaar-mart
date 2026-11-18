@@ -17,7 +17,7 @@ export const metadata = {
     "retail store setup franchise",
     "open a retail store in Amroha",
     "low investment retail store franchise",
-    "retail store franchise 15 lakh",
+    "retail store franchise 18.5 lakh",
     "retail store franchise total investment",
     "retail store franchise without experience",
     "retail store franchise with full support",

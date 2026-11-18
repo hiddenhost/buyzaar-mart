@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Starting 15 Lakh in Hapur | The Buyzaar Mart",
+  name: "Mart Franchise Starting 18.5 lakh in Hapur | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers mart franchise opportunities in Hapur starting from 15 lakh with Mini Mart and Super Mart formats, FOCM and FOCO models, centralized procurement, technology-enabled operations, and full franchise partner support.",
+    "The Buyzaar Mart offers mart franchise opportunities in Hapur starting from 18.5 lakh with Mini Mart and Super Mart formats, FOCM and FOCO models, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/hapur/mart-franchise-starting-15-lakh-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -49,7 +49,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Is 15 lakh a fixed starting investment for a mart franchise in Hapur?",
+      name: "Is 18.5 lakh a fixed starting investment for a mart franchise in Hapur?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It is a starting reference point. The exact amount depends on store format, location, and space size, confirmed individually by the franchise team.",
@@ -65,7 +65,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Can I select FOCO instead of FOCM when starting at 15 lakh?",
+      name: "Can I select FOCO instead of FOCM when starting at 18.5 lakh?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes. Both models are available, and the franchise team will help you choose based on your time availability and involvement preference.",
@@ -135,17 +135,17 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-            
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a Mart Franchise Starting From 15 Lakh Works in Hapur
+              Why a Mart Franchise Starting From 18.5 lakh Works in Hapur
             </h2>
             <ul className="list-disc space-y-2 pl-6">
               <li>Hapur&apos;s location along the NH-9 corridor connects the city directly to Delhi, Meerut, and Ghaziabad, giving any store here fast access to wholesale markets and FMCG distribution networks.</li>
-              <li>An entry point starting at 15 lakh makes organised retail accessible to first-time entrepreneurs who want ownership of a real business without the capital scale needed for a large-format store.</li>
+              <li>An entry point starting at 18.5 lakh makes organised retail accessible to first-time entrepreneurs who want ownership of a real business without the capital scale needed for a large-format store.</li>
               <li>Hapur&apos;s population is spread across established city areas and rapidly developing residential pockets along Delhi Road, Garhmukteshwar Road, and Pilkhuwa, all of which need daily-need retail coverage.</li>
               <li>The city&apos;s trading economy, anchored by its scrap and recycling industry, supports a working population with steady income and predictable grocery spending patterns.</li>
               <li>Most households in Hapur still depend on unorganised kirana stores for daily shopping, which means a branded, technology-enabled mart entering at this investment level can capture market share quickly.</li>
-              <li>Starting at 15 lakh also leaves room for a franchisee to prove the model in one location before considering expansion to a second Hapur outlet or a nearby town.</li>
+              <li>Starting at 18.5 lakh also leaves room for a franchisee to prove the model in one location before considering expansion to a second Hapur outlet or a nearby town.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -158,14 +158,14 @@ const Content = () => {
               <li>Franchise fee, inclusive of applicable GST, which grants the right to operate under The Buyzaar Mart brand identity.</li>
               <li>A security deposit as part of the franchise agreement structure, held in line with standard franchising terms.</li>
               <li>The exact split between these components depends on the store format and the specific commercial space identified in Hapur.</li>
-              <li>Applicants should treat 15 lakh as a starting reference point and confirm a precise, location-specific figure with the franchise team before finalising any decision.</li>
+              <li>Applicants should treat 18.5 lakh as a starting reference point and confirm a precise, location-specific figure with the franchise team before finalising any decision.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Choosing the Right Store Format at This Investment Level
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: Approximately 600 to 1000 square feet, the most common format for a starting investment of around 15 lakh, well suited to residential colonies and smaller local markets.</li>
+              <li>Mini Mart: Approximately 600 to 1000 square feet, the most common format for a starting investment of around 18.5 lakh, well suited to residential colonies and smaller local markets.</li>
               <li>Super Mart: Roughly 1,001 to 3,000 square feet, achievable at this investment level in some localities depending on rental cost and interior requirements.</li>
               <li>Hyper Mart: A larger destination-format store that generally requires investment beyond this starting range.</li>
               <li>A Mini Mart is often the practical first choice for applicants who want to test store performance in a specific Hapur neighbourhood before committing further capital.</li>
@@ -173,7 +173,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Franchise Models to Choose From When Starting at 15 Lakh
+              Franchise Models to Choose From When Starting at 18.5 lakh
             </h2>
             <ul className="list-disc space-y-2 pl-6">
               <li>FOCM (Franchise Owned, Company Managed): The franchisee invests the capital and owns the store, while The Buyzaar Mart&apos;s team manages daily operations, staffing, and store performance.</li>
@@ -189,7 +189,7 @@ const Content = () => {
             </h2>
             <ul className="list-disc space-y-2 pl-6">
               <li>Step 1 – Submit an Inquiry: Visit <a href="https://www.thebuyzaarmart.com" className="text-green-600 hover:underline">www.thebuyzaarmart.com</a> and fill out the franchise inquiry form with your name, contact details, city, and preferred Hapur locality.</li>
-              <li>Step 2 – Discovery Discussion: The franchise team explains the FOCM and FOCO models and discusses your available investment starting around 15 lakh.</li>
+              <li>Step 2 – Discovery Discussion: The franchise team explains the FOCM and FOCO models and discusses your available investment starting around 18.5 lakh.</li>
               <li>Step 3 – Format Recommendation: Based on your budget and preferred locality, the team recommends whether a Mini Mart or a Super Mart is the better starting format.</li>
               <li>Step 4 – Location Assessment: You propose a commercial space in Hapur, and the team surveys it for population density, footfall, and purchasing capacity.</li>
               <li>Step 5 – Investment Confirmation: A detailed breakdown is shared, covering opening stock, interior setup, software fee, franchise fee, and security deposit.</li>
@@ -251,7 +251,7 @@ const Content = () => {
               Common Questions Applicants Ask Before Starting
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Whether the 15 lakh figure is fixed or variable depending on location and format.</li>
+              <li>Whether the 18.5 lakh figure is fixed or variable depending on location and format.</li>
               <li>How quickly a Mini Mart can be set up compared to a Super Mart in the same investment range.</li>
               <li>What ongoing support looks like once the store moves past its initial launch phase.</li>
               <li>How the franchise team helps if a proposed location does not meet footfall or population criteria.</li>
@@ -264,7 +264,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Is 15 lakh a fixed starting investment for a mart franchise in Hapur?
+                  Is 18.5 lakh a fixed starting investment for a mart franchise in Hapur?
                 </h3>
                 <p className="mt-2">
                   It is a starting reference point. The exact amount depends on store format, location, and space size, confirmed individually by the franchise team.
@@ -282,7 +282,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Can I select FOCO instead of FOCM when starting at 15 lakh?
+                  Can I select FOCO instead of FOCM when starting at 18.5 lakh?
                 </h3>
                 <p className="mt-2">
                   Yes. Both models are available, and the franchise team will help you choose based on your time availability and involvement preference.
@@ -337,7 +337,7 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Mart Franchise Journey From 15 Lakh in Hapur
+                Start Your Mart Franchise Journey From 18.5 lakh in Hapur
               </h2>
 
               <p className="mb-4 text-gray-800">

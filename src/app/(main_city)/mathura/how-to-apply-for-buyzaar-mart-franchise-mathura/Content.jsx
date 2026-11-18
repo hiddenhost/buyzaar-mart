@@ -485,7 +485,7 @@ const Content = () => {
               </li>
               <li>
                 Applicants who can meet the minimum investment requirement of
-                ₹15 lakh onwards for their chosen format.
+                ₹18.5 lakh onwards for their chosen format.
               </li>
               <li>
                 Those interested in either a hands-on FOCO role or a more
@@ -524,7 +524,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions

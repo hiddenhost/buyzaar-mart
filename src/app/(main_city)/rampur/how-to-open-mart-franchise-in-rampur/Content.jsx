@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "How to Open a Mart Franchise in Rampur | Buyzaar Mart",
   description:
-    "Learn how to open a mart franchise in Rampur with Buyzaar Mart: models, space, steps, documents and total investment from ₹15 Lakh. Call +91 9217991727.",
+    "Learn how to open a mart franchise in Rampur with Buyzaar Mart: models, space, steps, documents and total investment from ₹18.5 lakh. Call +91 9217991727.",
   url: "https://www.thebuyzaarmart.com/rampur/how-to-open-mart-franchise-in-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "FOCM starts from ₹15 Lakh, and an illustrative 2,000 sq ft FOCO store is about ₹61.5 lakh, so confirm your exact figure.",
+        text: "FOCM starts from ₹18.5 lakh, and an illustrative 2,000 sq ft FOCO store is about ₹61.5 lakh, so confirm your exact figure.",
       },
     },
     {
@@ -274,7 +274,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart FOCM franchise starts from a total investment of ₹15 Lakh, and the FAQ page mentions roughly ₹15–20 lakh for a Mini Mart of 600–1000 sq ft.
+                The Buyzaar Mart FOCM franchise starts from a total investment of ₹18.5 lakh, and the FAQ page mentions roughly ₹15–20 lakh for a Mini Mart of 600–1000 sq ft.
               </li>
               <li>
                 The final figure depends on store size, layout, location and the work required at the premises.
@@ -719,7 +719,7 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  FOCM starts from ₹15 Lakh, and an illustrative 2,000 sq ft FOCO store is about ₹61.5 lakh, so confirm your exact figure.
+                  FOCM starts from ₹18.5 lakh, and an illustrative 2,000 sq ft FOCO store is about ₹61.5 lakh, so confirm your exact figure.
                 </p>
               </div>
 

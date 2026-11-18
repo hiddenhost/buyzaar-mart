@@ -85,7 +85,7 @@ const cities = [
     name: "Gangoh",
     slug: "gangoh",
     desc: "Untapped market with minimal competition",
-    investment: "₹10-15 Lakhs",
+    investment: "₹10-18.5 lakhs",
     potential: "First Mover Advantage",
   },
 ];

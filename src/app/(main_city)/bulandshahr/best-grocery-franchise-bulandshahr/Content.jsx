@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Best Grocery Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "Looking for the best grocery franchise in Bulandshahr? Open a Buyzaar Mart with total investment from ₹15 Lakh, POS billing, training and full launch support.",
+    "Looking for the best grocery franchise in Bulandshahr? Open a Buyzaar Mart with total investment from ₹18.5 lakh, POS billing, training and full launch support.",
   url: "https://www.thebuyzaarmart.com/bulandshahr/best-grocery-franchise-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A compact 600–1000 sq ft grocery store ideal for residential colonies and smaller markets, with total investment typically between ₹15 Lakh and ₹20 Lakh.",
+          "A compact 600–1000 sq ft grocery store ideal for residential colonies and smaller markets, with total investment typically between ₹18.5 lakh and ₹20 Lakh.",
       },
       {
         "@type": "Offer",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "About ₹15 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.",
+        text: "About ₹18.5 lakh to ₹20 Lakh for a Mini Mart, depending on size and location.",
       },
     },
     {
@@ -145,7 +145,7 @@ const Content = () => {
               <li>Bulandshahr is a growing district in western Uttar Pradesh, close to the Delhi-NCR belt, and more entrepreneurs here want a branded grocery business instead of an unorganised shop.</li>
               <li>The best grocery franchise in Bulandshahr is one that combines daily demand, a clear total investment, trusted brand support, simple operations and honest return expectations.</li>
               <li>The Buyzaar Mart offers a supermarket and grocery franchise under the FOCM model, where you own the store and the company manages operations, branding, technology and training.</li>
-              <li>A Buyzaar Mart Mini Mart can be started with a total investment of about ₹15 Lakh to ₹20 Lakh, depending on store size, location and the work needed.</li>
+              <li>A Buyzaar Mart Mini Mart can be started with a total investment of about ₹18.5 lakh to ₹20 Lakh, depending on store size, location and the work needed.</li>
               <li>This page shows how to compare grocery franchises, what makes Buyzaar Mart a strong option, and how to apply in Bulandshahr.</li>
             </ul>
 
@@ -156,7 +156,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">A Clear Total Investment</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>A good franchise tells you the full investment upfront, so you can plan funds without hidden surprises.</li>
-              <li>Buyzaar Mart states a total of about ₹15 Lakh to ₹20 Lakh for a Mini Mart, and the website calculator helps estimate the total for your chosen format.</li>
+              <li>Buyzaar Mart states a total of about ₹18.5 lakh to ₹20 Lakh for a Mini Mart, and the website calculator helps estimate the total for your chosen format.</li>
               <li>Keep extra working capital for rent, salaries and electricity during the first months.</li>
             </ul>
 
@@ -231,7 +231,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>A compact grocery store ideal for residential colonies and smaller markets.</li>
               <li>Stocks grocery and staples, personal care, beverages, homecare and hygiene, stationery, and snacks and biscuits.</li>
-              <li>Total investment is typically ₹15 Lakh to ₹20 Lakh.</li>
+              <li>Total investment is typically ₹18.5 lakh to ₹20 Lakh.</li>
             </ul>
 
             <h3 className="font-medium text-gray-900">Super Mart (1000–3000 sq ft)</h3>
@@ -417,7 +417,7 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  About ₹15 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.
+                  About ₹18.5 lakh to ₹20 Lakh for a Mini Mart, depending on size and location.
                 </p>
               </div>
 

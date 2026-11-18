@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise Business Opportunity Hapur | Buyzaar Mart",
   description:
-    "Start a grocery franchise business in Hapur with The Buyzaar Mart. Total investment from ₹15 lakh, 18–20% gross margin, FOCM model, full setup and support. Apply now.",
+    "Start a grocery franchise business in Hapur with The Buyzaar Mart. Total investment from ₹18.5 lakh, 18–20% gross margin, FOCM model, full setup and support. Apply now.",
   url: "https://www.thebuyzaarmart.com/hapur/grocery-franchise-business-opportunity-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart franchise in Hapur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹15 lakh total. The final amount depends on store format and area, and the website calculator helps you estimate it.",
+        text: "It starts from ₹18.5 lakh total. The final amount depends on store format and area, and the website calculator helps you estimate it.",
       },
     },
     {
@@ -242,7 +242,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Starting Investment</h3>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Buyzaar Mart franchises are available with a total investment starting from ₹15 lakh, making it an affordable entry into organised retail compared with many supermarket brands.</li>
+              <li>Buyzaar Mart franchises are available with a total investment starting from ₹18.5 lakh, making it an affordable entry into organised retail compared with many supermarket brands.</li>
               <li>The final total depends on your chosen store format and area, from 600 to 8,000 sq ft. The investment calculator on the website gives an estimate for your size, and the franchise team confirms the current figure.</li>
             </ul>
 
@@ -385,7 +385,7 @@ const Content = () => {
               <li>Marketing, training and ongoing support mean you are never running the business alone, which makes entrepreneurship simpler and less risky.</li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
@@ -397,7 +397,7 @@ const Content = () => {
                   What is the total investment for a Buyzaar Mart franchise in Hapur?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹15 lakh total. The final amount depends on store format and area, and the website calculator helps you estimate it.
+                  It starts from ₹18.5 lakh total. The final amount depends on store format and area, and the website calculator helps you estimate it.
                 </p>
               </div>
 

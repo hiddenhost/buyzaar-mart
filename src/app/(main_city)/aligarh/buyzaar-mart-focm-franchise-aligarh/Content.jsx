@@ -82,7 +82,7 @@ const faqSchema = {
       name: "What is the minimum investment required for an FOCM franchise in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.",
+        text: "Investment generally starts from around ₹18.5 lakh, depending on the chosen store format and location.",
       },
     },
     {
@@ -141,7 +141,7 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               About the FOCM Franchise Model
@@ -218,7 +218,7 @@ const Content = () => {
               Investment Details for the FOCM Model in Aligarh
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Franchise investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.</li>
+              <li>Franchise investment generally starts from around ₹18.5 lakh, depending on the chosen store format and location.</li>
               <li>The investment typically covers store interiors, initial stock, POS installation, branding, and launch support.</li>
               <li>Larger formats such as Super Mart and Hyper Mart require proportionately higher investment due to increased space and stocking needs.</li>
               <li>Since the partner is actively involved in operations under FOCM, working capital planning for staff salaries and daily expenses should also be factored in.</li>
@@ -312,7 +312,7 @@ const Content = () => {
                   What is the minimum investment required for an FOCM franchise in Aligarh?
                 </h3>
                 <p className="mt-2">
-                  Investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.
+                  Investment generally starts from around ₹18.5 lakh, depending on the chosen store format and location.
                 </p>
               </div>
 

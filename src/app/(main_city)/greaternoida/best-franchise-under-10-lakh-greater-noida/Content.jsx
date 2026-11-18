@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Best Franchise Under 10 Lakh in Greater Noida - The Buyzaar Mart Mini Mart & Super Mart Opportunity",
   description:
-    "Explore The Buyzaar Mart low-investment franchise opportunity in Greater Noida with Mini Mart and Super Mart formats under the FOCM model, brand support, supply chain support, and investment starting from ₹15 Lakh.",
+    "Explore The Buyzaar Mart low-investment franchise opportunity in Greater Noida with Mini Mart and Super Mart formats under the FOCM model, brand support, supply chain support, and investment starting from ₹18.5 lakh.",
   url: "https://www.thebuyzaarmart.com/greater-noida/best-franchise-under-10-lakh-in-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "Is there a Buyzaar Mart franchise available under 10 lakh in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Buyzaar Mart franchise investment starts from ₹15 Lakh for the Mini Mart format, which is the most compact and accessible format.",
+        text: "The Buyzaar Mart franchise investment starts from ₹18.5 lakh for the Mini Mart format, which is the most compact and accessible format.",
       },
     },
     {
@@ -294,7 +294,7 @@ const Content = () => {
             </h2>
 
             <p>
-              For investors evaluating a franchise under or around 15 lakh in
+              For investors evaluating a franchise under or around 18.5 lakh in
               Greater Noida, the most relevant formats to compare are the Mini
               Mart and the Super Mart.
             </p>
@@ -389,7 +389,7 @@ const Content = () => {
                       Total Investment
                     </td>
                     <td className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
-                      Starts from ₹15 Lakh
+                      Starts from ₹18.5 lakh
                     </td>
                     <td className="border border-gray-200 px-4 py-3 font-semibold text-gray-900">
                       Higher than Mini Mart, based on size and scope

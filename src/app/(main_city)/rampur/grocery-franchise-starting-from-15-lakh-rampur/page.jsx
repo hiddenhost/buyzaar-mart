@@ -5,12 +5,12 @@ import Services from "@/app/components/Services";
 
 
 export const metadata = {
-  title: "Grocery Franchise from ₹15 Lakh in Rampur | The Buyzaar Mart",
+  title: "Grocery Franchise from ₹18.5 lakh in Rampur | The Buyzaar Mart",
   description:
-    "Start a grocery franchise in Rampur from ₹15 lakh with The Buyzaar Mart. Full setup, POS, supply chain, training and marketing support. Apply today.",
+    "Start a grocery franchise in Rampur from ₹18.5 lakh with The Buyzaar Mart. Full setup, POS, supply chain, training and marketing support. Apply today.",
   keywords: [
     "grocery franchise rampur",
-    "grocery franchise starting from 15 lakh",
+    "grocery franchise starting from 18.5 lakh",
     "grocery franchise in rampur",
     "supermarket franchise rampur",
     "mart franchise rampur",
@@ -29,7 +29,7 @@ export const metadata = {
     "neighbourhood supermarket franchise",
     "how to start grocery franchise",
     "franchise business opportunity rampur",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "affordable supermarket franchise india",
   ],
   alternates: {
@@ -37,9 +37,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/rampur/grocery-franchise-starting-from-15-lakh-rampur",
   },
   openGraph: {
-    title: "Grocery Franchise from ₹15 Lakh in Rampur | The Buyzaar Mart",
+    title: "Grocery Franchise from ₹18.5 lakh in Rampur | The Buyzaar Mart",
     description:
-      "Start a grocery franchise in Rampur from ₹15 lakh with The Buyzaar Mart. Full setup, POS, supply chain, training and marketing support. Apply today.",
+      "Start a grocery franchise in Rampur from ₹18.5 lakh with The Buyzaar Mart. Full setup, POS, supply chain, training and marketing support. Apply today.",
     url: "https://www.thebuyzaarmart.com/rampur/grocery-franchise-starting-from-15-lakh-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -47,7 +47,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Grocery Franchise from ₹15 Lakh in Rampur | The Buyzaar Mart",
+        alt: "Grocery Franchise from ₹18.5 lakh in Rampur | The Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -55,9 +55,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Grocery Franchise from ₹15 Lakh in Rampur | The Buyzaar Mart",
+    title: "Grocery Franchise from ₹18.5 lakh in Rampur | The Buyzaar Mart",
     description:
-      "Start a grocery franchise in Rampur from ₹15 lakh with The Buyzaar Mart. Full setup, POS, supply chain, training and marketing support. Apply today.",
+      "Start a grocery franchise in Rampur from ₹18.5 lakh with The Buyzaar Mart. Full setup, POS, supply chain, training and marketing support. Apply today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

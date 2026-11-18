@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment needed to start this retail franchise in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.",
+        text: "Investment generally starts from around ₹18.5 lakh, depending on the chosen store format and location.",
       },
     },
     {
@@ -184,7 +184,7 @@ const Content = () => {
               Step 2: Set a Realistic Investment Budget
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Retail franchise investment in Aligarh generally starts from around ₹15 Lakh, depending on the chosen store format and location.</li>
+              <li>Retail franchise investment in Aligarh generally starts from around ₹18.5 lakh, depending on the chosen store format and location.</li>
               <li>The investment typically covers store interiors, initial stock, POS system installation, branding, and launch support.</li>
               <li>Larger formats such as Super Mart and Hyper Mart require proportionately higher investment due to increased space and stocking needs.</li>
               <li>Factor in working capital requirements for the initial months of operation, in addition to the upfront setup cost.</li>
@@ -306,7 +306,7 @@ const Content = () => {
                   What is the minimum investment needed to start this retail franchise in Aligarh?
                 </h3>
                 <p className="mt-2">
-                  Investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.
+                  Investment generally starts from around ₹18.5 lakh, depending on the chosen store format and location.
                 </p>
               </div>
 

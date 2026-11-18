@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise in Faridabad - The Buyzaar Mart",
   description:
-    "Start a Buyzaar Mart franchise in Faridabad with investment starting from ₹15 lakh. Explore the FOCM model, training, technology, supply support, and complete launch assistance.",
+    "Start a Buyzaar Mart franchise in Faridabad with investment starting from ₹18.5 lakh. Explore the FOCM model, training, technology, supply support, and complete launch assistance.",
   url: "https://www.thebuyzaarmart.com/faridabad/buyzaar-mart-franchise-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -116,7 +116,7 @@ const Content = () => {
               Are you looking for a reliable, low-risk business opportunity in
               Faridabad? The Buyzaar Mart franchise represents one of India&apos;s
               most accessible pathways to entrepreneurship in the retail grocery
-              sector. With an initial investment starting at just ₹15 lakh, this
+              sector. With an initial investment starting at just ₹18.5 lakh, this
               FOCM (Franchise Owned, Company Managed) model removes many common
               franchise challenges while providing broad operational support.
             </p>
@@ -447,7 +447,7 @@ const Content = () => {
                 explore multi-store expansion over time.
               </li>
             </ul>
-             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Getting Started: Your Next Steps
             </h2>
 

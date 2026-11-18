@@ -49,7 +49,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Is there a Buyzaar Mart franchise available around ₹15 lakh?",
+      name: "Is there a Buyzaar Mart franchise available around ₹18.5 lakh?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, the Mini Mart format starts at approximately ₹15.25 lakhs entry-level investment.",
@@ -167,7 +167,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What to Expect from a Retail Franchise Around ₹15 Lakh
+              What to Expect from a Retail Franchise Around ₹18.5 lakh
             </h2>
 
             <p>
@@ -246,7 +246,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Steps to Start a Retail Franchise Under 15 Lakh in Bareilly
+              Steps to Start a Retail Franchise Under 18.5 lakh in Bareilly
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -285,7 +285,7 @@ const Content = () => {
             </ul>
 
             <p>
-              A retail franchise around the ₹15 lakh mark offers an accessible entry point into Bareilly&apos;s growing organized retail sector, combining a manageable investment with the benefits of a standardized, brand-backed business model. Buyzaar Mart&apos;s Mini Mart format is designed to suit exactly this need — compact, cost-effective, and well-matched to Bareilly&apos;s expanding residential localities. With the right location and consistent operations, this investment bracket offers a practical, lower-risk way to start a retail business with strong long-term potential.
+              A retail franchise around the ₹18.5 lakh mark offers an accessible entry point into Bareilly&apos;s growing organized retail sector, combining a manageable investment with the benefits of a standardized, brand-backed business model. Buyzaar Mart&apos;s Mini Mart format is designed to suit exactly this need — compact, cost-effective, and well-matched to Bareilly&apos;s expanding residential localities. With the right location and consistent operations, this investment bracket offers a practical, lower-risk way to start a retail business with strong long-term potential.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -295,7 +295,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Is there a Buyzaar Mart franchise available around ₹15 lakh?
+                  Is there a Buyzaar Mart franchise available around ₹18.5 lakh?
                 </h3>
                 <p className="mt-2">
                   Yes, the Mini Mart format starts at approximately ₹15.25 lakhs entry-level investment.

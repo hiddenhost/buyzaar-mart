@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600–1,000 sq ft)",
         description:
-          "Entry format with a typical total investment of ₹15 lakh to ₹20 lakh, suited to residential colonies, areas near schools and neighbourhood markets in Rampur.",
+          "Entry format with a typical total investment of ₹18.5 lakh to ₹20 lakh, suited to residential colonies, areas near schools and neighbourhood markets in Rampur.",
       },
       {
         "@type": "Offer",
@@ -67,7 +67,7 @@ const faqSchema = {
       name: "What is the total investment in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart typically needs ₹15 lakh to ₹20 lakh in total, depending on size and setup.",
+        text: "A Mini Mart typically needs ₹18.5 lakh to ₹20 lakh in total, depending on size and setup.",
       },
     },
     {
@@ -141,7 +141,7 @@ const Content = () => {
                 The Buyzaar Mart offers this through its friendly neighbourhood store format, which combines uniform branding, a wide range of well-known products, POS billing and managed supply systems under one clear identity.
               </li>
               <li>
-                A Buyzaar Mart Mini Mart typically needs a total investment of ₹15 lakh to ₹20 lakh, depending on store size, location and the work needed in the premises.
+                A Buyzaar Mart Mini Mart typically needs a total investment of ₹18.5 lakh to ₹20 lakh, depending on store size, location and the work needed in the premises.
               </li>
               <li>
                 This page explains why branding matters in grocery retail, what you receive as a franchise partner, how the model works and how to apply in Rampur.
@@ -446,7 +446,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart: 600–1,000 sq ft</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The entry format for first-time owners, with a typical total investment of ₹15 lakh to ₹20 lakh.
+                The entry format for first-time owners, with a typical total investment of ₹18.5 lakh to ₹20 lakh.
               </li>
               <li>
                 Suits residential colonies, areas near schools and neighbourhood markets in Rampur.
@@ -707,7 +707,7 @@ const Content = () => {
                   What is the total investment in Rampur?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart typically needs ₹15 lakh to ₹20 lakh in total, depending on size and setup.
+                  A Mini Mart typically needs ₹18.5 lakh to ₹20 lakh in total, depending on size and setup.
                 </p>
               </div>
 
@@ -761,7 +761,7 @@ const Content = () => {
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  The Buyzaar Mart offers a branded grocery franchise in Rampur, with a Mini Mart total investment typically between ₹15 lakh and ₹20 lakh.
+                  The Buyzaar Mart offers a branded grocery franchise in Rampur, with a Mini Mart total investment typically between ₹18.5 lakh and ₹20 lakh.
                 </li>
                 <li>
                   Get known brands, POS billing, supply support, training and launch support under the FOCM model.

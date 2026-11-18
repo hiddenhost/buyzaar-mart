@@ -4,16 +4,16 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise Above 15 Lakh in Amroha | Buyzaar Mart",
+  title: "Mart Franchise Above 18.5 lakh in Amroha | Buyzaar Mart",
   description:
-    "Planning a mart franchise above ₹15 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
+    "Planning a mart franchise above ₹18.5 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
   keywords: [
-    "mart franchise above 15 lakh Amroha",
+    "mart franchise above 18.5 lakh Amroha",
     "mart franchise Amroha",
     "Buyzaar Mart franchise Amroha",
     "supermarket franchise Amroha",
     "grocery franchise Amroha",
-    "grocery franchise above 15 lakh",
+    "grocery franchise above 18.5 lakh",
     "super mart franchise Amroha",
     "hyper mart franchise Amroha",
     "mini mart franchise Amroha",
@@ -37,9 +37,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/amroha/mart-franchise-above-15-lakh-amroha",
   },
   openGraph: {
-    title: "Mart Franchise Above 15 Lakh in Amroha | Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 lakh in Amroha | Buyzaar Mart",
     description:
-      "Planning a mart franchise above ₹15 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
+      "Planning a mart franchise above ₹18.5 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
     url: "https://www.thebuyzaarmart.com/amroha/mart-franchise-above-15-lakh-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -47,7 +47,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Above 15 Lakh in Amroha | Buyzaar Mart",
+        alt: "Mart Franchise Above 18.5 lakh in Amroha | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -55,9 +55,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Above 15 Lakh in Amroha | Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 lakh in Amroha | Buyzaar Mart",
     description:
-      "Planning a mart franchise above ₹15 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
+      "Planning a mart franchise above ₹18.5 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

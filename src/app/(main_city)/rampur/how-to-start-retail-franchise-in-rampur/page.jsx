@@ -25,7 +25,7 @@ export const metadata = {
     "The Buyzaar Mart",
     "Buyzaar Mart franchise",
     "supermarket franchise cost India",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "franchise with training and support",
     "FMCG store franchise India",
     "neighborhood supermarket franchise",

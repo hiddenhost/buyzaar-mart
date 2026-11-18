@@ -42,7 +42,7 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The franchise investment starts from approximately ₹15 lakh for a Mini Mart. The total investment includes stock, interior setup, software fee, franchise fee inclusive of 18 percent GST, and security deposit.",
+        text: "The franchise investment starts from approximately ₹18.5 lakh for a Mini Mart. The total investment includes stock, interior setup, software fee, franchise fee inclusive of 18 percent GST, and security deposit.",
       },
     },
     {
@@ -343,7 +343,7 @@ const Content = () => {
             </p>
 
             <p>
-              Investment begins from approximately ₹15 lakh for a Mini Mart and
+              Investment begins from approximately ₹18.5 lakh for a Mini Mart and
               scales upward for Super Mart and Hyper Mart formats depending on
               size and setup.
             </p>
@@ -502,7 +502,7 @@ const Content = () => {
                   franchise?
                 </h3>
                 <p className="mt-2">
-                  The investment starts from approximately ₹15 lakh for a Mini
+                  The investment starts from approximately ₹18.5 lakh for a Mini
                   Mart. The total investment includes stock, interior setup,
                   software fee, franchise fee inclusive of 18 percent GST, and
                   security deposit.

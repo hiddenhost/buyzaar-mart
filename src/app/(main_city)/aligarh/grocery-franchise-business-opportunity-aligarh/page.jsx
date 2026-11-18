@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Opportunity in Aligarh | The Buyzaar Mart",
   description:
-    "Start a grocery franchise business in Aligarh with The Buyzaar Mart. FOCM model, investment from ₹15 lakh, setup, supply chain and POS support. Apply now.",
+    "Start a grocery franchise business in Aligarh with The Buyzaar Mart. FOCM model, investment from ₹18.5 lakh, setup, supply chain and POS support. Apply now.",
   keywords: [
     "grocery franchise business opportunity aligarh",
     "grocery franchise in aligarh",
@@ -17,7 +17,7 @@ export const metadata = {
     "super mart franchise aligarh",
     "hyper mart franchise aligarh",
     "low investment franchise aligarh",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "franchise business in aligarh",
     "the buyzaar mart franchise",
     "buyzaar mart aligarh",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
-      "Start a grocery franchise business in Aligarh with The Buyzaar Mart. FOCM model, investment from ₹15 lakh, setup, supply chain and POS support. Apply now.",
+      "Start a grocery franchise business in Aligarh with The Buyzaar Mart. FOCM model, investment from ₹18.5 lakh, setup, supply chain and POS support. Apply now.",
     url: "https://www.thebuyzaarmart.com/aligarh/grocery-franchise-business-opportunity-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
-      "Start a grocery franchise business in Aligarh with The Buyzaar Mart. FOCM model, investment from ₹15 lakh, setup, supply chain and POS support. Apply now.",
+      "Start a grocery franchise business in Aligarh with The Buyzaar Mart. FOCM model, investment from ₹18.5 lakh, setup, supply chain and POS support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Mart Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-    "Find the best mart franchise in Gorakhpur. Choose a Mini, Super or Hyper Mart from The Buyzaar Mart. Start from ₹15 Lakh with full support. Apply today!",
+    "Find the best mart franchise in Gorakhpur. Choose a Mini, Super or Hyper Mart from The Buyzaar Mart. Start from ₹18.5 lakh with full support. Apply today!",
   keywords: [
     "best mart franchise gorakhpur",
     "best mart franchise in gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Best Mart Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-      "Find the best mart franchise in Gorakhpur. Choose a Mini, Super or Hyper Mart from The Buyzaar Mart. Start from ₹15 Lakh with full support. Apply today!",
+      "Find the best mart franchise in Gorakhpur. Choose a Mini, Super or Hyper Mart from The Buyzaar Mart. Start from ₹18.5 lakh with full support. Apply today!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/best-mart-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Mart Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-      "Find the best mart franchise in Gorakhpur. Choose a Mini, Super or Hyper Mart from The Buyzaar Mart. Start from ₹15 Lakh with full support. Apply today!",
+      "Find the best mart franchise in Gorakhpur. Choose a Mini, Super or Hyper Mart from The Buyzaar Mart. Start from ₹18.5 lakh with full support. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

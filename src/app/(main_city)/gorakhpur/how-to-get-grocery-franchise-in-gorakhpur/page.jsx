@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Get Grocery Franchise in Gorakhpur | Buyzaar Mart",
   description:
-    "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from ₹15 Lakh and apply with The Buyzaar Mart.",
+    "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from ₹18.5 lakh and apply with The Buyzaar Mart.",
   keywords: [
     "how to get grocery franchise in gorakhpur",
     "get grocery franchise in gorakhpur",
@@ -20,7 +20,7 @@ export const metadata = {
     "grocery franchise cost in gorakhpur",
     "grocery franchise under 20 lakh",
     "low investment grocery franchise",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "supermarket franchise in gorakhpur",
     "mini mart franchise gorakhpur",
     "franchise business in gorakhpur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "How to Get Grocery Franchise in Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from ₹15 Lakh and apply with The Buyzaar Mart.",
+      "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from ₹18.5 lakh and apply with The Buyzaar Mart.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-get-grocery-franchise-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Get Grocery Franchise in Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from ₹15 Lakh and apply with The Buyzaar Mart.",
+      "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from ₹18.5 lakh and apply with The Buyzaar Mart.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

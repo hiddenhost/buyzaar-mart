@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment to open a Buyzaar Mart franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The starting investment for a Buyzaar Mart franchise is ₹15 Lakh, which covers franchise fees, store setup, branding, POS installation, initial inventory, and the grand launch campaign.",
+        text: "The starting investment for a Buyzaar Mart franchise is ₹18.5 lakh, which covers franchise fees, store setup, branding, POS installation, initial inventory, and the grand launch campaign.",
       },
     },
     {
@@ -149,7 +149,7 @@ const Content = () => {
               The Buyzaar Mart is a rapidly expanding supermarket franchise
               chain offering entrepreneurs a structured, supported path to
               owning a profitable neighbourhood grocery and FMCG store. With an
-              entry investment starting from just ₹15 Lakh, it is one of the
+              entry investment starting from just ₹18.5 lakh, it is one of the
               most affordable supermarket franchise opportunities available in
               North India today.
             </p>
@@ -386,7 +386,7 @@ const Content = () => {
             <p>
               The Buyzaar Mart franchise is one of the most accessible
               supermarket franchise opportunities in India. The starting
-              investment is ₹15 Lakh, which makes it viable for first-time
+              investment is ₹18.5 lakh, which makes it viable for first-time
               entrepreneurs, salaried professionals looking for a second income
               stream, retired individuals seeking a stable business, and
               existing kirana owners looking to upgrade and formalise their
@@ -484,7 +484,7 @@ const Content = () => {
               Low Investment Entry Point
             </h3>
             <p>
-              At ₹15 Lakh, this is among the most affordable branded
+              At ₹18.5 lakh, this is among the most affordable branded
               supermarket franchise opportunities in North India. Most
               comparable concepts require ₹25&ndash;50 Lakh or more.
             </p>

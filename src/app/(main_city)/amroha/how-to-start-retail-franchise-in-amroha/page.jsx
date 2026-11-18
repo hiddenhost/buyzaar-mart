@@ -16,7 +16,7 @@ export const metadata = {
     "supermarket franchise in Amroha",
     "grocery franchise in Amroha",
     "low investment retail franchise",
-    "retail franchise 15 lakh",
+    "retail franchise 18.5 lakh",
     "retail franchise total investment",
     "FOCM franchise model",
     "FOCO franchise model",

@@ -195,8 +195,8 @@ const Content = () => {
                 Partner invests and retains supervisory involvement, while the
                 company manages daily execution.
               </li>
-              
-              
+
+
               <li>
                 <span className="font-semibold">
                   FOCO (Franchise Owned, Company Operated):
@@ -250,7 +250,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 <span className="font-semibold">Minimum Investment:</span>{" "}
-                Starts from ₹15 lakh onwards, scaling with store format and
+                Starts from ₹18.5 lakh onwards, scaling with store format and
                 carpet area.
               </li>
               <li>
@@ -622,7 +622,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>

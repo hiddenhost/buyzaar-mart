@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-          "A 600–1,000 sq. ft. grocery and FMCG store franchise format in Aligarh, with investment approximately ranging from ₹15 lakh to ₹26 lakh depending on size, location, and fit-out condition.",
+          "A 600–1,000 sq. ft. grocery and FMCG store franchise format in Aligarh, with investment approximately ranging from ₹18.5 lakh to ₹26 lakh depending on size, location, and fit-out condition.",
       },
       {
         "@type": "Offer",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the mart franchise cost in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart starts from ₹15 lakh to ₹22 lakh. Super Mart starts near ₹26.63 lakh, and Hyper Mart depends on area.",
+        text: "A Mini Mart starts from ₹18.5 lakh to ₹22 lakh. Super Mart starts near ₹26.63 lakh, and Hyper Mart depends on area.",
       },
     },
     {
@@ -161,7 +161,7 @@ const Content = () => {
               </li>
               <li>
                 The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart
-                formats, with franchise investment starting from ₹15 lakh.
+                formats, with franchise investment starting from ₹18.5 lakh.
               </li>
               <li>
                 This guide explains every cost head, investment range by format,
@@ -258,7 +258,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                Investment range: Approximately ₹15 lakh to ₹26 lakh, depending
+                Investment range: Approximately ₹18.5 lakh to ₹26 lakh, depending
                 on store size, location and fit-out condition.
               </li>
               <li>
@@ -624,7 +624,7 @@ const Content = () => {
                   What is the mart franchise cost in Aligarh?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart starts from ₹15 lakh to ₹22 lakh. Super Mart
+                  A Mini Mart starts from ₹18.5 lakh to ₹22 lakh. Super Mart
                   starts near ₹26.63 lakh, and Hyper Mart depends on area.
                 </p>
               </div>

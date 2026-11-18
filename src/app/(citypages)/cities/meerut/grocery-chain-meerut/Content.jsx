@@ -30,7 +30,7 @@ const Content = () => {
             </p>
 
             <p>
-              Meerut is a city of over 15 lakh people and growing. It is one of Western Uttar Pradesh&apos;s most important commercial and residential hubs. Yet for years, the city lacked a truly organized, multi-location grocery retail chain that could meet the diverse and evolving needs of its population.
+              Meerut is a city of over 18.5 lakh people and growing. It is one of Western Uttar Pradesh&apos;s most important commercial and residential hubs. Yet for years, the city lacked a truly organized, multi-location grocery retail chain that could meet the diverse and evolving needs of its population.
             </p>
 
             <p>

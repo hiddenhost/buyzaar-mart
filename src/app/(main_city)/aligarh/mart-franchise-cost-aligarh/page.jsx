@@ -4,9 +4,9 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise Cost in Aligarh | Buyzaar Mart – ₹15 Lakh+",
+  title: "Mart Franchise Cost in Aligarh | Buyzaar Mart – ₹18.5 lakh+",
   description:
-    "Mart franchise cost in Aligarh starts from ₹15 lakh. Compare Mini, Super & Hyper Mart investment, margins, support and apply with The Buyzaar Mart today.",
+    "Mart franchise cost in Aligarh starts from ₹18.5 lakh. Compare Mini, Super & Hyper Mart investment, margins, support and apply with The Buyzaar Mart today.",
   keywords: [
     "mart franchise cost in aligarh",
     "grocery franchise cost in aligarh",
@@ -27,7 +27,7 @@ export const metadata = {
     "kirana store franchise aligarh",
     "FMCG franchise aligarh",
     "open mart in aligarh",
-    "mart franchise investment from 15 lakh",
+    "mart franchise investment from 18.5 lakh",
     "best franchise in aligarh",
     "franchise opportunity aligarh",
     "retail franchise cost india",
@@ -39,9 +39,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/aligarh/mart-franchise-cost-aligarh",
   },
   openGraph: {
-    title: "Mart Franchise Cost in Aligarh | Buyzaar Mart – ₹15 Lakh+",
+    title: "Mart Franchise Cost in Aligarh | Buyzaar Mart – ₹18.5 lakh+",
     description:
-      "Mart franchise cost in Aligarh starts from ₹15 lakh. Compare Mini, Super & Hyper Mart investment, margins, support and apply with The Buyzaar Mart today.",
+      "Mart franchise cost in Aligarh starts from ₹18.5 lakh. Compare Mini, Super & Hyper Mart investment, margins, support and apply with The Buyzaar Mart today.",
     url: "https://www.thebuyzaarmart.com/aligarh/mart-franchise-cost-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,9 +57,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Cost in Aligarh | Buyzaar Mart – ₹15 Lakh+",
+    title: "Mart Franchise Cost in Aligarh | Buyzaar Mart – ₹18.5 lakh+",
     description:
-      "Mart franchise cost in Aligarh starts from ₹15 lakh. Compare Mini, Super & Hyper Mart investment, margins, support and apply with The Buyzaar Mart today.",
+      "Mart franchise cost in Aligarh starts from ₹18.5 lakh. Compare Mini, Super & Hyper Mart investment, margins, support and apply with The Buyzaar Mart today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

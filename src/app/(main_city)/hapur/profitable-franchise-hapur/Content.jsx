@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Profitable Franchise in Hapur | The Buyzaar Mart",
   description:
-    "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from ₹15 Lakh. Apply now.",
+    "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from ₹18.5 lakh. Apply now.",
   url: "https://www.thebuyzaarmart.com/hapur/profitable-franchise-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Total investment starts from ₹15 Lakh, depending on store format and area.",
+        text: "Total investment starts from ₹18.5 lakh, depending on store format and area.",
       },
     },
     {
@@ -140,7 +140,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart, &quot;Your Friendly Neighborhood Store&quot;, offers a supermarket franchise in Hapur designed around daily-need demand, structured systems and an effective gross margin of 18–20%.</li>
               <li>Profit starts with steady demand. Grocery and household essentials are bought every week, so a well-run store can build predictable footfall instead of depending on a single season.</li>
-              <li>Total investment starts from ₹15 Lakh, giving entrepreneurs an accessible way to enter organised retail in Hapur and the wider NCR belt with brand and system support.</li>
+              <li>Total investment starts from ₹18.5 lakh, giving entrepreneurs an accessible way to enter organised retail in Hapur and the wider NCR belt with brand and system support.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -185,7 +185,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Total investment starts from ₹15 Lakh, making The Buyzaar Mart a low-investment supermarket franchise compared with many larger retail formats.</li>
+              <li>Total investment starts from ₹18.5 lakh, making The Buyzaar Mart a low-investment supermarket franchise compared with many larger retail formats.</li>
               <li>The final total depends on store format and area. Mini Mart, Super Mart and Hyper Mart each carry a different total, and the franchise team confirms the exact figure for your Hapur site.</li>
               <li>Use the website calculator. Select a store type and an area between 600 and 8,000 sq ft to estimate your total before speaking with the team.</li>
               <li>Download the brochure. The Franchise page offers a brochure so you can review the model and plan your budget clearly.</li>
@@ -336,7 +336,7 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  Total investment starts from ₹15 Lakh, depending on store format and area.
+                  Total investment starts from ₹18.5 lakh, depending on store format and area.
                 </p>
               </div>
 

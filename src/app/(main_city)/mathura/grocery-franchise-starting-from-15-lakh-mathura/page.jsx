@@ -4,13 +4,13 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Grocery Franchise from ₹15 Lakh in Mathura | Buyzaar Mart",
+  title: "Grocery Franchise from ₹18.5 lakh in Mathura | Buyzaar Mart",
   description:
-    "Start a grocery franchise in Mathura from ₹15 lakh with The Buyzaar Mart. See what your investment covers, extra costs to plan and how to apply. Enquire today.",
+    "Start a grocery franchise in Mathura from ₹18.5 lakh with The Buyzaar Mart. See what your investment covers, extra costs to plan and how to apply. Enquire today.",
   keywords: [
-    "grocery franchise starting from 15 lakh Mathura",
+    "grocery franchise starting from 18.5 lakh Mathura",
     "grocery franchise in Mathura",
-    "15 lakh franchise Mathura",
+    "18.5 lakh franchise Mathura",
     "low investment grocery franchise",
     "Buyzaar Mart franchise Mathura",
     "supermarket franchise in Mathura",
@@ -36,9 +36,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/mathura/grocery-franchise-starting-from-15-lakh-mathura",
   },
   openGraph: {
-    title: "Grocery Franchise from ₹15 Lakh in Mathura | Buyzaar Mart",
+    title: "Grocery Franchise from ₹18.5 lakh in Mathura | Buyzaar Mart",
     description:
-      "Start a grocery franchise in Mathura from ₹15 lakh with The Buyzaar Mart. See what your investment covers, extra costs to plan and how to apply. Enquire today.",
+      "Start a grocery franchise in Mathura from ₹18.5 lakh with The Buyzaar Mart. See what your investment covers, extra costs to plan and how to apply. Enquire today.",
     url: "https://www.thebuyzaarmart.com/mathura/grocery-franchise-starting-from-15-lakh-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +46,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Grocery Franchise from ₹15 Lakh in Mathura | Buyzaar Mart",
+        alt: "Grocery Franchise from ₹18.5 lakh in Mathura | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -54,9 +54,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Grocery Franchise from ₹15 Lakh in Mathura | Buyzaar Mart",
+    title: "Grocery Franchise from ₹18.5 lakh in Mathura | Buyzaar Mart",
     description:
-      "Start a grocery franchise in Mathura from ₹15 lakh with The Buyzaar Mart. See what your investment covers, extra costs to plan and how to apply. Enquire today.",
+      "Start a grocery franchise in Mathura from ₹18.5 lakh with The Buyzaar Mart. See what your investment covers, extra costs to plan and how to apply. Enquire today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

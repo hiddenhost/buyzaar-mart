@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Apply in Rampur | Apply Now",
   description:
-    "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from ₹15 Lakh. Submit your inquiry today.",
+    "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from ₹18.5 lakh. Submit your inquiry today.",
   keywords: [
     "Buyzaar Mart franchise apply Rampur",
     "apply for Buyzaar Mart franchise",
@@ -21,7 +21,7 @@ export const metadata = {
     "Buyzaar Mart franchise documents",
     "how to apply for supermarket franchise",
     "low investment franchise Rampur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "mini mart franchise Rampur",
     "super mart franchise Rampur",
     "hyper mart franchise Rampur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Apply in Rampur | Apply Now",
     description:
-      "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from ₹15 Lakh. Submit your inquiry today.",
+      "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from ₹18.5 lakh. Submit your inquiry today.",
     url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-apply-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Apply in Rampur | Apply Now",
     description:
-      "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from ₹15 Lakh. Submit your inquiry today.",
+      "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from ₹18.5 lakh. Submit your inquiry today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

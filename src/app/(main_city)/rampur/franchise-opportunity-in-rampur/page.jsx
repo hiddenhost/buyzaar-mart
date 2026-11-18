@@ -22,7 +22,7 @@ export const metadata = {
     "retail franchise in Rampur",
     "mini mart franchise Rampur",
     "low investment franchise Rampur",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "supermarket franchise Uttar Pradesh",
     "retail franchise in UP",
     "FOCM franchise India",

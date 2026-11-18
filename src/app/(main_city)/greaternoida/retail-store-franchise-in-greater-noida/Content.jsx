@@ -552,7 +552,7 @@ const Content = () => {
                 Space of 600 to 1000 sq. ft. in a suitable location in Greater
                 Noida, whether owned or on lease.
               </li>
-              <li>Investment readiness of ₹15 Lakh to ₹22 Lakh.</li>
+              <li>Investment readiness of ₹18.5 lakh to ₹22 Lakh.</li>
               <li>
                 Willingness to maintain Buyzaar Mart brand and operational
                 standards.

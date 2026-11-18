@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Retail Franchise Under 15 Lakh in Lucknow – Start Smart with The Buyzaar Mart",
+  name: "Retail Franchise Under 18.5 lakh in Lucknow – Start Smart with The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers a grocery and FMCG retail franchise opportunity in Lucknow through its Mini Mart format under the FOCM model, with organized retail support, centralized operations, and a structured low-investment entry point.",
   url: "https://www.thebuyzaarmart.com/lucknow/retail-franchise-under-15-lakh-in-lucknow",
@@ -49,7 +49,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Can I open a Buyzaar Mart franchise in Lucknow with under 15 lakh total investment?",
+      name: "Can I open a Buyzaar Mart franchise in Lucknow with under 18.5 lakh total investment?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes. The Mini Mart format is specifically structured for this budget range. Exact figures are shared during the franchise discussion based on your location and space.",
@@ -112,11 +112,11 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Retail Franchise Under 15 Lakh in Lucknow &ndash; Start Smart with The Buyzaar Mart
+              Retail Franchise Under 18.5 lakh in Lucknow &ndash; Start Smart with The Buyzaar Mart
             </h1>
 
             <p>
-              Finding a retail franchise under 15 lakh in Lucknow that is genuinely profitable,
+              Finding a retail franchise under 18.5 lakh in Lucknow that is genuinely profitable,
               backed by a credible brand, and designed for first-time investors is harder than
               it sounds. Most franchise opportunities in this budget either come with limited
               support, unclear revenue models, or depend entirely on the franchisee&rsquo;s own
@@ -128,17 +128,17 @@ const Content = () => {
               brand operating on a Franchise-Owned, Company-Managed (FOCM) model. For
               entrepreneurs in Lucknow who want to enter the retail business with a defined
               budget, a trusted brand, and a clear path to returns, The Buyzaar Mart Mini Mart
-              format makes it possible to get started under the 15 lakh investment threshold
+              format makes it possible to get started under the 18.5 lakh investment threshold
               without compromising on brand quality, product range, or operational strength.
             </p>
 
             <p>
               This page covers everything you need to know about starting a retail franchise
-              under 15 lakh in Lucknow through The Buyzaar Mart.
+              under 18.5 lakh in Lucknow through The Buyzaar Mart.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why the Sub-15 Lakh Franchise Category Is Growing in Lucknow
+              Why the Sub-18.5 lakh Franchise Category Is Growing in Lucknow
             </h2>
 
             <p>
@@ -165,7 +165,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              The Mini Mart Format &ndash; Built for the 15 Lakh Investor
+              The Mini Mart Format &ndash; Built for the 18.5 lakh Investor
             </h2>
 
             <p>
@@ -177,7 +177,7 @@ const Content = () => {
             </p>
 
             <p>
-              In approximate 15 lakh range, the store is set up to full brand standards
+              In approximate 18.5 lakh range, the store is set up to full brand standards
               including signage, display fixtures, and layout optimized for product visibility
               and customer flow. The product assortment covers daily grocery essentials,
               staples, packaged food, personal care, home care, and general FMCG products,
@@ -198,7 +198,7 @@ const Content = () => {
             </h2>
 
             <p>
-              When evaluating any retail franchise under 15 lakh, the product category matters
+              When evaluating any retail franchise under 18.5 lakh, the product category matters
               enormously. Not all retail categories are equally stable, and many franchise
               opportunities at this price point are in categories with seasonal demand, fashion
               cycles, or high product obsolescence.
@@ -221,7 +221,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Ideal Locations in Lucknow for a Sub-15 Lakh Buyzaar Mart Franchise
+              Ideal Locations in Lucknow for a Sub-18.5 lakh Buyzaar Mart Franchise
             </h2>
 
             <p>
@@ -249,7 +249,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What Sets This Opportunity Apart from Other Franchises Under 15 Lakh
+              What Sets This Opportunity Apart from Other Franchises Under 18.5 lakh
             </h2>
 
             <p>
@@ -257,7 +257,7 @@ const Content = () => {
               in this range share the same fundamental problem: they give you a name and leave
               you to figure out the rest. Staff management, inventory procurement, daily
               operations, and local marketing all fall on the franchisee. For someone investing
-              15 lakh, that is an enormous operational risk to take on.
+              18.5 lakh, that is an enormous operational risk to take on.
             </p>
 
             <p>
@@ -303,7 +303,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Comparing The Buyzaar Mart to Other Franchise Options Under 15 Lakh
+              Comparing The Buyzaar Mart to Other Franchise Options Under 18.5 lakh
             </h2>
 
             <p>
@@ -334,7 +334,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  1. Can I open a Buyzaar Mart franchise in Lucknow with under 15 lakh total
+                  1. Can I open a Buyzaar Mart franchise in Lucknow with under 18.5 lakh total
                   investment?
                 </h3>
                 <p className="mt-2">
@@ -389,7 +389,7 @@ const Content = () => {
               </h2>
 
               <p className="mb-4 text-gray-800">
-                If you are looking for a retail franchise under 15 lakh in Lucknow that
+                If you are looking for a retail franchise under 18.5 lakh in Lucknow that
                 combines essential-category demand, a trusted grocery format, and managed
                 day-to-day operations, The Buyzaar Mart offers a practical and scalable path
                 forward.

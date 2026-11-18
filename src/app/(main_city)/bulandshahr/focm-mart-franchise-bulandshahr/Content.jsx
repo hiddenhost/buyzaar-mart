@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Mart Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "Open a FOCM mart franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹15 Lakh, 18–20% stated margin, full setup, POS and training support.",
+    "Open a FOCM mart franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹18.5 lakh, 18–20% stated margin, full setup, POS and training support.",
   url: "https://www.thebuyzaarmart.com/bulandshahr/focm-mart-franchise-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A compact 600–1000 sq ft format ideal for residential colonies and smaller towns, with typical investment ranging from ₹15 Lakh to ₹20 Lakh.",
+          "A compact 600–1000 sq ft format ideal for residential colonies and smaller towns, with typical investment ranging from ₹18.5 lakh to ₹20 Lakh.",
       },
       {
         "@type": "Offer",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the starting investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "About ₹15 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.",
+        text: "About ₹18.5 lakh to ₹20 Lakh for a Mini Mart, depending on size and location.",
       },
     },
     {
@@ -144,7 +144,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart FOCM mart franchise lets you open a branded neighbourhood supermarket in Bulandshahr while the company manages the systems that keep it running smoothly.</li>
               <li>FOCM means Franchise Owned, Company Managed. You own the store and fund the setup, and The Buyzaar Mart manages operations, branding, technology, training and performance systems.</li>
-              <li>Entry starts from about ₹15 Lakh for a Mini Mart of 600–1000 sq ft, with Super Mart and Hyper Mart formats available for larger sites.</li>
+              <li>Entry starts from about ₹18.5 lakh for a Mini Mart of 600–1000 sq ft, with Super Mart and Hyper Mart formats available for larger sites.</li>
               <li>The brand states an average margin of 18–20%, depending on location, store size and sales volume. Results are not guaranteed.</li>
               <li>This page is written for entrepreneurs in Bulandshahr, Khurja, Sikandrabad, Siyana, Anupshahr, Dibai and nearby towns who want a proven mart format instead of an untested start.</li>
             </ul>
@@ -195,7 +195,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>A compact, low-entry-cost format ideal for residential colonies and smaller towns.</li>
               <li>Categories include grocery and staples, personal care, beverages, homecare and hygiene, stationery, and snacks and biscuits.</li>
-              <li>Typical investment ranges from ₹15 Lakh to ₹20 Lakh depending on size, arrangement, location and the work needed.</li>
+              <li>Typical investment ranges from ₹18.5 lakh to ₹20 Lakh depending on size, arrangement, location and the work needed.</li>
             </ul>
 
             <h3 className="font-medium text-gray-900">Super Mart (1000–3000 sq ft)</h3>
@@ -217,7 +217,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The investment covers stock, interior, software fee, franchise fee (inclusive of 18% GST) and a security deposit.</li>
               <li>The website&apos;s investment calculator estimates each of these heads once you select your format and area between 600 and 8,000 sq ft.</li>
-              <li>A Mini Mart usually requires ₹15 Lakh to ₹20 Lakh, and larger formats scale with area, so ask the team for a written estimate for your exact site.</li>
+              <li>A Mini Mart usually requires ₹18.5 lakh to ₹20 Lakh, and larger formats scale with area, so ask the team for a written estimate for your exact site.</li>
               <li>Keep extra working capital for the first months of rent, salaries and electricity, since these remain with the franchisee.</li>
               <li>A minimum carpet area of 600 sq ft is required, and the premises can be owned or rented with valid documents.</li>
             </ul>
@@ -390,7 +390,7 @@ const Content = () => {
                   What is the starting investment?
                 </h3>
                 <p className="mt-2">
-                  About ₹15 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.
+                  About ₹18.5 lakh to ₹20 Lakh for a Mini Mart, depending on size and location.
                 </p>
               </div>
 

@@ -5,7 +5,7 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Daily Needs Store Franchise Lucknow | The Buyzaar Mart – Start from ₹15 Lakh",
+    "Daily Needs Store Franchise Lucknow | The Buyzaar Mart – Start from ₹18.5 lakh",
   description:
     "Looking for a daily needs store franchise in Lucknow? Partner with The Buyzaar Mart and launch your own Mini Mart or Super Mart under FOCM or FOCO model. Full brand support, POS system & training included. Apply today!",
   alternates: {
@@ -14,7 +14,7 @@ export const metadata = {
   },
   openGraph: {
     title:
-      "Daily Needs Store Franchise Lucknow | The Buyzaar Mart – Start from ₹15 Lakh",
+      "Daily Needs Store Franchise Lucknow | The Buyzaar Mart – Start from ₹18.5 lakh",
     description:
       "Looking for a daily needs store franchise in Lucknow? Partner with The Buyzaar Mart and launch your own Mini Mart or Super Mart under FOCM or FOCO model. Full brand support, POS system & training included. Apply today!",
     url:
@@ -25,7 +25,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Daily Needs Store Franchise Lucknow | The Buyzaar Mart – Start from ₹15 Lakh",
+        alt: "Daily Needs Store Franchise Lucknow | The Buyzaar Mart – Start from ₹18.5 lakh",
       },
     ],
     locale: "en_IN",
@@ -34,7 +34,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Daily Needs Store Franchise Lucknow | The Buyzaar Mart – Start from ₹15 Lakh",
+      "Daily Needs Store Franchise Lucknow | The Buyzaar Mart – Start from ₹18.5 lakh",
     description:
       "Looking for a daily needs store franchise in Lucknow? Partner with The Buyzaar Mart and launch your own Mini Mart or Super Mart under FOCM or FOCO model. Full brand support, POS system & training included. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

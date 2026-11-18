@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise Contact Rampur | Apply Now",
   description:
-    "Contact the Buyzaar Mart franchise team for Rampur. Call +91 9217991727, email or apply online. Total investment from ₹15 Lakh with full support.",
+    "Contact the Buyzaar Mart franchise team for Rampur. Call +91 9217991727, email or apply online. Total investment from ₹18.5 lakh with full support.",
   url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-contact-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The total investment starts from ₹15 Lakh and varies with store size, so use the website calculator or ask the team for an exact figure.",
+        text: "The total investment starts from ₹18.5 lakh and varies with store size, so use the website calculator or ask the team for an exact figure.",
       },
     },
     {
@@ -357,7 +357,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart franchise starts from a total investment of ₹15 Lakh, and the final figure depends on the store size you choose and the area of your space.
+                The Buyzaar Mart franchise starts from a total investment of ₹18.5 lakh, and the final figure depends on the store size you choose and the area of your space.
               </li>
               <li>
                 The total covers stock, interior, software fee, franchise fee including 18% GST and security deposit, so you see the complete commitment in one number.
@@ -602,7 +602,7 @@ const Content = () => {
                   Q2. What is the total investment for a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  The total investment starts from ₹15 Lakh and varies with store size, so use the website calculator or ask the team for an exact figure.
+                  The total investment starts from ₹18.5 lakh and varies with store size, so use the website calculator or ask the team for an exact figure.
                 </p>
               </div>
 

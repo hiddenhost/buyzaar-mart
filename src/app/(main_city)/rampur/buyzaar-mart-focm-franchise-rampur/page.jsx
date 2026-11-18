@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart FOCM Franchise Rampur | Company Managed",
   description:
-    "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from ₹15 Lakh. Call +91 9217991727.",
+    "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from ₹18.5 lakh. Call +91 9217991727.",
   keywords: [
     "buyzaar mart focm franchise rampur",
     "focm franchise rampur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart FOCM Franchise Rampur | Company Managed",
     description:
-      "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from ₹15 Lakh. Call +91 9217991727.",
+      "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from ₹18.5 lakh. Call +91 9217991727.",
     url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-focm-franchise-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart FOCM Franchise Rampur | Company Managed",
     description:
-      "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from ₹15 Lakh. Call +91 9217991727.",
+      "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from ₹18.5 lakh. Call +91 9217991727.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

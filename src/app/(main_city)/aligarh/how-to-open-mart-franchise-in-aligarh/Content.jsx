@@ -106,7 +106,7 @@ const faqSchema = {
       name: "What is the minimum investment needed to open this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment generally starts from around ₹15 Lakh, depending on the store format and location chosen.",
+        text: "Investment generally starts from around ₹18.5 lakh, depending on the store format and location chosen.",
       },
     },
     {
@@ -141,7 +141,7 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Understanding the Opportunity in Aligarh
@@ -261,7 +261,7 @@ const Content = () => {
               Investment Considerations When Opening a Mart in Aligarh
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Franchise investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.</li>
+              <li>Franchise investment generally starts from around ₹18.5 lakh, depending on the chosen store format and location.</li>
               <li>The investment typically covers store interiors, initial stock, POS installation, branding, and launch support.</li>
               <li>Larger formats such as Super Mart and Hyper Mart require a proportionately higher investment due to additional space and stock requirements.</li>
               <li>Profit margins on retail sales generally range between 18 to 20 percent, depending on store size, location, and sales volume.</li>
@@ -342,7 +342,7 @@ const Content = () => {
                   What is the minimum investment needed to open this franchise?
                 </h3>
                 <p className="mt-2">
-                  Investment generally starts from around ₹15 Lakh, depending on the store format and location chosen.
+                  Investment generally starts from around ₹18.5 lakh, depending on the store format and location chosen.
                 </p>
               </div>
 

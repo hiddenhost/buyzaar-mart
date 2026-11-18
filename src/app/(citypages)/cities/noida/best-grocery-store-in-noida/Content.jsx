@@ -84,7 +84,7 @@ const faqSchema = {
       name: "How much investment is needed for a Buyzaar Mart franchise in Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It varies by format and area; broadly starts around ₹10–15 lakh and scales up for larger formats.",
+        text: "It varies by format and area; broadly starts around ₹10–18.5 lakh and scales up for larger formats.",
       },
     },
     {
@@ -394,7 +394,7 @@ const Content = () => {
                   How much investment is needed for a Buyzaar Mart franchise in Noida?
                 </h3>
                 <p className="mt-2">
-                  It varies by format and area; broadly starts around ₹15 lakh and scales up for larger formats.
+                  It varies by format and area; broadly starts around ₹18.5 lakh and scales up for larger formats.
                 </p>
               </div>
 

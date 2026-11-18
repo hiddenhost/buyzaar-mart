@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Start a Grocery Store in Moradabad | The Buyzaar Mart",
   description:
-    "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from ₹15 lakh.",
+    "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from ₹18.5 lakh.",
   keywords: [
     "start grocery store Moradabad",
     "how to open grocery store Moradabad",
@@ -26,7 +26,7 @@ export const metadata = {
   openGraph: {
     title: "How to Start a Grocery Store in Moradabad | The Buyzaar Mart",
     description:
-      "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from ₹15 lakh.",
+      "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from ₹18.5 lakh.",
     url: "https://www.thebuyzaarmart.com/moradabad/how-to-start-a-grocery-store-in-moradabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -44,7 +44,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Start a Grocery Store in Moradabad | The Buyzaar Mart",
     description:
-      "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from ₹15 lakh.",
+      "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from ₹18.5 lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -15,7 +15,7 @@ export const metadata = {
     "Buyzaar Mart grocery franchise",
     "Buyzaar Mart investment",
     "grocery franchise total investment",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment grocery franchise",
     "grocery franchise in Uttar Pradesh",
     "grocery franchise in India",

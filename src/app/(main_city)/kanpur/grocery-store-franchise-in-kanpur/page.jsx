@@ -4,17 +4,17 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Grocery Store Franchise in Kanpur | The Buyzaar Mart — Invest from ₹15 Lakh",
+  title: "Grocery Store Franchise in Kanpur | The Buyzaar Mart — Invest from ₹18.5 lakh",
   description:
-    "Start your own grocery store franchise in Kanpur with The Buyzaar Mart. Trusted FOCM model, ₹15 Lakh investment, full setup support, supply chain & marketing included. Apply now!",
+    "Start your own grocery store franchise in Kanpur with The Buyzaar Mart. Trusted FOCM model, ₹18.5 lakh investment, full setup support, supply chain & marketing included. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/grocery-store-franchise-in-kanpur",
   },
   openGraph: {
-    title: "Grocery Store Franchise in Kanpur | The Buyzaar Mart — Invest from ₹15 Lakh",
+    title: "Grocery Store Franchise in Kanpur | The Buyzaar Mart — Invest from ₹18.5 lakh",
     description:
-      "Start your own grocery store franchise in Kanpur with The Buyzaar Mart. Trusted FOCM model, ₹15 Lakh investment, full setup support, supply chain & marketing included. Apply now!",
+      "Start your own grocery store franchise in Kanpur with The Buyzaar Mart. Trusted FOCM model, ₹18.5 lakh investment, full setup support, supply chain & marketing included. Apply now!",
     url: "https://www.thebuyzaarmart.com/kanpur/grocery-store-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -30,9 +30,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Grocery Store Franchise in Kanpur | The Buyzaar Mart — Invest from ₹15 Lakh",
+    title: "Grocery Store Franchise in Kanpur | The Buyzaar Mart — Invest from ₹18.5 lakh",
     description:
-      "Start your own grocery store franchise in Kanpur with The Buyzaar Mart. Trusted FOCM model, ₹15 Lakh investment, full setup support, supply chain & marketing included. Apply now!",
+      "Start your own grocery store franchise in Kanpur with The Buyzaar Mart. Trusted FOCM model, ₹18.5 lakh investment, full setup support, supply chain & marketing included. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

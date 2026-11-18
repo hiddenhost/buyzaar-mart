@@ -82,7 +82,7 @@ const faqSchema = {
       name: "How much investment is needed for a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Mini Mart starts from approximately ₹15 lakh, Super Mart from approximately ₹25 lakh, and Hyper Mart scales higher depending on size and site.",
+        text: "Mini Mart starts from approximately ₹18.5 lakh, Super Mart from approximately ₹25 lakh, and Hyper Mart scales higher depending on size and site.",
       },
     },
     {
@@ -206,7 +206,7 @@ const Content = () => {
               <li>Mini Mart.
                 <ul className="list-disc space-y-2 pl-6 mt-2">
                   <li>Area required: approximately 600 to 1,000 sq. ft.</li>
-                  <li>Investment: starts from approximately ₹15 lakh onward.</li>
+                  <li>Investment: starts from approximately ₹18.5 lakh onward.</li>
                   <li>Best suited for: residential lanes, colony interiors, and compact high-footfall neighbourhood locations in areas like Sigra, Bhelupur, or smaller colony markets.</li>
                 </ul>
               </li>
@@ -247,7 +247,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Investment requirements vary depending on the chosen store format — Mini Mart (from approximately ₹15 lakh), Super Mart (from approximately ₹25 lakh), or Hyper Mart (higher, scaling with area) — with larger formats requiring proportionally higher capital.</li>
+              <li>Investment requirements vary depending on the chosen store format — Mini Mart (from approximately ₹18.5 lakh), Super Mart (from approximately ₹25 lakh), or Hyper Mart (higher, scaling with area) — with larger formats requiring proportionally higher capital.</li>
               <li>Prospective partners are generally advised to use the brand's investment calculator or speak directly with the franchise team to get an accurate, location-specific cost estimate for Varanasi.</li>
               <li>Prime locations in busy Varanasi neighbourhoods or near ghats, markets, and residential colonies may involve higher rental costs but can offer faster customer footfall.</li>
               <li>Entrepreneurs should factor in working capital for the first few months of operation, in addition to the one-time setup and franchise costs.</li>
@@ -342,7 +342,7 @@ const Content = () => {
                   Q4. How much investment is needed for a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  Mini Mart starts from approximately ₹15 lakh, Super Mart from approximately ₹25 lakh, and Hyper Mart scales higher; it includes stock, interiors, POS software, franchise fee, and security deposit.
+                  Mini Mart starts from approximately ₹18.5 lakh, Super Mart from approximately ₹25 lakh, and Hyper Mart scales higher; it includes stock, interiors, POS software, franchise fee, and security deposit.
                 </p>
               </div>
 

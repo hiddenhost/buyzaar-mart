@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Franchise Model in Bulandshahr | The Buyzaar Mart",
   description:
-    "Explore the FOCM franchise model in Bulandshahr with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart from ₹15 Lakh with full company-managed support.",
+    "Explore the FOCM franchise model in Bulandshahr with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart from ₹18.5 lakh with full company-managed support.",
   keywords: [
     "FOCM model Bulandshahr",
     "FOCM franchise Bulandshahr",
@@ -40,7 +40,7 @@ export const metadata = {
   openGraph: {
     title: "FOCM Franchise Model in Bulandshahr | The Buyzaar Mart",
     description:
-      "Explore the FOCM franchise model in Bulandshahr with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart from ₹15 Lakh with full company-managed support.",
+      "Explore the FOCM franchise model in Bulandshahr with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart from ₹18.5 lakh with full company-managed support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/focm-model-franchise-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Franchise Model in Bulandshahr | The Buyzaar Mart",
     description:
-      "Explore the FOCM franchise model in Bulandshahr with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart from ₹15 Lakh with full company-managed support.",
+      "Explore the FOCM franchise model in Bulandshahr with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart from ₹18.5 lakh with full company-managed support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

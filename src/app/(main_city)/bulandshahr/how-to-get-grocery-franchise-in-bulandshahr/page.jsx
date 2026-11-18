@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Get Grocery Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "Learn how to get a grocery franchise in Bulandshahr with The Buyzaar Mart. Start from ₹15 Lakh with FOCM/FOCO models, full training & launch support.",
+    "Learn how to get a grocery franchise in Bulandshahr with The Buyzaar Mart. Start from ₹18.5 lakh with FOCM/FOCO models, full training & launch support.",
   keywords: [
     "grocery franchise in Bulandshahr",
     "supermarket franchise Bulandshahr",
@@ -39,7 +39,7 @@ export const metadata = {
   openGraph: {
     title: "How to Get Grocery Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Learn how to get a grocery franchise in Bulandshahr with The Buyzaar Mart. Start from ₹15 Lakh with FOCM/FOCO models, full training & launch support.",
+      "Learn how to get a grocery franchise in Bulandshahr with The Buyzaar Mart. Start from ₹18.5 lakh with FOCM/FOCO models, full training & launch support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/how-to-get-grocery-franchise-in-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Get Grocery Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Learn how to get a grocery franchise in Bulandshahr with The Buyzaar Mart. Start from ₹15 Lakh with FOCM/FOCO models, full training & launch support.",
+      "Learn how to get a grocery franchise in Bulandshahr with The Buyzaar Mart. Start from ₹18.5 lakh with FOCM/FOCO models, full training & launch support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

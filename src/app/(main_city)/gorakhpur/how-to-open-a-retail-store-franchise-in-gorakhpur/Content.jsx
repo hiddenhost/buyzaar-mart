@@ -6,7 +6,7 @@ const pageTitle =
   "How to Open Retail Store Franchise in Gorakhpur | Buyzaar Mart";
 
 const pageDescription =
-  "Learn how to open a retail store franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹15 Lakh, licences, funding, agreement checks and setup steps.";
+  "Learn how to open a retail store franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹18.5 lakh, licences, funding, agreement checks and setup steps.";
 
 const contentSections = [
   {
@@ -45,7 +45,7 @@ const contentSections = [
   {
     title: "Investment Required",
     points: [
-      "The Buyzaar Mart franchise starts from around ₹15 lakh, depending on the selected store format and property area.",
+      "The Buyzaar Mart franchise starts from around ₹18.5 lakh, depending on the selected store format and property area.",
       "The total investment covers opening stock, interior setup, software fee, franchise fee inclusive of 18% GST, and security deposit.",
       "A Mini Mart can be planned in an indicative range of approximately ₹15.25 lakh to ₹25 lakh, depending on area and interior choices.",
       "Larger formats cost more, so treat every figure as an estimate until the franchise team reviews the property and confirms the commercial proposal.",
@@ -143,7 +143,7 @@ const faqs = [
   {
     question: "How much does a retail store franchise cost in Gorakhpur?",
     answer:
-      "The Buyzaar Mart franchise starts from around ₹15 lakh, depending on the selected format and store area. Shop rent and certain operating costs are separate.",
+      "The Buyzaar Mart franchise starts from around ₹18.5 lakh, depending on the selected format and store area. Shop rent and certain operating costs are separate.",
   },
   {
     question: "Which documents are required?",

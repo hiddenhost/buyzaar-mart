@@ -6,9 +6,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Grocery Franchise from ₹15 Lakh in Rampur | The Buyzaar Mart",
+  name: "Grocery Franchise from ₹18.5 lakh in Rampur | The Buyzaar Mart",
   description:
-    "Start a grocery franchise in Rampur from ₹15 lakh with The Buyzaar Mart. Full setup, POS, supply chain, training and marketing support. Apply today.",
+    "Start a grocery franchise in Rampur from ₹18.5 lakh with The Buyzaar Mart. Full setup, POS, supply chain, training and marketing support. Apply today.",
   url: "https://www.thebuyzaarmart.com/rampur/grocery-franchise-starting-from-15-lakh-rampur",
   telephone: "+919217991727",
   address: {
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600 to 1,000 sq ft)",
         description:
-          "Focused categories such as grocery and staples, snacks and biscuits, beverages, personal care, home care and hygiene, and stationery. Total investment starts from ₹15 lakh and generally ranges between ₹15 lakh and ₹20 lakh.",
+          "Focused categories such as grocery and staples, snacks and biscuits, beverages, personal care, home care and hygiene, and stationery. Total investment starts from ₹18.5 lakh and generally ranges between ₹18.5 lakh and ₹20 lakh.",
       },
       {
         "@type": "Offer",
@@ -59,7 +59,7 @@ const faqSchema = {
       name: "What is the total investment for a grocery franchise in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Buyzaar Mart Mini Store starts from ₹15 lakh in total and generally ranges up to ₹20 lakh, depending on size, layout and location.",
+        text: "A Buyzaar Mart Mini Store starts from ₹18.5 lakh in total and generally ranges up to ₹20 lakh, depending on size, layout and location.",
       },
     },
     {
@@ -137,12 +137,12 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Franchise Starting from ₹15 Lakh in Rampur: Own a Branded Neighbourhood Supermarket
+              Grocery Franchise Starting from ₹18.5 lakh in Rampur: Own a Branded Neighbourhood Supermarket
             </h1>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a Grocery Franchise Starting from ₹15 Lakh Works in Rampur
+              Why a Grocery Franchise Starting from ₹18.5 lakh Works in Rampur
             </h2>
 
 
@@ -154,7 +154,7 @@ const Content = () => {
                 Shoppers in Rampur are shifting from unbranded loose stores to organised, branded stores that offer clean shelves, fair pricing and billing they can trust. A franchise store meets that expectation from the first day.
               </li>
               <li>
-                Starting from ₹15 lakh, a Buyzaar Mart franchise lets a first-time entrepreneur enter organised retail without building a brand, supplier network or software system from scratch.
+                Starting from ₹18.5 lakh, a Buyzaar Mart franchise lets a first-time entrepreneur enter organised retail without building a brand, supplier network or software system from scratch.
               </li>
               <li>
                 The business works for working professionals, local traders, landowners and families who want an asset they can grow and pass on, in line with the Buyzaar idea of “Ownership &amp; Legacy”.
@@ -184,13 +184,13 @@ const Content = () => {
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Total Investment: Grocery Franchise Starting from ₹15 Lakh
+              Total Investment: Grocery Franchise Starting from ₹18.5 lakh
             </h2>
 
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The total investment for a Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts from ₹15 lakh and generally ranges between ₹15 lakh and ₹20 lakh, depending on store size, layout, location and the work needed at the premises.
+                The total investment for a Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts from ₹18.5 lakh and generally ranges between ₹18.5 lakh and ₹20 lakh, depending on store size, layout, location and the work needed at the premises.
               </li>
               <li>
                 Larger Super Mart and Hyper Mart formats need a higher total investment, which the franchise team shares after reviewing the site and the store size you plan to open.
@@ -215,7 +215,7 @@ const Content = () => {
                 Best suited to residential colonies and neighbourhood markets, with focused categories such as grocery and staples, snacks and biscuits, beverages, personal care, home care and hygiene, and stationery.
               </li>
               <li>
-                This is the format where the grocery franchise starting from ₹15 lakh fits, making it the most practical entry point for first-time retail owners in Rampur.
+                This is the format where the grocery franchise starting from ₹18.5 lakh fits, making it the most practical entry point for first-time retail owners in Rampur.
               </li>
             </ul>
 
@@ -471,7 +471,7 @@ const Content = () => {
                   What is the total investment for a grocery franchise in Rampur?
                 </h3>
                 <p className="mt-2">
-                  A Buyzaar Mart Mini Store starts from ₹15 lakh in total and generally ranges up to ₹20 lakh, depending on size, layout and location.
+                  A Buyzaar Mart Mini Store starts from ₹18.5 lakh in total and generally ranges up to ₹20 lakh, depending on size, layout and location.
                 </p>
               </div>
 
@@ -553,16 +553,16 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Grocery Franchise in Rampur from ₹15 Lakh
+                Start Your Grocery Franchise in Rampur from ₹18.5 lakh
               </h2>
 
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  The Buyzaar Mart offers a grocery franchise in Rampur starting from ₹15 lakh, with full setup, POS, supply chain, training and marketing support.
+                  The Buyzaar Mart offers a grocery franchise in Rampur starting from ₹18.5 lakh, with full setup, POS, supply chain, training and marketing support.
                 </li>
                 <li>
-                  Mini Store total investment generally ranges between ₹15 lakh and ₹20 lakh, depending on store size, layout and location.
+                  Mini Store total investment generally ranges between ₹18.5 lakh and ₹20 lakh, depending on store size, layout and location.
                 </li>
                 <li>
                   Submit an inquiry on thebuyzaarmart.com or call{" "}

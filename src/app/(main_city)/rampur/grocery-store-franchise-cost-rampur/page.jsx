@@ -14,7 +14,7 @@ export const metadata = {
     "Buyzaar Mart franchise Rampur",
     "supermarket franchise Rampur",
     "grocery franchise Rampur Uttar Pradesh",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "grocery franchise under 20 lakh",
     "low investment grocery franchise",
     "Mini Mart franchise Rampur",

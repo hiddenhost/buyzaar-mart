@@ -4,7 +4,7 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Retail Business Franchise Lucknow | The Buyzaar Mart – Start from ₹15 Lakh",
+  title: "Retail Business Franchise Lucknow | The Buyzaar Mart – Start from ₹18.5 lakh",
   description:
     "Start your own retail business franchise in Lucknow with The Buyzaar Mart. Choose Mini Mart or Super Mart under FOCM or FOCO model with full brand support, POS technology & training. Apply at thebuyzaarmart.com.",
   alternates: {
@@ -12,7 +12,7 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/lucknow/retail-business-franchise-in-lucknow",
   },
   openGraph: {
-    title: "Retail Business Franchise Lucknow | The Buyzaar Mart – Start from ₹15 Lakh",
+    title: "Retail Business Franchise Lucknow | The Buyzaar Mart – Start from ₹18.5 lakh",
     description:
       "Start your own retail business franchise in Lucknow with The Buyzaar Mart. Choose Mini Mart or Super Mart under FOCM or FOCO model with full brand support, POS technology & training. Apply at thebuyzaarmart.com.",
     url: "https://www.thebuyzaarmart.com/lucknow/retail-business-franchise-in-lucknow",
@@ -30,7 +30,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Retail Business Franchise Lucknow | The Buyzaar Mart – Start from ₹15 Lakh",
+    title: "Retail Business Franchise Lucknow | The Buyzaar Mart – Start from ₹18.5 lakh",
     description:
       "Start your own retail business franchise in Lucknow with The Buyzaar Mart. Choose Mini Mart or Super Mart under FOCM or FOCO model with full brand support, POS technology & training. Apply at thebuyzaarmart.com.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

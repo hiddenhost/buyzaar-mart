@@ -25,7 +25,7 @@ export const metadata = {
     "mini mart franchise Rampur",
     "super mart franchise Rampur",
     "hyper mart franchise Rampur",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment supermarket franchise",
     "5 year franchise agreement",
     "mart franchise Rampur",

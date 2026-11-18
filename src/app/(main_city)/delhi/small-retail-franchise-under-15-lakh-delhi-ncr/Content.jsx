@@ -6,9 +6,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Small Retail Franchise Under 15 Lakh in Delhi NCR | The Buyzaar Mart",
+  name: "Small Retail Franchise Under 18.5 lakh in Delhi NCR | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers small retail franchise opportunities under 15 lakh in Delhi NCR with Mini Mart format, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support.",
+    "The Buyzaar Mart offers small retail franchise opportunities under 18.5 lakh in Delhi NCR with Mini Mart format, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/delhi/small-retail-franchise-under-15-lakh-delhi-ncr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -32,7 +32,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level small retail franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Delhi NCR, with investment under 15 lakh.",
+          "Entry-level small retail franchise format designed for residential colony shops, society-level commercial units, and neighbourhood-facing locations in Delhi NCR, with investment under 18.5 lakh.",
       },
       {
         "@type": "Offer",
@@ -57,10 +57,10 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Can I really start a retail franchise under 15 lakh in Delhi NCR?",
+      name: "Can I really start a retail franchise under 18.5 lakh in Delhi NCR?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. The Buyzaar Mart Mini Mart format starts from approximately ₹15 lakh, staying close to that figure with a compact store size and cost-efficient location.",
+        text: "Yes. The Buyzaar Mart Mini Mart format starts from approximately ₹18.5 lakh, staying close to that figure with a compact store size and cost-efficient location.",
       },
     },
     {
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What store size fits this budget?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to ₹15 lakh.",
+        text: "Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to ₹18.5 lakh.",
       },
     },
     {
@@ -108,7 +108,7 @@ const faqSchema = {
       name: "Can I scale up to a larger format later?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. Many franchisees start with a Mini Mart under ₹15 lakh and later expand to a Super Mart, Hyper Mart, or additional outlets.",
+        text: "Yes. Many franchisees start with a Mini Mart under ₹18.5 lakh and later expand to a Super Mart, Hyper Mart, or additional outlets.",
       },
     },
   ],
@@ -138,18 +138,18 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Small Retail Franchise Under 15 Lakh in Delhi NCR: Complete Investment Guide
+              Small Retail Franchise Under 18.5 lakh in Delhi NCR: Complete Investment Guide
             </h1>
 
 
             {/* Keep this first paragraph as-is (not converted to bullets) */}
             <p>
-              Delhi NCR is one of India&apos;s largest and most active consumer markets, spanning Delhi, Gurgaon, Noida, Greater Noida, Faridabad, and Ghaziabad. For entrepreneurs working with a tight budget, a small retail franchise under 15 lakh in this region can still deliver a fully branded, professionally supported business. Here&apos;s a complete guide to what this looks like with The Buyzaar Mart.
+              Delhi NCR is one of India&apos;s largest and most active consumer markets, spanning Delhi, Gurgaon, Noida, Greater Noida, Faridabad, and Ghaziabad. For entrepreneurs working with a tight budget, a small retail franchise under 18.5 lakh in this region can still deliver a fully branded, professionally supported business. Here&apos;s a complete guide to what this looks like with The Buyzaar Mart.
             </p>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Delhi NCR Suits a Small Retail Franchise Under 15 Lakh
+              Why Delhi NCR Suits a Small Retail Franchise Under 18.5 lakh
             </h2>
 
 
@@ -173,19 +173,19 @@ const Content = () => {
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a Franchise Under 15 Lakh Actually Buys You
+              What a Franchise Under 18.5 lakh Actually Buys You
             </h2>
 
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
-                A budget of ₹15 lakh is the starting investment point for The Buyzaar Mart&apos;s Mini Mart format — not a compromise format, but the brand&apos;s structured entry-level store.
+                A budget of ₹18.5 lakh is the starting investment point for The Buyzaar Mart&apos;s Mini Mart format — not a compromise format, but the brand&apos;s structured entry-level store.
               </li>
               <li>
                 At this investment level, you get a fully branded, FSSAI-licensed store with POS technology, trained staff, and ongoing company support — not just a signboard and a product list.
               </li>
               <li>
-                The key to staying at or near the ₹15 lakh mark is choosing a compact store size, a cost-efficient location, and a lean initial inventory calibrated tightly to your specific catchment.
+                The key to staying at or near the ₹18.5 lakh mark is choosing a compact store size, a cost-efficient location, and a lean initial inventory calibrated tightly to your specific catchment.
               </li>
               <li>
                 This entry point is designed specifically for first-time investors, working professionals, and residents who want to start small and prove the model before scaling further.
@@ -203,7 +203,7 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq ft — a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store, keeping the format accessible even in compact commercial spaces.
               </li>
               <li>
-                Total investment: Starts from approximately ₹15 lakh and typically stays in the ₹15–22 lakh range depending on exact size, location, and existing fit-out condition of the premises.
+                Total investment: Starts from approximately ₹18.5 lakh and typically stays in the ₹15–22 lakh range depending on exact size, location, and existing fit-out condition of the premises.
               </li>
               <li>
                 What&apos;s covered: Franchise fee (inclusive of 18% GST), interior setup and store assets, POS and inventory technology, opening stock, and the security deposit.
@@ -272,7 +272,7 @@ const Content = () => {
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Best NCR Locations for a Franchise Under 15 Lakh
+              Best NCR Locations for a Franchise Under 18.5 lakh
             </h2>
 
 
@@ -293,13 +293,13 @@ const Content = () => {
                 Delhi — urban villages and resettlement colonies: Areas still largely served by unorganized kirana stores, offering a first-mover advantage for a branded, compact store.
               </li>
               <li>
-                Gurgaon — residential lane-facing shops in established sectors: Lower-rent internal lanes within larger sectors, rather than premium main-road locations, help keep the total investment closer to the ₹15 lakh mark.
+                Gurgaon — residential lane-facing shops in established sectors: Lower-rent internal lanes within larger sectors, rather than premium main-road locations, help keep the total investment closer to the ₹18.5 lakh mark.
               </li>
             </ul>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Factors That Keep Your Investment Close to ₹15 Lakh
+              Factors That Keep Your Investment Close to ₹18.5 lakh
             </h2>
 
 
@@ -341,7 +341,7 @@ const Content = () => {
                 Under the FOCO model, returns are structured as an agreed revenue share or fixed payout, suited to investors who prefer a passive role.
               </li>
               <li>
-                Many franchisees start with a single Mini Mart under ₹15 lakh, build operational confidence and local trust, and later scale to a Super Mart, Hyper Mart, or additional outlets across NCR.
+                Many franchisees start with a single Mini Mart under ₹18.5 lakh, build operational confidence and local trust, and later scale to a Super Mart, Hyper Mart, or additional outlets across NCR.
               </li>
             </ul>
 
@@ -400,10 +400,10 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. Can I really start a retail franchise under 15 lakh in Delhi NCR?
+                  Q1. Can I really start a retail franchise under 18.5 lakh in Delhi NCR?
                 </h3>
                 <p className="mt-2">
-                  Yes. The Buyzaar Mart Mini Mart format starts from approximately ₹15 lakh, staying close to that figure with a compact store size and cost-efficient location.
+                  Yes. The Buyzaar Mart Mini Mart format starts from approximately ₹18.5 lakh, staying close to that figure with a compact store size and cost-efficient location.
                 </p>
               </div>
 
@@ -413,7 +413,7 @@ const Content = () => {
                   Q2. What store size fits this budget?
                 </h3>
                 <p className="mt-2">
-                  Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to ₹15 lakh.
+                  Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to ₹18.5 lakh.
                 </p>
               </div>
 
@@ -463,7 +463,7 @@ const Content = () => {
                   Q7. Can I scale up to a larger format later?
                 </h3>
                 <p className="mt-2">
-                  Yes. Many franchisees start with a Mini Mart under ₹15 lakh and later expand to a Super Mart, Hyper Mart, or additional outlets.
+                  Yes. Many franchisees start with a Mini Mart under ₹18.5 lakh and later expand to a Super Mart, Hyper Mart, or additional outlets.
                 </p>
               </div>
             </div>

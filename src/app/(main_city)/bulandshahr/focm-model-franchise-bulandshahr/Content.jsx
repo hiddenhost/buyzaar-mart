@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Model Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers FOCM (Franchise Owned, Company Managed) franchise opportunities in Bulandshahr with Mini Mart, Super Mart, and Hyper Mart formats starting from ₹15 lakh, with full company-managed operational support.",
+    "The Buyzaar Mart offers FOCM (Franchise Owned, Company Managed) franchise opportunities in Bulandshahr with Mini Mart, Super Mart, and Hyper Mart formats starting from ₹18.5 lakh, with full company-managed operational support.",
   url: "https://www.thebuyzaarmart.com/bulandshahr/focm-model-franchise-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much investment is needed for a Bulandshahr franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment typically starts from around ₹15 lakh for a Mini Mart, depending on store size and format.",
+        text: "Investment typically starts from around ₹18.5 lakh for a Mini Mart, depending on store size and format.",
       },
     },
     {
@@ -157,7 +157,7 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-            
+
 
             <h1 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Bulandshahr Investors Are Choosing the FOCM Model
@@ -225,7 +225,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Franchise investment typically starts from around ₹15 lakh for a Mini Mart and scales upward depending on store size and format.</li>
+              <li>Franchise investment typically starts from around ₹18.5 lakh for a Mini Mart and scales upward depending on store size and format.</li>
               <li>The investment components generally include opening stock, interior and store setup, software/POS fee, one-time franchise fee (inclusive of 18% GST), and a refundable security deposit.</li>
               <li>Ongoing costs such as rent, staff salaries, electricity, and miscellaneous variable expenses are borne by the franchise partner, while operational management is handled by the company.</li>
               <li>A precise, location-specific investment breakdown is shared with each Bulandshahr applicant after the site survey, rather than a generic one-size-fits-all figure.</li>
@@ -325,7 +325,7 @@ const Content = () => {
                   How much investment is needed for a Bulandshahr franchise?
                 </h3>
                 <p className="mt-2">
-                  Investment typically starts from around ₹15 lakh for a Mini Mart, depending on store size and format.
+                  Investment typically starts from around ₹18.5 lakh for a Mini Mart, depending on store size and format.
                 </p>
               </div>
 

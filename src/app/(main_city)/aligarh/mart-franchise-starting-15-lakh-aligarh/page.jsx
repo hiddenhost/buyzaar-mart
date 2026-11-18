@@ -4,11 +4,11 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise Starting Rs 15 Lakh in Aligarh | Readiness Guide",
+  title: "Mart Franchise Starting Rs 18.5 lakh in Aligarh | Readiness Guide",
   description:
-    "Thinking about a mart franchise starting at Rs 15 lakh in Aligarh? Use this readiness checklist covering budget, location, and growth planning with The Buyzaar Mart.",
+    "Thinking about a mart franchise starting at Rs 18.5 lakh in Aligarh? Use this readiness checklist covering budget, location, and growth planning with The Buyzaar Mart.",
   keywords: [
-    "mart franchise starting 15 lakh Aligarh",
+    "mart franchise starting 18.5 lakh Aligarh",
     "mini mart franchise checklist",
     "franchise readiness guide India",
     "low investment mart franchise",
@@ -42,9 +42,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/aligarh/mart-franchise-starting-15-lakh-aligarh",
   },
   openGraph: {
-    title: "Mart Franchise Starting Rs 15 Lakh in Aligarh | Readiness Guide",
+    title: "Mart Franchise Starting Rs 18.5 lakh in Aligarh | Readiness Guide",
     description:
-      "Thinking about a mart franchise starting at Rs 15 lakh in Aligarh? Use this readiness checklist covering budget, location, and growth planning with The Buyzaar Mart.",
+      "Thinking about a mart franchise starting at Rs 18.5 lakh in Aligarh? Use this readiness checklist covering budget, location, and growth planning with The Buyzaar Mart.",
     url: "https://www.thebuyzaarmart.com/aligarh/mart-franchise-starting-15-lakh-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -52,7 +52,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Starting Rs 15 Lakh in Aligarh | Readiness Guide",
+        alt: "Mart Franchise Starting Rs 18.5 lakh in Aligarh | Readiness Guide",
       },
     ],
     locale: "en_IN",
@@ -60,9 +60,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Starting Rs 15 Lakh in Aligarh | Readiness Guide",
+    title: "Mart Franchise Starting Rs 18.5 lakh in Aligarh | Readiness Guide",
     description:
-      "Thinking about a mart franchise starting at Rs 15 lakh in Aligarh? Use this readiness checklist covering budget, location, and growth planning with The Buyzaar Mart.",
+      "Thinking about a mart franchise starting at Rs 18.5 lakh in Aligarh? Use this readiness checklist covering budget, location, and growth planning with The Buyzaar Mart.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -17,7 +17,7 @@ export const metadata = {
     "low investment grocery franchise",
     "supermarket franchise in Amroha",
     "kirana store franchise",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "grocery franchise total investment",
     "mini mart franchise in UP",
     "FOCM franchise model",

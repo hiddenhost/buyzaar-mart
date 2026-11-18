@@ -22,7 +22,7 @@ export const metadata = {
     "FOCM franchise Rampur",
     "FOCO franchise Rampur",
     "mart franchise investment Rampur",
-    "mart franchise 15 lakh",
+    "mart franchise 18.5 lakh",
     "low investment mart franchise",
     "mart franchise Uttar Pradesh",
     "how to open a mart in Rampur",

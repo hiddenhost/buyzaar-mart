@@ -83,7 +83,7 @@ const faqSchema = {
             name: "How much investment is needed to open a Buyzaar Mart store with delivery in Noida?",
             acceptedAnswer: {
                 "@type": "Answer",
-                text: "It varies by format and area, broadly starting around ₹10–15 lakh and scaling with store size.",
+                text: "It varies by format and area, broadly starting around ₹10–18.5 lakh and scaling with store size.",
             },
         },
         {

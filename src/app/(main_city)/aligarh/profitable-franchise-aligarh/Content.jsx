@@ -43,7 +43,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level grocery franchise format requiring at least 600 sq ft of carpet area, with indicated investment of about ₹15 lakh to ₹20 lakh.",
+          "Entry-level grocery franchise format requiring at least 600 sq ft of carpet area, with indicated investment of about ₹18.5 lakh to ₹20 lakh.",
       },
       {
         "@type": "Offer",
@@ -94,7 +94,7 @@ const faqSchema = {
       name: "How much investment is needed?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart indicates about ₹15 lakh to ₹20 lakh. FOCO needs at least 2,000 sq ft.",
+        text: "A Mini Mart indicates about ₹18.5 lakh to ₹20 lakh. FOCO needs at least 2,000 sq ft.",
       },
     },
     {
@@ -280,7 +280,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The brand indicates about ₹15 lakh to ₹20 lakh for a Mini Mart of 600–1,000 sq ft, depending on size, arrangement and location. At least 600 sq ft of carpet area is required.
+                The brand indicates about ₹18.5 lakh to ₹20 lakh for a Mini Mart of 600–1,000 sq ft, depending on size, arrangement and location. At least 600 sq ft of carpet area is required.
               </li>
               <li>
                 The investment covers stock, interiors, software fee, franchise fee including 18% GST, and security deposit.
@@ -520,7 +520,7 @@ const Content = () => {
                   How much investment is needed?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart indicates about ₹15 lakh to ₹20 lakh. FOCO needs at least 2,000 sq ft.
+                  A Mini Mart indicates about ₹18.5 lakh to ₹20 lakh. FOCO needs at least 2,000 sq ft.
                 </p>
               </div>
 

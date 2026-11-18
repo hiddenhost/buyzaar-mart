@@ -5,18 +5,18 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Best Franchise Business in Bareilly – The Buyzaar Mart | 3 Mart Formats from ₹15 Lakh",
+    "Best Franchise Business in Bareilly – The Buyzaar Mart | 3 Mart Formats from ₹18.5 lakh",
   description:
-    "Looking for the best franchise business in Bareilly? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart formats from ₹15 Lakh with FOCM model, 18–20% margins & full support. Apply now!",
+    "Looking for the best franchise business in Bareilly? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart formats from ₹18.5 lakh with FOCM model, 18–20% margins & full support. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/best-franchise-business-in-bareilly",
   },
   openGraph: {
     title:
-      "Best Franchise Business in Bareilly – The Buyzaar Mart | 3 Mart Formats from ₹15 Lakh",
+      "Best Franchise Business in Bareilly – The Buyzaar Mart | 3 Mart Formats from ₹18.5 lakh",
     description:
-      "Looking for the best franchise business in Bareilly? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart formats from ₹15 Lakh with FOCM model, 18–20% margins & full support. Apply now!",
+      "Looking for the best franchise business in Bareilly? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart formats from ₹18.5 lakh with FOCM model, 18–20% margins & full support. Apply now!",
     url:
       "https://www.thebuyzaarmart.com/bareilly/best-franchise-business-in-bareilly",
     siteName: "The Buyzaar Mart",
@@ -25,7 +25,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Best Franchise Business in Bareilly – The Buyzaar Mart | 3 Mart Formats from ₹15 Lakh",
+        alt: "Best Franchise Business in Bareilly – The Buyzaar Mart | 3 Mart Formats from ₹18.5 lakh",
       },
     ],
     locale: "en_IN",
@@ -34,9 +34,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Best Franchise Business in Bareilly – The Buyzaar Mart | 3 Mart Formats from ₹15 Lakh",
+      "Best Franchise Business in Bareilly – The Buyzaar Mart | 3 Mart Formats from ₹18.5 lakh",
     description:
-      "Looking for the best franchise business in Bareilly? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart formats from ₹15 Lakh with FOCM model, 18–20% margins & full support. Apply now!",
+      "Looking for the best franchise business in Bareilly? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart formats from ₹18.5 lakh with FOCM model, 18–20% margins & full support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

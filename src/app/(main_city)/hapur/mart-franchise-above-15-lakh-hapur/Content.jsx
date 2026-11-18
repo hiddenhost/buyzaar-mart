@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Above 15 Lakh in Hapur | The Buyzaar Mart",
+  name: "Mart Franchise Above 18.5 lakh in Hapur | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers mart franchise opportunities in Hapur above 15 lakh with Super Mart and Hyper Mart formats, FOCM and FOCO models, centralized procurement, technology-enabled operations, and full franchise partner support.",
+    "The Buyzaar Mart offers mart franchise opportunities in Hapur above 18.5 lakh with Super Mart and Hyper Mart formats, FOCM and FOCO models, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/hapur/mart-franchise-above-15-lakh-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -57,7 +57,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "What does the investment above 15 lakh typically include?",
+      name: "What does the investment above 18.5 lakh typically include?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It generally covers a larger opening stock, extended interior fit-out, software fee, franchise fee inclusive of GST, and a security deposit.",
@@ -135,13 +135,13 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-           
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Consider a Mart Franchise Above 15 Lakh in Hapur
+              Why Consider a Mart Franchise Above 18.5 lakh in Hapur
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>An investment above 15 lakh opens access to larger store formats, wider commercial spaces, and stronger positioning in Hapur&apos;s busier retail corridors.</li>
+              <li>An investment above 18.5 lakh opens access to larger store formats, wider commercial spaces, and stronger positioning in Hapur&apos;s busier retail corridors.</li>
               <li>Hapur&apos;s connectivity along the NH-9 corridor to Delhi, Meerut, and Ghaziabad supports faster restocking and better supply chain efficiency for larger-format stores.</li>
               <li>The city&apos;s residential expansion across Delhi Road, Garhmukteshwar Road, Pilkhuwa, and central colonies is creating catchment areas large enough to support Super Mart and Hyper Mart formats.</li>
               <li>A higher investment allows for a broader product assortment, better shelf space allocation, and stronger visual merchandising, all of which support higher average transaction values.</li>
@@ -272,7 +272,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  What does the investment above 15 lakh typically include?
+                  What does the investment above 18.5 lakh typically include?
                 </h3>
                 <p className="mt-2">
                   It generally covers a larger opening stock, extended interior fit-out, software fee, franchise fee inclusive of GST, and a security deposit.
@@ -336,7 +336,7 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Mart Franchise Journey Above 15 Lakh in Hapur
+                Start Your Mart Franchise Journey Above 18.5 lakh in Hapur
               </h2>
 
               <p className="mb-4 text-gray-800">

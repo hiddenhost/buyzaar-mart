@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600–1,000 sq ft)",
         description:
-          "Entry format with a total investment typically between ₹15 lakh and ₹20 lakh, carrying personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.",
+          "Entry format with a total investment typically between ₹18.5 lakh and ₹20 lakh, carrying personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.",
       },
       {
         "@type": "Offer",
@@ -59,7 +59,7 @@ const faqSchema = {
       name: "What is the mart franchise cost in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Buyzaar Mart Mini Mart typically needs a total investment of ₹15 lakh to ₹20 lakh, depending on size and setup.",
+        text: "A Buyzaar Mart Mini Mart typically needs a total investment of ₹18.5 lakh to ₹20 lakh, depending on size and setup.",
       },
     },
     {
@@ -135,7 +135,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                If you are searching for the mart franchise cost in Rampur, the most useful answer is a single clear total: a Buyzaar Mart Mini Mart typically needs a total investment of ₹15 lakh to ₹20 lakh, depending on store size, shop condition and layout.
+                If you are searching for the mart franchise cost in Rampur, the most useful answer is a single clear total: a Buyzaar Mart Mini Mart typically needs a total investment of ₹18.5 lakh to ₹20 lakh, depending on store size, shop condition and layout.
               </li>
               <li>
                 The Buyzaar Mart is a supermarket and grocery franchise network that follows the FOCM (Franchise Owned Company Managed) model, so you own the store while the company manages branding, technology, supply systems and training.
@@ -194,7 +194,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart (600–1,000 sq ft)</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Mini Mart is the entry format, with a total investment typically between ₹15 lakh and ₹20 lakh, which suits first-time business owners in Rampur.
+                The Mini Mart is the entry format, with a total investment typically between ₹18.5 lakh and ₹20 lakh, which suits first-time business owners in Rampur.
               </li>
               <li>
                 It carries personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.
@@ -582,7 +582,7 @@ const Content = () => {
                   What is the mart franchise cost in Rampur?
                 </h3>
                 <p className="mt-2">
-                  A Buyzaar Mart Mini Mart typically needs a total investment of ₹15 lakh to ₹20 lakh, depending on size and setup.
+                  A Buyzaar Mart Mini Mart typically needs a total investment of ₹18.5 lakh to ₹20 lakh, depending on size and setup.
                 </p>
               </div>
 
@@ -646,7 +646,7 @@ const Content = () => {
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  The Buyzaar Mart offers a mart franchise in Rampur with a Mini Mart total investment typically between ₹15 lakh and ₹20 lakh.
+                  The Buyzaar Mart offers a mart franchise in Rampur with a Mini Mart total investment typically between ₹18.5 lakh and ₹20 lakh.
                 </li>
                 <li>
                   Get brand setup, POS billing, supply chain, training and marketing support under the FOCM model.

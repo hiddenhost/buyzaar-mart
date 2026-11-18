@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Above ₹15 Lakh in Mathura | The Buyzaar Mart",
+  name: "Mart Franchise Above ₹18.5 lakh in Mathura | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers mart franchise opportunities in Mathura above ₹15 lakh with Super Mart and Hyper Mart formats, FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
+    "The Buyzaar Mart offers mart franchise opportunities in Mathura above ₹18.5 lakh with Super Mart and Hyper Mart formats, FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/mathura/mart-franchise-above-15-lakh-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -49,7 +49,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What does a mart franchise above ₹15 lakh mean?",
+      name: "What does a mart franchise above ₹18.5 lakh mean?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It refers to larger formats such as the Super Mart or Hyper Mart, where investment rises with size and range.",
@@ -128,18 +128,18 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Above ₹15 Lakh in Mathura
+              Mart Franchise Above ₹18.5 lakh in Mathura
             </h1>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>A mart franchise above ₹15 lakh in Mathura is meant for entrepreneurs and investors who want a bigger store, a wider product range and a larger share of the neighbourhood&apos;s shopping.</li>
-              <li>The Buyzaar Mart franchise starts from ₹15 lakh, and moving above that level usually means choosing a larger format such as the Super Mart or Hyper Mart.</li>
+              <li>A mart franchise above ₹18.5 lakh in Mathura is meant for entrepreneurs and investors who want a bigger store, a wider product range and a larger share of the neighbourhood&apos;s shopping.</li>
+              <li>The Buyzaar Mart franchise starts from ₹18.5 lakh, and moving above that level usually means choosing a larger format such as the Super Mart or Hyper Mart.</li>
               <li>Mathura offers a strong mix of household demand and visitor traffic from Vrindavan and Govardhan, which supports larger stores in the right locations.</li>
               <li>This guide explains what a higher investment can buy, who should choose it, how to plan the extra capital and how to avoid over-investing in the wrong store.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Consider a Mart Franchise Above ₹15 Lakh
+              Why Consider a Mart Franchise Above ₹18.5 lakh
             </h2>
 
             <h3 className="font-medium text-gray-900">A Wider Range Brings Bigger Baskets</h3>
@@ -161,11 +161,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What &quot;Above ₹15 Lakh&quot; Means at The Buyzaar Mart
+              What &quot;Above ₹18.5 lakh&quot; Means at The Buyzaar Mart
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart franchise starts from ₹15 lakh, which is the entry point for the smaller format.</li>
+              <li>The Buyzaar Mart franchise starts from ₹18.5 lakh, which is the entry point for the smaller format.</li>
               <li>Investment rises as the store size, range, interiors and opening stock increase.</li>
               <li>The three formats are Mini Mart, Super Mart and Hyper Mart, each designed for a different market and budget.</li>
               <li>Use the investment calculator on thebuyzaarmart.com to estimate the total for your chosen format, and confirm the final figure with the franchise team in writing.</li>
@@ -399,7 +399,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  What does a mart franchise above ₹15 lakh mean?
+                  What does a mart franchise above ₹18.5 lakh mean?
                 </h3>
                 <p className="mt-2">
                   It refers to larger formats such as the Super Mart or Hyper Mart, where investment rises with size and range.
@@ -463,7 +463,7 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Mart Franchise Journey in Mathura Above ₹15 Lakh
+                Start Your Mart Franchise Journey in Mathura Above ₹18.5 lakh
               </h2>
 
               <ul className="list-disc space-y-2 pl-6">

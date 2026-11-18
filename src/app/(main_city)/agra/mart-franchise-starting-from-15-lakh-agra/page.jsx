@@ -4,14 +4,14 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise Starting From ₹15 Lakh in Agra | Buyzaar Mart",
+  title: "Mart Franchise Starting From ₹18.5 lakh in Agra | Buyzaar Mart",
   description:
-    "Start a branded mart franchise in Agra with investment beginning at ₹15 lakh. Explore Buyzaar Mart's Mini Mart format, costs, and application process.",
+    "Start a branded mart franchise in Agra with investment beginning at ₹18.5 lakh. Explore Buyzaar Mart's Mini Mart format, costs, and application process.",
   keywords: [
-    "mart franchise 15 lakh Agra",
+    "mart franchise 18.5 lakh Agra",
     "low investment franchise Agra",
     "Buyzaar Mart Mini Mart Agra",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "affordable franchise Agra",
     "Buyzaar Mart franchise cost",
     "small investment retail franchise",
@@ -24,9 +24,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/agra/mart-franchise-starting-from-15-lakh-agra",
   },
   openGraph: {
-    title: "Mart Franchise Starting From ₹15 Lakh in Agra | Buyzaar Mart",
+    title: "Mart Franchise Starting From ₹18.5 lakh in Agra | Buyzaar Mart",
     description:
-      "Start a branded mart franchise in Agra with investment beginning at ₹15 lakh. Explore Buyzaar Mart's Mini Mart format, costs, and application process.",
+      "Start a branded mart franchise in Agra with investment beginning at ₹18.5 lakh. Explore Buyzaar Mart's Mini Mart format, costs, and application process.",
     url: "https://www.thebuyzaarmart.com/agra/mart-franchise-starting-from-15-lakh-agra",
     siteName: "The Buyzaar Mart",
     images: [
@@ -34,7 +34,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Starting From ₹15 Lakh in Agra | Buyzaar Mart",
+        alt: "Mart Franchise Starting From ₹18.5 lakh in Agra | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -42,9 +42,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Starting From ₹15 Lakh in Agra | Buyzaar Mart",
+    title: "Mart Franchise Starting From ₹18.5 lakh in Agra | Buyzaar Mart",
     description:
-      "Start a branded mart franchise in Agra with investment beginning at ₹15 lakh. Explore Buyzaar Mart's Mini Mart format, costs, and application process.",
+      "Start a branded mart franchise in Agra with investment beginning at ₹18.5 lakh. Explore Buyzaar Mart's Mini Mart format, costs, and application process.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

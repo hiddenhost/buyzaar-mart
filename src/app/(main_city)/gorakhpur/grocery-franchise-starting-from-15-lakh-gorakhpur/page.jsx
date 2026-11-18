@@ -4,14 +4,14 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Grocery Franchise from ₹15 Lakh in Gorakhpur | Buyzaar Mart",
+  title: "Grocery Franchise from ₹18.5 lakh in Gorakhpur | Buyzaar Mart",
   description:
-    "Start a grocery franchise in Gorakhpur from ₹15 Lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+    "Start a grocery franchise in Gorakhpur from ₹18.5 lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
   keywords: [
-    "grocery franchise starting from 15 lakh Gorakhpur",
+    "grocery franchise starting from 18.5 lakh Gorakhpur",
     "grocery franchise in Gorakhpur",
     "supermarket franchise Gorakhpur",
-    "15 lakh franchise business",
+    "18.5 lakh franchise business",
     "low investment grocery franchise",
     "grocery franchise under 20 lakh",
     "The Buyzaar Mart franchise",
@@ -36,9 +36,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-starting-from-15-lakh-gorakhpur",
   },
   openGraph: {
-    title: "Grocery Franchise from ₹15 Lakh in Gorakhpur | Buyzaar Mart",
+    title: "Grocery Franchise from ₹18.5 lakh in Gorakhpur | Buyzaar Mart",
     description:
-      "Start a grocery franchise in Gorakhpur from ₹15 Lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+      "Start a grocery franchise in Gorakhpur from ₹18.5 lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-starting-from-15-lakh-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +46,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Grocery Franchise from ₹15 Lakh in Gorakhpur | Buyzaar Mart",
+        alt: "Grocery Franchise from ₹18.5 lakh in Gorakhpur | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -54,9 +54,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Grocery Franchise from ₹15 Lakh in Gorakhpur | Buyzaar Mart",
+    title: "Grocery Franchise from ₹18.5 lakh in Gorakhpur | Buyzaar Mart",
     description:
-      "Start a grocery franchise in Gorakhpur from ₹15 Lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+      "Start a grocery franchise in Gorakhpur from ₹18.5 lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

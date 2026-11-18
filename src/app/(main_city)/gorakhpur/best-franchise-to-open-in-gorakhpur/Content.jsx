@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "Best Franchise to Open in Gorakhpur | The Buyzaar Mart",
   description:
-    "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from ₹15 Lakh with full support. Apply now!",
+    "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from ₹18.5 lakh with full support. Apply now!",
 };
 
 const localBusinessSchema = {
@@ -463,17 +463,17 @@ const Content = () => {
 
                 {section.subsections
                   ? section.subsections.map((subsection, subsectionIndex) => (
-                      <div key={subsection.title} className="space-y-3">
-                        <h3 className="font-medium text-gray-900">
-                          {subsection.title}
-                        </h3>
+                    <div key={subsection.title} className="space-y-3">
+                      <h3 className="font-medium text-gray-900">
+                        {subsection.title}
+                      </h3>
 
-                        <BulletList
-                          items={subsection.items}
-                          id={`section-${sectionIndex}-subsection-${subsectionIndex}`}
-                        />
-                      </div>
-                    ))
+                      <BulletList
+                        items={subsection.items}
+                        id={`section-${sectionIndex}-subsection-${subsectionIndex}`}
+                      />
+                    </div>
+                  ))
                   : null}
               </div>
             ))}

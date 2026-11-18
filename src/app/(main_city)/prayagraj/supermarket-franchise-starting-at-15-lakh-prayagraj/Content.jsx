@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Supermarket Franchise Starting at 15 Lakh in Prayagraj | Buyzaar Mart",
+  name: "Supermarket Franchise Starting at 18.5 lakh in Prayagraj | Buyzaar Mart",
   description:
-    "Buyzaar Mart offers supermarket franchise opportunities in Prayagraj starting at 15 lakh with scalable store formats, transparent costing, and operational support.",
+    "Buyzaar Mart offers supermarket franchise opportunities in Prayagraj starting at 18.5 lakh with scalable store formats, transparent costing, and operational support.",
   url: "https://www.thebuyzaarmart.com/prayagraj/supermarket-franchise-starting-at-15-lakh-prayagraj",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -30,7 +30,7 @@ const localBusinessSchema = {
     itemListElement: [
       {
         "@type": "Offer",
-        name: "Supermarket Franchise Starting at 15 Lakh",
+        name: "Supermarket Franchise Starting at 18.5 lakh",
         description:
           "Structured franchise support for entrepreneurs looking to start a supermarket-format store in Prayagraj.",
       },
@@ -56,7 +56,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Is 15 lakh enough to start a supermarket franchise in Prayagraj?",
+      name: "Is 18.5 lakh enough to start a supermarket franchise in Prayagraj?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, given Prayagraj's lower rental and operational costs, this budget can support a well-stocked, multi-category supermarket-format store.",
@@ -64,7 +64,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "What does a 15 lakh supermarket franchise investment typically cover?",
+      name: "What does a 18.5 lakh supermarket franchise investment typically cover?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It generally includes store interiors, initial inventory across categories, billing systems, and working capital.",
@@ -96,7 +96,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "How long does it take to break even on a 15 lakh supermarket franchise?",
+      name: "How long does it take to break even on a 18.5 lakh supermarket franchise?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Break-even timelines depend on location and footfall, but a well-managed store can generally reach profitability within a reasonable timeframe.",
@@ -127,22 +127,22 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Supermarket Franchise Starting at 15 Lakh in Prayagraj: A Complete Investment Guide
+              Supermarket Franchise Starting at 18.5 lakh in Prayagraj: A Complete Investment Guide
             </h1>
 
             <p>
-              Owning a supermarket has traditionally been associated with large capital requirements, making it feel out of reach for many first-time investors. However, a supermarket franchise starting at 15 lakh in Prayagraj changes that equation, offering a more accessible entry point into a business format that customers increasingly prefer over smaller, unorganized stores. With Buyzaar Mart&apos;s franchise model, entrepreneurs can set up a proper supermarket-style outlet—offering a wider product range and a more complete shopping experience—without needing the substantial capital typically associated with large-format retail.
+              Owning a supermarket has traditionally been associated with large capital requirements, making it feel out of reach for many first-time investors. However, a supermarket franchise starting at 18.5 lakh in Prayagraj changes that equation, offering a more accessible entry point into a business format that customers increasingly prefer over smaller, unorganized stores. With Buyzaar Mart&apos;s franchise model, entrepreneurs can set up a proper supermarket-style outlet—offering a wider product range and a more complete shopping experience—without needing the substantial capital typically associated with large-format retail.
 
               This guide explains why this investment range works well in Prayagraj, what a supermarket franchise at this budget typically includes, and how to plan your investment strategically.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a Supermarket Franchise Makes Sense at 15 Lakh in Prayagraj
+              Why a Supermarket Franchise Makes Sense at 18.5 lakh in Prayagraj
             </h2>
 
             <ol className="list-decimal space-y-2 pl-6">
               <li>
-                Tier-2 City Economics Work in Your Favor Supermarket setups in metro cities often require significantly higher investment due to steep rental costs and premium real estate. Prayagraj, as a Tier-2 city, offers considerably lower rental and operational costs, allowing a 15 lakh investment to fund a genuinely supermarket-style store rather than a scaled-down version.
+                Tier-2 City Economics Work in Your Favor Supermarket setups in metro cities often require significantly higher investment due to steep rental costs and premium real estate. Prayagraj, as a Tier-2 city, offers considerably lower rental and operational costs, allowing a 18.5 lakh investment to fund a genuinely supermarket-style store rather than a scaled-down version.
               </li>
               <li>
                 Customers Increasingly Prefer the Supermarket Format Unlike a narrow grocery store, a supermarket format allows customers to shop across multiple categories—groceries, packaged foods, personal care, household items—in a single visit. This one-stop-shop convenience is increasingly valued by Prayagraj&apos;s residents, particularly in growing neighborhoods where customers want to minimize multiple shopping trips.
@@ -156,11 +156,11 @@ const Content = () => {
             </ol>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a 15 Lakh Supermarket Franchise Investment Typically Covers
+              What a 18.5 lakh Supermarket Franchise Investment Typically Covers
             </h2>
 
             <p>
-              While specifics vary by franchisor and exact store size, a supermarket franchise starting at 15 lakh generally includes store interiors and shelving, branding and signage, initial inventory across categories, billing and inventory technology, security deposit if the retail space is leased, and working capital. Since a supermarket format carries more categories than a standard grocery store, it&apos;s especially important to get a clear, itemized breakdown of how the 15 lakh investment is allocated across setup, inventory, and working capital.
+              While specifics vary by franchisor and exact store size, a supermarket franchise starting at 18.5 lakh generally includes store interiors and shelving, branding and signage, initial inventory across categories, billing and inventory technology, security deposit if the retail space is leased, and working capital. Since a supermarket format carries more categories than a standard grocery store, it&apos;s especially important to get a clear, itemized breakdown of how the 18.5 lakh investment is allocated across setup, inventory, and working capital.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -168,7 +168,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Accessible entry into a growing format: A 15 lakh starting point makes the supermarket format achievable for investors who might otherwise assume it requires far more capital.</li>
+              <li>Accessible entry into a growing format: A 18.5 lakh starting point makes the supermarket format achievable for investors who might otherwise assume it requires far more capital.</li>
               <li>Wider revenue potential: A multi-category store can capture more of a customer&apos;s total shopping basket compared to a narrowly focused grocery outlet.</li>
               <li>Better customer retention: Offering a broader product range encourages customers to make the store their default shopping destination rather than visiting multiple smaller shops.</li>
               <li>Cost efficiency in a Tier-2 market: Lower rental and labor costs in Prayagraj allow this budget to stretch further than it would in a metro city.</li>
@@ -176,12 +176,12 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Start a Supermarket Franchise With a 15 Lakh Budget
+              Step-by-Step Process to Start a Supermarket Franchise With a 18.5 lakh Budget
             </h2>
 
             <h3 className="font-medium text-gray-900">Step 1: Confirm Store Format Feasibility With the Franchisor</h3>
             <p>
-              Discuss your budget directly with the franchisor to understand what store size and category range a 15 lakh investment can realistically support in Prayagraj, since supermarket formats vary in scale.
+              Discuss your budget directly with the franchisor to understand what store size and category range a 18.5 lakh investment can realistically support in Prayagraj, since supermarket formats vary in scale.
             </p>
 
             <h3 className="font-medium text-gray-900">Step 2: Plan Your Financing Approach</h3>
@@ -220,7 +220,7 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Scalable store formats: Layouts and inventory plans designed to work efficiently at different investment levels, including the 15 lakh range.</li>
+              <li>Scalable store formats: Layouts and inventory plans designed to work efficiently at different investment levels, including the 18.5 lakh range.</li>
               <li>Transparent cost structure: A clear breakdown of franchise fees, setup costs, and category-wise inventory allocation.</li>
               <li>Operational support: Assistance with store setup, staff training, and inventory management across multiple product categories.</li>
               <li>Local market calibration: A model built around Tier-2 city cost structures and consumer shopping patterns.</li>
@@ -236,7 +236,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Complete Cost Transparency: Request a full, itemized breakdown of how your 15 lakh investment will be allocated across store setup, categories, and working capital.</li>
+              <li>Complete Cost Transparency: Request a full, itemized breakdown of how your 18.5 lakh investment will be allocated across store setup, categories, and working capital.</li>
               <li>Category Balance: Since supermarkets carry multiple product types, ensure the initial inventory plan balances high-turnover essentials with a reasonable selection of other categories, rather than spreading the budget too thin.</li>
               <li>Location Footfall Potential: Balance rental costs against expected footfall, since a supermarket format generally benefits from higher customer traffic to justify its broader inventory investment.</li>
               <li>Franchisor Support Level: Confirm what training, marketing, and operational guidance is included at this investment tier, since support levels can vary based on franchise size.</li>
@@ -256,7 +256,7 @@ const Content = () => {
             </ul>
 
             <p>
-              A supermarket franchise starting at 15 lakh in Prayagraj offers an accessible way to enter a retail format that&apos;s increasingly preferred by customers seeking convenience and variety in a single shopping trip. Given Prayagraj&apos;s lower operational costs, growing residential base, and diverse customer segments, this investment range aligns well with building a genuinely multi-category store. Partnering with a franchisor like Buyzaar Mart—offering transparent costing, category-balanced inventory planning, and structured support—gives entrepreneurs a practical path toward establishing a profitable supermarket business.
+              A supermarket franchise starting at 18.5 lakh in Prayagraj offers an accessible way to enter a retail format that&apos;s increasingly preferred by customers seeking convenience and variety in a single shopping trip. Given Prayagraj&apos;s lower operational costs, growing residential base, and diverse customer segments, this investment range aligns well with building a genuinely multi-category store. Partnering with a franchisor like Buyzaar Mart—offering transparent costing, category-balanced inventory planning, and structured support—gives entrepreneurs a practical path toward establishing a profitable supermarket business.
 
               As always, success depends on careful location selection, disciplined budget allocation across categories, and choosing a franchisor genuinely invested in supporting your growth.
             </p>
@@ -266,7 +266,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. Is 15 lakh enough to start a supermarket franchise in Prayagraj?
+                  Q1. Is 18.5 lakh enough to start a supermarket franchise in Prayagraj?
                 </h3>
                 <p className="mt-2">
                   Yes, given Prayagraj&apos;s lower rental and operational costs, this budget can support a well-stocked, multi-category supermarket-format store.
@@ -275,7 +275,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q2. What does a 15 lakh supermarket franchise investment typically cover?
+                  Q2. What does a 18.5 lakh supermarket franchise investment typically cover?
                 </h3>
                 <p className="mt-2">
                   It generally includes store interiors, initial inventory across categories, billing systems, and working capital.
@@ -311,7 +311,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q6. How long does it take to break even on a 15 lakh supermarket franchise?
+                  Q6. How long does it take to break even on a 18.5 lakh supermarket franchise?
                 </h3>
                 <p className="mt-2">
                   Break-even timelines depend on location and footfall, but a well-managed store can generally reach profitability within a reasonable timeframe.
@@ -325,7 +325,7 @@ const Content = () => {
               </h2>
 
               <p className="mb-4 text-gray-800">
-                Prayagraj&apos;s growing neighborhoods, student population, and steady visitor movement make it a strong city for a supermarket franchise starting at 15 lakh.
+                Prayagraj&apos;s growing neighborhoods, student population, and steady visitor movement make it a strong city for a supermarket franchise starting at 18.5 lakh.
               </p>
 
               <p className="mb-4 text-gray-800">

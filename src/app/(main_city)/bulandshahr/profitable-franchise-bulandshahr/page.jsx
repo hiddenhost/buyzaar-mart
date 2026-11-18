@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Profitable Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from ₹15 Lakh, 18–20% stated margin, POS billing and full support.",
+    "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from ₹18.5 lakh, 18–20% stated margin, POS billing and full support.",
   keywords: [
     "profitable franchise Bulandshahr",
     "profitable franchise in Bulandshahr",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Profitable Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from ₹15 Lakh, 18–20% stated margin, POS billing and full support.",
+      "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from ₹18.5 lakh, 18–20% stated margin, POS billing and full support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/profitable-franchise-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Profitable Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from ₹15 Lakh, 18–20% stated margin, POS billing and full support.",
+      "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from ₹18.5 lakh, 18–20% stated margin, POS billing and full support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

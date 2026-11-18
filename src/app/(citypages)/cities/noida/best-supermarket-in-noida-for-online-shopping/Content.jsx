@@ -132,7 +132,7 @@ const faqSchema = {
       name: "How much investment is needed to open a Buyzaar Mart supermarket in Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It varies by format and area, broadly starting around ₹10–15 lakh and scaling with store size.",
+        text: "It varies by format and area, broadly starting around ₹10–18.5 lakh and scaling with store size.",
       },
     },
     {
@@ -400,7 +400,7 @@ const Content = () => {
                   How much investment is needed to open a Buyzaar Mart supermarket in Noida?
                 </h3>
                 <p className="mt-2">
-                  It varies by format and area, broadly starting around ₹15 lakh and scaling with store size.
+                  It varies by format and area, broadly starting around ₹18.5 lakh and scaling with store size.
                 </p>
               </div>
 

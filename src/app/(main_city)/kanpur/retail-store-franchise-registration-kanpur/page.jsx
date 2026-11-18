@@ -5,7 +5,7 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Retail Store Franchise Registration in Kanpur | The Buyzaar Mart - ₹15 Lakh Investment",
+    "Retail Store Franchise Registration in Kanpur | The Buyzaar Mart - ₹18.5 lakh Investment",
   description:
     "Learn how to register a retail store franchise in Kanpur with The Buyzaar Mart. Complete franchise registration process, legal requirements, investment details, and step-by-step guidance for aspiring entrepreneurs.",
   alternates: {
@@ -14,7 +14,7 @@ export const metadata = {
   },
   openGraph: {
     title:
-      "Retail Store Franchise Registration in Kanpur | The Buyzaar Mart - ₹15 Lakh Investment",
+      "Retail Store Franchise Registration in Kanpur | The Buyzaar Mart - ₹18.5 lakh Investment",
     description:
       "Learn how to register a retail store franchise in Kanpur with The Buyzaar Mart. Complete franchise registration process, legal requirements, investment details, and step-by-step guidance for aspiring entrepreneurs.",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
@@ -24,7 +24,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Retail Store Franchise Registration in Kanpur | The Buyzaar Mart - ₹15 Lakh Investment",
+        alt: "Retail Store Franchise Registration in Kanpur | The Buyzaar Mart - ₹18.5 lakh Investment",
       },
     ],
     locale: "en_IN",
@@ -33,7 +33,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Retail Store Franchise Registration in Kanpur | The Buyzaar Mart - ₹15 Lakh Investment",
+      "Retail Store Franchise Registration in Kanpur | The Buyzaar Mart - ₹18.5 lakh Investment",
     description:
       "Learn how to register a retail store franchise in Kanpur with The Buyzaar Mart. Complete franchise registration process, legal requirements, investment details, and step-by-step guidance for aspiring entrepreneurs.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Start Grocery Store Franchise Gorakhpur | Buyzaar Mart",
   description:
-    "Learn how to start a grocery store franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹15 Lakh, store setup, stocking, launch plan and full support.",
+    "Learn how to start a grocery store franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹18.5 lakh, store setup, stocking, launch plan and full support.",
   keywords: [
     "how to start grocery store franchise gorakhpur",
     "grocery store franchise in gorakhpur",
@@ -18,7 +18,7 @@ export const metadata = {
     "grocery store setup guide",
     "grocery franchise under 20 lakh",
     "low investment grocery franchise",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "mini mart franchise gorakhpur",
     "supermarket franchise in gorakhpur",
     "franchise business in gorakhpur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "How to Start Grocery Store Franchise Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to start a grocery store franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹15 Lakh, store setup, stocking, launch plan and full support.",
+      "Learn how to start a grocery store franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹18.5 lakh, store setup, stocking, launch plan and full support.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-start-grocery-store-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Start Grocery Store Franchise Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to start a grocery store franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹15 Lakh, store setup, stocking, launch plan and full support.",
+      "Learn how to start a grocery store franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹18.5 lakh, store setup, stocking, launch plan and full support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -15,7 +15,7 @@ export const metadata = {
     "affordable grocery franchise Lucknow",
     "small budget franchise business UP",
     "retail franchise Lucknow",
-    "franchise under 15 lakh Lucknow",
+    "franchise under 18.5 lakh Lucknow",
     "budget grocery franchise India",
     "low cost supermarket franchise UP",
     "compact store franchise Lucknow",

@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "MiniMart Franchise",
         description:
-          "Neighbourhood retail format for 600 to 1000 square feet starting from approximately ₹15 Lakh",
+          "Neighbourhood retail format for 600 to 1000 square feet starting from approximately ₹18.5 lakh",
       },
       {
         "@type": "Offer",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment to open a retail franchise in Bareilly with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from approximately ₹15 Lakh for a MiniMart format, covering franchise fee, interior setup, POS technology, opening stock, and security deposit.",
+        text: "The minimum investment starts from approximately ₹18.5 lakh for a MiniMart format, covering franchise fee, interior setup, POS technology, opening stock, and security deposit.",
       },
     },
     {
@@ -282,7 +282,7 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">Investment:</span> Starting from
-                approximately ₹15 Lakh, including franchise fee, interior setup,
+                approximately ₹18.5 lakh, including franchise fee, interior setup,
                 POS technology, opening stock, and security deposit.
               </li>
               <li>
@@ -430,7 +430,7 @@ const Content = () => {
                       600–1,000 sq ft
                     </td>
                     <td className="border border-gray-200 px-4 py-3">
-                      From ₹15 Lakh
+                      From ₹18.5 lakh
                     </td>
                     <td className="border border-gray-200 px-4 py-3">
                       ₹3L–₹8L
@@ -639,7 +639,7 @@ const Content = () => {
                 tier-3 cities rather than a metro-first concept.
               </li>
               <li>
-                The entry investment is accessible, beginning around ₹15 Lakh
+                The entry investment is accessible, beginning around ₹18.5 lakh
                 for MiniMart according to the brand&apos;s public materials.
               </li>
               <li>
@@ -665,7 +665,7 @@ const Content = () => {
                   in Bareilly with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2 text-gray-700">
-                  The minimum investment starts at approximately ₹15 Lakh for a
+                  The minimum investment starts at approximately ₹18.5 lakh for a
                   MiniMart format, covering franchise fee, interior setup, POS
                   technology, opening stock, and security deposit.
                 </p>

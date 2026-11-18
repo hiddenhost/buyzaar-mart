@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
   description:
-    "Explore a mart franchise opportunity in Bulandshahr with The Buyzaar Mart. Total investment from ₹15 Lakh, 18–20% stated margin, POS billing, training and support.",
+    "Explore a mart franchise opportunity in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, 18–20% stated margin, POS billing, training and support.",
   keywords: [
     "mart franchise opportunity Bulandshahr",
     "mart franchise Bulandshahr",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
     description:
-      "Explore a mart franchise opportunity in Bulandshahr with The Buyzaar Mart. Total investment from ₹15 Lakh, 18–20% stated margin, POS billing, training and support.",
+      "Explore a mart franchise opportunity in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, 18–20% stated margin, POS billing, training and support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/mart-franchise-opportunity-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
     description:
-      "Explore a mart franchise opportunity in Bulandshahr with The Buyzaar Mart. Total investment from ₹15 Lakh, 18–20% stated margin, POS billing, training and support.",
+      "Explore a mart franchise opportunity in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, 18–20% stated margin, POS billing, training and support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

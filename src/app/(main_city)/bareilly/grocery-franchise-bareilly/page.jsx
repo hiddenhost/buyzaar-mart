@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Grocery Franchise Bareilly | Start Your Supermarket with The Buyzaar Mart",
   description:
-    "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at ₹15 Lakh. Full setup, supply chain & ongoing support. Apply now!",
+    "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at ₹18.5 lakh. Full setup, supply chain & ongoing support. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/grocery-franchise-in-bareilly",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Grocery Franchise Bareilly | Start Your Supermarket with The Buyzaar Mart",
     description:
-      "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at ₹15 Lakh. Full setup, supply chain & ongoing support. Apply now!",
+      "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at ₹18.5 lakh. Full setup, supply chain & ongoing support. Apply now!",
     url: "https://www.thebuyzaarmart.com/bareilly/grocery-franchise-in-bareilly",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Grocery Franchise Bareilly | Start Your Supermarket with The Buyzaar Mart",
     description:
-      "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at ₹15 Lakh. Full setup, supply chain & ongoing support. Apply now!",
+      "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at ₹18.5 lakh. Full setup, supply chain & ongoing support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

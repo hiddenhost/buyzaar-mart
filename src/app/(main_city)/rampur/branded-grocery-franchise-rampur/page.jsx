@@ -22,7 +22,7 @@ export const metadata = {
     "hyper mart franchise Rampur",
     "FOCM franchise Rampur",
     "FOCO franchise Rampur",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "grocery franchise under 20 lakh",
     "low investment grocery franchise",
     "grocery franchise Uttar Pradesh",

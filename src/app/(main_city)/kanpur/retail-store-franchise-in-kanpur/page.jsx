@@ -3,7 +3,7 @@ import Banner from "./Banner";
 import Content from "./Content";
 import Services from "@/app/components/Services";
 export const metadata = {
-  title: "Retail Store Franchise in Kanpur | Start with The Buyzaar Mart from ₹15 Lakh",
+  title: "Retail Store Franchise in Kanpur | Start with The Buyzaar Mart from ₹18.5 lakh",
   description:
     "Looking for a retail store franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise. Low investment, full support & proven FOCM model. Apply today!",
   alternates: {
@@ -11,7 +11,7 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
   },
   openGraph: {
-    title: "Retail Store Franchise in Kanpur | Start with The Buyzaar Mart from ₹15 Lakh",
+    title: "Retail Store Franchise in Kanpur | Start with The Buyzaar Mart from ₹18.5 lakh",
     description:
       "Looking for a retail store franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise. Low investment, full support & proven FOCM model. Apply today!",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
@@ -29,7 +29,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Retail Store Franchise in Kanpur | Start with The Buyzaar Mart from ₹15 Lakh",
+    title: "Retail Store Franchise in Kanpur | Start with The Buyzaar Mart from ₹18.5 lakh",
     description:
       "Looking for a retail store franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise. Low investment, full support & proven FOCM model. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Franchise Opportunity in Gorakhpur | The Buyzaar Mart",
   description:
-    "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from ₹15 Lakh with full support. Apply today!",
+    "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from ₹18.5 lakh with full support. Apply today!",
   keywords: [
     "franchise opportunity in gorakhpur",
     "franchise opportunity gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Franchise Opportunity in Gorakhpur | The Buyzaar Mart",
     description:
-      "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from ₹15 Lakh with full support. Apply today!",
+      "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from ₹18.5 lakh with full support. Apply today!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/franchise-opportunity-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Franchise Opportunity in Gorakhpur | The Buyzaar Mart",
     description:
-      "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from ₹15 Lakh with full support. Apply today!",
+      "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from ₹18.5 lakh with full support. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

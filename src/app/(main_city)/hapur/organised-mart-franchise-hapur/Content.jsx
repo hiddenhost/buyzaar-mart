@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Organised Mart Franchise Hapur | The Buyzaar Mart",
   description:
-    "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from ₹15 lakh.",
+    "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from ₹18.5 lakh.",
   url: "https://www.thebuyzaarmart.com/hapur/organised-mart-franchise-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart typically ranges from ₹15 lakh to ₹20 lakh in total, varying by size and location.",
+        text: "A Mini Mart typically ranges from ₹18.5 lakh to ₹20 lakh in total, varying by size and location.",
       },
     },
     {
@@ -289,7 +289,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">What to Plan For</h3>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>For a Mini Mart of 600–1,000 sq ft, the brand states that the total investment may range from ₹15 lakh to ₹20 lakh.</li>
+              <li>For a Mini Mart of 600–1,000 sq ft, the brand states that the total investment may range from ₹18.5 lakh to ₹20 lakh.</li>
               <li>The final total depends on store size, arrangement, location and the work needed on site, and larger formats or the FOCO model need a larger total. The website calculator gives an estimate, and the team confirms the current figure.</li>
             </ul>
 
@@ -355,7 +355,7 @@ const Content = () => {
               <li>ID proof (Aadhaar, PAN or Voter ID), highest education certificate, bank details through a cancelled cheque or passbook copy, and property documents for the store.</li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
@@ -376,7 +376,7 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart typically ranges from ₹15 lakh to ₹20 lakh in total, varying by size and location.
+                  A Mini Mart typically ranges from ₹18.5 lakh to ₹20 lakh in total, varying by size and location.
                 </p>
               </div>
 

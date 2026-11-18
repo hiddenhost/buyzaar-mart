@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Local Mart Franchise in Kanpur - The Buyzaar Mart",
   description:
-    "Start a local mart franchise in Kanpur with The Buyzaar Mart. Launch a neighbourhood grocery and supermarket store with investment starting from ₹15 Lakh, hyper-local marketing, backend support, POS technology, and inventory assurance.",
+    "Start a local mart franchise in Kanpur with The Buyzaar Mart. Launch a neighbourhood grocery and supermarket store with investment starting from ₹18.5 lakh, hyper-local marketing, backend support, POS technology, and inventory assurance.",
   url: "https://www.thebuyzaarmart.com/kanpur/local-mart-franchise-in-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required for a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Buyzaar Mart franchise starts from ₹15 Lakh, making it one of the most affordable branded grocery franchise opportunities available in Kanpur and across North India.",
+        text: "The Buyzaar Mart franchise starts from ₹18.5 lakh, making it one of the most affordable branded grocery franchise opportunities available in Kanpur and across North India.",
       },
     },
     {
@@ -310,7 +310,7 @@ const Content = () => {
             </p>
 
             <h3 className="font-medium text-gray-900">
-              8. Investment Starting from ₹15 Lakh
+              8. Investment Starting from ₹18.5 lakh
             </h3>
             <p>
               The Buyzaar Mart franchise is accessible. Starting from just ₹15
@@ -524,7 +524,7 @@ const Content = () => {
                 Q1. What is the minimum investment required for a Buyzaar Mart
                 franchise in Kanpur?
               </strong>{" "}
-              The Buyzaar Mart franchise starts from ₹15 Lakh, making it one of
+              The Buyzaar Mart franchise starts from ₹18.5 lakh, making it one of
               the most affordable branded grocery franchise opportunities
               available in Kanpur and across North India.
             </p>

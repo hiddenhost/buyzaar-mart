@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Franchise to Open in Hapur | The Buyzaar Mart",
   description:
-    "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from ₹15 Lakh. Apply now.",
+    "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from ₹18.5 lakh. Apply now.",
   keywords: [
     "best franchise to open in Hapur",
     "best franchise in Hapur",
@@ -19,7 +19,7 @@ export const metadata = {
     "grocery franchise Hapur",
     "retail franchise Hapur",
     "low investment franchise Hapur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "profitable franchise Hapur",
     "FMCG franchise Hapur",
     "franchise business opportunity Hapur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Best Franchise to Open in Hapur | The Buyzaar Mart",
     description:
-      "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from ₹15 Lakh. Apply now.",
+      "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from ₹18.5 lakh. Apply now.",
     url: "https://www.thebuyzaarmart.com/hapur/best-franchise-to-open-in-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Franchise to Open in Hapur | The Buyzaar Mart",
     description:
-      "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from ₹15 Lakh. Apply now.",
+      "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from ₹18.5 lakh. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

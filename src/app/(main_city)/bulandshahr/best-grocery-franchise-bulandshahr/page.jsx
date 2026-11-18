@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Grocery Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "Looking for the best grocery franchise in Bulandshahr? Open a Buyzaar Mart with total investment from ₹15 Lakh, POS billing, training and full launch support.",
+    "Looking for the best grocery franchise in Bulandshahr? Open a Buyzaar Mart with total investment from ₹18.5 lakh, POS billing, training and full launch support.",
   keywords: [
     "best grocery franchise Bulandshahr",
     "best grocery franchise in Bulandshahr",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Best Grocery Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Looking for the best grocery franchise in Bulandshahr? Open a Buyzaar Mart with total investment from ₹15 Lakh, POS billing, training and full launch support.",
+      "Looking for the best grocery franchise in Bulandshahr? Open a Buyzaar Mart with total investment from ₹18.5 lakh, POS billing, training and full launch support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/best-grocery-franchise-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Grocery Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Looking for the best grocery franchise in Bulandshahr? Open a Buyzaar Mart with total investment from ₹15 Lakh, POS billing, training and full launch support.",
+      "Looking for the best grocery franchise in Bulandshahr? Open a Buyzaar Mart with total investment from ₹18.5 lakh, POS billing, training and full launch support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

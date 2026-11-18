@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Business Opportunity Mathura | Buyzaar",
   description:
-    "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from ₹15 Lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
+    "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from ₹18.5 lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
   keywords: [
     "grocery franchise business opportunity Mathura",
     "grocery franchise Mathura",
@@ -16,7 +16,7 @@ export const metadata = {
     "The Buyzaar Mart",
     "low investment grocery franchise Mathura",
     "grocery franchise under 20 lakh",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "mini mart franchise Mathura",
     "super mart franchise Mathura",
     "hyper mart franchise Mathura",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Business Opportunity Mathura | Buyzaar",
     description:
-      "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from ₹15 Lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
+      "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from ₹18.5 lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
     url: "https://www.thebuyzaarmart.com/mathura/grocery-franchise-business-opportunity-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Business Opportunity Mathura | Buyzaar",
     description:
-      "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from ₹15 Lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
+      "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from ₹18.5 lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

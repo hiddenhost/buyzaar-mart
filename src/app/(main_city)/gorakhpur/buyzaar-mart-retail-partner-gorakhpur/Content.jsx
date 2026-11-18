@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Buyzaar Mart Retail Partner Gorakhpur | From ₹15 Lakh",
+  name: "Buyzaar Mart Retail Partner Gorakhpur | From ₹18.5 lakh",
   description:
     "Become a Buyzaar Mart retail partner in Gorakhpur. Own a branded supermarket with FOCM and FOCO models, POS billing, supply chain, and launch support.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-retail-partner-gorakhpur",
@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the starting investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹15 lakh, depending on store format and size.",
+        text: "Investment starts from ₹18.5 lakh, depending on store format and size.",
       },
     },
     {
@@ -138,7 +138,7 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Buyzaar Mart Retail Partner Gorakhpur | From ₹15 Lakh
+              Buyzaar Mart Retail Partner Gorakhpur | From ₹18.5 lakh
             </h1>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -155,7 +155,7 @@ const Content = () => {
               <li>
                 The Buyzaar Mart is a grocery and supermarket franchise network
                 built around the promise &quot;Your Friendly Neighborhood
-                Store&quot;, with investment starting from ₹15 lakh.
+                Store&quot;, with investment starting from ₹18.5 lakh.
               </li>
               <li>
                 Gorakhpur is a fast-growing city of eastern Uttar Pradesh,
@@ -385,7 +385,7 @@ const Content = () => {
               </li>
               <li>
                 Your investment depends on the format and area, and starts from
-                ₹15 lakh.
+                ₹18.5 lakh.
               </li>
               <li>
                 The calculator on thebuyzaarmart.com estimates stock, interior,
@@ -841,7 +841,7 @@ const Content = () => {
                   3. What is the starting investment?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹15 lakh, depending on store format
+                  Investment starts from ₹18.5 lakh, depending on store format
                   and size.
                 </p>
               </div>
@@ -899,7 +899,7 @@ const Content = () => {
 
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  Start your retail partnership from an investment of ₹15 lakh.
+                  Start your retail partnership from an investment of ₹18.5 lakh.
                 </li>
                 <li>
                   Choose the FOCM or FOCO model according to your involvement

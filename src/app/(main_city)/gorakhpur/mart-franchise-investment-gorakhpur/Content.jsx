@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Investment in Gorakhpur | The Buyzaar Mart",
   description:
-    "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super and Hyper Mart formats, costs from ₹15 Lakh, POS technology and training support.",
+    "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super and Hyper Mart formats, costs from ₹18.5 lakh, POS technology and training support.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-investment-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much does a Mini Mart franchise cost in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from about ₹15 Lakh and generally goes up to ₹22 Lakh, depending on size and site.",
+        text: "It starts from about ₹18.5 lakh and generally goes up to ₹22 Lakh, depending on size and site.",
       },
     },
     {
@@ -219,7 +219,7 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">Investment:</span> Approximately
-                ₹15 Lakh to ₹22 Lakh, depending on size, location, and the
+                ₹18.5 lakh to ₹22 Lakh, depending on size, location, and the
                 condition of the premises.
               </li>
               <li>
@@ -578,7 +578,7 @@ const Content = () => {
                   How much does a Mini Mart franchise cost in Gorakhpur?
                 </h3>
                 <p className="mt-2">
-                  It starts from about ₹15 Lakh and generally goes up to ₹22
+                  It starts from about ₹18.5 lakh and generally goes up to ₹22
                   Lakh, depending on size and site.
                 </p>
               </div>
@@ -671,7 +671,7 @@ const Content = () => {
                   marketing.
                 </li>
                 <li>
-                  Mini Mart investment begins from approximately ₹15 Lakh,
+                  Mini Mart investment begins from approximately ₹18.5 lakh,
                   subject to the final location, space, and store setup
                   requirements.
                 </li>

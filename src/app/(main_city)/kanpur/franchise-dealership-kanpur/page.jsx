@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Franchise Dealership Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
   description:
-    "Looking for a franchise dealership in Kanpur? Partner with The Buyzaar Mart and own a profitable grocery supermarket from ₹15 Lakh.",
+    "Looking for a franchise dealership in Kanpur? Partner with The Buyzaar Mart and own a profitable grocery supermarket from ₹18.5 lakh.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Franchise Dealership Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
     description:
-      "Looking for a franchise dealership in Kanpur? Partner with The Buyzaar Mart and own a profitable grocery supermarket from ₹15 Lakh.",
+      "Looking for a franchise dealership in Kanpur? Partner with The Buyzaar Mart and own a profitable grocery supermarket from ₹18.5 lakh.",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Franchise Dealership Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
     description:
-      "Looking for a franchise dealership in Kanpur? Partner with The Buyzaar Mart and own a profitable grocery supermarket from ₹15 Lakh.",
+      "Looking for a franchise dealership in Kanpur? Partner with The Buyzaar Mart and own a profitable grocery supermarket from ₹18.5 lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

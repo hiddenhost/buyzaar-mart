@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Partner in Gurugram | Franchise Partnership Opportunity",
   description:
-    "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from ₹15 Lakh. Apply for franchise partnership today.",
+    "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from ₹18.5 lakh. Apply for franchise partnership today.",
   keywords: [
     "buyzaar mart partner gurugram",
     "become a Buyzaar Mart franchise partner",
@@ -46,7 +46,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Partner in Gurugram | Franchise Partnership Opportunity",
     description:
-      "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from ₹15 Lakh. Apply for franchise partnership today.",
+      "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from ₹18.5 lakh. Apply for franchise partnership today.",
     url: "https://www.thebuyzaarmart.com/gurgaon/buyzaar-mart-partner-gurugram",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,7 +64,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Partner in Gurugram | Franchise Partnership Opportunity",
     description:
-      "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from ₹15 Lakh. Apply for franchise partnership today.",
+      "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from ₹18.5 lakh. Apply for franchise partnership today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

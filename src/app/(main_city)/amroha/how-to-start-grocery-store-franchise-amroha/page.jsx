@@ -21,7 +21,7 @@ export const metadata = {
     "super mart franchise",
     "hyper mart franchise",
     "low investment grocery store franchise",
-    "grocery store franchise 15 lakh",
+    "grocery store franchise 18.5 lakh",
     "grocery store franchise total investment",
     "grocery store franchise without experience",
     "grocery store franchise with full support",

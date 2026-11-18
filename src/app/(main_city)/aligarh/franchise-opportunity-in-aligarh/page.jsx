@@ -78,7 +78,7 @@ const faqSchema = {
       name: "How much investment is needed?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart indicates about ₹15 lakh to ₹20 lakh. Larger formats and FOCO cost more.",
+        text: "A Mini Mart indicates about ₹18.5 lakh to ₹20 lakh. Larger formats and FOCO cost more.",
       },
     },
     {
@@ -150,7 +150,7 @@ const Content = () => {
                 The Buyzaar Mart offers Aligarh entrepreneurs a neighbourhood supermarket franchise built around everyday household needs. Stores combine modern billing and layouts with the warmth of a local shop.
               </li>
               <li>
-                Two ownership models and three store formats let you match the franchise to your capital, space and involvement. The brand indicates investment from about ₹15 lakh for a Mini Mart.
+                Two ownership models and three store formats let you match the franchise to your capital, space and involvement. The brand indicates investment from about ₹18.5 lakh for a Mini Mart.
               </li>
               <li>
                 The brand&apos;s own franchise inquiry form lists Aligarh among its cities. This signals active interest in expanding here.
@@ -289,7 +289,7 @@ const Content = () => {
                 The entry format for residential lanes, colonies and compact shops, with at least 600 sq ft of carpet area. It stocks personal care, beverages, grocery and staples, home care and hygiene, stationery, and snacks and biscuits.
               </li>
               <li>
-                The brand indicates about ₹15 lakh to ₹20 lakh in total investment, depending on size, arrangement and location.
+                The brand indicates about ₹18.5 lakh to ₹20 lakh in total investment, depending on size, arrangement and location.
               </li>
             </ul>
 
@@ -527,7 +527,7 @@ const Content = () => {
                   How much investment is needed?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart indicates about ₹15 lakh to ₹20 lakh. Larger formats and FOCO cost more.
+                  A Mini Mart indicates about ₹18.5 lakh to ₹20 lakh. Larger formats and FOCO cost more.
                 </p>
               </div>
 

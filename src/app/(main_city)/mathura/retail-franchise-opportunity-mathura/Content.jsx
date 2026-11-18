@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Retail Franchise Opportunity in Mathura | The Buyzaar Mart",
   description:
-    "Start a retail franchise in Mathura with The Buyzaar Mart. Investment from ₹15 Lakh, 18-20% margin, full setup, POS, supply chain and training.",
+    "Start a retail franchise in Mathura with The Buyzaar Mart. Investment from ₹18.5 lakh, 18-20% margin, full setup, POS, supply chain and training.",
   url: "https://www.thebuyzaarmart.com/mathura/retail-franchise-opportunity-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -165,7 +165,7 @@ const Content = () => {
                 one roof.
               </li>
               <li>
-                Investment starts from ₹15 lakh for a Mini Mart, with an
+                Investment starts from ₹18.5 lakh for a Mini Mart, with an
                 effective gross margin of 18-20% depending on location, store
                 size and sales volume.
               </li>
@@ -292,7 +292,7 @@ const Content = () => {
                 homecare and hygiene, stationery, snacks and biscuits.
               </li>
               <li>
-                Total investment typically ranges from ₹15 lakh to ₹20 lakh,
+                Total investment typically ranges from ₹18.5 lakh to ₹20 lakh,
                 depending on size, layout and site work.
               </li>
             </ul>
@@ -655,7 +655,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               FAQs

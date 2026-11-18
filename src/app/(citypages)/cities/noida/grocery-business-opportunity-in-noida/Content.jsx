@@ -156,7 +156,7 @@ const Content = () => {
               Noida's momentum is yours to capture. Act today for tomorrow's gains.
             </p>
 
-           
+
 
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mt-12">
               Frequently Asked Questions
@@ -178,7 +178,7 @@ const Content = () => {
                 <h3 className="font-semibold text-gray-900 mb-3">
                   3. How much investment is needed to start a grocery business in Noida?
                 </h3>
-                <p>The investment varies depending on store size, format, and inventory. For franchise opportunities like The Buyzaar Mart, initial investment typically ranges from ₹15 lakh to ₹22 lakh, including store setup, inventory, and operational support.</p>
+                <p>The investment varies depending on store size, format, and inventory. For franchise opportunities like The Buyzaar Mart, initial investment typically ranges from ₹18.5 lakh to ₹22 lakh, including store setup, inventory, and operational support.</p>
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">

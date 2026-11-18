@@ -22,7 +22,7 @@ export const metadata = {
     "retail franchise Mathura",
     "franchise opportunity Uttar Pradesh",
     "supermarket franchise Uttar Pradesh",
-    "franchise investment 15 lakh",
+    "franchise investment 18.5 lakh",
     "Super Mart franchise",
     "Hyper Mart franchise",
     "FMCG franchise Mathura",

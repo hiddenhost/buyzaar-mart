@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Grocery Franchise Starting from Rs 15 Lakh in Aligarh | The Buyzaar Mart",
+  name: "Grocery Franchise Starting from Rs 18.5 lakh in Aligarh | The Buyzaar Mart",
   description:
-    "Explore a grocery franchise starting from Rs 15 lakh in Aligarh with The Buyzaar Mart. Learn about investment coverage, Mini Mart format, licenses, returns, and the complete startup process.",
+    "Explore a grocery franchise starting from Rs 18.5 lakh in Aligarh with The Buyzaar Mart. Learn about investment coverage, Mini Mart format, licenses, returns, and the complete startup process.",
   url: "https://www.thebuyzaarmart.com/aligarh/grocery-franchise-starting-from-15-lakh-aligarh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A budget-friendly grocery franchise format for compact residential locations in Aligarh, starting from approximately Rs 15 lakh.",
+          "A budget-friendly grocery franchise format for compact residential locations in Aligarh, starting from approximately Rs 18.5 lakh.",
       },
       {
         "@type": "Offer",
@@ -55,7 +55,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What exactly is included in the Rs 15 lakh investment?",
+      name: "What exactly is included in the Rs 18.5 lakh investment?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It typically covers the brand fee, store fit-out, initial inventory, and basic technology setup, excluding property cost and ongoing rent.",
@@ -135,7 +135,7 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Franchise Starting from Rs 15 Lakh in Aligarh: A
+              Grocery Franchise Starting from Rs 18.5 lakh in Aligarh: A
               Budget-Friendly Business Guide
             </h1>
 
@@ -146,12 +146,12 @@ const Content = () => {
                 capital required to get going.
               </li>
               <li>
-                A grocery franchise starting from Rs 15 lakh changes that
+                A grocery franchise starting from Rs 18.5 lakh changes that
                 equation, offering a realistic, low-entry-cost way to own a
                 branded retail business without needing crore-level investment.
               </li>
               <li>
-                This guide breaks down exactly what a Rs 15 lakh grocery
+                This guide breaks down exactly what a Rs 18.5 lakh grocery
                 franchise looks like in practice.
               </li>
               <li>
@@ -166,7 +166,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a Rs 15 Lakh Entry Point Matters for Aligarh
+              Why a Rs 18.5 lakh Entry Point Matters for Aligarh
             </h2>
 
             <p>
@@ -197,7 +197,7 @@ const Content = () => {
                 <span className="font-semibold">
                   First-time entrepreneurs prefer lower risk:
                 </span>{" "}
-                A Rs 15 lakh entry point allows individuals to test the retail
+                A Rs 18.5 lakh entry point allows individuals to test the retail
                 business model without committing life savings or taking on
                 excessive debt. This is particularly relevant for salaried
                 professionals or small business owners exploring a side venture.
@@ -214,14 +214,14 @@ const Content = () => {
                 <span className="font-semibold">
                   Room to scale later:
                 </span>{" "}
-                Starting small does not mean staying small. A Rs 15 lakh Mini
+                Starting small does not mean staying small. A Rs 18.5 lakh Mini
                 Mart can be the first step toward a larger Super Mart or Hyper
                 Mart once the business proves itself.
               </li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What Exactly Does Rs 15 Lakh Cover?
+              What Exactly Does Rs 18.5 lakh Cover?
             </h2>
 
             <p>
@@ -290,7 +290,7 @@ const Content = () => {
                 personal care products without the extensive variety of a full
                 supermarket.
               </li>
-              
+
               <li>
                 Margins in the range of 10–20% on the overall product mix,
                 supported by centralized procurement from the franchisor.
@@ -307,7 +307,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Understanding where the Rs 15 lakh entry point sits relative to
+              Understanding where the Rs 18.5 lakh entry point sits relative to
               bigger options helps set realistic expectations:
             </p>
 
@@ -337,7 +337,7 @@ const Content = () => {
                 significantly higher revenue potential.
               </li>
               <li>
-                For someone specifically working with a Rs 15 lakh budget in
+                For someone specifically working with a Rs 18.5 lakh budget in
                 Aligarh, the Mini Mart format is the practical and appropriate
                 choice.
               </li>
@@ -348,7 +348,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Start with a Rs 15 Lakh Budget
+              Step-by-Step Process to Start with a Rs 18.5 lakh Budget
             </h2>
 
             <ol className="list-decimal space-y-2 pl-6">
@@ -356,7 +356,7 @@ const Content = () => {
                 <span className="font-semibold">
                   Confirm your exact available capital:
                 </span>{" "}
-                Account not just for the Rs 15 lakh franchise investment but
+                Account not just for the Rs 18.5 lakh franchise investment but
                 also for property deposit, initial rent, and a buffer for the
                 first few months of operations.
               </li>
@@ -372,7 +372,7 @@ const Content = () => {
                 <span className="font-semibold">
                   Reach out to the franchisor with your budget clearly stated:
                 </span>{" "}
-                Being upfront about your Rs 15 lakh range helps the franchise
+                Being upfront about your Rs 18.5 lakh range helps the franchise
                 team guide you toward the appropriate format and location fit.
               </li>
               <li>
@@ -387,7 +387,7 @@ const Content = () => {
                   Finalize the franchise agreement:
                 </span>{" "}
                 Review terms carefully, including what is and is not covered
-                within the Rs 15 lakh investment figure.
+                within the Rs 18.5 lakh investment figure.
               </li>
               <li>
                 <span className="font-semibold">
@@ -434,7 +434,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Even at the Rs 15 lakh entry level, certain legal registrations
+              Even at the Rs 18.5 lakh entry level, certain legal registrations
               remain mandatory before opening in Aligarh:
             </p>
 
@@ -467,7 +467,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Here is what franchise partners starting at the Rs 15 lakh level
+              Here is what franchise partners starting at the Rs 18.5 lakh level
               can generally expect:
             </p>
 
@@ -499,7 +499,7 @@ const Content = () => {
             </h2>
 
             <p>
-              A Rs 15 lakh grocery franchise tends to be particularly suitable
+              A Rs 18.5 lakh grocery franchise tends to be particularly suitable
               for:
             </p>
 
@@ -530,7 +530,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. What exactly is included in the Rs 15 lakh investment?
+                  Q1. What exactly is included in the Rs 18.5 lakh investment?
                 </h3>
                 <p className="mt-2">
                   It typically covers the brand fee, store fit-out, initial
@@ -603,11 +603,11 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Rs 15 Lakh Grocery Franchise in Aligarh
+                Start Your Rs 18.5 lakh Grocery Franchise in Aligarh
               </h2>
 
               <p className="mb-4 text-gray-800">
-                A grocery franchise starting from Rs 15 lakh offers an
+                A grocery franchise starting from Rs 18.5 lakh offers an
                 accessible path into organized retail for first-time
                 entrepreneurs, salaried professionals, local property owners,
                 and small family businesses in Aligarh.

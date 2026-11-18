@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Starting at Rs 15 Lakh in Aligarh | The Buyzaar Mart",
+  name: "Mart Franchise Starting at Rs 18.5 lakh in Aligarh | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers Mini Mart franchise opportunities in Aligarh starting at Rs 15 lakh with FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
+    "The Buyzaar Mart offers Mini Mart franchise opportunities in Aligarh starting at Rs 18.5 lakh with FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/aligarh/mart-franchise-starting-15-lakh-aligarh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level mart franchise format requiring 600–1,000 sq. ft. and investment starting at Rs 15 lakh, designed for residential colony shops and neighbourhood-facing locations in Aligarh.",
+          "Entry-level mart franchise format requiring 600–1,000 sq. ft. and investment starting at Rs 18.5 lakh, designed for residential colony shops and neighbourhood-facing locations in Aligarh.",
       },
     ],
   },
@@ -43,7 +43,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Is Rs 15 lakh enough to start a mart franchise in Aligarh?",
+      name: "Is Rs 18.5 lakh enough to start a mart franchise in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, it typically covers a Mini Mart format, though additional working capital for rent and initial operating costs should be planned separately.",
@@ -91,7 +91,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Is this a good option compared to other investments at Rs 15 lakh?",
+      name: "Is this a good option compared to other investments at Rs 18.5 lakh?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It offers active business ownership and faster payback than many passive investments, but requires meaningfully more time and involvement.",
@@ -138,15 +138,15 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Starting at Rs 15 Lakh in Aligarh: A Readiness Checklist
+              Mart Franchise Starting at Rs 18.5 lakh in Aligarh: A Readiness Checklist
             </h1>
 
             <p>
-              If Rs 15 lakh is roughly what you have to work with, the real question isn&apos;t just &quot;what does this get me&quot; — it&apos;s &quot;am I actually ready to take this on, and how does it stack up against other options at the same price point.&quot; This guide is built as a practical readiness checklist for anyone evaluating a mart franchise starting at Rs 15 lakh in Aligarh, covering how to self-assess before applying, how this option compares to alternative uses of the same capital, and what separates a well-prepared applicant from one likely to struggle after opening.
+              If Rs 18.5 lakh is roughly what you have to work with, the real question isn&apos;t just &quot;what does this get me&quot; — it&apos;s &quot;am I actually ready to take this on, and how does it stack up against other options at the same price point.&quot; This guide is built as a practical readiness checklist for anyone evaluating a mart franchise starting at Rs 18.5 lakh in Aligarh, covering how to self-assess before applying, how this option compares to alternative uses of the same capital, and what separates a well-prepared applicant from one likely to struggle after opening.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              First, a Quick Reality Check on What Rs 15 Lakh Buys
+              First, a Quick Reality Check on What Rs 18.5 lakh Buys
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -159,11 +159,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Checklist Item 1: Do You Have Working Capital Beyond the Rs 15 Lakh?
+              Checklist Item 1: Do You Have Working Capital Beyond the Rs 18.5 lakh?
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Confirm what the Rs 15 lakh actually covers — Typically this includes the brand fee, store fit-out, initial inventory, and basic POS technology, not property purchase or ongoing rent.</li>
+              <li>Confirm what the Rs 18.5 lakh actually covers — Typically this includes the brand fee, store fit-out, initial inventory, and basic POS technology, not property purchase or ongoing rent.</li>
               <li>Budget separately for rental deposits and monthly rent if you are leasing rather than owning your commercial space in Aligarh.</li>
               <li>Set aside a 3–4 month operating buffer to cover salaries, utilities, and restocking during the settling-in period before sales stabilize.</li>
               <li>Avoid stretching to your absolute financial limit, since unexpected costs — a slower-than-expected launch, seasonal dips, or delayed supply — are common in the first few months of any new store.</li>
@@ -198,7 +198,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Checklist Item 4: How Does This Compare to Other Rs 15 Lakh Options?
+              Checklist Item 4: How Does This Compare to Other Rs 18.5 lakh Options?
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -226,11 +226,11 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Confirm your total available capital, including the Rs 15 lakh franchise investment plus rental and working capital buffers.</li>
+              <li>Confirm your total available capital, including the Rs 18.5 lakh franchise investment plus rental and working capital buffers.</li>
               <li>Shortlist 2–3 potential locations, rather than committing to the first available space, to compare footfall and rental terms.</li>
               <li>Reach out to the franchisor with your budget and shortlisted locations — being specific at this stage speeds up the feasibility review.</li>
               <li>Undergo site evaluation and approval, where the franchisor assesses your proposed location against catchment and competition criteria.</li>
-              <li>Review and sign the franchise agreement, confirming exactly what is included in the Rs 15 lakh investment.</li>
+              <li>Review and sign the franchise agreement, confirming exactly what is included in the Rs 18.5 lakh investment.</li>
               <li>Plan your compact store layout, prioritizing high-turnover categories given the limited floor space.</li>
               <li>Complete fit-out and initial stocking, working closely with the centralized supply system for your opening inventory.</li>
             </ul>
@@ -255,7 +255,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. Is Rs 15 lakh enough to start a mart franchise in Aligarh?
+                  Q1. Is Rs 18.5 lakh enough to start a mart franchise in Aligarh?
                 </h3>
                 <p className="mt-2">
                   Yes, it typically covers a Mini Mart format, though additional working capital for rent and initial operating costs should be planned separately.
@@ -309,7 +309,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q7. Is this a good option compared to other investments at Rs 15 lakh?
+                  Q7. Is this a good option compared to other investments at Rs 18.5 lakh?
                 </h3>
                 <p className="mt-2">
                   It offers active business ownership and faster payback than many passive investments, but requires meaningfully more time and involvement.

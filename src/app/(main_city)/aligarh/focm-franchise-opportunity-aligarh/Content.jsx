@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Franchise Opportunity in Aligarh | The Buyzaar Mart",
   description:
-    "Start a FOCM supermarket franchise in Aligarh with The Buyzaar Mart. Investment from ₹15 lakh, 18–20% gross margin, supply chain and full support. Apply now.",
+    "Start a FOCM supermarket franchise in Aligarh with The Buyzaar Mart. Investment from ₹18.5 lakh, 18–20% gross margin, supply chain and full support. Apply now.",
   url: "https://www.thebuyzaarmart.com/aligarh/focm-franchise-opportunity-aligarh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much investment is needed in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Franchises start from about ₹15 lakh.",
+        text: "Franchises start from about ₹18.5 lakh.",
       },
     },
     {
@@ -496,7 +496,7 @@ const Content = () => {
                   How much investment is needed in Aligarh?
                 </h3>
                 <p className="mt-2">
-                  Franchises start from about ₹15 lakh.                </p>
+                  Franchises start from about ₹18.5 lakh.                </p>
               </div>
 
               <div>

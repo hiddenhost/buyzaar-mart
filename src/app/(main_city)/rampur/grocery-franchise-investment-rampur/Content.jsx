@@ -32,7 +32,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A 600 to 1,000 sq ft grocery franchise format in Rampur, starting from ₹15 lakh, covering staples, snacks, beverages, personal care, home care and stationery.",
+          "A 600 to 1,000 sq ft grocery franchise format in Rampur, starting from ₹18.5 lakh, covering staples, snacks, beverages, personal care, home care and stationery.",
       },
       {
         "@type": "Offer",
@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the total grocery franchise investment in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Buyzaar Mart Mini Store starts from ₹15 lakh in total and generally ranges up to ₹20 lakh, while larger formats need a higher total.",
+        text: "A Buyzaar Mart Mini Store starts from ₹18.5 lakh in total and generally ranges up to ₹20 lakh, while larger formats need a higher total.",
       },
     },
     {
@@ -183,7 +183,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The total investment for a Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts from ₹15 lakh and generally ranges between ₹15 lakh and ₹20 lakh, depending on store size, arrangement, location and the work needed at the premises.
+                The total investment for a Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts from ₹18.5 lakh and generally ranges between ₹18.5 lakh and ₹20 lakh, depending on store size, arrangement, location and the work needed at the premises.
               </li>
               <li>
                 Larger Super Mart and Hyper Mart formats need a higher total investment, which the franchise team confirms after reviewing your site and area.
@@ -527,7 +527,7 @@ const Content = () => {
                   What is the total grocery franchise investment in Rampur?
                 </h3>
                 <p className="mt-2">
-                  A Buyzaar Mart Mini Store starts from ₹15 lakh in total and generally ranges up to ₹20 lakh, while larger formats need a higher total.
+                  A Buyzaar Mart Mini Store starts from ₹18.5 lakh in total and generally ranges up to ₹20 lakh, while larger formats need a higher total.
                 </p>
               </div>
 

@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required to start a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment for a Buyzaar Mart retail franchise in Kanpur generally starts from ₹10–15 lakhs, depending on the store size, location, and setup requirements.",
+        text: "The minimum investment for a Buyzaar Mart retail franchise in Kanpur generally starts from ₹10–18.5 lakhs, depending on the store size, location, and setup requirements.",
       },
     },
     {
@@ -118,7 +118,7 @@ const Content = () => {
               investment. The Buyzaar Mart, India&apos;s most affordable grocery and
               FMCG franchise brand, now welcomes Kanpur entrepreneurs to launch
               their own neighborhood retail stores starting from just
-              &#8377;15 lakh.
+              &#8377;18.5 lakh.
             </p>
 
             <p>
@@ -168,7 +168,7 @@ const Content = () => {
               </h3>
               <p className="mt-2">
                 <strong>
-                  Total Investment: &#8377;15 Lakh to &#8377;22 Lakh
+                  Total Investment: &#8377;18.5 lakh to &#8377;22 Lakh
                 </strong>
               </p>
             </div>
@@ -567,7 +567,7 @@ const Content = () => {
               </li>
               <li>
                 <strong>Accessible Minimum Investment:</strong> Starting at
-                &#8377;15 lakh, Buyzaar makes retail franchise ownership
+                &#8377;18.5 lakh, Buyzaar makes retail franchise ownership
                 accessible to a broader range of entrepreneurs without requiring
                 massive capital outlay.
               </li>
@@ -597,7 +597,7 @@ const Content = () => {
                 </h3>
                 <p className="mt-2">
                   The minimum investment for a Buyzaar Mart retail franchise in
-                  Kanpur generally starts from &#8377;10 to &#8377;15 lakhs,
+                  Kanpur generally starts from &#8377;10 to &#8377;18.5 lakhs,
                   depending on the store size, location, and setup requirements.
                 </p>
               </div>

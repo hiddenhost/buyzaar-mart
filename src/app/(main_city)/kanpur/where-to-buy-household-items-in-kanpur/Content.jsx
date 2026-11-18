@@ -33,7 +33,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level format starting around ₹15 lakh, best for compact residential pockets in Kanpur.",
+          "Entry-level format starting around ₹18.5 lakh, best for compact residential pockets in Kanpur.",
       },
       {
         "@type": "Offer",
@@ -102,7 +102,7 @@ const faqSchema = {
       name: "Can I open a Buyzaar Mart franchise for household and grocery retail in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, franchise options are available under FOCM and FOCO models, starting around ₹15 lakh.",
+        text: "Yes, franchise options are available under FOCM and FOCO models, starting around ₹18.5 lakh.",
       },
     },
     {
@@ -388,7 +388,7 @@ const Content = () => {
 
 
               <li>
-                The starting investment for a Mini Mart format begins at around ₹15 lakh, covering important components such as the franchise fee, interior setup, POS technology, and opening inventory, making it a comparatively accessible option for entrepreneurs entering the organized retail sector for where to buy household items in Kanpur.
+                The starting investment for a Mini Mart format begins at around ₹18.5 lakh, covering important components such as the franchise fee, interior setup, POS technology, and opening inventory, making it a comparatively accessible option for entrepreneurs entering the organized retail sector for where to buy household items in Kanpur.
               </li>
 
 
@@ -476,7 +476,7 @@ const Content = () => {
                   Can I open a Buyzaar Mart franchise for household and grocery retail in Kanpur?
                 </h3>
                 <p className="mt-2">
-                  Yes, franchise options are available under FOCM and FOCO models, starting around ₹15 lakh for where to buy household items business in Kanpur.
+                  Yes, franchise options are available under FOCM and FOCO models, starting around ₹18.5 lakh for where to buy household items business in Kanpur.
                 </p>
               </div>
 

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Store Franchise Opportunities in Moradabad | The Buyzaar Mart",
   description:
-    "Discover grocery store franchise opportunities in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart, and Hyper Mart investment and area options starting from ₹15 lakh.",
+    "Discover grocery store franchise opportunities in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart, and Hyper Mart investment and area options starting from ₹18.5 lakh.",
   url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-opportunities-in-moradabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the minimum investment for this opportunity?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart franchise starts from approximately ₹15 lakh, depending on location and size.",
+        text: "A Mini Mart franchise starts from approximately ₹18.5 lakh, depending on location and size.",
       },
     },
     {
@@ -250,7 +250,7 @@ const Content = () => {
 
             <h3 className="font-medium text-gray-900">Mini Mart – The Entry-Level Opportunity</h3>
             <p>Area: approximately 600 to 1,000 sq. ft.</p>
-            <p>Investment: approximately ₹15 lakh to ₹25 lakh, depending on locality, size, and store condition.</p>
+            <p>Investment: approximately ₹18.5 lakh to ₹25 lakh, depending on locality, size, and store condition.</p>
             <p>Best opportunity fit: residential colonies, housing societies, and neighbourhood-level markets with strong daily footfall.</p>
             <p>Product focus: groceries, packaged food, dairy, beverages, personal care, and household essentials.</p>
             <p>The most accessible opportunity for first-time entrepreneurs, homemakers, or investors with a smaller commercial space.</p>
@@ -328,7 +328,7 @@ const Content = () => {
 
             <ol className="list-decimal space-y-2 pl-6">
               <li>Submit a franchise inquiry at <a className="text-green-600 hover:underline" href="https://www.thebuyzaarmart.com" target="_blank" rel="noreferrer">www.thebuyzaarmart.com</a> with your name, contact details, preferred Moradabad locality, and investment range.</li>
-                <li>A franchise advisor discusses the FOCM and FOCO models and recommends the format best suited to your goals and budget.</li>
+              <li>A franchise advisor discusses the FOCM and FOCO models and recommends the format best suited to your goals and budget.</li>
               <li>Propose a location; the team evaluates it for footfall, catchment population, and competition before giving site approval.</li>
               <li>Complete KYC and review the franchise agreement, which sets out the investment structure and responsibilities of both parties.</li>
               <li>Interior design, shelving, branding, signage, and POS technology are installed according to the standard brand format.</li>
@@ -379,7 +379,7 @@ const Content = () => {
                   What is the minimum investment for this opportunity?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart franchise starts from approximately ₹15 lakh, depending on location and size.
+                  A Mini Mart franchise starts from approximately ₹18.5 lakh, depending on location and size.
                 </p>
               </div>
 
@@ -437,7 +437,7 @@ const Content = () => {
                 </p>
               </div>
 
-              
+
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Franchise Business Investment in Bulandshahr | The Buyzaar Mart",
   description:
-    "Plan your franchise business investment in Bulandshahr with The Buyzaar Mart. Compare FOCM and FOCO models, store formats, costs, and expected returns from ₹15 Lakh.",
+    "Plan your franchise business investment in Bulandshahr with The Buyzaar Mart. Compare FOCM and FOCO models, store formats, costs, and expected returns from ₹18.5 lakh.",
   keywords: [
     "franchise business investment Bulandshahr",
     "franchise investment Bulandshahr",
@@ -39,7 +39,7 @@ export const metadata = {
   openGraph: {
     title: "Franchise Business Investment in Bulandshahr | The Buyzaar Mart",
     description:
-      "Plan your franchise business investment in Bulandshahr with The Buyzaar Mart. Compare FOCM and FOCO models, store formats, costs, and expected returns from ₹15 Lakh.",
+      "Plan your franchise business investment in Bulandshahr with The Buyzaar Mart. Compare FOCM and FOCO models, store formats, costs, and expected returns from ₹18.5 lakh.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/franchise-business-investment-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Franchise Business Investment in Bulandshahr | The Buyzaar Mart",
     description:
-      "Plan your franchise business investment in Bulandshahr with The Buyzaar Mart. Compare FOCM and FOCO models, store formats, costs, and expected returns from ₹15 Lakh.",
+      "Plan your franchise business investment in Bulandshahr with The Buyzaar Mart. Compare FOCM and FOCO models, store formats, costs, and expected returns from ₹18.5 lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

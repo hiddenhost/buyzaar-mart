@@ -8,7 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Partner in Gurugram | Grocery Franchise Opportunity",
   description:
-    "Explore the Buyzaar Mart franchise partnership opportunity in Gurugram. Learn about the FOCM model, FSSAI-licensed daily-needs retail, store formats, investment starting from ₹15 lakh, location suitability, and company-managed store operations.",
+    "Explore the Buyzaar Mart franchise partnership opportunity in Gurugram. Learn about the FOCM model, FSSAI-licensed daily-needs retail, store formats, investment starting from ₹18.5 lakh, location suitability, and company-managed store operations.",
   url: "https://www.thebuyzaarmart.com/gurgaon/buyzaar-mart-partner-gurugram",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",

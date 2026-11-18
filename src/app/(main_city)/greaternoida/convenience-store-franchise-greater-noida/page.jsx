@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Convenience Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
   description:
-    "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from ₹15 Lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
+    "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from ₹18.5 lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/greaternoida/convenience-store-franchise-greater-noida",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Convenience Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
     description:
-      "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from ₹15 Lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
+      "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from ₹18.5 lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
     url: "https://www.thebuyzaarmart.com/greaternoida/convenience-store-franchise-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Convenience Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
     description:
-      "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from ₹15 Lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
+      "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from ₹18.5 lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

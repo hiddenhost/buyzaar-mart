@@ -48,7 +48,7 @@ export const metadata = {
     "grocery franchise with supply chain",
     "grocery franchise with POS system",
     "grocery franchise with zero royalty",
-    "grocery franchise starting from 15 lakh",
+    "grocery franchise starting from 18.5 lakh",
     "FOCO franchise model",
     "FOCM franchise model",
     "how to start Buyzaar Mart franchise Gurugram",

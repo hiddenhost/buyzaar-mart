@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Organised Mart Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "Start an organised mart franchise in Bulandshahr with The Buyzaar Mart. Total investment from ₹15 Lakh, POS billing, trained staff, 18–20% stated margin and support.",
+    "Start an organised mart franchise in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, POS billing, trained staff, 18–20% stated margin and support.",
   keywords: [
     "organised mart franchise Bulandshahr",
     "organized mart franchise Bulandshahr",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Organised Mart Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Start an organised mart franchise in Bulandshahr with The Buyzaar Mart. Total investment from ₹15 Lakh, POS billing, trained staff, 18–20% stated margin and support.",
+      "Start an organised mart franchise in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, POS billing, trained staff, 18–20% stated margin and support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/organised-mart-franchise-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Organised Mart Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Start an organised mart franchise in Bulandshahr with The Buyzaar Mart. Total investment from ₹15 Lakh, POS billing, trained staff, 18–20% stated margin and support.",
+      "Start an organised mart franchise in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, POS billing, trained staff, 18–20% stated margin and support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

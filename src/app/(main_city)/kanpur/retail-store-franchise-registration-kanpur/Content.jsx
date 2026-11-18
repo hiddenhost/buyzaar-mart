@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required to register a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment for a Buyzaar Mart franchise in Kanpur is ₹15 lakh. This includes premises setup, equipment, initial inventory, working capital, and licensing fees. The company also assists franchisees in exploring bank and financial institution partnerships.",
+        text: "The minimum investment for a Buyzaar Mart franchise in Kanpur is ₹18.5 lakh. This includes premises setup, equipment, initial inventory, working capital, and licensing fees. The company also assists franchisees in exploring bank and financial institution partnerships.",
       },
     },
     {
@@ -328,7 +328,7 @@ const Content = () => {
             <p>
               The investment required for a Buyzaar Mart franchise in Kanpur is
               designed for entrepreneurs with moderate financial capacity. The
-              ₹15 lakh to ₹25 lakh investment range positions the opportunity in
+              ₹18.5 lakh to ₹25 lakh investment range positions the opportunity in
               a mid-range segment compared with larger supermarket setups that
               often require much higher capital.
             </p>
@@ -439,7 +439,7 @@ const Content = () => {
                   Mart franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment is ₹15 lakh. This generally includes
+                  The minimum investment is ₹18.5 lakh. This generally includes
                   premises setup, equipment, initial inventory, working capital,
                   and licensing-related costs. The company may also help
                   franchisees explore funding support options.

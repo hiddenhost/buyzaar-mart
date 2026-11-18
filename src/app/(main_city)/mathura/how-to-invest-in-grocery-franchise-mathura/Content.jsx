@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much do I need to invest in a grocery franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹15 lakh onwards, depending on the store format chosen.",
+        text: "Investment starts from ₹18.5 lakh onwards, depending on the store format chosen.",
       },
     },
     {
@@ -217,7 +217,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 Minimum investment for a Buyzaar Mart grocery franchise in
-                Mathura starts from ₹15 lakh onwards, depending on store format.
+                Mathura starts from ₹18.5 lakh onwards, depending on store format.
               </li>
               <li>
                 Investment is divided into stock, interior setup, POS/software
@@ -341,7 +341,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              
+
               <li>
                 FOCM, Franchise Owned, Company Managed: Suited for investors who
                 want ownership control with company support handling daily
@@ -509,7 +509,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions (FAQs)
@@ -521,7 +521,7 @@ const Content = () => {
                   How much do I need to invest in a grocery franchise in Mathura?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹15 lakh onwards, depending on the
+                  Investment starts from ₹18.5 lakh onwards, depending on the
                   store format chosen.
                 </p>
               </div>

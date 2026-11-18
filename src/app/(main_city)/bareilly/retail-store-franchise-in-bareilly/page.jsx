@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Retail Store Franchise in Bareilly | Mini Mart & Super Mart | The Buyzaar Mart",
   description:
-    "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at ₹15 Lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+    "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at ₹18.5 lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/retail-store-franchise-in-bareilly",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Retail Store Franchise in Bareilly | Mini Mart & Super Mart | The Buyzaar Mart",
     description:
-      "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at ₹15 Lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+      "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at ₹18.5 lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
     url: "https://www.thebuyzaarmart.com/bareilly/retail-store-franchise-in-bareilly",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Retail Store Franchise in Bareilly | Mini Mart & Super Mart | The Buyzaar Mart",
     description:
-      "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at ₹15 Lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+      "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at ₹18.5 lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

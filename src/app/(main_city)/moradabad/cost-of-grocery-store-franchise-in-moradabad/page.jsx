@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Cost in Moradabad | The Buyzaar Mart Investment Guide",
   description:
-    "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate ₹15 lakhs, full support included. Get your customized quote now!",
+    "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate ₹18.5 lakhs, full support included. Get your customized quote now!",
   keywords: [
     "grocery franchise cost moradabad",
     "buyzaar mart franchise cost",
@@ -23,7 +23,7 @@ export const metadata = {
     title:
       "Grocery Franchise Cost in Moradabad | The Buyzaar Mart Investment Guide",
     description:
-      "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate ₹15 lakhs, full support included. Get your customized quote now!",
+      "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate ₹18.5 lakhs, full support included. Get your customized quote now!",
     url: "https://www.thebuyzaarmart.com/moradabad/cost-of-grocery-store-franchise-in-moradabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -42,7 +42,7 @@ export const metadata = {
     title:
       "Grocery Franchise Cost in Moradabad | The Buyzaar Mart Investment Guide",
     description:
-      "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate ₹15 lakhs, full support included. Get your customized quote now!",
+      "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate ₹18.5 lakhs, full support included. Get your customized quote now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -7,7 +7,7 @@ export const metadata = {
     "Buyzaar Mart Franchise Enquiry in Amroha | Supermarket Franchise",
 
   description:
-    "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from ₹15 lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
+    "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from ₹18.5 lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
 
   keywords: [
     "buyzaar mart franchise enquiry amroha",
@@ -28,7 +28,7 @@ export const metadata = {
     "mini mart franchise amroha",
     "super mart franchise amroha",
     "hyper mart franchise amroha",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment supermarket franchise",
     "franchise business opportunity amroha",
     "organised retail franchise amroha",
@@ -44,7 +44,7 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Enquiry in Amroha | Supermarket Franchise",
     description:
-      "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from ₹15 lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
+      "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from ₹18.5 lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
     url:
       "https://www.thebuyzaarmart.com/buyzaar-mart-franchise-enquiry-amroha",
     siteName: "The Buyzaar Mart",
@@ -65,7 +65,7 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Enquiry in Amroha | Supermarket Franchise",
     description:
-      "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from ₹15 lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
+      "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from ₹18.5 lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
     images: ["https://www.thebuyzaarmart.com/icon.png"],
   },
 

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Franchise Opportunity in Hapur | Buyzaar Mart",
   description:
-    "Explore a retail franchise opportunity in Hapur with The Buyzaar Mart. Branded supermarket with POS, supply chain and full support. Total investment from ₹15 Lakh.",
+    "Explore a retail franchise opportunity in Hapur with The Buyzaar Mart. Branded supermarket with POS, supply chain and full support. Total investment from ₹18.5 lakh.",
   keywords: [
     "retail franchise opportunity Hapur",
     "retail franchise Hapur",
@@ -18,7 +18,7 @@ export const metadata = {
     "The Buyzaar Mart Hapur",
     "franchise opportunity in Hapur",
     "low investment retail franchise",
-    "retail franchise from 15 lakh",
+    "retail franchise from 18.5 lakh",
     "FMCG retail franchise Hapur",
     "organised retail franchise Hapur",
     "branded retail franchise Hapur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Retail Franchise Opportunity in Hapur | Buyzaar Mart",
     description:
-      "Explore a retail franchise opportunity in Hapur with The Buyzaar Mart. Branded supermarket with POS, supply chain and full support. Total investment from ₹15 Lakh.",
+      "Explore a retail franchise opportunity in Hapur with The Buyzaar Mart. Branded supermarket with POS, supply chain and full support. Total investment from ₹18.5 lakh.",
     url: "https://www.thebuyzaarmart.com/hapur/retail-franchise-opportunity-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Franchise Opportunity in Hapur | Buyzaar Mart",
     description:
-      "Explore a retail franchise opportunity in Hapur with The Buyzaar Mart. Branded supermarket with POS, supply chain and full support. Total investment from ₹15 Lakh.",
+      "Explore a retail franchise opportunity in Hapur with The Buyzaar Mart. Branded supermarket with POS, supply chain and full support. Total investment from ₹18.5 lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

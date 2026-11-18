@@ -20,7 +20,7 @@ export const metadata = {
     "FOCM franchise rampur",
     "FOCO franchise rampur",
     "mini mart franchise rampur",
-    "grocery franchise starting 15 lakh",
+    "grocery franchise starting 18.5 lakh",
     "low investment grocery franchise",
     "grocery franchise under 20 lakh",
     "retail franchise opportunity uttar pradesh",

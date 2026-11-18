@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much investment is needed to start a grocery store?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart format starts from approximately ₹15 lakh, depending on location and size.",
+        text: "A Mini Mart format starts from approximately ₹18.5 lakh, depending on location and size.",
       },
     },
     {
@@ -198,7 +198,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Area required: approximately 600 to 1,000 sq. ft.</li>
-              <li>Approximate investment: ₹15 lakh to ₹25 lakh, depending on location, size, and store condition.</li>
+              <li>Approximate investment: ₹18.5 lakh to ₹25 lakh, depending on location, size, and store condition.</li>
               <li>Best suited for: residential colonies, housing societies, and neighbourhood-level markets.</li>
               <li>Product focus: daily essentials — groceries, packaged food, dairy, beverages, personal care, and household basics.</li>
               <li>The most accessible starting point for first-time entrepreneurs, homemakers, or those with a smaller commercial space.</li>
@@ -356,7 +356,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">Q1. How much investment is needed to start a grocery store?</h3>
-                <p className="mt-2">A Mini Mart format starts from approximately ₹15 lakh, depending on location and size.</p>
+                <p className="mt-2">A Mini Mart format starts from approximately ₹18.5 lakh, depending on location and size.</p>
               </div>
 
               <div>
@@ -394,7 +394,7 @@ const Content = () => {
                 <p className="mt-2">FOCM means active ownership and management; FOCO means the company operates the store while you provide capital and premises.</p>
               </div>
 
-              
+
             </div>
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">

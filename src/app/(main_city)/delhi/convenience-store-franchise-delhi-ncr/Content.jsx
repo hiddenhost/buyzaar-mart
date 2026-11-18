@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much profit can I make from a convenience store franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A well-operated store achieves monthly turnover of ₹10–15 lakh with 18–20% gross profit margin, translating to annual profit of ₹12–18 lakh with 80–100% annual ROI.",
+        text: "A well-operated store achieves monthly turnover of ₹10–18.5 lakh with 18–20% gross profit margin, translating to annual profit of ₹12–18 lakh with 80–100% annual ROI.",
       },
     },
     {
@@ -229,14 +229,14 @@ const Content = () => {
             <p>
             </p>
             <ul className="ml-4 list-inside list-disc space-y-2">
-                <strong></strong>
-                <strong></strong>
-                <strong></strong>
-                <strong></strong>
-                <strong></strong>
-                <strong></strong> 
-                <strong></strong>
-                <strong></strong>
+              <strong></strong>
+              <strong></strong>
+              <strong></strong>
+              <strong></strong>
+              <strong></strong>
+              <strong></strong>
+              <strong></strong>
+              <strong></strong>
             </ul>
             <p className="mt-4 font-medium text-gray-900">
             </p>
@@ -321,7 +321,7 @@ const Content = () => {
               </li>
               <li>
                 <strong>Ghaziabad (Laxmi Villas Rajnagar Extension, Raj Nagar
-                Extension):</strong> Established neighbourhoods with consistent
+                  Extension):</strong> Established neighbourhoods with consistent
                 foot traffic. Good mix of residential and semi-commercial areas.
                 Existing competition is moderate, leaving room for new brands.
               </li>
@@ -512,7 +512,7 @@ const Content = () => {
                 </h3>
                 <p className="mt-2 text-gray-700">
                   A: A well-operated store in a good location achieves monthly
-                  turnover of ₹10–15 lakh with 18–20% gross profit margin.
+                  turnover of ₹10–18.5 lakh with 18–20% gross profit margin.
                   After monthly operating expenses (₹40,000–₹60,000), monthly
                   net profit typically ranges ₹1–1.5 lakh. This translates to
                   annual profit of ₹12–18 lakh, delivering 80–100% annual ROI.

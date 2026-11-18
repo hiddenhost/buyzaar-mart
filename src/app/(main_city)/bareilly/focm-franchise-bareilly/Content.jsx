@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "MiniMart Franchise",
         description:
-          "Neighbourhood retail format for 600 to 1000 square feet starting from approximately ₹15 Lakh",
+          "Neighbourhood retail format for 600 to 1000 square feet starting from approximately ₹18.5 lakh",
       },
       {
         "@type": "Offer",

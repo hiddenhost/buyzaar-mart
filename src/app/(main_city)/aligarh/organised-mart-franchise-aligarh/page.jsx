@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Organised Mart Franchise in Aligarh | The Buyzaar Mart",
   description:
-    "Start an organised mart franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from ₹15 lakh with FOCM model, POS billing and support.",
+    "Start an organised mart franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from ₹18.5 lakh with FOCM model, POS billing and support.",
   keywords: [
     "organised mart franchise aligarh",
     "organised retail franchise aligarh",
@@ -20,7 +20,7 @@ export const metadata = {
     "organised grocery store franchise",
     "kirana to organised retail franchise",
     "low investment mart franchise",
-    "mart franchise 15 lakh",
+    "mart franchise 18.5 lakh",
     "FOCM franchise india",
     "franchise owned company managed",
     "managed supermarket franchise",
@@ -40,7 +40,7 @@ export const metadata = {
   openGraph: {
     title: "Organised Mart Franchise in Aligarh | The Buyzaar Mart",
     description:
-      "Start an organised mart franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from ₹15 lakh with FOCM model, POS billing and support.",
+      "Start an organised mart franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from ₹18.5 lakh with FOCM model, POS billing and support.",
     url: "https://www.thebuyzaarmart.com/aligarh/organised-mart-franchise-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Organised Mart Franchise in Aligarh | The Buyzaar Mart",
     description:
-      "Start an organised mart franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from ₹15 lakh with FOCM model, POS billing and support.",
+      "Start an organised mart franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from ₹18.5 lakh with FOCM model, POS billing and support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

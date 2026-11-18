@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Franchise Opportunity in Gorakhpur | Buyzaar Mart",
   description:
-    "Explore the FOCO franchise opportunity in Gorakhpur from ₹15 Lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
+    "Explore the FOCO franchise opportunity in Gorakhpur from ₹18.5 lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
   keywords: [
     "FOCO franchise opportunity Gorakhpur",
     "FOCO franchise Gorakhpur",
@@ -25,7 +25,7 @@ export const metadata = {
     "grocery franchise opportunity Gorakhpur",
     "supermarket franchise opportunity Gorakhpur",
     "retail franchise Gorakhpur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "low investment franchise opportunity",
     "FOCO vs FOCM",
     "franchise business Gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCO Franchise Opportunity in Gorakhpur | Buyzaar Mart",
     description:
-      "Explore the FOCO franchise opportunity in Gorakhpur from ₹15 Lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
+      "Explore the FOCO franchise opportunity in Gorakhpur from ₹18.5 lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/foco-franchise-opportunity-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Franchise Opportunity in Gorakhpur | Buyzaar Mart",
     description:
-      "Explore the FOCO franchise opportunity in Gorakhpur from ₹15 Lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
+      "Explore the FOCO franchise opportunity in Gorakhpur from ₹18.5 lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

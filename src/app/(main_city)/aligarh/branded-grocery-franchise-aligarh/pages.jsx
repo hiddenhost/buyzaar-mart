@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Branded Grocery Franchise in Aligarh | The Buyzaar Mart",
   description:
-    "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹15 lakh onwards, POS billing and full support. Apply now.",
+    "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹18.5 lakh onwards, POS billing and full support. Apply now.",
   keywords: [
     "branded grocery franchise aligarh",
     "branded grocery store franchise",
@@ -20,7 +20,7 @@ export const metadata = {
     "super mart franchise aligarh",
     "hyper mart franchise aligarh",
     "low investment grocery franchise",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "FOCM franchise india",
     "franchise owned company managed",
     "franchise business in aligarh",
@@ -40,7 +40,7 @@ export const metadata = {
   openGraph: {
     title: "Branded Grocery Franchise in Aligarh | The Buyzaar Mart",
     description:
-      "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹15 lakh onwards, POS billing and full support. Apply now.",
+      "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹18.5 lakh onwards, POS billing and full support. Apply now.",
     url: "https://www.thebuyzaarmart.com/aligarh/branded-grocery-franchise-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Branded Grocery Franchise in Aligarh | The Buyzaar Mart",
     description:
-      "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹15 lakh onwards, POS billing and full support. Apply now.",
+      "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹18.5 lakh onwards, POS billing and full support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

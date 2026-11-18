@@ -3,25 +3,25 @@ import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
 const pageTitle =
-  "Grocery Franchise from ₹15 Lakh in Gorakhpur | Buyzaar Mart";
+  "Grocery Franchise from ₹18.5 lakh in Gorakhpur | Buyzaar Mart";
 
 const pageDescription =
-  "Start a grocery franchise in Gorakhpur from ₹15 Lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.";
+  "Start a grocery franchise in Gorakhpur from ₹18.5 lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.";
 
 const contentSections = [
   {
-    title: "A ₹15 Lakh Grocery Business in Gorakhpur",
+    title: "A ₹18.5 lakh Grocery Business in Gorakhpur",
     points: [
-      "Many people in eastern Uttar Pradesh want to start their own business but worry about the investment amount, stock risk, and lack of a proven system. A grocery franchise starting from ₹15 lakh can address these concerns with a planned budget and a structured retail model.",
+      "Many people in eastern Uttar Pradesh want to start their own business but worry about the investment amount, stock risk, and lack of a proven system. A grocery franchise starting from ₹18.5 lakh can address these concerns with a planned budget and a structured retail model.",
       "Gorakhpur is a growing commercial and residential hub. Households buy groceries, snacks, home-care products, and personal-care items every week, making grocery retail a regular-demand business category.",
-      "The Buyzaar Mart offers its supermarket franchise from ₹15 lakh, with store setup, supply chain, POS billing, and launch support included within the franchise model.",
-      "This guide explains what the ₹15 lakh figure covers, how the model works, who may apply, and how to get started in Gorakhpur.",
+      "The Buyzaar Mart offers its supermarket franchise from ₹18.5 lakh, with store setup, supply chain, POS billing, and launch support included within the franchise model.",
+      "This guide explains what the ₹18.5 lakh figure covers, how the model works, who may apply, and how to get started in Gorakhpur.",
     ],
   },
   {
-    title: "What Does Starting from ₹15 Lakh Actually Mean?",
+    title: "What Does Starting from ₹18.5 lakh Actually Mean?",
     points: [
-      "₹15 lakh is the entry-level starting point advertised by the brand. It is not a fixed price for every store because the final investment depends on the selected store size and format.",
+      "₹18.5 lakh is the entry-level starting point advertised by the brand. It is not a fixed price for every store because the final investment depends on the selected store size and format.",
       "The brand&apos;s investment calculator lists five primary heads: stock, interior, software fee, franchise fee inclusive of 18% GST, and security deposit.",
       "The calculator accepts store areas from 600 to 8,000 sq ft, so a larger shop naturally requires a larger budget.",
       "Shop rent is not included in the franchise cost. The franchise partner arranges and pays rent separately.",
@@ -41,7 +41,7 @@ const contentSections = [
     ],
   },
   {
-    title: "Why the ₹15 Lakh Budget Works for Gorakhpur",
+    title: "Why the ₹18.5 lakh Budget Works for Gorakhpur",
     points: [
       "Right-sized for the city: Many Gorakhpur neighbourhoods need a well-stocked local mart rather than a large hypermarket. A Mini Mart of 600–1,000 sq ft can fit residential lanes and colony markets.",
       "Lower risk than an independent start-up: A franchise can provide a ready store design, supplier links, technology, and structured processes, helping reduce trial-and-error costs.",
@@ -59,7 +59,7 @@ const contentSections = [
       "Super Mart adds dairy items and fruits and vegetables to the Mini Mart product range.",
       "Hyper Mart: 3,000–8,000 sq ft. This format suits high-footfall locations and large commercial spaces.",
       "Hyper Mart adds gifts and toys and frozen ready-to-eat items to the wider grocery and FMCG range.",
-      "If your goal is to stay close to the ₹15 lakh entry point, begin by evaluating the Mini Mart format and use the investment calculator to see how a change in area affects the estimated total.",
+      "If your goal is to stay close to the ₹18.5 lakh entry point, begin by evaluating the Mini Mart format and use the investment calculator to see how a change in area affects the estimated total.",
     ],
   },
   {
@@ -164,19 +164,19 @@ const contentSections = [
 const faqs = [
   {
     question:
-      "Is the grocery franchise really available from ₹15 lakh in Gorakhpur?",
+      "Is the grocery franchise really available from ₹18.5 lakh in Gorakhpur?",
     answer:
-      "The Buyzaar Mart advertises a starting investment from ₹15 lakh. The final cost depends on store size, format, property condition, opening-stock needs, and setup requirements, so use the investment calculator and request a detailed quote.",
+      "The Buyzaar Mart advertises a starting investment from ₹18.5 lakh. The final cost depends on store size, format, property condition, opening-stock needs, and setup requirements, so use the investment calculator and request a detailed quote.",
   },
   {
-    question: "Is rent included in the ₹15 lakh?",
+    question: "Is rent included in the ₹18.5 lakh?",
     answer:
       "No. Rent is arranged and paid separately by the franchise partner. It should be included in monthly operating-cost planning.",
   },
   {
-    question: "Which format suits a ₹15 lakh budget best?",
+    question: "Which format suits a ₹18.5 lakh budget best?",
     answer:
-      "The Mini Mart format of around 600–1,000 sq ft is generally the natural starting point for an investment near the ₹15 lakh level.",
+      "The Mini Mart format of around 600–1,000 sq ft is generally the natural starting point for an investment near the ₹18.5 lakh level.",
   },
   {
     question: "What is the FOCM model?",
@@ -289,13 +289,13 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Franchise Starting from ₹15 Lakh in Gorakhpur: Investment,
+              Grocery Franchise Starting from ₹18.5 lakh in Gorakhpur: Investment,
               Model &amp; Profit Guide
             </h1>
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                A grocery franchise starting from ₹15 lakh can offer an
+                A grocery franchise starting from ₹18.5 lakh can offer an
                 organised path for eastern Uttar Pradesh entrepreneurs who want
                 a structured store model instead of building a retail business
                 from zero.
@@ -362,7 +362,7 @@ const Content = () => {
                 </li>
 
                 <li>
-                  Begin with a franchise investment from around ₹15 lakh
+                  Begin with a franchise investment from around ₹18.5 lakh
                   onwards, depending on your store size, interior scope,
                   opening-stock requirement, and final commercial terms.
                 </li>

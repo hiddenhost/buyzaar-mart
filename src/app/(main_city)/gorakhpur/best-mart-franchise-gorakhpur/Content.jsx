@@ -6,7 +6,7 @@ const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   name: "Best Mart Franchise in Gorakhpur | The Buyzaar Mart",
-  description: "Find the best mart franchise in Gorakhpur. Choose a Mini, Super or Hyper Mart from The Buyzaar Mart. Start from ₹15 Lakh with full support.",
+  description: "Find the best mart franchise in Gorakhpur. Choose a Mini, Super or Hyper Mart from The Buyzaar Mart. Start from ₹18.5 lakh with full support.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/best-mart-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -30,7 +30,7 @@ const faqSchema = {
   "@type": "FAQPage",
   mainEntity: [
     { "@type": "Question", name: "Which is the best mart franchise in Gorakhpur?", acceptedAnswer: { "@type": "Answer", text: "The best one fits your space and budget and offers stock protection, technology and support. The Buyzaar Mart offers three formats for this reason." } },
-    { "@type": "Question", name: "What is the minimum investment?", acceptedAnswer: { "@type": "Answer", text: "A single unit starts from ₹15 Lakh, depending on format, area, stock and interiors." } },
+    { "@type": "Question", name: "What is the minimum investment?", acceptedAnswer: { "@type": "Answer", text: "A single unit starts from ₹18.5 lakh, depending on format, area, stock and interiors." } },
     { "@type": "Question", name: "How much space does each format need?", acceptedAnswer: { "@type": "Answer", text: "A Mini Mart needs 600 to 1,000 sq. ft., a Super Mart 1,000 to 3,000 sq. ft. and a Hyper Mart 3,000 to 8,000 sq. ft." } },
     { "@type": "Question", name: "Do I need retail experience?", acceptedAnswer: { "@type": "Answer", text: "No. Training is provided, and the company-managed model handles daily operations." } },
     { "@type": "Question", name: "What margin does the brand indicate?", acceptedAnswer: { "@type": "Answer", text: "An effective gross margin of 18% to 20% on sales, which is not guaranteed." } },
@@ -45,7 +45,7 @@ const sections = [
     "A mart franchise lets you open a modern neighbourhood store for groceries, FMCG and daily essentials with a brand, a system and support already in place.",
     "The best mart franchise in Gorakhpur is the one that fits your property size, your budget and the shopping habits of customers nearby.",
     "The Buyzaar Mart offers three formats, Mini Mart, Super Mart and Hyper Mart, so you can start at the right level instead of forcing one size on every location.",
-    "Investment starts from ₹15 Lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
+    "Investment starts from ₹18.5 lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
     "This guide helps you compare the three formats, understand costs and choose with confidence."
   ]],
   ["Why Gorakhpur Is Ready for a Branded Mart", [
@@ -99,7 +99,7 @@ const sections = [
     "You can plan stock with more confidence and less fear of loss."
   ]],
   ["Investment and Margin Overview", [
-    "The investment starts from ₹15 Lakh for a single unit and depends on format and area.",
+    "The investment starts from ₹18.5 lakh for a single unit and depends on format and area.",
     "It covers stock, interior, software fee, franchise fee (including 18% GST) and security deposit.",
     "The investment calculator on the franchise page gives an estimate for your chosen size.",
     "Rent for the premises is paid by the franchise partner.",
@@ -189,7 +189,7 @@ const sections = [
 
 const faqs = [
   ["Which is the best mart franchise in Gorakhpur?", "The best one fits your space and budget and offers stock protection, technology and support. The Buyzaar Mart offers three formats for this reason."],
-  ["What is the minimum investment?", "A single unit starts from ₹15 Lakh, depending on format, area, stock and interiors."],
+  ["What is the minimum investment?", "A single unit starts from ₹18.5 lakh, depending on format, area, stock and interiors."],
   ["How much space does each format need?", "A Mini Mart needs 600–1000 sq ft, a Super Mart 1000–3000 sq ft and a Hyper Mart 3000–8000 sq ft."],
   ["Do I need retail experience?", "No. Training is provided, and the company-managed model handles daily operations."],
   ["What margin does the brand indicate?", "An effective gross margin of 18–20% on sales, which is not guaranteed."],
@@ -218,7 +218,7 @@ const Content = () => {
               </section>
             ))}
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">Frequently Asked Questions</h2>
             <div className="mt-4 space-y-4">
@@ -235,7 +235,7 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>Choose Mini Mart, Super Mart or Hyper Mart based on your commercial space, local footfall and investment capacity.</li>
                 <li>Get support for store setup, POS technology, inventory, training, supply chain, branding and local marketing.</li>
-                <li>Investment starts from ₹15 Lakh, subject to the selected format, location, store area and final agreement terms.</li>
+                <li>Investment starts from ₹18.5 lakh, subject to the selected format, location, store area and final agreement terms.</li>
               </ul>
               <p className="mb-4 mt-6 text-gray-800"><span className="font-semibold">Email:</span> <a href="mailto:info@thebuyzaarmart.com" className="font-semibold text-green-600 hover:underline">info@thebuyzaarmart.com</a></p>
               <p className="mb-4 text-gray-800"><span className="font-semibold">Phone / WhatsApp:</span> <a href="tel:+919217991727" className="font-semibold text-green-600 hover:underline">9217991727</a></p>

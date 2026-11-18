@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Become a Franchise Owner in Kanpur | The Buyzaar Mart Grocery Franchise",
   description:
-    "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from ₹15 Lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
+    "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from ₹18.5 lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Become a Franchise Owner in Kanpur | The Buyzaar Mart Grocery Franchise",
     description:
-      "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from ₹15 Lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
+      "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from ₹18.5 lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Become a Franchise Owner in Kanpur | The Buyzaar Mart Grocery Franchise",
     description:
-      "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from ₹15 Lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
+      "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from ₹18.5 lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

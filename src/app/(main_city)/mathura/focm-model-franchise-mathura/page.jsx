@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Model Franchise in Mathura | The Buyzaar Mart",
   description:
-    "Understand the FOCM, Franchise Owned Company Managed, model with The Buyzaar Mart in Mathura — company-managed operations, investor visibility, and opportunities from ₹15 lakh onwards.",
+    "Understand the FOCM, Franchise Owned Company Managed, model with The Buyzaar Mart in Mathura — company-managed operations, investor visibility, and opportunities from ₹18.5 lakh onwards.",
   keywords: [
     "focm model franchise Mathura",
     "franchise owned company managed",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "FOCM Model Franchise in Mathura | The Buyzaar Mart",
     description:
-      "Understand the FOCM, Franchise Owned Company Managed, model with The Buyzaar Mart in Mathura — company-managed operations, investor visibility, and opportunities from ₹15 lakh onwards.",
+      "Understand the FOCM, Franchise Owned Company Managed, model with The Buyzaar Mart in Mathura — company-managed operations, investor visibility, and opportunities from ₹18.5 lakh onwards.",
     url: "https://www.thebuyzaarmart.com/mathura/focm-model-franchise-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Model Franchise in Mathura | The Buyzaar Mart",
     description:
-      "Understand the FOCM, Franchise Owned Company Managed, model with The Buyzaar Mart in Mathura — company-managed operations, investor visibility, and opportunities from ₹15 lakh onwards.",
+      "Understand the FOCM, Franchise Owned Company Managed, model with The Buyzaar Mart in Mathura — company-managed operations, investor visibility, and opportunities from ₹18.5 lakh onwards.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Opportunity Hapur | Buyzaar Mart FOCM & FOCO",
   description:
-    "Explore a mart franchise opportunity in Hapur with The Buyzaar Mart. FOCM and FOCO models, Mini, Super and Hyper Mart formats, total investment from ₹15 lakh. Apply today.",
+    "Explore a mart franchise opportunity in Hapur with The Buyzaar Mart. FOCM and FOCO models, Mini, Super and Hyper Mart formats, total investment from ₹18.5 lakh. Apply today.",
   url: "https://www.thebuyzaarmart.com/hapur/mart-franchise-opportunity-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the total investment for a mart franchise in Hapur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹15 lakh total, depending on model, format and area. Use the website calculator for an estimate.",
+        text: "It starts from ₹18.5 lakh total, depending on model, format and area. Use the website calculator for an estimate.",
       },
     },
     {
@@ -287,7 +287,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Starting Total</h3>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Buyzaar Mart franchises are available with a total investment starting from ₹15 lakh. The final total depends on your model, store format and area, and larger formats naturally need a larger total.</li>
+              <li>Buyzaar Mart franchises are available with a total investment starting from ₹18.5 lakh. The final total depends on your model, store format and area, and larger formats naturally need a larger total.</li>
               <li>The investment calculator on the website estimates your total for your chosen format and area, and the franchise team confirms the current figure during consultation, so you can plan with clarity.</li>
             </ul>
 
@@ -367,7 +367,7 @@ const Content = () => {
               <li>Complete KYC and legal documentation, review and sign the agreement with compliance support, and then move into store launch with marketing and operational backing.</li>
             </ul>
 
-            
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
             </h2>
@@ -378,7 +378,7 @@ const Content = () => {
                   What is the total investment for a mart franchise in Hapur?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹15 lakh total, depending on model, format and area. Use the website calculator for an estimate.
+                  It starts from ₹18.5 lakh total, depending on model, format and area. Use the website calculator for an estimate.
                 </p>
               </div>
 

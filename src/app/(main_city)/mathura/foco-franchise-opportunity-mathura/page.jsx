@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Franchise Opportunity in Mathura | The Buyzaar Mart",
   description:
-    "Discover the FOCO franchise opportunity in Mathura with The Buyzaar Mart — passive, company-operated ownership, proven UP model, investment from ₹15 lakh.",
+    "Discover the FOCO franchise opportunity in Mathura with The Buyzaar Mart — passive, company-operated ownership, proven UP model, investment from ₹18.5 lakh.",
   keywords: [
     "foco franchise opportunity Mathura",
     "franchise owned company operated",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "FOCO Franchise Opportunity in Mathura | The Buyzaar Mart",
     description:
-      "Discover the FOCO franchise opportunity in Mathura with The Buyzaar Mart — passive, company-operated ownership, proven UP model, investment from ₹15 lakh.",
+      "Discover the FOCO franchise opportunity in Mathura with The Buyzaar Mart — passive, company-operated ownership, proven UP model, investment from ₹18.5 lakh.",
     url: "https://www.thebuyzaarmart.com/mathura/foco-franchise-opportunity-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Franchise Opportunity in Mathura | The Buyzaar Mart",
     description:
-      "Discover the FOCO franchise opportunity in Mathura with The Buyzaar Mart — passive, company-operated ownership, proven UP model, investment from ₹15 lakh.",
+      "Discover the FOCO franchise opportunity in Mathura with The Buyzaar Mart — passive, company-operated ownership, proven UP model, investment from ₹18.5 lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

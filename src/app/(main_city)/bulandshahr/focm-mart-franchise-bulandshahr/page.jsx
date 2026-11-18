@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Mart Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "Open a FOCM mart franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹15 Lakh, 18–20% stated margin, full setup, POS and training support.",
+    "Open a FOCM mart franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹18.5 lakh, 18–20% stated margin, full setup, POS and training support.",
   keywords: [
     "FOCM mart franchise Bulandshahr",
     "FOCM franchise Bulandshahr",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCM Mart Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Open a FOCM mart franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹15 Lakh, 18–20% stated margin, full setup, POS and training support.",
+      "Open a FOCM mart franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹18.5 lakh, 18–20% stated margin, full setup, POS and training support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/focm-mart-franchise-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Mart Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-      "Open a FOCM mart franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹15 Lakh, 18–20% stated margin, full setup, POS and training support.",
+      "Open a FOCM mart franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹18.5 lakh, 18–20% stated margin, full setup, POS and training support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

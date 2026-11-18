@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Model Retail Store in Gorakhpur | Buyzaar Mart",
   description:
-    "Own a FOCO model retail store in Gorakhpur from ₹15 Lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
+    "Own a FOCO model retail store in Gorakhpur from ₹18.5 lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
   keywords: [
     "FOCO model retail store Gorakhpur",
     "FOCO retail store",
@@ -25,7 +25,7 @@ export const metadata = {
     "mini mart FOCO",
     "super mart FOCO",
     "hyper mart franchise Gorakhpur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "retail store for property owners",
     "revenue sharing retail store",
     "hands-off retail business",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCO Model Retail Store in Gorakhpur | Buyzaar Mart",
     description:
-      "Own a FOCO model retail store in Gorakhpur from ₹15 Lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
+      "Own a FOCO model retail store in Gorakhpur from ₹18.5 lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/foco-model-retail-store-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Model Retail Store in Gorakhpur | Buyzaar Mart",
     description:
-      "Own a FOCO model retail store in Gorakhpur from ₹15 Lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
+      "Own a FOCO model retail store in Gorakhpur from ₹18.5 lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

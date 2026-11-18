@@ -71,12 +71,12 @@ const Content = () => {
                 <h4 className="font-semibold text-gray-900">Mini Mart (600-1000 sq ft)</h4>
                 <p className="text-sm">Investment: ₹15-23 lakhs | Perfect for residential neighborhoods</p>
               </div>
-              
+
               <div>
                 <h4 className="font-semibold text-gray-900">Super Mart (1001-3000 sq ft)</h4>
                 <p className="text-sm">Investment: ₹26-71 lakhs | Ideal for mixed commercial-residential areas</p>
               </div>
-              
+
               <div>
                 <h4 className="font-semibold text-gray-900">Hyper Mart (3001-8000 sq ft)</h4>
                 <p className="text-sm">Investment: ₹75+ lakhs | Best for major commercial corridors</p>
@@ -157,9 +157,9 @@ const Content = () => {
               <li>Month 18-24: Consider second location expansion</li>
             </ul>
 
-            
 
-            
+
+
             <h2 className="text-xl sm:text-2xl font-semibold text-gray-900">
               Daily Operations: What Your Day Actually Looks Like
             </h2>
@@ -342,7 +342,7 @@ const Content = () => {
                   What's the total investment required for a grocery franchise in Meerut?
                 </h3>
                 <p className="text-sm">
-                  Investment ranges from ₹15 lakhs for Mini Mart to ₹75+ lakhs for Hyper Mart. The most popular Super Mart format requires ₹42-50 lakhs covering complete setup, initial inventory, training, and technology systems.
+                  Investment ranges from ₹18.5 lakhs for Mini Mart to ₹75+ lakhs for Hyper Mart. The most popular Super Mart format requires ₹42-50 lakhs covering complete setup, initial inventory, training, and technology systems.
                 </p>
               </div>
 
@@ -387,7 +387,7 @@ const Content = () => {
                   What makes The Buyzaar Mart different from other franchise opportunities?
                 </h3>
                 <p className="text-sm">
-                  We combine affordable entry points (starting ₹15 lakhs), proven systems tested across 50+ locations, comprehensive end-to-end support, advanced technology integration, and genuine partnership approach. Plus, we offer unlimited ongoing training—not just initial setup assistance.
+                  We combine affordable entry points (starting ₹18.5 lakhs), proven systems tested across 50+ locations, comprehensive end-to-end support, advanced technology integration, and genuine partnership approach. Plus, we offer unlimited ongoing training—not just initial setup assistance.
                 </p>
               </div>
             </div>
@@ -403,7 +403,7 @@ const Content = () => {
 
               <div className="space-y-2">
                 <p className="text-gray-900 font-semibold">
-                  📞 Call: +91-9217991727 | 
+                  📞 Call: +91-9217991727 |
                 </p>
 
                 <p className="text-gray-900">

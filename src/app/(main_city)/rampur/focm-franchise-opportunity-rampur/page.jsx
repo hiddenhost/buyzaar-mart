@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Franchise Opportunity in Rampur | The Buyzaar Mart",
   description:
-    "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹15 Lakh.",
+    "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹18.5 lakh.",
   keywords: [
     "focm franchise opportunity rampur",
     "focm franchise rampur",
@@ -20,7 +20,7 @@ export const metadata = {
     "supermarket franchise rampur",
     "mart franchise rampur",
     "retail franchise rampur",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment franchise rampur",
     "Mini Mart franchise rampur",
     "Super Mart franchise rampur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCM Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-      "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹15 Lakh.",
+      "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹18.5 lakh.",
     url: "https://www.thebuyzaarmart.com/rampur/focm-franchise-opportunity-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-      "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹15 Lakh.",
+      "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹18.5 lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

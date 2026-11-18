@@ -30,7 +30,7 @@ export const metadata = {
     "neighbourhood grocery franchise",
     "grocery retail franchise India",
     "Mini Mart grocery franchise",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "best grocery franchise Aligarh",
     "The Buyzaar Mart",
   ],

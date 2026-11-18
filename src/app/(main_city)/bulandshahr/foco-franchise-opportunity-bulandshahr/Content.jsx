@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much investment does this opportunity require?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment for a Bulandshahr FOCO franchise typically starts from around ₹15 lakh, depending on store format.",
+        text: "Investment for a Bulandshahr FOCO franchise typically starts from around ₹18.5 lakh, depending on store format.",
       },
     },
     {
@@ -157,7 +157,7 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               A Retail Opportunity Built for Investors, Not Operators
@@ -237,7 +237,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Entry investment for a FOCO franchise in Bulandshahr typically starts from around ₹15 lakh, scaling upward with store format and size.</li>
+              <li>Entry investment for a FOCO franchise in Bulandshahr typically starts from around ₹18.5 lakh, scaling upward with store format and size.</li>
               <li>Investment components generally include opening stock, interior and store setup, POS/software fee, one-time franchise fee (inclusive of 18% GST), and a security deposit.</li>
               <li>Recurring operational costs — staffing, utilities, and day-to-day expenses — are managed by the company as part of its operating responsibility under the FOCO structure.</li>
               <li>Returns to the investor are defined through a revenue-sharing or fixed-payout arrangement, agreed clearly within the franchise agreement before signing.</li>
@@ -312,7 +312,7 @@ const Content = () => {
                   How much investment does this opportunity require?
                 </h3>
                 <p className="mt-2">
-                  Investment for a Bulandshahr FOCO franchise typically starts from around ₹15 lakh, depending on store format.
+                  Investment for a Bulandshahr FOCO franchise typically starts from around ₹18.5 lakh, depending on store format.
                 </p>
               </div>
 

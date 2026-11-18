@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Retail Partner in Amroha",
   description:
-    "Become a Buyzaar Mart retail partner in Amroha. FOCM and FOCO models, POS, training and full support. Total investment starts from ₹15 lakh. Get a reply within 24 hours.",
+    "Become a Buyzaar Mart retail partner in Amroha. FOCM and FOCO models, POS, training and full support. Total investment starts from ₹18.5 lakh. Get a reply within 24 hours.",
   url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-retail-partner-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -67,7 +67,7 @@ const faqSchema = {
       name: "What is the total investment in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from a total of ₹15 lakh, depending on the store format and area.",
+        text: "It starts from a total of ₹18.5 lakh, depending on the store format and area.",
       },
     },
     {
@@ -318,7 +318,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart supermarket franchise starts from a total
-                investment of ₹15 lakh, and the final amount depends on the
+                investment of ₹18.5 lakh, and the final amount depends on the
                 store format and the area you choose for your Amroha outlet.
               </li>
               <li>
@@ -618,7 +618,7 @@ const Content = () => {
                   Q2. What is the total investment in Amroha?
                 </h3>
                 <p className="mt-2">
-                  It starts from a total of ₹15 lakh, depending on the store
+                  It starts from a total of ₹18.5 lakh, depending on the store
                   format and area.
                 </p>
               </div>

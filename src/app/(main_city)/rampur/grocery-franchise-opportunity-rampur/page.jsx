@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Opportunity in Rampur | The Buyzaar Mart",
   description:
-    "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from ₹15 Lakh.",
+    "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from ₹18.5 lakh.",
   keywords: [
     "grocery franchise opportunity rampur",
     "grocery franchise rampur",
@@ -24,7 +24,7 @@ export const metadata = {
     "Mini Mart franchise rampur",
     "Super Mart franchise rampur",
     "Hyper Mart franchise rampur",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment grocery franchise rampur",
     "grocery franchise Uttar Pradesh",
     "supermarket franchise UP",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-      "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from ₹15 Lakh.",
+      "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from ₹18.5 lakh.",
     url: "https://www.thebuyzaarmart.com/rampur/grocery-franchise-opportunity-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-      "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from ₹15 Lakh.",
+      "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from ₹18.5 lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

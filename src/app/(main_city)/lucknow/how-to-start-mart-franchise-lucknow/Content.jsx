@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "The Buyzaar Mart - How to Start a Mart Franchise in Lucknow",
   description:
-    "Learn how to start a mart franchise in Lucknow with The Buyzaar Mart. Explore FOCM and FOCO models, Mini Mart, Super Mart, and Hyper Mart formats, investment from ₹15 Lakh, and full company support.",
+    "Learn how to start a mart franchise in Lucknow with The Buyzaar Mart. Explore FOCM and FOCO models, Mini Mart, Super Mart, and Hyper Mart formats, investment from ₹18.5 lakh, and full company support.",
   url: "https://www.thebuyzaarmart.com/lucknow/how-to-start-a-mart-franchise-in-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "You can start a Buyzaar Mart franchise from ₹15 Lakh onwards, depending on the store format and location. The FOCO model requires a higher investment because of the larger store size and longer tenure.",
+        text: "You can start a Buyzaar Mart franchise from ₹18.5 lakh onwards, depending on the store format and location. The FOCO model requires a higher investment because of the larger store size and longer tenure.",
       },
     },
     {
@@ -445,7 +445,7 @@ const Content = () => {
               One of the most attractive parts of The Buyzaar Mart franchise is
               its affordability. Unlike larger retail concepts that may require
               much bigger capital outlays, Buyzaar Mart allows entry from as low
-              as ₹15 Lakh, making it an accessible organised retail franchise
+              as ₹18.5 lakh, making it an accessible organised retail franchise
               opportunity in Lucknow.
             </p>
 
@@ -606,7 +606,7 @@ const Content = () => {
                   franchise in Lucknow?
                 </h3>
                 <p className="mt-2">
-                  You can start a Buyzaar Mart franchise from ₹15 Lakh onwards,
+                  You can start a Buyzaar Mart franchise from ₹18.5 lakh onwards,
                   depending on the store format and location. The FOCO model
                   requires a higher investment due to larger store size and
                   longer tenure.

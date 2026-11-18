@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart FOCM Franchise Rampur | Company Managed",
   description:
-    "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from ₹15 Lakh. Call +91 9217991727.",
+    "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from ₹18.5 lakh. Call +91 9217991727.",
   url: "https://www.thebuyzaarmart.com/rampur/c",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The total investment starts from ₹15 Lakh and varies with store size, so confirm the exact figure for your space.",
+        text: "The total investment starts from ₹18.5 lakh and varies with store size, so confirm the exact figure for your space.",
       },
     },
     {
@@ -155,7 +155,7 @@ const Content = () => {
                 The brand’s promise, “अपना बाजार – बचत का साथ, Quality की बात,” reflects its focus on savings, quality and everyday trust for Indian families.
               </li>
               <li>
-                The Buyzaar Mart franchise starts from a total investment of ₹15 Lakh, and the final amount depends on your store format, layout and location.
+                The Buyzaar Mart franchise starts from a total investment of ₹18.5 lakh, and the final amount depends on your store format, layout and location.
               </li>
               <li>
                 The website mentions an effective gross margin of 18–20%, which is a gross figure and not a promise of net profit.
@@ -253,7 +253,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The franchise starts from a total investment of ₹15 Lakh, and the FAQ page mentions roughly ₹15–20 lakh for a Mini Mart of 600–1000 sq ft.
+                The franchise starts from a total investment of ₹18.5 lakh, and the FAQ page mentions roughly ₹15–20 lakh for a Mini Mart of 600–1000 sq ft.
               </li>
               <li>
                 The final figure depends on store size, layout, location and the work required at the premises.
@@ -640,7 +640,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
@@ -661,7 +661,7 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  The total investment starts from ₹15 Lakh and varies with store size, so confirm the exact figure for your space.
+                  The total investment starts from ₹18.5 lakh and varies with store size, so confirm the exact figure for your space.
                 </p>
               </div>
 

@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-          "Daily needs store format for 600 to 1000 square feet starting from approximately ₹15 Lakh",
+          "Daily needs store format for 600 to 1000 square feet starting from approximately ₹18.5 lakh",
       },
       {
         "@type": "Offer",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the total investment to open a Buyzaar Mart daily needs store franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from approximately ₹15 Lakh for the Mini Mart format covering stock, interior, POS software, franchise fee with GST, and security deposit. Larger formats require higher investment.",
+        text: "Investment starts from approximately ₹18.5 lakh for the Mini Mart format covering stock, interior, POS software, franchise fee with GST, and security deposit. Larger formats require higher investment.",
       },
     },
     {
@@ -158,7 +158,7 @@ const Content = () => {
               The Buyzaar Mart, a fast-growing supermarket and daily needs
               franchise brand from Noida, is stepping into that gap &mdash; and
               inviting entrepreneurs from Bareilly to be part of the revolution.
-              With an investment starting from as low as ₹15 Lakh, a proven
+              With an investment starting from as low as ₹18.5 lakh, a proven
               Franchise Owned Company Managed (FOCM) business model,
               partnerships with 50+ leading FMCG brands, and full operational
               and marketing support, The Buyzaar Mart offers Bareilly&apos;s
@@ -643,7 +643,7 @@ const Content = () => {
                   needs store franchise in Bareilly?
                 </h3>
                 <p className="mt-2 text-gray-700">
-                  Investment starts from approximately ₹15 Lakh for the Mini
+                  Investment starts from approximately ₹18.5 lakh for the Mini
                   Mart format (600&ndash;1000 sq ft), covering stock, interior,
                   POS software, franchise fee (with 18% GST), and security
                   deposit. Larger formats have higher investment requirements

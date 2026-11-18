@@ -60,7 +60,7 @@ const faqSchema = {
       name: "How much investment is needed to start a grocery franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts at approximately ₹15 lakh for a Mini Mart format, varying by store size and location.",
+        text: "Investment starts at approximately ₹18.5 lakh for a Mini Mart format, varying by store size and location.",
       },
     },
     {
@@ -185,7 +185,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart is a Noida-headquartered supermarket franchise brand built specifically around the neighbourhood grocery shopping experience, with the tagline &quot;अपना बाजार – बचत का साथ, Quality की बात.&quot;</li>
               <li>The brand currently runs stores across Uttar Pradesh and Uttarakhand — including Shyam Nagar (Kanpur), Sector 44 Chalera (Noida), Gangoh, Behat (Saharanpur), and Bahadrabad (Haridwar) — and is expanding its footprint into growing markets like Mathura.</li>
-              <li>Franchise investment starts from around ₹15 lakh, positioned specifically to be accessible for local entrepreneurs rather than large corporate investors.</li>
+              <li>Franchise investment starts from around ₹18.5 lakh, positioned specifically to be accessible for local entrepreneurs rather than large corporate investors.</li>
               <li>The store range is built around daily-need grocery and FMCG products, backed by partnerships with 50+ established brands including Dabur, Britannia, HUL, Nestlé, ITC, Godrej, Patanjali, and Coca-Cola.</li>
               <li>Every outlet uses a POS-enabled billing system paired with CRM tools, helping franchise owners track sales patterns and manage grocery inventory more efficiently than manual kirana-style bookkeeping.</li>
               <li>A buyback policy on expired or damaged stock protects franchise owners from absorbing losses on perishable or slow-moving grocery items.</li>
@@ -292,7 +292,7 @@ const Content = () => {
                   1. How much investment is needed to start a grocery franchise in Mathura?
                 </h3>
                 <p className="mt-2">
-                  Investment starts at approximately ₹15 lakh for a Mini Mart format, varying by store size and location.
+                  Investment starts at approximately ₹18.5 lakh for a Mini Mart format, varying by store size and location.
                 </p>
               </div>
 

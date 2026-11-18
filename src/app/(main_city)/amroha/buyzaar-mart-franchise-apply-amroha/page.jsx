@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Apply in Amroha | Supermarket Franchise",
   description:
-    "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from ₹15 lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
+    "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from ₹18.5 lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
   keywords: [
     "buyzaar mart franchise apply amroha",
     "buyzaar mart franchise amroha",
@@ -26,7 +26,7 @@ export const metadata = {
     "mini mart franchise amroha",
     "super mart franchise amroha",
     "hyper mart franchise amroha",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment supermarket franchise",
     "franchise business opportunity amroha",
     "organised retail franchise amroha",
@@ -40,7 +40,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Apply in Amroha | Supermarket Franchise",
     description:
-      "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from ₹15 lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
+      "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from ₹18.5 lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-apply-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Apply in Amroha | Supermarket Franchise",
     description:
-      "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from ₹15 lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
+      "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from ₹18.5 lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

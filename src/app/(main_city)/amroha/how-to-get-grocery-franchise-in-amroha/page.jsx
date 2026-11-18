@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise in Amroha | Buyzaar Mart Franchise",
   description:
-    "Get a grocery franchise in Amroha with Buyzaar Mart. Start from ₹15 lakh total investment with training, supply chain and POS support. Apply today.",
+    "Get a grocery franchise in Amroha with Buyzaar Mart. Start from ₹18.5 lakh total investment with training, supply chain and POS support. Apply today.",
   keywords: [
     "grocery franchise in Amroha",
     "how to get grocery franchise in Amroha",
@@ -19,7 +19,7 @@ export const metadata = {
     "FOCM franchise Amroha",
     "mini mart franchise Amroha",
     "grocery franchise under 20 lakh",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment grocery franchise",
     "supermarket franchise Uttar Pradesh",
     "grocery franchise UP",
@@ -39,7 +39,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise in Amroha | Buyzaar Mart Franchise",
     description:
-      "Get a grocery franchise in Amroha with Buyzaar Mart. Start from ₹15 lakh total investment with training, supply chain and POS support. Apply today.",
+      "Get a grocery franchise in Amroha with Buyzaar Mart. Start from ₹18.5 lakh total investment with training, supply chain and POS support. Apply today.",
     url: "https://www.thebuyzaarmart.com/amroha/how-to-get-grocery-franchise-in-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise in Amroha | Buyzaar Mart Franchise",
     description:
-      "Get a grocery franchise in Amroha with Buyzaar Mart. Start from ₹15 lakh total investment with training, supply chain and POS support. Apply today.",
+      "Get a grocery franchise in Amroha with Buyzaar Mart. Start from ₹18.5 lakh total investment with training, supply chain and POS support. Apply today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

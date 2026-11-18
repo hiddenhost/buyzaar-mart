@@ -8,7 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise in Moradabad | The Buyzaar Mart",
   description:
-    "Get a Buyzaar Mart franchise in Moradabad. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from ₹15 lakh, FOCM/FOCO models, and full setup support.",
+    "Get a Buyzaar Mart franchise in Moradabad. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from ₹18.5 lakh, FOCM/FOCO models, and full setup support.",
   url: "https://www.thebuyzaarmart.com/moradabad/buyzaar-mart-franchise-in-moradabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart franchise starts from approximately ₹15 lakh, depending on locality and size.",
+        text: "A Mini Mart franchise starts from approximately ₹18.5 lakh, depending on locality and size.",
       },
     },
     {
@@ -247,7 +247,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Area: approximately 600 to 1,000 sq. ft.</li>
-              <li>Investment: approximately &#8377;15 lakh to &#8377;25 lakh, depending on locality, size, and store condition.</li>
+              <li>Investment: approximately &#8377;18.5 lakh to &#8377;25 lakh, depending on locality, size, and store condition.</li>
               <li>Best suited for: residential colonies, housing societies, and neighbourhood-level markets.</li>
               <li>Product focus: daily essentials &mdash; groceries, packaged food, dairy, beverages, personal care, and household basics.</li>
               <li>The most accessible entry point for first-time entrepreneurs, homemakers, or investors with a smaller commercial space.</li>
@@ -400,7 +400,7 @@ const Content = () => {
                   Q2. What is the minimum investment for a Buyzaar Mart franchise in Moradabad?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart franchise starts from approximately &#8377;15 lakh, depending on locality and size.
+                  A Mini Mart franchise starts from approximately &#8377;18.5 lakh, depending on locality and size.
                 </p>
               </div>
 
@@ -544,7 +544,7 @@ const Content = () => {
         </div>
       </div>
     </div>
-    
+
   );
 };
 

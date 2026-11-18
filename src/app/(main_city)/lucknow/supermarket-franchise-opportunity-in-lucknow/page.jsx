@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Supermarket Franchise Opportunity in Lucknow | The Buyzaar Mart",
   description:
-    "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from ₹15 lakh, full brand support. Apply now and own your neighborhood supermarket.",
+    "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from ₹18.5 lakh, full brand support. Apply now and own your neighborhood supermarket.",
   keywords: [
     "supermarket franchise opportunity in Lucknow",
     "supermarket franchise for first time investors",
@@ -54,7 +54,7 @@ export const metadata = {
   openGraph: {
     title: "Supermarket Franchise Opportunity in Lucknow | The Buyzaar Mart",
     description:
-      "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from ₹15 lakh, full brand support. Apply now and own your neighborhood supermarket.",
+      "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from ₹18.5 lakh, full brand support. Apply now and own your neighborhood supermarket.",
     url: "https://www.thebuyzaarmart.com/lucknow/supermarket-franchise-opportunity-in-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -72,7 +72,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Supermarket Franchise Opportunity in Lucknow | The Buyzaar Mart",
     description:
-      "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from ₹15 lakh, full brand support. Apply now and own your neighborhood supermarket.",
+      "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from ₹18.5 lakh, full brand support. Apply now and own your neighborhood supermarket.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -4,21 +4,21 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Grocery Franchise Starting From 15 Lakh in Hapur | The Buyzaar Mart",
+  title: "Grocery Franchise Starting From 18.5 lakh in Hapur | The Buyzaar Mart",
   description:
-    "Explore a grocery franchise starting from 15 lakh in Hapur with The Buyzaar Mart. Learn about store formats, investment breakdown, margins, and the full application process.",
+    "Explore a grocery franchise starting from 18.5 lakh in Hapur with The Buyzaar Mart. Learn about store formats, investment breakdown, margins, and the full application process.",
   keywords: [
-    "grocery franchise 15 lakh Hapur",
+    "grocery franchise 18.5 lakh Hapur",
     "low investment grocery franchise Hapur",
     "Buyzaar Mart franchise Hapur",
-    "franchise starting from 15 lakh",
+    "franchise starting from 18.5 lakh",
     "grocery franchise investment Hapur",
     "Mini Mart franchise Hapur",
     "Super Mart franchise Hapur",
     "Hyper Mart franchise Hapur",
     "FOCM franchise Hapur",
     "FOCO franchise Hapur",
-    "best franchise under 15 lakh Hapur",
+    "best franchise under 18.5 lakh Hapur",
     "supermarket franchise Hapur",
     "retail franchise investment Hapur",
     "franchise fee grocery Hapur",
@@ -35,9 +35,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/hapur/grocery-franchise-starting-from-15-lakh-hapur",
   },
   openGraph: {
-    title: "Grocery Franchise Starting From 15 Lakh in Hapur | The Buyzaar Mart",
+    title: "Grocery Franchise Starting From 18.5 lakh in Hapur | The Buyzaar Mart",
     description:
-      "Explore a grocery franchise starting from 15 lakh in Hapur with The Buyzaar Mart. Learn about store formats, investment breakdown, margins, and the full application process.",
+      "Explore a grocery franchise starting from 18.5 lakh in Hapur with The Buyzaar Mart. Learn about store formats, investment breakdown, margins, and the full application process.",
     url: "https://www.thebuyzaarmart.com/hapur/grocery-franchise-starting-from-15-lakh-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -45,7 +45,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Grocery Franchise Starting From 15 Lakh in Hapur | The Buyzaar Mart",
+        alt: "Grocery Franchise Starting From 18.5 lakh in Hapur | The Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -53,9 +53,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Grocery Franchise Starting From 15 Lakh in Hapur | The Buyzaar Mart",
+    title: "Grocery Franchise Starting From 18.5 lakh in Hapur | The Buyzaar Mart",
     description:
-      "Explore a grocery franchise starting from 15 lakh in Hapur with The Buyzaar Mart. Learn about store formats, investment breakdown, margins, and the full application process.",
+      "Explore a grocery franchise starting from 18.5 lakh in Hapur with The Buyzaar Mart. Learn about store formats, investment breakdown, margins, and the full application process.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

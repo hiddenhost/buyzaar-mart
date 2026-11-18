@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Buyzaar Mart Franchise Contact in Amroha | Phone, Email, Address",
   description:
-    "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from ₹15 lakh. Reply within 24 hours.",
+    "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from ₹18.5 lakh. Reply within 24 hours.",
   keywords: [
     "buyzaar mart franchise contact amroha",
     "buyzaar mart contact number",
@@ -27,7 +27,7 @@ export const metadata = {
     "FOCM franchise amroha",
     "FOCO franchise amroha",
     "mini mart franchise amroha",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment supermarket franchise",
     "buyzaar mart franchise details",
     "organised retail franchise amroha",
@@ -41,7 +41,7 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Contact in Amroha | Phone, Email, Address",
     description:
-      "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from ₹15 lakh. Reply within 24 hours.",
+      "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from ₹18.5 lakh. Reply within 24 hours.",
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-contact-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +60,7 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Contact in Amroha | Phone, Email, Address",
     description:
-      "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from ₹15 lakh. Reply within 24 hours.",
+      "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from ₹18.5 lakh. Reply within 24 hours.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

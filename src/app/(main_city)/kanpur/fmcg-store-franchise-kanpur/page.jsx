@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "FMCG Store Franchise Kanpur | The Buyzaar Mart | FOCM & FOCO Model",
   description:
-    "Start your FMCG store franchise in Kanpur with The Buyzaar Mart. Explore the FOCM & FOCO franchise models, full investment breakdown, supply chain support & more. Apply from ₹15 Lakh. Visit thebuyzaarmart.com.",
+    "Start your FMCG store franchise in Kanpur with The Buyzaar Mart. Explore the FOCM & FOCO franchise models, full investment breakdown, supply chain support & more. Apply from ₹18.5 lakh. Visit thebuyzaarmart.com.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/fmcg-store-franchise-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "FMCG Store Franchise Kanpur | The Buyzaar Mart | FOCM & FOCO Model",
     description:
-      "Start your FMCG store franchise in Kanpur with The Buyzaar Mart. Explore the FOCM & FOCO franchise models, full investment breakdown, supply chain support & more. Apply from ₹15 Lakh. Visit thebuyzaarmart.com.",
+      "Start your FMCG store franchise in Kanpur with The Buyzaar Mart. Explore the FOCM & FOCO franchise models, full investment breakdown, supply chain support & more. Apply from ₹18.5 lakh. Visit thebuyzaarmart.com.",
     url: "https://www.thebuyzaarmart.com/kanpur/fmcg-store-franchise-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "FMCG Store Franchise Kanpur | The Buyzaar Mart | FOCM & FOCO Model",
     description:
-      "Start your FMCG store franchise in Kanpur with The Buyzaar Mart. Explore the FOCM & FOCO franchise models, full investment breakdown, supply chain support & more. Apply from ₹15 Lakh. Visit thebuyzaarmart.com.",
+      "Start your FMCG store franchise in Kanpur with The Buyzaar Mart. Explore the FOCM & FOCO franchise models, full investment breakdown, supply chain support & more. Apply from ₹18.5 lakh. Visit thebuyzaarmart.com.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

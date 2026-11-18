@@ -8,7 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise Enquiry in Amroha | Supermarket Franchise",
   description:
-    "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from ₹15 lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
+    "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from ₹18.5 lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
   url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-enquiry-amroha",
   telephone: "+919217991727",
   address: {
@@ -75,7 +75,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from a total of ₹15 lakh, and the final figure depends on the store format and area.",
+        text: "It starts from a total of ₹18.5 lakh, and the final figure depends on the store format and area.",
       },
     },
     {
@@ -330,7 +330,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart supermarket franchise starts from a total investment of ₹15 lakh, and the final amount depends on the store format and the area you choose for your Amroha outlet.
+                The Buyzaar Mart supermarket franchise starts from a total investment of ₹18.5 lakh, and the final amount depends on the store format and the area you choose for your Amroha outlet.
               </li>
               <li>
                 The total covers stock, interior setup, software, the franchise fee with GST and the security deposit, so you see one clear figure and plan your capital accordingly.
@@ -536,7 +536,7 @@ const Content = () => {
                   Q3. What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  It starts from a total of ₹15 lakh, and the final figure depends on the store format and area.
+                  It starts from a total of ₹18.5 lakh, and the final figure depends on the store format and area.
                 </p>
               </div>
 
@@ -590,7 +590,7 @@ const Content = () => {
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  The Buyzaar Mart offers a supermarket franchise enquiry in Amroha, with total investment starting from ₹15 lakh and FOCM or FOCO models.
+                  The Buyzaar Mart offers a supermarket franchise enquiry in Amroha, with total investment starting from ₹18.5 lakh and FOCM or FOCO models.
                 </li>
                 <li>
                   Get details on store formats, POS, training, supply chain and launch support before you apply.

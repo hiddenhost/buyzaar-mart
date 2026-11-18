@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-          "Neighbourhood mart format for 600 to 1000 square feet with investment commonly starting from approximately ₹15 Lakh",
+          "Neighbourhood mart format for 600 to 1000 square feet with investment commonly starting from approximately ₹18.5 lakh",
       },
       {
         "@type": "Offer",
@@ -152,7 +152,7 @@ const Content = () => {
             </p>
 
             <p>
-              With entry investment starting from approximately ₹15 Lakh, a
+              With entry investment starting from approximately ₹18.5 lakh, a
               FOCM model, 50+ FMCG brand partnerships, and an effective gross
               margin benchmark of 18 to 20 percent, The Buyzaar Mart presents a
               strong case for being one of the most practical franchise business
@@ -291,7 +291,7 @@ const Content = () => {
             </p>
             <p>
               <span className="font-semibold">Investment:</span> Approximately
-              ₹15 Lakh to ₹25 Lakh
+              ₹18.5 lakh to ₹25 Lakh
             </p>
             <p>
               <span className="font-semibold">Best For:</span> Residential
@@ -685,7 +685,7 @@ const Content = () => {
 
               <p className="mb-4 text-gray-800">
                 Whether you are a first-time entrepreneur looking for an
-                accessible Mini Mart entry around ₹15 Lakh, a mid-scale investor
+                accessible Mini Mart entry around ₹18.5 lakh, a mid-scale investor
                 ready for a Super Mart, or an experienced businessman preparing
                 for a larger Hyper Mart, The Buyzaar Mart offers a format built
                 around your location and capital level.

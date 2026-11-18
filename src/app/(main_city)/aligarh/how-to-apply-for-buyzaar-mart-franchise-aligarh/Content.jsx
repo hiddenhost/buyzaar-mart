@@ -244,7 +244,7 @@ const Content = () => {
               Investment and Costs Involved in the Application
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: Investment starts from ₹15 Lakh for a 600–1,000 sq. ft. store, covering interiors, opening stock, POS software, and initial branding.</li>
+              <li>Mini Mart: Investment starts from ₹18.5 lakh for a 600–1,000 sq. ft. store, covering interiors, opening stock, POS software, and initial branding.</li>
               <li>Super Mart: A step up in investment for a larger footprint and wider product assortment, suited to busier Aligarh markets.</li>
               <li>Ongoing costs such as rent, staff salaries, electricity, and miscellaneous variable expenses are typically borne by the franchisee, separate from the one-time setup investment.</li>
               <li>A working capital buffer beyond the headline investment figure is advisable to comfortably cover the first few months of operating expenses before the store stabilizes.</li>

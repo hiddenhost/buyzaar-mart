@@ -4,7 +4,7 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Buyzaar Mart Franchise in Aligarh | Grocery Business Opportunity from ₹15 Lakh",
+  title: "Buyzaar Mart Franchise in Aligarh | Grocery Business Opportunity from ₹18.5 lakh",
   description:
     "Explore The Buyzaar Mart franchise in Aligarh — market opportunity, investment models, profit margins, product categories, and why the city is ready for organized retail.",
   keywords: [
@@ -36,7 +36,7 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-franchise-aligarh",
   },
   openGraph: {
-    title: "Buyzaar Mart Franchise in Aligarh | Grocery Business Opportunity from ₹15 Lakh",
+    title: "Buyzaar Mart Franchise in Aligarh | Grocery Business Opportunity from ₹18.5 lakh",
     description:
       "Explore The Buyzaar Mart franchise in Aligarh — market opportunity, investment models, profit margins, product categories, and why the city is ready for organized retail.",
     url: "https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-franchise-aligarh",
@@ -54,7 +54,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Buyzaar Mart Franchise in Aligarh | Grocery Business Opportunity from ₹15 Lakh",
+    title: "Buyzaar Mart Franchise in Aligarh | Grocery Business Opportunity from ₹18.5 lakh",
     description:
       "Explore The Buyzaar Mart franchise in Aligarh — market opportunity, investment models, profit margins, product categories, and why the city is ready for organized retail.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers grocery franchise opportunities in Bulandshahr with Mini Mart, Super Mart, and Hyper Mart formats, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support starting from ₹15 lakh.",
+    "The Buyzaar Mart offers grocery franchise opportunities in Bulandshahr with Mini Mart, Super Mart, and Hyper Mart formats, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support starting from ₹18.5 lakh.",
   url: "https://www.thebuyzaarmart.com/bulandshahr/grocery-franchise-starting-from-15-lakh-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level grocery franchise format (600–1,000 sq. ft.) designed for residential colonies and neighbourhood markets in Bulandshahr, starting from ₹15 lakh.",
+          "Entry-level grocery franchise format (600–1,000 sq. ft.) designed for residential colonies and neighbourhood markets in Bulandshahr, starting from ₹18.5 lakh.",
       },
       {
         "@type": "Offer",
@@ -55,10 +55,10 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Is ₹15 lakh enough to start a Buyzaar Mart franchise in Bulandshahr?",
+      name: "Is ₹18.5 lakh enough to start a Buyzaar Mart franchise in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes — ₹15 lakh is the approximate starting investment for the Mini Mart format, covering interiors, opening stock, and setup essentials for a 600–1,000 sq. ft. store.",
+        text: "Yes — ₹18.5 lakh is the approximate starting investment for the Mini Mart format, covering interiors, opening stock, and setup essentials for a 600–1,000 sq. ft. store.",
       },
     },
     {
@@ -134,11 +134,11 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Franchise in Bulandshahr Starting From ₹15 Lakh – The Buyzaar Mart
+              Grocery Franchise in Bulandshahr Starting From ₹18.5 lakh – The Buyzaar Mart
             </h1>
 
             <p>
-              Bulandshahr, part of the Delhi NCR and Meerut division, is emerging as one of the most promising retail markets in western Uttar Pradesh. With a fast-growing population, expanding residential colonies, and rising demand for organized shopping, the city offers a strong opportunity for entrepreneurs looking to enter the grocery retail sector. The Buyzaar Mart brings its proven franchise model to Bulandshahr, with entry-level investment starting from just ₹15 lakh.
+              Bulandshahr, part of the Delhi NCR and Meerut division, is emerging as one of the most promising retail markets in western Uttar Pradesh. With a fast-growing population, expanding residential colonies, and rising demand for organized shopping, the city offers a strong opportunity for entrepreneurs looking to enter the grocery retail sector. The Buyzaar Mart brings its proven franchise model to Bulandshahr, with entry-level investment starting from just ₹18.5 lakh.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -171,12 +171,12 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Investment Starting From ₹15 Lakh
+              Investment Starting From ₹18.5 lakh
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
               <li>The entry-level Mini Mart format is designed for investors who want to start with a manageable budget.</li>
-              <li>A Mini Mart typically covers around 600 to 1,000 sq. ft. and starts from approximately ₹15 lakh, making it one of the more accessible organized retail formats available today.</li>
+              <li>A Mini Mart typically covers around 600 to 1,000 sq. ft. and starts from approximately ₹18.5 lakh, making it one of the more accessible organized retail formats available today.</li>
               <li>This investment generally covers store interiors, opening stock, POS software setup, branding elements, and initial launch support.</li>
               <li>Entrepreneurs looking for a larger footprint can explore the Super Mart or Hyper Mart formats, which involve higher investment based on store size and location.</li>
               <li>The structured investment approach means franchise partners know what they are signing up for before committing, reducing uncertainty common in independent retail setups.</li>
@@ -294,10 +294,10 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Is ₹15 lakh enough to start a Buyzaar Mart franchise in Bulandshahr?
+                  Is ₹18.5 lakh enough to start a Buyzaar Mart franchise in Bulandshahr?
                 </h3>
                 <p className="mt-2">
-                  Yes, ₹15 lakh is the approximate starting investment for the Mini Mart format, covering interiors, opening stock, and setup essentials for a 600–1,000 sq. ft. store.
+                  Yes, ₹18.5 lakh is the approximate starting investment for the Mini Mart format, covering interiors, opening stock, and setup essentials for a 600–1,000 sq. ft. store.
                 </p>
               </div>
 

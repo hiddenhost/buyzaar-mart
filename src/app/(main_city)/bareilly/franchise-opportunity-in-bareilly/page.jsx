@@ -5,18 +5,18 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Franchise Opportunity in Bareilly – The Buyzaar Mart | Start from ₹15 Lakh",
+    "Franchise Opportunity in Bareilly – The Buyzaar Mart | Start from ₹18.5 lakh",
   description:
-    "Explore the best franchise opportunity in Bareilly with The Buyzaar Mart. FOCM model, Mini Mart from ₹15 Lakh, 18–20% gross margins, 50+ FMCG brands & full support. Apply today!",
+    "Explore the best franchise opportunity in Bareilly with The Buyzaar Mart. FOCM model, Mini Mart from ₹18.5 lakh, 18–20% gross margins, 50+ FMCG brands & full support. Apply today!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/franchise-opportunity-in-bareilly",
   },
   openGraph: {
     title:
-      "Franchise Opportunity in Bareilly – The Buyzaar Mart | Start from ₹15 Lakh",
+      "Franchise Opportunity in Bareilly – The Buyzaar Mart | Start from ₹18.5 lakh",
     description:
-      "Explore the best franchise opportunity in Bareilly with The Buyzaar Mart. FOCM model, Mini Mart from ₹15 Lakh, 18–20% gross margins, 50+ FMCG brands & full support. Apply today!",
+      "Explore the best franchise opportunity in Bareilly with The Buyzaar Mart. FOCM model, Mini Mart from ₹18.5 lakh, 18–20% gross margins, 50+ FMCG brands & full support. Apply today!",
     url:
       "https://www.thebuyzaarmart.com/bareilly/franchise-opportunity-in-bareilly",
     siteName: "The Buyzaar Mart",
@@ -25,7 +25,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Franchise Opportunity in Bareilly – The Buyzaar Mart | Start from ₹15 Lakh",
+        alt: "Franchise Opportunity in Bareilly – The Buyzaar Mart | Start from ₹18.5 lakh",
       },
     ],
     locale: "en_IN",
@@ -34,9 +34,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Franchise Opportunity in Bareilly – The Buyzaar Mart | Start from ₹15 Lakh",
+      "Franchise Opportunity in Bareilly – The Buyzaar Mart | Start from ₹18.5 lakh",
     description:
-      "Explore the best franchise opportunity in Bareilly with The Buyzaar Mart. FOCM model, Mini Mart from ₹15 Lakh, 18–20% gross margins, 50+ FMCG brands & full support. Apply today!",
+      "Explore the best franchise opportunity in Bareilly with The Buyzaar Mart. FOCM model, Mini Mart from ₹18.5 lakh, 18–20% gross margins, 50+ FMCG brands & full support. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

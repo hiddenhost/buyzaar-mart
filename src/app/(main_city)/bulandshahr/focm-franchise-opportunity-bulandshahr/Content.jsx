@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
   description:
-    "Start a FOCM supermarket franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹15 Lakh, full setup, POS and training support. Apply today.",
+    "Start a FOCM supermarket franchise in Bulandshahr with The Buyzaar Mart. Investment from ₹18.5 lakh, full setup, POS and training support. Apply today.",
   url: "https://www.thebuyzaarmart.com/bulandshahr/focm-franchise-opportunity-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A 600–1000 sq ft FOCM franchise format for residential colonies, market lanes and smaller towns, with total investment typically between ₹15 Lakh and ₹20 Lakh.",
+          "A 600–1000 sq ft FOCM franchise format for residential colonies, market lanes and smaller towns, with total investment typically between ₹18.5 lakh and ₹20 Lakh.",
       },
       {
         "@type": "Offer",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much does a Mini Mart cost in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹15 Lakh to ₹20 Lakh, depending on size, location and interior work.",
+        text: "Roughly ₹18.5 lakh to ₹20 Lakh, depending on size, location and interior work.",
       },
     },
     {
@@ -144,7 +144,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>Bulandshahr is a growing district in western Uttar Pradesh, close to the Delhi-NCR belt, where families are moving from unorganised kirana buying to clean, branded and fairly priced supermarkets. The Buyzaar Mart FOCM franchise lets you tap into that shift with a ready system.</li>
               <li>FOCM stands for Franchise Owned, Company Managed. You own the outlet and fund the setup, while The Buyzaar Mart manages branding, technology, SOPs, training and performance systems so you do not have to build retail operations from scratch.</li>
-              <li>Investment starts from ₹15 Lakh for a Mini Mart of 600–1000 sq ft, with an average margin range of 18–20% depending on location, store size and sales volume.</li>
+              <li>Investment starts from ₹18.5 lakh for a Mini Mart of 600–1000 sq ft, with an average margin range of 18–20% depending on location, store size and sales volume.</li>
               <li>This page explains the model, investment, support, store formats and application steps for investors in Bulandshahr, Khurja, Sikandrabad, Siyana, Anupshahr, Dibai and nearby towns.</li>
             </ul>
 
@@ -200,7 +200,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart (600–1000 sq ft)</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Best suited for residential colonies, market lanes and smaller towns. Categories include personal care, beverages, grocery and staples, homecare and hygiene, stationery, and snacks and biscuits.</li>
-              <li>Total investment typically ranges between ₹15 Lakh and ₹20 Lakh, depending on store size, arrangement, location and the amount of work needed.</li>
+              <li>Total investment typically ranges between ₹18.5 lakh and ₹20 Lakh, depending on store size, arrangement, location and the amount of work needed.</li>
             </ul>
 
             <h3 className="font-medium text-gray-900">Super Mart (1000–3000 sq ft)</h3>
@@ -220,7 +220,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>The total investment includes stock, interior, software fee, franchise fee (inclusive of 18% GST) and a security deposit, all shown in the calculator for your chosen format.</li>
-              <li>A Mini Mart usually needs ₹15 Lakh to ₹20 Lakh. Super Mart and Hyper Mart investments scale with area and can be confirmed with the franchise team.</li>
+              <li>A Mini Mart usually needs ₹18.5 lakh to ₹20 Lakh. Super Mart and Hyper Mart investments scale with area and can be confirmed with the franchise team.</li>
               <li>Plan working capital for monthly rent, staff salaries and electricity, since these remain with the franchisee under the FOCM model.</li>
               <li>A minimum of 600 sq ft carpet area is required, and the premises can be owned or rented with valid property documents.</li>
             </ul>
@@ -362,7 +362,7 @@ const Content = () => {
                   How much does a Mini Mart cost in Bulandshahr?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹15 Lakh to ₹20 Lakh, depending on size, location and interior work.
+                  Roughly ₹18.5 lakh to ₹20 Lakh, depending on size, location and interior work.
                 </p>
               </div>
 

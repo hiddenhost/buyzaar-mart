@@ -75,12 +75,12 @@ const MainBanner = () => {
       <div
         id="home"
         className="relative w-full 
-                  h-[40vh]
-             md:h-[75vh] md:min-h-[500px]
-             lg:h-[80vh] lg:min-h-[580px]
-             xl:h-[85vh] xl:min-h-[680px]
-             2xl:h-[85vh] 2xl:min-h-[780px]
-             overflow-hidden bg-gray-50"
+              h-[32vh]
+              md:h-[60vh] md:min-h-[400px]
+              lg:h-[64vh] lg:min-h-[460px]
+              xl:h-[68vh] xl:min-h-[540px]
+              2xl:h-[70vh] 2xl:min-h-[620px]
+              overflow-hidden bg-gray-50"
       >
         {/* Slides Container */}
         <div
@@ -100,8 +100,7 @@ const MainBanner = () => {
                   fill
                   priority={index === 0}
                   sizes="100vw"
-                  className="object-cover"
-                  style={{ objectPosition: "center center" }}
+                  className="w-full h-full object-fill md:object-fill"
                 />
               </div>
 
@@ -113,8 +112,7 @@ const MainBanner = () => {
                   fill
                   priority={index === 0}
                   sizes="100vw"
-                  className="object-cover"
-                  style={{ objectPosition: "center center" }}
+                  className="w-full h-full object-fill"
                 />
               </div>
             </div>
@@ -190,10 +188,10 @@ const MainBanner = () => {
     </div>
 
         
-      <div className="w-full bg-black h-12 py-2 ">
-       <h2 className="text-center text-white font-semibold text-2xl sm:text-3xl md:text-4xl lg:text-2xl tracking-tight">
+      <div className="w-full bg-black py-1.5 flex items-center justify-center">
+       <h2 className="text-center text-white font-semibold text-sm sm:text-base md:text-lg tracking-normal leading-tight">
          The Retail Revolution Starts Here!
-         </h2>
+       </h2>
       </div> 
       
       </>

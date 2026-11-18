@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Enquiry Kanpur — The Buyzaar Mart",
   description:
-    "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from ₹18.5 lakh with FOCM and FOCO models, full brand support, POS system, supply chain, and training.",
+    "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 Lakh with FOCM and FOCO models, full brand support, POS system, supply chain, and training.",
   url: "https://www.thebuyzaarmart.com/kanpur/franchise-enquiry-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from approximately ₹18.5 lakh for a Mini Mart format and goes up to ₹1.5 crore or more for a large Hyper Mart, depending on store size and location.",
+        text: "Investment starts from approximately 18.5 Lakh for a Mini Mart format and goes up to ₹1.5 crore or more for a large Hyper Mart, depending on store size and location.",
       },
     },
     {
@@ -445,7 +445,7 @@ const Content = () => {
                   franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from approximately ₹18.5 lakh for a Mini Mart
+                  Investment starts from approximately 18.5 Lakh for a Mini Mart
                   format and can go up to ₹1.5 crore or more for a large Hyper
                   Mart, depending on store size and location.
                 </p>

@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the total investment required to start a Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Buyzaar Mart franchise investment starts from ₹18.5 lakh. The exact amount depends on your preferred store format — Mini Mart, Super Mart, or Hyper Mart — and your chosen location in Lucknow.",
+        text: "The Buyzaar Mart franchise investment starts from 18.5 Lakh. The exact amount depends on your preferred store format — Mini Mart, Super Mart, or Hyper Mart — and your chosen location in Lucknow.",
       },
     },
     {
@@ -427,7 +427,7 @@ const Content = () => {
             </p>
 
             <ul className="ml-4 list-inside list-disc space-y-2">
-              <li>Franchise investment starting from ₹18.5 lakh</li>
+              <li>Franchise investment starting from 18.5 Lakh</li>
               <li>Multiple store formats available: Mini Mart, Super Mart, and Hyper Mart</li>
               <li>Complete setup and launch support included</li>
               <li>
@@ -569,7 +569,7 @@ const Content = () => {
                   Q1. What is the total investment required to start a Buyzaar Mart franchise in Lucknow?
                 </h3>
                 <p className="mt-2">
-                  The Buyzaar Mart franchise investment starts from ₹18.5 lakh. The exact
+                  The Buyzaar Mart franchise investment starts from 18.5 Lakh. The exact
                   amount depends on your preferred store format &mdash; Mini Mart,
                   Super Mart, or Hyper Mart &mdash; and your chosen location in Lucknow.
                   Visit{" "}

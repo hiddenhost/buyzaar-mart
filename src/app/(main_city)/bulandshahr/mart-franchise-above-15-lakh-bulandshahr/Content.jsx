@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Above ₹18.5 lakh in Bulandshahr | The Buyzaar Mart",
+  name: "Mart Franchise Above 18.5 Lakh in Bulandshahr | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers Super Mart and Hyper Mart franchise opportunities in Bulandshahr with investments above ₹18.5 lakh, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support for larger-format retail stores.",
+    "The Buyzaar Mart offers Super Mart and Hyper Mart franchise opportunities in Bulandshahr with investments above 18.5 Lakh, FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support for larger-format retail stores.",
   url: "https://www.thebuyzaarmart.com/bulandshahr/mart-franchise-above-15-lakh-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,13 +31,13 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "Mid-to-large grocery franchise format (1,001–3,000 sq. ft.) suited for larger residential catchments and main market locations in Bulandshahr, requiring investment above ₹18.5 lakh.",
+          "Mid-to-large grocery franchise format (1,001–3,000 sq. ft.) suited for larger residential catchments and main market locations in Bulandshahr, requiring investment above 18.5 Lakh.",
       },
       {
         "@type": "Offer",
         name: "Hyper Mart",
         description:
-          "Large-format supermarket franchise (3,001+ sq. ft.) for high-footfall commercial zones and township market areas in Bulandshahr, designed for investors ready to invest above ₹18.5 lakh.",
+          "Large-format supermarket franchise (3,001+ sq. ft.) for high-footfall commercial zones and township market areas in Bulandshahr, designed for investors ready to invest above 18.5 Lakh.",
       },
     ],
   },
@@ -49,7 +49,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What formats are available for a franchise above ₹18.5 lakh in Bulandshahr?",
+      name: "What formats are available for a franchise above 18.5 Lakh in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Investors at this level typically choose between the Super Mart format (1,001–3,000 sq. ft.) and the Hyper Mart format (3,001 sq. ft. and above), depending on location and catchment strength.",
@@ -120,11 +120,11 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Above ₹18.5 lakh in Bulandshahr – The Buyzaar Mart
+              Mart Franchise Above 18.5 Lakh in Bulandshahr – The Buyzaar Mart
             </h1>
 
             <p>
-              Entrepreneurs in Bulandshahr who are ready to invest beyond the entry-level format have a strong opportunity with The Buyzaar Mart. For those looking to build a bigger retail presence from the start, a mart franchise above ₹18.5 lakh unlocks larger store formats, wider product ranges, and stronger long-term earning potential in one of western Uttar Pradesh&apos;s fastest-developing retail markets.
+              Entrepreneurs in Bulandshahr who are ready to invest beyond the entry-level format have a strong opportunity with The Buyzaar Mart. For those looking to build a bigger retail presence from the start, a mart franchise above 18.5 Lakh unlocks larger store formats, wider product ranges, and stronger long-term earning potential in one of western Uttar Pradesh&apos;s fastest-developing retail markets.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -141,7 +141,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Store Formats Available Above ₹18.5 lakh
+              Store Formats Available Above 18.5 Lakh
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -193,7 +193,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Who Should Consider a Franchise Above ₹18.5 lakh
+              Who Should Consider a Franchise Above 18.5 Lakh
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -218,7 +218,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              How to Apply for a Mart Franchise Above ₹18.5 lakh in Bulandshahr
+              How to Apply for a Mart Franchise Above 18.5 Lakh in Bulandshahr
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -250,7 +250,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  What formats are available for a franchise above ₹18.5 lakh in Bulandshahr?
+                  What formats are available for a franchise above 18.5 Lakh in Bulandshahr?
                 </h3>
                 <p className="mt-2">
                   Investors at this level typically choose between the Super Mart format (1,001–3,000 sq. ft.) and the Hyper Mart format (3,001 sq. ft. and above), depending on location and catchment strength.

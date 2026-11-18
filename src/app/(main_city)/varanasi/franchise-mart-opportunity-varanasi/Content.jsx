@@ -74,7 +74,7 @@ const faqSchema = {
       name: "How much investment is needed for a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Mini Mart starts at approximately ₹18.5 lakh, Super Mart starts around ₹26.6 lakh, and Hyper Mart starts around ₹78.9 lakh.",
+        text: "Mini Mart starts at approximately 18.5 Lakh, Super Mart starts around ₹26.6 lakh, and Hyper Mart starts around ₹78.9 lakh.",
       },
     },
     {
@@ -318,7 +318,7 @@ const Content = () => {
                   Q3. How much investment is needed for a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  Investment varies by format: Mini Mart starts at approximately ₹18.5 lakh, Super Mart starts around ₹26.6 lakh, and Hyper Mart starts around ₹78.9 lakh.
+                  Investment varies by format: Mini Mart starts at approximately 18.5 Lakh, Super Mart starts around ₹26.6 lakh, and Hyper Mart starts around ₹78.9 lakh.
                 </p>
               </div>
 

@@ -8,7 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Model Retail Store in Rampur | The Buyzaar Mart",
   description:
-    "Own a FOCO model retail store in Rampur with The Buyzaar Mart. Company-run operations, POS billing and launch support. Total investment from ₹18.5 lakh.",
+    "Own a FOCO model retail store in Rampur with The Buyzaar Mart. Company-run operations, POS billing and launch support. Total investment from 18.5 Lakh.",
   url: "https://www.thebuyzaarmart.com/rampur/foco-model-retail-store-rampur",
   telephone: "+919217991727",
   address: {
@@ -67,7 +67,7 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart store?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The franchise starts from ₹18.5 lakh as a total investment. The final figure depends on store format and area, so confirm it with the team.",
+        text: "The franchise starts from 18.5 Lakh as a total investment. The final figure depends on store format and area, so confirm it with the team.",
       },
     },
     {
@@ -257,7 +257,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Starting Investment</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart franchise starts from ₹18.5 lakh as a total investment, and the final figure depends on the store format and the area you select for your Rampur outlet.
+                The Buyzaar Mart franchise starts from 18.5 Lakh as a total investment, and the final figure depends on the store format and the area you select for your Rampur outlet.
               </li>
               <li>
                 This total covers the full setup of a working store, including stock, interior, software, franchise fee with GST and security deposit, so you can plan one clear budget instead of chasing separate costs.
@@ -501,7 +501,7 @@ const Content = () => {
                   Q2. What is the total investment for a Buyzaar Mart store?
                 </h3>
                 <p className="mt-2">
-                  The franchise starts from ₹18.5 lakh as a total investment. The final figure depends on store format and area, so confirm it with the team.
+                  The franchise starts from 18.5 Lakh as a total investment. The final figure depends on store format and area, so confirm it with the team.
                 </p>
               </div>
 
@@ -565,7 +565,7 @@ const Content = () => {
                   The Buyzaar Mart offers a FOCO model retail store in Rampur, where you own the outlet while the company manages daily operations.
                 </li>
                 <li>
-                  Total investment starts from ₹18.5 lakh, with POS billing, launch support, supply systems and training.
+                  Total investment starts from 18.5 Lakh, with POS billing, launch support, supply systems and training.
                 </li>
                 <li>
                   Submit an inquiry on thebuyzaarmart.com or call{" "}

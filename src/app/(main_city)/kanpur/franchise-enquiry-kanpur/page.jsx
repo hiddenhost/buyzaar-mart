@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Franchise Enquiry Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
   description:
-    "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+    "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 Lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/franchise-enquiry-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Franchise Enquiry Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
     description:
-      "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+      "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 Lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
     url: "https://www.thebuyzaarmart.com/kanpur/franchise-enquiry-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Franchise Enquiry Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
     description:
-      "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+      "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 Lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

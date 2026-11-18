@@ -4,17 +4,17 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Daily Needs Store Franchise kanpur | The Buyzaar Mart — Start from ₹18.5 lakh",
+  title: "Daily Needs Store Franchise kanpur | The Buyzaar Mart — Start from 18.5 Lakh",
   description:
-    "Open a daily needs store franchise in Kanpur with The Buyzaar Mart. FOCM model, ₹18.5 lakh investment, minimart breakdown, full setup & marketing support included. Apply today!",
+    "Open a daily needs store franchise in Kanpur with The Buyzaar Mart. FOCM model, 18.5 Lakh investment, minimart breakdown, full setup & marketing support included. Apply today!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/daily-needs-store-franchise-in-kanpur",
   },
   openGraph: {
-    title: "Daily Needs Store Franchise kanpur | The Buyzaar Mart — Start from ₹18.5 lakh",
+    title: "Daily Needs Store Franchise kanpur | The Buyzaar Mart — Start from 18.5 Lakh",
     description:
-      "Open a daily needs store franchise in Kanpur with The Buyzaar Mart. FOCM model, ₹18.5 lakh investment, minimart breakdown, full setup & marketing support included. Apply today!",
+      "Open a daily needs store franchise in Kanpur with The Buyzaar Mart. FOCM model, 18.5 Lakh investment, minimart breakdown, full setup & marketing support included. Apply today!",
     url: "https://www.thebuyzaarmart.com/kanpur/daily-needs-store-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -30,9 +30,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Daily Needs Store Franchise kanpur | The Buyzaar Mart — Start from ₹18.5 lakh",
+    title: "Daily Needs Store Franchise kanpur | The Buyzaar Mart — Start from 18.5 Lakh",
     description:
-      "Open a daily needs store franchise in Kanpur with The Buyzaar Mart. FOCM model, ₹18.5 lakh investment, minimart breakdown, full setup & marketing support included. Apply today!",
+      "Open a daily needs store franchise in Kanpur with The Buyzaar Mart. FOCM model, 18.5 Lakh investment, minimart breakdown, full setup & marketing support included. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

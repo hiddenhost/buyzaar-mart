@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Buyzaar Mart FOCM Franchise in Mathura | Company-Managed Retail Model",
   description:
-    "Own a Buyzaar Mart FOCM franchise in Mathura — company-managed retail model with balanced involvement, ₹18.5 lakh investment, and full operational support.",
+    "Own a Buyzaar Mart FOCM franchise in Mathura — company-managed retail model with balanced involvement, 18.5 Lakh investment, and full operational support.",
   keywords: [
     "Buyzaar Mart FOCM franchise Mathura",
     "FOCM franchise model India",
@@ -40,7 +40,7 @@ export const metadata = {
     title:
       "Buyzaar Mart FOCM Franchise in Mathura | Company-Managed Retail Model",
     description:
-      "Own a Buyzaar Mart FOCM franchise in Mathura — company-managed retail model with balanced involvement, ₹18.5 lakh investment, and full operational support.",
+      "Own a Buyzaar Mart FOCM franchise in Mathura — company-managed retail model with balanced involvement, 18.5 Lakh investment, and full operational support.",
     url: "https://www.thebuyzaarmart.com/mathura/buyzaar-mart-focm-franchise-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     title:
       "Buyzaar Mart FOCM Franchise in Mathura | Company-Managed Retail Model",
     description:
-      "Own a Buyzaar Mart FOCM franchise in Mathura — company-managed retail model with balanced involvement, ₹18.5 lakh investment, and full operational support.",
+      "Own a Buyzaar Mart FOCM franchise in Mathura — company-managed retail model with balanced involvement, 18.5 Lakh investment, and full operational support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

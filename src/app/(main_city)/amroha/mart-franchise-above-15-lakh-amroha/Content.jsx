@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Above 18.5 lakh in Amroha | Buyzaar Mart",
   description:
-    "Planning a mart franchise above ₹18.5 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
+    "Planning a mart franchise above 18.5 Lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
   url: "https://www.thebuyzaarmart.com/amroha/mart-franchise-above-15-lakh-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -26,7 +26,7 @@ const localBusinessSchema = {
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Franchise Formats Above ₹18.5 lakh in Amroha",
+    name: "Buyzaar Mart Franchise Formats Above 18.5 Lakh in Amroha",
     itemListElement: [
       {
         "@type": "Offer",
@@ -56,10 +56,10 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is the investment for a mart franchise above ₹18.5 lakh in Amroha?",
+      name: "What is the investment for a mart franchise above 18.5 Lakh in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The grocery franchise starts from a total of ₹18.5 lakh, and larger formats or bigger shops need a higher total, which the team confirms after reviewing your site.",
+        text: "The grocery franchise starts from a total of 18.5 Lakh, and larger formats or bigger shops need a higher total, which the team confirms after reviewing your site.",
       },
     },
     {
@@ -136,7 +136,7 @@ const Content = () => {
             </h1>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Consider a Mart Franchise Above ₹18.5 lakh in Amroha
+              Why Consider a Mart Franchise Above 18.5 Lakh in Amroha
             </h2>
 
             <h3 className="font-medium text-gray-900">
@@ -145,7 +145,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                A mart franchise above ₹18.5 lakh lets you plan a bigger store with
+                A mart franchise above 18.5 Lakh lets you plan a bigger store with
                 more categories, more shelf space and a stronger first
                 impression, which can help your Amroha outlet become the main
                 grocery destination for nearby families.
@@ -183,7 +183,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What &quot;Above ₹18.5 lakh&quot; Means with The Buyzaar Mart
+              What &quot;Above 18.5 Lakh&quot; Means with The Buyzaar Mart
             </h2>
 
             <h3 className="font-medium text-gray-900">
@@ -193,8 +193,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart grocery franchise starts from a total
-                investment of ₹18.5 lakh, and its FAQ page says a Mini Mart of 600
-                to 1000 sq ft generally falls between ₹18.5 lakh and ₹20 lakh in
+                investment of 18.5 Lakh, and its FAQ page says a Mini Mart of 600
+                to 1000 sq ft generally falls between 18.5 Lakh and ₹20 lakh in
                 total.
               </li>
               <li>
@@ -690,11 +690,11 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  What is the investment for a mart franchise above ₹18.5 lakh in
+                  What is the investment for a mart franchise above 18.5 Lakh in
                   Amroha?
                 </h3>
                 <p className="mt-2">
-                  The grocery franchise starts from a total of ₹18.5 lakh, and
+                  The grocery franchise starts from a total of 18.5 Lakh, and
                   larger formats or bigger shops need a higher total, which the
                   team confirms after reviewing your site.
                 </p>
@@ -764,7 +764,7 @@ const Content = () => {
 
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  Explore a Buyzaar Mart franchise above ₹18.5 lakh in Amroha with
+                  Explore a Buyzaar Mart franchise above 18.5 Lakh in Amroha with
                   Super Mart and Hyper Mart formats.
                 </li>
                 <li>

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Branded Grocery Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-    "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from ₹18.5 lakh. Apply today!",
+    "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5 Lakh. Apply today!",
   keywords: [
     "branded grocery franchise gorakhpur",
     "branded grocery franchise in gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Branded Grocery Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-      "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from ₹18.5 lakh. Apply today!",
+      "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5 Lakh. Apply today!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/branded-grocery-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Branded Grocery Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-      "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from ₹18.5 lakh. Apply today!",
+      "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5 Lakh. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

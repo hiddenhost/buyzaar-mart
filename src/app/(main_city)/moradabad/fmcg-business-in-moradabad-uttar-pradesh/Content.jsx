@@ -82,7 +82,7 @@ const faqSchema = {
             name: "What is the minimum investment required?",
             acceptedAnswer: {
                 "@type": "Answer",
-                text: "A Mini Mart franchise starts from approximately ₹18.5 lakh, depending on location and size.",
+                text: "A Mini Mart franchise starts from approximately 18.5 Lakh, depending on location and size.",
             },
         },
         {
@@ -252,7 +252,7 @@ const Content = () => {
                         <h3 className="font-medium text-gray-900">1. Mini Mart</h3>
                         <ul className="list-disc space-y-2 pl-6">
                             <li>Area required: approximately 600 to 1,000 sq. ft.</li>
-                            <li>Approximate investment: ₹18.5 lakh to ₹25 lakh, depending on location, size, and store condition.</li>
+                            <li>Approximate investment: 18.5 Lakh to ₹25 lakh, depending on location, size, and store condition.</li>
                             <li>Best suited for: residential colonies, housing societies, and neighbourhood-level markets in Moradabad.</li>
                             <li>Product focus: groceries, packaged food, dairy, beverages, personal care, and household essentials — the core high-frequency FMCG categories.</li>
                             <li>Ideal entry point for first-time entrepreneurs, homemakers, or investors with a smaller commercial space.</li>
@@ -325,7 +325,7 @@ const Content = () => {
                         </h2>
 
                         <ul className="list-disc space-y-2 pl-6">
-                            <li>Low, relatively transparent entry investment starting from approximately ₹18.5 lakh for a Mini Mart.</li>
+                            <li>Low, relatively transparent entry investment starting from approximately 18.5 Lakh for a Mini Mart.</li>
                             <li>Access to a direct sourcing network of 50+ FMCG brands, improving product availability and pricing.</li>
                             <li>Choice of an active (FOCM) or passive (FOCO) involvement model to suit different investor profiles.</li>
                             <li>End-to-end operational support — no prior FMCG or retail experience required.</li>
@@ -381,7 +381,7 @@ const Content = () => {
 
                             <div>
                                 <h3 className="font-medium text-gray-900">Q4. What is the minimum investment required?</h3>
-                                <p className="mt-2">A Mini Mart franchise starts from approximately ₹18.5 lakh, depending on location and size.</p>
+                                <p className="mt-2">A Mini Mart franchise starts from approximately 18.5 Lakh, depending on location and size.</p>
                             </div>
 
                             <div>

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Model Grocery Store in Hapur | Buyzaar Mart Franchise",
   description:
-    "Open a FOCM model grocery store in Hapur with The Buyzaar Mart. Total investment from ₹18.5 lakh with setup, supply chain, POS and full support. Apply now.",
+    "Open a FOCM model grocery store in Hapur with The Buyzaar Mart. Total investment from 18.5 Lakh with setup, supply chain, POS and full support. Apply now.",
   url: "https://www.thebuyzaarmart.com/hapur/focm-model-grocery-store-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart in Hapur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Total investment starts from ₹18.5 lakh, and the final total depends on your store format and area.",
+        text: "Total investment starts from 18.5 Lakh, and the final total depends on your store format and area.",
       },
     },
     {
@@ -140,7 +140,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart, &quot;Your Friendly Neighborhood Store&quot;, brings its FOCM (Franchise Owned Company Managed) grocery model to Hapur, so you can own a branded neighbourhood supermarket without handling day-to-day retail complexity yourself.</li>
               <li>Hapur sits on the Delhi–Meerut corridor and is part of the growing NCR belt. Households here are moving from unorganised kirana buying to organised, fixed-price, branded shopping, and a well-run mart can capture that shift.</li>
-              <li>With total investment starting from ₹18.5 lakh, The Buyzaar Mart offers one of the more accessible entry points into organised grocery retail, with setup, supply chain, POS billing and ongoing support included in the model.</li>
+              <li>With total investment starting from 18.5 Lakh, The Buyzaar Mart offers one of the more accessible entry points into organised grocery retail, with setup, supply chain, POS billing and ongoing support included in the model.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -194,7 +194,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Total investment starts from ₹18.5 lakh, making this a low-investment grocery franchise compared with many national supermarket formats that demand significantly higher capital.</li>
+              <li>Total investment starts from 18.5 Lakh, making this a low-investment grocery franchise compared with many national supermarket formats that demand significantly higher capital.</li>
               <li>The final total depends on your chosen store format and area, so a Mini Mart will differ from a Super Mart or Hyper Mart, and the franchise team will share the exact total after understanding your location and size.</li>
               <li>The website&apos;s investment calculator lets you estimate the total by selecting a store type and area between 600 and 8,000 sq ft, giving you a quick idea before you speak to the team.</li>
               <li>Ask for the brochure for full details. You can download it from the Franchise page and discuss your budget directly with the franchise team, so planning is clear from the start.</li>
@@ -308,7 +308,7 @@ const Content = () => {
                   What is the total investment for a Buyzaar Mart in Hapur?
                 </h3>
                 <p className="mt-2">
-                  Total investment starts from ₹18.5 lakh, and the final total depends on your store format and area.
+                  Total investment starts from 18.5 Lakh, and the final total depends on your store format and area.
                 </p>
               </div>
 

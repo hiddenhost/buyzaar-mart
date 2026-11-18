@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Retail Franchise in Kanpur - The Buyzaar Mart",
   description:
-    "Explore retail franchise opportunities in Kanpur with The Buyzaar Mart. Learn about FOCM and FOCO models, store formats, investment from ₹18.5 lakh, company support, and how to apply.",
+    "Explore retail franchise opportunities in Kanpur with The Buyzaar Mart. Learn about FOCM and FOCO models, store formats, investment from 18.5 Lakh, company support, and how to apply.",
   url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required to apply for a retail franchise in Kanpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from ₹18.5 lakh under the FOCM (Franchise Owned, Company Managed) model.",
+        text: "The minimum investment starts from 18.5 Lakh under the FOCM (Franchise Owned, Company Managed) model.",
       },
     },
     {
@@ -549,7 +549,7 @@ const Content = () => {
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
-                <strong>Low Entry Investment:</strong> Starting from ₹18.5 lakh,
+                <strong>Low Entry Investment:</strong> Starting from 18.5 Lakh,
                 the FOCM model is accessible to a wider pool of investors
                 compared with many organised retail franchises.
               </li>
@@ -591,7 +591,7 @@ const Content = () => {
                   franchise in Kanpur with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from ₹18.5 lakh under the FOCM
+                  The minimum investment starts from 18.5 Lakh under the FOCM
                   (Franchise Owned, Company Managed) model.
                 </p>
               </div>

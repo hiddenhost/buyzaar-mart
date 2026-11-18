@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise in Aligarh | Apply for Grocery Franchise",
   description:
-    "Apply for The Buyzaar Mart franchise in Aligarh. FOCM/FOCO models, Mini/Super/Hyper Mart formats, full training & support. Start your grocery store from ₹18.5 lakh today.",
+    "Apply for The Buyzaar Mart franchise in Aligarh. FOCM/FOCO models, Mini/Super/Hyper Mart formats, full training & support. Start your grocery store from 18.5 Lakh today.",
   url: "https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-franchise-apply-aligarh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹18.5 lakh for a Mini Mart format of 600–1,000 sq. ft.",
+        text: "Investment starts from 18.5 Lakh for a Mini Mart format of 600–1,000 sq. ft.",
       },
     },
     {
@@ -183,7 +183,7 @@ const Content = () => {
               Store Formats and Investment Required
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: A compact format suited to residential lanes and mid-density localities, typically needing 600–1,000 sq. ft., with investment starting from ₹18.5 lakh, ideal for a first store in a quieter Aligarh colony.</li>
+              <li>Mini Mart: A compact format suited to residential lanes and mid-density localities, typically needing 600–1,000 sq. ft., with investment starting from 18.5 Lakh, ideal for a first store in a quieter Aligarh colony.</li>
               <li>Super Mart: A mid-sized format for busier markets or wider residential catchments, offering a larger product range than a Mini Mart and suited to areas with higher daily footfall.</li>
               <li>Hyper Mart: A large-format store of 3,000 sq. ft. and above, positioned as a complete shopping destination for groceries, household items, and personal care products.</li>
               <li>Franchise partners can generally expect a profit margin in the 18% to 20% range on sales, depending on store size, location, and monthly footfall — figures that tend to improve as the outlet builds a loyal repeat-customer base.</li>
@@ -263,7 +263,7 @@ const Content = () => {
                   Q1. What is the minimum investment to start a Buyzaar Mart franchise in Aligarh?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹18.5 lakh for a Mini Mart format of 600–1,000 sq. ft.
+                  Investment starts from 18.5 Lakh for a Mini Mart format of 600–1,000 sq. ft.
                 </p>
               </div>
 

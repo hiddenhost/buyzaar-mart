@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Supermarket Franchise Opportunity Hapur | Buyzaar Mart",
   description:
-    "Open a supermarket franchise in Hapur with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCM and FOCO models, full support. Total investment from ₹18.5 lakh. Apply now.",
+    "Open a supermarket franchise in Hapur with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCM and FOCO models, full support. Total investment from 18.5 Lakh. Apply now.",
   url: "https://www.thebuyzaarmart.com/hapur/supermarket-franchise-opportunity-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the total investment for a supermarket franchise in Hapur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹18.5 lakh and grows with format size and model. Use the website calculator.",
+        text: "It starts from 18.5 Lakh and grows with format size and model. Use the website calculator.",
       },
     },
     {
@@ -294,7 +294,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Planning Your Total</h3>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Buyzaar Mart franchises are available with a total investment starting from ₹18.5 lakh, which is the Mini Mart range. A supermarket-scale Super Mart or Hyper Mart needs a larger total, depending on model, store size and arrangement.</li>
+              <li>Buyzaar Mart franchises are available with a total investment starting from 18.5 Lakh, which is the Mini Mart range. A supermarket-scale Super Mart or Hyper Mart needs a larger total, depending on model, store size and arrangement.</li>
               <li>The website&apos;s investment calculator estimates your total for your chosen area, and the franchise team confirms the current figure during consultation.</li>
             </ul>
 
@@ -364,7 +364,7 @@ const Content = () => {
                   What is the total investment for a supermarket franchise in Hapur?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹18.5 lakh and grows with format size and model. Use the website calculator.
+                  It starts from 18.5 Lakh and grows with format size and model. Use the website calculator.
                 </p>
               </div>
 

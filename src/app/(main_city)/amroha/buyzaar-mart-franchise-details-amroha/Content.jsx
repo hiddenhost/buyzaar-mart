@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise in Amroha",
   description:
-    "Start a Buyzaar Mart supermarket franchise in Amroha from ₹18.5 lakh total investment. 18-20% gross margin, full setup, POS, training and support. Apply today.",
+    "Start a Buyzaar Mart supermarket franchise in Amroha from 18.5 Lakh total investment. 18-20% gross margin, full setup, POS, training and support. Apply today.",
   url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-details-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -59,7 +59,7 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart franchise in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart starts from ₹18.5 lakh and generally ranges up to ₹20 lakh, depending on size and location.",
+        text: "A Mini Mart starts from 18.5 Lakh and generally ranges up to ₹20 lakh, depending on size and location.",
       },
     },
     {
@@ -384,7 +384,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The total investment for a Mini Mart franchise starts from ₹15
-                lakh and generally stays within ₹18.5 lakh to ₹20 lakh, depending
+                lakh and generally stays within 18.5 Lakh to ₹20 lakh, depending
                 on store size, interior work and location.
               </li>
               <li>
@@ -658,7 +658,7 @@ const Content = () => {
                   in Amroha?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart starts from ₹18.5 lakh and generally ranges up to ₹20
+                  A Mini Mart starts from 18.5 Lakh and generally ranges up to ₹20
                   lakh, depending on size and location.
                 </p>
               </div>
@@ -741,7 +741,7 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Start a branded supermarket franchise in Amroha with a total
-                  investment starting from ₹18.5 lakh.
+                  investment starting from 18.5 Lakh.
                 </li>
                 <li>
                   Choose between FOCM and FOCO models based on your preferred

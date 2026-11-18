@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Franchise Business Investment in Mathura | The Buyzaar Mart",
   description:
-    "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from ₹18.5 lakh, FOCM and FOCO options, and full business support.",
+    "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5 Lakh, FOCM and FOCO options, and full business support.",
   keywords: [
     "franchise business investment Mathura",
     "franchise business opportunity Mathura",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Franchise Business Investment in Mathura | The Buyzaar Mart",
     description:
-      "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from ₹18.5 lakh, FOCM and FOCO options, and full business support.",
+      "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5 Lakh, FOCM and FOCO options, and full business support.",
     url: "https://www.thebuyzaarmart.com/mathura/franchise-business-investment-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Franchise Business Investment in Mathura | The Buyzaar Mart",
     description:
-      "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from ₹18.5 lakh, FOCM and FOCO options, and full business support.",
+      "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5 Lakh, FOCM and FOCO options, and full business support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

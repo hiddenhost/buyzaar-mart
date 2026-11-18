@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Organised Mart Franchise in Mathura | The Buyzaar Mart",
   description:
-    "Start an organised mart franchise in Mathura with The Buyzaar Mart. Invest from ₹18.5 lakh with POS, SOPs, supply chain, training and an 18-20% margin.",
+    "Start an organised mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh with POS, SOPs, supply chain, training and an 18-20% margin.",
   url: "https://www.thebuyzaarmart.com/mathura/organised-mart-franchise-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -164,7 +164,7 @@ const Content = () => {
                 trained staff and technology instead of guesswork.
               </li>
               <li>
-                Investment starts from ₹18.5 lakh for a Mini Mart, with an
+                Investment starts from 18.5 Lakh for a Mini Mart, with an
                 effective gross margin of 18-20% depending on location, size and
                 sales volume.
               </li>
@@ -353,7 +353,7 @@ const Content = () => {
                 homecare and hygiene, stationery, snacks and biscuits.
               </li>
               <li>
-                Total investment usually ranges from ₹18.5 lakh to ₹20 lakh,
+                Total investment usually ranges from 18.5 Lakh to ₹20 lakh,
                 depending on size, layout and site work.
               </li>
             </ul>

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Model Franchise in Mathura | The Buyzaar Mart",
   description:
-    "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from ₹18.5 lakh onwards.",
+    "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 Lakh onwards.",
   keywords: [
     "foco model franchise Mathura",
     "franchise owned company operated",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "FOCO Model Franchise in Mathura | The Buyzaar Mart",
     description:
-      "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from ₹18.5 lakh onwards.",
+      "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 Lakh onwards.",
     url: "https://www.thebuyzaarmart.com/mathura/foco-model-franchise-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Model Franchise in Mathura | The Buyzaar Mart",
     description:
-      "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from ₹18.5 lakh onwards.",
+      "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 Lakh onwards.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

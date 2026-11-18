@@ -5,9 +5,9 @@ import Services from "@/app/components/Services";
 
 
 export const metadata = {
-  title: "Mart Franchise Above ₹18.5 lakh in Rampur | The Buyzaar Mart",
+  title: "Mart Franchise Above 18.5 Lakh in Rampur | The Buyzaar Mart",
   description:
-    "Start a mart franchise above ₹18.5 lakh in Rampur with The Buyzaar Mart. Choose Mini, Super or Hyper Mart with POS, supply chain, training and marketing support.",
+    "Start a mart franchise above 18.5 Lakh in Rampur with The Buyzaar Mart. Choose Mini, Super or Hyper Mart with POS, supply chain, training and marketing support.",
   keywords: [
     "mart franchise above 18.5 lakh rampur",
     "mart franchise rampur",
@@ -37,9 +37,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/rampur/mart-franchise-above-15-lakh-rampur",
   },
   openGraph: {
-    title: "Mart Franchise Above ₹18.5 lakh in Rampur | The Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 Lakh in Rampur | The Buyzaar Mart",
     description:
-      "Start a mart franchise above ₹18.5 lakh in Rampur with The Buyzaar Mart. Choose Mini, Super or Hyper Mart with POS, supply chain, training and marketing support.",
+      "Start a mart franchise above 18.5 Lakh in Rampur with The Buyzaar Mart. Choose Mini, Super or Hyper Mart with POS, supply chain, training and marketing support.",
     url: "https://www.thebuyzaarmart.com/rampur/mart-franchise-above-15-lakh-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -47,7 +47,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Above ₹18.5 lakh in Rampur | The Buyzaar Mart",
+        alt: "Mart Franchise Above 18.5 Lakh in Rampur | The Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -55,9 +55,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Above ₹18.5 lakh in Rampur | The Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 Lakh in Rampur | The Buyzaar Mart",
     description:
-      "Start a mart franchise above ₹18.5 lakh in Rampur with The Buyzaar Mart. Choose Mini, Super or Hyper Mart with POS, supply chain, training and marketing support.",
+      "Start a mart franchise above 18.5 Lakh in Rampur with The Buyzaar Mart. Choose Mini, Super or Hyper Mart with POS, supply chain, training and marketing support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

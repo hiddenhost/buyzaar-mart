@@ -64,7 +64,7 @@ const faqSchema = {
       name: "What is the minimum investment for a retail franchise with The Buyzaar Mart in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from approximately ₹18.5 lakh for a Mini Mart under the FOCM model. Super Mart formats generally require ₹25 lakh and above depending on store size and location.",
+        text: "The minimum investment starts from approximately 18.5 Lakh for a Mini Mart under the FOCM model. Super Mart formats generally require ₹25 lakh and above depending on store size and location.",
       },
     },
     {
@@ -333,7 +333,7 @@ const Content = () => {
             </p>
 
             <p>
-              Approximate total investment for a Mini Mart ranges from ₹18.5 lakh to ₹25 lakh
+              Approximate total investment for a Mini Mart ranges from 18.5 Lakh to ₹25 lakh
               depending on location, store size, and market conditions. The Mini Mart is
               available under the FOCM model.
             </p>
@@ -402,7 +402,7 @@ const Content = () => {
                   <tr>
                     <td className="border border-gray-200 px-4 py-3">Mini Mart (FOCM)</td>
                     <td className="border border-gray-200 px-4 py-3">300 to 800 sq ft</td>
-                    <td className="border border-gray-200 px-4 py-3">₹18.5 lakh to ₹25 lakh</td>
+                    <td className="border border-gray-200 px-4 py-3">18.5 Lakh to ₹25 lakh</td>
                     <td className="border border-gray-200 px-4 py-3">
                       First-time investors and residential neighbourhood locations
                     </td>
@@ -546,7 +546,7 @@ const Content = () => {
                   Mart in Lucknow?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from approximately ₹18.5 lakh for a Mini Mart
+                  The minimum investment starts from approximately 18.5 Lakh for a Mini Mart
                   under the FOCM model. Super Mart formats typically require ₹25 lakh and
                   above depending on store size and location.
                 </p>

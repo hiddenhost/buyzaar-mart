@@ -50,7 +50,7 @@ const faqSchema = {
       name: "What is the minimum investment for each model?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "FOCM starts from ₹18.5 lakh for smaller formats. FOCO requires a larger investment depending on store size, interior setup, stocking, POS software, and franchise fee.",
+        text: "FOCM starts from 18.5 Lakh for smaller formats. FOCO requires a larger investment depending on store size, interior setup, stocking, POS software, and franchise fee.",
       },
     },
     {
@@ -164,7 +164,7 @@ const Content = () => {
             <p>
               The brand positions itself as &quot;Your Friendly Neighbourhood Store&quot;
               and promotes a grocery franchise opportunity with investment
-              starting from ₹18.5 lakh. The broader offer highlights setup
+              starting from 18.5 Lakh. The broader offer highlights setup
               support, branding, POS systems, supply chain access, training, and
               marketing assistance.
             </p>
@@ -251,7 +251,7 @@ const Content = () => {
             </h3>
 
             <p>
-              The minimum investment under the FOCM model starts from ₹18.5 lakh
+              The minimum investment under the FOCM model starts from 18.5 Lakh
               for a smaller format such as Mini Mart. Higher formats like Super
               Mart require more capital depending on store size, locality, and
               stocking needs.
@@ -285,7 +285,7 @@ const Content = () => {
             </p>
 
             <p>
-              For a Mini Mart format with investment around ₹18.5 lakh to ₹20
+              For a Mini Mart format with investment around 18.5 Lakh to ₹20
               Lakh and projected monthly profits of ₹1.5 Lakh to ₹2.5 Lakh, the
               payback period is commonly estimated at 10 to 15 months.
             </p>
@@ -536,7 +536,7 @@ const Content = () => {
                   What is the minimum investment for each model?
                 </h3>
                 <p className="mt-2">
-                  FOCM starts from ₹18.5 lakh for smaller formats. FOCO requires a
+                  FOCM starts from 18.5 Lakh for smaller formats. FOCO requires a
                   significantly larger investment that depends on area, setup,
                   stocking, and the final commercial arrangement.
                 </p>

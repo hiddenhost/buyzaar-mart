@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Opportunity in Gorakhpur | The Buyzaar Mart",
   description:
-    "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from ₹18.5 lakh with full support. Apply today!",
+    "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from 18.5 Lakh with full support. Apply today!",
   url: "https://www.thebuyzaarmart.com/gorakhpur/franchise-opportunity-in-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the minimum investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A single unit starts from ₹18.5 lakh, depending on format, area, stock and interiors.",
+        text: "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
       },
     },
     {
@@ -126,7 +126,7 @@ const sections = [
     points: [
       "A franchise opportunity in Gorakhpur lets you start a business under an established brand, using tested systems and ongoing support instead of building everything alone.",
       "The Buyzaar Mart offers a grocery and supermarket franchise in three formats: Mini Mart, Super Mart and Hyper Mart.",
-      "Investment starts from ₹18.5 lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
+      "Investment starts from 18.5 Lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
       "The opportunity suits first-time entrepreneurs, salaried professionals, business owners, property owners and families.",
       "Daily-need retail is a practical category, because people buy groceries and household essentials throughout the year.",
     ],
@@ -336,7 +336,7 @@ const sections = [
       {
         title: "What the Investment Covers",
         points: [
-          "The investment starts from ₹18.5 lakh for a single unit and depends on format and area.",
+          "The investment starts from 18.5 Lakh for a single unit and depends on format and area.",
           "It covers stock, interior, software fee, franchise fee (including 18% GST) and security deposit.",
           "The investment calculator on the franchise page shows an estimate for your size.",
           "Rent for the premises is paid by the franchise partner.",
@@ -485,7 +485,7 @@ const faqs = [
   {
     question: "What is the minimum investment?",
     answer:
-      "A single unit starts from ₹18.5 lakh, depending on format, area, stock and interiors.",
+      "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
   },
   {
     question: "Do I need retail experience?",
@@ -607,7 +607,7 @@ const Content = () => {
                   support.
                 </li>
                 <li>
-                  Investment starts from ₹18.5 lakh, subject to the selected format,
+                  Investment starts from 18.5 Lakh, subject to the selected format,
                   location, store area and final franchise agreement.
                 </li>
               </ul>

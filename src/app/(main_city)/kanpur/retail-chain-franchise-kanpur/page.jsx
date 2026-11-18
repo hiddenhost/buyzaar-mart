@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Chain Franchise Kanpur | The Buyzaar Mart",
   description:
-    "Looking for a profitable retail chain franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise with full setup support, supply chain, POS, and low investment starting ₹18.5 lakh. Apply now.",
+    "Looking for a profitable retail chain franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise with full setup support, supply chain, POS, and low investment starting 18.5 Lakh. Apply now.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-in-kanpur",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "Retail Chain Franchise Kanpur | The Buyzaar Mart",
     description:
-      "Looking for a profitable retail chain franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise with full setup support, supply chain, POS, and low investment starting ₹18.5 lakh. Apply now.",
+      "Looking for a profitable retail chain franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise with full setup support, supply chain, POS, and low investment starting 18.5 Lakh. Apply now.",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Chain Franchise Kanpur | The Buyzaar Mart",
     description:
-      "Looking for a profitable retail chain franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise with full setup support, supply chain, POS, and low investment starting ₹18.5 lakh. Apply now.",
+      "Looking for a profitable retail chain franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise with full setup support, supply chain, POS, and low investment starting 18.5 Lakh. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

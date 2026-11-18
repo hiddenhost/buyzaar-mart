@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much should I invest in a grocery franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from around ₹18.5 lakh, depending on format and area. Rent and working capital are extra.",
+        text: "It starts from around 18.5 Lakh, depending on format and area. Rent and working capital are extra.",
       },
     },
     {
@@ -203,7 +203,7 @@ const Content = () => {
 
             <h3 className="font-medium text-gray-900">Mini Mart (600 to 1,000 sq ft)</h3>
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart franchise starts from around ₹18.5 lakh, and a Mini Mart can be planned in a range of roughly ₹15.25 lakh to ₹25 lakh, based on area and interior choices.</li>
+              <li>The Buyzaar Mart franchise starts from around 18.5 Lakh, and a Mini Mart can be planned in a range of roughly ₹15.25 lakh to ₹25 lakh, based on area and interior choices.</li>
               <li>Suits investors who want a lower entry cost and manageable stock levels.</li>
             </ul>
 
@@ -325,7 +325,7 @@ const Content = () => {
                   How much should I invest in a grocery franchise in Gorakhpur?
                 </h3>
                 <p className="mt-2">
-                  It starts from around ₹18.5 lakh, depending on format and area. Rent and working capital are extra.
+                  It starts from around 18.5 Lakh, depending on format and area. Rent and working capital are extra.
                 </p>
               </div>
 

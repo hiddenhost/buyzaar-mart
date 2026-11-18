@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise Gorakhpur | Grocery Franchise ₹15L",
   description:
-    "Start a Buyzaar Mart franchise in Gorakhpur from ₹18.5 lakh. FOCM and FOCO models, POS billing, supply chain, and launch support included.",
+    "Start a Buyzaar Mart franchise in Gorakhpur from 18.5 Lakh. FOCM and FOCO models, POS billing, supply chain, and launch support included.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the investment for a Buyzaar Mart franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹18.5 lakh and depends on store format and area.",
+        text: "Investment starts from 18.5 Lakh and depends on store format and area.",
       },
     },
     {
@@ -169,7 +169,7 @@ const Content = () => {
                 daily essentials at fair prices.
               </li>
               <li>
-                Investment starts from ₹18.5 lakh, and the exact amount depends
+                Investment starts from 18.5 Lakh, and the exact amount depends
                 on the store format and area you choose.
               </li>
               <li>
@@ -396,7 +396,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The franchise investment starts from ₹18.5 lakh.</li>
+              <li>The franchise investment starts from 18.5 Lakh.</li>
               <li>
                 The total varies by store type and area, and includes stock,
                 interior, software fee, franchise fee including 18% GST, and
@@ -832,7 +832,7 @@ const Content = () => {
                   Gorakhpur?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹18.5 lakh and depends on store format
+                  Investment starts from 18.5 Lakh and depends on store format
                   and area.
                 </p>
               </div>
@@ -926,7 +926,7 @@ const Content = () => {
 
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  Start a Buyzaar Mart franchise in Gorakhpur from ₹18.5 lakh.
+                  Start a Buyzaar Mart franchise in Gorakhpur from 18.5 Lakh.
                 </li>
                 <li>
                   Choose between FOCM and FOCO franchise models based on your

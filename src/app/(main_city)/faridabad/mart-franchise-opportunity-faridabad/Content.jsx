@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Opportunity in Faridabad - The Buyzaar Mart",
   description:
-    "Explore a profitable mart franchise opportunity in Faridabad with The Buyzaar Mart. Choose FOCM or FOCO models, start from ₹18.5 lakh, and get store setup, POS, backend, inventory, and marketing support.",
+    "Explore a profitable mart franchise opportunity in Faridabad with The Buyzaar Mart. Choose FOCM or FOCO models, start from 18.5 Lakh, and get store setup, POS, backend, inventory, and marketing support.",
   url: "https://www.thebuyzaarmart.com/faridabad/mart-franchise-opportunity-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required for a Buyzaar Mart franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The starting investment for a Buyzaar Mart franchise is from ₹18.5 lakh. The total investment depends on the store format and size chosen.",
+        text: "The starting investment for a Buyzaar Mart franchise is from 18.5 Lakh. The total investment depends on the store format and size chosen.",
       },
     },
     {
@@ -341,7 +341,7 @@ const Content = () => {
 
             <p>
               One of the key attractions of The Buyzaar Mart franchise is its
-              accessibility. The starting investment is from ₹18.5 lakh, making it
+              accessibility. The starting investment is from 18.5 Lakh, making it
               one of the more affordable organised supermarket franchise options
               in the NCR region.
             </p>
@@ -469,7 +469,7 @@ const Content = () => {
                   franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
-                  The starting investment is from ₹18.5 lakh. Total investment
+                  The starting investment is from 18.5 Lakh. Total investment
                   depends on the store format and size chosen.
                 </p>
               </div>

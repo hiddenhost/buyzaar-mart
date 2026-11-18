@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Franchise Business Opportunity in Lucknow | The Buyzaar Mart",
   description:
-    "Explore the best franchise business opportunity in Lucknow with The Buyzaar Mart. Start a grocery & retail store from ₹18.5 lakh with full support, FOCM model & proven brand. Apply today!",
+    "Explore the best franchise business opportunity in Lucknow with The Buyzaar Mart. Start a grocery & retail store from 18.5 Lakh with full support, FOCM model & proven brand. Apply today!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/lucknow/franchise-business-opportunity-in-lucknow",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "Franchise Business Opportunity in Lucknow | The Buyzaar Mart",
     description:
-      "Explore the best franchise business opportunity in Lucknow with The Buyzaar Mart. Start a grocery & retail store from ₹18.5 lakh with full support, FOCM model & proven brand. Apply today!",
+      "Explore the best franchise business opportunity in Lucknow with The Buyzaar Mart. Start a grocery & retail store from 18.5 Lakh with full support, FOCM model & proven brand. Apply today!",
     url: "https://www.thebuyzaarmart.com/lucknow/franchise-business-opportunity-in-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Franchise Business Opportunity in Lucknow | The Buyzaar Mart",
     description:
-      "Explore the best franchise business opportunity in Lucknow with The Buyzaar Mart. Start a grocery & retail store from ₹18.5 lakh with full support, FOCM model & proven brand. Apply today!",
+      "Explore the best franchise business opportunity in Lucknow with The Buyzaar Mart. Start a grocery & retail store from 18.5 Lakh with full support, FOCM model & proven brand. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

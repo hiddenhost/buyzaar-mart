@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "How to Get Grocery Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-    "Learn how to get a grocery franchise in Bulandshahr with The Buyzaar Mart. Start from ₹18.5 lakh with FOCM/FOCO models, full training & launch support.",
+    "Learn how to get a grocery franchise in Bulandshahr with The Buyzaar Mart. Start from 18.5 Lakh with FOCM/FOCO models, full training & launch support.",
   url: "https://www.thebuyzaarmart.com/bulandshahr/how-to-get-grocery-franchise-in-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -59,7 +59,7 @@ const faqSchema = {
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "Franchise investment typically starts from around ₹18.5 lakh for a Mini Mart format, with higher formats costing more based on store size.",
+          "Franchise investment typically starts from around 18.5 Lakh for a Mini Mart format, with higher formats costing more based on store size.",
       },
     },
     {
@@ -296,7 +296,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                Entry-level Mini Mart franchises typically start from approximately ₹18.5 lakh to ₹22 Lakh for a 600–1,000 sq. ft. store.
+                Entry-level Mini Mart franchises typically start from approximately 18.5 Lakh to ₹22 Lakh for a 600–1,000 sq. ft. store.
               </li>
               <li>
                 Costs generally cover franchise fees, interior branding, opening inventory, POS billing software, licenses, and initial working capital.
@@ -458,7 +458,7 @@ const Content = () => {
                   Q1. How much does it cost to get a grocery franchise in Bulandshahr?
                 </h3>
                 <p className="mt-2">
-                  Franchise investment typically starts from around ₹18.5 lakh for a Mini Mart format, with higher formats costing more based on store size.
+                  Franchise investment typically starts from around 18.5 Lakh for a Mini Mart format, with higher formats costing more based on store size.
                 </p>
               </div>
 

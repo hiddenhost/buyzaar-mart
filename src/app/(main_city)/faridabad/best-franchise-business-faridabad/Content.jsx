@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Best Franchise Business in Faridabad - The Buyzaar Mart Supermarket Franchise",
   description:
-    "Explore The Buyzaar Mart supermarket franchise in Faridabad. Start with investment from ₹18.5 lakh, multiple store formats, professional support, and a scalable grocery retail business model.",
+    "Explore The Buyzaar Mart supermarket franchise in Faridabad. Start with investment from 18.5 Lakh, multiple store formats, professional support, and a scalable grocery retail business model.",
   url: "https://www.thebuyzaarmart.com/faridabad/best-franchise-business-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The investment starts from ₹18.5 lakh under the FOCM model, covering store setup, initial stock, POS system, and complete launch support.",
+        text: "The investment starts from 18.5 Lakh under the FOCM model, covering store setup, initial stock, POS system, and complete launch support.",
       },
     },
     {
@@ -492,7 +492,7 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Low and transparent investment:</strong> Starting from
-                ₹18.5 lakh under the FOCM model, the brand is positioned as an
+                18.5 Lakh under the FOCM model, the brand is positioned as an
                 accessible organized grocery franchise option.
               </li>
               <li>
@@ -586,7 +586,7 @@ const Content = () => {
                   franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
-                  The investment starts from ₹18.5 lakh under the FOCM model,
+                  The investment starts from 18.5 Lakh under the FOCM model,
                   covering store setup, initial stock, POS system, and complete
                   launch support.
                 </p>

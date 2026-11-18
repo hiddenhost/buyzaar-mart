@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A retail franchise format requiring approximately 600 to 1,000 square feet and starting from approximately ₹18.5 lakh.",
+          "A retail franchise format requiring approximately 600 to 1,000 square feet and starting from approximately 18.5 Lakh.",
       },
       {
         "@type": "Offer",
@@ -82,7 +82,7 @@ const faqSchema = {
       name: "What financial capacity is required to qualify?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment capacity typically starts from around ₹18.5 lakh for the Mini Mart format, along with working capital for the first few months.",
+        text: "Investment capacity typically starts from around 18.5 Lakh for the Mini Mart format, along with working capital for the first few months.",
       },
     },
     {
@@ -372,7 +372,7 @@ const Content = () => {
                 applicants.
               </li>
               <li>
-                Investment starts at approximately ₹18.5 lakh for the Mini Mart
+                Investment starts at approximately 18.5 Lakh for the Mini Mart
                 format.
               </li>
               <li>
@@ -631,7 +631,7 @@ const Content = () => {
               </li>
               <li>
                 Applicants with access to 600 to 1,000 square feet and
-                investment capacity close to ₹18.5 lakh naturally align with the
+                investment capacity close to 18.5 Lakh naturally align with the
                 Mini Mart requirement profile.
               </li>
               <li>
@@ -749,7 +749,7 @@ const Content = () => {
                   What financial capacity is required to qualify?
                 </h3>
                 <p className="mt-2">
-                  Investment capacity typically starts from around ₹18.5 lakh for
+                  Investment capacity typically starts from around 18.5 Lakh for
                   the Mini Mart format, along with working capital for the first
                   few months.
                 </p>

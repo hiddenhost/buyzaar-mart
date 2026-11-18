@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the minimum investment required?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹18.5 lakh for a Mini Mart format of 600–1,000 sq. ft.",
+        text: "Investment starts from 18.5 Lakh for a Mini Mart format of 600–1,000 sq. ft.",
       },
     },
     {
@@ -191,7 +191,7 @@ const Content = () => {
               Store Format Economics — Mini Mart, Super Mart, Hyper Mart
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: 600–1,000 sq. ft., investment starting from ₹18.5 lakh — the lowest-risk entry point, suited to testing a locality before committing to a larger format.</li>
+              <li>Mini Mart: 600–1,000 sq. ft., investment starting from 18.5 Lakh — the lowest-risk entry point, suited to testing a locality before committing to a larger format.</li>
               <li>Super Mart: A larger footprint and wider assortment than a Mini Mart, suited to busier commercial stretches with higher daily footfall.</li>
               <li>Expected gross margins across formats generally fall in the 18% to 20% range on sales, with actual performance shaped by location, footfall, and product mix.</li>
               <li>Choosing the right format is less about maximum size and more about matching investment to the specific locality&apos;s density — a Hyper Mart in a quiet residential lane may underperform, while a Mini Mart on a high-traffic stretch may hit capacity limits.</li>
@@ -270,7 +270,7 @@ const Content = () => {
                   Q2. What is the minimum investment required?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹18.5 lakh for a Mini Mart format of 600–1,000 sq. ft.
+                  Investment starts from 18.5 Lakh for a Mini Mart format of 600–1,000 sq. ft.
                 </p>
               </div>
 

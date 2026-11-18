@@ -226,7 +226,7 @@ const Content = () => {
               Opening a retail store requires upfront capital for franchise fees,
               interior fit-outs, technology infrastructure, initial inventory,
               and working capital. Depending on store size, investment in Delhi
-              can range from ₹18.5 lakhs for compact convenience stores to over ₹1
+              can range from 18.5 Lakhs for compact convenience stores to over ₹1
               Crore for massive hypermarkets.
             </p>
 

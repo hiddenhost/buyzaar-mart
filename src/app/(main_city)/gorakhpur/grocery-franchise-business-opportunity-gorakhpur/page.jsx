@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Business Opportunity Gorakhpur | Buyzaar Mart",
   description:
-    "Start a grocery franchise business in Gorakhpur with The Buyzaar Mart. Step-by-step plan, formats and support, with investment from ₹18.5 lakh. Apply today!",
+    "Start a grocery franchise business in Gorakhpur with The Buyzaar Mart. Step-by-step plan, formats and support, with investment from 18.5 Lakh. Apply today!",
   keywords: [
     "grocery franchise business opportunity gorakhpur",
     "grocery franchise business gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Business Opportunity Gorakhpur | Buyzaar Mart",
     description:
-      "Start a grocery franchise business in Gorakhpur with The Buyzaar Mart. Step-by-step plan, formats and support, with investment from ₹18.5 lakh. Apply today!",
+      "Start a grocery franchise business in Gorakhpur with The Buyzaar Mart. Step-by-step plan, formats and support, with investment from 18.5 Lakh. Apply today!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-business-opportunity-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Business Opportunity Gorakhpur | Buyzaar Mart",
     description:
-      "Start a grocery franchise business in Gorakhpur with The Buyzaar Mart. Step-by-step plan, formats and support, with investment from ₹18.5 lakh. Apply today!",
+      "Start a grocery franchise business in Gorakhpur with The Buyzaar Mart. Step-by-step plan, formats and support, with investment from 18.5 Lakh. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

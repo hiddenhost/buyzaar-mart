@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Franchise Opportunity in Kanpur | Mini Mart, Super Mart & Hyper Mart – The Buyzaar Mart",
   description:
-    "Looking for a profitable franchise opportunity in Kanpur? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart franchise models starting from ₹18.5 lakh.",
+    "Looking for a profitable franchise opportunity in Kanpur? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart franchise models starting from 18.5 Lakh.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/grocery-store-franchise-in-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Franchise Opportunity in Kanpur | Mini Mart, Super Mart & Hyper Mart – The Buyzaar Mart",
     description:
-      "Looking for a profitable franchise opportunity in Kanpur? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart franchise models starting from ₹18.5 lakh.",
+      "Looking for a profitable franchise opportunity in Kanpur? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart franchise models starting from 18.5 Lakh.",
     url: "https://www.thebuyzaarmart.com/kanpur/grocery-store-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Franchise Opportunity in Kanpur | Mini Mart, Super Mart & Hyper Mart – The Buyzaar Mart",
     description:
-      "Looking for a profitable franchise opportunity in Kanpur? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart franchise models starting from ₹18.5 lakh.",
+      "Looking for a profitable franchise opportunity in Kanpur? The Buyzaar Mart offers Mini Mart, Super Mart & Hyper Mart franchise models starting from 18.5 Lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

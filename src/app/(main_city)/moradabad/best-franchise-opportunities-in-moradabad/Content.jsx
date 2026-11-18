@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A compact grocery franchise format for residential locations, requiring approximately 600 to 1,000 square feet and starting from approximately ₹18.5 lakh.",
+          "A compact grocery franchise format for residential locations, requiring approximately 600 to 1,000 square feet and starting from approximately 18.5 Lakh.",
       },
       {
         "@type": "Offer",
@@ -274,7 +274,7 @@ const Content = () => {
               </li>
               <li>
                 The Buyzaar Mart Mini Mart format starts from approximately
-                ₹18.5 lakh.
+                18.5 Lakh.
               </li>
               <li>
                 This makes grocery franchising accessible to a broad range of

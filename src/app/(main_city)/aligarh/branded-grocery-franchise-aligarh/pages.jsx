@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Branded Grocery Franchise in Aligarh | The Buyzaar Mart",
   description:
-    "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹18.5 lakh onwards, POS billing and full support. Apply now.",
+    "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, 18.5 Lakh onwards, POS billing and full support. Apply now.",
   keywords: [
     "branded grocery franchise aligarh",
     "branded grocery store franchise",
@@ -40,7 +40,7 @@ export const metadata = {
   openGraph: {
     title: "Branded Grocery Franchise in Aligarh | The Buyzaar Mart",
     description:
-      "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹18.5 lakh onwards, POS billing and full support. Apply now.",
+      "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, 18.5 Lakh onwards, POS billing and full support. Apply now.",
     url: "https://www.thebuyzaarmart.com/aligarh/branded-grocery-franchise-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Branded Grocery Franchise in Aligarh | The Buyzaar Mart",
     description:
-      "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, ₹18.5 lakh onwards, POS billing and full support. Apply now.",
+      "Open a branded grocery franchise in Aligarh with The Buyzaar Mart. Trusted brand, FOCM model, 18.5 Lakh onwards, POS billing and full support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -50,7 +50,7 @@ const faqSchema = {
       name: "How much does a retail business franchise in Faridabad cost with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart franchise starts from ₹18.5 lakh to ₹20 lakh for a 600 to 1000 sq. ft. store. A Hyper Mart of 3000 sq. ft. and above involves higher investment based on approximately ₹1200 per sq. ft. for interiors and ₹1700 per sq. ft. for opening stock, plus a ₹300000 franchise fee.",
+        text: "A Mini Mart franchise starts from 18.5 Lakh to ₹20 lakh for a 600 to 1000 sq. ft. store. A Hyper Mart of 3000 sq. ft. and above involves higher investment based on approximately ₹1200 per sq. ft. for interiors and ₹1700 per sq. ft. for opening stock, plus a ₹300000 franchise fee.",
       },
     },
     {
@@ -82,7 +82,7 @@ const faqSchema = {
       name: "What is the difference between Mini Mart and Hyper Mart formats?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart is a 600 to 1000 sq. ft. neighbourhood store starting from ₹18.5 lakh and focused on daily essentials. A Hyper Mart is 3000 sq. ft. and above, offering a broader supermarket-style assortment for high-footfall locations and larger investors.",
+        text: "A Mini Mart is a 600 to 1000 sq. ft. neighbourhood store starting from 18.5 Lakh and focused on daily essentials. A Hyper Mart is 3000 sq. ft. and above, offering a broader supermarket-style assortment for high-footfall locations and larger investors.",
       },
     },
     {
@@ -153,7 +153,7 @@ const Content = () => {
             <p>
               The Buyzaar Mart — India&apos;s rapidly growing supermarket
               franchise brand — is here to help you fill that gap. With
-              franchise formats starting from just ₹18.5 lakh, a proven business
+              franchise formats starting from just 18.5 Lakh, a proven business
               model, complete company-managed operations, and an expected profit
               margin of 18% to 20%, The Buyzaar Mart retail business franchise
               in Faridabad is built for real investors who want real results.
@@ -330,7 +330,7 @@ const Content = () => {
             </p>
 
             <p>
-              <strong>Total investment range:</strong> ₹18.5 lakh to ₹22 Lakh
+              <strong>Total investment range:</strong> 18.5 Lakh to ₹22 Lakh
               approximately, depending on exact store size, location, and fitout
               condition of the premises.
             </p>
@@ -559,7 +559,7 @@ const Content = () => {
                   cost with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart franchise starts from ₹18.5 lakh to ₹20 Lakh for a
+                  A Mini Mart franchise starts from 18.5 Lakh to ₹20 Lakh for a
                   600–1,000 sq. ft. store. A Hyper Mart of 3,000 sq. ft. and
                   above involves higher investment based on approximately ₹1,200
                   per sq. ft. for interiors and ₹1,700 per sq. ft. for opening
@@ -610,7 +610,7 @@ const Content = () => {
                 </h3>
                 <p className="mt-2">
                   A Mini Mart is a compact 600–1,000 sq. ft. neighbourhood store
-                  starting from ₹18.5 lakh and focused on daily essentials. A
+                  starting from 18.5 Lakh and focused on daily essentials. A
                   Hyper Mart is 3,000 sq. ft. and above, offering a much wider
                   supermarket assortment for larger, higher-footfall locations.
                 </p>

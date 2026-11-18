@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Franchise Investment in Gorakhpur | Buyzaar Mart",
   description:
-    "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from ₹18.5 lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
+    "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
   keywords: [
     "retail franchise investment Gorakhpur",
     "retail franchise in Gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Retail Franchise Investment in Gorakhpur | Buyzaar Mart",
     description:
-      "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from ₹18.5 lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
+      "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/retail-franchise-investment-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Franchise Investment in Gorakhpur | Buyzaar Mart",
     description:
-      "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from ₹18.5 lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
+      "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts at ₹18.5 lakh, which covers store setup, inventory, POS systems, branding, and launch support. The exact investment may vary depending on store size and location.",
+        text: "The minimum investment starts at 18.5 Lakh, which covers store setup, inventory, POS systems, branding, and launch support. The exact investment may vary depending on store size and location.",
       },
     },
     {
@@ -293,7 +293,7 @@ const Content = () => {
               1. Low Investment, High Return Potential
             </h3>
             <p>
-              Starting at ₹18.5 lakh, The Buyzaar Mart franchise is accessible to
+              Starting at 18.5 Lakh, The Buyzaar Mart franchise is accessible to
               a wide range of investors. Grocery retail is a high-frequency,
               low-ticket business &mdash; meaning customers return multiple
               times a week, ensuring consistent revenue and quick return on
@@ -509,7 +509,7 @@ const Content = () => {
                 <span className="font-semibold">
                   Lowest investment threshold:
                 </span>{" "}
-                Starting at ₹18.5 lakh, it is one of the most affordable
+                Starting at 18.5 Lakh, it is one of the most affordable
                 supermarket franchise opportunities in the country.
               </li>
               <li>
@@ -592,7 +592,7 @@ const Content = () => {
                   Mart franchise in Bareilly?
                 </h3>
                 <p className="mt-2 text-gray-700">
-                  The minimum investment starts at ₹18.5 lakh, which covers store
+                  The minimum investment starts at 18.5 Lakh, which covers store
                   setup, inventory, POS systems, branding, and launch support.
                   The exact investment may vary depending on store size and
                   location.

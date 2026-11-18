@@ -188,7 +188,7 @@ const Content = () => {
               Total Investment to Start a Grocery Store Franchise in Amroha
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>A Mini Mart of 600–1000 sq ft needs a total investment of roughly ₹18.5 lakh to ₹20 lakh.</li>
+              <li>A Mini Mart of 600–1000 sq ft needs a total investment of roughly 18.5 Lakh to ₹20 lakh.</li>
               <li>The final cost depends on the size of the store, its location, the arrangement of shelves and counters, and the interior work needed.</li>
               <li>Larger formats require a higher total investment, which the company can estimate for your exact property.</li>
               <li>Prepare extra working capital for rent, salaries and electricity, because a new store needs time to build regular customers.</li>

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Neighbourhood Store Franchise in Kanpur - The Buyzaar Mart",
   description:
-    "Neighbourhood Store Franchise in Kanpur with The Buyzaar Mart. Start a community grocery store with ₹18.5 lakh investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
+    "Neighbourhood Store Franchise in Kanpur with The Buyzaar Mart. Start a community grocery store with 18.5 Lakh investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
   url: "https://www.thebuyzaarmart.com/kanpur/neighbourhood-store-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What investment is required to open a neighbourhood store franchise in Kanpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Buyzaar Mart neighbourhood franchise starts at ₹18.5 lakh, covering franchise fee, store setup, branding, POS system installation, and initial inventory arrangement.",
+        text: "The Buyzaar Mart neighbourhood franchise starts at 18.5 Lakh, covering franchise fee, store setup, branding, POS system installation, and initial inventory arrangement.",
       },
     },
     {
@@ -346,7 +346,7 @@ const Content = () => {
                   What investment is required to open a neighbourhood store franchise in Kanpur with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  The Buyzaar Mart neighbourhood franchise starts at ₹18.5 lakh &#8212; covering the franchise fee, complete store setup, branding, POS system installation, and initial inventory arrangement.
+                  The Buyzaar Mart neighbourhood franchise starts at 18.5 Lakh &#8212; covering the franchise fee, complete store setup, branding, POS system installation, and initial inventory arrangement.
                 </p>
               </div>
 

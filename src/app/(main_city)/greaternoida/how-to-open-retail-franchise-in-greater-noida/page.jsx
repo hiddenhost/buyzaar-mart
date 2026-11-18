@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "How to Open a Retail Franchise in Greater Noida | The Buyzaar Mart FOCM Guide",
   description:
-    "Learn how to open a retail franchise in Greater Noida with The Buyzaar Mart. Step-by-step FOCM model guide — investment from ₹18.5 lakh.",
+    "Learn how to open a retail franchise in Greater Noida with The Buyzaar Mart. Step-by-step FOCM model guide — investment from 18.5 Lakh.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/greater-noida/how-to-open-a-retail-franchise-in-greater-noida",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "How to Open a Retail Franchise in Greater Noida | The Buyzaar Mart FOCM Guide",
     description:
-      "Learn how to open a retail franchise in Greater Noida with The Buyzaar Mart. Step-by-step FOCM model guide — investment from ₹18.5 lakh.",
+      "Learn how to open a retail franchise in Greater Noida with The Buyzaar Mart. Step-by-step FOCM model guide — investment from 18.5 Lakh.",
     url: "https://www.thebuyzaarmart.com/greater-noida/how-to-open-a-retail-franchise-in-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "How to Open a Retail Franchise in Greater Noida | The Buyzaar Mart FOCM Guide",
     description:
-      "Learn how to open a retail franchise in Greater Noida with The Buyzaar Mart. Step-by-step FOCM model guide — investment from ₹18.5 lakh.",
+      "Learn how to open a retail franchise in Greater Noida with The Buyzaar Mart. Step-by-step FOCM model guide — investment from 18.5 Lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

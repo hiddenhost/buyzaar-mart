@@ -6,7 +6,7 @@ const pageTitle =
   "How to Open a Retail Store Franchise in Mathura | Buyzaar Mart Guide";
 
 const pageDescription =
-  "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from ₹18.5 lakh with Buyzaar Mart.";
+  "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 Lakh with Buyzaar Mart.";
 
 const pageKeywords =
   "how to open retail store franchise Mathura, retail store franchise Mathura, Buyzaar Mart retail store, open retail store Mathura, retail franchise Mathura guide, neighborhood store franchise Mathura, grocery retail store franchise, retail store franchise investment Mathura, retail store location selection Mathura, store layout design franchise, retail store launch plan Mathura, customer-first retail franchise, retail franchise Uttar Pradesh, Mini Mart Super Mart Hyper Mart Mathura, retail store franchise registrations, FSSAI GST trade license retail store, retail store franchise training support, retail store repeat customers, POS billing retail franchise, retail franchise low investment Mathura, retail store franchise checklist, start retail store franchise India";
@@ -55,7 +55,7 @@ const contentSections = [
   {
     title: "Investment at a Glance",
     points: [
-      "Investment for a Buyzaar Mart retail store in Mathura starts from ₹18.5 lakh onwards.",
+      "Investment for a Buyzaar Mart retail store in Mathura starts from 18.5 Lakh onwards.",
       "The final investment figure depends on the format you choose and your property&apos;s carpet area.",
       "The franchise team shares a clear cost estimate for your specific store format after the initial discussion.",
       "Keep additional funds aside as working capital for the first few months of store operations.",
@@ -182,7 +182,7 @@ const faqs = [
   {
     question: "How much does it cost to open a Buyzaar Mart retail store?",
     answer:
-      "Investment starts from ₹18.5 lakh onwards, depending on the store format, property size, location, and setup requirements.",
+      "Investment starts from 18.5 Lakh onwards, depending on the store format, property size, location, and setup requirements.",
   },
   {
     question: "Do I need retail experience to open a store?",

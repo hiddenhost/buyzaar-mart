@@ -4,9 +4,9 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Buyzaar Mart Franchise in Aligarh | Apply for Grocery Franchise – Start from ₹18.5 lakh",
+  title: "Buyzaar Mart Franchise in Aligarh | Apply for Grocery Franchise – Start from 18.5 Lakh",
   description:
-    "Apply for The Buyzaar Mart franchise in Aligarh. FOCM/FOCO models, Mini/Super/Hyper Mart formats, full training & support. Start your grocery store from ₹18.5 lakh today.",
+    "Apply for The Buyzaar Mart franchise in Aligarh. FOCM/FOCO models, Mini/Super/Hyper Mart formats, full training & support. Start your grocery store from 18.5 Lakh today.",
   keywords: [
     "Buyzaar Mart franchise Aligarh",
     "grocery franchise Aligarh",
@@ -39,9 +39,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-franchise-apply-aligarh",
   },
   openGraph: {
-    title: "Buyzaar Mart Franchise in Aligarh | Apply for Grocery Franchise – Start from ₹18.5 lakh",
+    title: "Buyzaar Mart Franchise in Aligarh | Apply for Grocery Franchise – Start from 18.5 Lakh",
     description:
-      "Apply for The Buyzaar Mart franchise in Aligarh. FOCM/FOCO models, Mini/Super/Hyper Mart formats, full training & support. Start your grocery store from ₹18.5 lakh today.",
+      "Apply for The Buyzaar Mart franchise in Aligarh. FOCM/FOCO models, Mini/Super/Hyper Mart formats, full training & support. Start your grocery store from 18.5 Lakh today.",
     url: "https://www.thebuyzaarmart.com/aligarh/buyzaar-mart-franchise-apply-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,9 +57,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Buyzaar Mart Franchise in Aligarh | Apply for Grocery Franchise – Start from ₹18.5 lakh",
+    title: "Buyzaar Mart Franchise in Aligarh | Apply for Grocery Franchise – Start from 18.5 Lakh",
     description:
-      "Apply for The Buyzaar Mart franchise in Aligarh. FOCM/FOCO models, Mini/Super/Hyper Mart formats, full training & support. Start your grocery store from ₹18.5 lakh today.",
+      "Apply for The Buyzaar Mart franchise in Aligarh. FOCM/FOCO models, Mini/Super/Hyper Mart formats, full training & support. Start your grocery store from 18.5 Lakh today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -74,7 +74,7 @@ const faqSchema = {
       name: "How much investment is needed to open a grocery franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹18.5 lakh onwards under The Buyzaar Mart franchise, depending on the store format chosen.",
+        text: "Investment starts from 18.5 Lakh onwards under The Buyzaar Mart franchise, depending on the store format chosen.",
       },
     },
     {
@@ -188,7 +188,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Grocery franchises typically require higher initial stock investment relative to store size, since staples and FMCG need continuous shelf-stocking.</li>
-              <li>Minimum investment for a grocery franchise like The Buyzaar Mart starts from ₹18.5 lakh onwards, depending on format.</li>
+              <li>Minimum investment for a grocery franchise like The Buyzaar Mart starts from 18.5 Lakh onwards, depending on format.</li>
               <li>Investment components include stock, interior setup, POS/software fee, franchise fee (inclusive of 18% GST), and a refundable security deposit.</li>
               <li>Refrigeration and cold-storage setup for dairy and perishables may add to interior costs compared to non-grocery retail formats.</li>
               <li>Working capital planning should account for faster restocking cycles typical of grocery categories.</li>
@@ -335,7 +335,7 @@ const Content = () => {
                   How much investment is needed to open a grocery franchise in Mathura?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹18.5 lakh onwards under The Buyzaar Mart franchise, depending on the store format chosen.
+                  Investment starts from 18.5 Lakh onwards under The Buyzaar Mart franchise, depending on the store format chosen.
                 </p>
               </div>
 

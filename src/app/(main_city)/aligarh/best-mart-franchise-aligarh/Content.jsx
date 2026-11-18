@@ -74,7 +74,7 @@ const faqSchema = {
       name: "How much does a Mini Mart cost?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The brand indicates about ₹18.5 lakh to ₹20 lakh, depending on size and location.",
+        text: "The brand indicates about 18.5 Lakh to ₹20 lakh, depending on size and location.",
       },
     },
     {
@@ -225,7 +225,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                A Mini Mart covers 600–1,000 sq ft, with a minimum of 600 sq ft of carpet area. The brand indicates a total investment of about ₹18.5 lakh to ₹20 lakh.
+                A Mini Mart covers 600–1,000 sq ft, with a minimum of 600 sq ft of carpet area. The brand indicates a total investment of about 18.5 Lakh to ₹20 lakh.
               </li>
               <li>
                 The final cost depends on store size, arrangement and location. The investment covers stock, interiors, software, franchise fee including 18% GST and security deposit.
@@ -533,7 +533,7 @@ const Content = () => {
                   How much does a Mini Mart cost?
                 </h3>
                 <p className="mt-2">
-                  The brand indicates about ₹18.5 lakh to ₹20 lakh, depending on size and location.
+                  The brand indicates about 18.5 Lakh to ₹20 lakh, depending on size and location.
                 </p>
               </div>
 

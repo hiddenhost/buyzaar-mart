@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Grocery Franchise Lucknow | Start Your Supermarket Business with The Buyzaar Mart",
   description:
-    "Want to start a grocery franchise in Lucknow? Join The Buyzaar Mart from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS technology, and inventory take-back guarantee. Apply now at thebuyzaarmart.com",
+    "Want to start a grocery franchise in Lucknow? Join The Buyzaar Mart from 18.5 Lakh with FOCM & FOCO models, full brand support, POS technology, and inventory take-back guarantee. Apply now at thebuyzaarmart.com",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/lucknow/grocery-franchise-in-lucknow",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Grocery Franchise Lucknow | Start Your Supermarket Business with The Buyzaar Mart",
     description:
-      "Want to start a grocery franchise in Lucknow? Join The Buyzaar Mart from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS technology, and inventory take-back guarantee. Apply now at thebuyzaarmart.com",
+      "Want to start a grocery franchise in Lucknow? Join The Buyzaar Mart from 18.5 Lakh with FOCM & FOCO models, full brand support, POS technology, and inventory take-back guarantee. Apply now at thebuyzaarmart.com",
     url: "https://www.thebuyzaarmart.com/lucknow/grocery-franchise-in-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Grocery Franchise Lucknow | Start Your Supermarket Business with The Buyzaar Mart",
     description:
-      "Want to start a grocery franchise in Lucknow? Join The Buyzaar Mart from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS technology, and inventory take-back guarantee. Apply now at thebuyzaarmart.com",
+      "Want to start a grocery franchise in Lucknow? Join The Buyzaar Mart from 18.5 Lakh with FOCM & FOCO models, full brand support, POS technology, and inventory take-back guarantee. Apply now at thebuyzaarmart.com",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -6,9 +6,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Above ₹18.5 lakh in Rampur | The Buyzaar Mart",
+  name: "Mart Franchise Above 18.5 Lakh in Rampur | The Buyzaar Mart",
   description:
-    "Start a mart franchise above ₹18.5 lakh in Rampur with The Buyzaar Mart. Choose Mini, Super or Hyper Mart with POS, supply chain, training and marketing support.",
+    "Start a mart franchise above 18.5 Lakh in Rampur with The Buyzaar Mart. Choose Mini, Super or Hyper Mart with POS, supply chain, training and marketing support.",
   url: "https://www.thebuyzaarmart.com/rampur/mart-franchise-above-15-lakh-rampur",
   telephone: "+919217991727",
   address: {
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600 to 1,000 sq ft)",
         description:
-          "Covers grocery and staples, snacks and biscuits, beverages, personal care, home care and hygiene, and stationery. Total investment starts from ₹18.5 lakh and generally ranges up to ₹20 lakh.",
+          "Covers grocery and staples, snacks and biscuits, beverages, personal care, home care and hygiene, and stationery. Total investment starts from 18.5 Lakh and generally ranges up to ₹20 lakh.",
       },
       {
         "@type": "Offer",
@@ -56,10 +56,10 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is the total investment for a mart franchise above ₹18.5 lakh in Rampur?",
+      name: "What is the total investment for a mart franchise above 18.5 Lakh in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Buyzaar Mart Mini Store starts from ₹18.5 lakh and generally ranges up to ₹20 lakh, while larger formats need a higher total, confirmed by the team after a site review.",
+        text: "A Buyzaar Mart Mini Store starts from 18.5 Lakh and generally ranges up to ₹20 lakh, while larger formats need a higher total, confirmed by the team after a site review.",
       },
     },
     {
@@ -137,24 +137,24 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Above ₹18.5 lakh in Rampur: Build a Bigger, Branded Supermarket with The Buyzaar Mart
+              Mart Franchise Above 18.5 Lakh in Rampur: Build a Bigger, Branded Supermarket with The Buyzaar Mart
             </h1>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Choose a Mart Franchise Above ₹18.5 lakh in Rampur
+              Why Choose a Mart Franchise Above 18.5 Lakh in Rampur
             </h2>
 
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                A mart franchise above ₹18.5 lakh suits owners who want a properly organised store rather than a small shop, with wider shelves, more product categories and a stronger daily footfall in Rampur.
+                A mart franchise above 18.5 Lakh suits owners who want a properly organised store rather than a small shop, with wider shelves, more product categories and a stronger daily footfall in Rampur.
               </li>
               <li>
                 Rampur families now prefer branded stores where prices are clear, billing is accurate and products are fresh, so an organised mart gives you a clear edge over unbranded neighbourhood outlets.
               </li>
               <li>
-                Investing above ₹18.5 lakh gives you room to choose the right store size, a better location and a fuller product range, instead of settling for the smallest possible setup.
+                Investing above 18.5 Lakh gives you room to choose the right store size, a better location and a fuller product range, instead of settling for the smallest possible setup.
               </li>
               <li>
                 With a proven brand, ready systems and company support, you reduce the guesswork that usually comes with starting a retail business from scratch.
@@ -184,13 +184,13 @@ const Content = () => {
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Total Investment for a Mart Franchise Above ₹18.5 lakh
+              Total Investment for a Mart Franchise Above 18.5 Lakh
             </h2>
 
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The total investment for a Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts from ₹18.5 lakh and generally ranges up to ₹20 lakh, depending on store size, layout, location and work needed at the premises.
+                The total investment for a Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts from 18.5 Lakh and generally ranges up to ₹20 lakh, depending on store size, layout, location and work needed at the premises.
               </li>
               <li>
                 When you choose a larger Super Mart or Hyper Mart, the total investment rises above this range, and the franchise team confirms the final figure after studying your site and store area.
@@ -215,7 +215,7 @@ const Content = () => {
                 Ideal for residential areas and neighbourhood markets, covering grocery and staples, snacks and biscuits, beverages, personal care, home care and hygiene, and stationery.
               </li>
               <li>
-                This is the entry point for a mart franchise above ₹18.5 lakh, and it works well for first-time owners who want a manageable, well-supported store.
+                This is the entry point for a mart franchise above 18.5 Lakh, and it works well for first-time owners who want a manageable, well-supported store.
               </li>
             </ul>
 
@@ -496,10 +496,10 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  What is the total investment for a mart franchise above ₹18.5 lakh in Rampur?
+                  What is the total investment for a mart franchise above 18.5 Lakh in Rampur?
                 </h3>
                 <p className="mt-2">
-                  A Buyzaar Mart Mini Store starts from ₹18.5 lakh and generally ranges up to ₹20 lakh, while larger formats need a higher total, confirmed by the team after a site review.
+                  A Buyzaar Mart Mini Store starts from 18.5 Lakh and generally ranges up to ₹20 lakh, while larger formats need a higher total, confirmed by the team after a site review.
                 </p>
               </div>
 
@@ -581,16 +581,16 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Mart Franchise Above ₹18.5 lakh in Rampur
+                Start Your Mart Franchise Above 18.5 Lakh in Rampur
               </h2>
 
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  The Buyzaar Mart offers a mart franchise above ₹18.5 lakh in Rampur, with Mini, Super and Hyper Mart formats, POS, supply chain, training and marketing support.
+                  The Buyzaar Mart offers a mart franchise above 18.5 Lakh in Rampur, with Mini, Super and Hyper Mart formats, POS, supply chain, training and marketing support.
                 </li>
                 <li>
-                  Mini Store total investment generally ranges between ₹18.5 lakh and ₹20 lakh, while larger formats need a higher total confirmed after a site review.
+                  Mini Store total investment generally ranges between 18.5 Lakh and ₹20 lakh, while larger formats need a higher total confirmed after a site review.
                 </li>
                 <li>
                   Submit an inquiry on thebuyzaarmart.com or call{" "}

@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment for a daily essentials store franchise in Gurgaon?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart format starts from approximately ₹18.5 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.",
+        text: "A Mini Mart format starts from approximately 18.5 Lakh, typically ranging up to ₹22 lakh depending on location and fit-out.",
       },
     },
     {
@@ -253,7 +253,7 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq ft (a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store)
               </li>
               <li>
-                Investment: Total setup costs typically range from approximately ₹18.5 lakh to ₹22 lakh
+                Investment: Total setup costs typically range from approximately 18.5 Lakh to ₹22 lakh
               </li>
               <li>
                 Best fit in Gurgaon: Housing society retail units across Dwarka Expressway sectors, inner colony lanes in Palam Vihar and South City, DLF Phase society market units, Sushant Lok inner residential shops, and Sector 56–58 colony-facing commercial spaces
@@ -428,7 +428,7 @@ const Content = () => {
                 </h3>
                 <ul >
                   <li>
-                    A Mini Mart format starts from approximately ₹18.5 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.
+                    A Mini Mart format starts from approximately 18.5 Lakh, typically ranging up to ₹22 lakh depending on location and fit-out.
                   </li>
                 </ul>
               </div>

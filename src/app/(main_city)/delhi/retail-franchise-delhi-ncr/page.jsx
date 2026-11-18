@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Retail Franchise Delhi-NCR | Grocery & Supermarket Franchise Opportunity – The Buyzaar Mart",
   description:
-    "Looking for a retail franchise in Delhi-NCR? The Buyzaar Mart offers a proven grocery & supermarket franchise model starting from ₹18.5 lakh. FOCM model, full support, POS & supply chain included. Apply now!",
+    "Looking for a retail franchise in Delhi-NCR? The Buyzaar Mart offers a proven grocery & supermarket franchise model starting from 18.5 Lakh. FOCM model, full support, POS & supply chain included. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/delhi/retail-franchise-delhi-ncr",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Retail Franchise Delhi-NCR | Grocery & Supermarket Franchise Opportunity – The Buyzaar Mart",
     description:
-      "Looking for a retail franchise in Delhi-NCR? The Buyzaar Mart offers a proven grocery & supermarket franchise model starting from ₹18.5 lakh. FOCM model, full support, POS & supply chain included. Apply now!",
+      "Looking for a retail franchise in Delhi-NCR? The Buyzaar Mart offers a proven grocery & supermarket franchise model starting from 18.5 Lakh. FOCM model, full support, POS & supply chain included. Apply now!",
     url: "https://www.thebuyzaarmart.com/delhi/retail-franchise-delhi-ncr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Retail Franchise Delhi-NCR | Grocery & Supermarket Franchise Opportunity – The Buyzaar Mart",
     description:
-      "Looking for a retail franchise in Delhi-NCR? The Buyzaar Mart offers a proven grocery & supermarket franchise model starting from ₹18.5 lakh. FOCM model, full support, POS & supply chain included. Apply now!",
+      "Looking for a retail franchise in Delhi-NCR? The Buyzaar Mart offers a proven grocery & supermarket franchise model starting from 18.5 Lakh. FOCM model, full support, POS & supply chain included. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

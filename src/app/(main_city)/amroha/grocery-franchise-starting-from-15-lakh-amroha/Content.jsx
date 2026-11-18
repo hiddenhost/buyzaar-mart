@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise Starting from 18.5 lakh in Amroha | Buyzaar Mart",
   description:
-    "Start a grocery franchise in Amroha from ₹18.5 lakh total investment with Buyzaar Mart. Get branding, POS billing, supply support, training and 18-20% gross margin.",
+    "Start a grocery franchise in Amroha from 18.5 Lakh total investment with Buyzaar Mart. Get branding, POS billing, supply support, training and 18-20% gross margin.",
   url: "https://www.thebuyzaarmart.com/amroha/grocery-franchise-starting-from-15-lakh-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -32,7 +32,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A 600 to 1000 sq ft grocery franchise format for Amroha, starting from a total investment of ₹18.5 lakh.",
+          "A 600 to 1000 sq ft grocery franchise format for Amroha, starting from a total investment of 18.5 Lakh.",
       },
       {
         "@type": "Offer",
@@ -59,12 +59,12 @@ const faqSchema = {
       name: "What is the total investment for a grocery franchise in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from a total of ₹18.5 lakh, and a Mini Mart generally falls within ₹18.5 lakh to ₹20 lakh depending on size and location.",
+        text: "It starts from a total of 18.5 Lakh, and a Mini Mart generally falls within 18.5 Lakh to ₹20 lakh depending on size and location.",
       },
     },
     {
       "@type": "Question",
-      name: "Is ₹18.5 lakh the fixed final amount?",
+      name: "Is 18.5 Lakh the fixed final amount?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "No, it is the starting total, and your final figure depends on shop size, condition and location, so confirm it in writing.",
@@ -136,7 +136,7 @@ const Content = () => {
             </h1>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a ₹18.5 lakh Grocery Franchise Suits Amroha
+              Why a 18.5 Lakh Grocery Franchise Suits Amroha
             </h2>
 
             <h3 className="font-medium text-gray-900">
@@ -145,7 +145,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                A grocery franchise starting from a total of ₹18.5 lakh gives
+                A grocery franchise starting from a total of 18.5 Lakh gives
                 Amroha entrepreneurs a way to enter organised retail without the
                 heavy capital that large supermarket formats demand, which makes
                 the first step far more manageable for first-time business
@@ -182,7 +182,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What &quot;Starting from ₹18.5 lakh&quot; Really Means
+              What &quot;Starting from 18.5 Lakh&quot; Really Means
             </h2>
 
             <h3 className="font-medium text-gray-900">
@@ -192,8 +192,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart states that its grocery franchise starts from
-                ₹18.5 lakh, and the brand&apos;s FAQ page says a Mini Mart of
-                600 to 1000 sq ft generally needs a total between ₹18.5 lakh and
+                18.5 Lakh, and the brand&apos;s FAQ page says a Mini Mart of
+                600 to 1000 sq ft generally needs a total between 18.5 Lakh and
                 ₹20 lakh.
               </li>
               <li>
@@ -203,7 +203,7 @@ const Content = () => {
                 picture rather than only one cost.
               </li>
               <li>
-                Think of ₹18.5 lakh as the entry point, and treat the final number
+                Think of 18.5 Lakh as the entry point, and treat the final number
                 as something confirmed with the franchise team after your shop
                 is reviewed.
               </li>
@@ -357,7 +357,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Expected Margin on a ₹18.5 lakh Store
+              Expected Margin on a 18.5 Lakh Store
             </h2>
 
             <h3 className="font-medium text-gray-900">
@@ -601,7 +601,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Daily Habits That Make a ₹18.5 lakh Store Profitable
+              Daily Habits That Make a 18.5 Lakh Store Profitable
             </h2>
 
             <h3 className="font-medium text-gray-900">
@@ -703,15 +703,15 @@ const Content = () => {
                   Amroha?
                 </h3>
                 <p className="mt-2">
-                  It starts from a total of ₹18.5 lakh, and a Mini Mart generally
-                  falls within ₹18.5 lakh to ₹20 lakh depending on size and
+                  It starts from a total of 18.5 Lakh, and a Mini Mart generally
+                  falls within 18.5 Lakh to ₹20 lakh depending on size and
                   location.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Is ₹18.5 lakh the fixed final amount?
+                  Is 18.5 Lakh the fixed final amount?
                 </h3>
                 <p className="mt-2">
                   No, it is the starting total, and your final figure depends on
@@ -773,7 +773,7 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Start a Buyzaar Mart grocery franchise in Amroha with a total
-                  investment starting from ₹18.5 lakh.
+                  investment starting from 18.5 Lakh.
                 </li>
                 <li>
                   Get branding, POS billing, supply support, training and

@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What's the entry investment for this opportunity?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹18.5 lakh and above for a Mini Mart, depending on location and format.",
+        text: "Roughly 18.5 Lakh and above for a Mini Mart, depending on location and format.",
       },
     },
     {
@@ -196,7 +196,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart, headquartered in Noida, has already tested and refined its supermarket franchise model in comparable UP and Uttarakhand markets — including Shyam Nagar (Kanpur), Sector 44 Chalera (Noida), Gangoh, Behat (Saharanpur), and Bahadrabad (Haridwar) — before extending the model into newer cities like Mathura.</li>
               <li>The brand&apos;s core promise, &quot;अपना बाजार – बचत का साथ, Quality की बात,&quot; is built around affordability and trust — exactly the positioning needed to win over price-conscious, tradition-rooted Mathura shoppers.</li>
-              <li>Franchise investment starts from roughly ₹18.5 lakh, a figure deliberately structured to be accessible rather than prohibitive for local entrepreneurs.</li>
+              <li>Franchise investment starts from roughly 18.5 Lakh, a figure deliberately structured to be accessible rather than prohibitive for local entrepreneurs.</li>
               <li>A network of 50+ FMCG brand partnerships — including Dabur, Britannia, HUL, Nestlé, ITC, Godrej, and Patanjali — removes the sourcing and vendor-negotiation burden that independent grocery store owners usually face alone.</li>
               <li>POS-enabled billing and integrated CRM systems give franchise owners real visibility into sales patterns, something traditional kirana operations typically lack entirely.</li>
               <li>A buyback policy on expired or damaged stock reduces one of the most common sources of unplanned loss in grocery retail.</li>
@@ -297,7 +297,7 @@ const Content = () => {
                   2. What&apos;s the entry investment for this opportunity?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹18.5 lakh and above for a Mini Mart, depending on location and format.
+                  Roughly 18.5 Lakh and above for a Mini Mart, depending on location and format.
                 </p>
               </div>
 

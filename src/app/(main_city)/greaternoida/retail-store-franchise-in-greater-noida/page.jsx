@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Store Franchise in Greater Noida | The Buyzaar Mart",
   description:
-    "Looking for a retail store franchise in Greater Noida? Join The Buyzaar Mart. Low investment from ₹18.5 lakh, FOCM model, full setup & brand support. Apply now!",
+    "Looking for a retail store franchise in Greater Noida? Join The Buyzaar Mart. Low investment from 18.5 Lakh, FOCM model, full setup & brand support. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/greaternoida/retail-store-franchise-in-greater-noida",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "Retail Store Franchise in Greater Noida | The Buyzaar Mart",
     description:
-      "Looking for a retail store franchise in Greater Noida? Join The Buyzaar Mart. Low investment from ₹18.5 lakh, FOCM model, full setup & brand support. Apply now!",
+      "Looking for a retail store franchise in Greater Noida? Join The Buyzaar Mart. Low investment from 18.5 Lakh, FOCM model, full setup & brand support. Apply now!",
     url: "https://www.thebuyzaarmart.com/greaternoida/retail-store-franchise-in-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Store Franchise in Greater Noida | The Buyzaar Mart",
     description:
-      "Looking for a retail store franchise in Greater Noida? Join The Buyzaar Mart. Low investment from ₹18.5 lakh, FOCM model, full setup & brand support. Apply now!",
+      "Looking for a retail store franchise in Greater Noida? Join The Buyzaar Mart. Low investment from 18.5 Lakh, FOCM model, full setup & brand support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

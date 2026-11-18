@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much does it cost to start a grocery store franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from around ₹18.5 lakh, depending on format and area. Rent is separate.",
+        text: "It starts from around 18.5 Lakh, depending on format and area. Rent is separate.",
       },
     },
     {
@@ -212,7 +212,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart franchise starts from around ₹18.5 lakh, depending on store format and area.</li>
+              <li>The Buyzaar Mart franchise starts from around 18.5 Lakh, depending on store format and area.</li>
               <li>The total covers opening stock, interior, software fee, franchise fee (including 18% GST) and security deposit.</li>
               <li>Super Mart and Hyper Mart budgets are higher, so treat any estimate as indicative until the team confirms it.</li>
               <li>Shop rent is separate, since franchisees secure and pay for their own location.</li>
@@ -349,7 +349,7 @@ const Content = () => {
                   How much does it cost to start a grocery store franchise in Gorakhpur?
                 </h3>
                 <p className="mt-2">
-                  It starts from around ₹18.5 lakh, depending on format and area. Rent is separate.
+                  It starts from around 18.5 Lakh, depending on format and area. Rent is separate.
                 </p>
               </div>
 

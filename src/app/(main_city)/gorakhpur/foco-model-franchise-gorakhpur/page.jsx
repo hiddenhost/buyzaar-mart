@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Model Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-    "Explore the FOCO model franchise in Gorakhpur from ₹18.5 lakh. You invest and own; The Buyzaar Mart operates the store with POS & supply support. Apply now!",
+    "Explore the FOCO model franchise in Gorakhpur from 18.5 Lakh. You invest and own; The Buyzaar Mart operates the store with POS & supply support. Apply now!",
   keywords: [
     "FOCO model franchise Gorakhpur",
     "FOCO franchise Gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCO Model Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-      "Explore the FOCO model franchise in Gorakhpur from ₹18.5 lakh. You invest and own; The Buyzaar Mart operates the store with POS & supply support. Apply now!",
+      "Explore the FOCO model franchise in Gorakhpur from 18.5 Lakh. You invest and own; The Buyzaar Mart operates the store with POS & supply support. Apply now!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/foco-model-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Model Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-      "Explore the FOCO model franchise in Gorakhpur from ₹18.5 lakh. You invest and own; The Buyzaar Mart operates the store with POS & supply support. Apply now!",
+      "Explore the FOCO model franchise in Gorakhpur from 18.5 Lakh. You invest and own; The Buyzaar Mart operates the store with POS & supply support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

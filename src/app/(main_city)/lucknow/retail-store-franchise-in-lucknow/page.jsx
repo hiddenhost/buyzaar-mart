@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Retail Store Franchise in Lucknow | Grocery & Supermarket Franchise Opportunity 2025",
   description:
-    "Looking for a retail store franchise in Lucknow? Join The Buyzaar Mart and start your own supermarket business from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS systems, and guaranteed inventory backing. Apply now.",
+    "Looking for a retail store franchise in Lucknow? Join The Buyzaar Mart and start your own supermarket business from 18.5 Lakh with FOCM & FOCO models, full brand support, POS systems, and guaranteed inventory backing. Apply now.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/lucknow/retail-store-franchise-in-lucknow",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Retail Store Franchise in Lucknow | Grocery & Supermarket Franchise Opportunity 2025",
     description:
-      "Looking for a retail store franchise in Lucknow? Join The Buyzaar Mart and start your own supermarket business from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS systems, and guaranteed inventory backing. Apply now.",
+      "Looking for a retail store franchise in Lucknow? Join The Buyzaar Mart and start your own supermarket business from 18.5 Lakh with FOCM & FOCO models, full brand support, POS systems, and guaranteed inventory backing. Apply now.",
     url: "https://www.thebuyzaarmart.com/lucknow/retail-store-franchise-in-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Retail Store Franchise in Lucknow | Grocery & Supermarket Franchise Opportunity 2025",
     description:
-      "Looking for a retail store franchise in Lucknow? Join The Buyzaar Mart and start your own supermarket business from ₹18.5 lakh with FOCM & FOCO models, full brand support, POS systems, and guaranteed inventory backing. Apply now.",
+      "Looking for a retail store franchise in Lucknow? Join The Buyzaar Mart and start your own supermarket business from 18.5 Lakh with FOCM & FOCO models, full brand support, POS systems, and guaranteed inventory backing. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

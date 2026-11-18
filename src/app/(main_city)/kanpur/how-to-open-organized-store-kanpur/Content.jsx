@@ -42,7 +42,7 @@ const faqSchema = {
       name: "What is the estimated investment to open an organized grocery store with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The estimated initial investment typically ranges from ₹18.5 lakhs to ₹20 lakhs, covering franchise fees, retail fixtures, POS systems, branding, and opening inventory.",
+        text: "The estimated initial investment typically ranges from 18.5 Lakhs to ₹20 lakhs, covering franchise fees, retail fixtures, POS systems, branding, and opening inventory.",
       },
     },
     {
@@ -502,7 +502,7 @@ const Content = () => {
                   organized store with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  The initial investment generally ranges from ₹18.5 lakhs to ₹20
+                  The initial investment generally ranges from 18.5 Lakhs to ₹20
                   Lakhs, covering the franchise fee, fixtures, POS systems,
                   branding, and opening inventory.
                 </p>

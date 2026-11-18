@@ -110,7 +110,7 @@ const Content = () => {
             <ul className="list-disc list-inside ml-4 space-y-1 mb-4">
               <li><strong>Store Size:</strong> 600-1,000 sq. ft.</li>
               <li><strong>Best For:</strong> Residential neighborhoods, colony markets</li>
-              <li><strong>Investment Range:</strong> Starting from ₹18.5 lakhs</li>
+              <li><strong>Investment Range:</strong> Starting from 18.5 Lakhs</li>
               <li><strong>Ideal For:</strong> First-time entrepreneurs</li>
             </ul>
 
@@ -244,7 +244,7 @@ const Content = () => {
                 </h3>
                 <p className="mt-2">
                   The Buyzaar Mart offers a Mini Mart format starting from approximately
-                  ₹18.5 lakhs, making it one of the most accessible low investment grocery
+                  18.5 Lakhs, making it one of the most accessible low investment grocery
                   franchise opportunities available in semi-urban markets like Gangoh.
                 </p>
               </div>

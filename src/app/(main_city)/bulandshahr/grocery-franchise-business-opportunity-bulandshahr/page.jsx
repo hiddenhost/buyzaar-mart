@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Business Opportunity in Bulandshahr | Buyzaar Mart",
   description:
-    "Start a grocery franchise business in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, 18–20% stated margin, POS billing, training and support.",
+    "Start a grocery franchise business in Bulandshahr with The Buyzaar Mart. Total investment from 18.5 Lakh, 18–20% stated margin, POS billing, training and support.",
   keywords: [
     "grocery franchise business opportunity Bulandshahr",
     "grocery franchise business Bulandshahr",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Business Opportunity in Bulandshahr | Buyzaar Mart",
     description:
-      "Start a grocery franchise business in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, 18–20% stated margin, POS billing, training and support.",
+      "Start a grocery franchise business in Bulandshahr with The Buyzaar Mart. Total investment from 18.5 Lakh, 18–20% stated margin, POS billing, training and support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/grocery-franchise-business-opportunity-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Business Opportunity in Bulandshahr | Buyzaar Mart",
     description:
-      "Start a grocery franchise business in Bulandshahr with The Buyzaar Mart. Total investment from ₹18.5 lakh, 18–20% stated margin, POS billing, training and support.",
+      "Start a grocery franchise business in Bulandshahr with The Buyzaar Mart. Total investment from 18.5 Lakh, 18–20% stated margin, POS billing, training and support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

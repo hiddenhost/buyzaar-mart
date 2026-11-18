@@ -100,7 +100,7 @@ const faqSchema = {
       name: "Can I start a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, franchise options are available under FOCM and FOCO models, starting around ₹18.5 lakh.",
+        text: "Yes, franchise options are available under FOCM and FOCO models, starting around 18.5 Lakh.",
       },
     },
   ],
@@ -444,7 +444,7 @@ const Content = () => {
                   Can I start a Buyzaar Mart franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
-                  Yes, franchise options are available under FOCM and FOCO models, starting around ₹18.5 lakh for daily essentials online shopping business in Kanpur.
+                  Yes, franchise options are available under FOCM and FOCO models, starting around 18.5 Lakh for daily essentials online shopping business in Kanpur.
                 </p>
               </div>
             </div>

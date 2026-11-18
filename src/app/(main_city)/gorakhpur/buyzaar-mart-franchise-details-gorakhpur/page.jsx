@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Details Gorakhpur | Cost & Models",
   description:
-    "Get Buyzaar Mart franchise details for Gorakhpur: investment from ₹18.5 lakh, FOCM & FOCO models, store sizes, support and how to apply. Call 9217991727.",
+    "Get Buyzaar Mart franchise details for Gorakhpur: investment from 18.5 Lakh, FOCM & FOCO models, store sizes, support and how to apply. Call 9217991727.",
   keywords: [
     "Buyzaar Mart franchise details Gorakhpur",
     "Buyzaar Mart franchise Gorakhpur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Details Gorakhpur | Cost & Models",
     description:
-      "Get Buyzaar Mart franchise details for Gorakhpur: investment from ₹18.5 lakh, FOCM & FOCO models, store sizes, support and how to apply. Call 9217991727.",
+      "Get Buyzaar Mart franchise details for Gorakhpur: investment from 18.5 Lakh, FOCM & FOCO models, store sizes, support and how to apply. Call 9217991727.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-details-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Details Gorakhpur | Cost & Models",
     description:
-      "Get Buyzaar Mart franchise details for Gorakhpur: investment from ₹18.5 lakh, FOCM & FOCO models, store sizes, support and how to apply. Call 9217991727.",
+      "Get Buyzaar Mart franchise details for Gorakhpur: investment from 18.5 Lakh, FOCM & FOCO models, store sizes, support and how to apply. Call 9217991727.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

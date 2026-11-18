@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Convenience Store",
         description:
-          "A compact convenience store franchise format spanning approximately 600 to 1,000 square feet, with total investment typically starting from around ₹18.5 lakh.",
+          "A compact convenience store franchise format spanning approximately 600 to 1,000 square feet, with total investment typically starting from around 18.5 Lakh.",
       },
     ],
   },
@@ -46,7 +46,7 @@ const faqSchema = {
       name: "What is the total convenience store franchise cost in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Mini Mart format typically costs between approximately ₹18.5 lakh and ₹22 lakh, depending on store size, location, and fit-out condition.",
+        text: "The Mini Mart format typically costs between approximately 18.5 Lakh and ₹22 lakh, depending on store size, location, and fit-out condition.",
       },
     },
     {
@@ -271,7 +271,7 @@ const Content = () => {
                 The Mini Mart spans approximately 600 to 1,000 square feet.
               </li>
               <li>
-                Total investment typically starts from around ₹18.5 lakh.
+                Total investment typically starts from around 18.5 Lakh.
               </li>
               <li>
                 The investment can extend up to roughly ₹22 lakh.
@@ -606,7 +606,7 @@ const Content = () => {
                 </h3>
                 <p className="mt-2">
                   The Mini Mart format typically costs between approximately
-                  ₹18.5 lakh and ₹22 lakh, depending on store size, location, and
+                  18.5 Lakh and ₹22 lakh, depending on store size, location, and
                   fit-out condition.
                 </p>
               </div>

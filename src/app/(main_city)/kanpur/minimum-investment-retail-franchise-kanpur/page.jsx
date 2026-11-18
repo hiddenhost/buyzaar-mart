@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Minimum Investment Retail Franchise Kanpur | The Buyzaar Mart - Start at ₹15L",
   description:
-    "Start a retail franchise in Kanpur from just ₹18.5 lakh with The Buyzaar Mart. Mini Mart & Super Mart options, FOCM model, professional support & 18-20% margins. Apply now!",
+    "Start a retail franchise in Kanpur from just 18.5 Lakh with The Buyzaar Mart. Mini Mart & Super Mart options, FOCM model, professional support & 18-20% margins. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Minimum Investment Retail Franchise Kanpur | The Buyzaar Mart - Start at ₹15L",
     description:
-      "Start a retail franchise in Kanpur from just ₹18.5 lakh with The Buyzaar Mart. Mini Mart & Super Mart options, FOCM model, professional support & 18-20% margins. Apply now!",
+      "Start a retail franchise in Kanpur from just 18.5 Lakh with The Buyzaar Mart. Mini Mart & Super Mart options, FOCM model, professional support & 18-20% margins. Apply now!",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Minimum Investment Retail Franchise Kanpur | The Buyzaar Mart - Start at ₹15L",
     description:
-      "Start a retail franchise in Kanpur from just ₹18.5 lakh with The Buyzaar Mart. Mini Mart & Super Mart options, FOCM model, professional support & 18-20% margins. Apply now!",
+      "Start a retail franchise in Kanpur from just 18.5 Lakh with The Buyzaar Mart. Mini Mart & Super Mart options, FOCM model, professional support & 18-20% margins. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

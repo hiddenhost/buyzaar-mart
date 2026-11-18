@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Franchise Opportunity Greater Noida | The Buyzaar Mart – Supermarket Mart Franchise",
   description:
-    "Explore the best franchise opportunity in Greater Noida with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart under the FOCM model. Investment from ₹18.5 lakh with full company support. Apply now.",
+    "Explore the best franchise opportunity in Greater Noida with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart under the FOCM model. Investment from 18.5 Lakh with full company support. Apply now.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/greater-noida/franchise-opportunity-in-greater-noida",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Franchise Opportunity Greater Noida | The Buyzaar Mart – Supermarket Mart Franchise",
     description:
-      "Explore the best franchise opportunity in Greater Noida with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart under the FOCM model. Investment from ₹18.5 lakh with full company support. Apply now.",
+      "Explore the best franchise opportunity in Greater Noida with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart under the FOCM model. Investment from 18.5 Lakh with full company support. Apply now.",
     url: "https://www.thebuyzaarmart.com/greater-noida/franchise-opportunity-in-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Franchise Opportunity Greater Noida | The Buyzaar Mart – Supermarket Mart Franchise",
     description:
-      "Explore the best franchise opportunity in Greater Noida with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart under the FOCM model. Investment from ₹18.5 lakh with full company support. Apply now.",
+      "Explore the best franchise opportunity in Greater Noida with The Buyzaar Mart. Own a Mini Mart, Super Mart or Hyper Mart under the FOCM model. Investment from 18.5 Lakh with full company support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

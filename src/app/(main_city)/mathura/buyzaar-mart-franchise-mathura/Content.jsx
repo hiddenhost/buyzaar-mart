@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise in Mathura",
   description:
-    "Explore The Buyzaar Mart franchise opportunity in Mathura with FOCM and FOCO models, investment from ₹18.5 lakh, multiple store formats, and complete brand support.",
+    "Explore The Buyzaar Mart franchise opportunity in Mathura with FOCM and FOCO models, investment from 18.5 Lakh, multiple store formats, and complete brand support.",
   url: "https://www.thebuyzaarmart.com/mathura/buyzaar-mart-franchise-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the Buyzaar Mart franchise opportunity in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It is a supermarket franchise opportunity where entrepreneurs can open a branded grocery store under the FOCM or FOCO model, starting from ₹18.5 lakh.",
+        text: "It is a supermarket franchise opportunity where entrepreneurs can open a branded grocery store under the FOCM or FOCO model, starting from 18.5 Lakh.",
       },
     },
     {
@@ -245,7 +245,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                Franchise investment starts from ₹18.5 lakh onwards, depending on
+                Franchise investment starts from 18.5 Lakh onwards, depending on
                 the store format selected.
               </li>
               <li>
@@ -443,7 +443,7 @@ const Content = () => {
               </li>
               <li>
                 Applicants who can meet the minimum investment requirement of
-                ₹18.5 lakh onwards.
+                18.5 Lakh onwards.
               </li>
               <li>
                 Those interested in either an active, hands-on role (FOCO) or a
@@ -560,7 +560,7 @@ const Content = () => {
                 <p className="mt-2">
                   It is a supermarket franchise opportunity where entrepreneurs
                   can open a branded grocery store under the FOCM or FOCO model,
-                  starting from ₹18.5 lakh.
+                  starting from 18.5 Lakh.
                 </p>
               </div>
 

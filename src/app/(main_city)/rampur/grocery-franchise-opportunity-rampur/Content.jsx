@@ -8,7 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise Opportunity in Rampur | The Buyzaar Mart",
   description:
-    "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from ₹18.5 lakh.",
+    "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from 18.5 Lakh.",
   url: "https://www.thebuyzaarmart.com/rampur/grocery-franchise-opportunity-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -32,7 +32,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A 600–1000 sq ft grocery franchise format for neighbourhood locations and first-time owners in Rampur, with a total investment starting from ₹18.5 lakh.",
+          "A 600–1000 sq ft grocery franchise format for neighbourhood locations and first-time owners in Rampur, with a total investment starting from 18.5 Lakh.",
       },
       {
         "@type": "Offer",
@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the total investment for a grocery franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹18.5 lakh as a total investment. A Mini Mart may range from ₹18.5 lakh to ₹20 Lakh, depending on size and location.",
+        text: "It starts from 18.5 Lakh as a total investment. A Mini Mart may range from 18.5 Lakh to ₹20 Lakh, depending on size and location.",
       },
     },
     {
@@ -245,7 +245,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart grocery franchise starts from ₹18.5 lakh as a total investment. The FAQ page says a Mini Mart of 600–1000 sq ft might range between ₹18.5 lakh and ₹20 Lakh.
+                The Buyzaar Mart grocery franchise starts from 18.5 Lakh as a total investment. The FAQ page says a Mini Mart of 600–1000 sq ft might range between 18.5 Lakh and ₹20 Lakh.
               </li>
               <li>
                 The final amount depends on store size, layout, location and the work your premises need. The FOCO model needs a larger store of at least 2,000 sq ft, so its total depends on the area you select.
@@ -495,7 +495,7 @@ const Content = () => {
                   Q1. What is the total investment for a grocery franchise?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹18.5 lakh as a total investment. A Mini Mart may range from ₹18.5 lakh to ₹20 Lakh, depending on size and location.
+                  It starts from 18.5 Lakh as a total investment. A Mini Mart may range from 18.5 Lakh to ₹20 Lakh, depending on size and location.
                 </p>
               </div>
 

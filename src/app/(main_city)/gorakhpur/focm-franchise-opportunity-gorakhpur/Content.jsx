@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Franchise Opportunity in Gorakhpur | The Buyzaar Mart",
   description:
-    "Explore the FOCM franchise opportunity in Gorakhpur from ₹18.5 lakh. Own the store while The Buyzaar Mart manages operations, POS billing, training, inventory, and retail systems.",
+    "Explore the FOCM franchise opportunity in Gorakhpur from 18.5 Lakh. Own the store while The Buyzaar Mart manages operations, POS billing, training, inventory, and retail systems.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/focm-franchise-opportunity-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "FOCM Mini Mart",
         description:
-          "A Franchise Owned, Company Managed Mini Mart format for Gorakhpur residential catchments, with investment generally ranging from ₹18.5 lakh to ₹22 Lakh depending on size, location, and premises condition.",
+          "A Franchise Owned, Company Managed Mini Mart format for Gorakhpur residential catchments, with investment generally ranging from 18.5 Lakh to ₹22 Lakh depending on size, location, and premises condition.",
       },
       {
         "@type": "Offer",
@@ -82,7 +82,7 @@ const faqSchema = {
       name: "How much do I need to invest?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹18.5 lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
+        text: "It starts from 18.5 Lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
       },
     },
     {
@@ -150,7 +150,7 @@ const Content = () => {
                 under a five-year agreement.
               </li>
               <li>
-                Franchise investment starts from ₹18.5 lakh, and the model is
+                Franchise investment starts from 18.5 Lakh, and the model is
                 positioned for professionals, first-time entrepreneurs, and
                 investors who want structured ownership without carrying the full
                 operational burden.
@@ -180,7 +180,7 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">Entry investment:</span> Starting
-                from ₹18.5 lakh, with a Mini Mart generally in the ₹15–22 Lakh range
+                from 18.5 Lakh, with a Mini Mart generally in the ₹15–22 Lakh range
                 depending on size, location, and premises condition.
               </li>
               <li>
@@ -643,7 +643,7 @@ const Content = () => {
                   How much do I need to invest?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹18.5 lakh, and a Mini Mart generally goes up to
+                  It starts from 18.5 Lakh, and a Mini Mart generally goes up to
                   ₹22 Lakh.
                 </p>
               </div>
@@ -709,7 +709,7 @@ const Content = () => {
                   Mart, or Hyper Mart format recommendation.
                 </li>
                 <li>
-                  Franchise investment begins from approximately ₹18.5 lakh, subject
+                  Franchise investment begins from approximately 18.5 Lakh, subject
                   to the selected format, site conditions, premises, and final
                   agreement terms.
                 </li>

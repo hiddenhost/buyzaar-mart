@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Grocery Franchise Starting From ₹18.5 lakh in Varanasi | The Buyzaar Mart",
+  name: "Grocery Franchise Starting From 18.5 Lakh in Varanasi | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers grocery franchise opportunities in Varanasi starting from ₹15.25 lakh with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, complete store setup, technology-enabled operations, and full franchise support.",
   url: "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-starting-from-15-lakh-varanasi",
@@ -55,7 +55,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Can I really start a grocery franchise from ₹18.5 lakh?",
+      name: "Can I really start a grocery franchise from 18.5 Lakh?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, entry-level investments for smaller store formats can start around this range, depending on location and format.",
@@ -63,7 +63,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "What store format fits a ₹18.5 lakh budget?",
+      name: "What store format fits a 18.5 Lakh budget?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Typically a smaller format like a Mini Mart, around 600 to 1,000 sq. ft.",
@@ -127,7 +127,7 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Franchise Starting From ₹18.5 lakh in Varanasi – A Complete Guide by The Buyzaar Mart
+              Grocery Franchise Starting From 18.5 Lakh in Varanasi – A Complete Guide by The Buyzaar Mart
             </h1>
 
             <p>
@@ -135,7 +135,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a ₹18.5 lakh Entry Point Matters
+              Why a 18.5 Lakh Entry Point Matters
             </h2>
 
             <p>
@@ -168,7 +168,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a ₹18.5 lakh Grocery Franchise Investment Typically Covers
+              What a 18.5 Lakh Grocery Franchise Investment Typically Covers
             </h2>
 
             <p>
@@ -302,14 +302,14 @@ const Content = () => {
 
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">Can I really start a grocery franchise from ₹18.5 lakh?</h3>
+                <h3 className="font-medium text-gray-900">Can I really start a grocery franchise from 18.5 Lakh?</h3>
                 <p className="mt-2">
                   Yes, entry-level investments for smaller store formats can start around this range, depending on location and format.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What store format fits a ₹18.5 lakh budget?</h3>
+                <h3 className="font-medium text-gray-900">What store format fits a 18.5 Lakh budget?</h3>
                 <p className="mt-2">
                   Typically a smaller format like a Mini Mart, around 600 to 1,000 sq. ft.
                 </p>

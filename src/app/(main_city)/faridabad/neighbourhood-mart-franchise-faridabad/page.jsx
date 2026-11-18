@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Neighbourhood Mart Franchise Faridabad | Buyzaar Mart",
   description:
-    "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from ₹18.5 lakh. Full setup, supply chain, POS & brand support. Apply today!",
+    "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5 Lakh. Full setup, supply chain, POS & brand support. Apply today!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/faridabad/neighbourhood-mart-franchise-faridabad",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "Neighbourhood Mart Franchise Faridabad | Buyzaar Mart",
     description:
-      "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from ₹18.5 lakh. Full setup, supply chain, POS & brand support. Apply today!",
+      "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5 Lakh. Full setup, supply chain, POS & brand support. Apply today!",
     url: "https://www.thebuyzaarmart.com/faridabad/neighbourhood-mart-franchise-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Neighbourhood Mart Franchise Faridabad | Buyzaar Mart",
     description:
-      "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from ₹18.5 lakh. Full setup, supply chain, POS & brand support. Apply today!",
+      "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5 Lakh. Full setup, supply chain, POS & brand support. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

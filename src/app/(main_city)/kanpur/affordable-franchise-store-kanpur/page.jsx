@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Affordable Franchise Store Kanpur | The Buyzaar Mart",
   description:
-    "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just ₹18.5 lakh with full setup, supply chain, POS & ongoing support. Apply now!",
+    "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 Lakh with full setup, supply chain, POS & ongoing support. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/affordable-franchise-store-kanpur",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "Affordable Franchise Store Kanpur | The Buyzaar Mart",
     description:
-      "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just ₹18.5 lakh with full setup, supply chain, POS & ongoing support. Apply now!",
+      "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 Lakh with full setup, supply chain, POS & ongoing support. Apply now!",
     url: "https://www.thebuyzaarmart.com/kanpur/affordable-franchise-store-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Affordable Franchise Store Kanpur | The Buyzaar Mart",
     description:
-      "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just ₹18.5 lakh with full setup, supply chain, POS & ongoing support. Apply now!",
+      "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 Lakh with full setup, supply chain, POS & ongoing support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -5,18 +5,18 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from ₹18.5 lakh",
+    "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from 18.5 Lakh",
   description:
-    "Start your successful grocery franchise in Faridabad with Buyzaar Mart. Low investment from ₹18.5 lakh with complete business setup, training, supply chain & ongoing support. FOCM model with proven ROI.",
+    "Start your successful grocery franchise in Faridabad with Buyzaar Mart. Low investment from 18.5 Lakh with complete business setup, training, supply chain & ongoing support. FOCM model with proven ROI.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/faridabad/buyzaar-mart-franchise-faridabad",
   },
   openGraph: {
     title:
-      "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from ₹18.5 lakh",
+      "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from 18.5 Lakh",
     description:
-      "Start your successful grocery franchise in Faridabad with Buyzaar Mart. Low investment from ₹18.5 lakh with complete business setup, training, supply chain & ongoing support. FOCM model with proven ROI.",
+      "Start your successful grocery franchise in Faridabad with Buyzaar Mart. Low investment from 18.5 Lakh with complete business setup, training, supply chain & ongoing support. FOCM model with proven ROI.",
     url: "https://www.thebuyzaarmart.com/faridabad/buyzaar-mart-franchise-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -24,7 +24,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from ₹18.5 lakh",
+        alt: "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from 18.5 Lakh",
       },
     ],
     locale: "en_IN",
@@ -33,9 +33,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from ₹18.5 lakh",
+      "Buyzaar Mart Franchise in Faridabad | Grocery Store Franchise from 18.5 Lakh",
     description:
-      "Start your successful grocery franchise in Faridabad with Buyzaar Mart. Low investment from ₹18.5 lakh with complete business setup, training, supply chain & ongoing support. FOCM model with proven ROI.",
+      "Start your successful grocery franchise in Faridabad with Buyzaar Mart. Low investment from 18.5 Lakh with complete business setup, training, supply chain & ongoing support. FOCM model with proven ROI.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

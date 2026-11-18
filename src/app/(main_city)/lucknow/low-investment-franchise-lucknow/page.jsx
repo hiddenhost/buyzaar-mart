@@ -5,18 +5,18 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Low Investment Franchise in Lucknow | Mini Mart Franchise from ₹18.5 lakh – The Buyzaar Mart",
+    "Low Investment Franchise in Lucknow | Mini Mart Franchise from 18.5 Lakh – The Buyzaar Mart",
   description:
-    "Start a low investment franchise in Lucknow with The Buyzaar Mart. Own a Mini Mart neighbourhood store from ₹18.5 lakh under the FOCM model. Full company support. Apply now at thebuyzaarmart.com.",
+    "Start a low investment franchise in Lucknow with The Buyzaar Mart. Own a Mini Mart neighbourhood store from 18.5 Lakh under the FOCM model. Full company support. Apply now at thebuyzaarmart.com.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/lucknow/low-investment-franchise-lucknow",
   },
   openGraph: {
     title:
-      "Low Investment Franchise in Lucknow | Mini Mart Franchise from ₹18.5 lakh – The Buyzaar Mart",
+      "Low Investment Franchise in Lucknow | Mini Mart Franchise from 18.5 Lakh – The Buyzaar Mart",
     description:
-      "Start a low investment franchise in Lucknow with The Buyzaar Mart. Own a Mini Mart neighbourhood store from ₹18.5 lakh under the FOCM model. Full company support. Apply now at thebuyzaarmart.com.",
+      "Start a low investment franchise in Lucknow with The Buyzaar Mart. Own a Mini Mart neighbourhood store from 18.5 Lakh under the FOCM model. Full company support. Apply now at thebuyzaarmart.com.",
     url: "https://www.thebuyzaarmart.com/lucknow/low-investment-franchise-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -24,7 +24,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Low Investment Franchise in Lucknow | Mini Mart Franchise from ₹18.5 lakh – The Buyzaar Mart",
+        alt: "Low Investment Franchise in Lucknow | Mini Mart Franchise from 18.5 Lakh – The Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -33,9 +33,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Low Investment Franchise in Lucknow | Mini Mart Franchise from ₹18.5 lakh – The Buyzaar Mart",
+      "Low Investment Franchise in Lucknow | Mini Mart Franchise from 18.5 Lakh – The Buyzaar Mart",
     description:
-      "Start a low investment franchise in Lucknow with The Buyzaar Mart. Own a Mini Mart neighbourhood store from ₹18.5 lakh under the FOCM model. Full company support. Apply now at thebuyzaarmart.com.",
+      "Start a low investment franchise in Lucknow with The Buyzaar Mart. Own a Mini Mart neighbourhood store from 18.5 Lakh under the FOCM model. Full company support. Apply now at thebuyzaarmart.com.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

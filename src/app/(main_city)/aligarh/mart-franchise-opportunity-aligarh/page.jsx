@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Opportunity in Aligarh | The Buyzaar Mart",
   description:
-    "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from ₹18.5 lakh with FOCM model and full support. Apply now.",
+    "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 Lakh with FOCM model and full support. Apply now.",
   keywords: [
     "mart franchise opportunity aligarh",
     "mart franchise in aligarh",
@@ -40,7 +40,7 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
-      "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from ₹18.5 lakh with FOCM model and full support. Apply now.",
+      "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 Lakh with FOCM model and full support. Apply now.",
     url: "https://www.thebuyzaarmart.com/aligarh/mart-franchise-opportunity-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
-      "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from ₹18.5 lakh with FOCM model and full support. Apply now.",
+      "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 Lakh with FOCM model and full support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

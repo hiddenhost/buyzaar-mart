@@ -4,7 +4,7 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Buyzaar Mart Retail Partner Gorakhpur | From ₹18.5 lakh",
+  title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5 Lakh",
   description:
     "Become a Buyzaar Mart retail partner in Gorakhpur. Own a branded supermarket with FOCM/FOCO models, POS billing, supply chain and launch support. Apply now.",
   keywords: [
@@ -36,7 +36,7 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-retail-partner-gorakhpur",
   },
   openGraph: {
-    title: "Buyzaar Mart Retail Partner Gorakhpur | From ₹18.5 lakh",
+    title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5 Lakh",
     description:
       "Become a Buyzaar Mart retail partner in Gorakhpur. Own a branded supermarket with FOCM/FOCO models, POS billing, supply chain and launch support. Apply now.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-retail-partner-gorakhpur",
@@ -46,7 +46,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Buyzaar Mart Retail Partner Gorakhpur | From ₹18.5 lakh",
+        alt: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5 Lakh",
       },
     ],
     locale: "en_IN",
@@ -54,7 +54,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Buyzaar Mart Retail Partner Gorakhpur | From ₹18.5 lakh",
+    title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5 Lakh",
     description:
       "Become a Buyzaar Mart retail partner in Gorakhpur. Own a branded supermarket with FOCM/FOCO models, POS billing, supply chain and launch support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

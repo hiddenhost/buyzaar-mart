@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Franchise Form Kanpur | Fill & Apply for The Buyzaar Mart Grocery Franchise",
   description:
-    "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from ₹18.5 lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
+    "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5 Lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/kanpur/franchise-form-kanpur",
   },
@@ -15,7 +15,7 @@ export const metadata = {
     title:
       "Franchise Form Kanpur | Fill & Apply for The Buyzaar Mart Grocery Franchise",
     description:
-      "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from ₹18.5 lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
+      "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5 Lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
     url: "https://www.thebuyzaarmart.com/kanpur/franchise-form-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -34,7 +34,7 @@ export const metadata = {
     title:
       "Franchise Form Kanpur | Fill & Apply for The Buyzaar Mart Grocery Franchise",
     description:
-      "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from ₹18.5 lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
+      "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5 Lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

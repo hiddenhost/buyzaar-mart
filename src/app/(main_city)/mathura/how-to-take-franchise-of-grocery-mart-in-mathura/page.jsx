@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Take a Grocery Mart Franchise in Mathura | Buyzaar",
   description:
-    "Planning to take a grocery mart franchise in Mathura? Compare formats, evaluate the model, and start from ₹18.5 lakh with The Buyzaar Mart. Enquire today.",
+    "Planning to take a grocery mart franchise in Mathura? Compare formats, evaluate the model, and start from 18.5 Lakh with The Buyzaar Mart. Enquire today.",
   keywords: [
     "grocery mart franchise in Mathura",
     "how to take franchise of grocery mart in Mathura",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "How to Take a Grocery Mart Franchise in Mathura | Buyzaar",
     description:
-      "Planning to take a grocery mart franchise in Mathura? Compare formats, evaluate the model, and start from ₹18.5 lakh with The Buyzaar Mart. Enquire today.",
+      "Planning to take a grocery mart franchise in Mathura? Compare formats, evaluate the model, and start from 18.5 Lakh with The Buyzaar Mart. Enquire today.",
     url: "https://www.thebuyzaarmart.com/mathura/how-to-take-franchise-of-grocery-mart-in-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Take a Grocery Mart Franchise in Mathura | Buyzaar",
     description:
-      "Planning to take a grocery mart franchise in Mathura? Compare formats, evaluate the model, and start from ₹18.5 lakh with The Buyzaar Mart. Enquire today.",
+      "Planning to take a grocery mart franchise in Mathura? Compare formats, evaluate the model, and start from 18.5 Lakh with The Buyzaar Mart. Enquire today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

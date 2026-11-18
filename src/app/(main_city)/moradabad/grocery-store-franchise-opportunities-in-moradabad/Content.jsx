@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Store Franchise Opportunities in Moradabad | The Buyzaar Mart",
   description:
-    "Discover grocery store franchise opportunities in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart, and Hyper Mart investment and area options starting from ₹18.5 lakh.",
+    "Discover grocery store franchise opportunities in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart, and Hyper Mart investment and area options starting from 18.5 Lakh.",
   url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-opportunities-in-moradabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the minimum investment for this opportunity?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart franchise starts from approximately ₹18.5 lakh, depending on location and size.",
+        text: "A Mini Mart franchise starts from approximately 18.5 Lakh, depending on location and size.",
       },
     },
     {
@@ -250,7 +250,7 @@ const Content = () => {
 
             <h3 className="font-medium text-gray-900">Mini Mart – The Entry-Level Opportunity</h3>
             <p>Area: approximately 600 to 1,000 sq. ft.</p>
-            <p>Investment: approximately ₹18.5 lakh to ₹25 lakh, depending on locality, size, and store condition.</p>
+            <p>Investment: approximately 18.5 Lakh to ₹25 lakh, depending on locality, size, and store condition.</p>
             <p>Best opportunity fit: residential colonies, housing societies, and neighbourhood-level markets with strong daily footfall.</p>
             <p>Product focus: groceries, packaged food, dairy, beverages, personal care, and household essentials.</p>
             <p>The most accessible opportunity for first-time entrepreneurs, homemakers, or investors with a smaller commercial space.</p>
@@ -379,7 +379,7 @@ const Content = () => {
                   What is the minimum investment for this opportunity?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart franchise starts from approximately ₹18.5 lakh, depending on location and size.
+                  A Mini Mart franchise starts from approximately 18.5 Lakh, depending on location and size.
                 </p>
               </div>
 

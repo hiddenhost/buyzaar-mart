@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Apply for Buyzaar Mart Franchise Rampur | Steps",
   description:
-    "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from ₹18.5 lakh. Call +91 9217991727.",
+    "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5 Lakh. Call +91 9217991727.",
   keywords: [
     "how to apply for buyzaar mart franchise rampur",
     "buyzaar mart franchise rampur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "How to Apply for Buyzaar Mart Franchise Rampur | Steps",
     description:
-      "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from ₹18.5 lakh. Call +91 9217991727.",
+      "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5 Lakh. Call +91 9217991727.",
     url: "https://www.thebuyzaarmart.com/rampur/how-to-apply-for-buyzaar-mart-franchise-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Apply for Buyzaar Mart Franchise Rampur | Steps",
     description:
-      "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from ₹18.5 lakh. Call +91 9217991727.",
+      "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5 Lakh. Call +91 9217991727.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

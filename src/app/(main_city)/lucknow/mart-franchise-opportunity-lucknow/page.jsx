@@ -5,7 +5,7 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Mart Franchise Opportunity Lucknow | The Buyzaar Mart – Invest from ₹18.5 lakh",
+    "Mart Franchise Opportunity Lucknow | The Buyzaar Mart – Invest from 18.5 Lakh",
   description:
     "Explore the best mart franchise opportunity in Lucknow with The Buyzaar Mart. Choose Mini Mart or Super Mart under FOCM or FOCO model. Full investment breakdown, brand support & training. Apply now at thebuyzaarmart.com.",
   alternates: {
@@ -14,7 +14,7 @@ export const metadata = {
   },
   openGraph: {
     title:
-      "Mart Franchise Opportunity Lucknow | The Buyzaar Mart – Invest from ₹18.5 lakh",
+      "Mart Franchise Opportunity Lucknow | The Buyzaar Mart – Invest from 18.5 Lakh",
     description:
       "Explore the best mart franchise opportunity in Lucknow with The Buyzaar Mart. Choose Mini Mart or Super Mart under FOCM or FOCO model. Full investment breakdown, brand support & training. Apply now at thebuyzaarmart.com.",
     url: "https://www.thebuyzaarmart.com/lucknow/mart-franchise-in-lucknow",
@@ -24,7 +24,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Opportunity Lucknow | The Buyzaar Mart – Invest from ₹18.5 lakh",
+        alt: "Mart Franchise Opportunity Lucknow | The Buyzaar Mart – Invest from 18.5 Lakh",
       },
     ],
     locale: "en_IN",
@@ -33,7 +33,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Mart Franchise Opportunity Lucknow | The Buyzaar Mart – Invest from ₹18.5 lakh",
+      "Mart Franchise Opportunity Lucknow | The Buyzaar Mart – Invest from 18.5 Lakh",
     description:
       "Explore the best mart franchise opportunity in Lucknow with The Buyzaar Mart. Choose Mini Mart or Super Mart under FOCM or FOCO model. Full investment breakdown, brand support & training. Apply now at thebuyzaarmart.com.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

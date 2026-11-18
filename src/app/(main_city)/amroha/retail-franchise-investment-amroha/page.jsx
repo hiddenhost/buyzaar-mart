@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Franchise Investment in Amroha | TheBuyzaar Mart",
   description:
-    "Planning a retail franchise investment in Amroha? Buyzaar Mart starts from ₹18.5 lakh total investment with setup, POS billing, training and 18-20% gross margin.",
+    "Planning a retail franchise investment in Amroha? Buyzaar Mart starts from 18.5 Lakh total investment with setup, POS billing, training and 18-20% gross margin.",
   keywords: [
     "retail franchise investment Amroha",
     "retail franchise Amroha",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Retail Franchise Investment in Amroha | The Buyzaar Mart",
     description:
-      "Planning a retail franchise investment in Amroha? Buyzaar Mart starts from ₹18.5 lakh total investment with setup, POS billing, training and 18-20% gross margin.",
+      "Planning a retail franchise investment in Amroha? Buyzaar Mart starts from 18.5 Lakh total investment with setup, POS billing, training and 18-20% gross margin.",
     url: "https://www.thebuyzaarmart.com/amroha/retail-franchise-investment-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Franchise Investment in Amroha | The Buyzaar Mart",
     description:
-      "Planning a retail franchise investment in Amroha? The Buyzaar Mart starts from ₹18.5 lakh total investment with setup, POS billing, training and 18-20% gross margin.",
+      "Planning a retail franchise investment in Amroha? The Buyzaar Mart starts from 18.5 Lakh total investment with setup, POS billing, training and 18-20% gross margin.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

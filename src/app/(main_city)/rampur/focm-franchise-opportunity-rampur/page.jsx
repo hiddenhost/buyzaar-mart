@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Franchise Opportunity in Rampur | The Buyzaar Mart",
   description:
-    "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹18.5 lakh.",
+    "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from 18.5 Lakh.",
   keywords: [
     "focm franchise opportunity rampur",
     "focm franchise rampur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCM Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-      "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹18.5 lakh.",
+      "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from 18.5 Lakh.",
     url: "https://www.thebuyzaarmart.com/rampur/focm-franchise-opportunity-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-      "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from ₹18.5 lakh.",
+      "Explore the FOCM franchise opportunity in Rampur with The Buyzaar Mart. Own your store, with company-managed systems, training and launch support. Total investment from 18.5 Lakh.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

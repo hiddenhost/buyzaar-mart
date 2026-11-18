@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "How to Open a Retail Franchise in Bareilly | MiniMart, SuperMart & HyperMart by The Buyzaar Mart",
   description:
-    "A complete step-by-step guide to opening a retail franchise in Bareilly with The Buyzaar Mart. Choose your format — MiniMart, SuperMart, or HyperMart — and start with ₹18.5 lakh. Apply now!",
+    "A complete step-by-step guide to opening a retail franchise in Bareilly with The Buyzaar Mart. Choose your format — MiniMart, SuperMart, or HyperMart — and start with 18.5 Lakh. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/how-to-open-retail-franchise-in-bareilly",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "How to Open a Retail Franchise in Bareilly | MiniMart, SuperMart & HyperMart by The Buyzaar Mart",
     description:
-      "A complete step-by-step guide to opening a retail franchise in Bareilly with The Buyzaar Mart. Choose your format — MiniMart, SuperMart, or HyperMart — and start with ₹18.5 lakh. Apply now!",
+      "A complete step-by-step guide to opening a retail franchise in Bareilly with The Buyzaar Mart. Choose your format — MiniMart, SuperMart, or HyperMart — and start with 18.5 Lakh. Apply now!",
     url:
       "https://www.thebuyzaarmart.com/bareilly/how-to-open-retail-franchise-in-bareilly",
     siteName: "The Buyzaar Mart",
@@ -36,7 +36,7 @@ export const metadata = {
     title:
       "How to Open a Retail Franchise in Bareilly | MiniMart, SuperMart & HyperMart by The Buyzaar Mart",
     description:
-      "A complete step-by-step guide to opening a retail franchise in Bareilly with The Buyzaar Mart. Choose your format — MiniMart, SuperMart, or HyperMart — and start with ₹18.5 lakh. Apply now!",
+      "A complete step-by-step guide to opening a retail franchise in Bareilly with The Buyzaar Mart. Choose your format — MiniMart, SuperMart, or HyperMart — and start with 18.5 Lakh. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

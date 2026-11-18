@@ -5,18 +5,18 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Daily Needs Store Franchise in Bareilly – The Buyzaar Mart | Start from ₹18.5 lakh",
+    "Daily Needs Store Franchise in Bareilly – The Buyzaar Mart | Start from 18.5 Lakh",
   description:
-    "Want to open a daily needs store franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting ₹18.5 lakh with full setup, POS, 50+ FMCG brands & complete support. Apply now!",
+    "Want to open a daily needs store franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting 18.5 Lakh with full setup, POS, 50+ FMCG brands & complete support. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/daily-needs-store-franchise-in-bareilly",
   },
   openGraph: {
     title:
-      "Daily Needs Store Franchise in Bareilly – The Buyzaar Mart | Start from ₹18.5 lakh",
+      "Daily Needs Store Franchise in Bareilly – The Buyzaar Mart | Start from 18.5 Lakh",
     description:
-      "Want to open a daily needs store franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting ₹18.5 lakh with full setup, POS, 50+ FMCG brands & complete support. Apply now!",
+      "Want to open a daily needs store franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting 18.5 Lakh with full setup, POS, 50+ FMCG brands & complete support. Apply now!",
     url: "https://www.thebuyzaarmart.com/bareilly/daily-needs-store-franchise-in-bareilly",
     siteName: "The Buyzaar Mart",
     images: [
@@ -24,7 +24,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Daily Needs Store Franchise in Bareilly – The Buyzaar Mart | Start from ₹18.5 lakh",
+        alt: "Daily Needs Store Franchise in Bareilly – The Buyzaar Mart | Start from 18.5 Lakh",
       },
     ],
     locale: "en_IN",
@@ -33,9 +33,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Daily Needs Store Franchise in Bareilly – The Buyzaar Mart | Start from ₹18.5 lakh",
+      "Daily Needs Store Franchise in Bareilly – The Buyzaar Mart | Start from 18.5 Lakh",
     description:
-      "Want to open a daily needs store franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting ₹18.5 lakh with full setup, POS, 50+ FMCG brands & complete support. Apply now!",
+      "Want to open a daily needs store franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting 18.5 Lakh with full setup, POS, 50+ FMCG brands & complete support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

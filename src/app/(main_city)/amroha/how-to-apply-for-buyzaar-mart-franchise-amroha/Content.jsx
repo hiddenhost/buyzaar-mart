@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "How to Apply for Buyzaar Mart Franchise in Amroha",
   description:
-    "Learn how to apply for a Buyzaar Mart franchise in Amroha in 8 simple steps. Documents, application form and total investment from ₹18.5 lakh. Reply within 24 hours.",
+    "Learn how to apply for a Buyzaar Mart franchise in Amroha in 8 simple steps. Documents, application form and total investment from 18.5 Lakh. Reply within 24 hours.",
   url: "https://www.thebuyzaarmart.com/amroha/how-to-apply-for-buyzaar-mart-franchise-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -67,7 +67,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from a total of ₹18.5 lakh, depending on the store format and area.",
+        text: "It starts from a total of 18.5 Lakh, depending on the store format and area.",
       },
     },
     {
@@ -286,7 +286,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart supermarket franchise starts from a total
-                investment of ₹18.5 lakh, and the final amount depends on the
+                investment of 18.5 Lakh, and the final amount depends on the
                 store format and the area you choose for your Amroha outlet.
               </li>
               <li>
@@ -640,7 +640,7 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  It starts from a total of ₹18.5 lakh, depending on the store
+                  It starts from a total of 18.5 Lakh, depending on the store
                   format and area.
                 </p>
               </div>

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
   description:
-    "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from ₹18.5 lakh with structured returns.",
+    "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 Lakh with structured returns.",
   keywords: [
     "FOCO franchise opportunity Bulandshahr",
     "FOCO Bulandshahr",
@@ -39,7 +39,7 @@ export const metadata = {
   openGraph: {
     title: "FOCO Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
     description:
-      "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from ₹18.5 lakh with structured returns.",
+      "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 Lakh with structured returns.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/foco-franchise-opportunity-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
     description:
-      "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from ₹18.5 lakh with structured returns.",
+      "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 Lakh with structured returns.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

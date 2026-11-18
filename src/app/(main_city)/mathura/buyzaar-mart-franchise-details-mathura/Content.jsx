@@ -250,7 +250,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 <span className="font-semibold">Minimum Investment:</span>{" "}
-                Starts from ₹18.5 lakh onwards, scaling with store format and
+                Starts from 18.5 Lakh onwards, scaling with store format and
                 carpet area.
               </li>
               <li>

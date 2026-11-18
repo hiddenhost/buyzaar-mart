@@ -5,18 +5,18 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from ₹18.5 lakh",
+    "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from 18.5 Lakh",
   description:
-    "Launch your retail business franchise in Greater Noida with The Buyzaar Mart. FOCM model with company-managed operations, POS system, supply chain & full marketing support. Investment starts ₹18.5 lakh. Apply now.",
+    "Launch your retail business franchise in Greater Noida with The Buyzaar Mart. FOCM model with company-managed operations, POS system, supply chain & full marketing support. Investment starts 18.5 Lakh. Apply now.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/greaternoida/retail-business-franchise-greater-noida",
   },
   openGraph: {
     title:
-      "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from ₹18.5 lakh",
+      "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from 18.5 Lakh",
     description:
-      "Launch your retail business franchise in Greater Noida with The Buyzaar Mart. FOCM model with company-managed operations, POS system, supply chain & full marketing support. Investment starts ₹18.5 lakh. Apply now.",
+      "Launch your retail business franchise in Greater Noida with The Buyzaar Mart. FOCM model with company-managed operations, POS system, supply chain & full marketing support. Investment starts 18.5 Lakh. Apply now.",
     url: "https://www.thebuyzaarmart.com/greaternoida/retail-business-franchise-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
@@ -24,7 +24,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from ₹18.5 lakh",
+        alt: "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from 18.5 Lakh",
       },
     ],
     locale: "en_IN",
@@ -33,9 +33,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from ₹18.5 lakh",
+      "Retail Business Franchise in Greater Noida | The Buyzaar Mart – Start from 18.5 Lakh",
     description:
-      "Launch your retail business franchise in Greater Noida with The Buyzaar Mart. FOCM model with company-managed operations, POS system, supply chain & full marketing support. Investment starts ₹18.5 lakh. Apply now.",
+      "Launch your retail business franchise in Greater Noida with The Buyzaar Mart. FOCM model with company-managed operations, POS system, supply chain & full marketing support. Investment starts 18.5 Lakh. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

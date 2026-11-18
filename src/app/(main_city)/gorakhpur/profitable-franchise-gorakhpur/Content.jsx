@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "Profitable Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-    "Looking for a profitable franchise in Gorakhpur? Start a Buyzaar Mart grocery franchise from ₹18.5 lakh with 18–20% gross margin and full support. Apply now!",
+    "Looking for a profitable franchise in Gorakhpur? Start a Buyzaar Mart grocery franchise from 18.5 Lakh with 18–20% gross margin and full support. Apply now!",
   keywords:
     "profitable franchise gorakhpur, profitable franchise in gorakhpur, high profit franchise gorakhpur, best profitable franchise gorakhpur, franchise business in gorakhpur, franchise opportunity gorakhpur, grocery franchise gorakhpur, supermarket franchise gorakhpur, mart franchise gorakhpur, the buyzaar mart gorakhpur, buyzaar mart franchise gorakhpur, retail franchise gorakhpur, low investment franchise gorakhpur, mini mart franchise gorakhpur, super mart franchise gorakhpur, hyper mart franchise gorakhpur, focm franchise gorakhpur, franchise with high margin gorakhpur, grocery franchise margin gorakhpur, fmcg franchise gorakhpur, profitable business in gorakhpur, profitable franchise uttar pradesh, profitable grocery franchise india, supermarket franchise india, buyzaar mart dealership",
 };
@@ -67,7 +67,7 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
-      "A single unit starts from ₹18.5 lakh, depending on format, area, stock and interiors.",
+      "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
   },
   {
     question: "Is the 18–20% margin my net profit?",
@@ -150,7 +150,7 @@ const Content = () => {
               items={[
                 "A profitable franchise in Gorakhpur is not just one with a high margin on paper. It is one with steady customers, controlled costs, low stock loss and a system that keeps the store running well.",
                 "Grocery and supermarket retail fits this definition because families buy food and daily essentials throughout the year.",
-                "The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart franchises with investment starting from ₹18.5 lakh and an indicated effective gross margin of 18–20%.",
+                "The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart franchises with investment starting from 18.5 Lakh and an indicated effective gross margin of 18–20%.",
                 "This page explains where profit comes from, what affects it, and how to protect it, so you can plan with clear expectations.",
               ]}
             />
@@ -359,7 +359,7 @@ const Content = () => {
 
             <BulletList
               items={[
-                "The investment starts from ₹18.5 lakh for a single unit and depends on format and area.",
+                "The investment starts from 18.5 Lakh for a single unit and depends on format and area.",
                 "It covers stock, interior, software fee, franchise fee including 18% GST and security deposit.",
                 "The investment calculator on the franchise page gives an estimate for your chosen size.",
                 "Rent for the premises is paid by the franchise partner.",

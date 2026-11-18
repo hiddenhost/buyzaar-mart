@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Branded Grocery Franchise in Mathura | The Buyzaar Mart",
   description:
-    "Start a branded grocery franchise in Mathura with The Buyzaar Mart. Invest from ₹18.5 lakh, earn an 18-20% margin with brand support, POS and training.",
+    "Start a branded grocery franchise in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with brand support, POS and training.",
   url: "https://www.thebuyzaarmart.com/mathura/branded-grocery-franchise-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -165,7 +165,7 @@ const Content = () => {
                 with a more professional retail presence.
               </li>
               <li>
-                Investment starts from ₹18.5 lakh for a Mini Mart, with an
+                Investment starts from 18.5 Lakh for a Mini Mart, with an
                 effective gross margin of 18-20% depending on location, size and
                 sales volume.
               </li>
@@ -394,7 +394,7 @@ const Content = () => {
                 homecare and hygiene, stationery, snacks and biscuits.
               </li>
               <li>
-                Total investment usually ranges from ₹18.5 lakh to ₹20 lakh,
+                Total investment usually ranges from 18.5 Lakh to ₹20 lakh,
                 depending on size, layout and site work.
               </li>
             </ul>

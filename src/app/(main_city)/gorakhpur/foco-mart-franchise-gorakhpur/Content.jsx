@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Mart Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-    "FOCO mart franchise in Gorakhpur from ₹18.5 lakh. Compare Mini, Super and Hyper Mart formats. The Buyzaar Mart operates the store while you own it.",
+    "FOCO mart franchise in Gorakhpur from 18.5 Lakh. Compare Mini, Super and Hyper Mart formats. The Buyzaar Mart operates the store while you own it.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/foco-mart-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -74,7 +74,7 @@ const faqSchema = {
       name: "How much do I need to invest?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹18.5 lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
+        text: "It starts from 18.5 Lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
       },
     },
     {
@@ -153,7 +153,7 @@ const Content = () => {
                 Under FOCO you provide the capital and the premises, and The
                 Buyzaar Mart operates the store, including staff salaries,
                 electricity, inventory, marketing, and daily running. Franchise
-                investment starts from ₹18.5 lakh, and the stated return is about
+                investment starts from 18.5 Lakh, and the stated return is about
                 10% revenue sharing on monthly sales.
               </li>
               <li>
@@ -601,7 +601,7 @@ const Content = () => {
                   How much do I need to invest?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹18.5 lakh, and a Mini Mart generally goes up to
+                  It starts from 18.5 Lakh, and a Mini Mart generally goes up to
                   ₹22 Lakh.
                 </p>
               </div>
@@ -675,7 +675,7 @@ const Content = () => {
                   format recommendation.
                 </li>
                 <li>
-                  Investment begins from approximately ₹18.5 lakh, subject to the
+                  Investment begins from approximately 18.5 Lakh, subject to the
                   selected mart format, premises condition, site assessment, and
                   final agreement terms.
                 </li>

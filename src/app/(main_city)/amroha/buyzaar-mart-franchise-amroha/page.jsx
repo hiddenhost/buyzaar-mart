@@ -5,9 +5,9 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from ₹18.5 lakh",
+    "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5 Lakh",
   description:
-    "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from ₹18.5 lakh. Apply today.",
+    "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5 Lakh. Apply today.",
   keywords: [
     "buyzaar mart franchise amroha",
     "buyzaar mart franchise in amroha",
@@ -39,9 +39,9 @@ export const metadata = {
   },
   openGraph: {
     title:
-      "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from ₹18.5 lakh",
+      "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5 Lakh",
     description:
-      "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from ₹18.5 lakh. Apply today.",
+      "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5 Lakh. Apply today.",
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -49,7 +49,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from ₹18.5 lakh",
+        alt: "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5 Lakh",
       },
     ],
     locale: "en_IN",
@@ -58,9 +58,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from ₹18.5 lakh",
+      "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5 Lakh",
     description:
-      "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from ₹18.5 lakh. Apply today.",
+      "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5 Lakh. Apply today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

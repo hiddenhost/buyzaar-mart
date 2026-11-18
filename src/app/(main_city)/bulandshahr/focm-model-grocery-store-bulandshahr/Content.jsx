@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much does it cost to open a FOCM grocery store in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment typically starts from around ₹18.5 lakh for a Mini Mart format, scaling up with store size.",
+        text: "Investment typically starts from around 18.5 Lakh for a Mini Mart format, scaling up with store size.",
       },
     },
     {
@@ -237,7 +237,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Investment for a Bulandshahr FOCM grocery store generally starts from around ₹18.5 lakh for a Mini Mart format and increases with store size.</li>
+              <li>Investment for a Bulandshahr FOCM grocery store generally starts from around 18.5 Lakh for a Mini Mart format and increases with store size.</li>
               <li>Cost components include opening stock across grocery categories, interior and store setup, POS/software fee, one-time franchise fee (inclusive of 18% GST), and a security deposit.</li>
               <li>Ongoing costs such as rent, staff salaries, and electricity are borne by the franchise partner, while the company manages how the store is operated.</li>
               <li>The expected gross margin on grocery sales generally falls in the 18 to 20 percent range, though actual performance depends on location, product mix, and customer demand.</li>
@@ -311,7 +311,7 @@ const Content = () => {
                   How much does it cost to open a FOCM grocery store in Bulandshahr?
                 </h3>
                 <p className="mt-2">
-                  Investment typically starts from around ₹18.5 lakh for a Mini Mart format, scaling up with store size.
+                  Investment typically starts from around 18.5 Lakh for a Mini Mart format, scaling up with store size.
                 </p>
               </div>
 

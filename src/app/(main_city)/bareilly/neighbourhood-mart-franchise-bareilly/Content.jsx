@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-          "Neighbourhood grocery franchise format for 600 to 1000 square feet starting from approximately ₹18.5 lakh",
+          "Neighbourhood grocery franchise format for 600 to 1000 square feet starting from approximately 18.5 Lakh",
       },
       {
         "@type": "Offer",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment to open a Buyzaar Mart neighbourhood mart franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from approximately ₹18.5 lakh for a Mini Mart covering stock, interior, software fee, franchise fee inclusive of GST, and security deposit.",
+        text: "The minimum investment starts from approximately 18.5 Lakh for a Mini Mart covering stock, interior, software fee, franchise fee inclusive of GST, and security deposit.",
       },
     },
     {
@@ -311,7 +311,7 @@ const Content = () => {
               first-time entrepreneurs in Bareilly who want to start with a
               manageable investment and build their footprint in the local
               market. The investment for a Mini Mart starts from approximately
-              ₹18.5 lakh, making it one of the most affordable organized grocery
+              18.5 Lakh, making it one of the most affordable organized grocery
               franchise opportunities in India.
             </p>
 
@@ -619,7 +619,7 @@ const Content = () => {
                   neighbourhood mart franchise in Bareilly?
                 </h3>
                 <p className="mt-2 text-gray-700">
-                  The minimum investment starts from approximately ₹18.5 lakh for
+                  The minimum investment starts from approximately 18.5 Lakh for
                   a Mini Mart (600&ndash;1000 sq ft), covering stock, interior,
                   software fee, franchise fee (inclusive of 18% GST), and
                   security deposit.

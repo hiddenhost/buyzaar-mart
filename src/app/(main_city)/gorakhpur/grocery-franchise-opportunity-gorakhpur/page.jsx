@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Opportunity Gorakhpur | The Buyzaar Mart",
   description:
-    "Explore a grocery franchise opportunity in Gorakhpur with The Buyzaar Mart. Start from ₹18.5 lakh with 18–20% gross margin, full setup & support. Apply now!",
+    "Explore a grocery franchise opportunity in Gorakhpur with The Buyzaar Mart. Start from 18.5 Lakh with 18–20% gross margin, full setup & support. Apply now!",
   keywords: [
     "grocery franchise opportunity gorakhpur",
     "grocery franchise gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Opportunity Gorakhpur | The Buyzaar Mart",
     description:
-      "Explore a grocery franchise opportunity in Gorakhpur with The Buyzaar Mart. Start from ₹18.5 lakh with 18–20% gross margin, full setup & support. Apply now!",
+      "Explore a grocery franchise opportunity in Gorakhpur with The Buyzaar Mart. Start from 18.5 Lakh with 18–20% gross margin, full setup & support. Apply now!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-opportunity-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Opportunity Gorakhpur | The Buyzaar Mart",
     description:
-      "Explore a grocery franchise opportunity in Gorakhpur with The Buyzaar Mart. Start from ₹18.5 lakh with 18–20% gross margin, full setup & support. Apply now!",
+      "Explore a grocery franchise opportunity in Gorakhpur with The Buyzaar Mart. Start from 18.5 Lakh with 18–20% gross margin, full setup & support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

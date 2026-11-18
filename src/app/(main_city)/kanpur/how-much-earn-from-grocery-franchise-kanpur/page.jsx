@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "How Much Can You Earn from a Grocery Franchise in Kanpur? | The Buyzaar Mart",
   description:
-    "Discover how much you can earn from a grocery franchise in Kanpur with The Buyzaar Mart. Explore the FOCM model, investment details, profit margins, and ROI. Start from ₹18.5 lakh today.",
+    "Discover how much you can earn from a grocery franchise in Kanpur with The Buyzaar Mart. Explore the FOCM model, investment details, profit margins, and ROI. Start from 18.5 Lakh today.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/how-much-earn-from-grocery-franchise-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "How Much Can You Earn from a Grocery Franchise in Kanpur? | The Buyzaar Mart",
     description:
-      "Discover how much you can earn from a grocery franchise in Kanpur with The Buyzaar Mart. Explore the FOCM model, investment details, profit margins, and ROI. Start from ₹18.5 lakh today.",
+      "Discover how much you can earn from a grocery franchise in Kanpur with The Buyzaar Mart. Explore the FOCM model, investment details, profit margins, and ROI. Start from 18.5 Lakh today.",
     url: "https://www.thebuyzaarmart.com/kanpur/how-much-earn-from-grocery-franchise-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "How Much Can You Earn from a Grocery Franchise in Kanpur? | The Buyzaar Mart",
     description:
-      "Discover how much you can earn from a grocery franchise in Kanpur with The Buyzaar Mart. Explore the FOCM model, investment details, profit margins, and ROI. Start from ₹18.5 lakh today.",
+      "Discover how much you can earn from a grocery franchise in Kanpur with The Buyzaar Mart. Explore the FOCM model, investment details, profit margins, and ROI. Start from 18.5 Lakh today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

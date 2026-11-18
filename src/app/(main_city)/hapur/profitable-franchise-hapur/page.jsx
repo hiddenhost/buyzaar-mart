@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Profitable Franchise in Hapur | The Buyzaar Mart",
   description:
-    "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from ₹18.5 lakh. Apply now.",
+    "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5 Lakh. Apply now.",
   keywords: [
     "profitable franchise Hapur",
     "profitable franchise in Hapur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Profitable Franchise in Hapur | The Buyzaar Mart",
     description:
-      "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from ₹18.5 lakh. Apply now.",
+      "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5 Lakh. Apply now.",
     url: "https://www.thebuyzaarmart.com/hapur/profitable-franchise-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Profitable Franchise in Hapur | The Buyzaar Mart",
     description:
-      "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from ₹18.5 lakh. Apply now.",
+      "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5 Lakh. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

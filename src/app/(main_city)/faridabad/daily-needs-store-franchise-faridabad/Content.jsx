@@ -44,7 +44,7 @@ const faqSchema = {
       name: "What is the starting investment for a Buyzaar Mart daily needs franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The franchise starts at ₹18.5 lakh. Total investment varies by format, store size, and location.",
+        text: "The franchise starts at 18.5 Lakh. Total investment varies by format, store size, and location.",
       },
     },
     {
@@ -547,7 +547,7 @@ const Content = () => {
                   needs franchise?
                 </h3>
                 <p className="mt-2">
-                  The franchise starts at ₹18.5 lakh. Total investment varies by
+                  The franchise starts at 18.5 Lakh. Total investment varies by
                   format, store size, and location. You can use the investment
                   calculator on{" "}
                   <a

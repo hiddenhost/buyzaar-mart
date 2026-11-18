@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise in Faridabad - The Buyzaar Mart",
   description:
-    "Own a grocery franchise in Faridabad with The Buyzaar Mart from ₹18.5 lakh. Explore FOCM and FOCO models, store setup, POS, supply chain, marketing support, and launch assistance.",
+    "Own a grocery franchise in Faridabad with The Buyzaar Mart from 18.5 Lakh. Explore FOCM and FOCO models, store setup, POS, supply chain, marketing support, and launch assistance.",
   url: "https://www.thebuyzaarmart.com/faridabad/grocery-franchise-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart grocery franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The franchise starts at ₹18.5 lakh, covering store setup, branding, POS, inventory, training, and launch marketing support.",
+        text: "The franchise starts at 18.5 Lakh, covering store setup, branding, POS, inventory, training, and launch marketing support.",
       },
     },
     {
@@ -144,7 +144,7 @@ const Content = () => {
             </p>
 
             <p>
-              With a franchise starting at just ₹18.5 lakh, two flexible
+              With a franchise starting at just 18.5 Lakh, two flexible
               franchise models — FOCM and FOCO — and comprehensive end-to-end
               support, The Buyzaar Mart is one of the most complete and
               accessible grocery franchise opportunities available in Faridabad
@@ -596,7 +596,7 @@ const Content = () => {
                   franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
-                  The franchise starts at ₹18.5 lakh, covering store setup,
+                  The franchise starts at 18.5 Lakh, covering store setup,
                   branding, POS, inventory, training, and launch marketing
                   support.
                 </p>

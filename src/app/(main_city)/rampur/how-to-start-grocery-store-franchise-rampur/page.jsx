@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Start a Grocery Franchise in Rampur | Buyzaar Mart",
   description:
-    "Learn how to start a grocery store franchise in Rampur with The Buyzaar Mart. Total investment from ₹18.5 lakh, training, POS billing and launch support.",
+    "Learn how to start a grocery store franchise in Rampur with The Buyzaar Mart. Total investment from 18.5 Lakh, training, POS billing and launch support.",
   keywords: [
     "how to start grocery store franchise Rampur",
     "grocery store franchise Rampur",
@@ -42,7 +42,7 @@ export const metadata = {
   openGraph: {
     title: "How to Start a Grocery Franchise in Rampur | Buyzaar Mart",
     description:
-      "Learn how to start a grocery store franchise in Rampur with The Buyzaar Mart. Total investment from ₹18.5 lakh, training, POS billing and launch support.",
+      "Learn how to start a grocery store franchise in Rampur with The Buyzaar Mart. Total investment from 18.5 Lakh, training, POS billing and launch support.",
     url: "https://www.thebuyzaarmart.com/rampur/how-to-start-grocery-store-franchise-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +60,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Start a Grocery Franchise in Rampur | Buyzaar Mart",
     description:
-      "Learn how to start a grocery store franchise in Rampur with The Buyzaar Mart. Total investment from ₹18.5 lakh, training, POS billing and launch support.",
+      "Learn how to start a grocery store franchise in Rampur with The Buyzaar Mart. Total investment from 18.5 Lakh, training, POS billing and launch support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

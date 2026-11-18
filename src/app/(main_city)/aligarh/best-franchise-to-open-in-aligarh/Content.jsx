@@ -78,7 +78,7 @@ const faqSchema = {
       name: "How much money do I need?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart indicates about ₹18.5 lakh to ₹20 lakh. Larger formats cost more.",
+        text: "A Mini Mart indicates about 18.5 Lakh to ₹20 lakh. Larger formats cost more.",
       },
     },
     {
@@ -329,7 +329,7 @@ const Content = () => {
                 This is the usual starting point for first-time owners. It needs at least 600 sq ft of carpet area and covers grocery, beverages, snacks, personal care, home care and stationery.
               </li>
               <li>
-                The brand indicates a total investment of about ₹18.5 lakh to ₹20 lakh, depending on size, arrangement and location.
+                The brand indicates a total investment of about 18.5 Lakh to ₹20 lakh, depending on size, arrangement and location.
               </li>
             </ul>
 
@@ -508,7 +508,7 @@ const Content = () => {
                   How much money do I need?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart indicates about ₹18.5 lakh to ₹20 lakh. Larger formats cost more.
+                  A Mini Mart indicates about 18.5 Lakh to ₹20 lakh. Larger formats cost more.
                 </p>
               </div>
 

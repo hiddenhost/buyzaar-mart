@@ -76,7 +76,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart of 600-1000 sq ft needs about ₹18.5 lakh to ₹20 lakh in total, and larger formats cost more.",
+        text: "A Mini Mart of 600-1000 sq ft needs about 18.5 Lakh to ₹20 lakh in total, and larger formats cost more.",
       },
     },
     {
@@ -218,7 +218,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The total investment for a Buyzaar Mart Mini Mart franchise (600-1000 sq ft) is about ₹18.5 lakh to ₹20 lakh.
+                The total investment for a Buyzaar Mart Mini Mart franchise (600-1000 sq ft) is about 18.5 Lakh to ₹20 lakh.
               </li>
               <li>
                 The final amount depends on store size, layout, location and the format you select, and larger formats need a higher total.
@@ -777,7 +777,7 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart of 600-1000 sq ft needs about ₹18.5 lakh to ₹20 lakh in total, and larger formats cost more.
+                  A Mini Mart of 600-1000 sq ft needs about 18.5 Lakh to ₹20 lakh in total, and larger formats cost more.
                 </p>
               </div>
 

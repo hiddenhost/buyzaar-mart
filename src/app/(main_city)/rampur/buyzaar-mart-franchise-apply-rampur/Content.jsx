@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise Apply in Rampur | Apply Now",
   description:
-    "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from ₹18.5 lakh. Submit your inquiry today.",
+    "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from 18.5 Lakh. Submit your inquiry today.",
   url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-apply-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Total investment starts from ₹18.5 lakh, depending on store format and area.",
+        text: "Total investment starts from 18.5 Lakh, depending on store format and area.",
       },
     },
     {
@@ -145,7 +145,7 @@ const Content = () => {
                 Applying is a structured, guided process. From the first inquiry to documentation and store launch, the franchise team explains each stage, so you always know what is needed and what comes next.
               </li>
               <li>
-                Total investment starts from ₹18.5 lakh, giving applicants an accessible entry into organised retail in Rampur, with the exact total confirmed by the franchise team for your chosen store format and area.
+                Total investment starts from 18.5 Lakh, giving applicants an accessible entry into organised retail in Rampur, with the exact total confirmed by the franchise team for your chosen store format and area.
               </li>
             </ul>
 
@@ -224,7 +224,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                Total investment starts from ₹18.5 lakh, which makes The Buyzaar Mart a low-investment supermarket franchise compared with many larger retail formats that demand far higher capital.
+                Total investment starts from 18.5 Lakh, which makes The Buyzaar Mart a low-investment supermarket franchise compared with many larger retail formats that demand far higher capital.
               </li>
               <li>
                 The final total depends on your store format and area. A Mini Mart, Super Mart and Hyper Mart will each carry a different total, and the franchise team confirms the exact figure after reviewing your Rampur property.
@@ -486,7 +486,7 @@ const Content = () => {
                   2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  Total investment starts from ₹18.5 lakh, depending on store format and area.
+                  Total investment starts from 18.5 Lakh, depending on store format and area.
                 </p>
               </div>
 

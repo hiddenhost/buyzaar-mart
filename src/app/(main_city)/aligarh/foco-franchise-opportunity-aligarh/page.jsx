@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Franchise Opportunity in Aligarh | The Buyzaar Mart",
   description:
-    "Explore the FOCO franchise opportunity in Aligarh with The Buyzaar Mart. Invest from ₹18.5 lakh, earn passive returns while the company runs your store.",
+    "Explore the FOCO franchise opportunity in Aligarh with The Buyzaar Mart. Invest from 18.5 Lakh, earn passive returns while the company runs your store.",
   keywords: [
     "foco franchise opportunity aligarh",
     "foco franchise aligarh",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCO Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
-      "Explore the FOCO franchise opportunity in Aligarh with The Buyzaar Mart. Invest from ₹18.5 lakh, earn passive returns while the company runs your store.",
+      "Explore the FOCO franchise opportunity in Aligarh with The Buyzaar Mart. Invest from 18.5 Lakh, earn passive returns while the company runs your store.",
     url: "https://www.thebuyzaarmart.com/aligarh/foco-franchise-opportunity-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
-      "Explore the FOCO franchise opportunity in Aligarh with The Buyzaar Mart. Invest from ₹18.5 lakh, earn passive returns while the company runs your store.",
+      "Explore the FOCO franchise opportunity in Aligarh with The Buyzaar Mart. Invest from 18.5 Lakh, earn passive returns while the company runs your store.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

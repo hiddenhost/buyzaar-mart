@@ -195,7 +195,7 @@ const Content = () => {
                   1. What are the expected monthly sales of a grocery franchise?
                 </h3>
                 <p className="text-sm">
-                  Average monthly sales can range from ₹6–₹18.5 lakh, depending on location and store performance.
+                  Average monthly sales can range from ₹6–18.5 Lakh, depending on location and store performance.
                 </p>
               </div>
 

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Franchise to Open in Gorakhpur | The Buyzaar Mart",
   description:
-    "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from ₹18.5 lakh with full support. Apply now!",
+    "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from 18.5 Lakh with full support. Apply now!",
   keywords: [
     "best franchise to open in gorakhpur",
     "best franchise in gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Best Franchise to Open in Gorakhpur | The Buyzaar Mart",
     description:
-      "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from ₹18.5 lakh with full support. Apply now!",
+      "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from 18.5 Lakh with full support. Apply now!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/best-franchise-to-open-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Franchise to Open in Gorakhpur | The Buyzaar Mart",
     description:
-      "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from ₹18.5 lakh with full support. Apply now!",
+      "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from 18.5 Lakh with full support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

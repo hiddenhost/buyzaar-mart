@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Supermarket Franchise Opportunity in Mathura | Buyzaar Mart",
   description:
-    "Start a supermarket franchise in Mathura with The Buyzaar Mart. Invest from ₹18.5 lakh, earn an 18-20% margin with POS, supply chain, training and full support.",
+    "Start a supermarket franchise in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, supply chain, training and full support.",
   keywords: [
     "supermarket franchise opportunity Mathura",
     "supermarket franchise Mathura",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Supermarket Franchise Opportunity in Mathura | Buyzaar Mart",
     description:
-      "Start a supermarket franchise in Mathura with The Buyzaar Mart. Invest from ₹18.5 lakh, earn an 18-20% margin with POS, supply chain, training and full support.",
+      "Start a supermarket franchise in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, supply chain, training and full support.",
     url: "https://www.thebuyzaarmart.com/mathura/supermarket-franchise-opportunity-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Supermarket Franchise Opportunity in Mathura | Buyzaar Mart",
     description:
-      "Start a supermarket franchise in Mathura with The Buyzaar Mart. Invest from ₹18.5 lakh, earn an 18-20% margin with POS, supply chain, training and full support.",
+      "Start a supermarket franchise in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, supply chain, training and full support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Business in Greater Noida West - Build Your Own Retail Empire with The Buyzaar Mart",
   description:
-    "Explore The Buyzaar Mart franchise business opportunity in Greater Noida West with Mini Mart, Super Mart, and Hyper Mart formats under the FOCM model, strong brand support, and investment starting from ₹15 Lakh.",
+    "Explore The Buyzaar Mart franchise business opportunity in Greater Noida West with Mini Mart, Super Mart, and Hyper Mart formats under the FOCM model, strong brand support, and investment starting from 18.5.",
   url: "https://www.thebuyzaarmart.com/greater-noida-west/franchise-business-in-greater-noida-west",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a franchise business in Greater Noida West with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from ₹15 Lakh for the Mini Mart format covering 600 to 1,000 sq. ft. This includes opening stock, store interior, POS software, franchise fee including 18% GST, and a refundable security deposit. Super Mart and Hyper Mart investments are higher and depend on store area.",
+        text: "The minimum investment starts from 18.5 for the Mini Mart format covering 600 to 1,000 sq. ft. This includes opening stock, store interior, POS software, franchise fee including 18% GST, and a refundable security deposit. Super Mart and Hyper Mart investments are higher and depend on store area.",
       },
     },
     {
@@ -132,7 +132,7 @@ const Content = () => {
               business in Greater Noida West is designed to fill &mdash; a
               neighbourhood supermarket built for the modern resident, available
               to local entrepreneurs at a genuinely affordable investment
-              starting from ₹15 Lakh.
+              starting from 18.5.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -339,7 +339,7 @@ const Content = () => {
 
             <p>
               <span className="font-semibold">Starting Investment:</span> From
-              ₹15 Lakh
+              18.5
             </p>
 
             <p>
@@ -586,7 +586,7 @@ const Content = () => {
                   business in Greater Noida West with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from ₹15 Lakh for the Mini Mart
+                  The minimum investment starts from 18.5 for the Mini Mart
                   format (600&ndash;1,000 sq. ft.), covering opening stock,
                   store interior, POS software, franchise fee (18% GST
                   included), and a refundable security deposit. Super Mart and

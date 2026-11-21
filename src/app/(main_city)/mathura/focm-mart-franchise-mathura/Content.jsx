@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the Mini Mart investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "About ₹15.25 lakh to ₹25 lakh. Confirm the final quote with the team.",
+        text: "About ₹18.5 to ₹26 Lakh. Confirm the final quote with the team.",
       },
     },
     {
@@ -181,7 +181,7 @@ const Content = () => {
               Investment Planning for an FOCM Mart
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Mini Mart investment is approximately ₹15.25 lakh to ₹25 lakh in total, covering franchise fee, security deposit, interiors, POS and billing setup, and opening stock.</li>
+              <li>The Mini Mart investment is approximately ₹18.5 to ₹26 Lakh in total, covering franchise fee, security deposit, interiors, POS and billing setup, and opening stock.</li>
               <li>Super Mart and Hyper Mart figures scale with space and range. Treat them as estimates and get a written quote from the franchise team.</li>
               <li>Keep a separate working-capital reserve for the first few months, including rent, salaries, electricity and supplier payments, because sales take time to stabilise.</li>
               <li>Do not stretch the budget on decoration. Opening stock and availability of daily-use products bring customers back, not fancy interiors.</li>
@@ -348,7 +348,7 @@ const Content = () => {
                   Q2. What is the Mini Mart investment?
                 </h3>
                 <p className="mt-2">
-                  About ₹15.25 lakh to ₹25 lakh. Confirm the final quote with the team.
+                  About ₹18.5 to ₹26 Lakh. Confirm the final quote with the team.
                 </p>
               </div>
 

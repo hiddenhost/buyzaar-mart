@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much does it cost to open a Mini Mart franchise with The Buyzaar Mart in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The total investment for a Mini Mart starts from approximately ₹15 lakh for a 300 sq ft store and can go up to ₹25 lakh for an 800 sq ft store, depending on setup scope, opening stock, and location.",
+        text: "The total investment for a Mini Mart starts from approximately 18.5 for a 300 sq ft store and can go up to ₹25 lakh for an 800 sq ft store, depending on setup scope, opening stock, and location.",
       },
     },
     {
@@ -405,7 +405,7 @@ const Content = () => {
                   Mart in Lucknow?
                 </h3>
                 <p className="mt-2">
-                  The total investment for a Mini Mart starts from approximately ₹15 lakh
+                  The total investment for a Mini Mart starts from approximately 18.5
                   for a 300 sq ft store and can go up to ₹25 lakh for an 800 sq ft store,
                   depending on setup scope, opening stock, and location.
                 </p>

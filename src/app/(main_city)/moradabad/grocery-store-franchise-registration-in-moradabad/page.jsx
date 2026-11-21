@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Store Franchise Registration in Moradabad | The Buyzaar Mart",
   description:
-    "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from ₹15 lakh, and easy registration process.",
+    "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, and easy registration process.",
   keywords: [
     "grocery store franchise registration Moradabad",
     "supermarket franchise Moradabad",
@@ -29,7 +29,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Store Franchise Registration in Moradabad | The Buyzaar Mart",
     description:
-      "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from ₹15 lakh, and easy registration process.",
+      "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, and easy registration process.",
     url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-registration-in-moradabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -47,7 +47,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Store Franchise Registration in Moradabad | The Buyzaar Mart",
     description:
-      "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from ₹15 lakh, and easy registration process.",
+      "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, and easy registration process.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

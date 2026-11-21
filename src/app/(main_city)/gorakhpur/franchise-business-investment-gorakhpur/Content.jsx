@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Business Investment in Gorakhpur | The Buyzaar Mart",
   description:
-    "Looking for franchise business investment in Gorakhpur? The Buyzaar Mart offers supermarket franchises from ₹15 Lakh with POS technology, training, and support.",
+    "Looking for franchise business investment in Gorakhpur? The Buyzaar Mart offers supermarket franchises from 18.5 with POS technology, training, and support.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/franchise-business-investment-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much do I need for a franchise business in Gorakhpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart starts from about ₹15 Lakh and generally goes up to ₹22 Lakh, depending on size and site.",
+        text: "A Mini Mart starts from about 18.5 and generally goes up to ₹22 Lakh, depending on size and site.",
       },
     },
     {
@@ -152,7 +152,7 @@ const Content = () => {
               <li>
                 The Buyzaar Mart is a supermarket franchise network that offers
                 Mini Mart, Super Mart, and Hyper Mart stores, with entry
-                investment starting from ₹15 Lakh. It is built around everyday
+                investment starting from 18.5. It is built around everyday
                 grocery and household needs, which families buy throughout the
                 year.
               </li>
@@ -321,7 +321,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                A Mini Mart typically requires approximately ₹15 Lakh to ₹22
+                A Mini Mart typically requires approximately 18.5 to ₹22
                 Lakh, depending on store size, location, and the condition of
                 the premises.
               </li>
@@ -586,7 +586,7 @@ const Content = () => {
                   The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart starts from about ₹15 Lakh and generally goes up
+                  A Mini Mart starts from about 18.5 and generally goes up
                   to ₹22 Lakh, depending on size and site.
                 </p>
               </div>

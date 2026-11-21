@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the investment required for a branded franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakhs to ₹80 lakhs, depending on the format.",
+        text: "Approximately 18.5s to ₹80 lakhs, depending on the format.",
       },
     },
     {
@@ -236,7 +236,7 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: 600–1,000 sq. ft., suited to residential colonies and smaller commercial plots, with an entry-level investment of approximately ₹15.25 lakhs.</li>
+              <li>Mini Mart: 600–1,000 sq. ft., suited to residential colonies and smaller commercial plots, with an entry-level investment of approximately 18.5s.</li>
               <li>Super Mart: 1,001–3,000 sq. ft., suited to busier localities or larger plots, with an entry-level investment of approximately ₹26.63 lakhs.</li>
             </ul>
 
@@ -386,7 +386,7 @@ const Content = () => {
                   What is the investment required for a branded franchise?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakhs to ₹80 lakhs, depending on the format.
+                  Approximately 18.5s to ₹80 lakhs, depending on the format.
                 </p>
               </div>
 

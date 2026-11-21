@@ -90,7 +90,7 @@ const faqSchema = {
       name: "How much investment is required?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Entry-level investments for smaller formats have started around ₹15.25 lakh, scaling higher for larger formats.",
+        text: "Entry-level investments for smaller formats have started around 18.5, scaling higher for larger formats.",
       },
     },
     {
@@ -287,7 +287,7 @@ const Content = () => {
               <li><strong>Technology infrastructure:</strong> POS billing systems, inventory management software, barcode scanners, and digital payment terminals installed and configured before launch.</li>
               <li><strong>Security deposit:</strong> A refundable amount as part of the franchise agreement, typically returned at the end of the franchise tenure subject to terms and conditions.</li>
               <li><strong>Franchise fee:</strong> One-time fee for brand usage rights, training, and ongoing support throughout the franchise tenure.</li>
-              <li><strong>Entry-level investments for Mini Mart formats have started around ₹15.25 lakh in similar markets,</strong> with Super Mart and Hyper Mart formats requiring proportionally higher investments based on store size, inventory depth, and setup complexity.</li>
+              <li><strong>Entry-level investments for Mini Mart formats have started around 18.5 in similar markets,</strong> with Super Mart and Hyper Mart formats requiring proportionally higher investments based on store size, inventory depth, and setup complexity.</li>
               <li><strong>Location-specific and format-specific quotes are recommended</strong> before finalizing your investment plan — the brand&apos;s team provides detailed cost breakdowns after location assessment and format selection.</li>
               <li><strong>If you own or have access to commercial property</strong> in Varanasi, your upfront investment reduces significantly since rental deposit and monthly rent are eliminated or minimized.</li>
             </ul>
@@ -420,7 +420,7 @@ const Content = () => {
               <div>
                 <h3 className="font-medium text-gray-900">How much investment is required for a daily essentials franchise in Varanasi?</h3>
                 <p className="mt-2">
-                  Entry-level investments for Mini Mart formats have started around ₹15.25 lakh in similar markets. Super Mart and Hyper Mart formats require proportionally higher investments based on store size, inventory depth, and setup requirements. A location-specific quote is provided after site assessment.
+                  Entry-level investments for Mini Mart formats have started around 18.5 in similar markets. Super Mart and Hyper Mart formats require proportionally higher investments based on store size, inventory depth, and setup requirements. A location-specific quote is provided after site assessment.
                 </p>
               </div>
 

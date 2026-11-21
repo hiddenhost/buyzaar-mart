@@ -66,7 +66,7 @@ const faqSchema = {
       name: 'How much investment is needed for a supermarket franchise in NCR?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Starts from approximately ₹15 lakhs depending on format and location. Get a personalized calculation.',
+        text: 'Starts from approximately 18.5s depending on format and location. Get a personalized calculation.',
       },
     },
     {
@@ -453,7 +453,7 @@ const Content = () => {
               Investment varies by format, location, and size but is designed to
               be accessible. Typical ranges start from around
               {' '}
-              ₹15 lakhs onwards (contact for exact personalized quote). Components
+              18.5s onwards (contact for exact personalized quote). Components
               include:
             </p>
             <ul className="ml-4 list-inside list-disc space-y-2">
@@ -1236,7 +1236,7 @@ const Content = () => {
                 {String.fromCharCode(39)}
                 s bottom line.
                 {' '}
-                {}
+                { }
                 Hassle-Free Inventory Assurance. Worry less about unsold,
                 expired or damaged stock.
               </li>
@@ -1427,7 +1427,7 @@ const Content = () => {
                 <p className="mt-2 text-gray-700">
                   A2: Starts from approximately
                   {' '}
-                  ₹15 lakhs depending on
+                  18.5s depending on
                   format and location. Get a personalized calculation.
                 </p>
               </div>

@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Starting ₹15 Lakh in Gorakhpur | Buyzaar Mart",
+  name: "Mart Franchise Starting 18.5 in Gorakhpur | Buyzaar Mart",
   description:
-    "Explore a mart franchise starting ₹15 lakh in Gorakhpur. Compare FOCM and FOCO models, Mini Mart costs, documents, margins and launch support from The Buyzaar Mart.",
+    "Explore a mart franchise starting 18.5 in Gorakhpur. Compare FOCM and FOCO models, Mini Mart costs, documents, margins and launch support from The Buyzaar Mart.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-starting-15-lakh-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level mart franchise format with a minimum carpet area of 600 sq ft and investment starting from approximately ₹15 lakh.",
+          "Entry-level mart franchise format with a minimum carpet area of 600 sq ft and investment starting from approximately 18.5.",
       },
       {
         "@type": "Offer",
@@ -55,10 +55,10 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Can I start a mart franchise in Gorakhpur from ₹15 lakh?",
+      name: "Can I start a mart franchise in Gorakhpur from 18.5?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Mini Mart is advertised from around ₹15 lakh, and city pages mention a range up to about ₹22 lakh depending on location and fit-out.",
+        text: "The Mini Mart is advertised from around 18.5, and city pages mention a range up to about ₹22 lakh depending on location and fit-out.",
       },
     },
     {
@@ -146,12 +146,12 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Starting ₹15 Lakh in Gorakhpur: FOCM vs FOCO
+              Mart Franchise Starting 18.5 in Gorakhpur: FOCM vs FOCO
               Models, Costs &amp; Launch Plan
             </h1>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Starting a Mart Business in Gorakhpur from ₹15 Lakh
+              Starting a Mart Business in Gorakhpur from 18.5
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -162,7 +162,7 @@ const Content = () => {
               </li>
               <li>
                 The Buyzaar Mart promotes its grocery and supermarket franchise
-                from ₹15 lakh, and it describes the model as one with full
+                from 18.5, and it describes the model as one with full
                 setup, supply chain, POS billing and ongoing support.
               </li>
               <li>
@@ -179,13 +179,13 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What &quot;Starting ₹15 Lakh&quot; Means for a Mini Mart
+              What &quot;Starting 18.5&quot; Means for a Mini Mart
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The brand&apos;s own city pages describe a Mini Mart starting
-                from approximately ₹15 lakh, typically ranging up to ₹22 lakh
+                from approximately 18.5, typically ranging up to ₹22 lakh
                 depending on location and fit-out.
               </li>
               <li>
@@ -576,10 +576,10 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. Can I start a mart franchise in Gorakhpur from ₹15 lakh?
+                  Q1. Can I start a mart franchise in Gorakhpur from 18.5?
                 </h3>
                 <p className="mt-2">
-                  The Mini Mart is advertised from around ₹15 lakh, and city
+                  The Mini Mart is advertised from around 18.5, and city
                   pages mention a range up to about ₹22 lakh depending on
                   location and fit-out.
                 </p>
@@ -666,7 +666,7 @@ const Content = () => {
 
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  Explore a mart franchise starting from ₹15 lakh in Gorakhpur
+                  Explore a mart franchise starting from 18.5 in Gorakhpur
                   with The Buyzaar Mart.
                 </li>
                 <li>

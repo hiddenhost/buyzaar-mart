@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the investment range for this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹15.25 lakhs to ₹80 lakhs, depending on the store format chosen.",
+        text: "Roughly 18.5s to ₹80 lakhs, depending on the store format chosen.",
       },
     },
     {
@@ -153,7 +153,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart (600–1,000 sq. ft.): A compact format ideal for smaller commercial spaces within residential pockets of Civil Lines, with an entry-level investment of around ₹15.25 lakhs.</li>
+              <li>Mini Mart (600–1,000 sq. ft.): A compact format ideal for smaller commercial spaces within residential pockets of Civil Lines, with an entry-level investment of around 18.5s.</li>
               <li>Super Mart (1,001–3,000 sq. ft.): A mid-sized format suited to busier stretches or main-road locations within Civil Lines, with an entry-level investment of around ₹26.63 lakhs.</li>
               <li>Both formats can work well for a neighbourhood mart, depending on the specific plot size and footfall potential of the chosen location within the locality.</li>
               <li>A Mini Mart tends to suit quieter residential pockets where convenience and proximity matter more than a wide product assortment, while a Super Mart is better positioned on busier roads where higher footfall can support a larger inventory and bigger basket sizes.</li>
@@ -296,7 +296,7 @@ const Content = () => {
                   What is the investment range for this franchise?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹15.25 lakhs to ₹80 lakhs, depending on the store format chosen.
+                  Roughly 18.5s to ₹80 lakhs, depending on the store format chosen.
                 </p>
               </div>
 

@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the investment required for this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakhs to ₹80 lakhs, depending on the store format chosen.",
+        text: "Approximately 18.5s to ₹80 lakhs, depending on the store format chosen.",
       },
     },
     {
@@ -197,7 +197,7 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: A compact retail format ranging from 600–1,000 sq. ft., ideal for residential colonies, neighbourhood markets, and smaller commercial locations. This format is designed to efficiently serve the daily shopping needs of local customers with an entry-level investment of approximately ₹15.25 lakhs.</li>
+              <li>Mini Mart: A compact retail format ranging from 600–1,000 sq. ft., ideal for residential colonies, neighbourhood markets, and smaller commercial locations. This format is designed to efficiently serve the daily shopping needs of local customers with an entry-level investment of approximately 18.5s.</li>
               <li>Super Mart: A larger retail format spanning 1,001–3,000 sq. ft., suitable for high-footfall areas, busy commercial markets, and larger retail spaces. It enables franchisees to offer a wider product assortment and a more spacious shopping experience, with an entry-level investment of approximately ₹26.63 lakhs.</li>
             </ul>
 
@@ -247,7 +247,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Store space: Ranges from 600 sq. ft. for Mini Mart to 3,000 sq. ft. for Super Mart, depending on the chosen format.</li>
-              <li>Entry-level investment: Approximately ₹15.25 lakhs to ₹26.63 lakhs, based on format and location.</li>
+              <li>Entry-level investment: Approximately 18.5s to ₹26.63 lakhs, based on format and location.</li>
               <li>Setup includes: Interiors, shelving, branding, billing systems, and initial stock procurement.</li>
               <li>Ongoing costs: Rent, staff salaries, electricity, restocking, and logistics.</li>
               <li>Lower real estate and operational costs in Bareilly compared to metro cities help improve overall return on investment.</li>
@@ -326,7 +326,7 @@ const Content = () => {
                   What is the investment required for this franchise?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakhs to ₹80 lakhs, depending on the store format chosen.
+                  Approximately 18.5s to ₹80 lakhs, depending on the store format chosen.
                 </p>
               </div>
 

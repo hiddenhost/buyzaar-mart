@@ -226,7 +226,7 @@ const Content = () => {
               Opening a retail store requires upfront capital for franchise fees,
               interior fit-outs, technology infrastructure, initial inventory,
               and working capital. Depending on store size, investment in Delhi
-              can range from ₹15 Lakhs for compact convenience stores to over ₹1
+              can range from 18.5s for compact convenience stores to over ₹1
               Crore for massive hypermarkets.
             </p>
 
@@ -299,8 +299,8 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Noida Extensions (Sector 120
-                {String.fromCharCode(8211)}
-                135):</strong>
+                  {String.fromCharCode(8211)}
+                  135):</strong>
                 {' '}
                 Rapidly developing with 15
                 {String.fromCharCode(8211)}
@@ -323,8 +323,8 @@ const Content = () => {
               </li>
               <li>
                 <strong>Noida (Sector 44
-                {String.fromCharCode(8211)}
-                80):</strong>
+                  {String.fromCharCode(8211)}
+                  80):</strong>
                 {' '}
                 Mixed residential-commercial
                 colonies. Good foot traffic and purchasing power. Ideal for Super
@@ -878,7 +878,7 @@ const Content = () => {
               <p className="mb-4 text-gray-800">
                 Opening a retail franchise in Delhi is not just about making
                 money; it
-                 about
+                about
                 creating a hub serving your local community, providing employment,
                 and generating robust, recession-proof returns.
               </p>
@@ -898,7 +898,7 @@ const Content = () => {
                 Email: info@thebuyzaarmart.com
               </p>
               <p className="mb-2 font-semibold text-gray-800">
-                 Website:
+                Website:
                 {' '}
                 <a
                   href="https://www.thebuyzaarmart.com"

@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const pageTitle = "FOCO Model Franchise in Mathura | The Buyzaar Mart";
 
 const pageDescription =
-  "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from ₹15 lakh onwards.";
+  "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 onwards.";
 
 const pageKeywords =
   "foco model franchise Mathura, franchise owned company operated, foco franchise India, Buyzaar Mart Mathura, passive franchise investment Mathura, company managed franchise UP, foco vs focm franchise, grocery franchise foco model, low investment foco franchise, supermarket foco franchise India, foco franchise Uttar Pradesh, passive retail investment India, foco franchise near Vrindavan, company operated grocery store, foco franchise cost Mathura, best foco franchise India, franchise management model India, foco franchise ROI Mathura, hands off franchise investment, foco franchise support India, how does foco franchise work, franchise business model comparison";
@@ -81,7 +81,7 @@ const contentSections = [
       "Interior and Store Setup: Covers racking, shelving, branding, signage, fixtures, and fit-out costs based on the chosen format.",
       "Software and POS Fee: Covers billing, inventory, reporting, and CRM systems used by the operations team managing the store.",
       "Opening Stock: Covers initial inventory investment across grocery, FMCG, household, and daily-essential categories.",
-      "Total Estimated Investment for a Mini Mart of around 600 sq ft: Approximately ₹15.25 lakh to ₹25 lakh, consistent with figures seen in comparable Uttar Pradesh city launches.",
+      "Total Estimated Investment for a Mini Mart of around 600 sq ft: Approximately ₹18.5 to ₹26 Lakh, consistent with figures seen in comparable Uttar Pradesh city launches.",
       "Super Mart and Hyper Mart investments scale upward proportionally with store size, setup requirements, floor area, and opening-stock needs.",
       "The core franchise investment does not necessarily change only because of the operational model. The main difference is how daily staffing, operations, responsibilities, and profit-sharing terms are structured after the launch.",
     ],
@@ -132,7 +132,7 @@ const faqs = [
   {
     question: "What is the minimum investment for a FOCO franchise in Mathura?",
     answer:
-      "The indicative investment starts from approximately ₹15 lakh onwards for a Mini Mart format. Final investment varies according to the location, property size, store format, setup scope, and opening-stock requirement.",
+      "The indicative investment starts from approximately 18.5 onwards for a Mini Mart format. Final investment varies according to the location, property size, store format, setup scope, and opening-stock requirement.",
   },
   {
     question: "Is FOCO better than FOCM for a first-time investor in Mathura?",
@@ -322,7 +322,7 @@ const Content = () => {
                 </li>
 
                 <li>
-                  Begin with an investment from approximately ₹15 lakh onwards,
+                  Begin with an investment from approximately 18.5 onwards,
                   subject to the selected format, property, store setup scope,
                   and opening-stock requirements.
                 </li>

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Business Opportunity Kanpur | The Buyzaar Mart Franchise",
   description:
-    "Explore the best grocery business opportunity in Kanpur with The Buyzaar Mart. Start your own Mini Mart, Super Mart, or Hyper Mart franchise from ₹15 Lakh with full setup, supply chain & ongoing support. Apply now",
+    "Explore the best grocery business opportunity in Kanpur with The Buyzaar Mart. Start your own Mini Mart, Super Mart, or Hyper Mart franchise from 18.5 with full setup, supply chain & ongoing support. Apply now",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/grocery-store-franchise-in-kanpur",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Business Opportunity Kanpur | The Buyzaar Mart Franchise",
     description:
-      "Explore the best grocery business opportunity in Kanpur with The Buyzaar Mart. Start your own Mini Mart, Super Mart, or Hyper Mart franchise from ₹15 Lakh with full setup, supply chain & ongoing support. Apply now",
+      "Explore the best grocery business opportunity in Kanpur with The Buyzaar Mart. Start your own Mini Mart, Super Mart, or Hyper Mart franchise from 18.5 with full setup, supply chain & ongoing support. Apply now",
     url: "https://www.thebuyzaarmart.com/kanpur/grocery-store-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Business Opportunity Kanpur | The Buyzaar Mart Franchise",
     description:
-      "Explore the best grocery business opportunity in Kanpur with The Buyzaar Mart. Start your own Mini Mart, Super Mart, or Hyper Mart franchise from ₹15 Lakh with full setup, supply chain & ongoing support. Apply now",
+      "Explore the best grocery business opportunity in Kanpur with The Buyzaar Mart. Start your own Mini Mart, Super Mart, or Hyper Mart franchise from 18.5 with full setup, supply chain & ongoing support. Apply now",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

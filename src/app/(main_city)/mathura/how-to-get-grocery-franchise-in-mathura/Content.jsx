@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the starting investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Buyzaar Mart franchise starts from ₹15 lakh, depending on the format you choose.",
+        text: "The Buyzaar Mart franchise starts from 18.5, depending on the format you choose.",
       },
     },
     {
@@ -171,7 +171,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart runs a neighbourhood grocery and FMCG franchise built around how North Indian families actually shop.</li>
               <li>Partners get a curated range, structured supply chain, billing technology, staff training and launch support.</li>
-              <li>Investment starts from ₹15 lakh, depending on the store format you select.</li>
+              <li>Investment starts from 18.5, depending on the store format you select.</li>
             </ul>
 
             <h3 className="font-medium text-gray-900">Three Store Formats</h3>
@@ -357,7 +357,7 @@ const Content = () => {
                   What is the starting investment?
                 </h3>
                 <p className="mt-2">
-                  The Buyzaar Mart franchise starts from ₹15 lakh, depending on the format you choose.
+                  The Buyzaar Mart franchise starts from 18.5, depending on the format you choose.
                 </p>
               </div>
 

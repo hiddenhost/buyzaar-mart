@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Grocery Franchise Starting From ₹15 Lakh in Varanasi | The Buyzaar Mart",
+  name: "Grocery Franchise Starting From 18.5 in Varanasi | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers grocery franchise opportunities in Varanasi starting from ₹15.25 lakh with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, complete store setup, technology-enabled operations, and full franchise support.",
+    "The Buyzaar Mart offers grocery franchise opportunities in Varanasi starting from 18.5 with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, complete store setup, technology-enabled operations, and full franchise support.",
   url: "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-starting-from-15-lakh-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -55,7 +55,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Can I really start a grocery franchise from ₹15 lakh?",
+      name: "Can I really start a grocery franchise from 18.5?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, entry-level investments for smaller store formats can start around this range, depending on location and format.",
@@ -63,13 +63,13 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "What store format fits a ₹15 lakh budget?",
+      name: "What store format fits a 18.5 budget?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Typically a smaller format like a Mini Mart, around 600 to 1,000 sq. ft.",
       },
     },
-    
+
     {
       "@type": "Question",
       name: "Which franchise model is better for this budget — FOCM or FOCO?",
@@ -127,19 +127,19 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Franchise Starting From ₹15 Lakh in Varanasi – A Complete Guide by The Buyzaar Mart
+              Grocery Franchise Starting From 18.5 in Varanasi – A Complete Guide by The Buyzaar Mart
             </h1>
 
             <p>
-              Starting a grocery business no longer means years of trial and error or an unpredictable, unbranded shop. With franchise models now available starting from as low as ₹15.25 lakh, entrepreneurs in Varanasi can step into organized retail with a tested brand, structured systems, and full operational support. This guide breaks down everything you need to know about starting a grocery franchise in Varanasi at this accessible investment level with The Buyzaar Mart — from why the city works, to what&apos;s included in the investment, and how to get started.
+              Starting a grocery business no longer means years of trial and error or an unpredictable, unbranded shop. With franchise models now available starting from as low as 18.5, entrepreneurs in Varanasi can step into organized retail with a tested brand, structured systems, and full operational support. This guide breaks down everything you need to know about starting a grocery franchise in Varanasi at this accessible investment level with The Buyzaar Mart — from why the city works, to what&apos;s included in the investment, and how to get started.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a ₹15 Lakh Entry Point Matters
+              Why a 18.5 Entry Point Matters
             </h2>
 
             <p>
-              For many first-time entrepreneurs, the biggest barrier to starting a retail business isn&apos;t the idea — it&apos;s the capital required. A franchise starting from ₹15.25 lakh changes that equation significantly.
+              For many first-time entrepreneurs, the biggest barrier to starting a retail business isn&apos;t the idea — it&apos;s the capital required. A franchise starting from 18.5 changes that equation significantly.
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -163,12 +163,12 @@ const Content = () => {
               <li>The city&apos;s substantial student population, including those linked to Banaras Hindu University, adds a consistent customer base for daily-need shopping.</li>
               <li>Organized retail remains relatively underdeveloped compared to metro cities, meaning most daily grocery purchases still happen at unorganized kirana stores.</li>
               <li>Growing residential development on the city&apos;s outskirts is creating new, underserved commercial pockets ideal for a fresh branded store.</li>
-              <li>Commercial rental rates in many parts of Varanasi remain comparatively affordable, helping keep total setup costs within a ₹15.25 lakh range for smaller formats.</li>
+              <li>Commercial rental rates in many parts of Varanasi remain comparatively affordable, helping keep total setup costs within a 18.5 range for smaller formats.</li>
               <li>Consumers across the city are increasingly showing preference for clean, transparent, and professionally run stores over traditional shops.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a ₹15 Lakh Grocery Franchise Investment Typically Covers
+              What a 18.5 Grocery Franchise Investment Typically Covers
             </h2>
 
             <p>
@@ -231,7 +231,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>Step 1 – Initial Enquiry: Submit an inquiry with the franchise brand and receive a prompt response.</li>
               <li>Step 2 – Site Evaluation: Share your proposed Varanasi location — area, footfall, rent, and nearby competition — for feasibility assessment.</li>
-              <li>Step 3 – Model and Format Confirmation: Choose FOCM or FOCO, and confirm the store format that fits within your ₹15.25 lakh budget range.</li>
+              <li>Step 3 – Model and Format Confirmation: Choose FOCM or FOCO, and confirm the store format that fits within your 18.5 budget range.</li>
               <li>Step 4 – Investment Breakdown: Get a detailed, location-specific cost breakdown covering stock, interior, software, franchise fee, and deposit.</li>
               <li>Step 5 – Documentation: Complete KYC, legal formalities, and licensing with the brand&apos;s compliance support.</li>
               <li>Step 6 – Store Build-Out: Interior work, branding, shelving, and POS installation as per brand standards.</li>
@@ -244,7 +244,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Since a ₹15.25 lakh investment generally points toward a smaller-format store, location selection becomes especially important to maximize returns from a compact space.
+              Since a 18.5 investment generally points toward a smaller-format store, location selection becomes especially important to maximize returns from a compact space.
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -302,14 +302,14 @@ const Content = () => {
 
             <div className="mt-4 space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">Can I really start a grocery franchise from ₹15 lakh?</h3>
+                <h3 className="font-medium text-gray-900">Can I really start a grocery franchise from 18.5?</h3>
                 <p className="mt-2">
                   Yes, entry-level investments for smaller store formats can start around this range, depending on location and format.
                 </p>
               </div>
 
               <div>
-                <h3 className="font-medium text-gray-900">What store format fits a ₹15 lakh budget?</h3>
+                <h3 className="font-medium text-gray-900">What store format fits a 18.5 budget?</h3>
                 <p className="mt-2">
                   Typically a smaller format like a Mini Mart, around 600 to 1,000 sq. ft.
                 </p>

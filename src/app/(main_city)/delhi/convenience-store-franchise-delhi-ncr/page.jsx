@@ -4,17 +4,17 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Convenience Store Franchise Delhi NCR | Buyzaar Mart ₹15 Lakh",
+  title: "Convenience Store Franchise Delhi NCR | Buyzaar Mart 18.5",
   description:
-    "Start a convenience store franchise in Delhi NCR from ₹15 lakh. Join Buyzaar Mart for proven retail model, full support, training & consistent returns.",
+    "Start a convenience store franchise in Delhi NCR from 18.5. Join Buyzaar Mart for proven retail model, full support, training & consistent returns.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/delhi/convenience-store-franchise-delhi-ncr",
   },
   openGraph: {
-    title: "Convenience Store Franchise Delhi NCR | Buyzaar Mart ₹15 Lakh",
+    title: "Convenience Store Franchise Delhi NCR | Buyzaar Mart 18.5",
     description:
-      "Start a convenience store franchise in Delhi NCR from ₹15 lakh. Join Buyzaar Mart for proven retail model, full support, training & consistent returns.",
+      "Start a convenience store franchise in Delhi NCR from 18.5. Join Buyzaar Mart for proven retail model, full support, training & consistent returns.",
     url: "https://www.thebuyzaarmart.com/delhi/convenience-store-franchise-delhi-ncr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -22,7 +22,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Convenience Store Franchise Delhi NCR | Buyzaar Mart ₹15 Lakh",
+        alt: "Convenience Store Franchise Delhi NCR | Buyzaar Mart 18.5",
       },
     ],
     locale: "en_IN",
@@ -30,9 +30,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Convenience Store Franchise Delhi NCR | Buyzaar Mart ₹15 Lakh",
+    title: "Convenience Store Franchise Delhi NCR | Buyzaar Mart 18.5",
     description:
-      "Start a convenience store franchise in Delhi NCR from ₹15 lakh. Join Buyzaar Mart for proven retail model, full support, training & consistent returns.",
+      "Start a convenience store franchise in Delhi NCR from 18.5. Join Buyzaar Mart for proven retail model, full support, training & consistent returns.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

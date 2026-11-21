@@ -82,7 +82,7 @@ const faqSchema = {
       name: "How much investment is needed to start a retail franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment varies by category and brand, but grocery franchises like The Buyzaar Mart start from ₹15 lakh onwards.",
+        text: "Investment varies by category and brand, but grocery franchises like The Buyzaar Mart start from 18.5 onwards.",
       },
     },
     {
@@ -178,7 +178,7 @@ const Content = () => {
               <li>Compare investment requirements, franchise fee structures, and expected margins across shortlisted brands.</li>
               <li>Evaluate the level of ongoing support offered — supply chain access, marketing assistance, training, and inventory tools vary significantly between brands.</li>
               <li>Check whether the brand offers flexible operating models (like FOCM or FOCO) that match your preferred level of involvement.</li>
-              <li>The Buyzaar Mart, for instance, offers grocery-focused retail franchising starting from ₹15 lakh, with centralized supply chain access to brands like HUL, ITC, Dabur, and Nestlé.</li>
+              <li>The Buyzaar Mart, for instance, offers grocery-focused retail franchising starting from 18.5, with centralized supply chain access to brands like HUL, ITC, Dabur, and Nestlé.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -348,7 +348,7 @@ const Content = () => {
                   How much investment is needed to start a retail franchise in Mathura?
                 </h3>
                 <p className="mt-2">
-                  Investment varies by category and brand, but grocery franchises like The Buyzaar Mart start from ₹15 lakh onwards.
+                  Investment varies by category and brand, but grocery franchises like The Buyzaar Mart start from 18.5 onwards.
                 </p>
               </div>
 

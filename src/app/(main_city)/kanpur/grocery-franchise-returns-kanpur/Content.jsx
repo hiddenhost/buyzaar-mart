@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a grocery franchise in Kanpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Public brand materials indicate Mini Mart entry investment typically starts around ₹15 Lakh, while larger formats such as Hyper Mart require significantly higher capital depending on size, stock, and commercial arrangement.",
+        text: "Public brand materials indicate Mini Mart entry investment typically starts around 18.5, while larger formats such as Hyper Mart require significantly higher capital depending on size, stock, and commercial arrangement.",
       },
     },
     {
@@ -229,7 +229,7 @@ const Content = () => {
             <p>
               Your draft positions the Mini Mart as a cost-efficient entry point
               for Kanpur investors under the FOCM model, with total investment
-              commonly framed in the range of ₹15 Lakh to ₹22 Lakh depending on
+              commonly framed in the range of 18.5 to ₹22 Lakh depending on
               store size and locality conditions.
             </p>
 
@@ -434,7 +434,7 @@ const Content = () => {
                 </h3>
                 <p className="mt-2">
                   Public materials indicate Mini Mart investment typically
-                  starts around ₹15 Lakh. Larger formats such as Hyper Mart
+                  starts around 18.5. Larger formats such as Hyper Mart
                   require much higher capital depending on size, stock, and
                   commercial structure.
                 </p>

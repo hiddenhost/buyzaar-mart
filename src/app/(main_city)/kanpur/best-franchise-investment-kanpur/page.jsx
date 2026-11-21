@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Best Franchise Investment Kanpur 2025 | The Buyzaar Mart Grocery & Supermarket Franchise",
   description:
-    "Looking for the best franchise investment in Kanpur? Join The Buyzaar Mart – India's trusted grocery & supermarket franchise starting from ₹15 Lakh. FOCM model, full support, high ROI. Apply now!",
+    "Looking for the best franchise investment in Kanpur? Join The Buyzaar Mart – India's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full support, high ROI. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Best Franchise Investment Kanpur 2025 | The Buyzaar Mart Grocery & Supermarket Franchise",
     description:
-      "Looking for the best franchise investment in Kanpur? Join The Buyzaar Mart – India's trusted grocery & supermarket franchise starting from ₹15 Lakh. FOCM model, full support, high ROI. Apply now!",
+      "Looking for the best franchise investment in Kanpur? Join The Buyzaar Mart – India's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full support, high ROI. Apply now!",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Best Franchise Investment Kanpur 2025 | The Buyzaar Mart Grocery & Supermarket Franchise",
     description:
-      "Looking for the best franchise investment in Kanpur? Join The Buyzaar Mart – India's trusted grocery & supermarket franchise starting from ₹15 Lakh. FOCM model, full support, high ROI. Apply now!",
+      "Looking for the best franchise investment in Kanpur? Join The Buyzaar Mart – India's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full support, high ROI. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

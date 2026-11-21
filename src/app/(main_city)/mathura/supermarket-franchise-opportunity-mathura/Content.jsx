@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Supermarket Franchise Opportunity in Mathura | The Buyzaar Mart",
   description:
-    "Start a supermarket franchise in Mathura with The Buyzaar Mart. Invest from ₹15 Lakh, earn an 18-20% margin with POS, supply chain, training and full support.",
+    "Start a supermarket franchise in Mathura with The Buyzaar Mart. Invest from 18.5, earn an 18-20% margin with POS, supply chain, training and full support.",
   url: "https://www.thebuyzaarmart.com/mathura/supermarket-franchise-opportunity-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -165,7 +165,7 @@ const Content = () => {
                 Hyper Mart, depending on your space and budget.
               </li>
               <li>
-                Investment starts from ₹15 lakh for a Mini Mart, with an
+                Investment starts from 18.5 for a Mini Mart, with an
                 effective gross margin of 18-20% depending on location, size and
                 sales volume.
               </li>
@@ -290,7 +290,7 @@ const Content = () => {
                 homecare and hygiene, stationery, snacks and biscuits.
               </li>
               <li>
-                Total investment usually ranges from ₹15 lakh to ₹20 lakh,
+                Total investment usually ranges from 18.5 to ₹20 lakh,
                 depending on size, layout and site work.
               </li>
             </ul>
@@ -444,7 +444,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Product Range in a Buyzaar Supermarket
@@ -704,7 +704,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               FAQs
             </h2>

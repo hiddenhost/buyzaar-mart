@@ -58,7 +58,7 @@ const faqSchema = {
       name: "Can I really start a supermarket franchise in Gurgaon under ₹20 lakh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. The Buyzaar Mart Mini Mart format starts from around ₹15.25 lakh and typically stays within ₹15–22 lakh depending on location and size.",
+        text: "Yes. The Buyzaar Mart Mini Mart format starts from around 18.5 and typically stays within ₹15–22 lakh depending on location and size.",
       },
     },
     {
@@ -195,7 +195,7 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq ft — easily available in residential lane-facing shops, society market clusters, or ground-floor commercial units in Gurgaon.
               </li>
               <li>
-                Total investment: Starts from approximately ₹15.25 lakh and typically stays within the ₹15.25–20 lakh range, depending on the exact location and store size.
+                Total investment: Starts from approximately 18.5 and typically stays within the ₹15.25–20 lakh range, depending on the exact location and store size.
               </li>
               <li>
                 What the investment covers: Franchise fee, store interiors and fit-out, POS billing technology, initial inventory, branding and signage, and the security deposit.
@@ -420,7 +420,7 @@ const Content = () => {
                   Q1. Can I really start a supermarket franchise in Gurgaon under ₹20 lakh?
                 </h3>
                 <p className="mt-2">
-                  Yes. The Buyzaar Mart Mini Mart format starts from around ₹15.25 lakh and typically stays within ₹15–22 lakh depending on location and size.
+                  Yes. The Buyzaar Mart Mini Mart format starts from around 18.5 and typically stays within ₹15–22 lakh depending on location and size.
                 </p>
               </div>
 

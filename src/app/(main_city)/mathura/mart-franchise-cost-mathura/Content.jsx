@@ -45,7 +45,7 @@ const contentSections = [
     title: "Mini Mart Franchise Cost: The Entry-Level Option",
     points: [
       "Space required: 600–1,000 sq ft, typically suited to residential lanes, colonies, or smaller commercial stretches near temple areas.",
-      "Total estimated investment: Approximately ₹15.25 lakh to ₹25 lakh, consistent with figures seen in comparable Uttar Pradesh city launches.",
+      "Total estimated investment: Approximately ₹18.5 to ₹26 Lakh, consistent with figures seen in comparable Uttar Pradesh city launches.",
       "Interior scope: Limited to essential shelving, branding, signage, and fixtures suited to a smaller footprint, helping keep fit-out costs relatively low.",
       "Opening stock: A focused range of daily-need grocery and FMCG items rather than a comprehensive assortment.",
       "Best suited for: First-time franchise owners or investors who want to test the Mathura market with lower capital exposure before considering expansion.",
@@ -139,7 +139,7 @@ const faqs = [
     question:
       "What is the cheapest mart franchise format to start with in Mathura?",
     answer:
-      "The Mini Mart is the lowest-cost format, with an indicative total estimated investment of approximately ₹15.25 lakh to ₹25 lakh.",
+      "The Mini Mart is the lowest-cost format, with an indicative total estimated investment of approximately ₹18.5 to ₹26 Lakh.",
   },
   {
     question: "How much more does a Super Mart cost compared to a Mini Mart?",
@@ -204,7 +204,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-          "A 600–1,000 sq ft entry-level grocery and FMCG franchise format in Mathura with an indicative investment of approximately ₹15.25 lakh to ₹25 lakh.",
+          "A 600–1,000 sq ft entry-level grocery and FMCG franchise format in Mathura with an indicative investment of approximately ₹18.5 to ₹26 Lakh.",
       },
       {
         "@type": "Offer",
@@ -327,7 +327,7 @@ const Content = () => {
 
                 <li>
                   Begin with an indicative Mini Mart investment of approximately
-                  ₹15.25 lakh to ₹25 lakh, with Super Mart and Hyper Mart
+                  ₹18.5 to ₹26 Lakh, with Super Mart and Hyper Mart
                   costs scaling based on store size, fit-out scope, and opening
                   stock requirements.
                 </li>

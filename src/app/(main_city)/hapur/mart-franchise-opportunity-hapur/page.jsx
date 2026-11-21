@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Opportunity Hapur | Buyzaar Mart FOCM & FOCO",
   description:
-    "Explore a mart franchise opportunity in Hapur with The Buyzaar Mart. FOCM and FOCO models, Mini, Super and Hyper Mart formats, total investment from ₹15 lakh. Apply today.",
+    "Explore a mart franchise opportunity in Hapur with The Buyzaar Mart. FOCM and FOCO models, Mini, Super and Hyper Mart formats, total investment from 18.5. Apply today.",
   keywords: [
     "mart franchise opportunity hapur",
     "mart franchise in hapur",
@@ -39,7 +39,7 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Opportunity Hapur | Buyzaar Mart FOCM & FOCO",
     description:
-      "Explore a mart franchise opportunity in Hapur with The Buyzaar Mart. FOCM and FOCO models, Mini, Super and Hyper Mart formats, total investment from ₹15 lakh. Apply today.",
+      "Explore a mart franchise opportunity in Hapur with The Buyzaar Mart. FOCM and FOCO models, Mini, Super and Hyper Mart formats, total investment from 18.5. Apply today.",
     url: "https://www.thebuyzaarmart.com/hapur/mart-franchise-opportunity-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Opportunity Hapur | Buyzaar Mart FOCM & FOCO",
     description:
-      "Explore a mart franchise opportunity in Hapur with The Buyzaar Mart. FOCM and FOCO models, Mini, Super and Hyper Mart formats, total investment from ₹15 lakh. Apply today.",
+      "Explore a mart franchise opportunity in Hapur with The Buyzaar Mart. FOCM and FOCO models, Mini, Super and Hyper Mart formats, total investment from 18.5. Apply today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

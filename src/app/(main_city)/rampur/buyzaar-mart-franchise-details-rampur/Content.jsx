@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "FOCM starts from ₹15 Lakh, and an illustrative 2,000 sq ft FOCO store is about ₹61.5 lakh, so confirm your exact figure.",
+        text: "FOCM starts from 18.5, and an illustrative 2,000 sq ft FOCO store is about ₹61.5 lakh, so confirm your exact figure.",
       },
     },
     {
@@ -163,7 +163,7 @@ const Content = () => {
               <li>
                 <span className="font-semibold">Store formats under FOCM:</span> Mini Mart (600–1000 sq ft), Super Mart (1000–3000 sq ft) and Hyper Mart (3000–8000 sq ft).
               </li>
-              
+
               <li>
                 <span className="font-semibold">Margin:</span> an effective gross margin of 18–20% is mentioned for the franchise, which is not a guarantee of net profit.
               </li>
@@ -358,7 +358,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart FOCM franchise starts from a total investment of ₹15 Lakh, and the FAQ page mentions roughly ₹15–20 lakh for a Mini Mart of 600–1000 sq ft.
+                The Buyzaar Mart FOCM franchise starts from a total investment of 18.5, and the FAQ page mentions roughly ₹15–20 lakh for a Mini Mart of 600–1000 sq ft.
               </li>
               <li>
                 The final figure depends on store size, layout, location and the work required at the premises.
@@ -650,7 +650,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
@@ -671,7 +671,7 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  FOCM starts from ₹15 Lakh, and an illustrative 2,000 sq ft FOCO store is about ₹61.5 lakh, so confirm your exact figure.
+                  FOCM starts from 18.5, and an illustrative 2,000 sq ft FOCO store is about ₹61.5 lakh, so confirm your exact figure.
                 </p>
               </div>
 

@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much does a supermarket franchise cost in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from around ₹15 lakh, depending on format and area. Rent is separate.",
+        text: "It starts from around 18.5, depending on format and area. Rent is separate.",
       },
     },
     {
@@ -237,9 +237,9 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart franchise starts from around ₹15 lakh, depending on store format and area.</li>
+              <li>The Buyzaar Mart franchise starts from around 18.5, depending on store format and area.</li>
               <li>The total covers opening stock, interior, software fee, franchise fee (including 18% GST) and security deposit.</li>
-              <li>A Mini Mart can be planned in a range of roughly ₹15.25 lakh to ₹25 lakh, based on area and interior choices.</li>
+              <li>A Mini Mart can be planned in a range of roughly ₹18.5 to ₹26 Lakh, based on area and interior choices.</li>
               <li>Super Mart and Hyper Mart budgets scale with area, so treat any figure as an estimate until the franchise team confirms it.</li>
               <li>Larger stores need more opening stock, so working capital planning matters more as the format grows.</li>
               <li>Shop rent is separate, since franchisees secure and pay for their own location.</li>
@@ -361,7 +361,7 @@ const Content = () => {
                   How much does a supermarket franchise cost in Gorakhpur?
                 </h3>
                 <p className="mt-2">
-                  It starts from around ₹15 lakh, depending on format and area. Rent is separate.
+                  It starts from around 18.5, depending on format and area. Rent is separate.
                 </p>
               </div>
 

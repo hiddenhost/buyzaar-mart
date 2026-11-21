@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600–1,000 sq ft)",
         description:
-          "Entry format with a typical total investment of ₹15 lakh to ₹20 lakh, carrying personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.",
+          "Entry format with a typical total investment of 18.5 to ₹20 lakh, carrying personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.",
       },
       {
         "@type": "Offer",
@@ -67,7 +67,7 @@ const faqSchema = {
       name: "What is the total investment in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart typically needs ₹15 lakh to ₹20 lakh in total, depending on size and setup.",
+        text: "A Mini Mart typically needs 18.5 to ₹20 lakh in total, depending on size and setup.",
       },
     },
     {
@@ -141,7 +141,7 @@ const Content = () => {
                 The Buyzaar Mart is built for exactly this gap, offering a friendly neighbourhood store format backed by uniform branding, POS billing, managed supply systems, staff training and continuous support.
               </li>
               <li>
-                A Buyzaar Mart Mini Mart typically needs a total investment of ₹15 lakh to ₹20 lakh, depending on store size, location and the work needed in the premises.
+                A Buyzaar Mart Mini Mart typically needs a total investment of 18.5 to ₹20 lakh, depending on store size, location and the work needed in the premises.
               </li>
               <li>
                 This page explains what organised retail really means, why it is growing in towns like Rampur, how the franchise works and how you can start your own store.
@@ -337,7 +337,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart: 600–1,000 sq ft</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The entry format for first-time business owners, with a typical total investment of ₹15 lakh to ₹20 lakh.
+                The entry format for first-time business owners, with a typical total investment of 18.5 to ₹20 lakh.
               </li>
               <li>
                 Carries personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.
@@ -467,7 +467,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                For a Mini Mart of 600 to 1,000 sq ft, the total investment typically falls between ₹15 lakh and ₹20 lakh.
+                For a Mini Mart of 600 to 1,000 sq ft, the total investment typically falls between 18.5 and ₹20 lakh.
               </li>
               <li>
                 Larger formats need a higher total, and the exact figure is calculated for your shop after the team reviews your site.
@@ -656,7 +656,7 @@ const Content = () => {
                   What is the total investment in Rampur?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart typically needs ₹15 lakh to ₹20 lakh in total, depending on size and setup.
+                  A Mini Mart typically needs 18.5 to ₹20 lakh in total, depending on size and setup.
                 </p>
               </div>
 
@@ -710,7 +710,7 @@ const Content = () => {
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-                  The Buyzaar Mart offers an organised mart franchise in Rampur, with a Mini Mart total investment typically between ₹15 lakh and ₹20 lakh.
+                  The Buyzaar Mart offers an organised mart franchise in Rampur, with a Mini Mart total investment typically between 18.5 and ₹20 lakh.
                 </li>
                 <li>
                   Get POS billing, supply support, training, branding and launch support under the FOCM model.

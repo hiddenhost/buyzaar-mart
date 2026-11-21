@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Open Supermarket Franchise in Gorakhpur | Buyzaar Mart",
   description:
-    "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Formats, space needs, cost from ₹15 Lakh, setup steps and full support.",
+    "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Formats, space needs, cost from 18.5, setup steps and full support.",
   keywords: [
     "how to open supermarket franchise in gorakhpur",
     "supermarket franchise in gorakhpur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "How to Open Supermarket Franchise in Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Formats, space needs, cost from ₹15 Lakh, setup steps and full support.",
+      "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Formats, space needs, cost from 18.5, setup steps and full support.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-open-supermarket-franchise-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Open Supermarket Franchise in Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Formats, space needs, cost from ₹15 Lakh, setup steps and full support.",
+      "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Formats, space needs, cost from 18.5, setup steps and full support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

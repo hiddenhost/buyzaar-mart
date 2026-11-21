@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Start Retail Franchise in Gorakhpur | Buyzaar Mart",
   description:
-    "Learn how to start a retail franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹15 Lakh, FOCM model, POS, staff planning and full support. Apply now.",
+    "Learn how to start a retail franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5, FOCM model, POS, staff planning and full support. Apply now.",
   keywords: [
     "how to start retail franchise in gorakhpur",
     "retail franchise in gorakhpur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "How to Start Retail Franchise in Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to start a retail franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹15 Lakh, FOCM model, POS, staff planning and full support. Apply now.",
+      "Learn how to start a retail franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5, FOCM model, POS, staff planning and full support. Apply now.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-start-retail-franchise-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Start Retail Franchise in Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to start a retail franchise in Gorakhpur with The Buyzaar Mart. Cost from ₹15 Lakh, FOCM model, POS, staff planning and full support. Apply now.",
+      "Learn how to start a retail franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5, FOCM model, POS, staff planning and full support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -4,9 +4,9 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise Above ₹15 Lakh in Mathura | Buyzaar Mart",
+  title: "Mart Franchise Above 18.5 in Mathura | Buyzaar Mart",
   description:
-    "Planning a mart franchise above ₹15 lakh in Mathura? Explore Super Mart and Hyper Mart formats, extra costs and how to apply with The Buyzaar Mart. Enquire now.",
+    "Planning a mart franchise above 18.5 in Mathura? Explore Super Mart and Hyper Mart formats, extra costs and how to apply with The Buyzaar Mart. Enquire now.",
   keywords: [
     "mart franchise above 15 lakh Mathura",
     "mart franchise in Mathura",
@@ -36,9 +36,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/mathura/mart-franchise-above-15-lakh-mathura",
   },
   openGraph: {
-    title: "Mart Franchise Above ₹15 Lakh in Mathura | Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 in Mathura | Buyzaar Mart",
     description:
-      "Planning a mart franchise above ₹15 lakh in Mathura? Explore Super Mart and Hyper Mart formats, extra costs and how to apply with The Buyzaar Mart. Enquire now.",
+      "Planning a mart franchise above 18.5 in Mathura? Explore Super Mart and Hyper Mart formats, extra costs and how to apply with The Buyzaar Mart. Enquire now.",
     url: "https://www.thebuyzaarmart.com/mathura/mart-franchise-above-15-lakh-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +46,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Above ₹15 Lakh in Mathura | Buyzaar Mart",
+        alt: "Mart Franchise Above 18.5 in Mathura | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -54,9 +54,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Above ₹15 Lakh in Mathura | Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 in Mathura | Buyzaar Mart",
     description:
-      "Planning a mart franchise above ₹15 lakh in Mathura? Explore Super Mart and Hyper Mart formats, extra costs and how to apply with The Buyzaar Mart. Enquire now.",
+      "Planning a mart franchise above 18.5 in Mathura? Explore Super Mart and Hyper Mart formats, extra costs and how to apply with The Buyzaar Mart. Enquire now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

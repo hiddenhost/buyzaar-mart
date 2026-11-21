@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the Mini Mart investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "About ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.",
+        text: "About ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.",
       },
     },
     {
@@ -173,7 +173,7 @@ const Content = () => {
               Investment That Shapes Your Return
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>A Mini Mart requires approximately ₹15.25 lakh to ₹25 lakh in total, including franchise fee, security deposit, interiors, POS setup and opening stock.</li>
+              <li>A Mini Mart requires approximately ₹18.5 to ₹26 Lakh in total, including franchise fee, security deposit, interiors, POS setup and opening stock.</li>
               <li>Super Mart and Hyper Mart investments rise with area and range. Treat these as estimates and request a written quotation from the franchise team.</li>
               <li>A smaller investment can improve the return on capital if the store gets good footfall, because you need less revenue to cover your costs.</li>
               <li>Keep a working-capital reserve for rent, salaries and supplier payments in the first months, since profit takes time to build.</li>
@@ -366,7 +366,7 @@ const Content = () => {
                   Q3. What is the Mini Mart investment?
                 </h3>
                 <p className="mt-2">
-                  About ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.
+                  About ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.
                 </p>
               </div>
 

@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const pageTitle = "How to Open Mart Franchise in Gorakhpur | Buyzaar Mart";
 
 const pageDescription =
-  "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from ₹15 Lakh, FOCM model, POS and full support. Apply now.";
+  "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM model, POS and full support. Apply now.";
 
 const contentSections = [
   {
@@ -56,9 +56,9 @@ const contentSections = [
   {
     title: "Investment Required to Open a Buyzaar Mart in Gorakhpur",
     points: [
-      "The Buyzaar Mart franchise starts from around ₹15 lakh, and the exact amount depends on the selected store size and format.",
+      "The Buyzaar Mart franchise starts from around 18.5, and the exact amount depends on the selected store size and format.",
       "The investment covers opening stock, interior and fit-out, software fee, franchise fee inclusive of 18% GST, and a security deposit.",
-      "For a Mini Mart, a planning range of approximately ₹15.25 lakh to ₹25 lakh can be used as an estimate, based on area and interior choices.",
+      "For a Mini Mart, a planning range of approximately ₹18.5 to ₹26 Lakh can be used as an estimate, based on area and interior choices.",
       "Super Mart and Hyper Mart costs are higher and scale with store area, so treat any figure as an estimate until the franchise team confirms it.",
       "Shop rent is separate. The franchise partner secures and pays rent for the store location, while Buyzaar Mart provides site-selection guidance.",
       "Keep extra working capital for the first few months to cover staff salaries, electricity, local promotion, and slower early sales.",
@@ -153,7 +153,7 @@ const faqs = [
   {
     question: "How much does it cost to open a mart franchise in Gorakhpur?",
     answer:
-      "The Buyzaar Mart franchise starts from around ₹15 lakh, depending on the selected store size and format. Shop rent is separate from the franchise investment.",
+      "The Buyzaar Mart franchise starts from around 18.5, depending on the selected store size and format. Shop rent is separate from the franchise investment.",
   },
   {
     question: "Which store formats are available?",
@@ -351,7 +351,7 @@ const Content = () => {
                 </li>
 
                 <li>
-                  Begin with an investment from around ₹15 lakh onwards,
+                  Begin with an investment from around 18.5 onwards,
                   depending on the selected store format, property size, setup
                   requirements, and opening-stock plan.
                 </li>

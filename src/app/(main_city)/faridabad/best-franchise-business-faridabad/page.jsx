@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Best Franchise Business in Faridabad | The Buyzaar Mart Grocery Franchise",
   description:
-    "Discover the best franchise business in Faridabad with The Buyzaar Mart. Start your own supermarket in ₹15 Lakh with FOCM/FOCO model, full brand support & guaranteed returns. Apply now!",
+    "Discover the best franchise business in Faridabad with The Buyzaar Mart. Start your own supermarket in 18.5 with FOCM/FOCO model, full brand support & guaranteed returns. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/faridabad/best-franchise-business-faridabad",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Best Franchise Business in Faridabad | The Buyzaar Mart Grocery Franchise",
     description:
-      "Discover the best franchise business in Faridabad with The Buyzaar Mart. Start your own supermarket in ₹15 Lakh with FOCM/FOCO model, full brand support & guaranteed returns. Apply now!",
+      "Discover the best franchise business in Faridabad with The Buyzaar Mart. Start your own supermarket in 18.5 with FOCM/FOCO model, full brand support & guaranteed returns. Apply now!",
     url: "https://www.thebuyzaarmart.com/faridabad/best-franchise-business-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Best Franchise Business in Faridabad | The Buyzaar Mart Grocery Franchise",
     description:
-      "Discover the best franchise business in Faridabad with The Buyzaar Mart. Start your own supermarket in ₹15 Lakh with FOCM/FOCO model, full brand support & guaranteed returns. Apply now!",
+      "Discover the best franchise business in Faridabad with The Buyzaar Mart. Start your own supermarket in 18.5 with FOCM/FOCO model, full brand support & guaranteed returns. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

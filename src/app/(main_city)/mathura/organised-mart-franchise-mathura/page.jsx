@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Organised Mart Franchise in Mathura | The Buyzaar Mart",
   description:
-    "Start an organised mart franchise in Mathura with The Buyzaar Mart. Invest from ₹15 Lakh with POS, SOPs, supply chain, training and an 18-20% margin. Apply now.",
+    "Start an organised mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5 with POS, SOPs, supply chain, training and an 18-20% margin. Apply now.",
   keywords: [
     "organised mart franchise Mathura",
     "organized mart franchise Mathura",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Organised Mart Franchise in Mathura | The Buyzaar Mart",
     description:
-      "Start an organised mart franchise in Mathura with The Buyzaar Mart. Invest from ₹15 Lakh with POS, SOPs, supply chain, training and an 18-20% margin. Apply now.",
+      "Start an organised mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5 with POS, SOPs, supply chain, training and an 18-20% margin. Apply now.",
     url: "https://www.thebuyzaarmart.com/mathura/organised-mart-franchise-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Organised Mart Franchise in Mathura | The Buyzaar Mart",
     description:
-      "Start an organised mart franchise in Mathura with The Buyzaar Mart. Invest from ₹15 Lakh with POS, SOPs, supply chain, training and an 18-20% margin. Apply now.",
+      "Start an organised mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5 with POS, SOPs, supply chain, training and an 18-20% margin. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

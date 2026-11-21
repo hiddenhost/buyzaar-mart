@@ -133,7 +133,7 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why Delhi is an Attractive City to Open a Supermarket Franchise
@@ -326,7 +326,7 @@ const Content = () => {
               <div>
                 <h3 className="font-medium text-gray-900">What is the investment required to open this franchise?</h3>
                 <p className="mt-2">
-                  Investment ranges from a lower amount for Mini Mart to around ₹15.25 lakh for Super Mart and ₹78.89 lakh for Hyper Mart.
+                  Investment ranges from a lower amount for Mini Mart to around 18.5 for Super Mart and ₹78.89 lakh for Hyper Mart.
                 </p>
               </div>
 

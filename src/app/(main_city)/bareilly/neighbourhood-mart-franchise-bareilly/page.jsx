@@ -5,18 +5,18 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Neighbourhood Mart Franchise in Bareilly – The Buyzaar Mart | Start from ₹15 Lakh",
+    "Neighbourhood Mart Franchise in Bareilly – The Buyzaar Mart | Start from 18.5",
   description:
-    "Looking to open a neighbourhood mart franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting from ₹15 Lakh with full setup, POS, supply chain & ongoing support. Apply now!",
+    "Looking to open a neighbourhood mart franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting from 18.5 with full setup, POS, supply chain & ongoing support. Apply now!",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/neighbourhood-mart-franchise-in-bareilly",
   },
   openGraph: {
     title:
-      "Neighbourhood Mart Franchise in Bareilly – The Buyzaar Mart | Start from ₹15 Lakh",
+      "Neighbourhood Mart Franchise in Bareilly – The Buyzaar Mart | Start from 18.5",
     description:
-      "Looking to open a neighbourhood mart franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting from ₹15 Lakh with full setup, POS, supply chain & ongoing support. Apply now!",
+      "Looking to open a neighbourhood mart franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting from 18.5 with full setup, POS, supply chain & ongoing support. Apply now!",
     url: "https://www.thebuyzaarmart.com/bareilly/neighbourhood-mart-franchise-in-bareilly",
     siteName: "The Buyzaar Mart",
     images: [
@@ -24,7 +24,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Neighbourhood Mart Franchise in Bareilly – The Buyzaar Mart | Start from ₹15 Lakh",
+        alt: "Neighbourhood Mart Franchise in Bareilly – The Buyzaar Mart | Start from 18.5",
       },
     ],
     locale: "en_IN",
@@ -33,9 +33,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Neighbourhood Mart Franchise in Bareilly – The Buyzaar Mart | Start from ₹15 Lakh",
+      "Neighbourhood Mart Franchise in Bareilly – The Buyzaar Mart | Start from 18.5",
     description:
-      "Looking to open a neighbourhood mart franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting from ₹15 Lakh with full setup, POS, supply chain & ongoing support. Apply now!",
+      "Looking to open a neighbourhood mart franchise in Bareilly? The Buyzaar Mart offers a proven FOCM model starting from 18.5 with full setup, POS, supply chain & ongoing support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

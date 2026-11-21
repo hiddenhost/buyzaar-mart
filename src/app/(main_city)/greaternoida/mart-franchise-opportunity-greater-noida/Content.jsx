@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from ₹15 lakh for a Mini Mart format, depending on location, store size, setup scope, and final commercial assessment.",
+        text: "The minimum investment starts from 18.5 for a Mini Mart format, depending on location, store size, setup scope, and final commercial assessment.",
       },
     },
     {
@@ -213,7 +213,7 @@ const Content = () => {
             <p>
               Depending on format, store size, property condition, fit-out
               scope, and local commercial requirements, entry can begin from
-              around ₹15 lakh. Below is the structured investment view shared
+              around 18.5. Below is the structured investment view shared
               for two common formats.
             </p>
 
@@ -298,7 +298,7 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Mini Mart monthly revenue:</strong> Typically ₹8 lakh to
-                ₹15 lakh in a decent location.
+                18.5 in a decent location.
               </li>
               <li>
                 <strong>Super Mart monthly revenue:</strong> Commonly ₹20 lakh
@@ -360,7 +360,7 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Affordable entry point:</strong> Starting from around
-                ₹15 lakh, depending on format and setup.
+                18.5, depending on format and setup.
               </li>
               <li>
                 <strong>FOCM structure:</strong> Ownership with company-led
@@ -574,7 +574,7 @@ const Content = () => {
                   Mart franchise in Greater Noida?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from around ₹15 lakh for a Mini
+                  The minimum investment starts from around 18.5 for a Mini
                   Mart format, depending on store size, fit-out scope, inventory
                   requirement, and commercial feasibility.
                 </p>

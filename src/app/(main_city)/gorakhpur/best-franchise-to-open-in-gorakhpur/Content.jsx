@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "Best Franchise to Open in Gorakhpur | The Buyzaar Mart",
   description:
-    "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from ₹15 Lakh with full support. Apply now!",
+    "Looking for the best franchise to open in Gorakhpur? The Buyzaar Mart offers mini, super & hyper mart models from 18.5 with full support. Apply now!",
 };
 
 const localBusinessSchema = {
@@ -65,7 +65,7 @@ const faqItems = [
   {
     question: "What is the investment for a Buyzaar Mart franchise?",
     answer:
-      "The investment ranges from ₹15.25 Lakh-₹2 Crores, depending on the store format and area.",
+      "The investment ranges from 18.5-₹2 Crores, depending on the store format and area.",
   },
   {
     question: "Do I need retail experience?",
@@ -119,7 +119,7 @@ const sections = [
       "Gorakhpur is one of the key cities of eastern Uttar Pradesh, and more entrepreneurs here are now searching for a reliable franchise instead of starting a business from zero.",
       "The best franchise to open in Gorakhpur is one that has steady daily demand, a proven system, reasonable investment and strong support from the brand.",
       "Grocery and supermarket franchises meet all four needs, because families buy food and daily essentials every single day.",
-      "The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart formats with an investment range of ₹15.25 Lakh-₹2 Crores, depending on the format and size.",
+      "The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart formats with an investment range of 18.5-₹2 Crores, depending on the format and size.",
       "This page explains how to judge a franchise, why retail is a strong choice for Gorakhpur, and how The Buyzaar Mart fits your goals.",
     ],
   },
@@ -463,17 +463,17 @@ const Content = () => {
 
                 {section.subsections
                   ? section.subsections.map((subsection, subsectionIndex) => (
-                      <div key={subsection.title} className="space-y-3">
-                        <h3 className="font-medium text-gray-900">
-                          {subsection.title}
-                        </h3>
+                    <div key={subsection.title} className="space-y-3">
+                      <h3 className="font-medium text-gray-900">
+                        {subsection.title}
+                      </h3>
 
-                        <BulletList
-                          items={subsection.items}
-                          id={`section-${sectionIndex}-subsection-${subsectionIndex}`}
-                        />
-                      </div>
-                    ))
+                      <BulletList
+                        items={subsection.items}
+                        id={`section-${sectionIndex}-subsection-${subsectionIndex}`}
+                      />
+                    </div>
+                  ))
                   : null}
               </div>
             ))}

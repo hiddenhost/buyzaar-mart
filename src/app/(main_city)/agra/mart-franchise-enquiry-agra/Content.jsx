@@ -274,7 +274,7 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li><strong>Mini Mart (600–1,000 sq. ft.):</strong> An entry-level grocery and daily-needs format for residential colonies, housing societies, neighbourhood markets, and smaller commercial locations. The indicative investment starts from approximately ₹15.25 lakh and may include stock, interiors, software fee, franchise fee, and security deposit, subject to the final proposal.</li>
+              <li><strong>Mini Mart (600–1,000 sq. ft.):</strong> An entry-level grocery and daily-needs format for residential colonies, housing societies, neighbourhood markets, and smaller commercial locations. The indicative investment starts from approximately 18.5 and may include stock, interiors, software fee, franchise fee, and security deposit, subject to the final proposal.</li>
               <li><strong>Super Mart (1,001–3,000 sq. ft.):</strong> A mid-sized neighbourhood supermarket format for busy market areas, main colony roads, growing residential sectors, and locations that can support a wider product assortment and larger customer capacity.</li>
               <li><strong>Hyper Mart (3,001 sq. ft. and above):</strong> A large-format supermarket model for high-footfall main roads, commercial hubs, township markets, and suitable expressway-adjacent locations. The investment increases with store size, infrastructure, equipment, staffing, inventory, and fit-out requirements.</li>
               <li>The Buyzaar Mart team can evaluate your budget, available space, proposed locality, customer catchment, visibility, competition, and expected demand before recommending a format.</li>
@@ -452,7 +452,7 @@ const Content = () => {
             </ul>
 
 
-            
+
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">

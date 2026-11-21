@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Organised Mart Franchise Hapur | The Buyzaar Mart",
   description:
-    "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from ₹15 lakh.",
+    "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5.",
   keywords: [
     "organised mart franchise hapur",
     "organized mart franchise hapur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Organised Mart Franchise Hapur | The Buyzaar Mart",
     description:
-      "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from ₹15 lakh.",
+      "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5.",
     url: "https://www.thebuyzaarmart.com/hapur/organised-mart-franchise-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Organised Mart Franchise Hapur | The Buyzaar Mart",
     description:
-      "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from ₹15 lakh.",
+      "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

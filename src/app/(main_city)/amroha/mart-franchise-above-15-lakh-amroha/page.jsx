@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Above 15 Lakh in Amroha | Buyzaar Mart",
   description:
-    "Planning a mart franchise above ₹15 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
+    "Planning a mart franchise above 18.5 in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
   keywords: [
     "mart franchise above 15 lakh Amroha",
     "mart franchise Amroha",
@@ -39,7 +39,7 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Above 15 Lakh in Amroha | Buyzaar Mart",
     description:
-      "Planning a mart franchise above ₹15 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
+      "Planning a mart franchise above 18.5 in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
     url: "https://www.thebuyzaarmart.com/amroha/mart-franchise-above-15-lakh-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Above 15 Lakh in Amroha | Buyzaar Mart",
     description:
-      "Planning a mart franchise above ₹15 lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
+      "Planning a mart franchise above 18.5 in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Get a Grocery Franchise in Rampur | Buyzaar Mart",
   description:
-    "Learn how to get a grocery franchise in Rampur with The Buyzaar Mart. Check eligibility, documents and approval steps. Total investment from ₹15 Lakh.",
+    "Learn how to get a grocery franchise in Rampur with The Buyzaar Mart. Check eligibility, documents and approval steps. Total investment from 18.5.",
   keywords: [
     "how to get grocery franchise in Rampur",
     "grocery franchise Rampur",
@@ -42,7 +42,7 @@ export const metadata = {
   openGraph: {
     title: "How to Get a Grocery Franchise in Rampur | Buyzaar Mart",
     description:
-      "Learn how to get a grocery franchise in Rampur with The Buyzaar Mart. Check eligibility, documents and approval steps. Total investment from ₹15 Lakh.",
+      "Learn how to get a grocery franchise in Rampur with The Buyzaar Mart. Check eligibility, documents and approval steps. Total investment from 18.5.",
     url: "https://www.thebuyzaarmart.com/rampur/how-to-get-grocery-franchise-in-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +60,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Get a Grocery Franchise in Rampur | Buyzaar Mart",
     description:
-      "Learn how to get a grocery franchise in Rampur with The Buyzaar Mart. Check eligibility, documents and approval steps. Total investment from ₹15 Lakh.",
+      "Learn how to get a grocery franchise in Rampur with The Buyzaar Mart. Check eligibility, documents and approval steps. Total investment from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

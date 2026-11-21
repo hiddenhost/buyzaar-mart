@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "ROI in Retail Franchise Kanpur | The Buyzaar Mart FOCM & FOCO Model",
   description:
-    "Want to know the real ROI in retail franchise in Kanpur? Explore The Buyzaar Mart's FOCM and FOCO models, investment breakdown, monthly earnings, and payback period. Start from ₹15 Lakh.",
+    "Want to know the real ROI in retail franchise in Kanpur? Explore The Buyzaar Mart's FOCM and FOCO models, investment breakdown, monthly earnings, and payback period. Start from 18.5.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-franchise-roi-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "ROI in Retail Franchise Kanpur | The Buyzaar Mart FOCM & FOCO Model",
     description:
-      "Want to know the real ROI in retail franchise in Kanpur? Explore The Buyzaar Mart's FOCM and FOCO models, investment breakdown, monthly earnings, and payback period. Start from ₹15 Lakh.",
+      "Want to know the real ROI in retail franchise in Kanpur? Explore The Buyzaar Mart's FOCM and FOCO models, investment breakdown, monthly earnings, and payback period. Start from 18.5.",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-franchise-roi-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "ROI in Retail Franchise Kanpur | The Buyzaar Mart FOCM & FOCO Model",
     description:
-      "Want to know the real ROI in retail franchise in Kanpur? Explore The Buyzaar Mart's FOCM and FOCO models, investment breakdown, monthly earnings, and payback period. Start from ₹15 Lakh.",
+      "Want to know the real ROI in retail franchise in Kanpur? Explore The Buyzaar Mart's FOCM and FOCO models, investment breakdown, monthly earnings, and payback period. Start from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

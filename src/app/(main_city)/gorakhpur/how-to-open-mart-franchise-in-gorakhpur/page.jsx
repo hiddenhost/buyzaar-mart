@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Open Mart Franchise in Gorakhpur | Buyzaar Mart",
   description:
-    "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from ₹15 Lakh, FOCM model, POS and full support. Apply now.",
+    "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM model, POS and full support. Apply now.",
   keywords: [
     "how to open mart franchise in gorakhpur",
     "mart franchise in gorakhpur",
@@ -40,7 +40,7 @@ export const metadata = {
   openGraph: {
     title: "How to Open Mart Franchise in Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from ₹15 Lakh, FOCM model, POS and full support. Apply now.",
+      "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM model, POS and full support. Apply now.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-open-mart-franchise-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Open Mart Franchise in Gorakhpur | Buyzaar Mart",
     description:
-      "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from ₹15 Lakh, FOCM model, POS and full support. Apply now.",
+      "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM model, POS and full support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

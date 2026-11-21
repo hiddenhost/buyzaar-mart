@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Low Investment Franchise in Greater Noida - Start Your Own Buyzaar Mart Today",
   description:
-    "Explore The Buyzaar Mart low-investment franchise opportunity in Greater Noida with Mini Mart, Super Mart, and Hyper Mart formats under the FOCM model, end-to-end support, and investment starting from ₹15 Lakh.",
+    "Explore The Buyzaar Mart low-investment franchise opportunity in Greater Noida with Mini Mart, Super Mart, and Hyper Mart formats under the FOCM model, end-to-end support, and investment starting from 18.5.",
   url: "https://www.thebuyzaarmart.com/greaternoida/low-investment-franchise-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from ₹15 Lakh for a Mini Mart format covering 600 to 1,000 sq. ft. This includes opening stock, store interior, POS software fee, franchise fee inclusive of 18% GST, and a refundable security deposit. Super Mart and Hyper Mart investments vary based on store size.",
+        text: "The minimum investment starts from 18.5 for a Mini Mart format covering 600 to 1,000 sq. ft. This includes opening stock, store interior, POS software fee, franchise fee inclusive of 18% GST, and a refundable security deposit. Super Mart and Hyper Mart investments vary based on store size.",
       },
     },
     {
@@ -125,7 +125,7 @@ const Content = () => {
               big-box hypermarkets. This gap is exactly where The Buyzaar Mart
               franchise opportunity sits &mdash; and it is available right now
               to aspiring entrepreneurs in Greater Noida at a genuinely low
-              investment starting from ₹15 Lakh.
+              investment starting from 18.5.
             </p>
 
             <p>
@@ -371,7 +371,7 @@ const Content = () => {
                       600 &ndash; 1,000
                     </td>
                     <td className="border border-gray-200 px-4 py-3">
-                      From ₹15 Lakh
+                      From 18.5
                     </td>
                   </tr>
                   <tr>
@@ -646,7 +646,7 @@ const Content = () => {
                   franchise in Greater Noida?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from ₹15 Lakh for a Mini Mart
+                  The minimum investment starts from 18.5 for a Mini Mart
                   format (600&ndash;1,000 sq. ft.). This includes opening stock,
                   store interior, POS software fee, franchise fee (inclusive of
                   18% GST), and a refundable security deposit. Super Mart and

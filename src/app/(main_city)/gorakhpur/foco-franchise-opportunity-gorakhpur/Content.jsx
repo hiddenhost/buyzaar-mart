@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Franchise Opportunity in Gorakhpur | The Buyzaar Mart",
   description:
-    "Explore the FOCO franchise opportunity in Gorakhpur from ₹15 Lakh. Own the store while The Buyzaar Mart operates it with staff, POS billing, inventory, and supply support.",
+    "Explore the FOCO franchise opportunity in Gorakhpur from 18.5. Own the store while The Buyzaar Mart operates it with staff, POS billing, inventory, and supply support.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/foco-franchise-opportunity-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "FOCO Mini Mart",
         description:
-          "A Franchise Owned, Company Operated Mini Mart format for Gorakhpur residential catchments, generally requiring 600 to 1,000 sq. ft. and starting from ₹15 Lakh.",
+          "A Franchise Owned, Company Operated Mini Mart format for Gorakhpur residential catchments, generally requiring 600 to 1,000 sq. ft. and starting from 18.5.",
       },
       {
         "@type": "Offer",
@@ -82,7 +82,7 @@ const faqSchema = {
       name: "How much do I need to invest?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹15 Lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
+        text: "It starts from 18.5, and a Mini Mart generally goes up to ₹22 Lakh.",
       },
     },
     {
@@ -172,7 +172,7 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">Entry investment:</span> Starting
-                from ₹15 Lakh, with a Mini Mart generally in the ₹15–22 Lakh range
+                from 18.5, with a Mini Mart generally in the ₹15–22 Lakh range
                 depending on size, location, and premises condition.
               </li>
               <li>
@@ -611,7 +611,7 @@ const Content = () => {
                   How much do I need to invest?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹15 Lakh, and a Mini Mart generally goes up to
+                  It starts from 18.5, and a Mini Mart generally goes up to
                   ₹22 Lakh.
                 </p>
               </div>
@@ -676,7 +676,7 @@ const Content = () => {
                   or Hyper Mart format recommendation.
                 </li>
                 <li>
-                  Investment begins from approximately ₹15 Lakh, subject to the
+                  Investment begins from approximately 18.5, subject to the
                   selected format, premises, location assessment, and final
                   agreement terms.
                 </li>

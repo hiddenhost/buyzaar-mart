@@ -82,7 +82,7 @@ const faqSchema = {
       name: "How much investment and area are needed?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Mini Mart needs 600 to 1,000 sq. ft. from approximately ₹15.25 lakh; Super Mart needs 1,001 to 3,000 sq. ft. from approximately ₹26.63 lakh; Hyper Mart needs approximately 3,000 to 8,000 sq. ft. with higher investment.",
+        text: "Mini Mart needs 600 to 1,000 sq. ft. from approximately 18.5; Super Mart needs 1,001 to 3,000 sq. ft. from approximately ₹26.63 lakh; Hyper Mart needs approximately 3,000 to 8,000 sq. ft. with higher investment.",
       },
     },
     {
@@ -158,7 +158,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Area required: approximately 600 to 1,000 sq. ft.</li>
-              <li>Investment: starts from approximately ₹15.25 lakh.</li>
+              <li>Investment: starts from approximately 18.5.</li>
               <li>Ideal for: compact residential lanes, colony interiors, and high-frequency daily-top-up shopping needs.</li>
               <li>Suitable Varanasi micro-markets: smaller colony pockets within Sigra, Bhelupur, and similar residential lanes.</li>
             </ul>
@@ -312,7 +312,7 @@ const Content = () => {
                   Q4. How much investment and area are needed?
                 </h3>
                 <p className="mt-2">
-                  Mini Mart needs 600 to 1,000 sq. ft. from approximately ₹15.25 lakh; Super Mart needs 1,001 to 3,000 sq. ft. from approximately ₹26.63 lakh; Hyper Mart needs approximately 3,000 to 8,000 sq. ft. with higher investment.
+                  Mini Mart needs 600 to 1,000 sq. ft. from approximately 18.5; Super Mart needs 1,001 to 3,000 sq. ft. from approximately ₹26.63 lakh; Hyper Mart needs approximately 3,000 to 8,000 sq. ft. with higher investment.
                 </p>
               </div>
 

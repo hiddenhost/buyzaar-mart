@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Business Franchise in Varanasi | The Buyzaar Mart",
   description:
-    "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart ₹15 lakh onwards), franchise models, and how to apply.",
+    "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 onwards), franchise models, and how to apply.",
   keywords: [
     "retail business franchise Varanasi",
     "Buyzaar Mart Varanasi",
@@ -26,7 +26,7 @@ export const metadata = {
   openGraph: {
     title: "Retail Business Franchise in Varanasi | The Buyzaar Mart",
     description:
-      "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart ₹15 lakh onwards), franchise models, and how to apply.",
+      "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 onwards), franchise models, and how to apply.",
     url: "https://www.thebuyzaarmart.com/varanasi/retail-business-franchise-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
@@ -44,7 +44,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Business Franchise in Varanasi | The Buyzaar Mart",
     description:
-      "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart ₹15 lakh onwards), franchise models, and how to apply.",
+      "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 onwards), franchise models, and how to apply.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Mart Franchise Gorakhpur | The Buyzaar Mart",
   description:
-    "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from ₹15 Lakh. Apply today!",
+    "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from 18.5. Apply today!",
   keywords: [
     "focm mart franchise gorakhpur",
     "focm franchise gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCM Mart Franchise Gorakhpur | The Buyzaar Mart",
     description:
-      "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from ₹15 Lakh. Apply today!",
+      "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from 18.5. Apply today!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/focm-mart-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Mart Franchise Gorakhpur | The Buyzaar Mart",
     description:
-      "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from ₹15 Lakh. Apply today!",
+      "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from 18.5. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

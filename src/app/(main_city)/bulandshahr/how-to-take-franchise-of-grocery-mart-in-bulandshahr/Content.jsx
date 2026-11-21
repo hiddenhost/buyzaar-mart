@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment to take a grocery mart franchise in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Entry-level Mini Mart franchises typically start from around ₹15 Lakh, depending on store size and location.",
+        text: "Entry-level Mini Mart franchises typically start from around 18.5, depending on store size and location.",
       },
     },
     {
@@ -232,7 +232,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart franchises typically start from around ₹15 Lakh to ₹20 Lakh for a 600–1,000 sq. ft. store.</li>
+              <li>Mini Mart franchises typically start from around 18.5 to ₹20 Lakh for a 600–1,000 sq. ft. store.</li>
               <li>Costs cover the franchise fee, interior branding, opening inventory, POS software, licenses, and initial working capital for the first few months.</li>
               <li>Franchise owners can expect an average profit margin of around 18% to 20% on sales, depending on store size, location, and monthly volume.</li>
               <li>A security deposit is typically part of the agreement, separate from interior and stock costs.</li>
@@ -280,7 +280,7 @@ const Content = () => {
                   Q1. What is the minimum investment to take a grocery mart franchise in Bulandshahr?
                 </h3>
                 <p className="mt-2">
-                  Entry-level Mini Mart franchises typically start from around ₹15 Lakh, depending on store size and location.
+                  Entry-level Mini Mart franchises typically start from around 18.5, depending on store size and location.
                 </p>
               </div>
 

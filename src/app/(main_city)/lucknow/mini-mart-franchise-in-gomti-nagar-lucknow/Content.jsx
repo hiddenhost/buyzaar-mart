@@ -8,7 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart",
   description:
-    "Explore the Buyzaar Mart Mini Mart franchise opportunity in Gomti Nagar, Lucknow. Learn about investment starting from approximately ₹15.25 lakh, the FOCM model, store setup, POS technology, staff training, supply chain support, location requirements, and daily-needs retail operations.",
+    "Explore the Buyzaar Mart Mini Mart franchise opportunity in Gomti Nagar, Lucknow. Learn about investment starting from approximately 18.5, the FOCM model, store setup, POS technology, staff training, supply chain support, location requirements, and daily-needs retail operations.",
   url: "https://www.thebuyzaarmart.com/lucknow/mini-mart-franchise-in-gomti-nagar-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -67,7 +67,7 @@ const faqSchema = {
       acceptedAnswer: {
         "@type": "Answer",
         text:
-          "The Mini Mart investment starts from approximately ₹15.25 lakh and may cover stock, interior setup, software fee, franchise fee, and security deposit. The final investment can vary according to store size, location, equipment, fit-out, rent, and working-capital requirements.",
+          "The Mini Mart investment starts from approximately 18.5 and may cover stock, interior setup, software fee, franchise fee, and security deposit. The final investment can vary according to store size, location, equipment, fit-out, rent, and working-capital requirements.",
       },
     },
     {
@@ -218,7 +218,7 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>As a low-investment supermarket franchise in Lucknow, the Mini Mart format is designed to offer a more accessible entry point than many large-format supermarket chains. The indicative investment starts from approximately ₹15.25 lakh and may vary according to store size, location, property condition, and selected requirements.</li>
+              <li>As a low-investment supermarket franchise in Lucknow, the Mini Mart format is designed to offer a more accessible entry point than many large-format supermarket chains. The indicative investment starts from approximately 18.5 and may vary according to store size, location, property condition, and selected requirements.</li>
               <li>The estimated investment may include initial stock, interior setup, software fee, franchise fee, branding, POS technology, and security deposit. Applicants should request a complete written cost sheet before making a decision.</li>
               <li>Daily essentials and grocery retail are recurring-demand categories because customers regularly purchase staples, dairy, snacks, beverages, personal care items, cleaning products, and household supplies.</li>
               <li>Offering several product categories under one roof can increase customer convenience and may improve the average basket value when customers combine grocery purchases with household or personal-care items.</li>
@@ -339,7 +339,7 @@ const Content = () => {
                   Q3. How much investment is required for this franchise?
                 </h3>
                 <p className="mt-2">
-                  The Mini Mart investment starts from approximately ₹15.25 lakh and may cover initial stock, interior setup, software fee, franchise fee, branding, POS technology, and security deposit. The final amount varies according to store size, location, equipment, fit-out, rent, and working capital.
+                  The Mini Mart investment starts from approximately 18.5 and may cover initial stock, interior setup, software fee, franchise fee, branding, POS technology, and security deposit. The final amount varies according to store size, location, equipment, fit-out, rent, and working capital.
                 </p>
               </div>
 

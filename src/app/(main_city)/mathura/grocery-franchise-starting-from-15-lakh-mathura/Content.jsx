@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Grocery Franchise from ₹15 Lakh in Mathura | The Buyzaar Mart",
+  name: "Grocery Franchise from 18.5 in Mathura | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers grocery franchise opportunities in Mathura starting from ₹15 lakh with Mini Mart, Super Mart, and Hyper Mart formats, FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
+    "The Buyzaar Mart offers grocery franchise opportunities in Mathura starting from 18.5 with Mini Mart, Super Mart, and Hyper Mart formats, FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/mathura/grocery-franchise-from-15-lakh-in-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level grocery franchise format for dense residential colonies and smaller neighbourhood pockets in Mathura, starting from ₹15 lakh.",
+          "Entry-level grocery franchise format for dense residential colonies and smaller neighbourhood pockets in Mathura, starting from 18.5.",
       },
       {
         "@type": "Offer",
@@ -58,12 +58,12 @@ const faqSchema = {
       name: "What is the starting investment for a grocery franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Buyzaar Mart franchise starts from ₹15 lakh, depending on the format you choose.",
+        text: "The Buyzaar Mart franchise starts from 18.5, depending on the format you choose.",
       },
     },
     {
       "@type": "Question",
-      name: "Is ₹15 lakh the total cost for every store?",
+      name: "Is 18.5 the total cost for every store?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "No. The final cost depends on format, size and location, so confirm your figure with the franchise team.",
@@ -138,14 +138,14 @@ const Content = () => {
             </h1>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>A grocery franchise starting from ₹15 lakh gives aspiring business owners in Mathura a practical entry into organised retail without the heavy capital that large supermarkets demand.</li>
+              <li>A grocery franchise starting from 18.5 gives aspiring business owners in Mathura a practical entry into organised retail without the heavy capital that large supermarkets demand.</li>
               <li>Mathura combines steady household demand with pilgrim and tourist traffic from Vrindavan and Govardhan, so daily-need stores find buyers in every season.</li>
-              <li>The Buyzaar Mart franchise begins at ₹15 lakh, with the final figure depending on the store format, size and location you choose.</li>
-              <li>This guide explains what a ₹15 lakh budget is meant to cover, what to keep aside separately, how to make the most of a smaller store and how to decide whether this entry level suits you.</li>
+              <li>The Buyzaar Mart franchise begins at 18.5, with the final figure depending on the store format, size and location you choose.</li>
+              <li>This guide explains what a 18.5 budget is meant to cover, what to keep aside separately, how to make the most of a smaller store and how to decide whether this entry level suits you.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a ₹15 Lakh Grocery Franchise Makes Sense in Mathura
+              Why a 18.5 Grocery Franchise Makes Sense in Mathura
             </h2>
 
             <h3 className="font-medium text-gray-900">A Need-Based Business</h3>
@@ -167,11 +167,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What &quot;Starting from ₹15 Lakh&quot; Means
+              What &quot;Starting from 18.5&quot; Means
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart franchise starts from ₹15 lakh, which is the entry point for the smaller store format rather than a fixed price for every store.</li>
+              <li>The Buyzaar Mart franchise starts from 18.5, which is the entry point for the smaller store format rather than a fixed price for every store.</li>
               <li>Your final investment depends on the format, shop size, interiors and the opening stock your location needs.</li>
               <li>The website investment calculator estimates your cost for a Mini Mart, Super Mart or Hyper Mart, so you can plan with clearer numbers before applying.</li>
               <li>Ask the franchise team for a written summary of what your specific figure includes, so there are no surprises later.</li>
@@ -224,7 +224,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Which Format Fits a ₹15 Lakh Budget
+              Which Format Fits a 18.5 Budget
             </h2>
 
             <h3 className="font-medium text-gray-900">Mini Mart (600 to 1,000 sq ft)</h3>
@@ -247,7 +247,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              How to Make a ₹15 Lakh Store Work in Mathura
+              How to Make a 18.5 Store Work in Mathura
             </h2>
 
             <h3 className="font-medium text-gray-900">Choose the Location Carefully</h3>
@@ -412,13 +412,13 @@ const Content = () => {
                   What is the starting investment for a grocery franchise in Mathura?
                 </h3>
                 <p className="mt-2">
-                  The Buyzaar Mart franchise starts from ₹15 lakh, depending on the format you choose.
+                  The Buyzaar Mart franchise starts from 18.5, depending on the format you choose.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Is ₹15 lakh the total cost for every store?
+                  Is 18.5 the total cost for every store?
                 </h3>
                 <p className="mt-2">
                   No. The final cost depends on format, size and location, so confirm your figure with the franchise team.
@@ -473,7 +473,7 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your Grocery Franchise Journey in Mathura from ₹15 Lakh
+                Start Your Grocery Franchise Journey in Mathura from 18.5
               </h2>
 
               <ul className="list-disc space-y-2 pl-6">

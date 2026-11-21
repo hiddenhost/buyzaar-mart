@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Franchise Investment in Mathura | The Buyzaar Mart",
   description:
-    "Explore retail franchise investment opportunities in Mathura with The Buyzaar Mart. Low-investment supermarket franchise from ₹15 lakh, FOCM/FOFO models, full support.",
+    "Explore retail franchise investment opportunities in Mathura with The Buyzaar Mart. Low-investment supermarket franchise from 18.5, FOCM/FOFO models, full support.",
   keywords: [
     "retail franchise investment Mathura",
     "supermarket franchise Mathura",
@@ -39,7 +39,7 @@ export const metadata = {
   openGraph: {
     title: "Retail Franchise Investment in Mathura | The Buyzaar Mart",
     description:
-      "Explore retail franchise investment opportunities in Mathura with The Buyzaar Mart. Low-investment supermarket franchise from ₹15 lakh, FOCM/FOFO models, full support.",
+      "Explore retail franchise investment opportunities in Mathura with The Buyzaar Mart. Low-investment supermarket franchise from 18.5, FOCM/FOFO models, full support.",
     url: "https://www.thebuyzaarmart.com/mathura/retail-franchise-investment-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Franchise Investment in Mathura | The Buyzaar Mart",
     description:
-      "Explore retail franchise investment opportunities in Mathura with The Buyzaar Mart. Low-investment supermarket franchise from ₹15 lakh, FOCM/FOFO models, full support.",
+      "Explore retail franchise investment opportunities in Mathura with The Buyzaar Mart. Low-investment supermarket franchise from 18.5, FOCM/FOFO models, full support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

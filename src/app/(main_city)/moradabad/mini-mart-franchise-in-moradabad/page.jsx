@@ -5,7 +5,7 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-    "Mini Mart Franchise in Moradabad | The Buyzaar Mart – Start from ₹15 Lakh",
+    "Mini Mart Franchise in Moradabad | The Buyzaar Mart – Start from 18.5",
   description:
     "Open a Mini Mart franchise in Moradabad with The Buyzaar Mart. Compact 600-1,000 sq ft format, low investment, full brand and operational support.",
   keywords: [
@@ -22,7 +22,7 @@ export const metadata = {
   },
   openGraph: {
     title:
-      "Mini Mart Franchise in Moradabad | The Buyzaar Mart – Start from ₹15 Lakh",
+      "Mini Mart Franchise in Moradabad | The Buyzaar Mart – Start from 18.5",
     description:
       "Open a Mini Mart franchise in Moradabad with The Buyzaar Mart. Compact 600-1,000 sq ft format, low investment, full brand and operational support.",
     url: "https://www.thebuyzaarmart.com/moradabad/mini-mart-franchise-in-moradabad",
@@ -41,7 +41,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Mini Mart Franchise in Moradabad | The Buyzaar Mart – Start from ₹15 Lakh",
+      "Mini Mart Franchise in Moradabad | The Buyzaar Mart – Start from 18.5",
     description:
       "Open a Mini Mart franchise in Moradabad with The Buyzaar Mart. Compact 600-1,000 sq ft format, low investment, full brand and operational support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

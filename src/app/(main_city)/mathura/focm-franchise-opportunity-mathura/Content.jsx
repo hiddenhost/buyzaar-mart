@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much investment is needed for a Mini Mart in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakh to ₹25 lakh, excluding rent and working-capital reserve. Confirm the final quote with the team.",
+        text: "Approximately ₹18.5 to ₹26 Lakh, excluding rent and working-capital reserve. Confirm the final quote with the team.",
       },
     },
     {
@@ -184,7 +184,7 @@ const Content = () => {
               Investment Required for a Buyzaar Mart Franchise in Mathura
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>For a Mini Mart, the total investment is approximately ₹15.25 lakh to ₹25 lakh, depending on shop size, interior choices and opening stock.</li>
+              <li>For a Mini Mart, the total investment is approximately ₹18.5 to ₹26 Lakh, depending on shop size, interior choices and opening stock.</li>
               <li>The main cost heads are the franchise fee, a refundable security deposit, interior and racking setup, POS and billing hardware, and the initial inventory.</li>
               <li>Opening stock is usually the biggest single block, so plan working capital carefully rather than spending everything on interiors.</li>
               <li>Super Mart and Hyper Mart figures scale with area and assortment. Treat any numbers you hear as estimates and confirm the exact quote with the franchise team before committing.</li>
@@ -310,7 +310,7 @@ const Content = () => {
                   Q2. How much investment is needed for a Mini Mart in Mathura?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakh to ₹25 lakh, excluding rent and working-capital reserve. Confirm the final quote with the team.
+                  Approximately ₹18.5 to ₹26 Lakh, excluding rent and working-capital reserve. Confirm the final quote with the team.
                 </p>
               </div>
 

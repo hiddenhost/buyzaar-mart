@@ -82,7 +82,7 @@ const faqSchema = {
       name: "What is the investment needed for an FOCM grocery store in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The investment is approximately ₹15 lakh and above for a Mini Mart, varying by location and store size.",
+        text: "The investment is approximately 18.5 and above for a Mini Mart, varying by location and store size.",
       },
     },
     {
@@ -384,7 +384,7 @@ const Content = () => {
               <li>
                 Based on The Buyzaar Mart&apos;s standard cost structure applied in
                 comparable Uttar Pradesh cities, a Mini Mart-format FOCM investment
-                can require approximately ₹15.25 lakh to ₹25 lakh.
+                can require approximately ₹18.5 to ₹26 Lakh.
               </li>
               <li>
                 These figures are illustrative because actual costs depend on the
@@ -508,7 +508,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Frequently Asked Questions
@@ -552,7 +552,7 @@ const Content = () => {
                   Mathura?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15 lakh and above for a Mini Mart, varying by
+                  Approximately 18.5 and above for a Mini Mart, varying by
                   location and store size.
                 </p>
               </div>

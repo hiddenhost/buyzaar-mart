@@ -4,9 +4,9 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise Above ₹15 Lakh in Bulandshahr | The Buyzaar Mart",
+  title: "Mart Franchise Above 18.5 in Bulandshahr | The Buyzaar Mart",
   description:
-    "Explore a mart franchise above ₹15 lakh in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+    "Explore a mart franchise above 18.5 in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
   keywords: [
     "mart franchise Bulandshahr",
     "franchise above 15 lakh",
@@ -36,9 +36,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/bulandshahr/mart-franchise-above-15-lakh-bulandshahr",
   },
   openGraph: {
-    title: "Mart Franchise Above ₹15 Lakh in Bulandshahr | The Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 in Bulandshahr | The Buyzaar Mart",
     description:
-      "Explore a mart franchise above ₹15 lakh in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+      "Explore a mart franchise above 18.5 in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
     url: "https://www.thebuyzaarmart.com/bulandshahr/mart-franchise-above-15-lakh-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +46,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Above ₹15 Lakh in Bulandshahr | The Buyzaar Mart",
+        alt: "Mart Franchise Above 18.5 in Bulandshahr | The Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -54,9 +54,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Above ₹15 Lakh in Bulandshahr | The Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 in Bulandshahr | The Buyzaar Mart",
     description:
-      "Explore a mart franchise above ₹15 lakh in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+      "Explore a mart franchise above 18.5 in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

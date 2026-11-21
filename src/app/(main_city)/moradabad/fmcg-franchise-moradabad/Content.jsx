@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What investment is required for an FMCG franchise in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment typically starts from approximately ₹15 lakh for the Mini Mart format, with higher amounts required for larger formats.",
+        text: "Investment typically starts from approximately 18.5 for the Mini Mart format, with higher amounts required for larger formats.",
       },
     },
     {
@@ -297,7 +297,7 @@ const Content = () => {
                   What investment is required for an FMCG franchise in Moradabad?
                 </h3>
                 <p className="mt-2">
-                  Investment typically starts from approximately ₹15 lakh for the Mini Mart format, with higher amounts required for larger formats.
+                  Investment typically starts from approximately 18.5 for the Mini Mart format, with higher amounts required for larger formats.
                 </p>
               </div>
 

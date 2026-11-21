@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const pageTitle = "How to Get Grocery Franchise in Gorakhpur | Buyzaar Mart";
 
 const pageDescription =
-  "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from ₹15 Lakh and apply with The Buyzaar Mart.";
+  "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from 18.5 and apply with The Buyzaar Mart.";
 
 const contentSections = [
   {
@@ -47,7 +47,7 @@ const contentSections = [
     title: "What The Buyzaar Mart Offers",
     points: [
       "The Buyzaar Mart is a neighbourhood supermarket franchise brand headquartered in Noida, Uttar Pradesh.",
-      "The franchise starts from around ₹15 lakh, depending on selected store format, property area, setup needs, and opening-stock requirements.",
+      "The franchise starts from around 18.5, depending on selected store format, property area, setup needs, and opening-stock requirements.",
       "It follows the FOCM, Franchise Owned, Company Managed, model, and the website also mentions a FOCO model.",
       "The brand works with 50+ FMCG partners, including HUL, ITC, Nestlé, Dabur, Parle, Britannia, Tata Consumer, and Marico.",
       "It is described as FSSAI licensed, GST registered, and MSME certified.",
@@ -96,7 +96,7 @@ const contentSections = [
   {
     title: "Investment Range by Format",
     points: [
-      "Mini Mart: 600–1,000 sq ft. A Mini Mart can be planned in an indicative range of approximately ₹15.25 lakh to ₹25 lakh, depending on area, property condition, stock requirement, and interior choices.",
+      "Mini Mart: 600–1,000 sq ft. A Mini Mart can be planned in an indicative range of approximately ₹18.5 to ₹26 Lakh, depending on area, property condition, stock requirement, and interior choices.",
       "Mini Mart categories include grocery and staples, beverages, snacks and biscuits, personal care, home care and hygiene, and stationery.",
       "Super Mart: 1,000–3,000 sq ft. This format adds dairy items and fruits and vegetables to the product range.",
       "Super Mart budgets scale with area, interior work, opening stock, shelving, and technology requirements, so confirm a format-specific estimate with the franchise team.",
@@ -174,7 +174,7 @@ const faqs = [
   {
     question: "What is the investment?",
     answer:
-      "The franchise starts from around ₹15 lakh, depending on the selected format and store area. Shop rent and certain operating costs are separate.",
+      "The franchise starts from around 18.5, depending on the selected format and store area. Shop rent and certain operating costs are separate.",
   },
   {
     question: "Which documents are needed?",

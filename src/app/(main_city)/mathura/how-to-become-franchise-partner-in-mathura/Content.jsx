@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the minimum investment to become a partner in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from ₹15 lakh onwards, depending on the store format chosen.",
+        text: "The minimum investment starts from 18.5 onwards, depending on the store format chosen.",
       },
     },
     {
@@ -275,7 +275,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              
+
               <li>
                 Moderately involved (FOCM): You retain supervisory oversight and
                 strategic input, while the company supports daily execution.
@@ -554,7 +554,7 @@ const Content = () => {
                   What is the minimum investment to become a partner in Mathura?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from ₹15 lakh onwards, depending
+                  The minimum investment starts from 18.5 onwards, depending
                   on the store format chosen.
                 </p>
               </div>

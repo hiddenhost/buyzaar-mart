@@ -38,7 +38,7 @@ const contentSections = [
     points: [
       "Grocery store franchise cost scales directly with the format you choose. The Mini Mart, Super Mart, and Hyper Mart formats differ in area, interior scope, stock requirement, and total investment level.",
       "Mini Mart: 600–1,000 sq ft. This is the lowest-cost entry point into the franchise, with a smaller interior scope and lighter opening-stock requirement.",
-      "Mini Mart estimated total investment: Approximately ₹15.25 lakh to ₹25 lakh, based on figures consistent with comparable Uttar Pradesh city launches.",
+      "Mini Mart estimated total investment: Approximately ₹18.5 to ₹26 Lakh, based on figures consistent with comparable Uttar Pradesh city launches.",
       "Mini Mart is best suited to investors seeking to minimise upfront capital while operating a fully branded grocery and FMCG store.",
       "Super Mart: 1,001–3,000 sq ft. This is a mid-range investment tier, with proportionally higher interior, shelving, equipment, and opening-stock costs than a Mini Mart.",
       "Super Mart requires a larger opening stock to fill the additional floor space with a wider product range and is suited to investors with a moderately higher budget seeking greater revenue potential.",
@@ -116,7 +116,7 @@ const faqs = [
   {
     question: "What is the total franchise cost for a Mini Mart in Mathura?",
     answer:
-      "The indicative total investment for a Mini Mart in Mathura is approximately ₹15.25 lakh to ₹25 lakh. This generally covers the franchise fee, security deposit, setup, POS and software, and opening stock. Final costs depend on the property and selected requirements.",
+      "The indicative total investment for a Mini Mart in Mathura is approximately ₹18.5 to ₹26 Lakh. This generally covers the franchise fee, security deposit, setup, POS and software, and opening stock. Final costs depend on the property and selected requirements.",
   },
   {
     question:
@@ -182,7 +182,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Grocery Franchise",
         description:
-          "A 600–1,000 sq ft grocery and FMCG franchise format in Mathura with an indicative investment of approximately ₹15.25 lakh to ₹25 lakh.",
+          "A 600–1,000 sq ft grocery and FMCG franchise format in Mathura with an indicative investment of approximately ₹18.5 to ₹26 Lakh.",
       },
       {
         "@type": "Offer",
@@ -307,7 +307,7 @@ const Content = () => {
 
                 <li>
                   Start with an indicative Mini Mart investment of approximately
-                  ₹15.25 lakh to ₹25 lakh, with Super Mart and Hyper Mart
+                  ₹18.5 to ₹26 Lakh, with Super Mart and Hyper Mart
                   investment levels scaling based on size and requirements.
                 </li>
 

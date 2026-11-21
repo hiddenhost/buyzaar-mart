@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Franchise Store Revenue Kanpur | Mini Mart & Super Mart | The Buyzaar Mart",
   description:
-    "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from ₹15 Lakh.",
+    "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/franchise-store-revenue-kanpur",
@@ -16,7 +16,7 @@ export const metadata = {
     title:
       "Franchise Store Revenue Kanpur | Mini Mart & Super Mart | The Buyzaar Mart",
     description:
-      "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from ₹15 Lakh.",
+      "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5.",
     url: "https://www.thebuyzaarmart.com/kanpur/franchise-store-revenue-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +35,7 @@ export const metadata = {
     title:
       "Franchise Store Revenue Kanpur | Mini Mart & Super Mart | The Buyzaar Mart",
     description:
-      "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from ₹15 Lakh.",
+      "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

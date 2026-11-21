@@ -98,7 +98,7 @@ const faqSchema = {
       name: "Can I open a Buyzaar Mart store in my Kanpur locality?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, franchise opportunities are open under FOCM and FOCO models starting around ₹15 lakh.",
+        text: "Yes, franchise opportunities are open under FOCM and FOCO models starting around 18.5.",
       },
     },
     {
@@ -371,7 +371,7 @@ const Content = () => {
               </li>
 
               <li>
-                Starting investment begins around ₹15 lakh for a Mini Mart format,
+                Starting investment begins around 18.5 for a Mini Mart format,
                 covering franchise fee, interiors, POS technology, and opening stock.
               </li>
 
@@ -442,7 +442,7 @@ const Content = () => {
                   Can I open a Buyzaar Mart store in my Kanpur locality?
                 </h3>
                 <p className="mt-2">
-                  Yes, franchise opportunities are open under FOCM and FOCO models starting around ₹15 lakh.
+                  Yes, franchise opportunities are open under FOCM and FOCO models starting around 18.5.
                 </p>
               </div>
 

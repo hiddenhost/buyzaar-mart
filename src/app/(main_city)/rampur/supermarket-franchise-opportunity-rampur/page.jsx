@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Supermarket Franchise Opportunity in Rampur | The Buyzaar Mart",
   description:
-    "Start a supermarket franchise in Rampur with The Buyzaar Mart from ₹15 lakh total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
+    "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
   keywords: [
     "supermarket franchise opportunity rampur",
     "supermarket franchise in rampur",
@@ -39,7 +39,7 @@ export const metadata = {
   openGraph: {
     title: "Supermarket Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-      "Start a supermarket franchise in Rampur with The Buyzaar Mart from ₹15 lakh total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
+      "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
     url: "https://www.thebuyzaarmart.com/rampur/supermarket-franchise-opportunity-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Supermarket Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-      "Start a supermarket franchise in Rampur with The Buyzaar Mart from ₹15 lakh total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
+      "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

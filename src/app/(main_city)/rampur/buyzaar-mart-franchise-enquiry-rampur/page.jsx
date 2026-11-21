@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Enquiry in Rampur | Send Enquiry",
   description:
-    "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from ₹15 Lakh. Response within 24 hours.",
+    "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5. Response within 24 hours.",
   keywords: [
     "Buyzaar Mart franchise enquiry Rampur",
     "Buyzaar Mart franchise inquiry Rampur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Enquiry in Rampur | Send Enquiry",
     description:
-      "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from ₹15 Lakh. Response within 24 hours.",
+      "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5. Response within 24 hours.",
     url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-enquiry-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Enquiry in Rampur | Send Enquiry",
     description:
-      "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from ₹15 Lakh. Response within 24 hours.",
+      "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5. Response within 24 hours.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

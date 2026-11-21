@@ -62,7 +62,7 @@ const faqSchema = {
       name: "What is the investment required?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakhs, covering stock, interior, software fee, franchise fee, and deposit.",
+        text: "Approximately 18.5s, covering stock, interior, software fee, franchise fee, and deposit.",
       },
     },
     {
@@ -192,7 +192,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Mini Mart is Buyzaar Mart's compact supermarket format, designed for entrepreneurs who want to enter organized retail with a smaller footprint and investment.</li>
               <li>This format requires 600 to 1,000 sq. ft. of retail space, making it suitable for smaller commercial spots within residential or semi-commercial localities.</li>
-              <li>The entry-level investment for a Mini Mart starts at approximately ₹15.25 lakhs, covering stock, interior fit-out, software fee, franchise fee, and security deposit.</li>
+              <li>The entry-level investment for a Mini Mart starts at approximately 18.5s, covering stock, interior fit-out, software fee, franchise fee, and security deposit.</li>
               <li>Despite its smaller size, the Mini Mart follows the same branding, pricing standards, and product quality benchmarks as Buyzaar Mart's larger formats.</li>
               <li>The format is designed so that even a single owner-operator, supported by two or three staff members, can run daily operations smoothly.</li>
             </ul>
@@ -324,7 +324,7 @@ const Content = () => {
                   What is the investment required?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakhs, covering stock, interior, software fee, franchise fee, and deposit.
+                  Approximately 18.5s, covering stock, interior, software fee, franchise fee, and deposit.
                 </p>
               </div>
 

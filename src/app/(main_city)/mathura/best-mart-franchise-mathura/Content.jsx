@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the Mini Mart investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "About ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.",
+        text: "About ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.",
       },
     },
     {
@@ -174,7 +174,7 @@ const Content = () => {
             </h2>
             <ul className="list-disc space-y-2 pl-6">
               <li><strong>Space and Setup:</strong> Roughly 600–1,000 sq ft. Suitable for residential colonies, lanes near markets and compact commercial shops.</li>
-              <li><strong>Investment:</strong> Approximately ₹15.25 lakh to ₹25 lakh in total, covering franchise fee, security deposit, interiors, POS setup and opening stock.</li>
+              <li><strong>Investment:</strong> Approximately ₹18.5 to ₹26 Lakh in total, covering franchise fee, security deposit, interiors, POS setup and opening stock.</li>
               <li><strong>Best For:</strong> First-time entrepreneurs, existing small shop owners and investors who want lower entry cost and simpler stock management.</li>
               <li><strong>What to Stock:</strong> Daily staples, packaged food, dairy items, beverages, personal care and household basics.</li>
             </ul>
@@ -367,7 +367,7 @@ const Content = () => {
                   Q2. What is the Mini Mart investment?
                 </h3>
                 <p className="mt-2">
-                  About ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.
+                  About ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.
                 </p>
               </div>
 

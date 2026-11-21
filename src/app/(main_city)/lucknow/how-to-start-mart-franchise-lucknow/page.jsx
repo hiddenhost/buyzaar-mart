@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Start a Mart Franchise in Lucknow | The Buyzaar Mart",
   description:
-    "Want to start a mart franchise in Lucknow? Join The Buyzaar Mart — Lucknow's trusted grocery & supermarket franchise starting from ₹15 Lakh. FOCM model, full support & proven ROI. Apply today",
+    "Want to start a mart franchise in Lucknow? Join The Buyzaar Mart — Lucknow's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full support & proven ROI. Apply today",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/lucknow/how-to-start-a-mart-franchise-in-lucknow",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "How to Start a Mart Franchise in Lucknow | The Buyzaar Mart",
     description:
-      "Want to start a mart franchise in Lucknow? Join The Buyzaar Mart — Lucknow's trusted grocery & supermarket franchise starting from ₹15 Lakh. FOCM model, full support & proven ROI. Apply today",
+      "Want to start a mart franchise in Lucknow? Join The Buyzaar Mart — Lucknow's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full support & proven ROI. Apply today",
     url: "https://www.thebuyzaarmart.com/lucknow/how-to-start-a-mart-franchise-in-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Start a Mart Franchise in Lucknow | The Buyzaar Mart",
     description:
-      "Want to start a mart franchise in Lucknow? Join The Buyzaar Mart — Lucknow's trusted grocery & supermarket franchise starting from ₹15 Lakh. FOCM model, full support & proven ROI. Apply today",
+      "Want to start a mart franchise in Lucknow? Join The Buyzaar Mart — Lucknow's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full support & proven ROI. Apply today",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

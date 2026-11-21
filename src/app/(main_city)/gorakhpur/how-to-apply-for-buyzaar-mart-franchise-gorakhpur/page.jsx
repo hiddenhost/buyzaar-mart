@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Apply for Buyzaar Mart Franchise in Gorakhpur",
   description:
-    "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from ₹15 lakh.",
+    "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5.",
   keywords: [
     "how to apply for Buyzaar Mart franchise Gorakhpur",
     "Buyzaar Mart franchise Gorakhpur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "How to Apply for Buyzaar Mart Franchise in Gorakhpur",
     description:
-      "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from ₹15 lakh.",
+      "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-apply-for-buyzaar-mart-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Apply for Buyzaar Mart Franchise in Gorakhpur",
     description:
-      "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from ₹15 lakh.",
+      "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

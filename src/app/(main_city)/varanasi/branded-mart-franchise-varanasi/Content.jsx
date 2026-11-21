@@ -90,7 +90,7 @@ const faqSchema = {
       name: "How much investment is required?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Entry-level investments for smaller formats can start around ₹15.25 lakh, with larger formats requiring significantly more.",
+        text: "Entry-level investments for smaller formats can start around 18.5, with larger formats requiring significantly more.",
       },
     },
     {
@@ -252,7 +252,7 @@ const Content = () => {
               <li>Stock: Initial inventory across groceries, FMCG, and daily essentials.</li>
               <li>Interior and setup: Shelving, refrigeration, branding, and signage.</li>
               <li>Security deposit: A refundable amount as part of the agreement.</li>
-              <li>Entry-level investments for smaller formats in similar cities have started around ₹15.25 lakh, with larger formats scaling up significantly beyond that.</li>
+              <li>Entry-level investments for smaller formats in similar cities have started around 18.5, with larger formats scaling up significantly beyond that.</li>
               <li>Exact figures depend on store size, location, and current material and interior costs — a location-specific quote from the brand is recommended before finalizing.</li>
             </ul>
 
@@ -332,7 +332,7 @@ const Content = () => {
               <div>
                 <h3 className="font-medium text-gray-900">How much investment is required?</h3>
                 <p className="mt-2">
-                  Entry-level investments for smaller formats can start around ₹15.25 lakh, with larger formats requiring significantly more.
+                  Entry-level investments for smaller formats can start around 18.5, with larger formats requiring significantly more.
                 </p>
               </div>
 

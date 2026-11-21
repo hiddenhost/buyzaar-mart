@@ -4,9 +4,9 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Buyzaar Mart Franchise Apply Gorakhpur | From ₹15 Lakh",
+  title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
   description:
-    "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from ₹15 lakh, FOCM/FOCO models, POS billing and full launch support. Apply now.",
+    "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5, FOCM/FOCO models, POS billing and full launch support. Apply now.",
   keywords: [
     "Buyzaar Mart franchise apply Gorakhpur",
     "Buyzaar Mart franchise Gorakhpur",
@@ -36,9 +36,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-apply-gorakhpur",
   },
   openGraph: {
-    title: "Buyzaar Mart Franchise Apply Gorakhpur | From ₹15 Lakh",
+    title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
     description:
-      "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from ₹15 lakh, FOCM/FOCO models, POS billing and full launch support. Apply now.",
+      "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5, FOCM/FOCO models, POS billing and full launch support. Apply now.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-apply-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +46,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Buyzaar Mart Franchise Apply Gorakhpur | From ₹15 Lakh",
+        alt: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
       },
     ],
     locale: "en_IN",
@@ -54,9 +54,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Buyzaar Mart Franchise Apply Gorakhpur | From ₹15 Lakh",
+    title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
     description:
-      "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from ₹15 lakh, FOCM/FOCO models, POS billing and full launch support. Apply now.",
+      "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5, FOCM/FOCO models, POS billing and full launch support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

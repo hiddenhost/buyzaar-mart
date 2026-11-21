@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the investment range for this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹15.25 lakhs to ₹78.89 lakhs and above, depending on store format.",
+        text: "Roughly 18.5s to ₹78.89 lakhs and above, depending on store format.",
       },
     },
     {
@@ -207,13 +207,13 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart (600–1,000 sq. ft.): Entry-level investment starts around ₹15.25 lakhs.</li>
+              <li>Mini Mart (600–1,000 sq. ft.): Entry-level investment starts around 18.5s.</li>
               <li>Super Mart (1,001–3,000 sq. ft.): Entry-level investment starts around ₹26.63 lakhs.</li>
               <li>Hyper Mart (3,001–8,000 sq. ft.): Entry-level investment starts around ₹78.89 lakhs, scaling higher for larger outlets.</li>
             </ul>
 
             <p>
-              Overall, the investment range across all formats spans roughly ₹15.25 lakhs to ₹78.89 lakhs and above, with area requirements ranging from 600 sq. ft. to 8,000 sq. ft. These figures are based on Buyzaar Mart&apos;s published investment calculator and may vary — confirm exact figures with the franchise team.
+              Overall, the investment range across all formats spans roughly 18.5s to ₹78.89 lakhs and above, with area requirements ranging from 600 sq. ft. to 8,000 sq. ft. These figures are based on Buyzaar Mart&apos;s published investment calculator and may vary — confirm exact figures with the franchise team.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -311,7 +311,7 @@ const Content = () => {
                   What is the investment range for this franchise?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹15.25 lakhs to ₹78.89 lakhs and above, depending on store format.
+                  Roughly 18.5s to ₹78.89 lakhs and above, depending on store format.
                 </p>
               </div>
 

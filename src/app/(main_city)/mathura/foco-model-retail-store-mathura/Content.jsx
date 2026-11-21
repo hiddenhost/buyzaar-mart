@@ -82,7 +82,7 @@ const faqSchema = {
       name: "What is the minimum investment for a FOCO retail store in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment is approximately ₹15 lakh and above for a Mini Mart format. The final amount varies by location and store size.",
+        text: "The minimum investment is approximately 18.5 and above for a Mini Mart format. The final amount varies by location and store size.",
       },
     },
     {
@@ -274,7 +274,7 @@ const Content = () => {
                 bringing established retail experience into a Mathura expansion.
               </li>
               <li>
-                Franchise investment starts from approximately ₹15 lakh, structured
+                Franchise investment starts from approximately 18.5, structured
                 to be accessible for a range of investors rather than requiring
                 institutional-level capital.
               </li>
@@ -398,7 +398,7 @@ const Content = () => {
               <li>
                 Based on The Buyzaar Mart&apos;s standard cost structure applied in
                 comparable Uttar Pradesh cities, a Mini Mart-format FOCO investment
-                can require approximately ₹15.25 lakh to ₹25 lakh.
+                can require approximately ₹18.5 to ₹26 Lakh.
               </li>
               <li>
                 These are illustrative figures — actual costs depend on the
@@ -572,7 +572,7 @@ const Content = () => {
                   Mathura?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15 lakh and above for a Mini Mart format, varying
+                  Approximately 18.5 and above for a Mini Mart format, varying
                   by location and store size.
                 </p>
               </div>

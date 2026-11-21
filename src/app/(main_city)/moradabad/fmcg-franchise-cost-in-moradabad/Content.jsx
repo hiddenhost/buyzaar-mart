@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the minimum FMCG franchise cost in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart franchise typically starts from ₹15 lakh to ₹20 lakh, covering setup, stock, and launch.",
+        text: "A Mini Mart franchise typically starts from 18.5 to ₹20 lakh, covering setup, stock, and launch.",
       },
     },
     {
@@ -172,7 +172,7 @@ const Content = () => {
 
             <h3 className="font-medium text-gray-900">Mini Mart (600–1,000 sq. ft.)</h3>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Total investment typically starts from ₹15 lakh to ₹20 lakh, making it the most accessible entry point for first-time franchise owners in Moradabad.</li>
+              <li>Total investment typically starts from 18.5 to ₹20 lakh, making it the most accessible entry point for first-time franchise owners in Moradabad.</li>
               <li>This covers store interiors, opening stock, POS deployment, branding, and initial launch support in a single package.</li>
               <li>Best suited to residential colonies and neighbourhood markets across localities like Majhola, Pakbara, and Ramganga Vihar, where a compact format matches local footfall patterns.</li>
               <li>Recommended for salaried professionals, first-time entrepreneurs, and investors who want to enter retail with a contained investment before considering expansion.</li>
@@ -308,7 +308,7 @@ const Content = () => {
                   What is the minimum FMCG franchise cost in Moradabad?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart franchise typically starts from ₹15 lakh to ₹20 lakh, covering setup, stock, and launch.
+                  A Mini Mart franchise typically starts from 18.5 to ₹20 lakh, covering setup, stock, and launch.
                 </p>
               </div>
 

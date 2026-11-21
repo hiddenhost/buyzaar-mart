@@ -202,7 +202,7 @@ const Content = () => {
                                 Requires a store area of approximately <strong>600 to 1,000 sq. ft.</strong>, making it ideal for residential neighbourhoods, apartment complexes, and local commercial markets.
                             </li>
                             <li>
-                                Initial investment starts from approximately <strong>₹15.25 lakh</strong>.
+                                Initial investment starts from approximately <strong>18.5</strong>.
                             </li>
                             <li>
                                 The investment generally includes the franchise fee, initial inventory, interior fit-out, POS software, and security deposit.

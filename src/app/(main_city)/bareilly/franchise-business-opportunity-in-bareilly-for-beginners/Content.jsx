@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the investment required to start?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakhs to ₹26.63 lakhs, depending on the format.",
+        text: "Approximately 18.5s to ₹26.63 lakhs, depending on the format.",
       },
     },
     {
@@ -203,7 +203,7 @@ const Content = () => {
 
             <h3 className="font-medium text-gray-900">Mini Mart</h3>
             <p>
-              Ranging from 600–1,000 sq. ft., the Mini Mart format is an excellent choice for first-time entrepreneurs who want to begin with a compact, easy-to-manage grocery store. It requires an entry-level investment of approximately ₹15.25 lakhs and is well suited to residential neighborhoods, local markets, and developing commercial areas. The smaller store size makes it easier to oversee daily operations while still offering customers a wide selection of essential grocery and household products.
+              Ranging from 600–1,000 sq. ft., the Mini Mart format is an excellent choice for first-time entrepreneurs who want to begin with a compact, easy-to-manage grocery store. It requires an entry-level investment of approximately 18.5s and is well suited to residential neighborhoods, local markets, and developing commercial areas. The smaller store size makes it easier to oversee daily operations while still offering customers a wide selection of essential grocery and household products.
             </p>
 
             <h3 className="font-medium text-gray-900">Super Mart</h3>
@@ -334,7 +334,7 @@ const Content = () => {
                   What is the investment required to start?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakhs to ₹80 lakhs, depending on the format.
+                  Approximately 18.5s to ₹80 lakhs, depending on the format.
                 </p>
               </div>
 

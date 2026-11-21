@@ -60,7 +60,7 @@ const faqSchema = {
       name: "How much investment is needed for a grocery franchise in Varanasi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It varies by format and model, but entry-level investments for smaller formats can start around ₹15.25 lakh, scaling higher for larger stores.",
+        text: "It varies by format and model, but entry-level investments for smaller formats can start around 18.5, scaling higher for larger stores.",
       },
     },
     {
@@ -230,7 +230,7 @@ const Content = () => {
               <li>Stock: Initial inventory of groceries, FMCG, and daily essentials to fill store shelves from day one.</li>
               <li>Interior and setup: Shelving, branding, signage, refrigeration units, and complete store fit-out as per brand standards.</li>
               <li>Security deposit: Refundable amount held as part of the franchise agreement and returned upon contract completion.</li>
-              <li>As a general reference, some grocery franchise brands in India start entry-level investments around ₹15.25 lakh for smaller formats, scaling up significantly for larger store sizes.</li>
+              <li>As a general reference, some grocery franchise brands in India start entry-level investments around 18.5 for smaller formats, scaling up significantly for larger store sizes.</li>
               <li>Total investment can vary widely — from roughly ₹15.25 to ₹26.63 lakh for smaller formats to ₹79 lakh or more for larger, high-footfall formats — so it&apos;s important to get a location-specific and format-specific quote before committing.</li>
             </ul>
 
@@ -308,7 +308,7 @@ const Content = () => {
 
             <ul >
               <li><strong>How much investment is needed for a grocery franchise in Varanasi?</strong></li>
-              <li>It varies by format and model, but entry-level investments for smaller formats can start around ₹15.25 lakh, scaling higher for larger stores.</li>
+              <li>It varies by format and model, but entry-level investments for smaller formats can start around 18.5, scaling higher for larger stores.</li>
               <li><strong>What is the difference between FOCM and FOCO?</strong></li>
               <li>FOCM means you own the store while the company manages daily operations; FOCO means the company operates the store entirely, and you function as an investor.</li>
               <li><strong>What store formats are typically available?</strong></li>

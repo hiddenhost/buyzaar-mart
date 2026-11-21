@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the investment for a Mini Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.",
+        text: "Approximately ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.",
       },
     },
     {
@@ -190,7 +190,7 @@ const Content = () => {
               Investment for a Buyzaar Mart Franchise in Mathura
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>A Mini Mart typically requires approximately ₹15.25 lakh to ₹25 lakh in total, depending on shop size, interiors and opening stock.</li>
+              <li>A Mini Mart typically requires approximately ₹18.5 to ₹26 Lakh in total, depending on shop size, interiors and opening stock.</li>
               <li>The investment covers the franchise fee, a refundable security deposit, interior and racking work, POS and billing systems, and the first inventory order.</li>
               <li>Super Mart and Hyper Mart investments rise with area and product range. Consider those as estimates and request a written quotation from the franchise team.</li>
               <li>Keep separate funds for shop rent or deposit, electricity and an initial working-capital cushion, since these are not part of the franchise investment itself.</li>
@@ -346,7 +346,7 @@ const Content = () => {
                   Q3. What is the investment for a Mini Mart?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.
+                  Approximately ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.
                 </p>
               </div>
 

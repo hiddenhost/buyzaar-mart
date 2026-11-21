@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart FOCM Franchise in Gorakhpur",
   description:
-    "Own a Buyzaar Mart FOCM franchise in Gorakhpur. Franchise Owned, Company Managed model with full setup, supply chain, POS billing and ongoing support. Investment starts from ₹15 lakh.",
+    "Own a Buyzaar Mart FOCM franchise in Gorakhpur. Franchise Owned, Company Managed model with full setup, supply chain, POS billing and ongoing support. Investment starts from 18.5.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-focm-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the starting investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹15 lakh, depending on store format and area.",
+        text: "Investment starts from 18.5, depending on store format and area.",
       },
     },
     {
@@ -154,14 +154,14 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Buyzaar Mart FOCM Franchise in Gorakhpur — Invest from ₹15 Lakh
+              Buyzaar Mart FOCM Franchise in Gorakhpur — Invest from 18.5
             </h1>
 
             <p>
               Own a Buyzaar Mart FOCM franchise in Gorakhpur. The Franchise
               Owned, Company Managed model provides full setup, supply chain,
               POS billing and ongoing support, with investment starting from
-              ₹15 lakh.
+              18.5.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -182,7 +182,7 @@ const Content = () => {
               <li>
                 The Buyzaar Mart is a grocery and supermarket franchise network
                 with the promise &quot;Your Friendly Neighborhood Store&quot;,
-                and investment starts from ₹15 lakh.
+                and investment starts from 18.5.
               </li>
               <li>
                 On its website, the brand highlights the FOCM model with full
@@ -406,7 +406,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The franchise investment starts from ₹15 lakh.</li>
+              <li>The franchise investment starts from 18.5.</li>
               <li>
                 The total depends on store type and area, and includes stock,
                 interior, software fee, franchise fee including 18% GST and
@@ -857,7 +857,7 @@ const Content = () => {
                   2. What is the starting investment?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹15 lakh, depending on store format
+                  Investment starts from 18.5, depending on store format
                   and area.
                 </p>
               </div>
@@ -949,7 +949,7 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Own a Buyzaar Mart FOCM franchise in Gorakhpur with
-                  investment starting from ₹15 lakh.
+                  investment starting from 18.5.
                 </li>
                 <li>
                   Receive support for store setup, supply chain, POS billing,

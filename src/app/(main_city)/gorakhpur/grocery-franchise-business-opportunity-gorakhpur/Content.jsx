@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "Grocery Franchise Business Opportunity Gorakhpur | Buyzaar Mart",
   description:
-    "Start a grocery franchise business in Gorakhpur with The Buyzaar Mart. Step-by-step plan, formats and support, with investment from ₹15 Lakh. Apply today!",
+    "Start a grocery franchise business in Gorakhpur with The Buyzaar Mart. Step-by-step plan, formats and support, with investment from 18.5. Apply today!",
 };
 
 const localBusinessSchema = {
@@ -65,7 +65,7 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
-      "A single unit starts from ₹15 Lakh, depending on format, area, stock and interiors.",
+      "A single unit starts from 18.5, depending on format, area, stock and interiors.",
   },
   {
     question: "Do I need grocery experience?",
@@ -116,7 +116,7 @@ const sections = [
     items: [
       "A grocery franchise business lets you run a branded store for daily-need products, supported by a tested system, a supply chain and a trained team.",
       "The Buyzaar Mart offers this opportunity in Gorakhpur through Mini Mart, Super Mart and Hyper Mart formats.",
-      "Investment starts from ₹15 Lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
+      "Investment starts from 18.5, and the brand indicates an effective gross margin of 18–20% on sales.",
       "You can choose a company-managed model if you have limited time, or an owner-operated model if you want to run the store yourself.",
       "This page works like a simple business plan, so you can see the market, costs, daily operations and risks before you apply.",
     ],
@@ -277,7 +277,7 @@ const sections = [
       {
         title: "Budget Notes",
         items: [
-          "The investment starts from ₹15 Lakh for a single unit and depends on format and area.",
+          "The investment starts from 18.5 for a single unit and depends on format and area.",
           "The investment calculator on the franchise page gives an estimate for your size.",
           "Rent for the premises is paid by the franchise partner.",
           "Keep some extra funds ready for daily needs in the early months.",
@@ -541,17 +541,17 @@ const Content = () => {
 
                 {section.subsections
                   ? section.subsections.map((subsection, subsectionIndex) => (
-                      <div key={subsection.title} className="space-y-3">
-                        <h3 className="font-medium text-gray-900">
-                          {subsection.title}
-                        </h3>
+                    <div key={subsection.title} className="space-y-3">
+                      <h3 className="font-medium text-gray-900">
+                        {subsection.title}
+                      </h3>
 
-                        <BulletList
-                          items={subsection.items}
-                          listId={`section-${sectionIndex}-subsection-${subsectionIndex}`}
-                        />
-                      </div>
-                    ))
+                      <BulletList
+                        items={subsection.items}
+                        listId={`section-${sectionIndex}-subsection-${subsectionIndex}`}
+                      />
+                    </div>
+                  ))
                   : null}
               </div>
             ))}

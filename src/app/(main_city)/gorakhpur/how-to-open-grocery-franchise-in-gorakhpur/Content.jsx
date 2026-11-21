@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the investment for a grocery franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from around ₹15 lakh, depending on store size and format. Rent is separate.",
+        text: "It starts from around 18.5, depending on store size and format. Rent is separate.",
       },
     },
     {
@@ -210,9 +210,9 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart franchise starts from around ₹15 lakh, based on store size and format.</li>
+              <li>The Buyzaar Mart franchise starts from around 18.5, based on store size and format.</li>
               <li>The total covers opening stock, interior and fit-out, software fee, franchise fee (including 18% GST) and security deposit.</li>
-              <li>A Mini Mart can be planned in a range of roughly ₹15.25 lakh to ₹25 lakh, depending on area and interior choices.</li>
+              <li>A Mini Mart can be planned in a range of roughly ₹18.5 to ₹26 Lakh, depending on area and interior choices.</li>
               <li>Super Mart and Hyper Mart budgets are higher and scale with area, so treat these as estimates until the franchise team confirms them.</li>
               <li>Rent is separate. The franchisee finds and pays for the location, with site selection guidance from Buyzaar.</li>
               <li>Opening stock is a major part of a grocery budget, so a larger area means more inventory and higher working capital.</li>
@@ -351,7 +351,7 @@ const Content = () => {
                   What is the investment for a grocery franchise in Gorakhpur?
                 </h3>
                 <p className="mt-2">
-                  It starts from around ₹15 lakh, depending on store size and format. Rent is separate.
+                  It starts from around 18.5, depending on store size and format. Rent is separate.
                 </p>
               </div>
 
@@ -410,7 +410,7 @@ const Content = () => {
               </div>
             </div>
 
-            
+
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Start Your Grocery Franchise Journey in Gorakhpur

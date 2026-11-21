@@ -82,7 +82,7 @@ const faqSchema = {
       name: "What is the investment range for this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It ranges from about ₹15.25 lakhs to ₹78.89 lakhs and above, depending on store size.",
+        text: "It ranges from about 18.5s to ₹78.89 lakhs and above, depending on store size.",
       },
     },
     {
@@ -258,7 +258,7 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: 600–1,000 sq. ft., suited to residential colonies and smaller commercial plots, with an entry-level investment of approximately ₹15.25 lakhs.</li>
+              <li>Mini Mart: 600–1,000 sq. ft., suited to residential colonies and smaller commercial plots, with an entry-level investment of approximately 18.5s.</li>
               <li>Super Mart: 1,001–3,000 sq. ft., suited to busier localities or larger plots, with an entry-level investment of approximately ₹26.63 lakhs.</li>
               <li>Hyper Mart: 3,001–8,000 sq. ft., suited to high-footfall commercial locations, with an entry-level investment of approximately ₹78.89 lakhs and above.</li>
             </ul>
@@ -404,7 +404,7 @@ const Content = () => {
                   What is the investment range for this franchise?
                 </h3>
                 <p className="mt-2">
-                  It ranges from about ₹15.25 lakhs to ₹78.89 lakhs and above, depending on store size.
+                  It ranges from about 18.5s to ₹78.89 lakhs and above, depending on store size.
                 </p>
               </div>
 

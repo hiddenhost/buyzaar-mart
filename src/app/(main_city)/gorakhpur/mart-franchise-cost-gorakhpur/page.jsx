@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Cost in Gorakhpur | Buyzaar Mart Investment",
   description:
-    "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from ₹15 Lakh with POS & training. Apply now!",
+    "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 with POS & training. Apply now!",
   keywords: [
     "mart franchise cost Gorakhpur",
     "mart franchise cost in Gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Cost in Gorakhpur | Buyzaar Mart Investment",
     description:
-      "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from ₹15 Lakh with POS & training. Apply now!",
+      "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 with POS & training. Apply now!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-cost-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Cost in Gorakhpur | Buyzaar Mart Investment",
     description:
-      "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from ₹15 Lakh with POS & training. Apply now!",
+      "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 with POS & training. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

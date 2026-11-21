@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment and space required to open a Buyzaar Mart in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The entry-level investment starts at approximately ₹15 Lakhs for the Mini Mart format, which requires a commercial space between 600 to 1,000 square feet. Costs scale up based on the larger Super Mart and Hyper Mart formats.",
+        text: "The entry-level investment starts at approximately 18.5s for the Mini Mart format, which requires a commercial space between 600 to 1,000 square feet. Costs scale up based on the larger Super Mart and Hyper Mart formats.",
       },
     },
     {
@@ -386,7 +386,7 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Massive Residential Density and Planned Sector
-                Growth:</strong> Sectors such as Alpha, Beta, Gamma, Delta,
+                  Growth:</strong> Sectors such as Alpha, Beta, Gamma, Delta,
                 Swarn Nagari, and Greater Noida West house thousands of
                 households, creating a strong consumer base for neighborhood
                 supermarkets.
@@ -399,7 +399,7 @@ const Content = () => {
               </li>
               <li>
                 <strong>The Upcoming International Noida Airport
-                Advantage:</strong> Development around Jewar and the Yamuna
+                  Advantage:</strong> Development around Jewar and the Yamuna
                 Expressway is accelerating commercial growth, real estate
                 appreciation, and migration into the region.
               </li>
@@ -547,7 +547,7 @@ const Content = () => {
                   a Buyzaar Mart in Greater Noida?
                 </h3>
                 <p className="mt-2">
-                  The entry-level investment starts at approximately ₹15 Lakhs
+                  The entry-level investment starts at approximately 18.5s
                   for the Mini Mart format, which requires a commercial space
                   between 600 to 1,000 square feet. Costs scale up based on the
                   larger Super Mart and Hyper Mart formats.

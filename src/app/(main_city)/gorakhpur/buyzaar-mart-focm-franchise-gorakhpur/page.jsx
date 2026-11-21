@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart FOCM Franchise Gorakhpur | Invest from ₹15L",
   description:
-    "Own a Buyzaar Mart FOCM franchise in Gorakhpur. Franchise Owned, Company Managed model with full setup, supply chain, POS and support. Investment from ₹15 lakh.",
+    "Own a Buyzaar Mart FOCM franchise in Gorakhpur. Franchise Owned, Company Managed model with full setup, supply chain, POS and support. Investment from 18.5.",
   keywords: [
     "Buyzaar Mart FOCM franchise Gorakhpur",
     "FOCM franchise Gorakhpur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart FOCM Franchise Gorakhpur | Invest from ₹15L",
     description:
-      "Own a Buyzaar Mart FOCM franchise in Gorakhpur. Franchise Owned, Company Managed model with full setup, supply chain, POS and support. Investment from ₹15 lakh.",
+      "Own a Buyzaar Mart FOCM franchise in Gorakhpur. Franchise Owned, Company Managed model with full setup, supply chain, POS and support. Investment from 18.5.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-focm-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart FOCM Franchise Gorakhpur | Invest from ₹15L",
     description:
-      "Own a Buyzaar Mart FOCM franchise in Gorakhpur. Franchise Owned, Company Managed model with full setup, supply chain, POS and support. Investment from ₹15 lakh.",
+      "Own a Buyzaar Mart FOCM franchise in Gorakhpur. Franchise Owned, Company Managed model with full setup, supply chain, POS and support. Investment from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart FOCO Franchise Gorakhpur | Invest from ₹15L",
   description:
-    "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain, launch support, and investment from ₹15 lakh.",
+    "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain, launch support, and investment from 18.5.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-foco-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the starting investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹15 lakh, depending on store format and area.",
+        text: "Investment starts from 18.5, depending on store format and area.",
       },
     },
     {
@@ -171,7 +171,7 @@ const Content = () => {
               <li>
                 The Buyzaar Mart is a grocery and supermarket franchise brand
                 with the promise &quot;Your Friendly Neighborhood Store&quot;,
-                and investment starts from ₹15 lakh.
+                and investment starts from 18.5.
               </li>
               <li>
                 Gorakhpur is a growing city of eastern Uttar Pradesh, where
@@ -392,7 +392,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>The franchise investment starts from ₹15 lakh.</li>
+              <li>The franchise investment starts from 18.5.</li>
               <li>
                 The final amount depends on store type and area, and includes
                 stock, interior, software fee, franchise fee including 18% GST,
@@ -813,7 +813,7 @@ const Content = () => {
                   2. What is the starting investment?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹15 lakh, depending on store format
+                  Investment starts from 18.5, depending on store format
                   and area.
                 </p>
               </div>
@@ -902,7 +902,7 @@ const Content = () => {
                   it.
                 </li>
                 <li>
-                  Start with an investment from ₹15 lakh, depending on the
+                  Start with an investment from 18.5, depending on the
                   format and location.
                 </li>
                 <li>

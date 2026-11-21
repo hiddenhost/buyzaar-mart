@@ -5,9 +5,9 @@ import Services from "@/app/components/Services";
 
 
 export const metadata = {
-  title: "Mart Franchise Starting at ₹15 Lakh in Mathura | Buyzaar Mart",
+  title: "Mart Franchise Starting at 18.5 in Mathura | Buyzaar Mart",
   description:
-    "Explore a mart franchise starting at ₹15 lakh in Mathura. See the Mini Mart layout, range, daily operations and support from The Buyzaar Mart. Enquire today.",
+    "Explore a mart franchise starting at 18.5 in Mathura. See the Mini Mart layout, range, daily operations and support from The Buyzaar Mart. Enquire today.",
   keywords: [
     "mart franchise starting 15 lakh Mathura",
     "mart franchise in Mathura",
@@ -37,9 +37,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/mathura/mart-franchise-starting-15-lakh-mathura",
   },
   openGraph: {
-    title: "Mart Franchise Starting at ₹15 Lakh in Mathura | Buyzaar Mart",
+    title: "Mart Franchise Starting at 18.5 in Mathura | Buyzaar Mart",
     description:
-      "Explore a mart franchise starting at ₹15 lakh in Mathura. See the Mini Mart layout, range, daily operations and support from The Buyzaar Mart. Enquire today.",
+      "Explore a mart franchise starting at 18.5 in Mathura. See the Mini Mart layout, range, daily operations and support from The Buyzaar Mart. Enquire today.",
     url: "https://www.thebuyzaarmart.com/mathura/mart-franchise-starting-15-lakh-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -47,7 +47,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Starting at ₹15 Lakh in Mathura | Buyzaar Mart",
+        alt: "Mart Franchise Starting at 18.5 in Mathura | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -55,9 +55,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Starting at ₹15 Lakh in Mathura | Buyzaar Mart",
+    title: "Mart Franchise Starting at 18.5 in Mathura | Buyzaar Mart",
     description:
-      "Explore a mart franchise starting at ₹15 lakh in Mathura. See the Mini Mart layout, range, daily operations and support from The Buyzaar Mart. Enquire today.",
+      "Explore a mart franchise starting at 18.5 in Mathura. See the Mini Mart layout, range, daily operations and support from The Buyzaar Mart. Enquire today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

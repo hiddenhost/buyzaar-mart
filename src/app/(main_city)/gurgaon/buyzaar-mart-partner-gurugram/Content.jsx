@@ -8,7 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Partner in Gurugram | Grocery Franchise Opportunity",
   description:
-    "Explore the Buyzaar Mart franchise partnership opportunity in Gurugram. Learn about the FOCM model, FSSAI-licensed daily-needs retail, store formats, investment starting from ₹15 lakh, location suitability, and company-managed store operations.",
+    "Explore the Buyzaar Mart franchise partnership opportunity in Gurugram. Learn about the FOCM model, FSSAI-licensed daily-needs retail, store formats, investment starting from 18.5, location suitability, and company-managed store operations.",
   url: "https://www.thebuyzaarmart.com/gurgaon/buyzaar-mart-partner-gurugram",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -76,7 +76,7 @@ const faqSchema = {
       name: "What is the starting investment for a Buyzaar Mart Mini Mart in Gurugram?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The starting investment for a Mini Mart is approximately ₹15.25 lakh. The estimated amount may include stock, interior setup, software fee, franchise fee, and security deposit, subject to the final location-specific proposal.",
+        text: "The starting investment for a Mini Mart is approximately 18.5. The estimated amount may include stock, interior setup, software fee, franchise fee, and security deposit, subject to the final location-specific proposal.",
       },
     },
     {
@@ -206,7 +206,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Buyzaar Mart offers three franchise formats so that a prospective partner can evaluate an option according to budget, available commercial space, local demand, expected customer catchment, and desired product range.</li>
-              <li>Mini Mart: This format generally requires approximately 600 to 1,000 sq. ft. and is suitable for residential society ground floors, colony-facing shops, and neighbourhood commercial units. The indicative investment starting point is approximately ₹15.25 lakh, which may cover stock, interior setup, software fee, franchise fee, and security deposit. Potential Gurugram locations may include housing society retail units near Dwarka Expressway sectors, inner colony lanes in Palam Vihar and South City, DLF Phase society markets, Sushant Lok residential shops, and Sector 56–58 colony-facing commercial spaces.</li>
+              <li>Mini Mart: This format generally requires approximately 600 to 1,000 sq. ft. and is suitable for residential society ground floors, colony-facing shops, and neighbourhood commercial units. The indicative investment starting point is approximately 18.5, which may cover stock, interior setup, software fee, franchise fee, and security deposit. Potential Gurugram locations may include housing society retail units near Dwarka Expressway sectors, inner colony lanes in Palam Vihar and South City, DLF Phase society markets, Sushant Lok residential shops, and Sector 56–58 colony-facing commercial spaces.</li>
               <li>Super Mart: This format generally requires approximately 1,000 to 3,000 sq. ft. and can support a wider daily-needs assortment, larger displays, and a more spacious customer experience. Potential Gurugram locations may include Dwarka Expressway township commercial blocks in Sectors 82–102, Southern Peripheral Road commercial units, Golf Course Extension commercial areas, and the Palam Vihar main market.</li>
               <li>Hyper Mart: This format generally requires 3,000 sq. ft. and above and is designed for high-footfall main roads, established commercial markets, and larger retail destinations. Potential Gurugram locations may include NH-48 main-road frontages, the Sohna Road commercial corridor, Golf Course Road market areas, and Sector 14 or Sector 45 main markets.</li>
               <li>Before selecting a format, the proposed Gurugram site should be evaluated for catchment population, residential density, customer profile, visibility, accessibility, parking, daily footfall, nearby competitors, rent, frontage, and physical suitability. The final format and investment amount should be confirmed through a location-specific proposal from the brand.</li>
@@ -348,7 +348,7 @@ const Content = () => {
                   Q3. What is the starting investment for a Buyzaar Mart Mini Mart in Gurugram?
                 </h3>
                 <p className="mt-2">
-                  The starting investment for a Mini Mart is approximately ₹15.25 lakh. The estimated amount may include stock, interior setup, software fee, franchise fee, and security deposit, subject to the final location-specific proposal.
+                  The starting investment for a Mini Mart is approximately 18.5. The estimated amount may include stock, interior setup, software fee, franchise fee, and security deposit, subject to the final location-specific proposal.
                 </p>
               </div>
 

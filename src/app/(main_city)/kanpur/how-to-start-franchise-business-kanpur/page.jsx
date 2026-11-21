@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Start a Franchise Business Kanpur - The Buyzaar Mart Guide 2025",
   description:
-    "Learn how to start a grocery franchise business in Kanpur from ₹15 Lakh with The Buyzaar Mart. Complete guide with investment details, ROI potential, and step-by-step process for Kanpur entrepreneurs.",
+    "Learn how to start a grocery franchise business in Kanpur from 18.5 with The Buyzaar Mart. Complete guide with investment details, ROI potential, and step-by-step process for Kanpur entrepreneurs.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/how-to-open-grocery-franchise-kanpur",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "How to Start a Franchise Business Kanpur - The Buyzaar Mart Guide 2025",
     description:
-      "Learn how to start a grocery franchise business in Kanpur from ₹15 Lakh with The Buyzaar Mart. Complete guide with investment details, ROI potential, and step-by-step process for Kanpur entrepreneurs.",
+      "Learn how to start a grocery franchise business in Kanpur from 18.5 with The Buyzaar Mart. Complete guide with investment details, ROI potential, and step-by-step process for Kanpur entrepreneurs.",
     url: "https://www.thebuyzaarmart.com/kanpur/how-to-open-grocery-franchise-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Start a Franchise Business Kanpur - The Buyzaar Mart Guide 2025",
     description:
-      "Learn how to start a grocery franchise business in Kanpur from ₹15 Lakh with The Buyzaar Mart. Complete guide with investment details, ROI potential, and step-by-step process for Kanpur entrepreneurs.",
+      "Learn how to start a grocery franchise business in Kanpur from 18.5 with The Buyzaar Mart. Complete guide with investment details, ROI potential, and step-by-step process for Kanpur entrepreneurs.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

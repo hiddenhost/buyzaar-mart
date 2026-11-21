@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Mart Franchise in Rampur | The Buyzaar Mart",
   description:
-    "Own a FOCM mart franchise in Rampur with The Buyzaar Mart. Company-managed systems, training and launch support. Total investment from ₹15 Lakh.",
+    "Own a FOCM mart franchise in Rampur with The Buyzaar Mart. Company-managed systems, training and launch support. Total investment from 18.5.",
   keywords: [
     "focm mart franchise rampur",
     "focm mart rampur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "FOCM Mart Franchise in Rampur | The Buyzaar Mart",
     description:
-      "Own a FOCM mart franchise in Rampur with The Buyzaar Mart. Company-managed systems, training and launch support. Total investment from ₹15 Lakh.",
+      "Own a FOCM mart franchise in Rampur with The Buyzaar Mart. Company-managed systems, training and launch support. Total investment from 18.5.",
     url: "https://www.thebuyzaarmart.com/rampur/focm-mart-franchise-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Mart Franchise in Rampur | The Buyzaar Mart",
     description:
-      "Own a FOCM mart franchise in Rampur with The Buyzaar Mart. Company-managed systems, training and launch support. Total investment from ₹15 Lakh.",
+      "Own a FOCM mart franchise in Rampur with The Buyzaar Mart. Company-managed systems, training and launch support. Total investment from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

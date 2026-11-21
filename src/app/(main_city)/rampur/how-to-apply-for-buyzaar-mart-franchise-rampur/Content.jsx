@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "How to Apply for Buyzaar Mart Franchise Rampur | Steps",
   description:
-    "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from ₹15 Lakh. Call +91 9217991727.",
+    "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5. Call +91 9217991727.",
   url: "https://www.thebuyzaarmart.com/rampur/how-to-apply-for-buyzaar-mart-franchise-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The total investment starts from ₹15 Lakh and varies with store size, so confirm the exact figure for your space.",
+        text: "The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your space.",
       },
     },
     {
@@ -204,7 +204,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart franchise starts from a total investment of ₹15 Lakh, and the final figure depends on your store type and area.
+                The Buyzaar Mart franchise starts from a total investment of 18.5, and the final figure depends on your store type and area.
               </li>
               <li>
                 The total includes stock, interior, software fee, franchise fee with 18% GST and security deposit, so you can plan the full commitment in one number.
@@ -626,7 +626,7 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  The total investment starts from ₹15 Lakh and varies with store size, so confirm the exact figure for your space.
+                  The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your space.
                 </p>
               </div>
 

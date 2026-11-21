@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment for a grocery chain franchise in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.",
+        text: "A Mini Mart format starts from approximately 18.5, typically ranging up to ₹22 lakh depending on location and fit-out.",
       },
     },
     {
@@ -224,7 +224,7 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq ft (a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store)
               </li>
               <li>
-                Investment: Total setup costs typically range from approximately ₹15 lakh to ₹22 lakh
+                Investment: Total setup costs typically range from approximately 18.5 to ₹22 lakh
               </li>
               <li>
                 Best for: Compact residential sectors, newer possession societies, and first-time investors
@@ -458,7 +458,7 @@ const Content = () => {
                   Q1. What is the minimum investment for a grocery chain franchise in Greater Noida?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.
+                  A Mini Mart format starts from approximately 18.5, typically ranging up to ₹22 lakh depending on location and fit-out.
                 </p>
               </div>
 

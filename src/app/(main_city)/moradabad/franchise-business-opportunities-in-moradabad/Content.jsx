@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What investment is required to start a franchise business opportunity in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment typically starts from approximately ₹15 lakh for the Mini Mart format, with higher amounts for larger formats.",
+        text: "Investment typically starts from approximately 18.5 for the Mini Mart format, with higher amounts for larger formats.",
       },
     },
     {
@@ -281,7 +281,7 @@ const Content = () => {
               </li>
               <li>
                 The Buyzaar Mart Mini Mart format starts from approximately
-                ₹15 lakh.
+                18.5.
               </li>
               <li>
                 This entry point makes the category accessible to a broader
@@ -659,7 +659,7 @@ const Content = () => {
                   opportunity in Moradabad?
                 </h3>
                 <p className="mt-2">
-                  Investment typically starts from approximately ₹15 lakh for
+                  Investment typically starts from approximately 18.5 for
                   the Mini Mart format, with higher amounts for larger formats.
                 </p>
               </div>

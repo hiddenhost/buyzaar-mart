@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the investment range for the FOCO model?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹15.25 lakhs to ₹78.89 lakhs and above, depending on the store format chosen.",
+        text: "Roughly 18.5s to ₹78.89 lakhs and above, depending on the store format chosen.",
       },
     },
     {
@@ -221,13 +221,13 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: 600–1,000 sq. ft. Entry-level investment starts around ₹15.25 lakhs, covering stock, interior, software fee, franchise fee, and security deposit.</li>
+              <li>Mini Mart: 600–1,000 sq. ft. Entry-level investment starts around 18.5s, covering stock, interior, software fee, franchise fee, and security deposit.</li>
               <li>Super Mart: 1,001–3,000 sq. ft. Entry-level investment starts around ₹26.63 lakhs for this mid-sized format.</li>
               <li>Hyper Mart: 3,001–8,000 sq. ft. Entry-level investment starts around ₹78.89 lakhs, scaling higher for larger outlets closer to 8,000 sq. ft.</li>
             </ul>
 
             <p>
-              Overall, across all three formats, the investment range spans roughly ₹15.25 lakhs to ₹78.89 lakhs and above, and the area requirement ranges from 600 sq. ft. to 8,000 sq. ft., depending on the format chosen.
+              Overall, across all three formats, the investment range spans roughly 18.5s to ₹78.89 lakhs and above, and the area requirement ranges from 600 sq. ft. to 8,000 sq. ft., depending on the format chosen.
 
             </p>
 
@@ -356,7 +356,7 @@ const Content = () => {
                   What is the investment range for the FOCO model?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹15.25 lakhs to ₹78.89 lakhs and above, depending on the store format chosen.
+                  Roughly 18.5s to ₹78.89 lakhs and above, depending on the store format chosen.
                 </p>
               </div>
 

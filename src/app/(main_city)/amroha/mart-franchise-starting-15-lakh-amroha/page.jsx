@@ -4,9 +4,9 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise from ₹15 Lakh in Amroha | Buyzaar Mart",
+  title: "Mart Franchise from 18.5 in Amroha | Buyzaar Mart",
   description:
-    "Open a mart franchise in Amroha from ₹15 lakh total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+    "Open a mart franchise in Amroha from 18.5 total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
   keywords: [
     "mart franchise starting 15 lakh Amroha",
     "mart franchise 15 lakh",
@@ -36,9 +36,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/amroha/mart-franchise-starting-from-15-lakh-amroha",
   },
   openGraph: {
-    title: "Mart Franchise from ₹15 Lakh in Amroha | Buyzaar Mart",
+    title: "Mart Franchise from 18.5 in Amroha | Buyzaar Mart",
     description:
-      "Open a mart franchise in Amroha from ₹15 lakh total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+      "Open a mart franchise in Amroha from 18.5 total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
     url: "https://www.thebuyzaarmart.com/amroha/mart-franchise-starting-from-15-lakh-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -54,9 +54,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise from ₹15 Lakh in Amroha | Buyzaar Mart",
+    title: "Mart Franchise from 18.5 in Amroha | Buyzaar Mart",
     description:
-      "Open a mart franchise in Amroha from ₹15 lakh total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+      "Open a mart franchise in Amroha from 18.5 total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

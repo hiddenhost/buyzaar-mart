@@ -133,7 +133,7 @@ const Content = () => {
                 <h3 className="font-semibold text-gray-900 mb-3">
                   1. What is the investment required to start a Buyzaar Mart franchise in Noida?
                 </h3>
-                <p>The estimated investment to start a Buyzaar Mart franchise typically ranges from ₹15 lakh to ₹22 lakh, depending on store size, location, and setup requirements.</p>
+                <p>The estimated investment to start a Buyzaar Mart franchise typically ranges from 18.5 to ₹22 lakh, depending on store size, location, and setup requirements.</p>
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">

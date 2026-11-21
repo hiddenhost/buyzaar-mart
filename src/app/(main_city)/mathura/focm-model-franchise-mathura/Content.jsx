@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const pageTitle = "FOCM Model Franchise in Mathura | The Buyzaar Mart";
 
 const pageDescription =
-  "Understand the FOCM, Franchise Owned Company Managed, model with The Buyzaar Mart in Mathura — company-managed operations, investor visibility, and opportunities from ₹15 lakh onwards.";
+  "Understand the FOCM, Franchise Owned Company Managed, model with The Buyzaar Mart in Mathura — company-managed operations, investor visibility, and opportunities from 18.5 onwards.";
 
 const pageKeywords =
   "focm model franchise Mathura, franchise owned company managed, focm franchise India, Buyzaar Mart Mathura, company managed franchise Mathura, focm vs foco franchise, grocery franchise focm model, low investment focm franchise, supermarket focm franchise India, focm franchise Uttar Pradesh, company managed retail franchise, focm franchise near Vrindavan, focm franchise cost Mathura, best focm franchise India, franchise management structure India, focm franchise ROI Mathura, passive ownership franchise, focm franchise support India, how does focm franchise work, franchise operational model India, franchise business ownership India, focm store management";
@@ -138,7 +138,7 @@ const faqs = [
   {
     question: "What is the investment needed for an FOCM franchise in Mathura?",
     answer:
-      "The indicative investment starts from approximately ₹15 lakh onwards for a Mini Mart. The final amount varies based on the selected property, store format, location, fit-out scope, and opening-stock requirement.",
+      "The indicative investment starts from approximately 18.5 onwards for a Mini Mart. The final amount varies based on the selected property, store format, location, fit-out scope, and opening-stock requirement.",
   },
   {
     question:
@@ -320,7 +320,7 @@ const Content = () => {
                 </li>
 
                 <li>
-                  Begin with an investment from approximately ₹15 lakh onwards,
+                  Begin with an investment from approximately 18.5 onwards,
                   depending on the selected format, property, store setup
                   scope, and opening-stock requirement.
                 </li>

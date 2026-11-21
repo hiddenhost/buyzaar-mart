@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the investment range for this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹15.25 lakhs to ₹26.63 lakhs, depending on the store format chosen.",
+        text: "Roughly 18.5s to ₹26.63 lakhs, depending on the store format chosen.",
       },
     },
     {
@@ -213,13 +213,13 @@ const Content = () => {
             </h2>
 
             <p>
-              Buyzaar Mart&apos;s Mini Mart format, requiring 600–1,000 sq. ft., is well suited to smaller commercial plots along Pilibhit Road, with an entry-level investment of around ₹15.25 lakhs.
+              Buyzaar Mart&apos;s Mini Mart format, requiring 600–1,000 sq. ft., is well suited to smaller commercial plots along Pilibhit Road, with an entry-level investment of around 18.5s.
 
               For larger plots or busier stretches of the road, the Super Mart format, requiring 1,001–3,000 sq. ft., offers an entry-level investment of around ₹26.63 lakhs.
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: 600–1,000 sq. ft. | approximately ₹15.25 lakhs entry-level investment.</li>
+              <li>Mini Mart: 600–1,000 sq. ft. | approximately 18.5s entry-level investment.</li>
               <li>Super Mart: 1,001–3,000 sq. ft. | approximately ₹26.63 lakhs entry-level investment.</li>
             </ul>
 
@@ -373,7 +373,7 @@ const Content = () => {
                   What is the investment range for this franchise?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹15.25 lakhs to ₹26.63 lakhs, depending on the store format chosen.
+                  Roughly 18.5s to ₹26.63 lakhs, depending on the store format chosen.
                 </p>
               </div>
 

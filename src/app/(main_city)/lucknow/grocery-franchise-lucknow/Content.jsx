@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a grocery franchise in Lucknow with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from ₹15 Lakh depending on the model and store format.",
+        text: "The minimum investment starts from 18.5 depending on the model and store format.",
       },
     },
     {
@@ -134,7 +134,7 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Franchise in Lucknow &ndash; The Smartest Business 
+              Grocery Franchise in Lucknow &ndash; The Smartest Business
             </h1>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -388,7 +388,7 @@ const Content = () => {
             </p>
 
             <p>
-              The investment entry point starting from ₹15 Lakh is significantly lower than
+              The investment entry point starting from 18.5 is significantly lower than
               most national supermarket chains, making the opportunity accessible to a broader
               range of investors without compromising on brand quality or support.
             </p>
@@ -432,7 +432,7 @@ const Content = () => {
                   with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from ₹15 Lakh depending on the model and
+                  The minimum investment starts from 18.5 depending on the model and
                   store format.
                 </p>
               </div>

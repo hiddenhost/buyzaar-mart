@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart FOCO Franchise in Mathura | Company-Operated Retail Model",
   description:
-    "Invest in a Buyzaar Mart FOCO franchise in Mathura — company-operated retail model, low involvement, ₹15 Lakh investment, and full operational support.",
+    "Invest in a Buyzaar Mart FOCO franchise in Mathura — company-operated retail model, low involvement, 18.5 investment, and full operational support.",
   keywords: [
     "Buyzaar Mart FOCO franchise Mathura",
     "FOCO franchise model India",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart FOCO Franchise in Mathura | Company-Operated Retail Model",
     description:
-      "Invest in a Buyzaar Mart FOCO franchise in Mathura — company-operated retail model, low involvement, ₹15 Lakh investment, and full operational support.",
+      "Invest in a Buyzaar Mart FOCO franchise in Mathura — company-operated retail model, low involvement, 18.5 investment, and full operational support.",
     url: "https://www.thebuyzaarmart.com/mathura/buyzaar-mart-foco-franchise-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart FOCO Franchise in Mathura | Company-Operated Retail Model",
     description:
-      "Invest in a Buyzaar Mart FOCO franchise in Mathura — company-operated retail model, low involvement, ₹15 Lakh investment, and full operational support.",
+      "Invest in a Buyzaar Mart FOCO franchise in Mathura — company-operated retail model, low involvement, 18.5 investment, and full operational support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

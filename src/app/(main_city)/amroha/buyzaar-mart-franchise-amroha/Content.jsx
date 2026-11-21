@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise in Amroha",
   description:
-    "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from ₹15 lakh. Apply today.",
+    "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5. Apply today.",
   url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -59,7 +59,7 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart franchise in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from a total of ₹15 lakh, depending on the store format and area.",
+        text: "It starts from a total of 18.5, depending on the store format and area.",
       },
     },
     {
@@ -306,7 +306,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart supermarket franchise starts from a total
-                investment of ₹15 lakh, and the final amount depends on the
+                investment of 18.5, and the final amount depends on the
                 store format and the area in square feet that you choose.
               </li>
               <li>
@@ -623,7 +623,7 @@ const Content = () => {
                   in Amroha?
                 </h3>
                 <p className="mt-2">
-                  It starts from a total of ₹15 lakh, depending on the store
+                  It starts from a total of 18.5, depending on the store
                   format and area.
                 </p>
               </div>
@@ -702,7 +702,7 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Start a branded supermarket franchise in Amroha with a total
-                  investment starting from ₹15 lakh.
+                  investment starting from 18.5.
                 </li>
                 <li>
                   Choose between FOCM and FOCO models based on your preferred

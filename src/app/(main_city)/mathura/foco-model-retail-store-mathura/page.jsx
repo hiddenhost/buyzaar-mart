@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Model Retail Store in Mathura | The Buyzaar Mart",
   description:
-    "Explore the FOCO (Franchise Owned, Company Operated) retail model with The Buyzaar Mart in Mathura — passive ownership, professional operations, from ₹15 lakh.",
+    "Explore the FOCO (Franchise Owned, Company Operated) retail model with The Buyzaar Mart in Mathura — passive ownership, professional operations, from 18.5.",
   keywords: [
     "foco model retail store Mathura",
     "franchise owned company operated",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "FOCO Model Retail Store in Mathura | The Buyzaar Mart",
     description:
-      "Explore the FOCO (Franchise Owned, Company Operated) retail model with The Buyzaar Mart in Mathura — passive ownership, professional operations, from ₹15 lakh.",
+      "Explore the FOCO (Franchise Owned, Company Operated) retail model with The Buyzaar Mart in Mathura — passive ownership, professional operations, from 18.5.",
     url: "https://www.thebuyzaarmart.com/mathura/foco-model-retail-store-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Model Retail Store in Mathura | The Buyzaar Mart",
     description:
-      "Explore the FOCO (Franchise Owned, Company Operated) retail model with The Buyzaar Mart in Mathura — passive ownership, professional operations, from ₹15 lakh.",
+      "Explore the FOCO (Franchise Owned, Company Operated) retail model with The Buyzaar Mart in Mathura — passive ownership, professional operations, from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

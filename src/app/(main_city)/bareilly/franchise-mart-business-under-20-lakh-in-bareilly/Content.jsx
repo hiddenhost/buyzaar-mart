@@ -58,7 +58,7 @@ const faqSchema = {
       name: "Can I start a Buyzaar Mart franchise under ₹20 lakh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, the Mini Mart format starts at approximately ₹15.25 lakhs.",
+        text: "Yes, the Mini Mart format starts at approximately 18.5s.",
       },
     },
     {
@@ -167,7 +167,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Buyzaar Mart operates three primary store formats — Mini Mart, Super Mart, and Hyper Mart — each designed for a different investment level and retail footprint.</li>
-              <li>The Mini Mart, covering 600 to 1,000 sq. ft., is the entry-level format best suited for tighter budgets and smaller commercial spaces, with an investment starting around ₹15.25 lakhs.</li>
+              <li>The Mini Mart, covering 600 to 1,000 sq. ft., is the entry-level format best suited for tighter budgets and smaller commercial spaces, with an investment starting around 18.5s.</li>
               <li>The Super Mart format typically requires a larger retail area and a higher investment, offering a wider product range and a bigger store layout for locations with stronger footfall potential.</li>
               <li>The Hyper Mart format sits at the top of the range, designed for high-footfall commercial hubs where a larger assortment and bigger store size can support significantly higher daily sales volumes.</li>
               <li>Understanding this format ladder helps first-time franchisees see the Mini Mart not as a limited option, but as a practical entry point into a brand with a clear path for future expansion.</li>
@@ -215,7 +215,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Mini Mart format is Buyzaar Mart&apos;s smallest and most budget-friendly store option, designed for entrepreneurs looking to start within a limited investment range.</li>
               <li>This format requires 600 to 1,000 sq. ft. of retail space, making it suitable for smaller commercial spots in residential or semi-commercial areas.</li>
-              <li>The entry-level investment for a Mini Mart starts at approximately ₹15.25 lakhs, which fits comfortably within the under ₹20 lakh budget range that many first-time franchisees look for.</li>
+              <li>The entry-level investment for a Mini Mart starts at approximately 18.5s, which fits comfortably within the under ₹20 lakh budget range that many first-time franchisees look for.</li>
               <li>This investment typically covers stock, interior fit-out, software fee, franchise fee, and security deposit — giving franchisees a fairly complete cost picture upfront.</li>
               <li>The compact footprint of the Mini Mart makes it a practical fit for corner shops, ground-floor units in residential colonies, and smaller commercial spaces that might not suit a larger format.</li>
             </ul>
@@ -296,7 +296,7 @@ const Content = () => {
                   Can I start a Buyzaar Mart franchise under ₹20 lakh?
                 </h3>
                 <p className="mt-2">
-                  Yes, the Mini Mart format starts at approximately ₹15.25 lakhs.
+                  Yes, the Mini Mart format starts at approximately 18.5s.
                 </p>
               </div>
 

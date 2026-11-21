@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the investment required to open a franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakhs to ₹26.63 lakhs, depending on the format.",
+        text: "Approximately 18.5s to ₹26.63 lakhs, depending on the format.",
       },
     },
     {
@@ -190,7 +190,7 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: 600–1,000 sq. ft., suited to residential colonies and smaller commercial plots, with an entry-level investment of approximately ₹15.25 lakhs.</li>
+              <li>Mini Mart: 600–1,000 sq. ft., suited to residential colonies and smaller commercial plots, with an entry-level investment of approximately 18.5s.</li>
               <li>Super Mart: 1,001–3,000 sq. ft., suited to busier localities or larger plots, with an entry-level investment of approximately ₹26.63 lakhs.</li>
               <li>Choosing the right format depends on the available plot size, expected footfall, and the entrepreneur&apos;s overall budget.</li>
             </ul>
@@ -224,7 +224,7 @@ const Content = () => {
               <li>Initial stock: A curated starting inventory across groceries, FMCG, personal care, and household categories.</li>
               <li>Billing and inventory systems: Centralized software provided as part of the franchise setup.</li>
               <li>Working capital: Additional funds needed to cover early operational expenses before the store stabilizes.</li>
-              <li>Total investment typically ranges between ₹15.25 lakhs and ₹80 lakhs, depending on the format chosen.</li>
+              <li>Total investment typically ranges between 18.5s and ₹80 lakhs, depending on the format chosen.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -384,7 +384,7 @@ const Content = () => {
                   What is the investment required to open a franchise?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakhs to ₹26.63 lakhs, depending on the format.
+                  Approximately 18.5s to ₹26.63 lakhs, depending on the format.
                 </p>
               </div>
 

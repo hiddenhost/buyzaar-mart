@@ -8,7 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Best Franchise to Open in Rampur | The Buyzaar Mart",
   description:
-    "Looking for the best franchise to open in Rampur? Compare demand, support and costs, and see Buyzaar Mart’s FOCM and FOCO models. Total investment from ₹15 Lakh.",
+    "Looking for the best franchise to open in Rampur? Compare demand, support and costs, and see Buyzaar Mart’s FOCM and FOCO models. Total investment from 18.5.",
   url: "https://www.thebuyzaarmart.com/rampur/best-franchise-to-open-in-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -32,7 +32,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A 600–1000 sq ft grocery mart franchise format for neighbourhood locations and first-time owners in Rampur, with a total investment starting from ₹15 Lakh.",
+          "A 600–1000 sq ft grocery mart franchise format for neighbourhood locations and first-time owners in Rampur, with a total investment starting from 18.5.",
       },
       {
         "@type": "Offer",
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The franchise starts from ₹15 Lakh as a total investment. A Mini Mart may range from ₹15 Lakh to ₹20 Lakh, depending on size and location.",
+        text: "The franchise starts from 18.5 as a total investment. A Mini Mart may range from 18.5 to ₹20 Lakh, depending on size and location.",
       },
     },
     {
@@ -328,7 +328,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart franchise starts from ₹15 Lakh as a total investment. The FAQ page says a Mini Mart of 600–1000 sq ft might range between ₹15 Lakh and ₹20 Lakh, depending on size, layout and location.
+                The Buyzaar Mart franchise starts from 18.5 as a total investment. The FAQ page says a Mini Mart of 600–1000 sq ft might range between 18.5 and ₹20 Lakh, depending on size, layout and location.
               </li>
               <li>
                 Larger formats need a larger total, and the FOCO model needs a bigger store of at least 2,000 sq ft, so its total depends on the area you select.
@@ -475,7 +475,7 @@ const Content = () => {
             </ul>
 
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               FAQs
@@ -498,7 +498,7 @@ const Content = () => {
                   Q2. What is the total investment for a Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  The franchise starts from ₹15 Lakh as a total investment. A Mini Mart may range from ₹15 Lakh to ₹20 Lakh, depending on size and location.
+                  The franchise starts from 18.5 as a total investment. A Mini Mart may range from 18.5 to ₹20 Lakh, depending on size and location.
                 </p>
               </div>
 

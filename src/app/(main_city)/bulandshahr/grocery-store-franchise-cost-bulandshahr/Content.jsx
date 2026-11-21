@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "Entry-level grocery store franchise format approximately 600–1,000 sq. ft., with a starting investment of approximately ₹15 lakh to ₹20 lakh, covering interiors, opening stock, and initial setup in Bulandshahr.",
+          "Entry-level grocery store franchise format approximately 600–1,000 sq. ft., with a starting investment of approximately 18.5 to ₹20 lakh, covering interiors, opening stock, and initial setup in Bulandshahr.",
       },
       {
         "@type": "Offer",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the starting cost for a grocery store franchise in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Mini Mart format typically starts from approximately ₹15 lakh, covering interiors, opening stock, and initial setup essentials.",
+        text: "The Mini Mart format typically starts from approximately 18.5, covering interiors, opening stock, and initial setup essentials.",
       },
     },
     {
@@ -163,7 +163,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart (approximately 600–1,000 sq. ft.): the most accessible format, with a starting investment of approximately ₹15 lakh to ₹20 lakh, covering interiors, opening stock, and initial setup.</li>
+              <li>Mini Mart (approximately 600–1,000 sq. ft.): the most accessible format, with a starting investment of approximately 18.5 to ₹20 lakh, covering interiors, opening stock, and initial setup.</li>
               <li>Super Mart (approximately 1,001–3,000 sq. ft.): requires a higher investment due to a larger footprint, wider product range, and additional staffing needs.</li>
               <li>Hyper Mart (approximately 3,001 sq. ft. and above): involves the highest investment, often calculated on a per-square-foot basis for interiors and opening stock, along with a separate franchise fee component.</li>
               <li>Interior costs are typically calculated on a per-square-foot basis, covering shelving, flooring, signage, and store branding elements.</li>
@@ -296,7 +296,7 @@ const Content = () => {
                   What is the starting cost for a grocery store franchise in Bulandshahr?
                 </h3>
                 <p className="mt-2">
-                  The Mini Mart format typically starts from approximately ₹15 lakh, covering interiors, opening stock, and initial setup essentials.
+                  The Mini Mart format typically starts from approximately 18.5, covering interiors, opening stock, and initial setup essentials.
                 </p>
               </div>
 

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Franchise Opportunity in Mathura | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers FOCO franchise opportunities in Mathura for investors seeking store ownership, professional company-operated retail management, supply chain support, POS visibility, and grocery retail investment from approximately ₹15 lakh.",
+    "The Buyzaar Mart offers FOCO franchise opportunities in Mathura for investors seeking store ownership, professional company-operated retail management, supply chain support, POS visibility, and grocery retail investment from approximately 18.5.",
   url: "https://www.thebuyzaarmart.com/mathura/foco-franchise-opportunity-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the minimum investment for this FOCO opportunity?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The investment is approximately ₹15 lakh and above for a Mini Mart, varying by location and store size.",
+        text: "The investment is approximately 18.5 and above for a Mini Mart, varying by location and store size.",
       },
     },
     {
@@ -276,7 +276,7 @@ const Content = () => {
                 into this new opportunity.
               </li>
               <li>
-                Franchise investment starts from approximately ₹15 lakh, keeping the
+                Franchise investment starts from approximately 18.5, keeping the
                 opportunity accessible without requiring institutional-level
                 capital.
               </li>
@@ -430,7 +430,7 @@ const Content = () => {
               <li>
                 Based on The Buyzaar Mart&apos;s standard cost structure applied in
                 comparable Uttar Pradesh cities, a Mini Mart-format FOCO opportunity
-                in Mathura can require approximately ₹15.25 lakh to ₹25 lakh.
+                in Mathura can require approximately ₹18.5 to ₹26 Lakh.
               </li>
               <li>
                 These are illustrative figures because actual costs depend on the
@@ -584,7 +584,7 @@ const Content = () => {
                   What&apos;s the minimum investment for this opportunity?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15 lakh and above for a Mini Mart, varying by
+                  Approximately 18.5 and above for a Mini Mart, varying by
                   location and store size.
                 </p>
               </div>

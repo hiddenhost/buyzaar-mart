@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "Supermarket Franchise Opportunity in Gorakhpur | Buyzaar Mart",
   description:
-    "Explore a supermarket franchise opportunity in Gorakhpur with The Buyzaar Mart. Super Mart and Hyper Mart formats from ₹15 Lakh with full support. Apply now!",
+    "Explore a supermarket franchise opportunity in Gorakhpur with The Buyzaar Mart. Super Mart and Hyper Mart formats from 18.5 with full support. Apply now!",
 };
 
 const localBusinessSchema = {
@@ -65,7 +65,7 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
-      "A single unit starts from ₹15 Lakh, depending on format, area, stock and interiors.",
+      "A single unit starts from 18.5, depending on format, area, stock and interiors.",
   },
   {
     question: "Do I need retail experience?",
@@ -116,7 +116,7 @@ const sections = [
     items: [
       "A supermarket franchise opportunity in Gorakhpur lets you open a self-service store where families can buy groceries, FMCG items, dairy and daily essentials under one roof.",
       "The Buyzaar Mart offers supermarket-style stores through its Super Mart and Hyper Mart formats, along with a compact Mini Mart format for smaller spaces.",
-      "Investment starts from ₹15 Lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
+      "Investment starts from 18.5, and the brand indicates an effective gross margin of 18–20% on sales.",
       "Partners get store setup, managed supply chain, POS technology, training and marketing support.",
       "This page focuses on how a supermarket store works, so you can plan space, range and customers before you apply.",
     ],
@@ -347,7 +347,7 @@ const sections = [
       {
         title: "Investment",
         items: [
-          "The investment starts from ₹15 Lakh for a single unit and depends on format and area.",
+          "The investment starts from 18.5 for a single unit and depends on format and area.",
           "It covers stock, interior, software fee, franchise fee including 18% GST and security deposit.",
           "The investment calculator on the franchise page gives an estimate for your chosen size.",
           "Rent for the premises is paid by the franchise partner.",
@@ -521,17 +521,17 @@ const Content = () => {
 
                 {section.subsections
                   ? section.subsections.map((subsection, subsectionIndex) => (
-                      <div key={subsection.title} className="space-y-3">
-                        <h3 className="font-medium text-gray-900">
-                          {subsection.title}
-                        </h3>
+                    <div key={subsection.title} className="space-y-3">
+                      <h3 className="font-medium text-gray-900">
+                        {subsection.title}
+                      </h3>
 
-                        <BulletList
-                          items={subsection.items}
-                          listId={`section-${sectionIndex}-subsection-${subsectionIndex}`}
-                        />
-                      </div>
-                    ))
+                      <BulletList
+                        items={subsection.items}
+                        listId={`section-${sectionIndex}-subsection-${subsectionIndex}`}
+                      />
+                    </div>
+                  ))
                   : null}
               </div>
             ))}

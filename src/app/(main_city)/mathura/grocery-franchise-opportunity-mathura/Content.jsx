@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the Mini Mart investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "About ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.",
+        text: "About ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.",
       },
     },
     {
@@ -182,7 +182,7 @@ const Content = () => {
               Investment Required to Start
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>A Mini Mart needs approximately ₹15.25 lakh to ₹25 lakh overall, covering the franchise fee, security deposit, interiors, POS and billing setup and opening stock.</li>
+              <li>A Mini Mart needs approximately ₹18.5 to ₹26 Lakh overall, covering the franchise fee, security deposit, interiors, POS and billing setup and opening stock.</li>
               <li>Super Mart and Hyper Mart costs rise with area and assortment. Treat these as estimates and ask the franchise team for a written quote.</li>
               <li>Opening stock is a major share of the grocery investment, so budget enough for full shelves rather than a thin first order.</li>
               <li>Rent or shop deposit, electricity and the first few months of salaries are working-capital needs that should be planned separately.</li>
@@ -355,7 +355,7 @@ const Content = () => {
                   Q2. What is the Mini Mart investment?
                 </h3>
                 <p className="mt-2">
-                  About ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.
+                  About ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.
                 </p>
               </div>
 

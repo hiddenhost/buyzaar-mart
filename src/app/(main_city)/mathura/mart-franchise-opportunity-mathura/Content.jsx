@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Opportunity in Mathura | The Buyzaar Mart",
   description:
-    "Open a Mini, Super or Hyper Mart franchise in Mathura with The Buyzaar Mart. Invest from ₹15 Lakh, earn an 18-20% margin with POS, training and full support.",
+    "Open a Mini, Super or Hyper Mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5, earn an 18-20% margin with POS, training and full support.",
   url: "https://www.thebuyzaarmart.com/mathura/mart-franchise-opportunity-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -164,7 +164,7 @@ const Content = () => {
                 based on your space and budget.
               </li>
               <li>
-                Investment starts from ₹15 lakh for a Mini Mart, with an
+                Investment starts from 18.5 for a Mini Mart, with an
                 effective gross margin of 18-20% depending on location, size and
                 sales volume.
               </li>
@@ -286,7 +286,7 @@ const Content = () => {
                 homecare and hygiene, stationery, snacks and biscuits.
               </li>
               <li>
-                Total investment typically ranges from ₹15 lakh to ₹20 lakh,
+                Total investment typically ranges from 18.5 to ₹20 lakh,
                 depending on size, layout and site work.
               </li>
               <li>

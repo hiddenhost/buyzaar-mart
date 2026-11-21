@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Open a Franchise Outlet in Kanpur — The Buyzaar Mart",
   description:
-    "Open a franchise outlet in Kanpur with The Buyzaar Mart. Explore Mini Mart, Super Mart, and Hyper Mart formats, investment from ₹15 lakh, FOCM and FOCO models, and full brand support.",
+    "Open a franchise outlet in Kanpur with The Buyzaar Mart. Explore Mini Mart, Super Mart, and Hyper Mart formats, investment from 18.5, FOCM and FOCO models, and full brand support.",
   url: "https://www.thebuyzaarmart.com/kanpur/open-franchise-outlet-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "How much does it cost to open a Buyzaar Mart franchise outlet in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from ₹15 lakh for a Mini Mart. The total investment depends on the store format, size, and whether you choose the FOCM or FOCO model.",
+        text: "Investment starts from 18.5 for a Mini Mart. The total investment depends on the store format, size, and whether you choose the FOCM or FOCO model.",
       },
     },
     {
@@ -425,7 +425,7 @@ const Content = () => {
                   in Kanpur?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from ₹15 lakh for a Mini Mart. The total
+                  Investment starts from 18.5 for a Mini Mart. The total
                   depends on the format, store size, and whether you choose the
                   FOCM or FOCO model.
                 </p>

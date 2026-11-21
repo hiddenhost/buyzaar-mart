@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "FOCM Mart Franchise Gorakhpur | The Buyzaar Mart",
   description:
-    "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from ₹15 Lakh. Apply today!",
+    "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from 18.5. Apply today!",
 };
 
 const localBusinessSchema = {
@@ -65,7 +65,7 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
-      "A single unit starts from ₹15 Lakh. The final amount depends on format, area, stock and interiors.",
+      "A single unit starts from 18.5. The final amount depends on format, area, stock and interiors.",
   },
   {
     question: "Do I need retail experience?",
@@ -117,7 +117,7 @@ const sections = [
     items: [
       "Looking for a FOCM mart franchise in Gorakhpur? The Buyzaar Mart lets you invest in a modern neighbourhood grocery and supermarket while the company handles the daily operations.",
       "FOCM means Franchise Owned, Company Managed. The ownership and returns stay with you, and the management stays with our experienced retail team.",
-      "Investment starts from ₹15 Lakh, with an effective gross margin of 18–20% on sales.",
+      "Investment starts from 18.5, with an effective gross margin of 18–20% on sales.",
       "This opportunity suits first-time entrepreneurs, salaried professionals, local business owners and families who want a steady retail income in eastern Uttar Pradesh.",
       "The Buyzaar Mart is FSSAI licensed, GST registered and MSME certified, so you partner with a legally compliant and transparent brand.",
     ],
@@ -259,7 +259,7 @@ const sections = [
       {
         title: "Investment Required",
         items: [
-          "The investment for a single unit starts from ₹15 Lakh.",
+          "The investment for a single unit starts from 18.5.",
           "The final amount depends on the store format and area, and it includes stock, interior, software fee, franchise fee including 18% GST and security deposit.",
           "Use the investment calculator on the franchise page to get an estimate for your chosen format and size.",
           "Rent for the store premises is paid by the franchise partner.",
@@ -446,17 +446,17 @@ const Content = () => {
 
                 {section.subsections
                   ? section.subsections.map((subsection, subsectionIndex) => (
-                      <div key={subsection.title} className="space-y-3">
-                        <h3 className="font-medium text-gray-900">
-                          {subsection.title}
-                        </h3>
+                    <div key={subsection.title} className="space-y-3">
+                      <h3 className="font-medium text-gray-900">
+                        {subsection.title}
+                      </h3>
 
-                        <BulletList
-                          items={subsection.items}
-                          listId={`section-${sectionIndex}-subsection-${subsectionIndex}`}
-                        />
-                      </div>
-                    ))
+                      <BulletList
+                        items={subsection.items}
+                        listId={`section-${sectionIndex}-subsection-${subsectionIndex}`}
+                      />
+                    </div>
+                  ))
                   : null}
               </div>
             ))}

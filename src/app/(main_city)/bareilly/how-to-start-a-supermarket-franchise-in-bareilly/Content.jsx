@@ -222,7 +222,7 @@ const Content = () => {
             </h2>
 
             <p>
-              The total investment for a Buyzaar Mart supermarket franchise in Bareilly typically ranges between ₹15 lakhs to ₹80 lakhs, depending on store size, location, and the extent of interior work required.
+              The total investment for a Buyzaar Mart supermarket franchise in Bareilly typically ranges between 18.5s to ₹80 lakhs, depending on store size, location, and the extent of interior work required.
 
               This is an indicative range — the exact figure should be confirmed directly with the Buyzaar Mart franchise team based on your specific store format and city location.
 

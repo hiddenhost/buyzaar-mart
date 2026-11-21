@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Franchise in Greater Noida - The Buyzaar Mart Opportunity You've Been Waiting For",
   description:
-    "Explore The Buyzaar Mart FOCM franchise in Greater Noida. Start with investment from ₹15 Lakh, full operational support, modern retail systems, and a scalable neighbourhood supermarket business model.",
+    "Explore The Buyzaar Mart FOCM franchise in Greater Noida. Start with investment from 18.5, full operational support, modern retail systems, and a scalable neighbourhood supermarket business model.",
   url: "https://www.thebuyzaarmart.com/greater-noida/focm-franchise-in-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -42,7 +42,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart FOCM franchise in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The investment starts from ₹15 Lakh. The final amount depends on the store format chosen — Mini Mart, Super Mart, or Hyper Mart — and the size of the location.",
+        text: "The investment starts from 18.5. The final amount depends on the store format chosen — Mini Mart, Super Mart, or Hyper Mart — and the size of the location.",
       },
     },
     {
@@ -108,7 +108,7 @@ const Content = () => {
             </p>
 
             <p>
-              The Buyzaar Mart is a fast-growing neighbourhood supermarket franchise brand based in Noida, built around the powerful FOCM &mdash; Franchise Owned Company Managed &mdash; business model. This model is specifically designed for investors who want to own a profitable retail outlet without the burden of managing day-to-day operations. With an entry investment starting from ₹15 Lakh and full operational support provided by the company, The Buyzaar Mart FOCM franchise is one of the most investor-friendly retail opportunities available in Greater Noida today.
+              The Buyzaar Mart is a fast-growing neighbourhood supermarket franchise brand based in Noida, built around the powerful FOCM &mdash; Franchise Owned Company Managed &mdash; business model. This model is specifically designed for investors who want to own a profitable retail outlet without the burden of managing day-to-day operations. With an entry investment starting from 18.5 and full operational support provided by the company, The Buyzaar Mart FOCM franchise is one of the most investor-friendly retail opportunities available in Greater Noida today.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -300,7 +300,7 @@ const Content = () => {
             </h2>
 
             <p>
-              The Buyzaar Mart FOCM franchise begins at an investment of ₹15 Lakh, making it one of the most accessible organised retail franchise opportunities in the Greater Noida and NCR market. The investment covers store setup, initial inventory stocking, onboarding fees, and technology deployment.
+              The Buyzaar Mart FOCM franchise begins at an investment of 18.5, making it one of the most accessible organised retail franchise opportunities in the Greater Noida and NCR market. The investment covers store setup, initial inventory stocking, onboarding fees, and technology deployment.
             </p>
 
             <p>
@@ -372,7 +372,7 @@ const Content = () => {
                   Q2. What is the minimum investment to start a Buyzaar Mart FOCM franchise in Greater Noida?
                 </h3>
                 <p className="mt-2">
-                  The investment starts from ₹15 Lakh. The final amount depends on the store format chosen &mdash; Mini Mart, Super Mart, or Hyper Mart &mdash; and the size of the location.
+                  The investment starts from 18.5. The final amount depends on the store format chosen &mdash; Mini Mart, Super Mart, or Hyper Mart &mdash; and the size of the location.
                 </p>
               </div>
 

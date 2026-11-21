@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the investment range for a FOCO grocery store?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹15.25 lakhs to ₹78.89 lakhs and above, depending on store format.",
+        text: "Roughly 18.5s to ₹78.89 lakhs and above, depending on store format.",
       },
     },
     {
@@ -208,13 +208,13 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart (600–1,000 sq. ft.): Entry-level investment starts around ₹15.25 lakhs, suited to smaller neighbourhood locations.</li>
+              <li>Mini Mart (600–1,000 sq. ft.): Entry-level investment starts around 18.5s, suited to smaller neighbourhood locations.</li>
               <li>Super Mart (1,001–3,000 sq. ft.): Entry-level investment starts around ₹26.63 lakhs, suited to busier residential or commercial areas.</li>
               <li>Hyper Mart (3,001–8,000 sq. ft.): Entry-level investment starts around ₹78.89 lakhs, ideal for larger, high-footfall locations.</li>
             </ul>
 
             <p>
-              Overall, the investment range across formats spans roughly ₹15.25 lakhs to ₹78.89 lakhs and above, with area requirements ranging from 600 sq. ft. to 8,000 sq. ft. These figures are based on Buyzaar Mart&apos;s published investment calculator and may vary — confirm exact figures with the franchise team for your specific location.
+              Overall, the investment range across formats spans roughly 18.5s to ₹78.89 lakhs and above, with area requirements ranging from 600 sq. ft. to 8,000 sq. ft. These figures are based on Buyzaar Mart&apos;s published investment calculator and may vary — confirm exact figures with the franchise team for your specific location.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -319,7 +319,7 @@ const Content = () => {
                   What is the investment range for a FOCO grocery store?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹15.25 lakhs to ₹78.89 lakhs and above, depending on store format.
+                  Roughly 18.5s to ₹78.89 lakhs and above, depending on store format.
                 </p>
               </div>
 

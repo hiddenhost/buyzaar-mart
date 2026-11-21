@@ -4,9 +4,9 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Grocery Franchise Starting ₹15 Lakh in Agra | Buyzaar Mart",
+  title: "Grocery Franchise Starting 18.5 in Agra | Buyzaar Mart",
   description:
-    "Start a grocery franchise in Agra from ₹15 lakh with Buyzaar Mart's Mini Mart format. Zero-royalty, Company-Managed model with full operational support.",
+    "Start a grocery franchise in Agra from 18.5 with Buyzaar Mart's Mini Mart format. Zero-royalty, Company-Managed model with full operational support.",
   keywords: [
     "grocery franchise 15 lakh Agra",
     "low investment franchise Agra",
@@ -23,9 +23,9 @@ export const metadata = {
     canonical: "https://www.thebuyzaarmart.com/agra/grocery-franchise-starting-15-lakh-agra",
   },
   openGraph: {
-    title: "Grocery Franchise Starting ₹15 Lakh in Agra | Buyzaar Mart",
+    title: "Grocery Franchise Starting 18.5 in Agra | Buyzaar Mart",
     description:
-      "Start a grocery franchise in Agra from ₹15 lakh with Buyzaar Mart's Mini Mart format. Zero-royalty, Company-Managed model with full operational support.",
+      "Start a grocery franchise in Agra from 18.5 with Buyzaar Mart's Mini Mart format. Zero-royalty, Company-Managed model with full operational support.",
     url: "https://www.thebuyzaarmart.com/agra/grocery-franchise-starting-15-lakh-agra",
     siteName: "The Buyzaar Mart",
     images: [
@@ -33,7 +33,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Grocery Franchise Starting ₹15 Lakh in Agra | Buyzaar Mart",
+        alt: "Grocery Franchise Starting 18.5 in Agra | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -41,9 +41,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Grocery Franchise Starting ₹15 Lakh in Agra | Buyzaar Mart",
+    title: "Grocery Franchise Starting 18.5 in Agra | Buyzaar Mart",
     description:
-      "Start a grocery franchise in Agra from ₹15 lakh with Buyzaar Mart's Mini Mart format. Zero-royalty, Company-Managed model with full operational support.",
+      "Start a grocery franchise in Agra from 18.5 with Buyzaar Mart's Mini Mart format. Zero-royalty, Company-Managed model with full operational support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

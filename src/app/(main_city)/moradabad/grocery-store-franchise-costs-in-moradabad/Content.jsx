@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum cost to start a grocery franchise in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart franchise starts from approximately ₹15 lakh, depending on location and store size.",
+        text: "A Mini Mart franchise starts from approximately 18.5, depending on location and store size.",
       },
     },
     {
@@ -197,7 +197,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">1. Mini Mart &ndash; Lowest Entry Cost</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Store size: approximately 600 to 1,000 sq. ft.</li>
-              <li>Approximate total investment: ₹15 lakh to ₹25 lakh, depending on locality, size, and store condition.</li>
+              <li>Approximate total investment: ₹18.5 to ₹26 Lakh, depending on locality, size, and store condition.</li>
               <li>Best suited for: residential colonies, housing societies, and neighbourhood markets in Moradabad.</li>
               <li>Lower inventory and interior cost compared to larger formats, making it the most accessible entry point for first-time investors.</li>
               <li>Ideal for homemakers, salaried professionals, or small business owners with limited starting capital.</li>
@@ -368,7 +368,7 @@ const Content = () => {
                   What is the minimum cost to start a grocery franchise in Moradabad?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart franchise starts from approximately ₹15 lakh, depending on location and store size.
+                  A Mini Mart franchise starts from approximately 18.5, depending on location and store size.
                 </p>
               </div>
 

@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What are the prices for each format?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Mini Mart is approximately ₹15.25 lakh; Super Mart is approximately ₹26.63 lakh; Hyper Mart is approximately ₹78.90 lakh.",
+        text: "Mini Mart is approximately 18.5; Super Mart is approximately ₹26.63 lakh; Hyper Mart is approximately ₹78.90 lakh.",
       },
     },
     {
@@ -319,7 +319,7 @@ const Content = () => {
               <li><strong>What store formats are available for retail franchise in Varanasi?</strong></li>
               <li>Mini Mart (600-1,000 sq. ft.), Super Mart (1,001-3,000 sq. ft.), and Hyper Mart (3,001-8,000 sq. ft.), ranging roughly from 600 to 8,000 sq. ft. to suit different budgets in Varanasi.</li>
               <li><strong>What are the prices for each retail franchise format?</strong></li>
-              <li>Mini Mart is approximately ₹15.25 lakh; Super Mart is approximately ₹26.63 lakh; Hyper Mart is approximately ₹78.90 lakh — investment scales with store size in Varanasi.</li>
+              <li>Mini Mart is approximately 18.5; Super Mart is approximately ₹26.63 lakh; Hyper Mart is approximately ₹78.90 lakh — investment scales with store size in Varanasi.</li>
               <li><strong>What's the difference between FOCM and FOCO franchise models?</strong></li>
               <li>FOCM means you own the store while the company manages daily operations; FOCO means the company operates the store entirely while you invest and receive revenue share in Varanasi.</li>
               <li><strong>Do I need prior retail experience to open a franchise store?</strong></li>

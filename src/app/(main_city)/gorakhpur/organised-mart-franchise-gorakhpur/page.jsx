@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Organised Mart Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-    "Open an organised mart franchise in Gorakhpur with The Buyzaar Mart. POS billing, managed supply and stock take-back, from ₹15 Lakh. Apply today!",
+    "Open an organised mart franchise in Gorakhpur with The Buyzaar Mart. POS billing, managed supply and stock take-back, from 18.5. Apply today!",
   keywords: [
     "organised mart franchise gorakhpur",
     "organized mart franchise gorakhpur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Organised Mart Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-      "Open an organised mart franchise in Gorakhpur with The Buyzaar Mart. POS billing, managed supply and stock take-back, from ₹15 Lakh. Apply today!",
+      "Open an organised mart franchise in Gorakhpur with The Buyzaar Mart. POS billing, managed supply and stock take-back, from 18.5. Apply today!",
     url: "https://www.thebuyzaarmart.com/gorakhpur/organised-mart-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Organised Mart Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-      "Open an organised mart franchise in Gorakhpur with The Buyzaar Mart. POS billing, managed supply and stock take-back, from ₹15 Lakh. Apply today!",
+      "Open an organised mart franchise in Gorakhpur with The Buyzaar Mart. POS billing, managed supply and stock take-back, from 18.5. Apply today!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

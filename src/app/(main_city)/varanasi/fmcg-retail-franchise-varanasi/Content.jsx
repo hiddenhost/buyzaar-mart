@@ -84,7 +84,7 @@ const faqSchema = {
       name: "What are the store formats and indicative investments?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Mini Mart format of approximately 600–1,000 sq. ft. is estimated at around ₹15.25 lakh, the Super Mart format of approximately 1,001–3,000 sq. ft. at around ₹26.63 lakh, and the Hyper Mart format of approximately 3,001–8,000 sq. ft. at around ₹78.89 lakh. Final figures vary by location and setup requirements.",
+        text: "The Mini Mart format of approximately 600–1,000 sq. ft. is estimated at around 18.5, the Super Mart format of approximately 1,001–3,000 sq. ft. at around ₹26.63 lakh, and the Hyper Mart format of approximately 3,001–8,000 sq. ft. at around ₹78.89 lakh. Final figures vary by location and setup requirements.",
       },
     },
     {
@@ -289,7 +289,7 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart – approximately 600–1,000 sq. ft. → Indicative investment: approximately ₹15.25 lakh.</li>
+              <li>Mini Mart – approximately 600–1,000 sq. ft. → Indicative investment: approximately 18.5.</li>
               <li>Super Mart – approximately 1,001–3,000 sq. ft. → Indicative investment: approximately ₹26.63 lakh.</li>
               <li>Hyper Mart – approximately 3,001–8,000 sq. ft. → Indicative investment: approximately ₹78.89 lakh.</li>
               <li>Investment may increase according to store area, property condition, interiors, equipment, inventory, staffing, technology, and location.</li>
@@ -449,7 +449,7 @@ const Content = () => {
               <li>A franchise model may improve product sourcing, store presentation, billing systems, inventory management, and customer experience.</li>
               <li>Brand association can help create a more consistent retail identity, although customer trust must still be earned through service, quality, value, and availability.</li>
               <li>Working professionals and investors can evaluate the FOCO model for a passive or semi-passive business opportunity.</li>
-              
+
             </ul>
 
 
@@ -486,7 +486,7 @@ const Content = () => {
               <div>
                 <h3 className="font-medium text-gray-900">What are the store formats and indicative investments?</h3>
                 <p className="mt-2">
-                  Mini Mart of approximately 600–1,000 sq. ft. is around ₹15.25 lakh, Super Mart of approximately 1,001–3,000 sq. ft. is around ₹26.63 lakh, and Hyper Mart of approximately 3,001–8,000 sq. ft. is around ₹78.89 lakh. Final figures may vary by location and setup requirements.
+                  Mini Mart of approximately 600–1,000 sq. ft. is around 18.5, Super Mart of approximately 1,001–3,000 sq. ft. is around ₹26.63 lakh, and Hyper Mart of approximately 3,001–8,000 sq. ft. is around ₹78.89 lakh. Final figures may vary by location and setup requirements.
                 </p>
               </div>
 

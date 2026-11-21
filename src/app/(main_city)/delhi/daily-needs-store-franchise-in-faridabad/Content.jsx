@@ -62,7 +62,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a daily needs store franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Mini Mart format starts from approximately ₹15.25 lakh. The indicative amount may cover store setup, initial stock, interior fit-out, technology, franchise fee, and security deposit, subject to the final location-specific proposal.",
+        text: "The Mini Mart format starts from approximately 18.5. The indicative amount may cover store setup, initial stock, interior fit-out, technology, franchise fee, and security deposit, subject to the final location-specific proposal.",
       },
     },
     {
@@ -247,7 +247,7 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq. ft.
               </li>
               <li>
-                Investment: Starting from approximately ₹15.25 lakh, subject to the final location-specific cost estimate
+                Investment: Starting from approximately 18.5, subject to the final location-specific cost estimate
               </li>
               <li>
                 Best for: Compact residential lanes, housing society markets, colony shops, neighbourhood commercial areas, and first-time investors
@@ -542,7 +542,7 @@ const Content = () => {
                 </h3>
                 <ul>
                   <li>
-                    The Mini Mart format starts from approximately ₹15.25 lakh. The indicative amount may include store setup, initial stock, interior fit-out, POS technology, franchise fee, branding, and security deposit, subject to the final location-specific investment proposal.
+                    The Mini Mart format starts from approximately 18.5. The indicative amount may include store setup, initial stock, interior fit-out, POS technology, franchise fee, branding, and security deposit, subject to the final location-specific investment proposal.
                   </li>
                 </ul>
               </div>

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise Investment in Gorakhpur | The Buyzaar Mart",
   description:
-    "Plan your grocery franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart starts from ₹15 Lakh with POS technology, training, and inventory support.",
+    "Plan your grocery franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart starts from 18.5 with POS technology, training, and inventory support.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-investment-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment for a grocery franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart starts from about ₹15 Lakh and generally ranges up to ₹22 Lakh, depending on size and location.",
+        text: "A Mini Mart starts from about 18.5 and generally ranges up to ₹22 Lakh, depending on size and location.",
       },
     },
     {
@@ -151,7 +151,7 @@ const Content = () => {
               </li>
               <li>
                 The Buyzaar Mart offers Mini Mart, Super Mart, and Hyper Mart
-                grocery formats, with entry investment starting from ₹15 Lakh. Its
+                grocery formats, with entry investment starting from 18.5. Its
                 tagline, &quot;Your Friendly Neighbourhood Store,&quot; reflects a
                 focus on trust, fair pricing, and convenience.
               </li>
@@ -371,11 +371,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                A Mini Mart generally requires about ₹15 Lakh to ₹22 Lakh
+                A Mini Mart generally requires about 18.5 to ₹22 Lakh
                 depending on size, location, and the condition of the premises.
                 The final estimate is shared after your site is reviewed.
               </li>
-              
+
             </ul>
 
             <h3 className="font-medium text-gray-900">Where the Money Goes</h3>
@@ -643,7 +643,7 @@ const Content = () => {
                   Gorakhpur?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart starts from about ₹15 Lakh and generally ranges up
+                  A Mini Mart starts from about 18.5 and generally ranges up
                   to ₹22 Lakh, depending on size and location.
                 </p>
               </div>
@@ -739,7 +739,7 @@ const Content = () => {
                   hands-off role.
                 </li>
                 <li>
-                  Investment begins from approximately ₹15 Lakh, subject to final
+                  Investment begins from approximately 18.5, subject to final
                   site assessment, selected format, premises condition, and
                   agreement terms.
                 </li>

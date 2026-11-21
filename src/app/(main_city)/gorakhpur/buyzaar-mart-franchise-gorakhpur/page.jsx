@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Gorakhpur | Grocery Franchise ₹15L",
   description:
-    "Start a Buyzaar Mart franchise in Gorakhpur from ₹15 lakh. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+    "Start a Buyzaar Mart franchise in Gorakhpur from 18.5. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
   keywords: [
     "Buyzaar Mart franchise Gorakhpur",
     "The Buyzaar Mart",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Gorakhpur | Grocery Franchise ₹15L",
     description:
-      "Start a Buyzaar Mart franchise in Gorakhpur from ₹15 lakh. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+      "Start a Buyzaar Mart franchise in Gorakhpur from 18.5. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Gorakhpur | Grocery Franchise ₹15L",
     description:
-      "Start a Buyzaar Mart franchise in Gorakhpur from ₹15 lakh. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+      "Start a Buyzaar Mart franchise in Gorakhpur from 18.5. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

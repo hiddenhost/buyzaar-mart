@@ -54,7 +54,7 @@ const faqSchema = {
       name: "What is the investment required for a Buyzaar Mart Mini Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakhs at the entry level, depending on location.",
+        text: "Approximately 18.5s at the entry level, depending on location.",
       },
     },
     {
@@ -177,7 +177,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Requires 600 to 1,000 sq. ft. of retail space.</li>
-              <li>Entry-level investment starts at approximately ₹15.25 lakhs.</li>
+              <li>Entry-level investment starts at approximately 18.5s.</li>
               <li>Includes standardized store branding, shelving, and interior setup.</li>
               <li>Comes with centralized billing and inventory management systems.</li>
               <li>Backed by supplier coordination that ensures consistent product availability.</li>
@@ -205,7 +205,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Store space: 600–1,000 sq. ft., depending on the chosen location.</li>
-              <li>Entry-level investment: Approximately ₹15.25 lakhs, covering setup and initial stock.</li>
+              <li>Entry-level investment: Approximately 18.5s, covering setup and initial stock.</li>
               <li>Ongoing costs: Rent, staff salaries, electricity, restocking, and logistics.</li>
               <li>Setup includes: Interiors, shelving, branding, billing systems, and initial inventory procurement.</li>
               <li>Lower real estate costs in Bareilly compared to metro cities help keep the overall investment more accessible.</li>
@@ -318,7 +318,7 @@ const Content = () => {
                   What is the investment required for a Buyzaar Mart Mini Mart?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakhs at the entry level, depending on location.
+                  Approximately 18.5s at the entry level, depending on location.
                 </p>
               </div>
 

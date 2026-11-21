@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Open a Retail Store Franchise in Mathura | Buyzaar Mart Guide",
   description:
-    "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from ₹15 Lakh with Buyzaar Mart.",
+    "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 with Buyzaar Mart.",
   keywords: [
     "how to open retail store franchise Mathura",
     "retail store franchise Mathura",
@@ -39,7 +39,7 @@ export const metadata = {
     title:
       "How to Open a Retail Store Franchise in Mathura | Buyzaar Mart Guide",
     description:
-      "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from ₹15 Lakh with Buyzaar Mart.",
+      "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 with Buyzaar Mart.",
     url: "https://www.thebuyzaarmart.com/mathura/how-to-open-a-retail-store-franchise-in-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     title:
       "How to Open a Retail Store Franchise in Mathura | Buyzaar Mart Guide",
     description:
-      "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from ₹15 Lakh with Buyzaar Mart.",
+      "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 with Buyzaar Mart.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

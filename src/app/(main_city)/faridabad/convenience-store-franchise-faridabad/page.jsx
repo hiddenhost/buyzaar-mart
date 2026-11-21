@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Convenience Store Franchise Faridabad | The Buyzaar Mart",
   description:
-    "Start your convenience store franchise in Faridabad with The Buyzaar Mart from ₹15 Lakh. POS system, supply chain support, training & ongoing operations support.",
+    "Start your convenience store franchise in Faridabad with The Buyzaar Mart from 18.5. POS system, supply chain support, training & ongoing operations support.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/faridabad/convenience-store-franchise-faridabad",
@@ -14,7 +14,7 @@ export const metadata = {
   openGraph: {
     title: "Convenience Store Franchise Faridabad | The Buyzaar Mart",
     description:
-      "Start your convenience store franchise in Faridabad with The Buyzaar Mart from ₹15 Lakh. POS system, supply chain support, training & ongoing operations support.",
+      "Start your convenience store franchise in Faridabad with The Buyzaar Mart from 18.5. POS system, supply chain support, training & ongoing operations support.",
     url: "https://www.thebuyzaarmart.com/faridabad/convenience-store-franchise-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Convenience Store Franchise Faridabad | The Buyzaar Mart",
     description:
-      "Start your convenience store franchise in Faridabad with The Buyzaar Mart from ₹15 Lakh. POS system, supply chain support, training & ongoing operations support.",
+      "Start your convenience store franchise in Faridabad with The Buyzaar Mart from 18.5. POS system, supply chain support, training & ongoing operations support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

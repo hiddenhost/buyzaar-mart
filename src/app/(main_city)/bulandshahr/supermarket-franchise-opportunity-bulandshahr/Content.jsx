@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It is presented as starting from around ₹15 Lakh in total, depending on format and area.",
+        text: "It is presented as starting from around 18.5 in total, depending on format and area.",
       },
     },
     {
@@ -204,7 +204,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Total investment: The Buyzaar Mart presents its supermarket franchise as starting from around ₹15 Lakh in total. The final figure varies with the format and store area you choose.</li>
+              <li>Total investment: The Buyzaar Mart presents its supermarket franchise as starting from around 18.5 in total. The final figure varies with the format and store area you choose.</li>
               <li>Gross margin: The brand states an effective gross margin of 18-20% for franchise partners. Net returns depend on sales volume, rent, staff and operating costs, so plan with conservative numbers.</li>
               <li>Plan with the calculator: The franchise page includes an investment calculator for Mini Mart, Super Mart and Hyper Mart. Use it together with a call to the franchise team for a personalised estimate.</li>
             </ul>
@@ -313,7 +313,7 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  It is presented as starting from around ₹15 Lakh in total, depending on format and area.
+                  It is presented as starting from around 18.5 in total, depending on format and area.
                 </p>
               </div>
 

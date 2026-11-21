@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much does a Buyzaar Mart cost?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart is approximately ₹15.25 lakh to ₹25 lakh. Confirm the final quote with the team.",
+        text: "A Mini Mart is approximately ₹18.5 to ₹26 Lakh. Confirm the final quote with the team.",
       },
     },
     {
@@ -205,7 +205,7 @@ const Content = () => {
               Investment Required for a Buyzaar Mart in Mathura
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>A Mini Mart requires approximately ₹15.25 lakh to ₹25 lakh in total, including franchise fee, security deposit, interiors, POS setup and opening stock.</li>
+              <li>A Mini Mart requires approximately ₹18.5 to ₹26 Lakh in total, including franchise fee, security deposit, interiors, POS setup and opening stock.</li>
               <li>Super Mart and Hyper Mart investments depend on space and product range. Consider them as estimates and request a written quotation from the franchise team.</li>
               <li>Rent or shop deposit, electricity and initial salaries should be planned separately as working capital.</li>
               <li>Compared with many large-format retail ventures, a Mini Mart can be a more accessible entry point into organised retail.</li>
@@ -345,7 +345,7 @@ const Content = () => {
                   Q2. How much does a Buyzaar Mart cost?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart is approximately ₹15.25 lakh to ₹25 lakh. Confirm the final quote with the team.
+                  A Mini Mart is approximately ₹18.5 to ₹26 Lakh. Confirm the final quote with the team.
                 </p>
               </div>
 

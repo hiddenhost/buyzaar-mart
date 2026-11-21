@@ -58,7 +58,7 @@ const faqSchema = {
       name: "What is the minimum investment for a mart franchise in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.",
+        text: "The Mini Mart format starts from approximately 18.5, typically ranging up to ₹22 lakh depending on location and fit-out.",
       },
     },
     {
@@ -173,7 +173,7 @@ const Content = () => {
                 A budget-friendly mart franchise doesn&apos;t mean a compromise on brand quality — it means choosing the right format, the right store size, and a cost-efficient location within Delhi.
               </li>
               <li>
-                The Buyzaar Mart&apos;s Mini Mart format is specifically designed as the low-investment entry point into organized retail, starting at approximately ₹15 lakh — among the more affordable organized grocery franchise opportunities in the NCR.
+                The Buyzaar Mart&apos;s Mini Mart format is specifically designed as the low-investment entry point into organized retail, starting at approximately 18.5 — among the more affordable organized grocery franchise opportunities in the NCR.
               </li>
               <li>
                 At this investment level, you still get a fully branded, FSSAI-licensed store with POS technology, trained staff, and ongoing company support — not just a logo and a product list handed over to you to figure out alone.
@@ -221,7 +221,7 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq ft (a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store)
               </li>
               <li>
-                Investment: Total setup costs typically range from approximately ₹15 lakh to ₹22 lakh
+                Investment: Total setup costs typically range from approximately 18.5 to ₹22 lakh
               </li>
               <li>
                 What&apos;s covered: Franchise fee (inclusive of 18% GST), interior setup and store assets, POS technology, opening stock, and security deposit
@@ -458,7 +458,7 @@ const Content = () => {
                   Q1. What is the minimum investment for a mart franchise in Delhi?
                 </h3>
                 <p className="mt-2">
-                  The Mini Mart format starts from approximately ₹15 lakh, typically ranging up to ₹22 lakh depending on location and fit-out.
+                  The Mini Mart format starts from approximately 18.5, typically ranging up to ₹22 lakh depending on location and fit-out.
                 </p>
               </div>
 

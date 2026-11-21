@@ -92,7 +92,7 @@ const faqSchema = {
       name: "What is the minimum investment to open a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart starts around ₹15 lakh; Super Mart and Hyper Mart require higher investment based on area.",
+        text: "A Mini Mart starts around 18.5; Super Mart and Hyper Mart require higher investment based on area.",
       },
     },
     {
@@ -143,39 +143,39 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-    <li>
-        Rising input costs, inflation in packaged goods, and inconsistent
-        pricing at unorganised outlets have made many Kanpur shoppers more
-        price-conscious than ever, actively comparing where they can get better
-        value for the same basket of goods.
-    </li>
+              <li>
+                Rising input costs, inflation in packaged goods, and inconsistent
+                pricing at unorganised outlets have made many Kanpur shoppers more
+                price-conscious than ever, actively comparing where they can get better
+                value for the same basket of goods.
+              </li>
 
-    <li>
-        At the same time, &quot;affordable&quot; doesn&apos;t mean shoppers are
-        willing to compromise on quality, hygiene, or reliability — value-conscious
-        buying today means getting fair prices without sacrificing product
-        standards.
-    </li>
+              <li>
+                At the same time, &quot;affordable&quot; doesn&apos;t mean shoppers are
+                willing to compromise on quality, hygiene, or reliability — value-conscious
+                buying today means getting fair prices without sacrificing product
+                standards.
+              </li>
 
-    <li>
-        This is exactly the gap The Buyzaar Mart, a neighbourhood supermarket
-        franchise brand, is built to fill in Kanpur — combining transparent,
-        value-based pricing with organized retail quality standards.
-    </li>
+              <li>
+                This is exactly the gap The Buyzaar Mart, a neighbourhood supermarket
+                franchise brand, is built to fill in Kanpur — combining transparent,
+                value-based pricing with organized retail quality standards.
+              </li>
 
-    <li>
-        This article breaks down what actually drives grocery costs up for
-        Kanpur households, practical ways to shop more affordably, and how The
-        Buyzaar Mart&apos;s pricing model is designed around genuine household
-        savings.
-    </li>
+              <li>
+                This article breaks down what actually drives grocery costs up for
+                Kanpur households, practical ways to shop more affordably, and how The
+                Buyzaar Mart&apos;s pricing model is designed around genuine household
+                savings.
+              </li>
 
-    <li>
-        For readers exploring the business side, we&apos;ve also included a full
-        investment and area breakdown across all three Buyzaar Mart store
-        formats.
-    </li>
-</ul>
+              <li>
+                For readers exploring the business side, we&apos;ve also included a full
+                investment and area breakdown across all three Buyzaar Mart store
+                formats.
+              </li>
+            </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What Drives Up Grocery Costs for Kanpur Households
@@ -283,30 +283,30 @@ const Content = () => {
             </h2>
 
 
-<ul className="list-disc space-y-2 pl-6">
-    <li>
-        Kanpur&apos;s demand for affordable, reliable grocery shopping also
-        represents a genuine opportunity for local entrepreneurs to bring this
-        value-driven retail model to their own neighbourhood.
-    </li>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>
+                Kanpur&apos;s demand for affordable, reliable grocery shopping also
+                represents a genuine opportunity for local entrepreneurs to bring this
+                value-driven retail model to their own neighbourhood.
+              </li>
 
-    <li>
-        The Buyzaar Mart offers two franchise models — FOCM (Franchise Owned,
-        Company Managed) and FOCO (Franchise Owned, Company Operated) — to suit
-        different levels of investor involvement.
-    </li>
+              <li>
+                The Buyzaar Mart offers two franchise models — FOCM (Franchise Owned,
+                Company Managed) and FOCO (Franchise Owned, Company Operated) — to suit
+                different levels of investor involvement.
+              </li>
 
-    <li>
-        Three store formats allow entrepreneurs to match their investment to
-        their available commercial space and target locality size.
-    </li>
-</ul>
+              <li>
+                Three store formats allow entrepreneurs to match their investment to
+                their available commercial space and target locality size.
+              </li>
+            </ul>
 
 
             <h3 className="font-medium text-gray-900">Mini Mart</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Area required: 600–1,000 sq. ft.</li>
-              <li>Total estimated investment: approximately ₹15.25 lakh–₹22+ lakh, with ₹15 lakh commonly cited as the starting investment.</li>
+              <li>Total estimated investment: approximately 18.5–₹22+ lakh, with 18.5 commonly cited as the starting investment.</li>
               <li>Best suited for: first-time entrepreneurs, homemakers, and salaried professionals targeting compact residential pockets.</li>
             </ul>
 
@@ -329,34 +329,34 @@ const Content = () => {
             </ul>
 
 
-<ul className="list-disc space-y-2 pl-6">
-    <li>
-        Note on figures: Super Mart and Hyper Mart figures are indicative
-        estimates scaled from the confirmed Mini Mart base. Use the investment
-        calculator on thebuyzaarmart.com or speak with the franchise team for a
-        precise, current breakdown.
-    </li>
+            <ul className="list-disc space-y-2 pl-6">
+              <li>
+                Note on figures: Super Mart and Hyper Mart figures are indicative
+                estimates scaled from the confirmed Mini Mart base. Use the investment
+                calculator on thebuyzaarmart.com or speak with the franchise team for a
+                precise, current breakdown.
+              </li>
 
-    <li>
-        Affordable grocery shopping in Kanpur isn&apos;t just about finding the
-        lowest price on a single item — it&apos;s about consistent, transparent
-        value across every visit, without compromising on quality or
-        reliability.
-    </li>
+              <li>
+                Affordable grocery shopping in Kanpur isn&apos;t just about finding the
+                lowest price on a single item — it&apos;s about consistent, transparent
+                value across every visit, without compromising on quality or
+                reliability.
+              </li>
 
-    <li>
-        The Buyzaar Mart is designed around exactly this principle, combining
-        fair, sustainable pricing with organized retail standards to help Kanpur
-        households genuinely save on their monthly grocery budget.
-    </li>
+              <li>
+                The Buyzaar Mart is designed around exactly this principle, combining
+                fair, sustainable pricing with organized retail standards to help Kanpur
+                households genuinely save on their monthly grocery budget.
+              </li>
 
-    <li>
-        For entrepreneurs, this same value-driven demand represents a real
-        business opportunity, with formats scaling from a 600 sq. ft. Mini Mart
-        to an 8,000 sq. ft. Hyper Mart to suit almost any available commercial
-        space.
-    </li>
-</ul>
+              <li>
+                For entrepreneurs, this same value-driven demand represents a real
+                business opportunity, with formats scaling from a 600 sq. ft. Mini Mart
+                to an 8,000 sq. ft. Hyper Mart to suit almost any available commercial
+                space.
+              </li>
+            </ul>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -410,7 +410,7 @@ const Content = () => {
                   What is the minimum investment to open a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart starts around ₹15 lakh; Super Mart and Hyper Mart require higher investment based on area.
+                  A Mini Mart starts around 18.5; Super Mart and Hyper Mart require higher investment based on area.
                 </p>
               </div>
 

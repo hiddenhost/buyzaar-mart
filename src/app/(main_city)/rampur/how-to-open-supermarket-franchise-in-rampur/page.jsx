@@ -7,7 +7,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Open a Supermarket Franchise in Rampur | Buyzaar Mart",
   description:
-    "Learn how to open a supermarket franchise in Rampur with The Buyzaar Mart. Total investment from ₹15 Lakh, layout planning, POS billing, training and launch support.",
+    "Learn how to open a supermarket franchise in Rampur with The Buyzaar Mart. Total investment from 18.5, layout planning, POS billing, training and launch support.",
   keywords: [
     "how to open supermarket franchise in Rampur",
     "supermarket franchise Rampur",
@@ -42,7 +42,7 @@ export const metadata = {
   openGraph: {
     title: "How to Open a Supermarket Franchise in Rampur | Buyzaar Mart",
     description:
-      "Learn how to open a supermarket franchise in Rampur with The Buyzaar Mart. Total investment from ₹15 Lakh, layout planning, POS billing, training and launch support.",
+      "Learn how to open a supermarket franchise in Rampur with The Buyzaar Mart. Total investment from 18.5, layout planning, POS billing, training and launch support.",
     url: "https://www.thebuyzaarmart.com/rampur/how-to-open-supermarket-franchise-in-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +60,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Open a Supermarket Franchise in Rampur | Buyzaar Mart",
     description:
-      "Learn how to open a supermarket franchise in Rampur with The Buyzaar Mart. Total investment from ₹15 Lakh, layout planning, POS billing, training and launch support.",
+      "Learn how to open a supermarket franchise in Rampur with The Buyzaar Mart. Total investment from 18.5, layout planning, POS billing, training and launch support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

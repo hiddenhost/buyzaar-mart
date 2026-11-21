@@ -6,7 +6,7 @@ const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "The Buyzaar Mart – Grocery Franchise Ghaziabad",
-  "description": "The Buyzaar Mart offers grocery franchise opportunities in Ghaziabad with complete setup support, supply chain management, and investment starting from ₹15 lakhs.",
+  "description": "The Buyzaar Mart offers grocery franchise opportunities in Ghaziabad with complete setup support, supply chain management, and investment starting from 18.5s.",
   "url": "https://www.thebuyzaarmart.com/ghaziabad/grocery-franchise-in-ghaziabad",
   "telephone": "+919217991727",
   "email": "info@thebuyzaarmart.com",
@@ -347,8 +347,8 @@ const Content = () => {
                 🕐 <span className="font-semibold">Business Hours:</span> Monday – Saturday, 9:00 AM – 7:00 PM
               </p>
 
-              
-            
+
+
             </div>
           </div>
           <CityInternalLinks city="ghaziabad" currentSlug="/ghaziabad/grocery-franchise-in-ghaziabad" />

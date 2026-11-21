@@ -92,7 +92,7 @@ const faqSchema = {
       name: "What is the investment range for a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹15.25 lakhs to ₹80 lakhs, depending on the store format.",
+        text: "Roughly 18.5s to ₹80 lakhs, depending on the store format.",
       },
     },
     {
@@ -199,7 +199,7 @@ const Content = () => {
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart format: 600–1,000 sq. ft., with an entry-level investment of around ₹15.25 lakhs.</li>
+              <li>Mini Mart format: 600–1,000 sq. ft., with an entry-level investment of around 18.5s.</li>
               <li>Super Mart format: 1,001–3,000 sq. ft., with an entry-level investment of around ₹26.63 lakhs.</li>
               <li>Ongoing costs typically include rent, staff salaries, electricity, restocking, and logistics.</li>
               <li>Lower setup and rental costs in Bareilly compared to metro cities allow for a comparatively quicker break-even period.</li>
@@ -337,7 +337,7 @@ const Content = () => {
                   What is the investment range for a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹15.25 lakhs to ₹80 lakhs, depending on the store format.
+                  Roughly 18.5s to ₹80 lakhs, depending on the store format.
                 </p>
               </div>
 

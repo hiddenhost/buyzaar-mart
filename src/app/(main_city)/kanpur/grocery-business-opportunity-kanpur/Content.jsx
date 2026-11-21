@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Business Opportunity in Kanpur - The Buyzaar Mart",
   description:
-    "Explore the grocery business opportunity in Kanpur with The Buyzaar Mart. Learn about the FOCM model, store formats, ₹15 lakh entry point, brand support, and franchise launch process.",
+    "Explore the grocery business opportunity in Kanpur with The Buyzaar Mart. Learn about the FOCM model, store formats, 18.5 entry point, brand support, and franchise launch process.",
   url: "https://www.thebuyzaarmart.com/kanpur/grocery-store-franchise-in-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from approximately ₹15 lakh for a Mini Mart format. The final amount depends on the store size, selected format, and setup requirements.",
+        text: "The minimum investment starts from approximately 18.5 for a Mini Mart format. The final amount depends on the store size, selected format, and setup requirements.",
       },
     },
     {
@@ -384,7 +384,7 @@ const Content = () => {
                   franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from approximately ₹15 lakh for
+                  The minimum investment starts from approximately 18.5 for
                   a Mini Mart. The final cost depends on format, store size, and
                   setup requirements.
                 </p>

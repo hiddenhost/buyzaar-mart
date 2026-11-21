@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Affordable Franchise Store in Kanpur - The Buyzaar Mart",
   description:
-    "Start an affordable franchise store in Kanpur with The Buyzaar Mart. Explore the FOCM model, ₹15 lakh starting investment, store formats, inventory support, and complete launch assistance.",
+    "Start an affordable franchise store in Kanpur with The Buyzaar Mart. Explore the FOCM model, 18.5 starting investment, store formats, inventory support, and complete launch assistance.",
   url: "https://www.thebuyzaarmart.com/kanpur/affordable-franchise-store-kanpurr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from ₹15 lakh. The exact amount depends on the store format, location, and setup requirements.",
+        text: "The minimum investment starts from 18.5. The exact amount depends on the store format, location, and setup requirements.",
       },
     },
     {
@@ -121,7 +121,7 @@ const Content = () => {
             </p>
 
             <p>
-              With a starting investment from ₹15 lakh, this is positioned as
+              With a starting investment from 18.5, this is positioned as
               one of the more accessible supermarket franchise opportunities for
               the Kanpur market.
             </p>
@@ -245,7 +245,7 @@ const Content = () => {
             <p>
               One of the strongest reasons to consider The Buyzaar Mart in
               Kanpur is the relatively affordable entry cost. The franchise is
-              available starting from ₹15 lakh, making it competitive compared
+              available starting from 18.5, making it competitive compared
               with many other organised supermarket franchise opportunities.
             </p>
 
@@ -453,7 +453,7 @@ const Content = () => {
                   franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from ₹15 lakh. The final amount
+                  The minimum investment starts from 18.5. The final amount
                   depends on the store format, exact location, and setup
                   requirements.
                 </p>

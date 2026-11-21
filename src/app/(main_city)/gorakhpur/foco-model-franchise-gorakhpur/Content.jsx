@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Model Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-    "Explore the FOCO model franchise in Gorakhpur from ₹15 Lakh. You invest and own the store while The Buyzaar Mart operates it with POS technology and supply support.",
+    "Explore the FOCO model franchise in Gorakhpur from 18.5. You invest and own the store while The Buyzaar Mart operates it with POS technology and supply support.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/foco-model-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "FOCO Mini Mart",
         description:
-          "A Franchise Owned, Company Operated Mini Mart format for Gorakhpur, with entry investment starting from ₹15 Lakh and a minimum 600 sq. ft. carpet area.",
+          "A Franchise Owned, Company Operated Mini Mart format for Gorakhpur, with entry investment starting from 18.5 and a minimum 600 sq. ft. carpet area.",
       },
       {
         "@type": "Offer",
@@ -82,7 +82,7 @@ const faqSchema = {
       name: "How much is the minimum investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹15 Lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
+        text: "It starts from 18.5, and a Mini Mart generally goes up to ₹22 Lakh.",
       },
     },
     {
@@ -151,7 +151,7 @@ const Content = () => {
               </li>
               <li>
                 The Buyzaar Mart offers the FOCO model alongside the FOCM model,
-                with franchise investment starting from ₹15 Lakh. You provide the
+                with franchise investment starting from 18.5. You provide the
                 capital and the premises, and the company runs the store under
                 its brand standards.
               </li>
@@ -319,7 +319,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart franchise starts from ₹15 Lakh. A Mini Mart
+                The Buyzaar Mart franchise starts from 18.5. A Mini Mart
                 generally falls in the ₹15–22 Lakh range, depending on size,
                 location, and the condition of the premises.
               </li>
@@ -591,7 +591,7 @@ const Content = () => {
                   How much is the minimum investment?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹15 Lakh, and a Mini Mart generally goes up to
+                  It starts from 18.5, and a Mini Mart generally goes up to
                   ₹22 Lakh.
                 </p>
               </div>
@@ -656,7 +656,7 @@ const Content = () => {
                   Gorakhpur catchment for a site review and model discussion.
                 </li>
                 <li>
-                  Franchise investment begins from approximately ₹15 Lakh, subject
+                  Franchise investment begins from approximately 18.5, subject
                   to the selected format, premises, site assessment, and final
                   agreement terms.
                 </li>

@@ -84,7 +84,7 @@ const faqSchema = {
       name: "What is the investment required for a POS-enabled franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Approximately ₹15.25 lakhs to ₹26.63 lakhs, depending on the format.",
+        text: "Approximately 18.5s to ₹26.63 lakhs, depending on the format.",
       },
     },
     {
@@ -233,7 +233,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart:A compact retail store format ranging from 600–1,000 sq. ft., designed to efficiently serve neighborhood communities with a carefully selected assortment of daily essentials, groceries, beverages, snacks, and household products. The entry-level investment starts at approximately ₹15.25 lakhs, which includes the complete POS (Point of Sale) system setup, store infrastructure support, and other essential components required to establish and operate the outlet successfully.</li>
+              <li>Mini Mart:A compact retail store format ranging from 600–1,000 sq. ft., designed to efficiently serve neighborhood communities with a carefully selected assortment of daily essentials, groceries, beverages, snacks, and household products. The entry-level investment starts at approximately 18.5s, which includes the complete POS (Point of Sale) system setup, store infrastructure support, and other essential components required to establish and operate the outlet successfully.</li>
               <li>Super Mart: A larger retail store format spanning 1,001–3,000 sq. ft., ideal for offering customers a broader range of products, including groceries, fresh produce, personal care items, household essentials, and other daily necessities in a spacious shopping environment. The entry-level investment starts at approximately ₹26.63 lakhs, which includes the complete POS (Point of Sale) system setup, along with the necessary infrastructure and operational support to launch and manage the store efficiently.</li>
             </ul>
 
@@ -350,7 +350,7 @@ const Content = () => {
                   What is the investment required for a POS-enabled franchise?
                 </h3>
                 <p className="mt-2">
-                  Approximately ₹15.25 lakhs to ₹80 lakhs, depending on the format.
+                  Approximately 18.5s to ₹80 lakhs, depending on the format.
                 </p>
               </div>
 

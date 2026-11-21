@@ -56,7 +56,7 @@ const faqSchema = {
       name: "What is the minimum investment needed to start a convenience store franchise in India?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment typically starts from approximately ₹15 lakh for a compact Mini Mart format, with higher amounts for larger formats.",
+        text: "Investment typically starts from approximately 18.5 for a compact Mini Mart format, with higher amounts for larger formats.",
       },
     },
     {
@@ -212,7 +212,7 @@ const Content = () => {
                 franchises.
               </li>
               <li>
-                Investment often starts from around ₹15 lakh, making the model
+                Investment often starts from around 18.5, making the model
                 accessible to first-time entrepreneurs, salaried professionals,
                 and small business owners.
               </li>
@@ -286,7 +286,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 Total investment for a convenience store franchise in India
-                typically starts from approximately ₹15 lakh for a compact Mini
+                typically starts from approximately 18.5 for a compact Mini
                 Mart.
               </li>
               <li>
@@ -643,7 +643,7 @@ const Content = () => {
                   store franchise in India?
                 </h3>
                 <p className="mt-2">
-                  Investment typically starts from approximately ₹15 lakh for a
+                  Investment typically starts from approximately 18.5 for a
                   compact Mini Mart format, with higher amounts for larger
                   formats.
                 </p>

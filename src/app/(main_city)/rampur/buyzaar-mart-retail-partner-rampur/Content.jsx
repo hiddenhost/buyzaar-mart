@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Retail Partner Rampur | Join the Network",
   description:
-    "Become a Buyzaar Mart retail partner in Rampur. Get branding, managed supply chain and launch support. Total investment from ₹15 Lakh. Call +91 9217991727.",
+    "Become a Buyzaar Mart retail partner in Rampur. Get branding, managed supply chain and launch support. Total investment from 18.5. Call +91 9217991727.",
   url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-retail-partner-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The total investment starts from ₹15 Lakh and varies with store size, so confirm the exact figure for your Rampur space.",
+        text: "The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your Rampur space.",
       },
     },
     {
@@ -373,7 +373,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                The Buyzaar Mart franchise starts from a total investment of ₹15 Lakh, and the final figure depends on your store type and area.
+                The Buyzaar Mart franchise starts from a total investment of 18.5, and the final figure depends on your store type and area.
               </li>
               <li>
                 The total covers stock, interior, software fee, franchise fee including 18% GST and security deposit, so you can plan the whole commitment as one number.
@@ -628,7 +628,7 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-                  The total investment starts from ₹15 Lakh and varies with store size, so confirm the exact figure for your Rampur space.
+                  The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your Rampur space.
                 </p>
               </div>
 

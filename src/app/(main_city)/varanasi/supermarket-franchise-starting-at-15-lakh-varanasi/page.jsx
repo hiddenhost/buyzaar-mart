@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Supermarket Franchise Starting at 15 Lakh in Varanasi | Buyzaar Mart",
   description:
-    "Start your own supermarket franchise in Varanasi at an investment of just ₹15 lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+    "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
   keywords: [
     "supermarket franchise starting at 15 lakh Varanasi",
     "low investment supermarket franchise",
@@ -23,7 +23,7 @@ export const metadata = {
   openGraph: {
     title: "Supermarket Franchise Starting at 15 Lakh in Varanasi | Buyzaar Mart",
     description:
-      "Start your own supermarket franchise in Varanasi at an investment of just ₹15 lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+      "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
     url: "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
@@ -41,7 +41,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Supermarket Franchise Starting at 15 Lakh in Varanasi | Buyzaar Mart",
     description:
-      "Start your own supermarket franchise in Varanasi at an investment of just ₹15 lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+      "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -106,7 +106,7 @@ const faqSchema = {
       name: "What is the minimum investment needed to open this franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment generally starts from around ₹15 Lakh, depending on the store format and location chosen.",
+        text: "Investment generally starts from around 18.5, depending on the store format and location chosen.",
       },
     },
     {
@@ -261,7 +261,7 @@ const Content = () => {
               Investment Considerations When Opening a Mart in Aligarh
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Franchise investment generally starts from around ₹15 Lakh, depending on the chosen store format and location.</li>
+              <li>Franchise investment generally starts from around 18.5, depending on the chosen store format and location.</li>
               <li>The investment typically covers store interiors, initial stock, POS installation, branding, and launch support.</li>
               <li>Larger formats such as Super Mart and Hyper Mart require a proportionately higher investment due to additional space and stock requirements.</li>
               <li>Profit margins on retail sales generally range between 18 to 20 percent, depending on store size, location, and sales volume.</li>
@@ -342,7 +342,7 @@ const Content = () => {
                   What is the minimum investment needed to open this franchise?
                 </h3>
                 <p className="mt-2">
-                  Investment generally starts from around ₹15 Lakh, depending on the store format and location chosen.
+                  Investment generally starts from around 18.5, depending on the store format and location chosen.
                 </p>
               </div>
 

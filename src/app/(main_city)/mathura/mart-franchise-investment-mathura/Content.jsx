@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What's the total investment range for a Mini Mart in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Roughly ₹15.25 lakh to ₹25 lakh, depending on location and property specifics.",
+        text: "Roughly ₹18.5 to ₹26 Lakh, depending on location and property specifics.",
       },
     },
     {
@@ -223,7 +223,7 @@ const Content = () => {
               <li>Interior &amp; Store Setup: Racking, shelving, branding, signage, and general fit-out for the chosen format.</li>
               <li>Software &amp; POS Fee: Covers billing software, inventory tracking, and CRM tools.</li>
               <li>Opening Stock: Initial inventory across grocery, FMCG, and daily-essential categories.</li>
-              <li>Total Estimated Investment (Mini Mart, 600 sq. ft.): Approximately ₹15.25 lakh to ₹25 lakh, in line with figures seen in similar UP city launches.</li>
+              <li>Total Estimated Investment (Mini Mart, 600 sq. ft.): Approximately ₹18.5 to ₹26 Lakh, in line with figures seen in similar UP city launches.</li>
               <li>Super Mart and Hyper Mart investments scale upward proportionally, since larger formats require significantly more opening stock, interior work, and shelving.</li>
               <li>Recurring monthly costs — rent, staffing, electricity, and restocking — sit outside this one-time investment figure and need separate cash flow planning.</li>
             </ul>
@@ -306,7 +306,7 @@ const Content = () => {
                   2. What&apos;s the total investment range for a Mini Mart in Mathura?
                 </h3>
                 <p className="mt-2">
-                  Roughly ₹15.25 lakh to ₹25 lakh, depending on location and property specifics.
+                  Roughly ₹18.5 to ₹26 Lakh, depending on location and property specifics.
                 </p>
               </div>
 

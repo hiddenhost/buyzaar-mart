@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Above 15 Lakh in Varanasi | The Buyzaar Mart",
   description:
-    "Buyzaar Mart offers mart franchise opportunities above ₹15 lakh in Varanasi with Super Mart and Hyper Mart formats, FOCM and FOCO options, POS billing, inventory management, and full franchise support.",
+    "Buyzaar Mart offers mart franchise opportunities above 18.5 in Varanasi with Super Mart and Hyper Mart formats, FOCM and FOCO options, POS billing, inventory management, and full franchise support.",
   url: "https://www.thebuyzaarmart.com/varanasi/mart-franchise-above-15-lakh-in-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Super Mart",
         description:
-          "A full-service neighbourhood supermarket format for dense residential and semi-commercial zones in Varanasi, suited for larger investment levels above ₹15 lakh.",
+          "A full-service neighbourhood supermarket format for dense residential and semi-commercial zones in Varanasi, suited for larger investment levels above 18.5.",
       },
       {
         "@type": "Offer",
@@ -49,7 +49,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What formats are available for a mart franchise above ₹15 lakh in Varanasi?",
+      name: "What formats are available for a mart franchise above 18.5 in Varanasi?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Primarily Super Mart and Hyper Mart, depending on budget and space.",
@@ -132,24 +132,24 @@ const Content = () => {
             </h1>
 
             <p>
-              For entrepreneurs in Varanasi who are ready to invest beyond the entry-level ticket size and want a larger, higher-earning-potential retail store, a mart franchise above ₹15 lakh opens up meaningfully bigger formats — a wider product range, a larger catchment area, and stronger revenue potential. Buyzaar Mart, a fast-growing neighbourhood supermarket franchise brand, offers exactly this kind of scalable opportunity through its Super Mart and Hyper Mart formats. This article breaks down, point by point, what a mart franchise above ₹15 lakh looks like in Varanasi, why it makes sense at this investment level, and how to move forward with the application.
+              For entrepreneurs in Varanasi who are ready to invest beyond the entry-level ticket size and want a larger, higher-earning-potential retail store, a mart franchise above 18.5 opens up meaningfully bigger formats — a wider product range, a larger catchment area, and stronger revenue potential. Buyzaar Mart, a fast-growing neighbourhood supermarket franchise brand, offers exactly this kind of scalable opportunity through its Super Mart and Hyper Mart formats. This article breaks down, point by point, what a mart franchise above 18.5 looks like in Varanasi, why it makes sense at this investment level, and how to move forward with the application.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Consider a Franchise Above ₹15 Lakh in Varanasi
+              Why Consider a Franchise Above 18.5 in Varanasi
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>An investment above ₹15 lakh typically unlocks a larger store format, which means more shelf space, a wider product assortment, and the ability to serve a bigger customer catchment.</li>
+              <li>An investment above 18.5 typically unlocks a larger store format, which means more shelf space, a wider product assortment, and the ability to serve a bigger customer catchment.</li>
               <li>Varanasi's dense population, along with continuous pilgrim and tourist footfall, supports higher-volume stores that can generate stronger daily sales than a compact outlet.</li>
               <li>Rapidly developing residential areas such as Sarnath Road, Chandpur, and outer colony zones are well suited to mid-to-large format stores that can serve an entire neighbourhood in one visit.</li>
               <li>A bigger investment generally allows for a more complete one-stop-shop experience — groceries, fresh produce, frozen foods, personal care, home care, and more — increasing average basket size per customer.</li>
               <li>Larger formats can better absorb fixed costs like rent and staffing, since the revenue base is also larger, which can support healthier margins at scale.</li>
-              <li>Above ₹15 lakh also positions an investor to potentially move directly into the Super Mart format rather than starting from the smallest Mini Mart tier and scaling up later.</li>
+              <li>Above 18.5 also positions an investor to potentially move directly into the Super Mart format rather than starting from the smallest Mini Mart tier and scaling up later.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Store Formats Available Above ₹15 Lakh Investment
+              Store Formats Available Above 18.5 Investment
             </h2>
 
             <div className="space-y-4">
@@ -177,7 +177,7 @@ const Content = () => {
             </div>
 
             <p>
-              Applicants with a budget starting just above ₹15 lakh should note that a full Super Mart typically requires closer to ₹26.63 lakh; a written, location-specific quote is essential to confirm exact figures for a Varanasi site.
+              Applicants with a budget starting just above 18.5 should note that a full Super Mart typically requires closer to ₹26.63 lakh; a written, location-specific quote is essential to confirm exact figures for a Varanasi site.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -218,11 +218,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step: How to Apply for a Franchise Above ₹15 Lakh in Varanasi
+              Step-by-Step: How to Apply for a Franchise Above 18.5 in Varanasi
             </h2>
 
             <ol className="list-decimal space-y-2 pl-6">
-              <li>Step 1 – Submit an inquiry: Fill out the franchise inquiry form on the official website, specifying your budget range above ₹15 lakh and interest in Varanasi.</li>
+              <li>Step 1 – Submit an inquiry: Fill out the franchise inquiry form on the official website, specifying your budget range above 18.5 and interest in Varanasi.</li>
               <li>Step 2 – Discuss format options: A franchise advisor helps determine whether Super Mart or Hyper Mart fits your investment level, space availability, and business goals.</li>
               <li>Step 3 – Identify or propose a location: Share details of your available commercial space or ask for guidance on suitable Varanasi localities for a larger format.</li>
               <li>Step 4 – Location survey and approval: The brand's team evaluates the site for footfall potential, catchment density, and commercial viability specific to a Super Mart or Hyper Mart.</li>
@@ -237,7 +237,7 @@ const Content = () => {
             </ol>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Who Should Consider a Franchise Above ₹15 Lakh
+              Who Should Consider a Franchise Above 18.5
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -279,7 +279,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. What formats are available for a mart franchise above ₹15 lakh in Varanasi?
+                  Q1. What formats are available for a mart franchise above 18.5 in Varanasi?
                 </h3>
                 <p className="mt-2">
                   Primarily Super Mart and Hyper Mart, depending on budget and space.

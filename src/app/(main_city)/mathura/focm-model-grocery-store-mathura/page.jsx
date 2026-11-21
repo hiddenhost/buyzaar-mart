@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Model Grocery Store in Mathura | The Buyzaar Mart",
   description:
-    "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from ₹15 lakh.",
+    "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5.",
   keywords: [
     "focm model grocery store Mathura",
     "franchise owned company managed",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "FOCM Model Grocery Store in Mathura | The Buyzaar Mart",
     description:
-      "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from ₹15 lakh.",
+      "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5.",
     url: "https://www.thebuyzaarmart.com/mathura/focm-model-grocery-store-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Model Grocery Store in Mathura | The Buyzaar Mart",
     description:
-      "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from ₹15 lakh.",
+      "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

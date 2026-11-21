@@ -42,7 +42,7 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment starts from approximately ₹15 lakh for the Mini Mart format. The final amount varies based on store size, stock, interiors, POS software, franchise fee, and security deposit.",
+        text: "The minimum investment starts from approximately 18.5 for the Mini Mart format. The final amount varies based on store size, stock, interiors, POS software, franchise fee, and security deposit.",
       },
     },
     {
@@ -388,7 +388,7 @@ const Content = () => {
 
             <p>
               The Buyzaar Mart franchise is positioned as accessible starting
-              from approximately ₹15 lakh for the Mini Mart format, making it a
+              from approximately 18.5 for the Mini Mart format, making it a
               comparatively affordable organized supermarket franchise option in
               Kanpur and North India.
             </p>
@@ -556,7 +556,7 @@ const Content = () => {
                   franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
-                  The minimum investment starts from approximately ₹15 lakh for
+                  The minimum investment starts from approximately 18.5 for
                   the Mini Mart format. The final amount varies by store size,
                   stock requirement, interiors, software, franchise fee, and
                   security deposit.

@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "How to Apply for Buyzaar Mart Franchise in Amroha | Step-by-Step Guide",
   description:
-    "Learn how to apply for a Buyzaar Mart franchise in Amroha in 8 simple steps. Documents, application form and total investment from ₹15 lakh. Reply within 24 hours.",
+    "Learn how to apply for a Buyzaar Mart franchise in Amroha in 8 simple steps. Documents, application form and total investment from 18.5. Reply within 24 hours.",
   keywords: [
     "how to apply for buyzaar mart franchise amroha",
     "buyzaar mart franchise apply",
@@ -41,7 +41,7 @@ export const metadata = {
     title:
       "How to Apply for Buyzaar Mart Franchise in Amroha | Step-by-Step Guide",
     description:
-      "Learn how to apply for a Buyzaar Mart franchise in Amroha in 8 simple steps. Documents, application form and total investment from ₹15 lakh. Reply within 24 hours.",
+      "Learn how to apply for a Buyzaar Mart franchise in Amroha in 8 simple steps. Documents, application form and total investment from 18.5. Reply within 24 hours.",
     url: "https://www.thebuyzaarmart.com/amroha/how-to-apply-for-buyzaar-mart-franchise-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +60,7 @@ export const metadata = {
     title:
       "How to Apply for Buyzaar Mart Franchise in Amroha | Step-by-Step Guide",
     description:
-      "Learn how to apply for a Buyzaar Mart franchise in Amroha in 8 simple steps. Documents, application form and total investment from ₹15 lakh. Reply within 24 hours.",
+      "Learn how to apply for a Buyzaar Mart franchise in Amroha in 8 simple steps. Documents, application form and total investment from 18.5. Reply within 24 hours.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

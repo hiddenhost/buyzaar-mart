@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Franchise Opportunity in Aligarh | The Buyzaar Mart",
   description:
-    "Explore the FOCO franchise opportunity in Aligarh with The Buyzaar Mart. Invest from ₹15 lakh in a company-operated grocery retail store and receive returns through a revenue-sharing or fixed-return structure as defined in the franchise agreement.",
+    "Explore the FOCO franchise opportunity in Aligarh with The Buyzaar Mart. Invest from 18.5 in a company-operated grocery retail store and receive returns through a revenue-sharing or fixed-return structure as defined in the franchise agreement.",
   url: "https://www.thebuyzaarmart.com/aligarh/foco-franchise-opportunity-aligarh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart FOCO Franchise",
         description:
-          "A company-operated Mini Mart franchise in Aligarh for residential colonies and dense neighbourhoods, with investment approximately ranging from ₹15 lakh to ₹22 lakh.",
+          "A company-operated Mini Mart franchise in Aligarh for residential colonies and dense neighbourhoods, with investment approximately ranging from 18.5 to ₹22 lakh.",
       },
       {
         "@type": "Offer",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the investment for a FOCO franchise in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Mini Mart starts from ₹15 lakh to ₹22 lakh, Super Mart from about ₹26.63 lakh, and Hyper Mart about ₹90 lakh.",
+        text: "Mini Mart starts from 18.5 to ₹22 lakh, Super Mart from about ₹26.63 lakh, and Hyper Mart about ₹90 lakh.",
       },
     },
     {
@@ -165,7 +165,7 @@ const Content = () => {
                 store.
               </li>
               <li>
-                The franchise starts from ₹15 lakh and is available in Mini
+                The franchise starts from 18.5 and is available in Mini
                 Mart, Super Mart and Hyper Mart formats.
               </li>
               <li>
@@ -384,7 +384,7 @@ const Content = () => {
             </h3>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Investment: Approximately ₹15 lakh to ₹22 lakh.</li>
+              <li>Investment: Approximately 18.5 to ₹22 lakh.</li>
               <li>Best for: Residential colonies and dense neighbourhoods.</li>
               <li>
                 Why choose it: The most accessible entry point for first-time
@@ -665,7 +665,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Low entry point: Franchise investment starts from ₹15 lakh.</li>
+              <li>Low entry point: Franchise investment starts from 18.5.</li>
               <li>
                 Two models: FOCO and FOCM give you a choice based on your time
                 and goals.
@@ -704,7 +704,7 @@ const Content = () => {
                   What is the investment for a FOCO franchise in Aligarh?
                 </h3>
                 <p className="mt-2">
-                  Mini Mart starts from ₹15 lakh to ₹22 lakh, Super Mart from
+                  Mini Mart starts from 18.5 to ₹22 lakh, Super Mart from
                   about ₹26.63 lakh, and Hyper Mart about ₹90 lakh.
                 </p>
               </div>

@@ -74,7 +74,7 @@ const faqSchema = {
       name: "What are the store formats and their prices?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Mini Mart (600 to 1,000 sq. ft.) is approximately ₹15.25 lakh; Super Mart (1,001 to 3,000 sq. ft.) is approximately ₹26.63 lakh; Hyper Mart (3,001 to 8,000 sq. ft.) is approximately ₹78.90 lakh.",
+        text: "Mini Mart (600 to 1,000 sq. ft.) is approximately 18.5; Super Mart (1,001 to 3,000 sq. ft.) is approximately ₹26.63 lakh; Hyper Mart (3,001 to 8,000 sq. ft.) is approximately ₹78.90 lakh.",
       },
     },
     {
@@ -311,7 +311,7 @@ const Content = () => {
               <li><strong>Is training a one-time session or ongoing support?</strong></li>
               <li>It typically starts pre-launch with intensive training and continues with ongoing operational guidance after the store opens, including regular check-ins and refresher sessions for sustained success.</li>
               <li><strong>What are the store formats and their prices in Varanasi?</strong></li>
-              <li>Mini Mart (600 to 1,000 sq. ft.) is approximately ₹15.25 lakh; Super Mart (1,001 to 3,000 sq. ft.) is approximately ₹26.63 lakh; Hyper Mart (3,001 to 8,000 sq. ft.) is approximately ₹78.90 lakh.</li>
+              <li>Mini Mart (600 to 1,000 sq. ft.) is approximately 18.5; Super Mart (1,001 to 3,000 sq. ft.) is approximately ₹26.63 lakh; Hyper Mart (3,001 to 8,000 sq. ft.) is approximately ₹78.90 lakh.</li>
               <li><strong>Is training included in the price, or charged separately?</strong></li>
               <li>Training is bundled into the total investment and franchise fee; it isn't a separate charge — you get comprehensive training at no additional cost with your Varanasi mart franchise.</li>
               <li><strong>Do I need prior retail experience to apply for a mart franchise?</strong></li>

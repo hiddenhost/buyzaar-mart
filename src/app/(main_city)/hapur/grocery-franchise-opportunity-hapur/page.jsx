@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Opportunity in Hapur | Buyzaar Mart",
   description:
-    "Explore a grocery franchise opportunity in Hapur with The Buyzaar Mart. Wide range, POS billing, supply chain and full support. Total investment from ₹15 Lakh.",
+    "Explore a grocery franchise opportunity in Hapur with The Buyzaar Mart. Wide range, POS billing, supply chain and full support. Total investment from 18.5.",
   keywords: [
     "grocery franchise opportunity Hapur",
     "grocery franchise Hapur",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Opportunity in Hapur | Buyzaar Mart",
     description:
-      "Explore a grocery franchise opportunity in Hapur with The Buyzaar Mart. Wide range, POS billing, supply chain and full support. Total investment from ₹15 Lakh.",
+      "Explore a grocery franchise opportunity in Hapur with The Buyzaar Mart. Wide range, POS billing, supply chain and full support. Total investment from 18.5.",
     url: "https://www.thebuyzaarmart.com/hapur/grocery-franchise-opportunity-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +59,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Opportunity in Hapur | Buyzaar Mart",
     description:
-      "Explore a grocery franchise opportunity in Hapur with The Buyzaar Mart. Wide range, POS billing, supply chain and full support. Total investment from ₹15 Lakh.",
+      "Explore a grocery franchise opportunity in Hapur with The Buyzaar Mart. Wide range, POS billing, supply chain and full support. Total investment from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

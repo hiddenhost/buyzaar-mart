@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise in Mathura | Grocery & Supermarket Business Opportunity",
   description:
-    "Explore The Buyzaar Mart franchise opportunity in Mathura — FOCM/FOFO models, investment from ₹15 Lakh, store formats, brand support & how to get started.",
+    "Explore The Buyzaar Mart franchise opportunity in Mathura — FOCM/FOFO models, investment from 18.5, store formats, brand support & how to get started.",
   keywords: [
     "Buyzaar Mart franchise Mathura",
     "grocery franchise opportunity Mathura",
@@ -39,7 +39,7 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise in Mathura | Grocery & Supermarket Business Opportunity",
     description:
-      "Explore The Buyzaar Mart franchise opportunity in Mathura — FOCM/FOCO models, investment from ₹15 Lakh, store formats, brand support & how to get started.",
+      "Explore The Buyzaar Mart franchise opportunity in Mathura — FOCM/FOCO models, investment from 18.5, store formats, brand support & how to get started.",
     url: "https://www.thebuyzaarmart.com/mathura/buyzaar-mart-franchise-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise in Mathura | Grocery & Supermarket Business Opportunity",
     description:
-      "Explore The Buyzaar Mart franchise opportunity in Mathura — FOCM/FOCO models, investment from ₹15 Lakh, store formats, brand support & how to get started.",
+      "Explore The Buyzaar Mart franchise opportunity in Mathura — FOCM/FOCO models, investment from 18.5, store formats, brand support & how to get started.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {
@@ -73,6 +73,6 @@ export default function Page() {
       <Content />
       <Services />
     </>
-  
+
   );
 }

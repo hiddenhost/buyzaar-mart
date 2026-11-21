@@ -37,7 +37,7 @@ const faqSchema = {
       name: "What is the minimum investment required to open a retail franchise in Delhi-NCR with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The minimum investment for a Buyzaar Mart franchise starts at ₹15 Lakh. This includes brand licensing, store setup support, POS system integration, and initial supply chain setup. Franchisees are responsible for securing and paying rent for their store location, for which the company provides location selection guidance.",
+        text: "The minimum investment for a Buyzaar Mart franchise starts at 18.5. This includes brand licensing, store setup support, POS system integration, and initial supply chain setup. Franchisees are responsible for securing and paying rent for their store location, for which the company provides location selection guidance.",
       },
     },
     {
@@ -263,7 +263,7 @@ const Content = () => {
             </h3>
 
             <p>
-              The Buyzaar Mart franchise package, starting at ₹15 Lakh, is
+              The Buyzaar Mart franchise package, starting at 18.5, is
               designed to give franchisees a complete, ready-to-operate business:
             </p>
 
@@ -388,7 +388,7 @@ const Content = () => {
 
             <p>
               Starting a grocery or supermarket retail franchise in Delhi-NCR
-              with The Buyzaar Mart requires a minimum investment of ₹15 Lakh.
+              with The Buyzaar Mart requires a minimum investment of 18.5.
               This is significantly lower than independent supermarket setups,
               which can require ₹30 to ₹60 Lakh when factoring in branding,
               technology, and supply chain infrastructure.
@@ -538,7 +538,7 @@ const Content = () => {
                     franchise in Delhi-NCR with The Buyzaar Mart?
                   </h3>
                   <p className="mt-2">
-                    The minimum investment starts from ₹15 Lakh and includes store setup,
+                    The minimum investment starts from 18.5 and includes store setup,
                     branding, POS integration, and initial operational support. The
                     franchisee is responsible for arranging the retail space.
                   </p>
@@ -613,7 +613,7 @@ const Content = () => {
               </div>
             </div>
 
-            
+
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
                 Ready to Take the Next Step?

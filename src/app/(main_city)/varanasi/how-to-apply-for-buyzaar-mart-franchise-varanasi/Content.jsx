@@ -82,7 +82,7 @@ const faqSchema = {
       name: "How much investment do I need to apply for a franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from around ₹15.25 lakh for a Mini Mart and increases based on the format you choose.",
+        text: "Investment starts from around 18.5 for a Mini Mart and increases based on the format you choose.",
       },
     },
     {
@@ -203,7 +203,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: approximately 600 to 1,000 sq. ft.; investment starts from around ₹15.25 lakh.</li>
+              <li>Mini Mart: approximately 600 to 1,000 sq. ft.; investment starts from around 18.5.</li>
               <li>Super Mart: approximately 1,001 to 3,000 sq. ft.; investment starts from around ₹26.63 lakh, scaling with size and fit-out.</li>
               <li>Hyper Mart: approximately 3,000 to 8,000 sq. ft.; investment is higher, depending on store size and location.</li>
               <li>Applicants should request a location-specific quote for their exact Varanasi site, since rental rates and fit-out costs vary by locality.</li>
@@ -300,7 +300,7 @@ const Content = () => {
                   Q4. How much investment do I need to apply for a franchise?
                 </h3>
                 <p className="mt-2">
-                  Starting from around ₹15.25 lakh for a Mini Mart, going up based on the format you choose.
+                  Starting from around 18.5 for a Mini Mart, going up based on the format you choose.
                 </p>
               </div>
 

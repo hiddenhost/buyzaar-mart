@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the Mini Mart investment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "About ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.",
+        text: "About ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.",
       },
     },
     {
@@ -165,7 +165,7 @@ const Content = () => {
             </h2>
             <ul className="list-disc space-y-2 pl-6">
               <li><strong>Demand Strength:</strong> Grocery is a daily-need category, and Mathura&apos;s households, hotels, guest houses and pilgrims all buy staples, snacks, beverages and household items.</li>
-              <li><strong>Investment Clarity:</strong> A Mini Mart requires approximately ₹15.25 lakh to ₹25 lakh, covering franchise fee, security deposit, interiors, POS and opening stock. Larger formats scale with space, and the team provides the exact quote.</li>
+              <li><strong>Investment Clarity:</strong> A Mini Mart requires approximately ₹18.5 to ₹26 Lakh, covering franchise fee, security deposit, interiors, POS and opening stock. Larger formats scale with space, and the team provides the exact quote.</li>
               <li><strong>Margin Transparency:</strong> The FOCM model works with a gross margin of roughly 18–20% on sales. Remember that net profit depends on rent, staff, wastage and sales volume.</li>
               <li><strong>Supply Reliability:</strong> The brand works with 50+ FMCG partners, giving franchisees access to popular products through an organised supply system.</li>
               <li><strong>Operational Support:</strong> Store layout, branding, billing and inventory tools and compliance guidance for FSSAI, GST and MSME requirements help new owners avoid common mistakes.</li>
@@ -361,7 +361,7 @@ const Content = () => {
                   Q2. What is the Mini Mart investment?
                 </h3>
                 <p className="mt-2">
-                  About ₹15.25 lakh to ₹25 lakh. Confirm the exact quote with the team.
+                  About ₹18.5 to ₹26 Lakh. Confirm the exact quote with the team.
                 </p>
               </div>
 

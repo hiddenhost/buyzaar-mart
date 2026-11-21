@@ -191,7 +191,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart Format</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Store size typically ranges from 600 to 1000 square feet, making it suitable for residential colony markets, streets near apartment complexes, and smaller commercial pockets.</li>
-              <li>Investment for a Mini Mart under The Buyzaar Mart&apos;s franchise system starts from approximately ₹15.25 lakh.</li>
+              <li>Investment for a Mini Mart under The Buyzaar Mart&apos;s franchise system starts from approximately 18.5.</li>
               <li>This investment typically covers the franchise fee (inclusive of 18% GST), initial stock, interior fit-out, POS software fee, and security deposit.</li>
               <li>Best suited for compact residential lanes and neighbourhood locations where a smaller footprint still captures consistent daily demand.</li>
             </ul>

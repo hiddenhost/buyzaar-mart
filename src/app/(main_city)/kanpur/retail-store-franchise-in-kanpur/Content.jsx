@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the total investment required to open a retail store franchise in Kanpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The Buyzaar Mart franchise starts at ₹15 Lakh, making it one of the most affordable organized supermarket franchise opportunities available in India.",
+        text: "The Buyzaar Mart franchise starts at 18.5, making it one of the most affordable organized supermarket franchise opportunities available in India.",
       },
     },
     {
@@ -159,7 +159,7 @@ const Content = () => {
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
-                <strong>Low Investment, High Potential:</strong> The Buyzaar Mart franchise is available starting at just ₹15 Lakh, making it one of the most affordable organized retail franchise opportunities in India.
+                <strong>Low Investment, High Potential:</strong> The Buyzaar Mart franchise is available starting at just 18.5, making it one of the most affordable organized retail franchise opportunities in India.
               </li>
               <li>
                 <strong>Complete Store Setup Support:</strong> From store layout and interior design to fixture installation and initial stock arrangement, The Buyzaar Mart team handles end-to-end store setup.
@@ -249,7 +249,7 @@ const Content = () => {
             </p>
 
             <p>
-              The choice, especially at a starting investment as low as ₹15 Lakh, is clear for anyone serious about building a sustainable retail business in Kanpur.
+              The choice, especially at a starting investment as low as 18.5, is clear for anyone serious about building a sustainable retail business in Kanpur.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -274,7 +274,7 @@ const Content = () => {
                   What is the total investment required to open a retail store franchise in Kanpur with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-                  The Buyzaar Mart franchise starts at ₹15 Lakh, making it one of the most affordable organized supermarket franchise opportunities available in India.
+                  The Buyzaar Mart franchise starts at 18.5, making it one of the most affordable organized supermarket franchise opportunities available in India.
                 </p>
               </div>
 
@@ -343,7 +343,7 @@ const Content = () => {
               </p>
 
               <p className="mb-4 text-gray-800">
-                With a starting investment of just ₹15 Lakh, end-to-end setup support, an inventory assurance policy, hyper-local marketing, and a company that genuinely cares about your success, there has never been a better time to start.
+                With a starting investment of just 18.5, end-to-end setup support, an inventory assurance policy, hyper-local marketing, and a company that genuinely cares about your success, there has never been a better time to start.
               </p>
 
               <p className="mb-4 font-semibold text-gray-800">

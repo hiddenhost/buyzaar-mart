@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Household Store Franchise in Kanpur - The Buyzaar Mart",
   description:
-    "Household store franchise in Kanpur with The Buyzaar Mart. Start a supermarket and household goods store with ₹15 Lakh investment under the FOCM model, with inventory assurance, setup support, and hyper-local marketing.",
+    "Household store franchise in Kanpur with The Buyzaar Mart. Start a supermarket and household goods store with 18.5 investment under the FOCM model, with inventory assurance, setup support, and hyper-local marketing.",
   url: "https://www.thebuyzaarmart.com/kanpur/household-store-franchise-in-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +34,7 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The franchise starts from ₹15 Lakh. The total investment varies depending on the store format, such as the Mini Mart, Super Mart, or Hyper Mart.",
+        text: "The franchise starts from 18.5. The total investment varies depending on the store format, such as the Mini Mart, Super Mart, or Hyper Mart.",
       },
     },
     {
@@ -128,7 +128,7 @@ const Content = () => {
               The Buyzaar Mart, headquartered in Noida and expanding
               aggressively across North India, offers exactly that &mdash; a
               proven supermarket and household goods franchise model starting
-              from just ₹15 Lakh. Whether you are a first-time entrepreneur, a
+              from just 18.5. Whether you are a first-time entrepreneur, a
               retired professional, or someone looking for a side business with
               real income potential, The Buyzaar Mart franchise is built for
               people like you.
@@ -379,7 +379,7 @@ const Content = () => {
 
             <p>
               One of the biggest advantages of The Buyzaar Mart franchise is its
-              relatively low entry point. Starting from ₹15 Lakh, this makes it
+              relatively low entry point. Starting from 18.5, this makes it
               one of the most accessible organised retail franchise
               opportunities in Uttar Pradesh.
             </p>
@@ -546,7 +546,7 @@ const Content = () => {
                 Q1. What is the minimum investment required to open a Buyzaar
                 Mart franchise in Kanpur?
               </strong>{" "}
-              The franchise starts from ₹15 Lakh. The total investment varies
+              The franchise starts from 18.5. The total investment varies
               depending on the store format, such as the Mini Mart.
             </p>
 

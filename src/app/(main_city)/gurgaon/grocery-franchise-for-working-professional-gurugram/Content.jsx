@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise for Working Professionals in Gurugram | Buyzaar Mart",
   description:
-    "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from ₹15 Lakh. Apply now!",
+    "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5. Apply now!",
   url: "https://www.thebuyzaarmart.com/gurgaon/grocery-franchise-for-working-professional-gurugram",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +66,7 @@ const faqSchema = {
       name: "What is the starting investment for a Mini Mart in Gurugram?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Investment starts from approximately ₹15.25 lakh, covering stock, interior, software fee, franchise fee, and security deposit.",
+        text: "Investment starts from approximately 18.5, covering stock, interior, software fee, franchise fee, and security deposit.",
       },
     },
     {
@@ -189,7 +189,7 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart offers three franchise formats, letting a working professional choose based on available budget and preferred level of exposure to the business:</li>
-              <li>Mini Mart: Store size approximately 600 to 1,000 sq. ft., best suited for residential society ground floors, colony-facing shops, and neighbourhood-level commercial units. Investment starting point: from approximately ₹15.25 lakh, covering stock, interior setup, software fee, franchise fee, and security deposit. Best fit in Gurugram: housing society retail units along Dwarka Expressway sectors, inner colony lanes in Palam Vihar and South City, DLF Phase society market units, and Sector 56–58 colony-facing commercial spaces. Ideal entry point for a working professional testing the retail category with a lower initial commitment.</li>
+              <li>Mini Mart: Store size approximately 600 to 1,000 sq. ft., best suited for residential society ground floors, colony-facing shops, and neighbourhood-level commercial units. Investment starting point: from approximately 18.5, covering stock, interior setup, software fee, franchise fee, and security deposit. Best fit in Gurugram: housing society retail units along Dwarka Expressway sectors, inner colony lanes in Palam Vihar and South City, DLF Phase society market units, and Sector 56–58 colony-facing commercial spaces. Ideal entry point for a working professional testing the retail category with a lower initial commitment.</li>
               <li>Super Mart: Store size approximately 1,000 to 3,000 sq. ft., best suited for colony chowks, township commercial blocks, and main residential sector road locations, offering a fuller daily-needs product range. Best fit in Gurugram: Dwarka Expressway township commercial blocks (Sectors 82–102), Southern Peripheral Road commercial units, Golf Course Extension commercial areas, and Palam Vihar main market. Suited to professionals with a higher investment appetite seeking stronger revenue potential from a wider catchment.</li>
               <li>Hyper Mart: Store size 3,000 sq. ft. and above, best suited for high-footfall main road and commercial market locations, positioned as the primary organised daily-needs destination for its zone. Best fit in Gurugram: NH-48 main road frontages, Sohna Road commercial corridor, Golf Course Road main market areas, and Sector 14/45 main markets. A large-format option for investors seeking scale, though it demands the highest capital commitment among the three formats.</li>
               <li>Regardless of format, the brand's team evaluates a proposed Gurugram site — catchment population, daily footfall, competition, and physical suitability — before recommending the right format and providing a personalised investment breakdown.</li>
@@ -292,7 +292,7 @@ const Content = () => {
                   Q2. What is the starting investment for a Mini Mart in Gurugram?
                 </h3>
                 <p className="mt-2">
-                  Investment starts from approximately ₹15.25 lakh, covering stock, interior, software fee, franchise fee, and security deposit.
+                  Investment starts from approximately 18.5, covering stock, interior, software fee, franchise fee, and security deposit.
                 </p>
               </div>
 

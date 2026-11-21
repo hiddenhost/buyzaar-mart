@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Top Franchise Opportunity in Kanpur | The Buyzaar Mart FOCM Model",
   description:
-    "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from ₹15 Lakh. Full setup, supply chain, POS & ongoing support included. Apply now.",
+    "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5. Full setup, supply chain, POS & ongoing support included. Apply now.",
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
@@ -15,7 +15,7 @@ export const metadata = {
     title:
       "Top Franchise Opportunity in Kanpur | The Buyzaar Mart FOCM Model",
     description:
-      "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from ₹15 Lakh. Full setup, supply chain, POS & ongoing support included. Apply now.",
+      "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5. Full setup, supply chain, POS & ongoing support included. Apply now.",
     url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -34,7 +34,7 @@ export const metadata = {
     title:
       "Top Franchise Opportunity in Kanpur | The Buyzaar Mart FOCM Model",
     description:
-      "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from ₹15 Lakh. Full setup, supply chain, POS & ongoing support included. Apply now.",
+      "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5. Full setup, supply chain, POS & ongoing support included. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

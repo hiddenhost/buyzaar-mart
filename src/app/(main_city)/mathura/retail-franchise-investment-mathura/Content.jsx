@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the minimum investment needed for a Buyzaar Mart franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Franchise investment starts at approximately ₹15 lakh for a Mini Mart format, varying by location and store size.",
+        text: "Franchise investment starts at approximately 18.5 for a Mini Mart format, varying by location and store size.",
       },
     },
     {
@@ -171,7 +171,7 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart, headquartered in Noida, is one of India&apos;s fast-growing neighbourhood supermarket franchise networks, built around the promise of &quot;अपना बाजार – बचत का साथ, Quality की बात.&quot;</li>
               <li>The brand already operates stores across Uttar Pradesh and Uttarakhand, including in Kanpur, Noida, Gangoh, Behat (Saharanpur), and Bahadrabad (Haridwar), and is actively expanding into new UP markets like Mathura.</li>
-              <li>Franchise investment starts from approximately ₹15 lakh, making it accessible for first-generation entrepreneurs and small business owners.</li>
+              <li>Franchise investment starts from approximately 18.5, making it accessible for first-generation entrepreneurs and small business owners.</li>
               <li>Every store gets a uniform, professional brand identity — consistent signage, layout, and store design across locations.</li>
               <li>Partnerships with 50+ leading FMCG brands, including names like Britannia, Dabur, HUL, ITC, Nestlé, Patanjali, Parle, Godrej, and Coca-Cola, ensure a reliable and diverse product range.</li>
               <li>Stores are equipped with POS-enabled billing systems and a built-in Customer Relationship Management (CRM) setup for smarter, data-driven store operations.</li>
@@ -207,7 +207,7 @@ const Content = () => {
               <li>Interior &amp; Store Setup: Covers racking, branding, signage, lighting, and store fit-out based on the chosen format.</li>
               <li>POS &amp; Software Fee: Covers billing systems, inventory software, and CRM tools.</li>
               <li>Opening Stock: Initial inventory investment to stock the store with FMCG, grocery, and daily essential products.</li>
-              <li>Total Estimated Investment (Mini Mart, 600 sq. ft.): Roughly in the ₹15.25 lakh–₹25 lakh range, consistent with figures seen in other UP city launches.</li>
+              <li>Total Estimated Investment (Mini Mart, 600 sq. ft.): Roughly in the 18.5–₹25 lakh range, consistent with figures seen in other UP city launches.</li>
               <li>Super Mart and Hyper Mart formats in Mathura would scale upward from this base, proportionate to store size and stock volume — again, best confirmed directly with the franchise team before finalising a location.</li>
               <li>Ongoing costs to budget for include rent, staff salaries, electricity, and periodic restocking, which are separate from the one-time setup investment.</li>
             </ul>
@@ -246,7 +246,7 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Low entry barrier: Investment starting near ₹15 lakh is significantly more accessible than many national supermarket chains.</li>
+              <li>Low entry barrier: Investment starting near 18.5 is significantly more accessible than many national supermarket chains.</li>
               <li>Full operational support: From KYC and legal documentation to store launch marketing, the brand handles the heavy lifting so first-time entrepreneurs aren&apos;t left to figure things out alone.</li>
               <li>Proven UP presence: With running stores already established in nearby regions like Kanpur and Noida, the brand has demonstrated operational familiarity with Uttar Pradesh&apos;s retail environment.</li>
               <li>Modern retail systems: POS billing and CRM tools help franchise owners move away from the &quot;chaos to smart retail&quot; approach — organised inventory, better demand prediction, and reduced stock losses.</li>
@@ -281,7 +281,7 @@ const Content = () => {
                   1. What is the minimum investment needed for a Buyzaar Mart franchise in Mathura?
                 </h3>
                 <p className="mt-2">
-                  Franchise investment starts at approximately ₹15 lakh for a Mini Mart format, varying by location and store size.
+                  Franchise investment starts at approximately 18.5 for a Mini Mart format, varying by location and store size.
                 </p>
               </div>
 

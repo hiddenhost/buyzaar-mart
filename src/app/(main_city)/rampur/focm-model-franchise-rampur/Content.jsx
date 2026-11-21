@@ -31,7 +31,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600–1,000 sq ft)",
         description:
-          "Compact entry format with a total investment typically between ₹15 lakh and ₹20 lakh, covering personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.",
+          "Compact entry format with a total investment typically between 18.5 and ₹20 lakh, covering personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.",
       },
       {
         "@type": "Offer",
@@ -67,7 +67,7 @@ const faqSchema = {
       name: "What is the total investment for FOCM in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart typically needs ₹15 lakh to ₹20 lakh in total, depending on size and setup.",
+        text: "A Mini Mart typically needs 18.5 to ₹20 lakh in total, depending on size and setup.",
       },
     },
     {
@@ -141,7 +141,7 @@ const Content = () => {
                 FOCM stands for Franchise Owned Company Managed, and it is the main model through which The Buyzaar Mart helps entrepreneurs open Mini Mart, Super Mart and Hyper Mart stores across India.
               </li>
               <li>
-                A Buyzaar Mart Mini Mart typically needs a total investment of ₹15 lakh to ₹20 lakh, depending on store size, location and the work required in the premises.
+                A Buyzaar Mart Mini Mart typically needs a total investment of 18.5 to ₹20 lakh, depending on store size, location and the work required in the premises.
               </li>
               <li>
                 This page explains the FOCM model step by step, so you can understand what you own, what the company does, which costs you manage and how to start in Rampur.
@@ -331,7 +331,7 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Total Investment</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                For a Mini Mart of 600 to 1,000 sq ft, the total investment typically ranges from ₹15 lakh to ₹20 lakh.
+                For a Mini Mart of 600 to 1,000 sq ft, the total investment typically ranges from 18.5 to ₹20 lakh.
               </li>
               <li>
                 Super Mart and Hyper Mart formats need a higher total, and the exact figure is calculated for your carpet area and location.
@@ -583,7 +583,7 @@ const Content = () => {
                   What is the total investment for FOCM in Rampur?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart typically needs ₹15 lakh to ₹20 lakh in total, depending on size and setup.
+                  A Mini Mart typically needs 18.5 to ₹20 lakh in total, depending on size and setup.
                 </p>
               </div>
 
@@ -640,7 +640,7 @@ const Content = () => {
                   The Buyzaar Mart offers a FOCM model franchise in Rampur, where you own the store while the company manages systems, POS and training.
                 </li>
                 <li>
-                  A Mini Mart typically needs a total investment of ₹15 lakh to ₹20 lakh, depending on store size and setup.
+                  A Mini Mart typically needs a total investment of 18.5 to ₹20 lakh, depending on store size and setup.
                 </li>
                 <li>
                   Submit an inquiry on thebuyzaarmart.com or call{" "}

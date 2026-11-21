@@ -6,7 +6,7 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Branded Grocery Franchise Hapur | The Buyzaar Mart",
   description:
-    "Start a branded grocery franchise in Hapur with The Buyzaar Mart. 50+ FMCG brand partners, uniform store identity, local marketing and training. Total investment from ₹15 lakh.",
+    "Start a branded grocery franchise in Hapur with The Buyzaar Mart. 50+ FMCG brand partners, uniform store identity, local marketing and training. Total investment from 18.5.",
   keywords: [
     "branded grocery franchise hapur",
     "grocery franchise hapur",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Branded Grocery Franchise Hapur | The Buyzaar Mart",
     description:
-      "Start a branded grocery franchise in Hapur with The Buyzaar Mart. 50+ FMCG brand partners, uniform store identity, local marketing and training. Total investment from ₹15 lakh.",
+      "Start a branded grocery franchise in Hapur with The Buyzaar Mart. 50+ FMCG brand partners, uniform store identity, local marketing and training. Total investment from 18.5.",
     url: "https://www.thebuyzaarmart.com/hapur/branded-grocery-franchise-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +56,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Branded Grocery Franchise Hapur | The Buyzaar Mart",
     description:
-      "Start a branded grocery franchise in Hapur with The Buyzaar Mart. 50+ FMCG brand partners, uniform store identity, local marketing and training. Total investment from ₹15 lakh.",
+      "Start a branded grocery franchise in Hapur with The Buyzaar Mart. 50+ FMCG brand partners, uniform store identity, local marketing and training. Total investment from 18.5.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

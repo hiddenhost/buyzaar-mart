@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise in Amroha | Buyzaar Mart Franchise",
   description:
-    "Get a grocery franchise in Amroha with Buyzaar Mart. Start from ₹15 lakh total investment with training, supply chain and POS support. Apply today.",
+    "Get a grocery franchise in Amroha with Buyzaar Mart. Start from 18.5 total investment with training, supply chain and POS support. Apply today.",
   url: "https://www.thebuyzaarmart.com/amroha/how-to-get-grocery-franchise-in-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +58,7 @@ const faqSchema = {
       name: "How much total investment is needed for a grocery franchise in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart starts from a total of ₹15 lakh, generally within ₹15 lakh to ₹20 lakh, depending on size, interior and location.",
+        text: "A Mini Mart starts from a total of 18.5, generally within 18.5 to ₹20 lakh, depending on size, interior and location.",
       },
     },
     {
@@ -207,7 +207,7 @@ const Content = () => {
 
             <h3 className="font-medium text-gray-900">Mini Mart Total Investment</h3>
             <ul className="list-disc space-y-2 pl-6">
-              <li>The Buyzaar Mart grocery franchise starts from a total investment of ₹15 lakh, and a Mini Mart of 600–1000 sq ft generally falls in the ₹15 lakh to ₹20 lakh total range.</li>
+              <li>The Buyzaar Mart grocery franchise starts from a total investment of 18.5, and a Mini Mart of 600–1000 sq ft generally falls in the 18.5 to ₹20 lakh total range.</li>
               <li>This total covers the full set of store needs, including opening stock, interior, billing software, franchise fee with GST and security deposit, so you can plan one clear budget.</li>
               <li>The final total depends on store size, shop condition, interior work required and location.</li>
             </ul>
@@ -375,7 +375,7 @@ const Content = () => {
                   How much total investment is needed for a grocery franchise in Amroha?
                 </h3>
                 <p className="mt-2">
-                  A Mini Mart starts from a total of ₹15 lakh, generally within ₹15 lakh to ₹20 lakh, depending on size, interior and location.
+                  A Mini Mart starts from a total of 18.5, generally within 18.5 to ₹20 lakh, depending on size, interior and location.
                 </p>
               </div>
 

@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Mart Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-    "FOCO mart franchise in Gorakhpur from ₹15 Lakh. Compare Mini, Super and Hyper Mart formats. The Buyzaar Mart operates the store while you own it.",
+    "FOCO mart franchise in Gorakhpur from 18.5. Compare Mini, Super and Hyper Mart formats. The Buyzaar Mart operates the store while you own it.",
   url: "https://www.thebuyzaarmart.com/gorakhpur/foco-mart-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -74,7 +74,7 @@ const faqSchema = {
       name: "How much do I need to invest?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from ₹15 Lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
+        text: "It starts from 18.5, and a Mini Mart generally goes up to ₹22 Lakh.",
       },
     },
     {
@@ -153,7 +153,7 @@ const Content = () => {
                 Under FOCO you provide the capital and the premises, and The
                 Buyzaar Mart operates the store, including staff salaries,
                 electricity, inventory, marketing, and daily running. Franchise
-                investment starts from ₹15 Lakh, and the stated return is about
+                investment starts from 18.5, and the stated return is about
                 10% revenue sharing on monthly sales.
               </li>
               <li>
@@ -215,7 +215,7 @@ const Content = () => {
                 dairy, personal care, and household products chosen for the
                 highest-frequency daily needs.
               </li>
-              
+
               <li>
                 <span className="font-semibold">Best for:</span> Shop owners with
                 a compact space who want a lower capital commitment.
@@ -257,10 +257,10 @@ const Content = () => {
                 dairy, fresh produce, beverages, frozen foods, stationery, toys,
                 pet care, household items, and devotional products.
               </li>
-              
+
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Matching Your Shop Size to a Format
@@ -296,7 +296,7 @@ const Content = () => {
               </li>
             </ul>
 
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Returns Under FOCO: What 10% Revenue Sharing Means
@@ -307,7 +307,7 @@ const Content = () => {
                 The stated return is about 10% revenue sharing on monthly sales,
                 so a busier store generally means a larger return.
               </li>
-              
+
               <li>
                 Revenue sharing is based on sales, not profit, so ask exactly what
                 the percentage applies to, how it is calculated, and when it is
@@ -601,7 +601,7 @@ const Content = () => {
                   How much do I need to invest?
                 </h3>
                 <p className="mt-2">
-                  It starts from ₹15 Lakh, and a Mini Mart generally goes up to
+                  It starts from 18.5, and a Mini Mart generally goes up to
                   ₹22 Lakh.
                 </p>
               </div>
@@ -675,7 +675,7 @@ const Content = () => {
                   format recommendation.
                 </li>
                 <li>
-                  Investment begins from approximately ₹15 Lakh, subject to the
+                  Investment begins from approximately 18.5, subject to the
                   selected mart format, premises condition, site assessment, and
                   final agreement terms.
                 </li>

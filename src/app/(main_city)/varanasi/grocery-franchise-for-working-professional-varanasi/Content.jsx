@@ -76,7 +76,7 @@ const faqSchema = {
       name: "How much investment is required?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Entry-level investments for smaller formats have started around ₹15.25 lakh, scaling higher for larger formats.",
+        text: "Entry-level investments for smaller formats have started around 18.5, scaling higher for larger formats.",
       },
     },
     {
@@ -276,7 +276,7 @@ const Content = () => {
               <li>Stock: Initial inventory of groceries, FMCG, and daily essentials.</li>
               <li>Interior and setup: Shelving, branding, refrigeration, and store fit-out.</li>
               <li>Security deposit: A refundable amount held as part of the agreement.</li>
-              <li>Entry-level investments for smaller formats have started around ₹15 lakh in similar markets, with larger formats requiring a higher budget.</li>
+              <li>Entry-level investments for smaller formats have started around 18.5 in similar markets, with larger formats requiring a higher budget.</li>
               <li>Under FOCO, it is important to clarify the exact revenue-sharing percentage or fixed-return structure before finalizing the investment.</li>
               <li>A location-specific quote can help determine the most accurate total investment for the selected store size.</li>
             </ul>
@@ -407,7 +407,7 @@ const Content = () => {
               <div>
                 <h3 className="font-medium text-gray-900">How much investment is required?</h3>
                 <p className="mt-2">
-                  Entry-level investments for smaller formats have started around ₹15.25 lakh, scaling higher for larger formats.
+                  Entry-level investments for smaller formats have started around 18.5, scaling higher for larger formats.
                 </p>
               </div>
 

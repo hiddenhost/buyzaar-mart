@@ -7,7 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise Investment in Amroha | The Buyzaar Mart",
   description:
-    "Grocery franchise investment in Amroha starts from ₹15 lakh total with The Buyzaar Mart. Get branding, POS billing, managed supply, training and 18-20% gross margin.",
+    "Grocery franchise investment in Amroha starts from 18.5 total with The Buyzaar Mart. Get branding, POS billing, managed supply, training and 18-20% gross margin.",
   url: "https://www.thebuyzaarmart.com/amroha/grocery-franchise-investment-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -32,7 +32,7 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-          "A 600 to 1000 sq ft grocery franchise format for Amroha, starting from a total investment of ₹15 lakh.",
+          "A 600 to 1000 sq ft grocery franchise format for Amroha, starting from a total investment of 18.5.",
       },
       {
         "@type": "Offer",
@@ -59,7 +59,7 @@ const faqSchema = {
       name: "What is the grocery franchise investment in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It starts from a total of ₹15 lakh, and a Mini Mart generally falls within ₹15 lakh to ₹20 lakh depending on size and location.",
+        text: "It starts from a total of 18.5, and a Mini Mart generally falls within 18.5 to ₹20 lakh depending on size and location.",
       },
     },
     {
@@ -194,9 +194,9 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart grocery franchise starts from a total
-                investment of ₹15 lakh, and the brand&apos;s FAQ page says a
+                investment of 18.5, and the brand&apos;s FAQ page says a
                 Mini Mart of 600 to 1000 sq ft generally needs a total between
-                ₹15 lakh and ₹20 lakh.
+                18.5 and ₹20 lakh.
               </li>
               <li>
                 The final total depends on store size, arrangement, location and
@@ -717,8 +717,8 @@ const Content = () => {
                   What is the grocery franchise investment in Amroha?
                 </h3>
                 <p className="mt-2">
-                  It starts from a total of ₹15 lakh, and a Mini Mart generally
-                  falls within ₹15 lakh to ₹20 lakh depending on size and
+                  It starts from a total of 18.5, and a Mini Mart generally
+                  falls within 18.5 to ₹20 lakh depending on size and
                   location.
                 </p>
               </div>
@@ -787,7 +787,7 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Start a Buyzaar Mart grocery franchise in Amroha with a total
-                  investment starting from ₹15 lakh.
+                  investment starting from 18.5.
                 </li>
                 <li>
                   Get branding, POS billing, managed supply, training and

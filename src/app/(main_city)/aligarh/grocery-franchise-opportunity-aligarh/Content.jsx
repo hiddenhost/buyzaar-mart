@@ -58,7 +58,11 @@ const faqSchema = {
       name: "How much does a grocery franchise cost in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A Mini Mart indicates about 18.5 to ₹20 lakh. Larger formats cost more.",
+=======
+        text: "A Mini Mart indicates about 18.5 Lakh to ₹20 lakh. Larger formats cost more.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -271,7 +275,11 @@ const Content = () => {
                 The practical starting point for first-time owners. A minimum of 600 sq ft of carpet area is required for this format.
               </li>
               <li>
+<<<<<<< HEAD
                 The brand indicates total investment of about 18.5 to ₹20 lakh, depending on store size, arrangement and location.
+=======
+                The brand indicates total investment of about 18.5 Lakh to ₹20 lakh, depending on store size, arrangement and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
             </ul>
 
@@ -521,7 +529,11 @@ const Content = () => {
                   How much does a grocery franchise cost in Aligarh?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A Mini Mart indicates about 18.5 to ₹20 lakh. Larger formats cost more.
+=======
+                  A Mini Mart indicates about 18.5 Lakh to ₹20 lakh. Larger formats cost more.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

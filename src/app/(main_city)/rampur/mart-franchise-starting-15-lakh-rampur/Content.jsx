@@ -6,9 +6,15 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+<<<<<<< HEAD
   name: "Mart Franchise Starting at 18.5 in Rampur | Buyzaar Mart",
   description:
     "Start a mart franchise from 18.5 in Rampur with The Buyzaar Mart. Get a first-year roadmap, POS billing, supply chain, training and marketing support. Apply now.",
+=======
+  name: "Mart Franchise Starting at 18.5 Lakh in Rampur | Buyzaar Mart",
+  description:
+    "Start a mart franchise from 18.5 Lakh in Rampur with The Buyzaar Mart. Get a first-year roadmap, POS billing, supply chain, training and marketing support. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/rampur/mart-franchise-starting-15-lakh-rampur",
   telephone: "+919217991727",
   address: {
@@ -31,7 +37,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600 to 1,000 sq ft)",
         description:
+<<<<<<< HEAD
           "Covers grocery and staples, snacks and biscuits, beverages, personal care, home care and hygiene, and stationery. Total investment starts at 18.5 and generally ranges between 18.5 and ₹20 lakh.",
+=======
+          "Covers grocery and staples, snacks and biscuits, beverages, personal care, home care and hygiene, and stationery. Total investment starts at 18.5 Lakh and generally ranges between 18.5 Lakh and ₹20 lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -56,10 +66,17 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "What is the total investment for a mart franchise starting at 18.5 in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "A Buyzaar Mart Mini Store starts at 18.5 in total and generally ranges up to ₹20 lakh, depending on size, layout and location.",
+=======
+      name: "What is the total investment for a mart franchise starting at 18.5 Lakh in Rampur?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "A Buyzaar Mart Mini Store starts at 18.5 Lakh in total and generally ranges up to ₹20 lakh, depending on size, layout and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -137,18 +154,30 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
+<<<<<<< HEAD
               Mart Franchise Starting at 18.5 in Rampur: Your First-Year Roadmap with The Buyzaar Mart
+=======
+              Mart Franchise Starting at 18.5 Lakh in Rampur: Your First-Year Roadmap with The Buyzaar Mart
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h1>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               Why a Mart Franchise Starting at 18.5 Makes Sense in Rampur
+=======
+              Why a Mart Franchise Starting at 18.5 Lakh Makes Sense in Rampur
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 A mart franchise starting at 18.5 gives you entry into organised retail at a budget that many local entrepreneurs, traders and families can plan for, without needing a large corporate-style investment.
+=======
+                A mart franchise starting at 18.5 Lakh gives you entry into organised retail at a budget that many local entrepreneurs, traders and families can plan for, without needing a large corporate-style investment.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 Rampur shoppers increasingly look for clean, well-lit stores with fixed pricing, accurate billing and a wide choice of branded products, which is exactly what a franchise mart delivers.
@@ -187,13 +216,21 @@ const Content = () => {
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               The Total Investment for a Mart Franchise Starting at 18.5
+=======
+              The Total Investment for a Mart Franchise Starting at 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 A Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts at a total investment of 18.5 and generally falls between 18.5 and ₹20 lakh, based on store size, arrangement, location and the work needed at the premises.
+=======
+                A Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts at a total investment of 18.5 Lakh and generally falls between 18.5 Lakh and ₹20 lakh, based on store size, arrangement, location and the work needed at the premises.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 Bigger formats such as Super Mart and Hyper Mart require a higher total investment, which the team confirms after reviewing your site and area.
@@ -535,10 +572,17 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
+<<<<<<< HEAD
                   What is the total investment for a mart franchise starting at 18.5 in Rampur?
                 </h3>
                 <p className="mt-2">
                   A Buyzaar Mart Mini Store starts at 18.5 in total and generally ranges up to ₹20 lakh, depending on size, layout and location.
+=======
+                  What is the total investment for a mart franchise starting at 18.5 Lakh in Rampur?
+                </h3>
+                <p className="mt-2">
+                  A Buyzaar Mart Mini Store starts at 18.5 Lakh in total and generally ranges up to ₹20 lakh, depending on size, layout and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 
@@ -620,16 +664,27 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
                 Start Your Mart Franchise in Rampur from 18.5
+=======
+                Start Your Mart Franchise in Rampur from 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </h2>
 
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
+<<<<<<< HEAD
                   The Buyzaar Mart offers a mart franchise starting at 18.5 in Rampur, with a first-year roadmap, POS billing, supply chain, training and marketing support.
                 </li>
                 <li>
                   Mini Store total investment generally ranges between 18.5 and ₹20 lakh, depending on store size, layout and location.
+=======
+                  The Buyzaar Mart offers a mart franchise starting at 18.5 Lakh in Rampur, with a first-year roadmap, POS billing, supply chain, training and marketing support.
+                </li>
+                <li>
+                  Mini Store total investment generally ranges between 18.5 Lakh and ₹20 lakh, depending on store size, layout and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Submit an inquiry on thebuyzaarmart.com or call{" "}

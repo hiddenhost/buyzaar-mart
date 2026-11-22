@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Grocery Franchise in Hapur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for the best grocery franchise in Hapur? The Buyzaar Mart offers POS billing, supply chain and full support. Total investment from 18.5. Apply now.",
+=======
+    "Looking for the best grocery franchise in Hapur? The Buyzaar Mart offers POS billing, supply chain and full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "best grocery franchise Hapur",
     "best grocery franchise in Hapur",
@@ -18,7 +22,7 @@ export const metadata = {
     "supermarket franchise Hapur",
     "retail franchise Hapur",
     "low investment grocery franchise Hapur",
-    "grocery franchise from 15 lakh",
+    "grocery franchise from 18.5 lakh",
     "profitable grocery franchise Hapur",
     "FMCG store franchise Hapur",
     "mini mart franchise Hapur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Best Grocery Franchise in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best grocery franchise in Hapur? The Buyzaar Mart offers POS billing, supply chain and full support. Total investment from 18.5. Apply now.",
+=======
+      "Looking for the best grocery franchise in Hapur? The Buyzaar Mart offers POS billing, supply chain and full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/hapur/best-grocery-franchise-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Grocery Franchise in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best grocery franchise in Hapur? The Buyzaar Mart offers POS billing, supply chain and full support. Total investment from 18.5. Apply now.",
+=======
+      "Looking for the best grocery franchise in Hapur? The Buyzaar Mart offers POS billing, supply chain and full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -66,7 +66,11 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A Mini Mart format typically starts from 18.5 to ₹20 lakh, depending on store size and location.",
+=======
+        text: "A Mini Mart format typically starts from 18.5 Lakh to ₹20 lakh, depending on store size and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -535,7 +539,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 A Mini Mart franchise typically starts from 18.5 to ₹20
+=======
+                A Mini Mart franchise typically starts from 18.5 Lakh to ₹20
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 lakh.
               </li>
               <li>
@@ -783,7 +791,11 @@ const Content = () => {
                   in Moradabad?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A Mini Mart format typically starts from 18.5 to ₹20
+=======
+                  A Mini Mart format typically starts from 18.5 Lakh to ₹20
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   lakh, depending on store size and location.
                 </p>
               </div>

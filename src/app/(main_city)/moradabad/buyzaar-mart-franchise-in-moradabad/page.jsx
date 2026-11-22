@@ -7,7 +7,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise in Moradabad | Investment & Store Formats",
   description:
+<<<<<<< HEAD
     "Get a Buyzaar Mart franchise in Moradabad. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, FOCM/FOCO models, and full setup support.",
+=======
+    "Get a Buyzaar Mart franchise in Moradabad. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5 Lakh, FOCM/FOCO models, and full setup support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "Buyzaar Mart franchise Moradabad",
     "The Buyzaar Mart Moradabad",
@@ -27,7 +31,11 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise in Moradabad | Investment & Store Formats",
     description:
+<<<<<<< HEAD
       "Get a Buyzaar Mart franchise in Moradabad. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, FOCM/FOCO models, and full setup support.",
+=======
+      "Get a Buyzaar Mart franchise in Moradabad. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5 Lakh, FOCM/FOCO models, and full setup support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/moradabad/buyzaar-mart-franchise-in-moradabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -45,7 +53,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise in Moradabad | Investment & Store Formats",
     description:
+<<<<<<< HEAD
       "Get a Buyzaar Mart franchise in Moradabad. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, FOCM/FOCO models, and full setup support.",
+=======
+      "Get a Buyzaar Mart franchise in Moradabad. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5 Lakh, FOCM/FOCO models, and full setup support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -6,14 +6,18 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Investment in Amroha | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Grocery franchise investment in Amroha starts from 18.5 total with Buyzaar Mart. Get branding, POS billing, managed supply, training and 18-20% gross margin.",
+=======
+    "Grocery franchise investment in Amroha starts from 18.5 Lakh total with Buyzaar Mart. Get branding, POS billing, managed supply, training and 18-20% gross margin.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "grocery franchise investment Amroha",
     "grocery franchise Amroha",
     "Buyzaar Mart franchise Amroha",
     "grocery franchise cost Amroha",
     "total investment grocery franchise",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "grocery franchise under 20 lakh",
     "low investment grocery franchise",
     "supermarket franchise Amroha",
@@ -39,7 +43,11 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Investment in Amroha | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Grocery franchise investment in Amroha starts from 18.5 total with Buyzaar Mart. Get branding, POS billing, managed supply, training and 18-20% gross margin.",
+=======
+      "Grocery franchise investment in Amroha starts from 18.5 Lakh total with Buyzaar Mart. Get branding, POS billing, managed supply, training and 18-20% gross margin.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/amroha/grocery-franchise-investment-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +65,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Investment in Amroha | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Grocery franchise investment in Amroha starts from 18.5 total with Buyzaar Mart. Get branding, POS billing, managed supply, training and 18-20% gross margin.",
+=======
+      "Grocery franchise investment in Amroha starts from 18.5 Lakh total with Buyzaar Mart. Get branding, POS billing, managed supply, training and 18-20% gross margin.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

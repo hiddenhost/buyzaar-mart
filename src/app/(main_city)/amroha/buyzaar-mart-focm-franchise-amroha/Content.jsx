@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart FOCM Franchise in Amroha",
   description:
+<<<<<<< HEAD
     "Start a Buyzaar Mart FOCM franchise in Amroha. You own the store, the company manages systems, training and support. Total investment from 18.5. Call +91 9217991727.",
+=======
+    "Start a Buyzaar Mart FOCM franchise in Amroha. You own the store, the company manages systems, training and support. Total investment from 18.5 Lakh. Call +91 9217991727.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-focm-franchise-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -67,7 +71,11 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "It starts from a total of 18.5, depending on the store format and area.",
+=======
+        text: "It starts from a total of 18.5 Lakh, depending on the store format and area.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -161,7 +169,11 @@ const Content = () => {
               </li>
               <li>
                 The FOCM supermarket franchise starts from a total investment of
+<<<<<<< HEAD
                 18.5, and the final amount depends on the store format and
+=======
+                18.5 Lakh, and the final amount depends on the store format and
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 the area you choose for your Amroha outlet.
               </li>
               <li>
@@ -435,7 +447,11 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart FOCM franchise starts from a total investment
+<<<<<<< HEAD
                 of 18.5, and the final amount depends on the store format
+=======
+                of 18.5 Lakh, and the final amount depends on the store format
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 and the area in square feet that you select.
               </li>
               <li>
@@ -647,7 +663,11 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   It starts from a total of 18.5, depending on the store
+=======
+                  It starts from a total of 18.5 Lakh, depending on the store
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   format and area.
                 </p>
               </div>
@@ -710,7 +730,11 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Own a Buyzaar Mart supermarket in Amroha through the FOCM
+<<<<<<< HEAD
                   franchise model, starting from 18.5.
+=======
+                  franchise model, starting from 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Receive support for store setup, POS billing, inventory,

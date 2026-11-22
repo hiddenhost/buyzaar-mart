@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "The Buyzaar Mart – Low Investment Franchise in Bareilly",
   description:
+<<<<<<< HEAD
     "The Buyzaar Mart offers low investment franchise opportunities in Bareilly with Mini Mart format starting from approximately 18.5, FOCM model, FMCG brand partnerships, POS billing, CRM tools, and end-to-end support.",
+=======
+    "The Buyzaar Mart offers low investment franchise opportunities in Bareilly with Mini Mart format starting from approximately 18.5 Lakh, FOCM model, FMCG brand partnerships, POS billing, CRM tools, and end-to-end support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/bareilly/low-investment-franchise-in-bareilly",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +35,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
+<<<<<<< HEAD
           "Low investment neighbourhood store format for 600 to 1000 square feet starting from approximately 18.5",
+=======
+          "Low investment neighbourhood store format for 600 to 1000 square feet starting from approximately 18.5 Lakh",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -58,7 +66,11 @@ const faqSchema = {
       name: "What is the exact investment required for The Buyzaar Mart low investment franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The Mini Mart total investment ranges from approximately ₹18.5 to ₹26 Lakh, covering franchise fee, refundable security deposit, interior setup, POS software, and opening stock.",
+=======
+        text: "The Mini Mart total investment ranges from approximately 18.5 Lakh to ₹25 Lakh, covering franchise fee, refundable security deposit, interior setup, POS software, and opening stock.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -160,7 +172,11 @@ const Content = () => {
               The Buyzaar Mart satisfies all three conditions cleanly. It is a
               fast-growing, tech-enabled neighbourhood supermarket franchise
               brand from Noida, Uttar Pradesh, offering a Mini Mart franchise
+<<<<<<< HEAD
               format starting from approximately 18.5, backed by a proven
+=======
+              format starting from approximately 18.5 Lakh, backed by a proven
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               FOCM (Franchise Owned Company Managed) model, 50+ FMCG brand
               partnerships, an effective 18&ndash;20% gross margin, and a
               complete end-to-end support ecosystem.
@@ -202,7 +218,11 @@ const Content = () => {
                 </span>{" "}
                 Many first-generation entrepreneurs in Bareilly do not have
                 access to large capital. A low investment franchise requiring
+<<<<<<< HEAD
                 around 18.5 opens the door to business ownership for a much
+=======
+                around 18.5 Lakh opens the door to business ownership for a much
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 larger section of the city than high-investment franchise models
                 do.
               </li>
@@ -254,7 +274,11 @@ const Content = () => {
                   Transparent Investment, No Hidden Costs:
                 </span>{" "}
                 The total Mini Mart investment is positioned in the range of
+<<<<<<< HEAD
                 approximately ₹18.5 to ₹26 Lakh and covers major components
+=======
+                approximately 18.5 Lakh to ₹25 Lakh and covers major components
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 such as franchise fee, security deposit, interior setup,
                 technology, and opening stock.
               </li>
@@ -311,7 +335,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               For a Bareilly entrepreneur investing around 18.5, possibly
+=======
+              For a Bareilly entrepreneur investing around 18.5 Lakh, possibly
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               from personal savings or a bank loan, this operational safety net
               can make a major difference. It helps reduce trial-and-error
               spending and makes the investment work within a structured system
@@ -336,7 +364,11 @@ const Content = () => {
               <li>
                 <span className="font-semibold">Total Investment:</span> ₹15
                 Lakh to ₹25 Lakh, with entry-level positioning from
+<<<<<<< HEAD
                 approximately 18.5.
+=======
+                approximately 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 <span className="font-semibold">Gross Margin:</span> Effective

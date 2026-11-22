@@ -3,12 +3,12 @@ import React from 'react';
 // Adjusted captions to match the comic panels
 const brandImages = [
   {
-    src: "/images/unorganised shop.png", // Replace with your first image path
+    src: "/images/Unorganized Inventory Leads to Losses.png", // Replace with your first image path
     alt: "Messy stock retail scenario",
     caption: "Unorganized inventory leads to losses.", // Left panel: Highlight messy and inefficient stock
   },
   {
-    src: "/images/smart choice.png", // Replace with your second image path
+    src: "/images/Predict Demand, Stock Smart.png", // Replace with your second image path
     alt: "Smart retail scenario Buyzaar Mart",
     caption: "Predict demand. Stock smart. Sell more with Buyzaar Mart.", // Right panel: Smart organized retail
   },

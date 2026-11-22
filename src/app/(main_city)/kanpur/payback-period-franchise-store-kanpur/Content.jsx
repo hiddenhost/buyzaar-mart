@@ -50,7 +50,11 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from 18.5 for a Mini Mart format under the FOCM model. Larger formats and the FOCO model require higher investment depending on store size and location.",
+=======
+        text: "The minimum investment starts from 18.5 Lakh for a Mini Mart format under the FOCM model. Larger formats and the FOCO model require higher investment depending on store size and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -463,7 +467,11 @@ const Content = () => {
                   Kanpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts from 18.5 for a Mini Mart
+=======
+                  The minimum investment starts from 18.5 Lakh for a Mini Mart
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   format under the FOCM model. Larger formats and the FOCO model
                   require higher investment depending on store size and
                   location.

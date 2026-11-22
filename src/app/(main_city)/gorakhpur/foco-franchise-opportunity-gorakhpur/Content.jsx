@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Franchise Opportunity in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore the FOCO franchise opportunity in Gorakhpur from 18.5. Own the store while The Buyzaar Mart operates it with staff, POS billing, inventory, and supply support.",
+=======
+    "Explore the FOCO franchise opportunity in Gorakhpur from 18.5 Lakh. Own the store while The Buyzaar Mart operates it with staff, POS billing, inventory, and supply support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/gorakhpur/foco-franchise-opportunity-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +35,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "FOCO Mini Mart",
         description:
+<<<<<<< HEAD
           "A Franchise Owned, Company Operated Mini Mart format for Gorakhpur residential catchments, generally requiring 600 to 1,000 sq. ft. and starting from 18.5.",
+=======
+          "A Franchise Owned, Company Operated Mini Mart format for Gorakhpur residential catchments, generally requiring 600 to 1,000 sq. ft. and starting from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -82,7 +90,11 @@ const faqSchema = {
       name: "How much do I need to invest?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "It starts from 18.5, and a Mini Mart generally goes up to ₹22 Lakh.",
+=======
+        text: "It starts from 18.5 Lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -172,7 +184,11 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">Entry investment:</span> Starting
+<<<<<<< HEAD
                 from 18.5, with a Mini Mart generally in the ₹15–22 Lakh range
+=======
+                from 18.5 Lakh, with a Mini Mart generally in the ₹15–22 Lakh range
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 depending on size, location, and premises condition.
               </li>
               <li>
@@ -611,7 +627,11 @@ const Content = () => {
                   How much do I need to invest?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   It starts from 18.5, and a Mini Mart generally goes up to
+=======
+                  It starts from 18.5 Lakh, and a Mini Mart generally goes up to
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   ₹22 Lakh.
                 </p>
               </div>
@@ -676,7 +696,11 @@ const Content = () => {
                   or Hyper Mart format recommendation.
                 </li>
                 <li>
+<<<<<<< HEAD
                   Investment begins from approximately 18.5, subject to the
+=======
+                  Investment begins from approximately 18.5 Lakh, subject to the
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   selected format, premises, location assessment, and final
                   agreement terms.
                 </li>

@@ -32,7 +32,7 @@ export const metadata = {
     "trusted grocery franchise brand",
     "grocery business Aligarh",
     "The Buyzaar Mart",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
   ],
   alternates: {
     canonical:

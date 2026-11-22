@@ -4,11 +4,11 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Grocery Franchise Starting from Rs 15 Lakh in Aligarh | The Buyzaar Mart",
+  title: "Grocery Franchise Starting from Rs 18.5 lakh in Aligarh | The Buyzaar Mart",
   description:
-    "Explore a grocery franchise starting from Rs 15 lakh in Aligarh. Learn what's included, store format, licenses, returns & how to get started with The Buyzaar Mart.",
+    "Explore a grocery franchise starting from Rs 18.5 lakh in Aligarh. Learn what's included, store format, licenses, returns & how to get started with The Buyzaar Mart.",
   keywords: [
-    "grocery franchise starting from 15 lakh Aligarh",
+    "grocery franchise starting from 18.5 lakh Aligarh",
     "low investment grocery franchise India",
     "mini mart franchise cost",
     "affordable grocery franchise Aligarh",
@@ -29,9 +29,9 @@ export const metadata = {
   },
   openGraph: {
     title:
-      "Grocery Franchise Starting from Rs 15 Lakh in Aligarh | The Buyzaar Mart",
+      "Grocery Franchise Starting from Rs 18.5 lakh in Aligarh | The Buyzaar Mart",
     description:
-      "Explore a grocery franchise starting from Rs 15 lakh in Aligarh. Learn what's included, store format, licenses, returns & how to get started with The Buyzaar Mart.",
+      "Explore a grocery franchise starting from Rs 18.5 lakh in Aligarh. Learn what's included, store format, licenses, returns & how to get started with The Buyzaar Mart.",
     url: "https://www.thebuyzaarmart.com/aligarh/grocery-franchise-starting-from-15-lakh-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -39,7 +39,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Grocery Franchise Starting from Rs 15 Lakh in Aligarh | The Buyzaar Mart",
+        alt: "Grocery Franchise Starting from Rs 18.5 lakh in Aligarh | The Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -48,9 +48,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Grocery Franchise Starting from Rs 15 Lakh in Aligarh | The Buyzaar Mart",
+      "Grocery Franchise Starting from Rs 18.5 lakh in Aligarh | The Buyzaar Mart",
     description:
-      "Explore a grocery franchise starting from Rs 15 lakh in Aligarh. Learn what's included, store format, licenses, returns & how to get started with The Buyzaar Mart.",
+      "Explore a grocery franchise starting from Rs 18.5 lakh in Aligarh. Learn what's included, store format, licenses, returns & how to get started with The Buyzaar Mart.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

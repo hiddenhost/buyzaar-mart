@@ -6,7 +6,11 @@ const pageTitle =
   "Buyzaar Mart FOCM Franchise in Mathura | Company-Managed Retail Model";
 
 const pageDescription =
+<<<<<<< HEAD
   "Own a Buyzaar Mart FOCM franchise in Mathura — company-managed retail model with balanced involvement, 18.5 investment, and full operational support.";
+=======
+  "Own a Buyzaar Mart FOCM franchise in Mathura — company-managed retail model with balanced involvement, 18.5 Lakh investment, and full operational support.";
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
 
 const contentSections = [
   {
@@ -42,7 +46,11 @@ const contentSections = [
   {
     title: "Investment Required for a FOCM Franchise in Mathura",
     points: [
+<<<<<<< HEAD
       "Minimum investment for a Buyzaar Mart FOCM franchise in Mathura starts from 18.5 onwards, depending on the store format chosen.",
+=======
+      "Minimum investment for a Buyzaar Mart FOCM franchise in Mathura starts from 18.5 Lakh onwards, depending on the store format chosen.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       "Investment components typically include stock, interior setup, POS or software fee, franchise fee inclusive of 18% GST, and a refundable security deposit.",
       "Franchise partners can expect an effective gross margin of around 18–20% on retail sales under this model.",
       "The brand&apos;s online investment calculator can be used to get a format-specific cost estimate before applying.",
@@ -176,7 +184,11 @@ const faqs = [
   {
     question: "What is the minimum investment for a FOCM franchise in Mathura?",
     answer:
+<<<<<<< HEAD
       "The minimum investment starts from 18.5 onwards, depending on the store format chosen.",
+=======
+      "The minimum investment starts from 18.5 Lakh onwards, depending on the store format chosen.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   },
   {
     question: "Who is the FOCM model best suited for?",
@@ -343,7 +355,11 @@ const Content = () => {
                   inventory, technology, supply chain, and marketing.
                 </li>
                 <li>
+<<<<<<< HEAD
                   Start with an investment from 18.5 onwards, depending on
+=======
+                  Start with an investment from 18.5 Lakh onwards, depending on
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   the selected Mini Mart, Super Mart, or Hyper Mart format.
                 </li>
                 <li>

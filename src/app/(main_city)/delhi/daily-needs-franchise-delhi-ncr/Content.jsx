@@ -66,7 +66,7 @@ const faqSchema = {
       name: "How much investment is needed for a supermarket franchise in NCR?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Starts from approximately \u20b915 lakhs depending on format and location. Get a personalized calculation.",
+        text: "Starts from approximately \u20b918.5 lakhs depending on format and location. Get a personalized calculation.",
       },
     },
     {
@@ -384,7 +384,7 @@ const Content = () => {
 
             <p>
               Investment varies by format, location, and size but is designed to
-              be accessible. Typical ranges start from around &#8377;15 lakhs
+              be accessible. Typical ranges start from around &#8377;18.5 lakhs
               onwards (contact for exact personalized quote). Components
               include:
             </p>
@@ -503,7 +503,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-            &amp; Community Impact
+              &amp; Community Impact
             </h2>
 
             <p>
@@ -628,7 +628,7 @@ const Content = () => {
                   in NCR?
                 </h3>
                 <p className="mt-2 text-gray-700">
-                  A2: Starts from approximately &#8377;15 lakhs depending on
+                  A2: Starts from approximately &#8377;18.5 lakhs depending on
                   format and location. Get a personalized calculation.
                 </p>
               </div>

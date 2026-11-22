@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Franchise Opportunity in Gorakhpur | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore the FOCM franchise opportunity in Gorakhpur from 18.5. Own the store, let The Buyzaar Mart manage operations. See who it suits & apply now.",
+=======
+    "Explore the FOCM franchise opportunity in Gorakhpur from 18.5 Lakh. Own the store, let The Buyzaar Mart manage operations. See who it suits & apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "FOCM franchise opportunity Gorakhpur",
     "FOCM franchise Gorakhpur",
@@ -22,7 +26,7 @@ export const metadata = {
     "grocery franchise opportunity Gorakhpur",
     "supermarket franchise opportunity Gorakhpur",
     "retail franchise Gorakhpur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "low investment franchise opportunity",
     "FOCM vs FOCO",
     "5 year franchise agreement",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "FOCM Franchise Opportunity in Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the FOCM franchise opportunity in Gorakhpur from 18.5. Own the store, let The Buyzaar Mart manage operations. See who it suits & apply now.",
+=======
+      "Explore the FOCM franchise opportunity in Gorakhpur from 18.5 Lakh. Own the store, let The Buyzaar Mart manage operations. See who it suits & apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/focm-franchise-opportunity-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Franchise Opportunity in Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the FOCM franchise opportunity in Gorakhpur from 18.5. Own the store, let The Buyzaar Mart manage operations. See who it suits & apply now!",
+=======
+      "Explore the FOCM franchise opportunity in Gorakhpur from 18.5 Lakh. Own the store, let The Buyzaar Mart manage operations. See who it suits & apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

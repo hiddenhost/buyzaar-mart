@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Gorakhpur | Grocery Franchise ₹15L",
   description:
+<<<<<<< HEAD
     "Start a Buyzaar Mart franchise in Gorakhpur from 18.5. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+=======
+    "Start a Buyzaar Mart franchise in Gorakhpur from 18.5 Lakh. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "Buyzaar Mart franchise Gorakhpur",
     "The Buyzaar Mart",
@@ -15,7 +19,7 @@ export const metadata = {
     "supermarket franchise Gorakhpur",
     "grocery store franchise Gorakhpur",
     "grocery franchise Uttar Pradesh",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment grocery franchise India",
     "affordable supermarket franchise India",
     "FOCM franchise India",
@@ -38,7 +42,11 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Gorakhpur | Grocery Franchise ₹15L",
     description:
+<<<<<<< HEAD
       "Start a Buyzaar Mart franchise in Gorakhpur from 18.5. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+=======
+      "Start a Buyzaar Mart franchise in Gorakhpur from 18.5 Lakh. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +64,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Gorakhpur | Grocery Franchise ₹15L",
     description:
+<<<<<<< HEAD
       "Start a Buyzaar Mart franchise in Gorakhpur from 18.5. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+=======
+      "Start a Buyzaar Mart franchise in Gorakhpur from 18.5 Lakh. FOCM & FOCO models, POS billing, supply chain and launch support included. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

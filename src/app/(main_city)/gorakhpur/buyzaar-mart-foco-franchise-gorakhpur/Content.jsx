@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart FOCO Franchise Gorakhpur | Invest from ₹15L",
   description:
+<<<<<<< HEAD
     "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain, launch support, and investment from 18.5.",
+=======
+    "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain, launch support, and investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-foco-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +70,11 @@ const faqSchema = {
       name: "What is the starting investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment starts from 18.5, depending on store format and area.",
+=======
+        text: "Investment starts from 18.5 Lakh, depending on store format and area.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -171,7 +179,11 @@ const Content = () => {
               <li>
                 The Buyzaar Mart is a grocery and supermarket franchise brand
                 with the promise &quot;Your Friendly Neighborhood Store&quot;,
+<<<<<<< HEAD
                 and investment starts from 18.5.
+=======
+                and investment starts from 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 Gorakhpur is a growing city of eastern Uttar Pradesh, where
@@ -392,7 +404,11 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>The franchise investment starts from 18.5.</li>
+=======
+              <li>The franchise investment starts from 18.5 Lakh.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>
                 The final amount depends on store type and area, and includes
                 stock, interior, software fee, franchise fee including 18% GST,
@@ -813,7 +829,11 @@ const Content = () => {
                   2. What is the starting investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Investment starts from 18.5, depending on store format
+=======
+                  Investment starts from 18.5 Lakh, depending on store format
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   and area.
                 </p>
               </div>
@@ -902,7 +922,11 @@ const Content = () => {
                   it.
                 </li>
                 <li>
+<<<<<<< HEAD
                   Start with an investment from 18.5, depending on the
+=======
+                  Start with an investment from 18.5 Lakh, depending on the
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   format and location.
                 </li>
                 <li>

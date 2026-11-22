@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Franchise to Open in Hapur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from 18.5. Apply now.",
+=======
+    "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "best franchise to open in Hapur",
     "best franchise in Hapur",
@@ -19,7 +23,7 @@ export const metadata = {
     "grocery franchise Hapur",
     "retail franchise Hapur",
     "low investment franchise Hapur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "profitable franchise Hapur",
     "FMCG franchise Hapur",
     "franchise business opportunity Hapur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Best Franchise to Open in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from 18.5. Apply now.",
+=======
+      "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/hapur/best-franchise-to-open-in-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Franchise to Open in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from 18.5. Apply now.",
+=======
+      "Looking for the best franchise to open in Hapur? The Buyzaar Mart offers a supermarket franchise with full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

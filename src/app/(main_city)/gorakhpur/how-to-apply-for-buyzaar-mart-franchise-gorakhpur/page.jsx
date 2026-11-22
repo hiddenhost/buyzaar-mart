@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Apply for Buyzaar Mart Franchise in Gorakhpur",
   description:
+<<<<<<< HEAD
     "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5.",
+=======
+    "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "how to apply for Buyzaar Mart franchise Gorakhpur",
     "Buyzaar Mart franchise Gorakhpur",
@@ -16,7 +20,7 @@ export const metadata = {
     "supermarket franchise Gorakhpur",
     "how to get grocery franchise in Gorakhpur",
     "grocery franchise Uttar Pradesh",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment grocery franchise India",
     "FOCM franchise India",
     "FOCO franchise India",
@@ -38,7 +42,11 @@ export const metadata = {
   openGraph: {
     title: "How to Apply for Buyzaar Mart Franchise in Gorakhpur",
     description:
+<<<<<<< HEAD
       "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5.",
+=======
+      "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-apply-for-buyzaar-mart-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +64,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Apply for Buyzaar Mart Franchise in Gorakhpur",
     description:
+<<<<<<< HEAD
       "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5.",
+=======
+      "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM & FOCO models, documents and support. Investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

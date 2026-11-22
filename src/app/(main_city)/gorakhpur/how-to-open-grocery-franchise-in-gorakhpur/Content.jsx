@@ -58,7 +58,11 @@ const faqSchema = {
       name: "What is the investment for a grocery franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "It starts from around 18.5, depending on store size and format. Rent is separate.",
+=======
+        text: "It starts from around 18.5 Lakh, depending on store size and format. Rent is separate.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -210,7 +214,11 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>The Buyzaar Mart franchise starts from around 18.5, based on store size and format.</li>
+=======
+              <li>The Buyzaar Mart franchise starts from around 18.5 Lakh, based on store size and format.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>The total covers opening stock, interior and fit-out, software fee, franchise fee (including 18% GST) and security deposit.</li>
               <li>A Mini Mart can be planned in a range of roughly ₹18.5 to ₹26 Lakh, depending on area and interior choices.</li>
               <li>Super Mart and Hyper Mart budgets are higher and scale with area, so treat these as estimates until the franchise team confirms them.</li>
@@ -351,7 +359,11 @@ const Content = () => {
                   What is the investment for a grocery franchise in Gorakhpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   It starts from around 18.5, depending on store size and format. Rent is separate.
+=======
+                  It starts from around 18.5 Lakh, depending on store size and format. Rent is separate.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

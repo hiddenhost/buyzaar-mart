@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Rampur | Supermarket Franchise",
   description:
+<<<<<<< HEAD
     "Start a Buyzaar Mart franchise in Rampur with managed supply chain, POS billing and launch support. Total investment from 18.5. Call +91 9217991727.",
+=======
+    "Start a Buyzaar Mart franchise in Rampur with managed supply chain, POS billing and launch support. Total investment from 18.5 Lakh. Call +91 9217991727.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "buyzaar mart franchise rampur",
     "the buyzaar mart franchise",
@@ -38,7 +42,11 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Rampur | Supermarket Franchise",
     description:
+<<<<<<< HEAD
       "Start a Buyzaar Mart franchise in Rampur with managed supply chain, POS billing and launch support. Total investment from 18.5. Call +91 9217991727.",
+=======
+      "Start a Buyzaar Mart franchise in Rampur with managed supply chain, POS billing and launch support. Total investment from 18.5 Lakh. Call +91 9217991727.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +64,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Rampur | Supermarket Franchise",
     description:
+<<<<<<< HEAD
       "Start a Buyzaar Mart franchise in Rampur with managed supply chain, POS billing and launch support. Total investment from 18.5. Call +91 9217991727.",
+=======
+      "Start a Buyzaar Mart franchise in Rampur with managed supply chain, POS billing and launch support. Total investment from 18.5 Lakh. Call +91 9217991727.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

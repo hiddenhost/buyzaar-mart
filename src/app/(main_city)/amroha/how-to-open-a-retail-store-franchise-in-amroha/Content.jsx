@@ -199,7 +199,11 @@ const Content = () => {
               Total Investment to Open a Retail Store Franchise in Amroha
             </h2>
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>A Buyzaar Mart Mini Store of 600–1000 sq ft needs a total investment of roughly 18.5 to ₹20 lakh.</li>
+=======
+              <li>A Buyzaar Mart Mini Store of 600–1000 sq ft needs a total investment of roughly 18.5 Lakh to ₹20 lakh.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>The final figure depends on the store size, location, arrangement and the interior work needed at your premises.</li>
               <li>Larger formats need a higher total investment, and the company can estimate it for your exact property.</li>
               <li>Keep working capital ready for rent, salaries and electricity, since a new store takes time to build steady sales.</li>

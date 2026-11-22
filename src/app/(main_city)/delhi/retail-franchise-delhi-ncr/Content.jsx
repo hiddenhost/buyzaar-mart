@@ -37,7 +37,11 @@ const faqSchema = {
       name: "What is the minimum investment required to open a retail franchise in Delhi-NCR with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment for a Buyzaar Mart franchise starts at 18.5. This includes brand licensing, store setup support, POS system integration, and initial supply chain setup. Franchisees are responsible for securing and paying rent for their store location, for which the company provides location selection guidance.",
+=======
+        text: "The minimum investment for a Buyzaar Mart franchise starts at 18.5 Lakh. This includes brand licensing, store setup support, POS system integration, and initial supply chain setup. Franchisees are responsible for securing and paying rent for their store location, for which the company provides location selection guidance.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -263,7 +267,11 @@ const Content = () => {
             </h3>
 
             <p>
+<<<<<<< HEAD
               The Buyzaar Mart franchise package, starting at 18.5, is
+=======
+              The Buyzaar Mart franchise package, starting at 18.5 Lakh, is
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               designed to give franchisees a complete, ready-to-operate business:
             </p>
 
@@ -388,7 +396,11 @@ const Content = () => {
 
             <p>
               Starting a grocery or supermarket retail franchise in Delhi-NCR
+<<<<<<< HEAD
               with The Buyzaar Mart requires a minimum investment of 18.5.
+=======
+              with The Buyzaar Mart requires a minimum investment of 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               This is significantly lower than independent supermarket setups,
               which can require ₹30 to ₹60 Lakh when factoring in branding,
               technology, and supply chain infrastructure.
@@ -538,7 +550,11 @@ const Content = () => {
                     franchise in Delhi-NCR with The Buyzaar Mart?
                   </h3>
                   <p className="mt-2">
+<<<<<<< HEAD
                     The minimum investment starts from 18.5 and includes store setup,
+=======
+                    The minimum investment starts from 18.5 Lakh and includes store setup,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                     branding, POS integration, and initial operational support. The
                     franchisee is responsible for arranging the retail space.
                   </p>

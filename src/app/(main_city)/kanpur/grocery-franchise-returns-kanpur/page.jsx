@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "Grocery Franchise Returns in Kanpur | The Buyzaar Mart Mini Mart & Hyper Mart",
   description:
+<<<<<<< HEAD
     "Explore real grocery franchise returns in Kanpur with The Buyzaar Mart. Investment breakdown for Mini Mart and Hyper Mart, FOCM and FOCO models explained. Start from 18.5.",
+=======
+    "Explore real grocery franchise returns in Kanpur with The Buyzaar Mart. Investment breakdown for Mini Mart and Hyper Mart, FOCM and FOCO models explained. Start from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/grocery-franchise-returns-kanpur",
@@ -16,7 +20,11 @@ export const metadata = {
     title:
       "Grocery Franchise Returns in Kanpur | The Buyzaar Mart Mini Mart & Hyper Mart",
     description:
+<<<<<<< HEAD
       "Explore real grocery franchise returns in Kanpur with The Buyzaar Mart. Investment breakdown for Mini Mart and Hyper Mart, FOCM and FOCO models explained. Start from 18.5.",
+=======
+      "Explore real grocery franchise returns in Kanpur with The Buyzaar Mart. Investment breakdown for Mini Mart and Hyper Mart, FOCM and FOCO models explained. Start from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/kanpur/grocery-franchise-returns-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +43,11 @@ export const metadata = {
     title:
       "Grocery Franchise Returns in Kanpur | The Buyzaar Mart Mini Mart & Hyper Mart",
     description:
+<<<<<<< HEAD
       "Explore real grocery franchise returns in Kanpur with The Buyzaar Mart. Investment breakdown for Mini Mart and Hyper Mart, FOCM and FOCO models explained. Start from 18.5.",
+=======
+      "Explore real grocery franchise returns in Kanpur with The Buyzaar Mart. Investment breakdown for Mini Mart and Hyper Mart, FOCM and FOCO models explained. Start from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

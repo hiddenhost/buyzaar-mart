@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "Buyzaar Mart FOCM Franchise in Amroha | Franchise Owned Company Managed",
   description:
+<<<<<<< HEAD
     "Start a Buyzaar Mart FOCM franchise in Amroha. You own the store, the company manages systems, training and support. Total investment from 18.5. Call +91 9217991727.",
+=======
+    "Start a Buyzaar Mart FOCM franchise in Amroha. You own the store, the company manages systems, training and support. Total investment from 18.5 Lakh. Call +91 9217991727.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "buyzaar mart focm franchise amroha",
     "focm franchise amroha",
@@ -28,7 +32,7 @@ export const metadata = {
     "mini mart franchise amroha",
     "super mart franchise amroha",
     "hyper mart franchise amroha",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment supermarket franchise",
     "five year franchise agreement",
     "franchise business opportunity amroha",
@@ -41,7 +45,11 @@ export const metadata = {
     title:
       "Buyzaar Mart FOCM Franchise in Amroha | Franchise Owned Company Managed",
     description:
+<<<<<<< HEAD
       "Start a Buyzaar Mart FOCM franchise in Amroha. You own the store, the company manages systems, training and support. Total investment from 18.5. Call +91 9217991727.",
+=======
+      "Start a Buyzaar Mart FOCM franchise in Amroha. You own the store, the company manages systems, training and support. Total investment from 18.5 Lakh. Call +91 9217991727.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-focm-franchise-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +68,11 @@ export const metadata = {
     title:
       "Buyzaar Mart FOCM Franchise in Amroha | Franchise Owned Company Managed",
     description:
+<<<<<<< HEAD
       "Start a Buyzaar Mart FOCM franchise in Amroha. You own the store, the company manages systems, training and support. Total investment from 18.5. Call +91 9217991727.",
+=======
+      "Start a Buyzaar Mart FOCM franchise in Amroha. You own the store, the company manages systems, training and support. Total investment from 18.5 Lakh. Call +91 9217991727.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -3,6 +3,7 @@ import CityInternalLinks from "@/app/components/CityInternalLinks";
 import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 
 const pageTitle =
+<<<<<<< HEAD
   "Mart Franchise Above 18.5 in Gorakhpur | Buyzaar Mart";
 
 const pageDescription =
@@ -20,6 +21,25 @@ const contentSections = [
   },
   {
     title: "What Changes When Your Budget Goes Above 18.5?",
+=======
+  "Mart Franchise Above 18.5 Lakh in Gorakhpur | Buyzaar Mart";
+
+const pageDescription =
+  "Planning a mart franchise above 18.5 Lakh in Gorakhpur? Explore Super Mart and Hyper Mart formats, investment heads, margins and support from The Buyzaar Mart.";
+
+const contentSections = [
+  {
+    title: "Why Look at a Mart Franchise Above 18.5 Lakh?",
+    points: [
+      "The Buyzaar Mart advertises its grocery and supermarket franchise from 18.5 Lakh. This is the entry point, and many investors with a larger budget may want a bigger store that earns more from a wider product range.",
+      "If you own or can rent a spacious shop in Gorakhpur, a franchise above 18.5 Lakh can allow you to stock more categories, serve more customers, and build a stronger neighbourhood brand.",
+      "A bigger store also means a bigger commitment in rent, stock, staff, utilities, and working capital, so the decision should be made with clear numbers.",
+      "This guide explains what an investment above 18.5 Lakh usually involves, which formats fit, how to plan the budget, and how to apply in Gorakhpur.",
+    ],
+  },
+  {
+    title: "What Changes When Your Budget Goes Above 18.5 Lakh?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     points: [
       "Larger floor area: The brand&apos;s calculator accepts areas from 600 to 8,000 sq ft. More area means more shelves, interiors, fixtures, equipment, and opening stock, so the total investment rises accordingly.",
       "Wider product range: Bigger formats add categories such as dairy, fruits and vegetables, gifts and toys, and frozen ready-to-eat items.",
@@ -168,9 +188,15 @@ const contentSections = [
 
 const faqs = [
   {
+<<<<<<< HEAD
     question: "Can I open a mart franchise above 18.5 in Gorakhpur?",
     answer:
       "Yes. 18.5 is the advertised starting point, and larger formats cost more. Use the investment calculator and discuss your property with the franchise team for an estimate.",
+=======
+    question: "Can I open a mart franchise above 18.5 Lakh in Gorakhpur?",
+    answer:
+      "Yes. 18.5 Lakh is the advertised starting point, and larger formats cost more. Use the investment calculator and discuss your property with the franchise team for an estimate.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   },
   {
     question: "Which format suits a higher budget?",
@@ -293,14 +319,22 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
+<<<<<<< HEAD
               Mart Franchise Above 18.5 in Gorakhpur: Super Mart, Hyper
+=======
+              Mart Franchise Above 18.5 Lakh in Gorakhpur: Super Mart, Hyper
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               Mart &amp; Bigger Store Options
             </h1>
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart advertises its grocery and supermarket
+<<<<<<< HEAD
                 franchise from 18.5, which is the entry point for a branded
+=======
+                franchise from 18.5 Lakh, which is the entry point for a branded
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 store.
               </li>
               <li>

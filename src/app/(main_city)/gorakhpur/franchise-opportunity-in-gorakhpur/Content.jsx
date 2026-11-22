@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Opportunity in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from 18.5 with full support. Apply today!",
+=======
+    "Explore a franchise opportunity in Gorakhpur with The Buyzaar Mart. Open a Mini, Super or Hyper Mart from 18.5 Lakh with full support. Apply today!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/gorakhpur/franchise-opportunity-in-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +70,11 @@ const faqSchema = {
       name: "What is the minimum investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A single unit starts from 18.5, depending on format, area, stock and interiors.",
+=======
+        text: "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -126,7 +134,11 @@ const sections = [
     points: [
       "A franchise opportunity in Gorakhpur lets you start a business under an established brand, using tested systems and ongoing support instead of building everything alone.",
       "The Buyzaar Mart offers a grocery and supermarket franchise in three formats: Mini Mart, Super Mart and Hyper Mart.",
+<<<<<<< HEAD
       "Investment starts from 18.5, and the brand indicates an effective gross margin of 18–20% on sales.",
+=======
+      "Investment starts from 18.5 Lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       "The opportunity suits first-time entrepreneurs, salaried professionals, business owners, property owners and families.",
       "Daily-need retail is a practical category, because people buy groceries and household essentials throughout the year.",
     ],
@@ -336,7 +348,11 @@ const sections = [
       {
         title: "What the Investment Covers",
         points: [
+<<<<<<< HEAD
           "The investment starts from 18.5 for a single unit and depends on format and area.",
+=======
+          "The investment starts from 18.5 Lakh for a single unit and depends on format and area.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
           "It covers stock, interior, software fee, franchise fee (including 18% GST) and security deposit.",
           "The investment calculator on the franchise page shows an estimate for your size.",
           "Rent for the premises is paid by the franchise partner.",
@@ -485,7 +501,11 @@ const faqs = [
   {
     question: "What is the minimum investment?",
     answer:
+<<<<<<< HEAD
       "A single unit starts from 18.5, depending on format, area, stock and interiors.",
+=======
+      "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   },
   {
     question: "Do I need retail experience?",
@@ -607,7 +627,11 @@ const Content = () => {
                   support.
                 </li>
                 <li>
+<<<<<<< HEAD
                   Investment starts from 18.5, subject to the selected format,
+=======
+                  Investment starts from 18.5 Lakh, subject to the selected format,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   location, store area and final franchise agreement.
                 </li>
               </ul>

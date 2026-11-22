@@ -58,7 +58,11 @@ const faqSchema = {
       name: "What is the minimum investment for a franchise in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment typically starts from around 18.5 for a Mini Mart format under either FOCM or FOCO.",
+=======
+        text: "Investment typically starts from around 18.5 Lakh for a Mini Mart format under either FOCM or FOCO.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -217,7 +221,11 @@ const Content = () => {
               <li>Software/POS fee: Covers the billing, inventory management, and CRM technology bundled into every franchise setup.</li>
               <li>Security deposit: A refundable amount held as part of the franchise agreement terms.</li>
               <li>Working capital buffer: A cash reserve for the first few months of operations, covering salaries, utilities, and restocking before revenue stabilises.</li>
+<<<<<<< HEAD
               <li>Total investment for a Mini Mart in Bulandshahr typically starts from around 18.5, scaling upward for Super Mart and Hyper Mart formats depending on size and location.</li>
+=======
+              <li>Total investment for a Mini Mart in Bulandshahr typically starts from around 18.5 Lakh, scaling upward for Super Mart and Hyper Mart formats depending on size and location.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -304,7 +312,11 @@ const Content = () => {
                   What is the minimum investment for a franchise in Bulandshahr?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Investment typically starts from around 18.5 for a Mini Mart format under either FOCM or FOCO.
+=======
+                  Investment typically starts from around 18.5 Lakh for a Mini Mart format under either FOCM or FOCO.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

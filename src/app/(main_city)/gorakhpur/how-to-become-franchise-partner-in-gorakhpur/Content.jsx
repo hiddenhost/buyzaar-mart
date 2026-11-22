@@ -66,7 +66,11 @@ const faqSchema = {
       name: "What is the investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "It starts from around 18.5, depending on store format and area. Rent is separate.",
+=======
+        text: "It starts from around 18.5 Lakh, depending on store format and area. Rent is separate.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -233,7 +237,11 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>The Buyzaar Mart franchise starts from around 18.5, based on store format and area.</li>
+=======
+              <li>The Buyzaar Mart franchise starts from around 18.5 Lakh, based on store format and area.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>The total covers opening stock, interior, software fee, franchise fee (including 18% GST) and security deposit.</li>
               <li>A Mini Mart can be planned in a range of roughly ₹18.5 to ₹26 Lakh, based on area and interior choices.</li>
               <li>Larger formats cost more, so treat these numbers as estimates until the franchise team confirms them.</li>
@@ -356,7 +364,11 @@ const Content = () => {
                   What is the investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   It starts from around 18.5, depending on store format and area. Rent is separate.
+=======
+                  It starts from around 18.5 Lakh, depending on store format and area. Rent is separate.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 
@@ -411,7 +423,11 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>Becoming a franchise partner in Gorakhpur gives you a branded retail business with managed supply, technology and marketing support from around 18.5.</li>
+=======
+              <li>Becoming a franchise partner in Gorakhpur gives you a branded retail business with managed supply, technology and marketing support from around 18.5 Lakh.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>Your success depends on a strong location, careful budgeting, honest compliance and consistent customer service.</li>
               <li>Prepare your documents, choose the right format and talk openly with the franchise team about terms.</li>
               <li>To begin, visit thebuyzaarmart.com, submit your inquiry and take the first step toward owning a Buyzaar Mart in Gorakhpur.</li>

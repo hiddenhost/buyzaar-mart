@@ -58,7 +58,11 @@ const faqSchema = {
       name: "What is the minimum investment required to start a Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from 18.5 depending on the store format and model chosen. FOCO model costs vary based on store size, with interior setup at ₹1,200 per sq. ft. plus a one-time franchise fee of ₹3,00,000.",
+=======
+        text: "The minimum investment starts from 18.5 Lakh depending on the store format and model chosen. FOCO model costs vary based on store size, with interior setup at ₹1,200 per sq. ft. plus a one-time franchise fee of ₹3,00,000.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -483,7 +487,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               Low entry investment starting from 18.5 makes it accessible to a wider pool
+=======
+              Low entry investment starting from 18.5 Lakh makes it accessible to a wider pool
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               of investors compared to larger national chains that require crore-level
               investments. The brand&apos;s focus on Uttar Pradesh and North India means that
               its supply chain, marketing, and operational strategies are specifically
@@ -509,7 +517,11 @@ const Content = () => {
                   franchise in Lucknow?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts from 18.5 depending on the store format
+=======
+                  The minimum investment starts from 18.5 Lakh depending on the store format
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   and model chosen. FOCO model costs vary based on store size, with interior
                   setup at ₹1,200 per sq. ft. plus a one-time franchise fee of ₹3,00,000.
                 </p>
@@ -594,7 +606,11 @@ const Content = () => {
               <p className="mb-4 text-gray-800">
                 Whether you are looking for an actively managed business under the FOCM model
                 or a completely passive investment under the FOCO model, The Buyzaar Mart has
+<<<<<<< HEAD
                 a structure that fits your goals. With investment starting from 18.5,
+=======
+                a structure that fits your goals. With investment starting from 18.5 Lakh,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 transparent franchise terms, and the backing of a brand purpose-built for
                 neighbourhood retail in North India, there is no better time to take the
                 first step.

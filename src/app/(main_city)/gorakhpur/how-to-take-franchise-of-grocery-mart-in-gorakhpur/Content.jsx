@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Mart Franchise in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Learn how to take a grocery mart franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM and FOCO models, full setup and ongoing support.",
+=======
+    "Learn how to take a grocery mart franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5 Lakh, FOCM and FOCO models, full setup and ongoing support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-take-franchise-of-grocery-mart-in-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +62,11 @@ const faqSchema = {
       name: "What is the minimum investment for a grocery mart franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment starts from 18.5 and varies with store type and area.",
+=======
+        text: "Investment starts from 18.5 Lakh and varies with store type and area.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -156,7 +164,11 @@ const Content = () => {
                 If you are wondering how to take a franchise of a grocery mart
                 in Gorakhpur, The Buyzaar Mart gives you a tested retail system
                 instead of asking you to build everything from scratch, with
+<<<<<<< HEAD
                 investment starting from 18.5.
+=======
+                investment starting from 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 This guide explains the full journey in simple language, from
@@ -343,7 +355,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Total investment starts from 18.5 and depends on your store
+=======
+                Total investment starts from 18.5 Lakh and depends on your store
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 type and area in square feet.
               </li>
               <li>
@@ -702,7 +718,11 @@ const Content = () => {
                   Gorakhpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Investment starts from 18.5 and varies with store type
+=======
+                  Investment starts from 18.5 Lakh and varies with store type
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   and area.
                 </p>
               </div>
@@ -769,7 +789,11 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Start a grocery mart franchise in Gorakhpur with The Buyzaar
+<<<<<<< HEAD
                   Mart from an investment of 18.5.
+=======
+                  Mart from an investment of 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Choose between FOCM and FOCO models based on your involvement,

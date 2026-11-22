@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise Enquiry in Rampur | Send Enquiry",
   description:
+<<<<<<< HEAD
     "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5. Response within 24 hours.",
+=======
+    "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5 Lakh. Response within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-enquiry-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -76,7 +80,11 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Total investment starts from 18.5, depending on store format and area.",
+=======
+        text: "Total investment starts from 18.5 Lakh, depending on store format and area.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -147,7 +155,11 @@ const Content = () => {
                 An enquiry is the first and simplest step. You share a few basic details, the franchise team responds, and you learn about the model, the store formats and the support before you take any decision.
               </li>
               <li>
+<<<<<<< HEAD
                 Total investment starts from 18.5, and the exact total for your Rampur store is confirmed by the franchise team once they understand your chosen format and property.
+=======
+                Total investment starts from 18.5 Lakh, and the exact total for your Rampur store is confirmed by the franchise team once they understand your chosen format and property.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
             </ul>
 
@@ -277,7 +289,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Total investment starts from 18.5, which makes The Buyzaar Mart a low-investment supermarket franchise compared with many larger retail formats that demand far higher capital.
+=======
+                Total investment starts from 18.5 Lakh, which makes The Buyzaar Mart a low-investment supermarket franchise compared with many larger retail formats that demand far higher capital.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The final total depends on your store format and area. A Mini Mart, Super Mart and Hyper Mart will each carry a different total, and the team confirms the figure for your Rampur property.
@@ -470,7 +486,11 @@ const Content = () => {
                   3. What is the total investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Total investment starts from 18.5, depending on store format and area.
+=======
+                  Total investment starts from 18.5 Lakh, depending on store format and area.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

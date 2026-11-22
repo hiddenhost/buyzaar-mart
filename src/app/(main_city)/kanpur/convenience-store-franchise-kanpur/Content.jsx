@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Convenience Store Franchise in Kanpur - The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Convenience Store Franchise in Kanpur with The Buyzaar Mart. Start a convenience retail store with 18.5 investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
+=======
+    "Convenience Store Franchise in Kanpur with The Buyzaar Mart. Start a convenience retail store with 18.5 Lakh investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/convenience-store-franchise-in-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -104,7 +108,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               Starting at just 18.5, backed by the brand&#39;s FOCM management model, and supported by end-to-end operational infrastructure, this is the franchise that turns community need into consistent, recurring business revenue.
+=======
+              Starting at just 18.5 Lakh, backed by the brand&#39;s FOCM management model, and supported by end-to-end operational infrastructure, this is the franchise that turns community need into consistent, recurring business revenue.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -305,7 +313,11 @@ const Content = () => {
                   Why is a convenience store more practical than a hypermart for individual investors in Kanpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A hypermart requires significantly higher capital, space, staffing, and operational complexity. A Buyzaar Mart convenience store franchise starts at 18.5, is managed by the company under the FOCM model, and targets a daily-demand customer base in a neighbourhood format.
+=======
+                  A hypermart requires significantly higher capital, space, staffing, and operational complexity. A Buyzaar Mart convenience store franchise starts at 18.5 Lakh, is managed by the company under the FOCM model, and targets a daily-demand customer base in a neighbourhood format.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 
@@ -343,7 +355,11 @@ const Content = () => {
               </h2>
 
               <p className="mb-4 text-gray-800">
+<<<<<<< HEAD
                 The Buyzaar Mart&#39;s convenience store franchise gives Kanpur entrepreneurs a complete platform for capturing this opportunity &#8212; the brand identity, the FOCM management model, the inventory assurance policy, the supply chain, the technology, and the marketing support to build a profitable, community-rooted business starting at just 18.5.
+=======
+                The Buyzaar Mart&#39;s convenience store franchise gives Kanpur entrepreneurs a complete platform for capturing this opportunity &#8212; the brand identity, the FOCM management model, the inventory assurance policy, the supply chain, the technology, and the marketing support to build a profitable, community-rooted business starting at just 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </p>
 
               <p className="mb-4 text-gray-800">

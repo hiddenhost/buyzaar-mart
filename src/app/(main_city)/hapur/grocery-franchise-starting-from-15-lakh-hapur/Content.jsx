@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Grocery Franchise Starting From 15 Lakh in Hapur | The Buyzaar Mart",
+  name: "Grocery Franchise Starting From 18.5 lakh in Hapur | The Buyzaar Mart",
   description:
-    "The Buyzaar Mart offers grocery franchise opportunities in Hapur starting from 15 lakh with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, centralized procurement, technology-enabled operations, and full franchise partner support.",
+    "The Buyzaar Mart offers grocery franchise opportunities in Hapur starting from 18.5 lakh with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, centralized procurement, technology-enabled operations, and full franchise partner support.",
   url: "https://www.thebuyzaarmart.com/hapur/grocery-franchise-starting-from-15-lakh-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -55,7 +55,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What does a grocery franchise starting from 15 lakh in Hapur typically include?",
+      name: "What does a grocery franchise starting from 18.5 lakh in Hapur typically include?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It generally covers opening stock, interior setup, software fee, franchise fee inclusive of GST, and a security deposit, though the exact split depends on format.",
@@ -63,7 +63,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Which store format fits a 15 lakh investment best?",
+      name: "Which store format fits a 18.5 lakh investment best?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "A Mini Mart of approximately 600 to 1000 square feet is typically the best fit for this entry-level investment range in Hapur.",
@@ -95,7 +95,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Is the investment amount fixed at exactly 15 lakh?",
+      name: "Is the investment amount fixed at exactly 18.5 lakh?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "No. The final amount depends on store format, location, and space size, so applicants should confirm exact figures with the franchise team.",
@@ -141,22 +141,22 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-            
+
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a 15 Lakh Grocery Franchise Makes Sense in Hapur
+              Why a 18.5 lakh Grocery Franchise Makes Sense in Hapur
             </h2>
             <ul className="list-disc space-y-2 pl-6">
               <li>Hapur offers a rare combination for retail investors: strong connectivity along the NH-9 corridor to Delhi, Meerut, and Ghaziabad, along with organised retail penetration that remains relatively low.</li>
-              <li>A franchise starting from 15 lakh gives first-time entrepreneurs an accessible entry point into organised grocery retail without requiring the capital scale of a large-format store.</li>
+              <li>A franchise starting from 18.5 lakh gives first-time entrepreneurs an accessible entry point into organised grocery retail without requiring the capital scale of a large-format store.</li>
               <li>The city&apos;s residential base is expanding steadily across Delhi Road, Garhmukteshwar Road, Pilkhuwa, and inner-city colonies, creating fresh daily-need demand for a well-located store.</li>
               <li>Hapur&apos;s trading and industrial economy, including its established scrap and recycling sector, supports a working population with consistent spending on groceries and household essentials.</li>
               <li>Most Hapur consumers currently rely on unorganised kirana stores, meaning an entry-level branded franchise can capture significant market share early.</li>
-              <li>A 15 lakh starting investment positions applicants to secure a Mini Mart or a smaller Super Mart format, both of which are well suited to Hapur&apos;s residential catchments.</li>
+              <li>A 18.5 lakh starting investment positions applicants to secure a Mini Mart or a smaller Super Mart format, both of which are well suited to Hapur&apos;s residential catchments.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a Grocery Franchise Starting From 15 Lakh Typically Includes
+              What a Grocery Franchise Starting From 18.5 lakh Typically Includes
             </h2>
             <ul className="list-disc space-y-2 pl-6">
               <li>Opening stock across grocery, FMCG, and daily-essential categories to fully populate store shelves at launch.</li>
@@ -172,7 +172,7 @@ const Content = () => {
               Store Formats Available Within This Investment Range
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Mini Mart: Approximately 600 to 1000 square feet, the most accessible format and typically the best fit for an entry-level investment starting from 15 lakh.</li>
+              <li>Mini Mart: Approximately 600 to 1000 square feet, the most accessible format and typically the best fit for an entry-level investment starting from 18.5 lakh.</li>
               <li>Super Mart: Roughly 1,001 to 3,000 square feet, suited for applicants with slightly higher capital or access to a larger commercial space in a busier Hapur locality.</li>
               <li>Hyper Mart: A larger destination-format store for high-footfall zones, generally requiring investment beyond the entry-level range.</li>
               <li>A Mini Mart in a well-chosen residential pocket can often deliver strong returns relative to its lower setup cost, making it a popular first-outlet choice in Hapur.</li>
@@ -186,7 +186,7 @@ const Content = () => {
               <li>FOCM (Franchise Owned, Company Managed): The franchisee invests the capital and owns the store, while The Buyzaar Mart&apos;s team manages daily operations, staffing, and performance.</li>
               <li>FOCM is well suited to salaried professionals and first-time entrepreneurs in Hapur who want ownership without handling daily store management themselves.</li>
               <li>FOCO (Franchise Owned, Company Operated): The investor provides capital and commercial space, and the company takes full responsibility for running the store.</li>
-              <li>FOCO suits investors who prefer a more passive, managed income stream from their 15 lakh investment.</li>
+              <li>FOCO suits investors who prefer a more passive, managed income stream from their 18.5 lakh investment.</li>
               <li>Both models include the same core support package covering setup, training, technology, and marketing, regardless of which structure is chosen.</li>
               <li>Applicants can discuss both options during the initial consultation to determine which aligns better with their available time and involvement preference.</li>
             </ul>
@@ -203,7 +203,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Start a 15 Lakh Grocery Franchise in Hapur
+              Step-by-Step Process to Start a 18.5 lakh Grocery Franchise in Hapur
             </h2>
             <ul className="list-disc space-y-2 pl-6">
               <li>Step 1 – Submit an Inquiry: Visit <a href="https://www.thebuyzaarmart.com" className="text-green-600 hover:underline">www.thebuyzaarmart.com</a> and fill out the franchise inquiry form with your name, contact details, city, and preferred Hapur locality.</li>
@@ -268,7 +268,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  What does a grocery franchise starting from 15 lakh in Hapur typically include?
+                  What does a grocery franchise starting from 18.5 lakh in Hapur typically include?
                 </h3>
                 <p className="mt-2">
                   It generally covers opening stock, interior setup, software fee, franchise fee inclusive of GST, and a security deposit, though the exact split depends on format.
@@ -277,7 +277,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Which store format fits a 15 lakh investment best?
+                  Which store format fits a 18.5 lakh investment best?
                 </h3>
                 <p className="mt-2">
                   A Mini Mart of approximately 600 to 1000 square feet is typically the best fit for this entry-level investment range in Hapur.
@@ -313,7 +313,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Is the investment amount fixed at exactly 15 lakh?
+                  Is the investment amount fixed at exactly 18.5 lakh?
                 </h3>
                 <p className="mt-2">
                   No. The final amount depends on store format, location, and space size, so applicants should confirm exact figures with the franchise team.
@@ -341,7 +341,7 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your 15 Lakh Grocery Franchise Journey in Hapur
+                Start Your 18.5 lakh Grocery Franchise Journey in Hapur
               </h2>
 
               <p className="mb-4 text-gray-800">

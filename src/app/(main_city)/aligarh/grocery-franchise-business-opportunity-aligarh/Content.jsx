@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise Business Opportunity in Aligarh | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a grocery franchise business in Aligarh with The Buyzaar Mart. FOCM model, investment from 18.5, setup, supply chain and POS support. Apply now.",
+=======
+    "Start a grocery franchise business in Aligarh with The Buyzaar Mart. FOCM model, investment from 18.5 Lakh, setup, supply chain and POS support. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/aligarh/grocery-franchise-business-opportunity-aligarh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +70,11 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Mini Mart starts from 18.5 and typically ranges up to ₹20 lakh. Super Mart and Hyper Mart cost more, depending on size.",
+=======
+        text: "Mini Mart starts from 18.5 Lakh and typically ranges up to ₹20 lakh. Super Mart and Hyper Mart cost more, depending on size.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -150,7 +158,11 @@ const Content = () => {
                 Aligarh households buy groceries, dairy, snacks and personal care every week of the year. This steady demand makes a grocery franchise one of the most dependable business options in the city.
               </li>
               <li>
+<<<<<<< HEAD
                 The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart formats. You can choose a store that fits your shop size, location and budget, with investment starting from 18.5.
+=======
+                The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart formats. You can choose a store that fits your shop size, location and budget, with investment starting from 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The brand runs on the FOCM model, Franchise Owned, Company Managed. You own the store as an asset while the Buyzaar Mart team handles daily operations.
@@ -220,7 +232,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 This is the entry-level format for colony lanes, society commercial units and neighbourhood shops with steady footfall. It starts from 18.5 and typically runs ₹15–20 lakh.
+=======
+                This is the entry-level format for colony lanes, society commercial units and neighbourhood shops with steady footfall. It starts from 18.5 Lakh and typically runs ₹15–20 lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 It covers grocery and staples, snacks and biscuits, beverages, personal care, homecare and hygiene, and stationery. These are the high-frequency top-up items nearby families buy most often.
@@ -259,7 +275,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Mini Mart investment typically ranges from 18.5 to ₹20 lakh. The final amount depends on store size, interior work and location.
+=======
+                Mini Mart investment typically ranges from 18.5 Lakh to ₹20 lakh. The final amount depends on store size, interior work and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The total covers stock, interior, software fee, franchise fee (including 18% GST) and security deposit. The investment calculator on the franchise page shows an estimate for your area.
@@ -435,7 +455,11 @@ const Content = () => {
                   What is the minimum investment for a Buyzaar Mart franchise in Aligarh?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Mini Mart starts from 18.5 and typically ranges up to ₹20 lakh. Super Mart and Hyper Mart cost more, depending on size.
+=======
+                  Mini Mart starts from 18.5 Lakh and typically ranges up to ₹20 lakh. Super Mart and Hyper Mart cost more, depending on size.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

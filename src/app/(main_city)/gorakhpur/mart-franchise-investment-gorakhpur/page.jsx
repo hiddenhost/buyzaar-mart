@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Investment in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super & Hyper Mart formats, costs from 18.5, POS & training. Apply now!",
+=======
+    "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super & Hyper Mart formats, costs from 18.5 Lakh, POS & training. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "mart franchise investment Gorakhpur",
     "mart franchise in Gorakhpur",
@@ -22,7 +26,7 @@ export const metadata = {
     "super mart investment",
     "hypermarket franchise India",
     "FOCM FOCO franchise",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "low investment supermarket franchise",
     "retail mart franchise",
     "neighbourhood mart franchise",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Investment in Gorakhpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super & Hyper Mart formats, costs from 18.5, POS & training. Apply now!",
+=======
+      "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super & Hyper Mart formats, costs from 18.5 Lakh, POS & training. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-investment-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Investment in Gorakhpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super & Hyper Mart formats, costs from 18.5, POS & training. Apply now!",
+=======
+      "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super & Hyper Mart formats, costs from 18.5 Lakh, POS & training. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

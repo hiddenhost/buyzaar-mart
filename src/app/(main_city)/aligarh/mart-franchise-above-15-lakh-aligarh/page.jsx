@@ -4,11 +4,11 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise Above Rs 15 Lakh in Aligarh | Super & Hyper Mart",
+  title: "Mart Franchise Above Rs 18.5 lakh in Aligarh | Super & Hyper Mart",
   description:
-    "Explore mart franchise options above Rs 15 lakh in Aligarh. Compare Super Mart & Hyper Mart formats, investment, licenses, and returns with The Buyzaar Mart.",
+    "Explore mart franchise options above Rs 18.5 lakh in Aligarh. Compare Super Mart & Hyper Mart formats, investment, licenses, and returns with The Buyzaar Mart.",
   keywords: [
-    "mart franchise above 15 lakh Aligarh",
+    "mart franchise above 18.5 lakh Aligarh",
     "super mart franchise cost",
     "hyper mart franchise India",
     "high investment retail franchise",
@@ -28,9 +28,9 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/aligarh/mart-franchise-above-15-lakh-aligarh",
   },
   openGraph: {
-    title: "Mart Franchise Above Rs 15 Lakh in Aligarh | Super & Hyper Mart",
+    title: "Mart Franchise Above Rs 18.5 lakh in Aligarh | Super & Hyper Mart",
     description:
-      "Explore mart franchise options above Rs 15 lakh in Aligarh. Compare Super Mart & Hyper Mart formats, investment, licenses, and returns with The Buyzaar Mart.",
+      "Explore mart franchise options above Rs 18.5 lakh in Aligarh. Compare Super Mart & Hyper Mart formats, investment, licenses, and returns with The Buyzaar Mart.",
     url: "https://www.thebuyzaarmart.com/aligarh/mart-franchise-above-15-lakh-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -38,7 +38,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Above Rs 15 Lakh in Aligarh | Super & Hyper Mart",
+        alt: "Mart Franchise Above Rs 18.5 lakh in Aligarh | Super & Hyper Mart",
       },
     ],
     locale: "en_IN",
@@ -46,9 +46,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Above Rs 15 Lakh in Aligarh | Super & Hyper Mart",
+    title: "Mart Franchise Above Rs 18.5 lakh in Aligarh | Super & Hyper Mart",
     description:
-      "Explore mart franchise options above Rs 15 lakh in Aligarh. Compare Super Mart & Hyper Mart formats, investment, licenses, and returns with The Buyzaar Mart.",
+      "Explore mart franchise options above Rs 18.5 lakh in Aligarh. Compare Super Mart & Hyper Mart formats, investment, licenses, and returns with The Buyzaar Mart.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

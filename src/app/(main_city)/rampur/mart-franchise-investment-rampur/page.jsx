@@ -20,7 +20,7 @@ export const metadata = {
     "mini mart franchise rampur",
     "FOCM franchise rampur",
     "FOCO franchise rampur",
-    "mart franchise starting 15 lakh",
+    "mart franchise starting 18.5 lakh",
     "low investment mart franchise",
     "retail franchise rampur",
     "grocery franchise uttar pradesh",

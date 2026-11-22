@@ -31,7 +31,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
+<<<<<<< HEAD
           "Daily needs store format for 600 to 1000 square feet starting from approximately 18.5",
+=======
+          "Daily needs store format for 600 to 1000 square feet starting from approximately 18.5 Lakh",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -58,7 +62,11 @@ const faqSchema = {
       name: "What is the total investment to open a Buyzaar Mart daily needs store franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment starts from approximately 18.5 for the Mini Mart format covering stock, interior, POS software, franchise fee with GST, and security deposit. Larger formats require higher investment.",
+=======
+        text: "Investment starts from approximately 18.5 Lakh for the Mini Mart format covering stock, interior, POS software, franchise fee with GST, and security deposit. Larger formats require higher investment.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -158,7 +166,11 @@ const Content = () => {
               The Buyzaar Mart, a fast-growing supermarket and daily needs
               franchise brand from Noida, is stepping into that gap &mdash; and
               inviting entrepreneurs from Bareilly to be part of the revolution.
+<<<<<<< HEAD
               With an investment starting from as low as 18.5, a proven
+=======
+              With an investment starting from as low as 18.5 Lakh, a proven
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               Franchise Owned Company Managed (FOCM) business model,
               partnerships with 50+ leading FMCG brands, and full operational
               and marketing support, The Buyzaar Mart offers Bareilly&apos;s
@@ -643,7 +655,11 @@ const Content = () => {
                   needs store franchise in Bareilly?
                 </h3>
                 <p className="mt-2 text-gray-700">
+<<<<<<< HEAD
                   Investment starts from approximately 18.5 for the Mini
+=======
+                  Investment starts from approximately 18.5 Lakh for the Mini
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   Mart format (600&ndash;1000 sq ft), covering stock, interior,
                   POS software, franchise fee (with 18% GST), and security
                   deposit. Larger formats have higher investment requirements

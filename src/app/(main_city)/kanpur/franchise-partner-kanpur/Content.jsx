@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Become a Franchise Partner in Kanpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Become a franchise partner in Kanpur with The Buyzaar Mart. Explore FOCM and FOCO models, Super Mart and Hyper Mart formats, investment from 18.5, full brand support, and how to apply.",
+=======
+    "Become a franchise partner in Kanpur with The Buyzaar Mart. Explore FOCM and FOCO models, Super Mart and Hyper Mart formats, investment from 18.5 Lakh, full brand support, and how to apply.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -252,7 +256,11 @@ const Content = () => {
             </ul>
 
             <p>
+<<<<<<< HEAD
               <strong>Investment starting point:</strong> 18.5 onwards.
+=======
+              <strong>Investment starting point:</strong> 18.5 Lakh onwards.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <h3 className="font-medium text-gray-900">

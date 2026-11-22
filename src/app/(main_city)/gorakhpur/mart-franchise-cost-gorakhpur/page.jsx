@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Cost in Gorakhpur | Buyzaar Mart Investment",
   description:
+<<<<<<< HEAD
     "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 with POS & training. Apply now!",
+=======
+    "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 Lakh with POS & training. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "mart franchise cost Gorakhpur",
     "mart franchise cost in Gorakhpur",
@@ -22,7 +26,7 @@ export const metadata = {
     "mart franchise payback period",
     "mart franchise profit margin",
     "low investment mart franchise",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "mini mart vs super mart",
     "super mart vs hyper mart",
     "FOCM FOCO cost",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Cost in Gorakhpur | Buyzaar Mart Investment",
     description:
+<<<<<<< HEAD
       "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 with POS & training. Apply now!",
+=======
+      "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 Lakh with POS & training. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-cost-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Cost in Gorakhpur | Buyzaar Mart Investment",
     description:
+<<<<<<< HEAD
       "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 with POS & training. Apply now!",
+=======
+      "Check mart franchise cost in Gorakhpur: Mini, Super & Hyper Mart investment compared. Buyzaar Mart starts from 18.5 Lakh with POS & training. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "The Buyzaar Mart – Retail Business Franchise in Bareilly",
   description:
+<<<<<<< HEAD
     "The Buyzaar Mart offers retail business franchise opportunities in Bareilly with a tech-enabled FOCM model, Mini Mart investment starting from approximately 18.5, FMCG brand partnerships, POS billing, CRM tools, and end-to-end support.",
+=======
+    "The Buyzaar Mart offers retail business franchise opportunities in Bareilly with a tech-enabled FOCM model, Mini Mart investment starting from approximately 18.5 Lakh, FMCG brand partnerships, POS billing, CRM tools, and end-to-end support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/bareilly/retail-business-franchise-in-bareilly",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +35,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
+<<<<<<< HEAD
           "Neighbourhood retail franchise format for 600 to 1000 square feet starting from approximately 18.5",
+=======
+          "Neighbourhood retail franchise format for 600 to 1000 square feet starting from approximately 18.5 Lakh",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -58,7 +66,11 @@ const faqSchema = {
       name: "What is the total Mini Mart investment for a Buyzaar Mart retail franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The total Mini Mart investment is commonly presented in the range of approximately 18.5 to ₹22.87 Lakh depending on store size, location condition, and stock planning.",
+=======
+        text: "The total Mini Mart investment is commonly presented in the range of approximately 18.5 Lakh to ₹22.87 Lakh depending on store size, location condition, and stock planning.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -479,7 +491,11 @@ const Content = () => {
             </div>
 
             <p>
+<<<<<<< HEAD
               The most commonly cited entry-level figure is around 18.5 for
+=======
+              The most commonly cited entry-level figure is around 18.5 Lakh for
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               a smaller 600 to 700 sq ft Mini Mart in a standard residential
               neighbourhood location in Bareilly. For a more exact estimate, the
               brand directs prospects to the live calculator on{" "}
@@ -616,7 +632,11 @@ const Content = () => {
                 </h3>
                 <p className="mt-2 text-gray-700">
                   The investment is commonly presented in the range of
+<<<<<<< HEAD
                   approximately 18.5 to ₹22.87 Lakh depending on store size,
+=======
+                  approximately 18.5 Lakh to ₹22.87 Lakh depending on store size,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   location condition, and stock planning.
                 </p>
               </div>

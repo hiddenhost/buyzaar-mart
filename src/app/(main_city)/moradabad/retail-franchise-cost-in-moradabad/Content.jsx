@@ -31,7 +31,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
+<<<<<<< HEAD
           "A retail franchise format requiring approximately 600 to 1,000 square feet, with total investment generally starting from around 18.5.",
+=======
+          "A retail franchise format requiring approximately 600 to 1,000 square feet, with total investment generally starting from around 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -58,7 +62,11 @@ const faqSchema = {
       name: "Which store format has the lowest retail franchise cost in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The Mini Mart offers the lowest entry cost, with total investment typically starting from around 18.5.",
+=======
+        text: "The Mini Mart offers the lowest entry cost, with total investment typically starting from around 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -311,7 +319,11 @@ const Content = () => {
                 It sits at the lower end of retail franchise cost in Moradabad.
               </li>
               <li>
+<<<<<<< HEAD
                 Total investment generally starts from around 18.5.
+=======
+                Total investment generally starts from around 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The Mini Mart is the most accessible format for first-time
@@ -630,7 +642,11 @@ const Content = () => {
                 </h3>
                 <p className="mt-2">
                   The Mini Mart offers the lowest entry cost, with total
+<<<<<<< HEAD
                   investment typically starting from around 18.5.
+=======
+                  investment typically starting from around 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

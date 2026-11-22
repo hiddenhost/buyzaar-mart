@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "FOCM Franchise in Faridabad | The Buyzaar Mart – Franchise Owned Company Managed Model",
   description:
+<<<<<<< HEAD
     "Explore The Buyzaar Mart's FOCM franchise opportunity in Faridabad. Own a supermarket, let us manage it. Starting from 18.5 with full setup, POS, training & marketing support. Apply today!",
+=======
+    "Explore The Buyzaar Mart's FOCM franchise opportunity in Faridabad. Own a supermarket, let us manage it. Starting from 18.5 Lakh with full setup, POS, training & marketing support. Apply today!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/faridabad/focm-franchise-faridabad",
@@ -16,7 +20,11 @@ export const metadata = {
     title:
       "FOCM Franchise in Faridabad | The Buyzaar Mart – Franchise Owned Company Managed Model",
     description:
+<<<<<<< HEAD
       "Explore The Buyzaar Mart's FOCM franchise opportunity in Faridabad. Own a supermarket, let us manage it. Starting from 18.5 with full setup, POS, training & marketing support. Apply today!",
+=======
+      "Explore The Buyzaar Mart's FOCM franchise opportunity in Faridabad. Own a supermarket, let us manage it. Starting from 18.5 Lakh with full setup, POS, training & marketing support. Apply today!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/faridabad/focm-franchise-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +43,11 @@ export const metadata = {
     title:
       "FOCM Franchise in Faridabad | The Buyzaar Mart – Franchise Owned Company Managed Model",
     description:
+<<<<<<< HEAD
       "Explore The Buyzaar Mart's FOCM franchise opportunity in Faridabad. Own a supermarket, let us manage it. Starting from 18.5 with full setup, POS, training & marketing support. Apply today!",
+=======
+      "Explore The Buyzaar Mart's FOCM franchise opportunity in Faridabad. Own a supermarket, let us manage it. Starting from 18.5 Lakh with full setup, POS, training & marketing support. Apply today!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

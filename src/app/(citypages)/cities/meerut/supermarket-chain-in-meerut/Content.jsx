@@ -30,7 +30,7 @@ const Content = () => {
             </p>
 
             <p>
-              Meerut is a city of over 15 lakh people and growing. It is one of Western Uttar Pradesh's most important commercial and residential hubs. Yet for years, the city lacked a truly organized, multi-location grocery retail chain that could meet the diverse and evolving needs of its population.
+              Meerut is a city of over 18.5 lakh people and growing. It is one of Western Uttar Pradesh's most important commercial and residential hubs. Yet for years, the city lacked a truly organized, multi-location grocery retail chain that could meet the diverse and evolving needs of its population.
             </p>
 
             <p>
@@ -191,10 +191,10 @@ const Content = () => {
             </p>
 
             <p className="mt-4 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
-              <strong>Store Hours (All Locations):</strong> Monday to Sunday — 9:00 AM to 7:00 PM<br/>
-              <strong>Contact Number:</strong> 9217991727<br/>
-              <strong>Email:</strong> <a href="mailto:info@thebuyzaarmart.com" className="text-blue-600 hover:underline font-semibold">info@thebuyzaarmart.com</a><br/>
-              <strong>Website:</strong> <a href="http://www.thebuyzaarmart.com" className="text-blue-600 hover:underline font-semibold" target="_blank" rel="noopener noreferrer">www.thebuyzaarmart.com</a><br/>
+              <strong>Store Hours (All Locations):</strong> Monday to Sunday — 9:00 AM to 7:00 PM<br />
+              <strong>Contact Number:</strong> 9217991727<br />
+              <strong>Email:</strong> <a href="mailto:info@thebuyzaarmart.com" className="text-blue-600 hover:underline font-semibold">info@thebuyzaarmart.com</a><br />
+              <strong>Website:</strong> <a href="http://www.thebuyzaarmart.com" className="text-blue-600 hover:underline font-semibold" target="_blank" rel="noopener noreferrer">www.thebuyzaarmart.com</a><br />
               <strong>Home Delivery:</strong> Available across Meerut — call your nearest store to order
             </p>
 

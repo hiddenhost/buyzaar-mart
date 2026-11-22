@@ -5,7 +5,11 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const pageTitle = "How to Get Grocery Franchise in Gorakhpur | Buyzaar Mart";
 
 const pageDescription =
+<<<<<<< HEAD
   "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from 18.5 and apply with The Buyzaar Mart.";
+=======
+  "Learn how to get a grocery franchise in Gorakhpur. Compare options, verify terms, check cost from 18.5 Lakh and apply with The Buyzaar Mart.";
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
 
 const contentSections = [
   {
@@ -47,7 +51,11 @@ const contentSections = [
     title: "What The Buyzaar Mart Offers",
     points: [
       "The Buyzaar Mart is a neighbourhood supermarket franchise brand headquartered in Noida, Uttar Pradesh.",
+<<<<<<< HEAD
       "The franchise starts from around 18.5, depending on selected store format, property area, setup needs, and opening-stock requirements.",
+=======
+      "The franchise starts from around 18.5 Lakh, depending on selected store format, property area, setup needs, and opening-stock requirements.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       "It follows the FOCM, Franchise Owned, Company Managed, model, and the website also mentions a FOCO model.",
       "The brand works with 50+ FMCG partners, including HUL, ITC, Nestlé, Dabur, Parle, Britannia, Tata Consumer, and Marico.",
       "It is described as FSSAI licensed, GST registered, and MSME certified.",
@@ -174,7 +182,11 @@ const faqs = [
   {
     question: "What is the investment?",
     answer:
+<<<<<<< HEAD
       "The franchise starts from around 18.5, depending on the selected format and store area. Shop rent and certain operating costs are separate.",
+=======
+      "The franchise starts from around 18.5 Lakh, depending on the selected format and store area. Shop rent and certain operating costs are separate.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   },
   {
     question: "Which documents are needed?",

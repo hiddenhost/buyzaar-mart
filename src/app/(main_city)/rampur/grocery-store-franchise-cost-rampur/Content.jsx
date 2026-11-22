@@ -31,7 +31,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600–1,000 sq ft)",
         description:
+<<<<<<< HEAD
           "Carries personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits. Total investment typically falls between 18.5 and ₹20 lakh.",
+=======
+          "Carries personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits. Total investment typically falls between 18.5 Lakh and ₹20 lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -59,7 +63,11 @@ const faqSchema = {
       name: "What is the grocery store franchise cost in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The total investment for a Buyzaar Mart Mini Mart in Rampur typically ranges from 18.5 to ₹20 lakh, depending on store size and setup needs.",
+=======
+        text: "The total investment for a Buyzaar Mart Mini Mart in Rampur typically ranges from 18.5 Lakh to ₹20 lakh, depending on store size and setup needs.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -143,7 +151,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Thinking about the grocery store franchise cost in Rampur before you commit your savings is the smartest first step, and The Buyzaar Mart makes that step simple with a clear Mini Mart entry point of 18.5 to ₹20 lakh total investment.
+=======
+                Thinking about the grocery store franchise cost in Rampur before you commit your savings is the smartest first step, and The Buyzaar Mart makes that step simple with a clear Mini Mart entry point of 18.5 Lakh to ₹20 lakh total investment.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 Rampur is a busy district town of Uttar Pradesh with dense family households, active weekly markets and steady daily demand for staples, snacks, personal care and home essentials, which makes organised grocery retail a practical business choice.
@@ -267,7 +279,11 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Total Investment at a Glance</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 For a Mini Mart of 600 to 1,000 sq ft, the total investment for a Buyzaar Mart franchise in Rampur typically falls between 18.5 and ₹20 lakh.
+=======
+                For a Mini Mart of 600 to 1,000 sq ft, the total investment for a Buyzaar Mart franchise in Rampur typically falls between 18.5 Lakh and ₹20 lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The final total depends on your store size, the layout of the premises, the work needed to prepare the space and the category range you choose.
@@ -535,7 +551,11 @@ const Content = () => {
                   What is the grocery store franchise cost in Rampur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The total investment for a Buyzaar Mart Mini Mart in Rampur typically ranges from 18.5 to ₹20 lakh, depending on store size and setup needs.
+=======
+                  The total investment for a Buyzaar Mart Mini Mart in Rampur typically ranges from 18.5 Lakh to ₹20 lakh, depending on store size and setup needs.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 
@@ -609,7 +629,11 @@ const Content = () => {
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
+<<<<<<< HEAD
                   The Buyzaar Mart offers a grocery store franchise in Rampur with a Mini Mart entry point of 18.5 to ₹20 lakh total investment.
+=======
+                  The Buyzaar Mart offers a grocery store franchise in Rampur with a Mini Mart entry point of 18.5 Lakh to ₹20 lakh total investment.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Get setup, POS billing, training, supply chain and marketing support under the FOCM model.

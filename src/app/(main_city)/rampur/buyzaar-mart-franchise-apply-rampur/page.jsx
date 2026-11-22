@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Apply in Rampur | Apply Now",
   description:
+<<<<<<< HEAD
     "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from 18.5. Submit your inquiry today.",
+=======
+    "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from 18.5 Lakh. Submit your inquiry today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "Buyzaar Mart franchise apply Rampur",
     "apply for Buyzaar Mart franchise",
@@ -21,7 +25,7 @@ export const metadata = {
     "Buyzaar Mart franchise documents",
     "how to apply for supermarket franchise",
     "low investment franchise Rampur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "mini mart franchise Rampur",
     "super mart franchise Rampur",
     "hyper mart franchise Rampur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Apply in Rampur | Apply Now",
     description:
+<<<<<<< HEAD
       "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from 18.5. Submit your inquiry today.",
+=======
+      "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from 18.5 Lakh. Submit your inquiry today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-apply-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Apply in Rampur | Apply Now",
     description:
+<<<<<<< HEAD
       "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from 18.5. Submit your inquiry today.",
+=======
+      "Apply for a Buyzaar Mart franchise in Rampur. Know the documents, application steps and support. Total investment from 18.5 Lakh. Submit your inquiry today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

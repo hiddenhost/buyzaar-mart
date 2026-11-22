@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Above Rs 15 Lakh in Aligarh | The Buyzaar Mart",
+  name: "Mart Franchise Above Rs 18.5 lakh in Aligarh | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers Super Mart and Hyper Mart franchise opportunities in Aligarh with FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support for higher-investment retail formats.",
   url: "https://www.thebuyzaarmart.com/aligarh/mart-franchise-above-15-lakh-aligarh",
@@ -49,7 +49,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What is the investment range for a mart franchise above Rs 15 lakh?",
+      name: "What is the investment range for a mart franchise above Rs 18.5 lakh?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It typically ranges from around Rs 23 lakh for a Super Mart up to Rs 1.8 crore for a Hyper Mart format.",
@@ -128,11 +128,11 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Above Rs 15 Lakh in Aligarh: Super Mart & Hyper Mart Guide
+              Mart Franchise Above Rs 18.5 lakh in Aligarh: Super Mart & Hyper Mart Guide
             </h1>
 
             <p>
-              For entrepreneurs who have more than Rs 15–20 lakh to invest and want a retail business with greater scale, revenue potential, and market presence, moving beyond the entry-level Mini Mart format makes sense. A mart franchise above Rs 15 lakh in Aligarh typically means stepping into the Super Mart or Hyper Mart category — larger stores with wider product ranges, higher footfall capacity, and correspondingly higher revenue ceilings. This guide covers what these higher-investment formats look like, how to evaluate whether they suit your budget and goals, and how to plan the setup process with a brand like The Buyzaar Mart.
+              For entrepreneurs who have more than Rs 15–20 lakh to invest and want a retail business with greater scale, revenue potential, and market presence, moving beyond the entry-level Mini Mart format makes sense. A mart franchise above Rs 18.5 lakh in Aligarh typically means stepping into the Super Mart or Hyper Mart category — larger stores with wider product ranges, higher footfall capacity, and correspondingly higher revenue ceilings. This guide covers what these higher-investment formats look like, how to evaluate whether they suit your budget and goals, and how to plan the setup process with a brand like The Buyzaar Mart.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -152,7 +152,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Understanding the Format Options Above Rs 15 Lakh
+              Understanding the Format Options Above Rs 18.5 lakh
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -161,7 +161,7 @@ const Content = () => {
             </ul>
 
             <p>
-              Within the &quot;above Rs 15 lakh&quot; category, the Super Mart format tends to be the natural next step for most applicants, offering a meaningful upgrade in scale without jumping to the significantly higher capital requirement of a Hyper Mart.
+              Within the &quot;above Rs 18.5 lakh&quot; category, the Super Mart format tends to be the natural next step for most applicants, offering a meaningful upgrade in scale without jumping to the significantly higher capital requirement of a Hyper Mart.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -235,7 +235,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. What is the investment range for a mart franchise above Rs 15 lakh?
+                  Q1. What is the investment range for a mart franchise above Rs 18.5 lakh?
                 </h3>
                 <p className="mt-2">
                   It typically ranges from around Rs 78 lakh for a Super Mart up to Rs 2 crore for a Hyper Mart format.

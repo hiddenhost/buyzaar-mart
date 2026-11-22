@@ -253,7 +253,7 @@ const Content = () => {
             </p>
 
             <p>
-              Call: 9217991727 
+              Call: 9217991727
             </p>
 
             <p>
@@ -296,7 +296,7 @@ const Content = () => {
                   Q3. What is the expected monthly revenue from a Mini Mart in Muzaffarnagar?
                 </h3>
                 <p className="text-sm">
-                  Expected monthly revenue varies based on location, footfall, and operational efficiency. A well-located Mini Mart in Muzaffarnagar typically generates Rs. 8-15 lakhs in monthly sales with healthy profit margins under The Buyzaar Mart model.
+                  Expected monthly revenue varies based on location, footfall, and operational efficiency. A well-located Mini Mart in Muzaffarnagar typically generates Rs. 8-18.5 lakhs in monthly sales with healthy profit margins under The Buyzaar Mart model.
                 </p>
               </div>
             </div>

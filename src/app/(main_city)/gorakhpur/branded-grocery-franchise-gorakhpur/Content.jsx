@@ -5,7 +5,11 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "Branded Grocery Franchise in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5. Apply today!",
+=======
+    "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5 Lakh. Apply today!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
 };
 
 const localBusinessSchema = {
@@ -65,7 +69,11 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
+<<<<<<< HEAD
       "A single unit starts from 18.5, depending on format, area, stock and interiors.",
+=======
+      "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   },
   {
     question: "Do I need retail experience?",
@@ -117,7 +125,11 @@ const sections = [
       "A branded grocery franchise is a store that operates under an established brand name, with set standards for products, pricing, store look and customer service.",
       "The brand gives you a ready identity, so customers can recognise and trust your store from the first day.",
       "The Buyzaar Mart offers this model in Gorakhpur through Mini Mart, Super Mart and Hyper Mart formats.",
+<<<<<<< HEAD
       "Investment starts from 18.5, and the brand indicates an effective gross margin of 18–20% on sales.",
+=======
+      "Investment starts from 18.5 Lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       "This page explains what a brand adds to a grocery business and how The Buyzaar Mart supports you in building local trust.",
     ],
   },
@@ -326,7 +338,11 @@ const sections = [
       {
         title: "Investment",
         items: [
+<<<<<<< HEAD
           "The investment starts from 18.5 for a single unit and depends on format and area.",
+=======
+          "The investment starts from 18.5 Lakh for a single unit and depends on format and area.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
           "It covers stock, interior, software fee, franchise fee including 18% GST and security deposit.",
           "The investment calculator on the franchise page gives an estimate for your size.",
           "Rent for the premises is paid by the franchise partner.",

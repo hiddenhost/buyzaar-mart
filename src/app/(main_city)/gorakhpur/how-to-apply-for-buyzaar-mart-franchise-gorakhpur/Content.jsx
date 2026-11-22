@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "How to Apply for Buyzaar Mart Franchise in Gorakhpur",
   description:
+<<<<<<< HEAD
     "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM and FOCO models, documents, support, and investment from 18.5.",
+=======
+    "Learn how to apply for a Buyzaar Mart franchise in Gorakhpur. Step-by-step process, FOCM and FOCO models, documents, support, and investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-apply-for-buyzaar-mart-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -74,7 +78,11 @@ const faqSchema = {
       name: "What is the starting investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment starts from 18.5, depending on store size and format.",
+=======
+        text: "Investment starts from 18.5 Lakh, depending on store size and format.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -163,7 +171,11 @@ const Content = () => {
               <li>
                 The Buyzaar Mart is a grocery and supermarket franchise brand
                 with the promise &quot;Your Friendly Neighborhood Store&quot;,
+<<<<<<< HEAD
                 and investment starts from 18.5.
+=======
+                and investment starts from 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 Gorakhpur is a busy city of eastern Uttar Pradesh with a large
@@ -191,7 +203,11 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 Fix the amount you are comfortable investing, keeping in mind
+<<<<<<< HEAD
                 that the franchise starts from 18.5.
+=======
+                that the franchise starts from 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 Remember that the total depends on store format and area, and
@@ -791,7 +807,11 @@ const Content = () => {
                   3. What is the starting investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Investment starts from 18.5, depending on store size and
+=======
+                  Investment starts from 18.5 Lakh, depending on store size and
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   format.
                 </p>
               </div>

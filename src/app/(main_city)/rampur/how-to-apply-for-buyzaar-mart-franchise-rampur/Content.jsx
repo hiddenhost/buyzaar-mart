@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "How to Apply for Buyzaar Mart Franchise Rampur | Steps",
   description:
+<<<<<<< HEAD
     "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5. Call +91 9217991727.",
+=======
+    "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5 Lakh. Call +91 9217991727.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/rampur/how-to-apply-for-buyzaar-mart-franchise-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -68,7 +72,11 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your space.",
+=======
+        text: "The total investment starts from 18.5 Lakh and varies with store size, so confirm the exact figure for your space.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -204,7 +212,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 The Buyzaar Mart franchise starts from a total investment of 18.5, and the final figure depends on your store type and area.
+=======
+                The Buyzaar Mart franchise starts from a total investment of 18.5 Lakh, and the final figure depends on your store type and area.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The total includes stock, interior, software fee, franchise fee with 18% GST and security deposit, so you can plan the full commitment in one number.
@@ -626,7 +638,11 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your space.
+=======
+                  The total investment starts from 18.5 Lakh and varies with store size, so confirm the exact figure for your space.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

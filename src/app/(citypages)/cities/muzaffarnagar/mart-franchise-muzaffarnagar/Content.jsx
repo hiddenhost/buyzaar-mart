@@ -181,7 +181,11 @@ const Content = () => {
                   3. What is the investment required to start a mart franchise in Muzaffarnagar?
                 </h3>
                 <p className="text-sm">
+<<<<<<< HEAD
                   The investment typically starts from around 18.5s for a Mini Mart and can go higher depending on store size and format.
+=======
+                  The investment typically starts from around 18.5 Lakhs for a Mini Mart and can go higher depending on store size and format.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

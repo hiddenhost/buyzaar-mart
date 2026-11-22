@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Franchise Business Investment in Gorakhpur | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for franchise business investment in Gorakhpur? The Buyzaar Mart offers supermarket franchises from 18.5 with POS, training & support. Apply now!",
+=======
+    "Looking for franchise business investment in Gorakhpur? The Buyzaar Mart offers supermarket franchises from 18.5 Lakh with POS, training & support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "franchise business investment Gorakhpur",
     "franchise business in Gorakhpur",
@@ -18,7 +22,7 @@ export const metadata = {
     "grocery franchise Gorakhpur",
     "retail franchise Gorakhpur",
     "Buyzaar Mart franchise",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "mini mart franchise",
     "super mart franchise",
     "hyper mart franchise",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Franchise Business Investment in Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for franchise business investment in Gorakhpur? The Buyzaar Mart offers supermarket franchises from 18.5 with POS, training & support. Apply now!",
+=======
+      "Looking for franchise business investment in Gorakhpur? The Buyzaar Mart offers supermarket franchises from 18.5 Lakh with POS, training & support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/franchise-business-investment-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Franchise Business Investment in Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for franchise business investment in Gorakhpur? The Buyzaar Mart offers supermarket franchises from 18.5 with POS, training & support. Apply now!",
+=======
+      "Looking for franchise business investment in Gorakhpur? The Buyzaar Mart offers supermarket franchises from 18.5 Lakh with POS, training & support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

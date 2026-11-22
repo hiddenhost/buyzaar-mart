@@ -42,7 +42,11 @@ const faqSchema = {
       name: "What is the investment required to start a retail franchise with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from 18.5. The total investment depends on the store format, location, and size of the selected commercial space.",
+=======
+        text: "The minimum investment starts from 18.5 Lakh. The total investment depends on the store format, location, and size of the selected commercial space.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -116,7 +120,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               If you have been evaluating a retail business franchise in Greater Noida, The Buyzaar Mart offers a model that is structured, transparent, professionally managed, and accessible from an investment of just 18.5. Backed by a robust Franchise Owned Company Managed (FOCM) framework, this franchise gives you the dual advantage of owning a retail asset while having the company run it on your behalf. You invest. The brand operates. Together, you grow.
+=======
+              If you have been evaluating a retail business franchise in Greater Noida, The Buyzaar Mart offers a model that is structured, transparent, professionally managed, and accessible from an investment of just 18.5 Lakh. Backed by a robust Franchise Owned Company Managed (FOCM) framework, this franchise gives you the dual advantage of owning a retail asset while having the company run it on your behalf. You invest. The brand operates. Together, you grow.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -284,7 +292,11 @@ const Content = () => {
             </h2>
 
             <p>
+<<<<<<< HEAD
               The Buyzaar Mart FOCM retail franchise begins at an investment of 18.5, covering the store setup, initial inventory, onboarding fees, and technology deployment. The final investment amount varies depending on the store format selected and the size of the commercial space.
+=======
+              The Buyzaar Mart FOCM retail franchise begins at an investment of 18.5 Lakh, covering the store setup, initial inventory, onboarding fees, and technology deployment. The final investment amount varies depending on the store format selected and the size of the commercial space.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <p>

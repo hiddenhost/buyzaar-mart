@@ -66,7 +66,11 @@ const faqSchema = {
       name: "What is the starting investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The franchise starts from 18.5, depending on the format you choose.",
+=======
+        text: "The franchise starts from 18.5 Lakh, depending on the format you choose.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -165,7 +169,11 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart is a neighbourhood grocery and FMCG franchise designed around how families in Uttar Pradesh and North India actually shop every week.</li>
               <li>The range covers groceries, staples, personal care, beverages, homecare, hygiene, stationery and snacks under one roof, so customers can finish most of their shopping in a single visit.</li>
+<<<<<<< HEAD
               <li>Investment starts from 18.5, and the final figure depends on the store format you choose and your location.</li>
+=======
+              <li>Investment starts from 18.5 Lakh, and the final figure depends on the store format you choose and your location.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>Franchise partners earn an effective gross margin of 18 to 20% on sales through the brand&apos;s sourcing model, without depending on uncertain performance slabs.</li>
             </ul>
 
@@ -376,7 +384,11 @@ const Content = () => {
                   What is the starting investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The franchise starts from 18.5, depending on the format you choose.
+=======
+                  The franchise starts from 18.5 Lakh, depending on the format you choose.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

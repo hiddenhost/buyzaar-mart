@@ -7,7 +7,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Franchise to Open in Rampur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for the best franchise to open in Rampur? Compare demand, support and costs, and see Buyzaar Mart’s FOCM and FOCO models. Total investment from 18.5.",
+=======
+    "Looking for the best franchise to open in Rampur? Compare demand, support and costs, and see Buyzaar Mart’s FOCM and FOCO models. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "best franchise to open in rampur",
     "best franchise in rampur",
@@ -27,7 +31,7 @@ export const metadata = {
     "Mini Mart franchise rampur",
     "Super Mart franchise rampur",
     "Hyper Mart franchise rampur",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "supermarket franchise Uttar Pradesh",
     "supermarket franchise UP",
     "how to choose a franchise India",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Best Franchise to Open in Rampur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best franchise to open in Rampur? Compare demand, support and costs, and see Buyzaar Mart’s FOCM and FOCO models. Total investment from 18.5.",
+=======
+      "Looking for the best franchise to open in Rampur? Compare demand, support and costs, and see Buyzaar Mart’s FOCM and FOCO models. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/rampur/best-franchise-to-open-in-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Franchise to Open in Rampur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best franchise to open in Rampur? Compare demand, support and costs, and see Buyzaar Mart’s FOCM and FOCO models. Total investment from 18.5.",
+=======
+      "Looking for the best franchise to open in Rampur? Compare demand, support and costs, and see Buyzaar Mart’s FOCM and FOCO models. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

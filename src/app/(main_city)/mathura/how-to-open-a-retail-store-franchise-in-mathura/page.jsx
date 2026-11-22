@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Open a Retail Store Franchise in Mathura | Buyzaar Mart Guide",
   description:
+<<<<<<< HEAD
     "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 with Buyzaar Mart.",
+=======
+    "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 Lakh with Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "how to open retail store franchise Mathura",
     "retail store franchise Mathura",
@@ -39,7 +43,11 @@ export const metadata = {
     title:
       "How to Open a Retail Store Franchise in Mathura | Buyzaar Mart Guide",
     description:
+<<<<<<< HEAD
       "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 with Buyzaar Mart.",
+=======
+      "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 Lakh with Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/mathura/how-to-open-a-retail-store-franchise-in-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +66,11 @@ export const metadata = {
     title:
       "How to Open a Retail Store Franchise in Mathura | Buyzaar Mart Guide",
     description:
+<<<<<<< HEAD
       "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 with Buyzaar Mart.",
+=======
+      "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 Lakh with Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

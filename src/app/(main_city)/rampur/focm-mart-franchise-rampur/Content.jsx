@@ -8,7 +8,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Mart Franchise in Rampur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Own a FOCM mart franchise in Rampur with The Buyzaar Mart. Company-managed systems, training and launch support. Total investment from 18.5.",
+=======
+    "Own a FOCM mart franchise in Rampur with The Buyzaar Mart. Company-managed systems, training and launch support. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/rampur/focm-mart-franchise-rampur",
   telephone: "+919217991727",
   address: {
@@ -67,7 +71,11 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The franchise starts from 18.5 as a total investment. A Mini Mart may range from 18.5 to ₹20 Lakh, depending on size and location.",
+=======
+        text: "The franchise starts from 18.5 Lakh as a total investment. A Mini Mart may range from 18.5 Lakh to ₹20 Lakh, depending on size and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -256,7 +264,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 The Buyzaar Mart franchise starts from 18.5 as a total investment. The FAQ page says a Mini Mart of 600–1000 sq ft might range between 18.5 and ₹20 Lakh.
+=======
+                The Buyzaar Mart franchise starts from 18.5 Lakh as a total investment. The FAQ page says a Mini Mart of 600–1000 sq ft might range between 18.5 Lakh and ₹20 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The final amount depends on store size, layout, location and the work your premises need, so larger formats need a larger total.
@@ -532,7 +544,11 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The franchise starts from 18.5 as a total investment. A Mini Mart may range from 18.5 to ₹20 Lakh, depending on size and location.
+=======
+                  The franchise starts from 18.5 Lakh as a total investment. A Mini Mart may range from 18.5 Lakh to ₹20 Lakh, depending on size and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 
@@ -589,7 +605,11 @@ const Content = () => {
                   The Buyzaar Mart offers a FOCM mart franchise in Rampur, where you own the outlet while the company manages operations and standards.
                 </li>
                 <li>
+<<<<<<< HEAD
                   Total investment starts from 18.5, with a Mini Mart typically ranging between 18.5 and ₹20 Lakh.
+=======
+                  Total investment starts from 18.5 Lakh, with a Mini Mart typically ranging between 18.5 Lakh and ₹20 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Submit an inquiry on thebuyzaarmart.com or call{" "}

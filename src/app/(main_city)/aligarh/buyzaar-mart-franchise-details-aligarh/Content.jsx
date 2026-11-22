@@ -60,7 +60,11 @@ const faqSchema = {
       name: "What is the minimum investment required for a Buyzaar Mart franchise in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment generally starts from around 18.5, depending on the chosen store format and location.",
+=======
+        text: "Investment generally starts from around 18.5 Lakh, depending on the chosen store format and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -145,7 +149,7 @@ const Content = () => {
       <div className="flex flex-col lg:flex-row">
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
-            
+
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -212,7 +216,11 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>Franchise investment generally starts from around 18.5, depending on the chosen store format and location.</li>
+=======
+              <li>Franchise investment generally starts from around 18.5 Lakh, depending on the chosen store format and location.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>The investment typically covers store interiors, initial stock, POS system installation, branding, and launch support.</li>
               <li>Larger formats such as Super Mart and Hyper Mart require a proportionately higher investment based on the additional space and stock requirements.</li>
               <li>The franchise fee, interior costs, and opening stock costs are usually itemized clearly in the franchise proposal shared with the applicant.</li>
@@ -325,7 +333,11 @@ const Content = () => {
                   What is the minimum investment required for a Buyzaar Mart franchise in Aligarh?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Investment generally starts from around 18.5, depending on the chosen store format and location.
+=======
+                  Investment generally starts from around 18.5 Lakh, depending on the chosen store format and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

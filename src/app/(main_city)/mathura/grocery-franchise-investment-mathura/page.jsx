@@ -7,7 +7,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Investment in Mathura | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a grocery franchise in Mathura with The Buyzaar Mart. Investment from 18.5, FOCM/FOFO models, FSSAI-compliant supply chain, and full launch support.",
+=======
+    "Start a grocery franchise in Mathura with The Buyzaar Mart. Investment from 18.5 Lakh, FOCM/FOFO models, FSSAI-compliant supply chain, and full launch support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "grocery franchise investment Mathura",
     "grocery store franchise Mathura",
@@ -39,7 +43,11 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Investment in Mathura | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a grocery franchise in Mathura with The Buyzaar Mart. Investment from 18.5, FOCM/FOFO models, FSSAI-compliant supply chain, and full launch support.",
+=======
+      "Start a grocery franchise in Mathura with The Buyzaar Mart. Investment from 18.5 Lakh, FOCM/FOFO models, FSSAI-compliant supply chain, and full launch support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/mathura/grocery-franchise-investment-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +65,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Investment in Mathura | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a grocery franchise in Mathura with The Buyzaar Mart. Investment from 18.5, FOCM/FOFO models, FSSAI-compliant supply chain, and full launch support.",
+=======
+      "Start a grocery franchise in Mathura with The Buyzaar Mart. Investment from 18.5 Lakh, FOCM/FOFO models, FSSAI-compliant supply chain, and full launch support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

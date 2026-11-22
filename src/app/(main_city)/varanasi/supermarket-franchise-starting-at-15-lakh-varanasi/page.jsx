@@ -4,16 +4,20 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Supermarket Franchise Starting at 15 Lakh in Varanasi | Buyzaar Mart",
+  title: "Supermarket Franchise Starting at 18.5 lakh in Varanasi | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+=======
+    "Start your own supermarket franchise in Varanasi at an investment of just 18.5 Lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
-    "supermarket franchise starting at 15 lakh Varanasi",
+    "supermarket franchise starting at 18.5 lakh Varanasi",
     "low investment supermarket franchise",
     "Buyzaar Mart franchise",
     "mini mart franchise Varanasi",
     "affordable retail franchise Varanasi",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "supermarket business Varanasi",
   ],
   alternates: {
@@ -21,9 +25,13 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi",
   },
   openGraph: {
-    title: "Supermarket Franchise Starting at 15 Lakh in Varanasi | Buyzaar Mart",
+    title: "Supermarket Franchise Starting at 18.5 lakh in Varanasi | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+=======
+      "Start your own supermarket franchise in Varanasi at an investment of just 18.5 Lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
@@ -31,7 +39,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Supermarket Franchise Starting at 15 Lakh in Varanasi | Buyzaar Mart",
+        alt: "Supermarket Franchise Starting at 18.5 lakh in Varanasi | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -39,9 +47,13 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Supermarket Franchise Starting at 15 Lakh in Varanasi | Buyzaar Mart",
+    title: "Supermarket Franchise Starting at 18.5 lakh in Varanasi | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+=======
+      "Start your own supermarket franchise in Varanasi at an investment of just 18.5 Lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Franchise Opportunity in Mathura | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a retail franchise in Mathura with The Buyzaar Mart. Investment from 18.5, 18-20% margin, full setup, POS, supply chain and training. Apply now.",
+=======
+    "Start a retail franchise in Mathura with The Buyzaar Mart. Investment from 18.5 Lakh, 18-20% margin, full setup, POS, supply chain and training. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "retail franchise opportunity Mathura",
     "retail franchise Mathura",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Retail Franchise Opportunity in Mathura | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a retail franchise in Mathura with The Buyzaar Mart. Investment from 18.5, 18-20% margin, full setup, POS, supply chain and training. Apply now.",
+=======
+      "Start a retail franchise in Mathura with The Buyzaar Mart. Investment from 18.5 Lakh, 18-20% margin, full setup, POS, supply chain and training. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/mathura/retail-franchise-opportunity-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Franchise Opportunity in Mathura | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a retail franchise in Mathura with The Buyzaar Mart. Investment from 18.5, 18-20% margin, full setup, POS, supply chain and training. Apply now.",
+=======
+      "Start a retail franchise in Mathura with The Buyzaar Mart. Investment from 18.5 Lakh, 18-20% margin, full setup, POS, supply chain and training. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -235,7 +235,11 @@ const Content = () => {
 
             <p>
               The Buyzaar Mart publicly highlights franchise entry from around
+<<<<<<< HEAD
               18.5 for its broader supermarket setup formats. For investors
+=======
+              18.5 Lakh for its broader supermarket setup formats. For investors
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               exploring smaller formats or compact neighbourhood stores, the
               practical first step is to speak directly with the team and
               discuss the smallest available format for the target Bareilly

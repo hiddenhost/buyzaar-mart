@@ -5,9 +5,15 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+<<<<<<< HEAD
   name: "Mart Franchise Starting From 18.5 in Agra | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers a mart franchise starting from 18.5 in Agra through its Mini Mart format with company-managed operations, structured support, and a transparent investment breakdown.",
+=======
+  name: "Mart Franchise Starting From 18.5 Lakh in Agra | The Buyzaar Mart",
+  description:
+    "The Buyzaar Mart offers a mart franchise starting from 18.5 Lakh in Agra through its Mini Mart format with company-managed operations, structured support, and a transparent investment breakdown.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/agra/mart-franchise-starting-from-15-lakh-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +37,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
+<<<<<<< HEAD
           "Entry-level mart franchise format starting from approximately 18.5 in Agra.",
+=======
+          "Entry-level mart franchise format starting from approximately 18.5 Lakh in Agra.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -55,7 +65,11 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "Can I really start a mart franchise in Agra for 18.5?",
+=======
+      name: "Can I really start a mart franchise in Agra for 18.5 Lakh?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, the Mini Mart format starts at approximately ₹15,25,000 at 600 sqft.",
@@ -63,7 +77,11 @@ const faqSchema = {
     },
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "What does the 18.5 investment include?",
+=======
+      name: "What does the 18.5 Lakh investment include?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       acceptedAnswer: {
         "@type": "Answer",
         text: "Stock, interior, software fee, franchise fee, and a refundable security deposit.",
@@ -142,7 +160,11 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
+<<<<<<< HEAD
               Mart Franchise Starting From 18.5 in Agra
+=======
+              Mart Franchise Starting From 18.5 Lakh in Agra
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h1>
 
             <p>
@@ -150,18 +172,30 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               In Agra, however, it's possible to start a branded mart franchise with an investment beginning at approximately 18.5 through The Buyzaar Mart's Mini Mart format. This lower entry point makes organized retail accessible to a wider range of investors, including first-time business owners, small local entrepreneurs, and individuals looking to diversify into retail without committing a large amount of capital upfront. Despite the modest investment size, the Mini Mart format still offers the benefits of a branded, organized retail setup — including a structured product range, standardized store design, and operational support from the franchisor.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why a 18.5 Entry Point Matters for Investors
+=======
+              In Agra, however, it's possible to start a branded mart franchise with an investment beginning at approximately 18.5 Lakh through The Buyzaar Mart's Mini Mart format. This lower entry point makes organized retail accessible to a wider range of investors, including first-time business owners, small local entrepreneurs, and individuals looking to diversify into retail without committing a large amount of capital upfront. Despite the modest investment size, the Mini Mart format still offers the benefits of a branded, organized retail setup — including a structured product range, standardized store design, and operational support from the franchisor.
+            </p>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why a 18.5 Lakh Entry Point Matters for Investors
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
               <li>A lower entry investment makes organized retail franchising accessible to a wider range of first-time investors and small business owners.</li>
               <li>Many prospective franchisees are interested in retail but are hesitant to commit large sums without first understanding the business model.</li>
               <li>Starting with a smaller format allows investors to test the organized retail business model before considering an upgrade to a larger format later.</li>
+<<<<<<< HEAD
               <li>A 18.5 starting point is significantly more approachable compared to many larger-format retail franchise opportunities in the market.</li>
+=======
+              <li>A 18.5 Lakh starting point is significantly more approachable compared to many larger-format retail franchise opportunities in the market.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>This entry-level option is particularly relevant in a Tier 2 city like Agra, where real estate and operational costs remain comparatively accessible.</li>
             </ul>
 
@@ -214,7 +248,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               What the 18.5 Investment Includes
+=======
+              What the 18.5 Lakh Investment Includes
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -341,14 +379,22 @@ const Content = () => {
 
             <div className="mt-4 space-y-4">
               <div>
+<<<<<<< HEAD
                 <h3 className="font-medium text-gray-900">Q1. Can I really start a mart franchise in Agra for 18.5?</h3>
+=======
+                <h3 className="font-medium text-gray-900">Q1. Can I really start a mart franchise in Agra for 18.5 Lakh?</h3>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 <p className="mt-2">
                   Yes, the Mini Mart format starts at approximately ₹15,25,000 at 600 sqft.
                 </p>
               </div>
 
               <div>
+<<<<<<< HEAD
                 <h3 className="font-medium text-gray-900">Q2. What does the 18.5 investment include?</h3>
+=======
+                <h3 className="font-medium text-gray-900">Q2. What does the 18.5 Lakh investment include?</h3>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 <p className="mt-2">
                   Stock, interior, software fee, franchise fee, and a refundable security deposit.
                 </p>
@@ -429,7 +475,7 @@ const Content = () => {
               </ul>
             </div>
 
-            
+
           </div>
 
           <CityInternalLinks

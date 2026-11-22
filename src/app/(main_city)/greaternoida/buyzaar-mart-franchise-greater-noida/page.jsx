@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "Buyzaar Mart Franchise in Greater Noida | Low Investment Grocery Store",
   description:
+<<<<<<< HEAD
     "Open a Buyzaar Mart grocery franchise in Greater Noida. Low investment from 18.5, FOCM model, full brand & supply chain support. Apply now at thebuyzaarmart.com!",
+=======
+    "Open a Buyzaar Mart grocery franchise in Greater Noida. Low investment from 18.5 Lakh, FOCM model, full brand & supply chain support. Apply now at thebuyzaarmart.com!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/greaternoida/buyzaar-mart-franchise-greater-noida",
@@ -16,7 +20,11 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise in Greater Noida | Low Investment Grocery Store",
     description:
+<<<<<<< HEAD
       "Open a Buyzaar Mart grocery franchise in Greater Noida. Low investment from 18.5, FOCM model, full brand & supply chain support. Apply now at thebuyzaarmart.com!",
+=======
+      "Open a Buyzaar Mart grocery franchise in Greater Noida. Low investment from 18.5 Lakh, FOCM model, full brand & supply chain support. Apply now at thebuyzaarmart.com!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/greaternoida/buyzaar-mart-franchise-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +43,11 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise in Greater Noida | Low Investment Grocery Store",
     description:
+<<<<<<< HEAD
       "Open a Buyzaar Mart grocery franchise in Greater Noida. Low investment from 18.5, FOCM model, full brand & supply chain support. Apply now at thebuyzaarmart.com!",
+=======
+      "Open a Buyzaar Mart grocery franchise in Greater Noida. Low investment from 18.5 Lakh, FOCM model, full brand & supply chain support. Apply now at thebuyzaarmart.com!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

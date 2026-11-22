@@ -66,7 +66,11 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise in Agra?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The Mini Mart format starts at 18.5. Investment requirements vary by format and location.",
+=======
+        text: "The Mini Mart format starts at 18.5 Lakh. Investment requirements vary by format and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -251,7 +255,11 @@ const Content = () => {
             </h2>
 
             <p>
+<<<<<<< HEAD
               The Buyzaar Mart FMCG franchise in Agra starts at 18.5 for the Mini Mart format. Investment covers franchise rights, store interior and setup, opening inventory, technology infrastructure, and launch marketing. The investment range increases for Super Mart and Hyper Mart formats based on store size and location.
+=======
+              The Buyzaar Mart FMCG franchise in Agra starts at 18.5 Lakh for the Mini Mart format. Investment covers franchise rights, store interior and setup, opening inventory, technology infrastructure, and launch marketing. The investment range increases for Super Mart and Hyper Mart formats based on store size and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <p>
@@ -293,7 +301,11 @@ const Content = () => {
                   What is the minimum investment for a Buyzaar Mart franchise in Agra?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The Mini Mart format starts at 18.5. Investment requirements vary by format and location.
+=======
+                  The Mini Mart format starts at 18.5 Lakh. Investment requirements vary by format and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

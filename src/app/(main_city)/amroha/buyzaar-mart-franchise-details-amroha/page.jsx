@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise in Amroha | Supermarket Franchise",
   description:
+<<<<<<< HEAD
     "Start a Buyzaar Mart supermarket franchise in Amroha from 18.5 total investment. 18-20% gross margin, full setup, POS, training and support. Apply today.",
+=======
+    "Start a Buyzaar Mart supermarket franchise in Amroha from 18.5 Lakh total investment. 18-20% gross margin, full setup, POS, training and support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "Buyzaar Mart franchise Amroha",
     "The Buyzaar Mart Amroha",
@@ -42,7 +46,11 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise in Amroha | Supermarket Franchise",
     description:
+<<<<<<< HEAD
       "Start a Buyzaar Mart supermarket franchise in Amroha from 18.5 total investment. 18-20% gross margin, full setup, POS, training and support. Apply today.",
+=======
+      "Start a Buyzaar Mart supermarket franchise in Amroha from 18.5 Lakh total investment. 18-20% gross margin, full setup, POS, training and support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-details-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +68,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise in Amroha | Supermarket Franchise",
     description:
+<<<<<<< HEAD
       "Start a Buyzaar Mart supermarket franchise in Amroha from 18.5 total investment. 18-20% gross margin, full setup, POS, training and support. Apply today.",
+=======
+      "Start a Buyzaar Mart supermarket franchise in Amroha from 18.5 Lakh total investment. 18-20% gross margin, full setup, POS, training and support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

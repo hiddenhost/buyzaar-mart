@@ -4,11 +4,17 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
+<<<<<<< HEAD
   title: "Mart Franchise Starting 18.5 in Gorakhpur | Buyzaar Mart",
   description:
     "Explore a mart franchise starting 18.5 in Gorakhpur. Compare FOCM and FOCO models, Mini Mart costs, documents, margins and launch support from The Buyzaar Mart.",
+=======
+  title: "Mart Franchise Starting 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+  description:
+    "Explore a mart franchise starting 18.5 Lakh in Gorakhpur. Compare FOCM and FOCO models, Mini Mart costs, documents, margins and launch support from The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
-    "mart franchise starting 15 lakh Gorakhpur",
+    "mart franchise starting 18.5 lakh Gorakhpur",
     "Mini Mart franchise Gorakhpur",
     "supermarket franchise Gorakhpur",
     "grocery franchise in Gorakhpur",
@@ -21,7 +27,7 @@ export const metadata = {
     "low investment supermarket franchise",
     "grocery franchise Uttar Pradesh",
     "retail franchise in Gorakhpur",
-    "15 lakh franchise business",
+    "18.5 lakh franchise business",
     "franchise business for beginners",
     "best franchise business in Gorakhpur",
     "FMCG retail franchise",
@@ -36,9 +42,15 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-starting-15-lakh-gorakhpur",
   },
   openGraph: {
+<<<<<<< HEAD
     title: "Mart Franchise Starting 18.5 in Gorakhpur | Buyzaar Mart",
     description:
       "Explore a mart franchise starting 18.5 in Gorakhpur. Compare FOCM and FOCO models, Mini Mart costs, documents, margins and launch support from The Buyzaar Mart.",
+=======
+    title: "Mart Franchise Starting 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+    description:
+      "Explore a mart franchise starting 18.5 Lakh in Gorakhpur. Compare FOCM and FOCO models, Mini Mart costs, documents, margins and launch support from The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-starting-15-lakh-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +58,11 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
+<<<<<<< HEAD
         alt: "Mart Franchise Starting 18.5 in Gorakhpur | Buyzaar Mart",
+=======
+        alt: "Mart Franchise Starting 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     ],
     locale: "en_IN",
@@ -54,9 +70,15 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
+<<<<<<< HEAD
     title: "Mart Franchise Starting 18.5 in Gorakhpur | Buyzaar Mart",
     description:
       "Explore a mart franchise starting 18.5 in Gorakhpur. Compare FOCM and FOCO models, Mini Mart costs, documents, margins and launch support from The Buyzaar Mart.",
+=======
+    title: "Mart Franchise Starting 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+    description:
+      "Explore a mart franchise starting 18.5 Lakh in Gorakhpur. Compare FOCM and FOCO models, Mini Mart costs, documents, margins and launch support from The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

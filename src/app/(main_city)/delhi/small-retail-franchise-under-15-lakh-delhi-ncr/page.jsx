@@ -4,23 +4,23 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Small Retail Franchise Under 15 Lakh in Delhi NCR | Buyzaar Mart",
+  title: "Small Retail Franchise Under 18.5 lakh in Delhi NCR | Buyzaar Mart",
   description:
-    "Start a small retail franchise under 15 lakh in Delhi NCR with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply now!",
+    "Start a small retail franchise under 18.5 lakh in Delhi NCR with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply now!",
   keywords: [
-    "small retail franchise under 15 lakh Delhi NCR",
-    "small retail franchise under 15 lakh",
-    "retail franchise under 15 lakh Delhi NCR",
+    "small retail franchise under 18.5 lakh Delhi NCR",
+    "small retail franchise under 18.5 lakh",
+    "retail franchise under 18.5 lakh Delhi NCR",
     "low investment retail franchise Delhi NCR",
-    "grocery franchise under 15 lakh Delhi NCR",
-    "mini mart franchise under 15 lakh Delhi NCR",
-    "supermarket franchise under 15 lakh Delhi NCR",
-    "Buyzaar Mart franchise under 15 lakh Delhi NCR",
+    "grocery franchise under 18.5 lakh Delhi NCR",
+    "mini mart franchise under 18.5 lakh Delhi NCR",
+    "supermarket franchise under 18.5 lakh Delhi NCR",
+    "Buyzaar Mart franchise under 18.5 lakh Delhi NCR",
     "small grocery franchise Delhi NCR",
     "low cost grocery franchise Delhi NCR",
     "budget retail franchise Delhi NCR",
     "affordable franchise Delhi NCR",
-    "franchise business under 15 lakh Delhi NCR",
+    "franchise business under 18.5 lakh Delhi NCR",
     "small business franchise Delhi NCR",
     "retail business opportunity Delhi NCR",
     "grocery store franchise Delhi NCR",
@@ -34,9 +34,9 @@ export const metadata = {
     canonical: "https://www.thebuyzaarmart.com/delhi/small-retail-franchise-under-15-lakh-delhi-ncr",
   },
   openGraph: {
-    title: "Small Retail Franchise Under 15 Lakh in Delhi NCR | Buyzaar Mart",
+    title: "Small Retail Franchise Under 18.5 lakh in Delhi NCR | Buyzaar Mart",
     description:
-      "Start a small retail franchise under 15 lakh in Delhi NCR with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply now!",
+      "Start a small retail franchise under 18.5 lakh in Delhi NCR with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply now!",
     url: "https://www.thebuyzaarmart.com/delhi/small-retail-franchise-under-15-lakh-delhi-ncr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -44,7 +44,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Small Retail Franchise Under 15 Lakh in Delhi NCR | Buyzaar Mart",
+        alt: "Small Retail Franchise Under 18.5 lakh in Delhi NCR | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -52,9 +52,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Small Retail Franchise Under 15 Lakh in Delhi NCR | Buyzaar Mart",
+    title: "Small Retail Franchise Under 18.5 lakh in Delhi NCR | Buyzaar Mart",
     description:
-      "Start a small retail franchise under 15 lakh in Delhi NCR with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply now!",
+      "Start a small retail franchise under 18.5 lakh in Delhi NCR with Buyzaar Mart. Low investment, brand support, and steady daily demand. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

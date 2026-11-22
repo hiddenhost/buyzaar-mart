@@ -34,7 +34,11 @@ const faqSchema = {
       name: "What is the minimum investment for a convenience store franchise in Faridabad with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment for a Mini Mart starting at 600 to 1000 square feet starts at 18.5, including inventory, store setup, POS software, franchise fee with GST, and security deposit.",
+=======
+        text: "The minimum investment for a Mini Mart starting at 600 to 1000 square feet starts at 18.5 Lakh, including inventory, store setup, POS software, franchise fee with GST, and security deposit.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -221,7 +225,11 @@ const Content = () => {
             </ul>
 
             <p>
+<<<<<<< HEAD
               For Faridabad entrepreneurs, the entry point starts from 18.5
+=======
+              For Faridabad entrepreneurs, the entry point starts from 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               for a Mini Mart. This includes inventory stock, store design and
               interior setup, POS software, franchise fee with GST, and
               security-related components.
@@ -512,7 +520,11 @@ const Content = () => {
                 </h3>
                 <p className="mt-2">
                   The minimum investment for a Mini Mart of 600-1000 sqft starts
+<<<<<<< HEAD
                   at 18.5, including inventory, store setup, POS software,
+=======
+                  at 18.5 Lakh, including inventory, store setup, POS software,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   franchise fee with GST, and security deposit. Super Marts and
                   Hyper Marts require higher investment depending on size and
                   location.

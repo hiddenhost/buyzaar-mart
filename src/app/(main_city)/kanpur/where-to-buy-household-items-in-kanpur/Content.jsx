@@ -33,7 +33,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
+<<<<<<< HEAD
           "Entry-level format starting around 18.5, best for compact residential pockets in Kanpur.",
+=======
+          "Entry-level format starting around 18.5 Lakh, best for compact residential pockets in Kanpur.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -102,7 +106,11 @@ const faqSchema = {
       name: "Can I open a Buyzaar Mart franchise for household and grocery retail in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Yes, franchise options are available under FOCM and FOCO models, starting around 18.5.",
+=======
+        text: "Yes, franchise options are available under FOCM and FOCO models, starting around 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -388,7 +396,11 @@ const Content = () => {
 
 
               <li>
+<<<<<<< HEAD
                 The starting investment for a Mini Mart format begins at around 18.5, covering important components such as the franchise fee, interior setup, POS technology, and opening inventory, making it a comparatively accessible option for entrepreneurs entering the organized retail sector for where to buy household items in Kanpur.
+=======
+                The starting investment for a Mini Mart format begins at around 18.5 Lakh, covering important components such as the franchise fee, interior setup, POS technology, and opening inventory, making it a comparatively accessible option for entrepreneurs entering the organized retail sector for where to buy household items in Kanpur.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
 
 
@@ -476,7 +488,11 @@ const Content = () => {
                   Can I open a Buyzaar Mart franchise for household and grocery retail in Kanpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Yes, franchise options are available under FOCM and FOCO models, starting around 18.5 for where to buy household items business in Kanpur.
+=======
+                  Yes, franchise options are available under FOCM and FOCO models, starting around 18.5 Lakh for where to buy household items business in Kanpur.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

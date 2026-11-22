@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Investment in Gorakhpur | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Plan your grocery franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5, POS, training & inventory support. Apply now!",
+=======
+    "Plan your grocery franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, POS, training & inventory support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "grocery franchise investment Gorakhpur",
     "grocery franchise in Gorakhpur",
@@ -20,7 +24,7 @@ export const metadata = {
     "grocery business in Gorakhpur",
     "open grocery store Gorakhpur",
     "low investment grocery franchise",
-    "grocery franchise from 15 lakh",
+    "grocery franchise from 18.5 lakh",
     "FOCM franchise model",
     "FOCO franchise model",
     "zero royalty grocery franchise",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Investment in Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Plan your grocery franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5, POS, training & inventory support. Apply now!",
+=======
+      "Plan your grocery franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, POS, training & inventory support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-investment-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Investment in Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Plan your grocery franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5, POS, training & inventory support. Apply now!",
+=======
+      "Plan your grocery franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, POS, training & inventory support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

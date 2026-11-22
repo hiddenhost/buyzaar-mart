@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Franchise Opportunity in Mathura | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "The Buyzaar Mart offers FOCO franchise opportunities in Mathura for investors seeking store ownership, professional company-operated retail management, supply chain support, POS visibility, and grocery retail investment from approximately 18.5.",
+=======
+    "The Buyzaar Mart offers FOCO franchise opportunities in Mathura for investors seeking store ownership, professional company-operated retail management, supply chain support, POS visibility, and grocery retail investment from approximately 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/mathura/foco-franchise-opportunity-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -74,7 +78,11 @@ const faqSchema = {
       name: "What is the minimum investment for this FOCO opportunity?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The investment is approximately 18.5 and above for a Mini Mart, varying by location and store size.",
+=======
+        text: "The investment is approximately 18.5 Lakh and above for a Mini Mart, varying by location and store size.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -276,7 +284,11 @@ const Content = () => {
                 into this new opportunity.
               </li>
               <li>
+<<<<<<< HEAD
                 Franchise investment starts from approximately 18.5, keeping the
+=======
+                Franchise investment starts from approximately 18.5 Lakh, keeping the
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 opportunity accessible without requiring institutional-level
                 capital.
               </li>
@@ -584,7 +596,11 @@ const Content = () => {
                   What&apos;s the minimum investment for this opportunity?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Approximately 18.5 and above for a Mini Mart, varying by
+=======
+                  Approximately 18.5 Lakh and above for a Mini Mart, varying by
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   location and store size.
                 </p>
               </div>

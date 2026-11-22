@@ -26,7 +26,7 @@ export const metadata = {
     "super mart franchise",
     "franchise partner without experience",
     "franchise partner with full support",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "franchise total investment",
     "become a franchisee in Amroha",
     "retail franchise in Amroha",

@@ -68,7 +68,11 @@ const faqSchema = {
       name: "What is the minimum investment to start a franchise in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A Mini Mart franchise typically starts from around 18.5, covering setup, stock, and launch support.",
+=======
+        text: "A Mini Mart franchise typically starts from around 18.5 Lakh, covering setup, stock, and launch support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -155,7 +159,7 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Moradabad&apos;s urban population has crossed roughly 12 lakh, with continuous growth expected to push it toward 14–15 lakh over the next few years, giving any well-located franchise store a large and expanding customer base.</li>
+              <li>Moradabad&apos;s urban population has crossed roughly 12 lakh, with continuous growth expected to push it toward 14–18.5 lakh over the next few years, giving any well-located franchise store a large and expanding customer base.</li>
               <li>Organised retail penetration in Moradabad remains noticeably low compared to metro cities and even compared to some neighbouring UP markets, meaning there is still an open window for a branded store to establish itself before competition intensifies.</li>
               <li>The city&apos;s brass manufacturing and export economy generates steady household income across a wide base of factory owners, artisans, traders, and workers, which translates directly into consistent daily FMCG spending.</li>
               <li>Most Moradabad shoppers still rely on unorganised kirana stores that lack billing transparency, consistent stock, and product freshness guarantees — a gap that a well-run franchise store is naturally positioned to close.</li>
@@ -209,7 +213,11 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>Low entry investment: A Mini Mart franchise starts from around 18.5, making it one of the more accessible organised retail opportunities available in a tier-2 city like Moradabad.</li>
+=======
+              <li>Low entry investment: A Mini Mart franchise starts from around 18.5 Lakh, making it one of the more accessible organised retail opportunities available in a tier-2 city like Moradabad.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>Site evaluation before commitment: The Buyzaar Mart&apos;s team surveys any proposed Moradabad location based on population density, purchasing capacity, and local demand before finalising the franchise, reducing the risk of a poorly chosen site.</li>
               <li>Buyback guarantee on unsold stock: Expired and damaged goods are taken back under company policy, removing one of the most common sources of financial loss for independent grocery stores.</li>
               <li>Centralised sourcing: Direct partnerships with 50-plus FMCG brands across personal care, home care, packaged foods, and staples give franchise stores competitive pricing that independent Moradabad retailers typically cannot access alone.</li>
@@ -329,7 +337,11 @@ const Content = () => {
                   What is the minimum investment to start a franchise in Moradabad?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A Mini Mart franchise typically starts from around 18.5, covering setup, stock, and launch support.
+=======
+                  A Mini Mart franchise typically starts from around 18.5 Lakh, covering setup, stock, and launch support.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

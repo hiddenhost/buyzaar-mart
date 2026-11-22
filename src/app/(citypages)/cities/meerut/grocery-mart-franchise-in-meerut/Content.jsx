@@ -166,7 +166,7 @@ const Content = () => {
 
             <div className="bg-gray-50 p-6 rounded-lg space-y-3">
               <p className="text-gray-900 font-semibold">
-                📞 Contact: +91-9217991727, 
+                📞 Contact: +91-9217991727,
               </p>
               <p className="text-gray-900">
                 📧 Email:{" "}
@@ -195,7 +195,11 @@ const Content = () => {
                   1. What are the expected monthly sales of a grocery franchise?
                 </h3>
                 <p className="text-sm">
+<<<<<<< HEAD
                   Average monthly sales can range from ₹6–18.5, depending on location and store performance.
+=======
+                  Average monthly sales can range from ₹6–18.5 Lakh, depending on location and store performance.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

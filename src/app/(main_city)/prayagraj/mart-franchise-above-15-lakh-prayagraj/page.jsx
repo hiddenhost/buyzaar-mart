@@ -4,16 +4,16 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Mart Franchise Above 15 Lakh in Prayagraj | Buyzaar Mart",
+  title: "Mart Franchise Above 18.5 lakh in Prayagraj | Buyzaar Mart",
   description:
-    "Explore a mart franchise investment above 15 lakh in Prayagraj with Buyzaar Mart. Larger store formats, wider product range, and strong franchise support.",
+    "Explore a mart franchise investment above 18.5 lakh in Prayagraj with Buyzaar Mart. Larger store formats, wider product range, and strong franchise support.",
   keywords: [
-    "mart franchise above 15 lakh Prayagraj",
+    "mart franchise above 18.5 lakh Prayagraj",
     "Buyzaar Mart franchise",
     "high investment franchise India",
     "large format grocery franchise",
     "supermarket franchise investment Prayagraj",
-    "franchise business above 15 lakh",
+    "franchise business above 18.5 lakh",
     "retail franchise investment UP",
     "big mart franchise Prayagraj",
     "grocery franchise scale investment",
@@ -23,9 +23,9 @@ export const metadata = {
     canonical: "https://www.thebuyzaarmart.com/prayagraj/mart-franchise-above-15-lakh-prayagraj",
   },
   openGraph: {
-    title: "Mart Franchise Above 15 Lakh in Prayagraj | Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 lakh in Prayagraj | Buyzaar Mart",
     description:
-      "Explore a mart franchise investment above 15 lakh in Prayagraj with Buyzaar Mart. Larger store formats, wider product range, and strong franchise support.",
+      "Explore a mart franchise investment above 18.5 lakh in Prayagraj with Buyzaar Mart. Larger store formats, wider product range, and strong franchise support.",
     url: "https://www.thebuyzaarmart.com/prayagraj/mart-franchise-above-15-lakh-prayagraj",
     siteName: "The Buyzaar Mart",
     images: [
@@ -33,7 +33,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Above 15 Lakh in Prayagraj | Buyzaar Mart",
+        alt: "Mart Franchise Above 18.5 lakh in Prayagraj | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -41,9 +41,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mart Franchise Above 15 Lakh in Prayagraj | Buyzaar Mart",
+    title: "Mart Franchise Above 18.5 lakh in Prayagraj | Buyzaar Mart",
     description:
-      "Explore a mart franchise investment above 15 lakh in Prayagraj with Buyzaar Mart. Larger store formats, wider product range, and strong franchise support.",
+      "Explore a mart franchise investment above 18.5 lakh in Prayagraj with Buyzaar Mart. Larger store formats, wider product range, and strong franchise support.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

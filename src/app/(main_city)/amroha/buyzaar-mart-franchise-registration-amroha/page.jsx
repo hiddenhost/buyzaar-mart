@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "Buyzaar Mart Franchise Registration in Amroha | Process and Documents",
   description:
+<<<<<<< HEAD
     "Register for a Buyzaar Mart supermarket franchise in Amroha. Know the documents, application form, agreement steps and total investment from 18.5. Reply within 24 hours.",
+=======
+    "Register for a Buyzaar Mart supermarket franchise in Amroha. Know the documents, application form, agreement steps and total investment from 18.5 Lakh. Reply within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "buyzaar mart franchise registration amroha",
     "buyzaar mart franchise registration",
@@ -27,7 +31,7 @@ export const metadata = {
     "FOCM franchise amroha",
     "FOCO franchise amroha",
     "mini mart franchise amroha",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment supermarket franchise",
     "franchise business opportunity amroha",
     "organised retail franchise amroha",
@@ -41,7 +45,11 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Registration in Amroha | Process and Documents",
     description:
+<<<<<<< HEAD
       "Register for a Buyzaar Mart supermarket franchise in Amroha. Know the documents, application form, agreement steps and total investment from 18.5. Reply within 24 hours.",
+=======
+      "Register for a Buyzaar Mart supermarket franchise in Amroha. Know the documents, application form, agreement steps and total investment from 18.5 Lakh. Reply within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-registration-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +68,11 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Registration in Amroha | Process and Documents",
     description:
+<<<<<<< HEAD
       "Register for a Buyzaar Mart supermarket franchise in Amroha. Know the documents, application form, agreement steps and total investment from 18.5. Reply within 24 hours.",
+=======
+      "Register for a Buyzaar Mart supermarket franchise in Amroha. Know the documents, application form, agreement steps and total investment from 18.5 Lakh. Reply within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

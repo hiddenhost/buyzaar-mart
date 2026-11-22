@@ -82,7 +82,11 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A Mini Mart starts around 18.5; Super Mart and Hyper Mart require higher investment based on area.",
+=======
+        text: "A Mini Mart starts around 18.5 Lakh; Super Mart and Hyper Mart require higher investment based on area.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -308,7 +312,11 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Area required: 600–1,000 sq. ft.</li>
+<<<<<<< HEAD
               <li>Total estimated investment: approximately 18.5–₹24+ lakh, with 18.5 commonly cited as the starting investment.</li>
+=======
+              <li>Total estimated investment: approximately ₹15.2 lakh–₹24+ lakh, with 18.5 Lakh commonly cited as the starting investment.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </ul>
 
             <h3 className="font-medium text-gray-900">Super Mart</h3>
@@ -399,7 +407,11 @@ const Content = () => {
                   What is the minimum investment to start a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A Mini Mart starts around 18.5; Super Mart and Hyper Mart require higher investment based on area.
+=======
+                  A Mini Mart starts around 18.5 Lakh; Super Mart and Hyper Mart require higher investment based on area.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

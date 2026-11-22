@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise in Kanpur - The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a grocery franchise in Kanpur with The Buyzaar Mart. Investment starts from 18.5 with FOCM model, store setup support, POS system, and operational assistance.",
+=======
+    "Start a grocery franchise in Kanpur with The Buyzaar Mart. Investment starts from 18.5 Lakh with FOCM model, store setup support, POS system, and operational assistance.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/how-much-earn-from-grocery-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +38,11 @@ const faqSchema = {
       name: "What is the minimum investment required for a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from 18.5, which covers franchise fee, store setup, POS system, and opening stock. The exact amount varies depending on the store format.",
+=======
+        text: "The minimum investment starts from 18.5 Lakh, which covers franchise fee, store setup, POS system, and opening stock. The exact amount varies depending on the store format.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -285,7 +293,11 @@ const Content = () => {
 
             <p>
               Starting a grocery franchise in Kanpur with The Buyzaar Mart
+<<<<<<< HEAD
               requires minimum investment starting from 18.5. Under the
+=======
+              requires minimum investment starting from 18.5 Lakh. Under the
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               FOCM model, the investment generally includes several structured
               components.
             </p>
@@ -321,7 +333,11 @@ const Content = () => {
 
             <p>
               The total investment for a Mini Mart format in Kanpur would
+<<<<<<< HEAD
               typically fall in the range of ₹18.5 to ₹26 Lakh depending on
+=======
+              typically fall in the range of 18.5 Lakh to ₹25 Lakh depending on
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               store size and locality. Super Mart formats may require ₹25 Lakh
               to ₹40 Lakh or more, including stock and setup.
             </p>
@@ -344,7 +360,11 @@ const Content = () => {
             <p>
               A well-located Mini Mart in Kanpur can attract around 150 to 300
               customers per day. With an average bill size of ₹350 to ₹500 per
+<<<<<<< HEAD
               customer, monthly revenue may range from 18.5 to ₹30 Lakh.
+=======
+              customer, monthly revenue may range from 18.5 Lakh to ₹30 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <p>
@@ -394,7 +414,11 @@ const Content = () => {
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
+<<<<<<< HEAD
                 <strong>Low Entry Investment:</strong> Starting from 18.5,
+=======
+                <strong>Low Entry Investment:</strong> Starting from 18.5 Lakh,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 the model is accessible to a wider pool of local investors.
               </li>
               <li>
@@ -512,7 +536,11 @@ const Content = () => {
                   franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts from 18.5, which generally
+=======
+                  The minimum investment starts from 18.5 Lakh, which generally
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   covers franchise fee, store setup, POS system, and opening
                   stock. The final amount depends on the chosen format such as
                   Mini Mart, Super Mart, or Hyper Mart.

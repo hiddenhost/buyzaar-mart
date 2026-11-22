@@ -5,9 +5,15 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+<<<<<<< HEAD
   name: "Grocery Franchise Starting 18.5 Agra",
   description:
     "Grocery franchise page for Agra starting at 18.5, covering the Mini Mart format, investment details, zero-royalty model, support, and application process.",
+=======
+  name: "Grocery Franchise Starting 18.5 Lakh Agra",
+  description:
+    "Grocery franchise page for Agra starting at 18.5 Lakh, covering the Mini Mart format, investment details, zero-royalty model, support, and application process.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/agra/grocery-franchise-starting-15-lakh-agra",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -55,7 +61,11 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "What does the 18.5 investment get me?",
+=======
+      name: "What does the 18.5 Lakh investment get me?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       acceptedAnswer: {
         "@type": "Answer",
         text: "Access to the Mini Mart format (600–1,000 sqft), including setup, initial inventory, and billing systems.",
@@ -63,7 +73,11 @@ const faqSchema = {
     },
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "Is 18.5 the total cost, or are there additional expenses?",
+=======
+      name: "Is 18.5 Lakh the total cost, or are there additional expenses?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       acceptedAnswer: {
         "@type": "Answer",
         text: "It covers the core investment; rental and some operational costs are separate.",
@@ -126,6 +140,7 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
+<<<<<<< HEAD
               Grocery Franchise Starting 18.5 Agra – Buyzaar Mart
             </h1>
 
@@ -135,11 +150,26 @@ const Content = () => {
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why a 18.5 Entry Point Matters for Investors
+=======
+              Grocery Franchise Starting 18.5 Lakh Agra – Buyzaar Mart
+            </h1>
+
+            <p>
+              For many first-time investors, the biggest question isn't whether to start a business — it's whether they can afford to. A grocery franchise starting at 18.5 Lakh in Agra brings organized retail ownership within reach for a much wider group of investors, and The Buyzaar Mart's Mini Mart format is built exactly around this budget. This guide breaks down what this investment level includes, what to expect, and how to move forward, presented point by point for easy reference.
+            </p>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why a 18.5 Lakh Entry Point Matters for Investors
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
               <li>A lower entry investment changes who can realistically consider franchise ownership, opening the door to a much broader group of people.</li>
+<<<<<<< HEAD
               <li>A 18.5 starting investment is significantly more accessible than many larger-format retail franchises.</li>
+=======
+              <li>A 18.5 Lakh starting investment is significantly more accessible than many larger-format retail franchises.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>It allows salaried employees and first-time investors to enter organized retail without stretching their finances excessively.</li>
               <li>Lower investment also means a comparatively shorter path to recovering the initial capital.</li>
               <li>It reduces financial risk for someone testing the franchise model before considering expansion.</li>
@@ -159,7 +189,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               The Store Format Behind the 18.5 Price Point
+=======
+              The Store Format Behind the 18.5 Lakh Price Point
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -174,7 +208,11 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>Agra's lower real estate and operating costs compared to metro cities make a 18.5 entry point especially practical.</li>
+=======
+              <li>Agra's lower real estate and operating costs compared to metro cities make a 18.5 Lakh entry point especially practical.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>The city's expanding residential sectors offer suitable, budget-friendly locations for a Mini Mart format.</li>
               <li>Organised grocery retail penetration remains relatively low in many Agra localities, reducing direct competition.</li>
               <li>A compact, neighborhood-focused store aligns well with Agra's growing colonies and gated communities.</li>
@@ -194,7 +232,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               What Costs Are Not Included in the 18.5 Figure
+=======
+              What Costs Are Not Included in the 18.5 Lakh Figure
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -249,7 +291,11 @@ const Content = () => {
             </h2>
 
             <p>
+<<<<<<< HEAD
               A compact, 18.5-range store performs best in the right kind of locality — typically residential and walkable.
+=======
+              A compact, 18.5 Lakh-range store performs best in the right kind of locality — typically residential and walkable.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -293,12 +339,20 @@ const Content = () => {
               <li>Break-even in grocery retail typically takes 12 to 18 months and should be factored into expectations.</li>
               <li>A lower investment does not eliminate the importance of choosing a strong location.</li>
               <li>Profit-sharing terms and cost deductions should be reviewed thoroughly before signing.</li>
+<<<<<<< HEAD
               <li>Rental costs, which are separate from the 18.5 figure, should be factored into your overall budget.</li>
+=======
+              <li>Rental costs, which are separate from the 18.5 Lakh figure, should be factored into your overall budget.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>Confirm the exact area and format details, since investment scales slightly within the 600–1,000 sqft range.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               Is a 18.5 Grocery Franchise a Good Starting Point in Agra
+=======
+              Is a 18.5 Lakh Grocery Franchise a Good Starting Point in Agra
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -315,14 +369,22 @@ const Content = () => {
 
             <div className="mt-4 space-y-4">
               <div>
+<<<<<<< HEAD
                 <h3 className="font-medium text-gray-900">Q1. What does the 18.5 investment get me?</h3>
+=======
+                <h3 className="font-medium text-gray-900">Q1. What does the 18.5 Lakh investment get me?</h3>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 <p className="mt-2">
                   Access to the Mini Mart format (600–1,000 sqft), including setup, initial inventory, and billing systems.
                 </p>
               </div>
 
               <div>
+<<<<<<< HEAD
                 <h3 className="font-medium text-gray-900">Q2. Is 18.5 the total cost, or are there additional expenses?</h3>
+=======
+                <h3 className="font-medium text-gray-900">Q2. Is 18.5 Lakh the total cost, or are there additional expenses?</h3>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 <p className="mt-2">
                   It covers the core investment; rental and some operational costs are separate.
                 </p>

@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart FOCO Franchise Gorakhpur | Invest from ₹15L",
   description:
+<<<<<<< HEAD
     "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain and launch support. Investment from 18.5.",
+=======
+    "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain and launch support. Investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "Buyzaar Mart FOCO franchise Gorakhpur",
     "FOCO franchise Gorakhpur",
@@ -19,7 +23,7 @@ export const metadata = {
     "FOCM franchise India",
     "franchise owned company managed",
     "grocery franchise Uttar Pradesh",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment grocery franchise India",
     "company operated grocery franchise",
     "managed grocery franchise India",
@@ -38,7 +42,11 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart FOCO Franchise Gorakhpur | Invest from ₹15L",
     description:
+<<<<<<< HEAD
       "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain and launch support. Investment from 18.5.",
+=======
+      "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain and launch support. Investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-foco-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +64,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart FOCO Franchise Gorakhpur | Invest from ₹15L",
     description:
+<<<<<<< HEAD
       "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain and launch support. Investment from 18.5.",
+=======
+      "Own a Buyzaar Mart FOCO franchise in Gorakhpur. Franchise Owned, Company Operated model with POS billing, supply chain and launch support. Investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

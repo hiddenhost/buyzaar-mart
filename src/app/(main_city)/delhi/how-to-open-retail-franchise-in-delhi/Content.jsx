@@ -66,7 +66,7 @@ const faqSchema = {
       name: 'How much profit can I make from a retail franchise?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'A well-operated store achieves monthly turnover of ₹10–15 lakh with 18–20% gross profit margin, translating to annual profit of ₹12–18 lakh with 80–100% annual ROI.',
+        text: 'A well-operated store achieves monthly turnover of ₹10–18.5 lakh with 18–20% gross profit margin, translating to annual profit of ₹12–18 lakh with 80–100% annual ROI.',
       },
     },
     {
@@ -226,7 +226,11 @@ const Content = () => {
               Opening a retail store requires upfront capital for franchise fees,
               interior fit-outs, technology infrastructure, initial inventory,
               and working capital. Depending on store size, investment in Delhi
+<<<<<<< HEAD
               can range from 18.5s for compact convenience stores to over ₹1
+=======
+              can range from 18.5 Lakhs for compact convenience stores to over ₹1
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               Crore for massive hypermarkets.
             </p>
 
@@ -783,7 +787,7 @@ const Content = () => {
                   A2: Well-operated store in good location achieves monthly
                   turnover of ₹10
                   {String.fromCharCode(8211)}
-                  15 lakh with 18
+                  18.5 lakh with 18
                   {String.fromCharCode(8211)}
                   20% gross profit margin.
                   After monthly operating expenses (₹40,000

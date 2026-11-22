@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Franchise Opportunity in Hapur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore the FOCM franchise opportunity in Hapur with The Buyzaar Mart. Own your store, we manage operations. Total investment from 18.5. Apply now.",
+=======
+    "Explore the FOCM franchise opportunity in Hapur with The Buyzaar Mart. Own your store, we manage operations. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "FOCM franchise opportunity Hapur",
     "FOCM franchise Hapur",
@@ -18,7 +22,7 @@ export const metadata = {
     "retail franchise opportunity Hapur",
     "managed supermarket franchise Hapur",
     "low investment franchise Hapur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "mini mart franchise Hapur",
     "super mart franchise Hapur",
     "hyper mart franchise Hapur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "FOCM Franchise Opportunity in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the FOCM franchise opportunity in Hapur with The Buyzaar Mart. Own your store, we manage operations. Total investment from 18.5. Apply now.",
+=======
+      "Explore the FOCM franchise opportunity in Hapur with The Buyzaar Mart. Own your store, we manage operations. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/hapur/focm-franchise-opportunity-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Franchise Opportunity in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the FOCM franchise opportunity in Hapur with The Buyzaar Mart. Own your store, we manage operations. Total investment from 18.5. Apply now.",
+=======
+      "Explore the FOCM franchise opportunity in Hapur with The Buyzaar Mart. Own your store, we manage operations. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

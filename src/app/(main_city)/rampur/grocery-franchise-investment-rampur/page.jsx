@@ -19,7 +19,7 @@ export const metadata = {
     "the buyzaar mart",
     "FOCM franchise rampur",
     "mini mart franchise rampur",
-    "grocery franchise starting 15 lakh",
+    "grocery franchise starting 18.5 lakh",
     "grocery franchise under 20 lakh",
     "low investment grocery franchise",
     "grocery franchise uttar pradesh",

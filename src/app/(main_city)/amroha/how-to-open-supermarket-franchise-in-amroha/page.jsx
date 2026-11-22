@@ -16,7 +16,7 @@ export const metadata = {
     "Buyzaar Mart Amroha",
     "low investment supermarket franchise",
     "supermarket franchise cost",
-    "supermarket franchise 15 lakh",
+    "supermarket franchise 18.5 lakh",
     "supermarket franchise total investment",
     "mini mart franchise in UP",
     "super mart franchise",

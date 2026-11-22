@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Franchise Opportunity in Hapur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore a franchise opportunity in Hapur with The Buyzaar Mart. Supermarket franchise with POS, supply chain and full support. Total investment from 18.5.",
+=======
+    "Explore a franchise opportunity in Hapur with The Buyzaar Mart. Supermarket franchise with POS, supply chain and full support. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "franchise opportunity in Hapur",
     "franchise opportunity Hapur",
@@ -19,7 +23,7 @@ export const metadata = {
     "franchise in Hapur",
     "best franchise in Hapur",
     "low investment franchise Hapur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "FOCM franchise Hapur",
     "FOCO franchise Hapur",
     "mini mart franchise Hapur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Franchise Opportunity in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore a franchise opportunity in Hapur with The Buyzaar Mart. Supermarket franchise with POS, supply chain and full support. Total investment from 18.5.",
+=======
+      "Explore a franchise opportunity in Hapur with The Buyzaar Mart. Supermarket franchise with POS, supply chain and full support. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/hapur/franchise-opportunity-in-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Franchise Opportunity in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore a franchise opportunity in Hapur with The Buyzaar Mart. Supermarket franchise with POS, supply chain and full support. Total investment from 18.5.",
+=======
+      "Explore a franchise opportunity in Hapur with The Buyzaar Mart. Supermarket franchise with POS, supply chain and full support. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -4,12 +4,18 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
+<<<<<<< HEAD
   title: "Mart Franchise from 18.5 in Amroha | Buyzaar Mart",
   description:
     "Open a mart franchise in Amroha from 18.5 total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+=======
+  title: "Mart Franchise from 18.5 Lakh in Amroha | Buyzaar Mart",
+  description:
+    "Open a mart franchise in Amroha from 18.5 Lakh total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
-    "mart franchise starting 15 lakh Amroha",
-    "mart franchise 15 lakh",
+    "mart franchise starting 18.5 lakh Amroha",
+    "mart franchise 18.5 lakh",
     "mart franchise Amroha",
     "Buyzaar Mart franchise Amroha",
     "supermarket franchise Amroha",
@@ -36,9 +42,15 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/amroha/mart-franchise-starting-from-15-lakh-amroha",
   },
   openGraph: {
+<<<<<<< HEAD
     title: "Mart Franchise from 18.5 in Amroha | Buyzaar Mart",
     description:
       "Open a mart franchise in Amroha from 18.5 total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+=======
+    title: "Mart Franchise from 18.5 Lakh in Amroha | Buyzaar Mart",
+    description:
+      "Open a mart franchise in Amroha from 18.5 Lakh total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/amroha/mart-franchise-starting-from-15-lakh-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +58,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Mart Franchise Starting from 15 Lakh in Amroha | Buyzaar Mart",
+        alt: "Mart Franchise Starting from 18.5 lakh in Amroha | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -54,9 +66,15 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
+<<<<<<< HEAD
     title: "Mart Franchise from 18.5 in Amroha | Buyzaar Mart",
     description:
       "Open a mart franchise in Amroha from 18.5 total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+=======
+    title: "Mart Franchise from 18.5 Lakh in Amroha | Buyzaar Mart",
+    description:
+      "Open a mart franchise in Amroha from 18.5 Lakh total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

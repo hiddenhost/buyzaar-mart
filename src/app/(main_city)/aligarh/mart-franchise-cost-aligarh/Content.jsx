@@ -31,7 +31,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
+<<<<<<< HEAD
           "A 600–1,000 sq. ft. grocery and FMCG store franchise format in Aligarh, with investment approximately ranging from 18.5 to ₹26 lakh depending on size, location, and fit-out condition.",
+=======
+          "A 600–1,000 sq. ft. grocery and FMCG store franchise format in Aligarh, with investment approximately ranging from 18.5 Lakh to ₹26 lakh depending on size, location, and fit-out condition.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -58,7 +62,11 @@ const faqSchema = {
       name: "What is the mart franchise cost in Aligarh?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A Mini Mart starts from 18.5 to ₹22 lakh. Super Mart starts near ₹26.63 lakh, and Hyper Mart depends on area.",
+=======
+        text: "A Mini Mart starts from 18.5 Lakh to ₹22 lakh. Super Mart starts near ₹26.63 lakh, and Hyper Mart depends on area.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -161,7 +169,11 @@ const Content = () => {
               </li>
               <li>
                 The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart
+<<<<<<< HEAD
                 formats, with franchise investment starting from 18.5.
+=======
+                formats, with franchise investment starting from 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 This guide explains every cost head, investment range by format,
@@ -258,7 +270,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Investment range: Approximately 18.5 to ₹26 lakh, depending
+=======
+                Investment range: Approximately 18.5 Lakh to ₹26 lakh, depending
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 on store size, location and fit-out condition.
               </li>
               <li>
@@ -624,7 +640,11 @@ const Content = () => {
                   What is the mart franchise cost in Aligarh?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A Mini Mart starts from 18.5 to ₹22 lakh. Super Mart
+=======
+                  A Mini Mart starts from 18.5 Lakh to ₹22 lakh. Super Mart
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   starts near ₹26.63 lakh, and Hyper Mart depends on area.
                 </p>
               </div>

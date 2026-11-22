@@ -5,7 +5,11 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const pageTitle = "FOCO Model Franchise in Mathura | The Buyzaar Mart";
 
 const pageDescription =
+<<<<<<< HEAD
   "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 onwards.";
+=======
+  "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 Lakh onwards.";
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
 
 const pageKeywords =
   "foco model franchise Mathura, franchise owned company operated, foco franchise India, Buyzaar Mart Mathura, passive franchise investment Mathura, company managed franchise UP, foco vs focm franchise, grocery franchise foco model, low investment foco franchise, supermarket foco franchise India, foco franchise Uttar Pradesh, passive retail investment India, foco franchise near Vrindavan, company operated grocery store, foco franchise cost Mathura, best foco franchise India, franchise management model India, foco franchise ROI Mathura, hands off franchise investment, foco franchise support India, how does foco franchise work, franchise business model comparison";
@@ -132,7 +136,11 @@ const faqs = [
   {
     question: "What is the minimum investment for a FOCO franchise in Mathura?",
     answer:
+<<<<<<< HEAD
       "The indicative investment starts from approximately 18.5 onwards for a Mini Mart format. Final investment varies according to the location, property size, store format, setup scope, and opening-stock requirement.",
+=======
+      "The indicative investment starts from approximately 18.5 Lakh onwards for a Mini Mart format. Final investment varies according to the location, property size, store format, setup scope, and opening-stock requirement.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   },
   {
     question: "Is FOCO better than FOCM for a first-time investor in Mathura?",
@@ -322,7 +330,11 @@ const Content = () => {
                 </li>
 
                 <li>
+<<<<<<< HEAD
                   Begin with an investment from approximately 18.5 onwards,
+=======
+                  Begin with an investment from approximately 18.5 Lakh onwards,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   subject to the selected format, property, store setup scope,
                   and opening-stock requirements.
                 </li>

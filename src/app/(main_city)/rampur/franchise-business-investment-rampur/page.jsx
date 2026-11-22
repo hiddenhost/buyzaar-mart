@@ -23,7 +23,7 @@ export const metadata = {
     "mini mart franchise rampur",
     "franchise vs independent store",
     "franchise business opportunity rampur",
-    "grocery franchise starting 15 lakh",
+    "grocery franchise starting 18.5 lakh",
     "low investment franchise business",
     "franchise business uttar pradesh",
     "organised retail franchise",

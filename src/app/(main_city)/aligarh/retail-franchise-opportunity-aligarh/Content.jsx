@@ -78,7 +78,11 @@ const faqSchema = {
       name: "How much investment is needed?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A Mini Mart indicates about 18.5 to ₹20 lakh. Larger formats and FOCO cost more.",
+=======
+        text: "A Mini Mart indicates about 18.5 Lakh to ₹20 lakh. Larger formats and FOCO cost more.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -381,7 +385,11 @@ const Content = () => {
                 The entry format for residential lanes and colonies, needing at least 600 sq ft of carpet area. It stocks personal care, beverages, grocery and staples, home care and hygiene, stationery, and snacks and biscuits.
               </li>
               <li>
+<<<<<<< HEAD
                 The brand indicates about 18.5 to ₹20 lakh in total investment, depending on size, arrangement and location.
+=======
+                The brand indicates about 18.5 Lakh to ₹20 lakh in total investment, depending on size, arrangement and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
             </ul>
 
@@ -552,7 +560,11 @@ const Content = () => {
                   How much investment is needed?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A Mini Mart indicates about 18.5 to ₹20 lakh. Larger formats and FOCO cost more.
+=======
+                  A Mini Mart indicates about 18.5 Lakh to ₹20 lakh. Larger formats and FOCO cost more.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

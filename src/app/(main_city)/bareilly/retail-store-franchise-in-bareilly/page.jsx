@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "Retail Store Franchise in Bareilly | Mini Mart & Super Mart | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at 18.5. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+=======
+    "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at 18.5 Lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/retail-store-franchise-in-bareilly",
@@ -16,7 +20,11 @@ export const metadata = {
     title:
       "Retail Store Franchise in Bareilly | Mini Mart & Super Mart | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at 18.5. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+=======
+      "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at 18.5 Lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/bareilly/retail-store-franchise-in-bareilly",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +43,11 @@ export const metadata = {
     title:
       "Retail Store Franchise in Bareilly | Mini Mart & Super Mart | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at 18.5. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+=======
+      "Start a retail store franchise in Bareilly with The Buyzaar Mart. Choose from Mini Mart or Super Mart formats starting at 18.5 Lakh. Full setup, supply chain, POS & ongoing support. Apply now at thebuyzaarmart.com.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

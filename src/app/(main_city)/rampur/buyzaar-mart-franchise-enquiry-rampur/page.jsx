@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Enquiry in Rampur | Send Enquiry",
   description:
+<<<<<<< HEAD
     "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5. Response within 24 hours.",
+=======
+    "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5 Lakh. Response within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "Buyzaar Mart franchise enquiry Rampur",
     "Buyzaar Mart franchise inquiry Rampur",
@@ -21,7 +25,7 @@ export const metadata = {
     "Buyzaar Mart franchise contact number",
     "Buyzaar Mart franchise brochure",
     "low investment franchise Rampur",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "mini mart franchise Rampur",
     "super mart franchise Rampur",
     "hyper mart franchise Rampur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Enquiry in Rampur | Send Enquiry",
     description:
+<<<<<<< HEAD
       "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5. Response within 24 hours.",
+=======
+      "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5 Lakh. Response within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-enquiry-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Enquiry in Rampur | Send Enquiry",
     description:
+<<<<<<< HEAD
       "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5. Response within 24 hours.",
+=======
+      "Send your Buyzaar Mart franchise enquiry from Rampur. Know the steps, questions to ask and support. Total investment from 18.5 Lakh. Response within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

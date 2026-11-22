@@ -7,7 +7,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Model Grocery Store in Rampur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Own a FOCM model grocery store in Rampur with The Buyzaar Mart. Company-managed operations, POS billing, training and launch support. Total investment from 18.5.",
+=======
+    "Own a FOCM model grocery store in Rampur with The Buyzaar Mart. Company-managed operations, POS billing, training and launch support. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "focm model grocery store rampur",
     "focm grocery store rampur",
@@ -20,7 +24,7 @@ export const metadata = {
     "supermarket franchise rampur",
     "mart franchise rampur",
     "retail franchise rampur",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment grocery franchise rampur",
     "Mini Mart franchise rampur",
     "Super Mart franchise rampur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "FOCM Model Grocery Store in Rampur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Own a FOCM model grocery store in Rampur with The Buyzaar Mart. Company-managed operations, POS billing, training and launch support. Total investment from 18.5.",
+=======
+      "Own a FOCM model grocery store in Rampur with The Buyzaar Mart. Company-managed operations, POS billing, training and launch support. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/rampur/focm-model-grocery-store-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Model Grocery Store in Rampur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Own a FOCM model grocery store in Rampur with The Buyzaar Mart. Company-managed operations, POS billing, training and launch support. Total investment from 18.5.",
+=======
+      "Own a FOCM model grocery store in Rampur with The Buyzaar Mart. Company-managed operations, POS billing, training and launch support. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -4,11 +4,17 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
+<<<<<<< HEAD
   title: "Mart Franchise Above 18.5 in Gorakhpur | Buyzaar Mart",
   description:
     "Planning a mart franchise above 18.5 in Gorakhpur? Explore Super Mart and Hyper Mart formats, investment heads, margins and support from The Buyzaar Mart.",
+=======
+  title: "Mart Franchise Above 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+  description:
+    "Planning a mart franchise above 18.5 Lakh in Gorakhpur? Explore Super Mart and Hyper Mart formats, investment heads, margins and support from The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
-    "mart franchise above 15 lakh Gorakhpur",
+    "mart franchise above 18.5 lakh Gorakhpur",
     "supermarket franchise Gorakhpur",
     "super mart franchise Gorakhpur",
     "hyper mart franchise Gorakhpur",
@@ -16,7 +22,7 @@ export const metadata = {
     "Buyzaar Mart Gorakhpur",
     "grocery franchise Gorakhpur",
     "high investment grocery franchise",
-    "franchise business above 15 lakh",
+    "franchise business above 18.5 lakh",
     "big supermarket franchise India",
     "supermarket franchise cost in India",
     "grocery franchise Uttar Pradesh",
@@ -36,9 +42,15 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-above-15-lakh-gorakhpur",
   },
   openGraph: {
+<<<<<<< HEAD
     title: "Mart Franchise Above 18.5 in Gorakhpur | Buyzaar Mart",
     description:
       "Planning a mart franchise above 18.5 in Gorakhpur? Explore Super Mart and Hyper Mart formats, investment heads, margins and support from The Buyzaar Mart.",
+=======
+    title: "Mart Franchise Above 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+    description:
+      "Planning a mart franchise above 18.5 Lakh in Gorakhpur? Explore Super Mart and Hyper Mart formats, investment heads, margins and support from The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-above-15-lakh-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +58,11 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
+<<<<<<< HEAD
         alt: "Mart Franchise Above 18.5 in Gorakhpur | Buyzaar Mart",
+=======
+        alt: "Mart Franchise Above 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     ],
     locale: "en_IN",
@@ -54,9 +70,15 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
+<<<<<<< HEAD
     title: "Mart Franchise Above 18.5 in Gorakhpur | Buyzaar Mart",
     description:
       "Planning a mart franchise above 18.5 in Gorakhpur? Explore Super Mart and Hyper Mart formats, investment heads, margins and support from The Buyzaar Mart.",
+=======
+    title: "Mart Franchise Above 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+    description:
+      "Planning a mart franchise above 18.5 Lakh in Gorakhpur? Explore Super Mart and Hyper Mart formats, investment heads, margins and support from The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

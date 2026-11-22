@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FMCG Business in Moradabad, Uttar Pradesh | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore the FMCG business opportunity in Moradabad, UP with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment and area, starting from 18.5.",
+=======
+    "Explore the FMCG business opportunity in Moradabad, UP with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment and area, starting from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "FMCG business Moradabad",
     "FMCG business Uttar Pradesh",
@@ -26,7 +30,11 @@ export const metadata = {
   openGraph: {
     title: "FMCG Business in Moradabad, Uttar Pradesh | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the FMCG business opportunity in Moradabad, UP with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment and area, starting from 18.5.",
+=======
+      "Explore the FMCG business opportunity in Moradabad, UP with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment and area, starting from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/moradabad/fmcg-business-in-moradabad-uttar-pradesh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -44,7 +52,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "FMCG Business in Moradabad, Uttar Pradesh | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the FMCG business opportunity in Moradabad, UP with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment and area, starting from 18.5.",
+=======
+      "Explore the FMCG business opportunity in Moradabad, UP with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment and area, starting from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

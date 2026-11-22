@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Organised Mart Franchise Hapur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5.",
+=======
+    "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "organised mart franchise hapur",
     "organized mart franchise hapur",
@@ -38,7 +42,11 @@ export const metadata = {
   openGraph: {
     title: "Organised Mart Franchise Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5.",
+=======
+      "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/hapur/organised-mart-franchise-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +64,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Organised Mart Franchise Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5.",
+=======
+      "Open an organised mart franchise in Hapur with The Buyzaar Mart. POS billing, uniform store design, trained support, no retail experience needed. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

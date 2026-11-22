@@ -5,7 +5,7 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Above 15 Lakh in Prayagraj | Buyzaar Mart",
+  name: "Mart Franchise Above 18.5 lakh in Prayagraj | Buyzaar Mart",
   description:
     "Buyzaar Mart offers higher-investment mart franchise opportunities in Prayagraj with flexible store formats, category planning, and structured support.",
   url: "https://www.thebuyzaarmart.com/prayagraj/mart-franchise-above-15-lakh-prayagraj",
@@ -26,13 +26,13 @@ const localBusinessSchema = {
   hasOfferCatalog: {
     "@context": "https://schema.org",
     "@type": "OfferCatalog",
-    name: "Buyzaar Mart Mart Franchise Above 15 Lakh in Prayagraj",
+    name: "Buyzaar Mart Mart Franchise Above 18.5 lakh in Prayagraj",
     itemListElement: [
       {
         "@type": "Offer",
         name: "Higher-Investment Mart Franchise",
         description:
-          "A larger-format retail opportunity for entrepreneurs investing above 15 lakh in Prayagraj.",
+          "A larger-format retail opportunity for entrepreneurs investing above 18.5 lakh in Prayagraj.",
       },
       {
         "@type": "Offer",
@@ -56,7 +56,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What does investing above 15 lakh in a mart franchise typically add?",
+      name: "What does investing above 18.5 lakh in a mart franchise typically add?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It generally allows for a larger store format, broader inventory range, enhanced store interiors, and more robust technology systems.",
@@ -127,19 +127,19 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Above 15 Lakh in Prayagraj: A Complete Investment Guide
+              Mart Franchise Above 18.5 lakh in Prayagraj: A Complete Investment Guide
             </h1>
 
             <p>
-              For entrepreneurs who have more than the minimum entry-level capital available, investing above 15 lakh in a mart franchise in Prayagraj opens the door to a larger store format, a wider product range, and stronger positioning in the local market. Rather than starting with a compact, entry-level setup, a higher investment tier allows franchisees to build a more complete retail destination from day one—one that can better capture a customer&apos;s full shopping basket and establish a stronger competitive presence.
+              For entrepreneurs who have more than the minimum entry-level capital available, investing above 18.5 lakh in a mart franchise in Prayagraj opens the door to a larger store format, a wider product range, and stronger positioning in the local market. Rather than starting with a compact, entry-level setup, a higher investment tier allows franchisees to build a more complete retail destination from day one—one that can better capture a customer&apos;s full shopping basket and establish a stronger competitive presence.
             </p>
 
             <p>
-              Buyzaar Mart&apos;s franchise model accommodates this higher investment range, giving serious investors the option to scale up their store from the outset. This guide explains what a mart franchise above 15 lakh typically includes in Prayagraj, why a larger investment can translate into stronger returns, and how to plan this level of investment strategically.
+              Buyzaar Mart&apos;s franchise model accommodates this higher investment range, giving serious investors the option to scale up their store from the outset. This guide explains what a mart franchise above 18.5 lakh typically includes in Prayagraj, why a larger investment can translate into stronger returns, and how to plan this level of investment strategically.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Consider a Mart Franchise Above 15 Lakh in Prayagraj
+              Why Consider a Mart Franchise Above 18.5 lakh in Prayagraj
             </h2>
 
             <ol className="list-decimal space-y-2 pl-6">
@@ -158,7 +158,7 @@ const Content = () => {
             </ol>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What an Investment Above 15 Lakh Typically Adds
+              What an Investment Above 18.5 lakh Typically Adds
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -170,7 +170,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Advantages of Investing Above 15 Lakh
+              Advantages of Investing Above 18.5 lakh
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -182,12 +182,12 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Invest in a Mart Franchise Above 15 Lakh in Prayagraj
+              Step-by-Step Process to Invest in a Mart Franchise Above 18.5 lakh in Prayagraj
             </h2>
 
             <h3 className="font-medium text-gray-900">Step 1: Clarify Your Investment Ceiling and Goals</h3>
             <p>
-              Before finalizing plans, determine exactly how much above the 15 lakh baseline you&apos;re prepared to invest, and discuss with the franchisor what store format and category range this budget can realistically support.
+              Before finalizing plans, determine exactly how much above the 18.5 lakh baseline you&apos;re prepared to invest, and discuss with the franchisor what store format and category range this budget can realistically support.
             </p>
 
             <h3 className="font-medium text-gray-900">Step 2: Request a Detailed, Tiered Cost Breakdown</h3>
@@ -220,7 +220,7 @@ const Content = () => {
             </h2>
 
             <p>
-              Buyzaar Mart&apos;s franchise model is built to scale across different investment levels, making it well-suited for investors looking to go above the entry-level 15 lakh range. The model emphasizes flexible store formats, expanded category planning, enhanced technology options, local market calibration, and support for future growth.
+              Buyzaar Mart&apos;s franchise model is built to scale across different investment levels, making it well-suited for investors looking to go above the entry-level 18.5 lakh range. The model emphasizes flexible store formats, expanded category planning, enhanced technology options, local market calibration, and support for future growth.
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -236,7 +236,7 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Key Factors to Evaluate Before Investing Above 15 Lakh
+              Key Factors to Evaluate Before Investing Above 18.5 lakh
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -260,7 +260,7 @@ const Content = () => {
             </ul>
 
             <p>
-              A mart franchise investment above 15 lakh in Prayagraj offers entrepreneurs with greater capital the opportunity to build a larger, more comprehensive retail store—one capable of capturing a wider share of local shopping demand and establishing a stronger market position. Given Prayagraj&apos;s growing population, diverse customer segments, and increasing preference for organized retail, a well-located, larger-format store can perform strongly when matched with the right location and category strategy.
+              A mart franchise investment above 18.5 lakh in Prayagraj offers entrepreneurs with greater capital the opportunity to build a larger, more comprehensive retail store—one capable of capturing a wider share of local shopping demand and establishing a stronger market position. Given Prayagraj&apos;s growing population, diverse customer segments, and increasing preference for organized retail, a well-located, larger-format store can perform strongly when matched with the right location and category strategy.
 
               Partnering with a franchisor like Buyzaar Mart, which offers scalable store formats and structured support at higher investment tiers, gives serious investors a solid foundation for building a substantial, competitively positioned retail business.
             </p>
@@ -270,7 +270,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. What does investing above 15 lakh in a mart franchise typically add?
+                  Q1. What does investing above 18.5 lakh in a mart franchise typically add?
                 </h3>
                 <p className="mt-2">
                   It generally allows for a larger store format, broader inventory range, enhanced store interiors, and more robust technology systems.

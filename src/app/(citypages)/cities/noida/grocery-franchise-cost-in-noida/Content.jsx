@@ -18,7 +18,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               Starting a grocery franchise with The Buyzaar Mart in Noida involves a moderate initial investment that makes it a realistic opportunity for entrepreneurs. Typically a Mini Mart requiring 600-1,000 sq ft of space, total setup costs range from 18.5 to ₹22 lakh.
+=======
+              Starting a grocery franchise with The Buyzaar Mart in Noida involves a moderate initial investment that makes it a realistic opportunity for entrepreneurs. Typically a Mini Mart requiring 600-1,000 sq ft of space, total setup costs range from 18.5 Lakh to ₹22 lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <p>
@@ -31,7 +35,7 @@ const Content = () => {
 
             <p>
               Noida stands out for grocery investments due to its mix of families, professionals, and growing residential sectors. Consumer preferences are shifting toward organized retail with convenience and quality.. Investing in a grocery franchise in Noida, such as with The Buyzaar Mart, is increasingly attractive due to the city’s rapidly growing population and urban development. With more households, commercial offices, and residential complexes emerging, the demand for daily groceries and essential items is rising steadily. Starting a franchise now allows entrepreneurs to capitalize on this growing market while benefiting from an established brand, proven operational systems, and ongoing support.. A grocery franchise offers the opportunity to meet these expectations while generating consistent revenue. With a clear understanding of the initial investment, operational costs, and potential returns, now is an ideal time to enter the grocery retail market in Noida, positioning franchise owners for long-term growth and profitability.
-Moreover, modern consumers are increasingly seeking stores that combine quality, variety, and convenience. By investing in a grocery franchise today, owners can meet these expectations while building a steady and sustainable revenue stream. The combination of market growth, brand support, and structured operations makes this the ideal time to enter the grocery retail sector in Noida.
+              Moreover, modern consumers are increasingly seeking stores that combine quality, variety, and convenience. By investing in a grocery franchise today, owners can meet these expectations while building a steady and sustainable revenue stream. The combination of market growth, brand support, and structured operations makes this the ideal time to enter the grocery retail sector in Noida.
 
             </p>
 

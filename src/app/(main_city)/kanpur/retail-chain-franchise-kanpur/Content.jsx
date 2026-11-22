@@ -34,7 +34,11 @@ const faqSchema = {
       name: "What is the minimum investment required to start a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from 18.5, which covers store setup, branding, initial inventory, and onboarding support.",
+=======
+        text: "The minimum investment starts from 18.5 Lakh, which covers store setup, branding, initial inventory, and onboarding support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -209,12 +213,20 @@ const Content = () => {
             </p>
 
             <h3 className="font-medium text-gray-900">
+<<<<<<< HEAD
               1. Low Investment Starting from 18.5
+=======
+              1. Low Investment Starting from 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h3>
             <p>
               One of the biggest barriers to entering the retail business is the
               high capital requirement. The Buyzaar Mart has broken this barrier
+<<<<<<< HEAD
               by offering franchise opportunities starting from just 18.5 —
+=======
+              by offering franchise opportunities starting from just 18.5 Lakh —
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               making it one of the most affordable supermarket franchise options
               in India. This investment covers store setup, branding, initial
               inventory, and onboarding support.
@@ -331,7 +343,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               The investment is accessible at 18.5 versus many national
+=======
+              The investment is accessible at 18.5 Lakh versus many national
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               chains that require ₹50 Lakh or more. The FOCM model reduces the
               burden on the franchise owner, unlike FOFO models where the owner
               handles everything alone. The expired and damaged goods return
@@ -452,7 +468,11 @@ const Content = () => {
                   Mart franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts from 18.5, which covers
+=======
+                  The minimum investment starts from 18.5 Lakh, which covers
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   store setup, branding, initial inventory, and onboarding
                   support.
                 </p>

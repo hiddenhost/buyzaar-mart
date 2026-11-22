@@ -58,7 +58,11 @@ const faqSchema = {
       name: "What is the minimum investment to open a Buyzaar Mart franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The starting investment for a Buyzaar Mart franchise is 18.5, which covers franchise fees, store setup, branding, POS installation, initial inventory, and the grand launch campaign.",
+=======
+        text: "The starting investment for a Buyzaar Mart franchise is 18.5 Lakh, which covers franchise fees, store setup, branding, POS installation, initial inventory, and the grand launch campaign.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -149,7 +153,11 @@ const Content = () => {
               The Buyzaar Mart is a rapidly expanding supermarket franchise
               chain offering entrepreneurs a structured, supported path to
               owning a profitable neighbourhood grocery and FMCG store. With an
+<<<<<<< HEAD
               entry investment starting from just 18.5, it is one of the
+=======
+              entry investment starting from just 18.5 Lakh, it is one of the
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               most affordable supermarket franchise opportunities available in
               North India today.
             </p>
@@ -386,7 +394,11 @@ const Content = () => {
             <p>
               The Buyzaar Mart franchise is one of the most accessible
               supermarket franchise opportunities in India. The starting
+<<<<<<< HEAD
               investment is 18.5, which makes it viable for first-time
+=======
+              investment is 18.5 Lakh, which makes it viable for first-time
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               entrepreneurs, salaried professionals looking for a second income
               stream, retired individuals seeking a stable business, and
               existing kirana owners looking to upgrade and formalise their
@@ -484,7 +496,11 @@ const Content = () => {
               Low Investment Entry Point
             </h3>
             <p>
+<<<<<<< HEAD
               At 18.5, this is among the most affordable branded
+=======
+              At 18.5 Lakh, this is among the most affordable branded
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               supermarket franchise opportunities in North India. Most
               comparable concepts require ₹25&ndash;50 Lakh or more.
             </p>

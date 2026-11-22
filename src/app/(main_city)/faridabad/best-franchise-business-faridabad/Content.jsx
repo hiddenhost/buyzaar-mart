@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Best Franchise Business in Faridabad - The Buyzaar Mart Supermarket Franchise",
   description:
+<<<<<<< HEAD
     "Explore The Buyzaar Mart supermarket franchise in Faridabad. Start with investment from 18.5, multiple store formats, professional support, and a scalable grocery retail business model.",
+=======
+    "Explore The Buyzaar Mart supermarket franchise in Faridabad. Start with investment from 18.5 Lakh, multiple store formats, professional support, and a scalable grocery retail business model.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/faridabad/best-franchise-business-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +38,11 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The investment starts from 18.5 under the FOCM model, covering store setup, initial stock, POS system, and complete launch support.",
+=======
+        text: "The investment starts from 18.5 Lakh under the FOCM model, covering store setup, initial stock, POS system, and complete launch support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -492,7 +500,11 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Low and transparent investment:</strong> Starting from
+<<<<<<< HEAD
                 18.5 under the FOCM model, the brand is positioned as an
+=======
+                18.5 Lakh under the FOCM model, the brand is positioned as an
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 accessible organized grocery franchise option.
               </li>
               <li>
@@ -586,7 +598,11 @@ const Content = () => {
                   franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The investment starts from 18.5 under the FOCM model,
+=======
+                  The investment starts from 18.5 Lakh under the FOCM model,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   covering store setup, initial stock, POS system, and complete
                   launch support.
                 </p>

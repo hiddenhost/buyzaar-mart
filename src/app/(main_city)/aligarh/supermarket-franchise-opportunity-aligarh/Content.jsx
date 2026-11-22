@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Supermarket Franchise Opportunity in Aligarh | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a supermarket franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from 18.5, FOCM model, POS billing and full support.",
+=======
+    "Start a supermarket franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from 18.5 Lakh, FOCM model, POS billing and full support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/aligarh/supermarket-franchise-opportunity-aligarh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -150,7 +154,11 @@ const Content = () => {
                 The Buyzaar Mart offers a supermarket franchise system for Aligarh that covers store design, supply chain, billing software and staff training. You open a modern supermarket without building the systems yourself.
               </li>
               <li>
+<<<<<<< HEAD
                 Three formats are available, so you can scale the store to your property. Mini Mart investment starts from 18.5, with Super Mart and Hyper Mart for larger spaces.
+=======
+                Three formats are available, so you can scale the store to your property. Mini Mart investment starts from 18.5 Lakh, with Super Mart and Hyper Mart for larger spaces.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The FOCM model keeps you as the owner while the company team manages daily operations. This suits investors who want a retail asset without running the floor.
@@ -195,7 +203,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 The compact format fits colony lanes, society shops and neighbourhood units. It is the lowest-cost entry, typically between 18.5 and ₹20 lakh.
+=======
+                The compact format fits colony lanes, society shops and neighbourhood units. It is the lowest-cost entry, typically between 18.5 Lakh and ₹20 lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The range includes grocery and staples, snacks and biscuits, beverages, personal care, homecare and hygiene, and stationery. It focuses on fast, frequent purchases.
@@ -294,7 +306,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Mini Mart investment typically ranges from 18.5 to ₹20 lakh. Store size, interior needs and location decide the final amount.
+=======
+                Mini Mart investment typically ranges from 18.5 Lakh to ₹20 lakh. Store size, interior needs and location decide the final amount.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The total includes stock, interior, software fee, franchise fee (including 18% GST) and security deposit. The calculator on the franchise page estimates the figure for your chosen format and area.

@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Store Franchise in Kanpur - The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Grocery Store Franchise in Kanpur with The Buyzaar Mart. Start an organized grocery and supermarket franchise with 18.5 investment, FOCM model, inventory assurance, and complete operational support.",
+=======
+    "Grocery Store Franchise in Kanpur with The Buyzaar Mart. Start an organized grocery and supermarket franchise with 18.5 Lakh investment, FOCM model, inventory assurance, and complete operational support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/grocery-store-franchise-in-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +38,11 @@ const faqSchema = {
       name: "How much does it cost to open a grocery store franchise in Kanpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The Buyzaar Mart grocery franchise is available starting at 18.5, making it one of the most affordable organized retail franchise opportunities in India.",
+=======
+        text: "The Buyzaar Mart grocery franchise is available starting at 18.5 Lakh, making it one of the most affordable organized retail franchise opportunities in India.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -104,7 +112,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               When that brand is The Buyzaar Mart &#8212; with its franchisee-first philosophy, 18.5 starting investment, and end-to-end operational support &#8212; the opportunity becomes even more compelling. This is not a theoretical business pitch. This is a genuine market opening that exists today, in Kanpur, waiting for the right operator.
+=======
+              When that brand is The Buyzaar Mart &#8212; with its franchisee-first philosophy, 18.5 Lakh starting investment, and end-to-end operational support &#8212; the opportunity becomes even more compelling. This is not a theoretical business pitch. This is a genuine market opening that exists today, in Kanpur, waiting for the right operator.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -152,7 +164,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               For entrepreneurs in Kanpur looking to open a grocery store franchise, The Buyzaar Mart offers a model that eliminates the three biggest barriers to entry: high capital requirement, operational complexity, and marketing uncertainty. With a starting investment of 18.5, a fully managed operational framework under the FOCM model, and hyper-local marketing support baked into the franchise package, The Buyzaar Mart makes it genuinely achievable for a first-time business owner to open and run a profitable grocery store in Kanpur.
+=======
+              For entrepreneurs in Kanpur looking to open a grocery store franchise, The Buyzaar Mart offers a model that eliminates the three biggest barriers to entry: high capital requirement, operational complexity, and marketing uncertainty. With a starting investment of 18.5 Lakh, a fully managed operational framework under the FOCM model, and hyper-local marketing support baked into the franchise package, The Buyzaar Mart makes it genuinely achievable for a first-time business owner to open and run a profitable grocery store in Kanpur.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -288,7 +304,11 @@ const Content = () => {
                   How much does it cost to open a grocery store franchise in Kanpur with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The Buyzaar Mart&#39;s grocery franchise is available starting at 18.5, making it one of the most affordable organized retail franchise opportunities in India.
+=======
+                  The Buyzaar Mart&#39;s grocery franchise is available starting at 18.5 Lakh, making it one of the most affordable organized retail franchise opportunities in India.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 
@@ -353,7 +373,11 @@ const Content = () => {
               </h2>
 
               <p className="mb-4 text-gray-800">
+<<<<<<< HEAD
                 A grocery store franchise in Kanpur with The Buyzaar Mart gives you a proven brand, a protection-first financial model, comprehensive operational support, and the backing of a company that is genuinely invested in your success. At 18.5, the entry point is real. The support is real. The market is real.
+=======
+                A grocery store franchise in Kanpur with The Buyzaar Mart gives you a proven brand, a protection-first financial model, comprehensive operational support, and the backing of a company that is genuinely invested in your success. At 18.5 Lakh, the entry point is real. The support is real. The market is real.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </p>
 
               <p className="mb-4 text-gray-800">

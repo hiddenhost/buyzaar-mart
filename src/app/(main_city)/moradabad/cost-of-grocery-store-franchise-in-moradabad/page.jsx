@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Cost in Moradabad | The Buyzaar Mart Investment Guide",
   description:
+<<<<<<< HEAD
     "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate 18.5s, full support included. Get your customized quote now!",
+=======
+    "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate 18.5 Lakhs, full support included. Get your customized quote now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "grocery franchise cost moradabad",
     "buyzaar mart franchise cost",
@@ -23,7 +27,11 @@ export const metadata = {
     title:
       "Grocery Franchise Cost in Moradabad | The Buyzaar Mart Investment Guide",
     description:
+<<<<<<< HEAD
       "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate 18.5s, full support included. Get your customized quote now!",
+=======
+      "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate 18.5 Lakhs, full support included. Get your customized quote now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/moradabad/cost-of-grocery-store-franchise-in-moradabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -42,7 +50,11 @@ export const metadata = {
     title:
       "Grocery Franchise Cost in Moradabad | The Buyzaar Mart Investment Guide",
     description:
+<<<<<<< HEAD
       "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate 18.5s, full support included. Get your customized quote now!",
+=======
+      "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate 18.5 Lakhs, full support included. Get your customized quote now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Grocery Franchise Starting From 15 Lakh in Prayagraj | Buyzaar Mart",
+  name: "Grocery Franchise Starting From 18.5 lakh in Prayagraj | Buyzaar Mart",
   description:
-    "Buyzaar Mart offers grocery franchise opportunities in Prayagraj starting from 15 lakh with structured support, store setup assistance, inventory planning, and a budget-friendly retail model.",
+    "Buyzaar Mart offers grocery franchise opportunities in Prayagraj starting from 18.5 lakh with structured support, store setup assistance, inventory planning, and a budget-friendly retail model.",
   url: "https://www.thebuyzaarmart.com/prayagraj/grocery-franchise-starting-from-15-lakh-prayagraj",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -29,7 +29,7 @@ const localBusinessSchema = {
     itemListElement: [
       {
         "@type": "Offer",
-        name: "Grocery Franchise Starting From 15 Lakh",
+        name: "Grocery Franchise Starting From 18.5 lakh",
         description:
           "A budget-conscious franchise format designed for first-time investors in Prayagraj.",
       },
@@ -55,7 +55,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "What does a 15 lakh grocery franchise investment typically include?",
+      name: "What does a 18.5 lakh grocery franchise investment typically include?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It generally covers the franchise fee, store interiors, initial inventory, technology setup, and working capital, though costs vary by franchisor.",
@@ -63,7 +63,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Is 15 lakh enough to start a grocery franchise in Prayagraj?",
+      name: "Is 18.5 lakh enough to start a grocery franchise in Prayagraj?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, given lower rental and operational costs in Tier-2 cities like Prayagraj, this budget can support a well-stocked, branded grocery store.",
@@ -126,40 +126,40 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Grocery Franchise Starting From 15 Lakh in Prayagraj: A Complete Investment Guide
+              Grocery Franchise Starting From 18.5 lakh in Prayagraj: A Complete Investment Guide
             </h1>
 
             <p>
-              For many aspiring entrepreneurs, the biggest hurdle to entering organized retail isn&apos;t the idea—it&apos;s the budget. A grocery franchise starting from 15 lakh in Prayagraj offers a practical middle ground: enough capital to set up a proper branded store with a reasonable product range, while still keeping the investment within reach for first-time business owners and small investors. Buyzaar Mart&apos;s franchise model is designed to work within this budget bracket, making it an attractive option for those looking to enter Prayagraj&apos;s growing organized retail market without overextending financially.
+              For many aspiring entrepreneurs, the biggest hurdle to entering organized retail isn&apos;t the idea—it&apos;s the budget. A grocery franchise starting from 18.5 lakh in Prayagraj offers a practical middle ground: enough capital to set up a proper branded store with a reasonable product range, while still keeping the investment within reach for first-time business owners and small investors. Buyzaar Mart&apos;s franchise model is designed to work within this budget bracket, making it an attractive option for those looking to enter Prayagraj&apos;s growing organized retail market without overextending financially.
 
-              This guide walks you through what a 15 lakh investment typically covers, why Prayagraj is a strong market for this budget range, and how to plan your investment wisely.
+              This guide walks you through what a 18.5 lakh investment typically covers, why Prayagraj is a strong market for this budget range, and how to plan your investment wisely.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why a 15 Lakh Budget Works Well for Grocery Franchises in Prayagraj
+              Why a 18.5 lakh Budget Works Well for Grocery Franchises in Prayagraj
             </h2>
 
             <ol className="list-decimal space-y-2 pl-6">
               <li>
-                Right-Sized for Tier-2 City Retail Prayagraj is a Tier-2 city, which means rental costs, labor costs, and overall setup expenses are considerably lower than in metro cities. A 15 lakh investment here can go much further than the same amount would in a larger city, allowing for a well-stocked store in a good location without needing a significantly larger budget.
+                Right-Sized for Tier-2 City Retail Prayagraj is a Tier-2 city, which means rental costs, labor costs, and overall setup expenses are considerably lower than in metro cities. A 18.5 lakh investment here can go much further than the same amount would in a larger city, allowing for a well-stocked store in a good location without needing a significantly larger budget.
               </li>
               <li>
                 Enough to Cover Core Store Essentials At this investment level, franchisees can typically cover the franchise fee, store interiors, initial inventory, basic technology setup, and a working capital buffer—the core components needed to launch a functional, branded grocery store.
               </li>
               <li>
-                Matches the City&apos;s Retail Demand Pattern Prayagraj&apos;s mix of dense residential neighborhoods, a large student population, and steady religious tourism creates demand for mid-sized grocery stores that stock a solid range of daily essentials. A store built around a 15 lakh investment is generally well-suited to serve this kind of neighborhood-level demand without requiring the scale of a large supermarket.
+                Matches the City&apos;s Retail Demand Pattern Prayagraj&apos;s mix of dense residential neighborhoods, a large student population, and steady religious tourism creates demand for mid-sized grocery stores that stock a solid range of daily essentials. A store built around a 18.5 lakh investment is generally well-suited to serve this kind of neighborhood-level demand without requiring the scale of a large supermarket.
               </li>
               <li>
-                Manageable Risk for First-Time Investors Compared to larger-format retail investments, a 15 lakh grocery franchise carries comparatively lower financial risk, making it a sensible entry point for entrepreneurs testing the waters of retail business ownership for the first time.
+                Manageable Risk for First-Time Investors Compared to larger-format retail investments, a 18.5 lakh grocery franchise carries comparatively lower financial risk, making it a sensible entry point for entrepreneurs testing the waters of retail business ownership for the first time.
               </li>
             </ol>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a 15 Lakh Investment Typically Covers
+              What a 18.5 lakh Investment Typically Covers
             </h2>
 
             <p>
-              While exact figures depend on the franchisor and specific location, a grocery franchise investment starting from 15 lakh generally includes:
+              While exact figures depend on the franchisor and specific location, a grocery franchise investment starting from 18.5 lakh generally includes:
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -180,7 +180,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Accessible entry point: A 15 lakh starting investment makes organized retail achievable for a wider range of investors, including those without access to very large amounts of capital.</li>
+              <li>Accessible entry point: A 18.5 lakh starting investment makes organized retail achievable for a wider range of investors, including those without access to very large amounts of capital.</li>
               <li>Balanced store size: Large enough to stock a meaningful product range, but not so large that it becomes difficult to manage for a first-time owner.</li>
               <li>Faster decision-making: A moderate investment size often means quicker approvals, whether through personal savings, family funding, or smaller business loans.</li>
               <li>Reasonable break-even expectations: With lower fixed costs than a large-format store, a well-run grocery franchise at this budget can often reach break-even within a realistic timeframe.</li>
@@ -188,12 +188,12 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Start a Grocery Franchise With a 15 Lakh Budget
+              Step-by-Step Process to Start a Grocery Franchise With a 18.5 lakh Budget
             </h2>
 
             <h3 className="font-medium text-gray-900">Step 1: Confirm the Franchise Model Fits Your Budget</h3>
             <p>
-              Start by discussing your budget range directly with the franchisor. Ask for a clear cost breakdown to confirm what store size, location type, and inventory level a 15 lakh investment can realistically support in Prayagraj.
+              Start by discussing your budget range directly with the franchisor. Ask for a clear cost breakdown to confirm what store size, location type, and inventory level a 18.5 lakh investment can realistically support in Prayagraj.
             </p>
 
             <h3 className="font-medium text-gray-900">Step 2: Plan Your Financing</h3>
@@ -229,14 +229,14 @@ const Content = () => {
             </h2>
 
             <p>
-              Buyzaar Mart&apos;s franchise model is designed with flexibility in mind, making it a suitable option for entrepreneurs working with a starting budget of around 15 lakh. Key advantages include cost-conscious store formats, transparent cost structure, operational support, local market alignment, and a growth pathway.
+              Buyzaar Mart&apos;s franchise model is designed with flexibility in mind, making it a suitable option for entrepreneurs working with a starting budget of around 18.5 lakh. Key advantages include cost-conscious store formats, transparent cost structure, operational support, local market alignment, and a growth pathway.
             </p>
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Cost-conscious store formats: Store layouts and inventory plans designed to work efficiently within moderate investment levels.</li>
               <li>Transparent cost structure: A clear breakdown of franchise fees, setup costs, and inventory requirements, helping investors plan accurately.</li>
               <li>Operational support: Assistance with store setup, staff training, and inventory management, even at this investment tier.</li>
-              <li>Local market alignment: A business model built around the realities of Tier-2 city retail, where a 15 lakh investment can go significantly further than in larger cities.</li>
+              <li>Local market alignment: A business model built around the realities of Tier-2 city retail, where a 18.5 lakh investment can go significantly further than in larger cities.</li>
               <li>Growth pathway: Once the initial store is profitable, franchisees have the option to expand to additional locations in Prayagraj.</li>
             </ul>
 
@@ -249,7 +249,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Total Cost Transparency Make sure the franchisor provides a complete, itemized cost breakdown rather than a single lump-sum figure, so you know exactly where your 15 lakh is being allocated.</li>
+              <li>Total Cost Transparency Make sure the franchisor provides a complete, itemized cost breakdown rather than a single lump-sum figure, so you know exactly where your 18.5 lakh is being allocated.</li>
               <li>Location Footfall vs. Rent At this budget level, balancing rental costs against footfall potential is critical. A slightly higher rent in a high-footfall area may offer better returns than a cheaper, low-traffic location.</li>
               <li>Inventory Planning Since the budget is moderate, careful inventory planning is essential to avoid tying up too much capital in slow-moving stock while ensuring popular items remain well-stocked.</li>
               <li>Franchisor Support Level Confirm what level of training, marketing support, and operational guidance is included within this investment tier, as support levels can sometimes vary based on franchise size.</li>
@@ -261,7 +261,7 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-              <li>Underestimating working capital needs: Even within a 15 lakh budget, it&apos;s important to set aside sufficient working capital rather than spending the entire amount on setup and inventory alone.</li>
+              <li>Underestimating working capital needs: Even within a 18.5 lakh budget, it&apos;s important to set aside sufficient working capital rather than spending the entire amount on setup and inventory alone.</li>
               <li>Overspending on interiors: Prioritize functional store design over elaborate interiors, especially when working with a moderate investment.</li>
               <li>Choosing a location purely on low rent: A cheaper location with poor footfall can hurt returns more than a slightly costlier, high-traffic spot.</li>
               <li>Skipping the fine print in the agreement: Royalty terms, renewal conditions, and territory clauses can significantly impact long-term profitability if overlooked.</li>
@@ -269,7 +269,7 @@ const Content = () => {
             </ul>
 
             <p>
-              A grocery franchise starting from 15 lakh in Prayagraj can be a smart entry into organized retail for first-time investors and small business owners. The city&apos;s lower operating costs, dense residential neighborhoods, strong student demand, and steady religious tourism create a favorable environment for a branded grocery store with a manageable budget. With a model like Buyzaar Mart, entrepreneurs can access structured support, practical setup planning, and a clear path toward profitable retail growth.
+              A grocery franchise starting from 18.5 lakh in Prayagraj can be a smart entry into organized retail for first-time investors and small business owners. The city&apos;s lower operating costs, dense residential neighborhoods, strong student demand, and steady religious tourism create a favorable environment for a branded grocery store with a manageable budget. With a model like Buyzaar Mart, entrepreneurs can access structured support, practical setup planning, and a clear path toward profitable retail growth.
 
               Success still depends on choosing the right location, understanding the full investment picture, and partnering with a franchisor that offers genuine operational support rather than just a brand name.
             </p>
@@ -279,7 +279,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. What does a 15 lakh grocery franchise investment typically include?
+                  Q1. What does a 18.5 lakh grocery franchise investment typically include?
                 </h3>
                 <p className="mt-2">
                   It generally covers the franchise fee, store interiors, initial inventory, technology setup, and working capital, though costs vary by franchisor.
@@ -288,7 +288,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q2. Is 15 lakh enough to start a grocery franchise in Prayagraj?
+                  Q2. Is 18.5 lakh enough to start a grocery franchise in Prayagraj?
                 </h3>
                 <p className="mt-2">
                   Yes, given lower rental and operational costs in Tier-2 cities like Prayagraj, this budget can support a well-stocked, branded grocery store.
@@ -338,7 +338,7 @@ const Content = () => {
               </h2>
 
               <p className="mb-4 text-gray-800">
-                Prayagraj&apos;s growing consumer base, lower operating costs, and strong neighborhood-level demand make it a promising market for a grocery franchise starting from 15 lakh.
+                Prayagraj&apos;s growing consumer base, lower operating costs, and strong neighborhood-level demand make it a promising market for a grocery franchise starting from 18.5 lakh.
               </p>
 
               <p className="mb-4 text-gray-800">

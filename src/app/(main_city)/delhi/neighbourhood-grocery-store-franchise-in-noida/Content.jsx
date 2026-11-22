@@ -58,7 +58,11 @@ const faqSchema = {
       name: "What mainly determines the cost of a grocery franchise in Noida?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Store size, location quality, setup needs, and initial stock levels are the main factors, with Mini Mart costs typically ranging from 18.5 to ₹22 lakh.",
+=======
+        text: "Store size, location quality, setup needs, and initial stock levels are the main factors, with Mini Mart costs typically ranging from 18.5 Lakh to ₹22 lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -218,7 +222,11 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq ft
               </li>
               <li>
+<<<<<<< HEAD
                 Investment: Total setup costs range from approximately 18.5 to ₹22 lakh
+=======
+                Investment: Total setup costs range from approximately 18.5 Lakh to ₹22 lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 What&apos;s covered: Store infrastructure, initial inventory, franchise fees, and technology systems
@@ -437,7 +445,11 @@ const Content = () => {
                   Q1. What mainly determines the cost of a grocery franchise in Noida?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Store size, location quality, setup needs, and initial stock levels are the main factors, with Mini Mart costs typically ranging from 18.5 to ₹22 lakh.
+=======
+                  Store size, location quality, setup needs, and initial stock levels are the main factors, with Mini Mart costs typically ranging from 18.5 Lakh to ₹22 lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

@@ -82,7 +82,11 @@ const faqSchema = {
       name: "What is the investment needed for an FOCM grocery store in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The investment is approximately 18.5 and above for a Mini Mart, varying by location and store size.",
+=======
+        text: "The investment is approximately 18.5 Lakh and above for a Mini Mart, varying by location and store size.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -552,7 +556,11 @@ const Content = () => {
                   Mathura?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Approximately 18.5 and above for a Mini Mart, varying by
+=======
+                  Approximately 18.5 Lakh and above for a Mini Mart, varying by
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   location and store size.
                 </p>
               </div>

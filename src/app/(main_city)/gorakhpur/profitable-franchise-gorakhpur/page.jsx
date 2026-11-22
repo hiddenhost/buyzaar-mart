@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Profitable Franchise in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for a profitable franchise in Gorakhpur? Start a Buyzaar Mart grocery franchise from 18.5 with 18–20% gross margin and full support. Apply now!",
+=======
+    "Looking for a profitable franchise in Gorakhpur? Start a Buyzaar Mart grocery franchise from 18.5 Lakh with 18–20% gross margin and full support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "profitable franchise gorakhpur",
     "profitable franchise in gorakhpur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Profitable Franchise in Gorakhpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for a profitable franchise in Gorakhpur? Start a Buyzaar Mart grocery franchise from 18.5 with 18–20% gross margin and full support. Apply now!",
+=======
+      "Looking for a profitable franchise in Gorakhpur? Start a Buyzaar Mart grocery franchise from 18.5 Lakh with 18–20% gross margin and full support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/profitable-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Profitable Franchise in Gorakhpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for a profitable franchise in Gorakhpur? Start a Buyzaar Mart grocery franchise from 18.5 with 18–20% gross margin and full support. Apply now!",
+=======
+      "Looking for a profitable franchise in Gorakhpur? Start a Buyzaar Mart grocery franchise from 18.5 Lakh with 18–20% gross margin and full support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -8,7 +8,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "How to Open a Supermarket Franchise in Rampur | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Learn how to open a supermarket franchise in Rampur with The Buyzaar Mart. Total investment from 18.5, layout planning, POS billing, training and launch support.",
+=======
+    "Learn how to open a supermarket franchise in Rampur with The Buyzaar Mart. Total investment from 18.5 Lakh, layout planning, POS billing, training and launch support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/rampur/how-to-open-supermarket-franchise-in-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -32,7 +36,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
+<<<<<<< HEAD
           "A compact 600–1000 sq ft self-service supermarket franchise format for residential colonies, smaller markets and towns around Rampur, with a total investment of about 18.5 to ₹20 Lakh.",
+=======
+          "A compact 600–1000 sq ft self-service supermarket franchise format for residential colonies, smaller markets and towns around Rampur, with a total investment of about 18.5 Lakh to ₹20 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -68,7 +76,11 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "About 18.5 to ₹20 Lakh for a Mini Mart, depending on size and location.",
+=======
+        text: "About 18.5 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -158,7 +170,11 @@ const Content = () => {
                 The Buyzaar Mart offers a supermarket franchise in Rampur under the FOCM model, where you own the store and the company manages branding, technology, training and performance monitoring.
               </li>
               <li>
+<<<<<<< HEAD
                 A Buyzaar Mart Mini Mart can be started with a total investment of about 18.5 to ₹20 Lakh, depending on store size, location and the work needed, and larger Super Mart and Hyper Mart formats are available for bigger sites.
+=======
+                A Buyzaar Mart Mini Mart can be started with a total investment of about 18.5 Lakh to ₹20 Lakh, depending on store size, location and the work needed, and larger Super Mart and Hyper Mart formats are available for bigger sites.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 This guide explains what a supermarket needs, how to plan space, range and staff, and how to move from idea to opening day.
@@ -239,7 +255,11 @@ const Content = () => {
                 Stocks grocery and staples, personal care, beverages, homecare and hygiene, stationery, and snacks and biscuits.
               </li>
               <li>
+<<<<<<< HEAD
                 Total investment is typically about 18.5 to ₹20 Lakh.
+=======
+                Total investment is typically about 18.5 Lakh to ₹20 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
             </ul>
 
@@ -299,7 +319,11 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Funds</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Capital for the store setup, which is about 18.5 to ₹20 Lakh in total for a Mini Mart.
+=======
+                Capital for the store setup, which is about 18.5 Lakh to ₹20 Lakh in total for a Mini Mart.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 A cash buffer for rent, staff salaries and electricity during the first months, since these running costs are your responsibility.
@@ -614,7 +638,11 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   About 18.5 to ₹20 Lakh for a Mini Mart, depending on size and location.
+=======
+                  About 18.5 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

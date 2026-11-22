@@ -5,9 +5,13 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Supermarket Franchise at 15 Lakh in Varanasi | The Buyzaar Mart",
+  name: "Supermarket Franchise at 18.5 lakh in Varanasi | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Buyzaar Mart offers a supermarket franchise starting at approximately 18.5 in Varanasi with the Mini Mart format, billing software, inventory management, and full franchise support.",
+=======
+    "Buyzaar Mart offers a supermarket franchise starting at approximately 18.5 Lakh in Varanasi with the Mini Mart format, billing software, inventory management, and full franchise support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +35,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
+<<<<<<< HEAD
           "Entry-level supermarket format for residential colonies and compact neighbourhood locations in Varanasi, starting around 18.5.",
+=======
+          "Entry-level supermarket format for residential colonies and compact neighbourhood locations in Varanasi, starting around 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -55,7 +63,11 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "What does a 18.5 supermarket franchise from Buyzaar Mart include?",
+=======
+      name: "What does a 18.5 Lakh supermarket franchise from Buyzaar Mart include?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       acceptedAnswer: {
         "@type": "Answer",
         text: "It generally includes the Mini Mart format, covering initial stock, interior, billing software, and security deposit.",
@@ -71,7 +83,11 @@ const faqSchema = {
     },
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "What is the profit margin of a 18.5 supermarket franchise?",
+=======
+      name: "What is the profit margin of a 18.5 Lakh supermarket franchise?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       acceptedAnswer: {
         "@type": "Answer",
         text: "Net profit margin typically ranges between 5% and 8%, depending on location, product mix, and operating efficiency.",
@@ -87,7 +103,11 @@ const faqSchema = {
     },
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "Does the 18.5 investment include the billing system?",
+=======
+      name: "Does the 18.5 Lakh investment include the billing system?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, the billing and inventory management software is included under the software fee as part of the franchise package.",
@@ -95,7 +115,11 @@ const faqSchema = {
     },
     {
       "@type": "Question",
+<<<<<<< HEAD
       name: "Which areas in Varanasi are best for a 18.5 supermarket franchise?",
+=======
+      name: "Which areas in Varanasi are best for a 18.5 Lakh supermarket franchise?",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       acceptedAnswer: {
         "@type": "Answer",
         text: "Residential colonies, areas near educational institutions, and mid-density local markets are generally well suited for this format.",
@@ -134,7 +158,11 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
+<<<<<<< HEAD
               Buyzaar Mart Supermarket Franchise at 18.5
+=======
+              Buyzaar Mart Supermarket Franchise at 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h1>
 
             <p>
@@ -142,11 +170,19 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               Buyzaar Mart offers a supermarket franchise starting at approximately 18.5, making it an accessible entry point for aspiring business owners in Varanasi. This low-investment format still gives franchise partners access to a recognized brand, structured operations, and a proven retail business model. This article covers everything about starting a supermarket franchise at 18.5 in Varanasi, including store formats, benefits, investment breakdown, and profit potential.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Why a 18.5 Supermarket Franchise Makes Sense in Varanasi
+=======
+              Buyzaar Mart offers a supermarket franchise starting at approximately 18.5 Lakh, making it an accessible entry point for aspiring business owners in Varanasi. This low-investment format still gives franchise partners access to a recognized brand, structured operations, and a proven retail business model. This article covers everything about starting a supermarket franchise at 18.5 Lakh in Varanasi, including store formats, benefits, investment breakdown, and profit potential.
+            </p>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Why a 18.5 Lakh Supermarket Franchise Makes Sense in Varanasi
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <p>
@@ -154,11 +190,19 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               A 18.5 entry point is well suited for compact neighbourhood locations such as residential colonies, lanes near educational institutions, and mid-density markets. Lower investment means lower financial risk, making it an attractive option for first-generation entrepreneurs and small business investors, especially since rental costs in many parts of Varanasi are relatively affordable compared to metro cities, allowing a smaller-format store to operate profitably.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               What a 18.5 Supermarket Franchise Includes
+=======
+              A 18.5 Lakh entry point is well suited for compact neighbourhood locations such as residential colonies, lanes near educational institutions, and mid-density markets. Lower investment means lower financial risk, making it an attractive option for first-generation entrepreneurs and small business investors, especially since rental costs in many parts of Varanasi are relatively affordable compared to metro cities, allowing a smaller-format store to operate profitably.
+            </p>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              What a 18.5 Lakh Supermarket Franchise Includes
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <p>
@@ -182,7 +226,11 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               Benefits of Starting a Supermarket Franchise at 18.5
+=======
+              Benefits of Starting a Supermarket Franchise at 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <p>
@@ -198,11 +246,19 @@ const Content = () => {
             </h2>
 
             <p>
+<<<<<<< HEAD
               Some of the best-suited locations for this format include residential colonies with consistent daily footfall, such as areas around Sigra and Mahmoorganj, and localities near educational institutions like Banaras Hindu University, where student demand for daily essentials is high. Mid-density markets in areas such as Sunderpur, Bhelupur, and Lanka also work well, as do emerging residential developments on the outskirts of the city where organized retail is still limited. In general, areas with moderate rental costs but stable local demand tend to work best for a 18.5 format supermarket.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Profit Potential of a 18.5 Supermarket Franchise
+=======
+              Some of the best-suited locations for this format include residential colonies with consistent daily footfall, such as areas around Sigra and Mahmoorganj, and localities near educational institutions like Banaras Hindu University, where student demand for daily essentials is high. Mid-density markets in areas such as Sunderpur, Bhelupur, and Lanka also work well, as do emerging residential developments on the outskirts of the city where organized retail is still limited. In general, areas with moderate rental costs but stable local demand tend to work best for a 18.5 Lakh format supermarket.
+            </p>
+
+            <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+              Profit Potential of a 18.5 Lakh Supermarket Franchise
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <p>
@@ -226,7 +282,11 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               Steps to Start a 18.5 Supermarket Franchise in Varanasi
+=======
+              Steps to Start a 18.5 Lakh Supermarket Franchise in Varanasi
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <p>
@@ -246,7 +306,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               A supermarket franchise starting at approximately 18.5 offers an accessible and practical entry point into organized retail in Varanasi. The Mini Mart format from Buyzaar Mart combines low investment with brand support, a ready billing system, and structured operations. With the right location and consistent management, this format can deliver steady profitability and serve as a strong foundation for future expansion into larger store formats. For entrepreneurs looking to start a retail business in Varanasi without a large capital outlay, a 18.5 supermarket franchise with Buyzaar Mart presents a practical and scalable opportunity.
+=======
+              A supermarket franchise starting at approximately 18.5 Lakh offers an accessible and practical entry point into organized retail in Varanasi. The Mini Mart format from Buyzaar Mart combines low investment with brand support, a ready billing system, and structured operations. With the right location and consistent management, this format can deliver steady profitability and serve as a strong foundation for future expansion into larger store formats. For entrepreneurs looking to start a retail business in Varanasi without a large capital outlay, a 18.5 Lakh supermarket franchise with Buyzaar Mart presents a practical and scalable opportunity.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -256,7 +320,11 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
+<<<<<<< HEAD
                   Q1. What does a 18.5 supermarket franchise from Buyzaar Mart include?
+=======
+                  Q1. What does a 18.5 Lakh supermarket franchise from Buyzaar Mart include?
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </h3>
                 <p className="mt-2">
                   It generally includes the Mini Mart format, covering initial stock, interior, billing software, and security deposit.
@@ -274,7 +342,11 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
+<<<<<<< HEAD
                   Q3. What is the profit margin of a 18.5 supermarket franchise?
+=======
+                  Q3. What is the profit margin of a 18.5 Lakh supermarket franchise?
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </h3>
                 <p className="mt-2">
                   Net profit margin typically ranges between 5% and 8%, depending on location, product mix, and operating efficiency.
@@ -292,7 +364,11 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
+<<<<<<< HEAD
                   Q5. Does the 18.5 investment include the billing system?
+=======
+                  Q5. Does the 18.5 Lakh investment include the billing system?
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </h3>
                 <p className="mt-2">
                   Yes, the billing and inventory management software is included under the software fee as part of the franchise package.
@@ -301,7 +377,11 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
+<<<<<<< HEAD
                   Q6. Which areas in Varanasi are best for a 18.5 supermarket franchise?
+=======
+                  Q6. Which areas in Varanasi are best for a 18.5 Lakh supermarket franchise?
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </h3>
                 <p className="mt-2">
                   Residential colonies, areas near educational institutions, and mid-density local markets are generally well suited for this format.
@@ -320,7 +400,11 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
                 Start Your 18.5 Supermarket Journey in Varanasi
+=======
+                Start Your 18.5 Lakh Supermarket Journey in Varanasi
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </h2>
 
               <p className="mb-4 text-gray-800">

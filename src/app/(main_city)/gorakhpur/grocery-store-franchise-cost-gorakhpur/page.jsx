@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Store Franchise Cost in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Know the grocery store franchise cost in Gorakhpur. The Buyzaar Mart Mini Mart starts from 18.5. See cost breakup, margin, payback & how to apply.",
+=======
+    "Know the grocery store franchise cost in Gorakhpur. The Buyzaar Mart Mini Mart starts from 18.5 Lakh. See cost breakup, margin, payback & how to apply.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "grocery store franchise cost Gorakhpur",
     "grocery franchise cost in Gorakhpur",
@@ -23,7 +27,7 @@ export const metadata = {
     "grocery franchise ROI",
     "grocery franchise payback period",
     "low investment grocery franchise",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "grocery store franchise UP",
     "FOCM franchise cost",
     "FOCO franchise investment",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Grocery Store Franchise Cost in Gorakhpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Know the grocery store franchise cost in Gorakhpur. The Buyzaar Mart Mini Mart starts from 18.5. See cost breakup, margin, payback & how to apply.",
+=======
+      "Know the grocery store franchise cost in Gorakhpur. The Buyzaar Mart Mini Mart starts from 18.5 Lakh. See cost breakup, margin, payback & how to apply.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/grocery-store-franchise-cost-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Store Franchise Cost in Gorakhpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Know the grocery store franchise cost in Gorakhpur. The Buyzaar Mart Mini Mart starts from 18.5. See cost breakup, margin, payback & how to apply.",
+=======
+      "Know the grocery store franchise cost in Gorakhpur. The Buyzaar Mart Mini Mart starts from 18.5 Lakh. See cost breakup, margin, payback & how to apply.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

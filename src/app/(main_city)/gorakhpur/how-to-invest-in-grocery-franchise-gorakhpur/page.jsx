@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Invest in Grocery Franchise Gorakhpur | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Planning to invest in a grocery franchise in Gorakhpur? Know cost from 18.5, margins, risks and the step-by-step process with The Buyzaar Mart.",
+=======
+    "Planning to invest in a grocery franchise in Gorakhpur? Know cost from 18.5 Lakh, margins, risks and the step-by-step process with The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "how to invest in grocery franchise gorakhpur",
     "grocery franchise investment in gorakhpur",
@@ -17,7 +21,7 @@ export const metadata = {
     "grocery franchise cost in gorakhpur",
     "grocery franchise under 20 lakh",
     "low investment grocery franchise",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "grocery franchise roi india",
     "supermarket franchise in gorakhpur",
     "franchise investment in uttar pradesh",
@@ -38,7 +42,11 @@ export const metadata = {
   openGraph: {
     title: "How to Invest in Grocery Franchise Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Planning to invest in a grocery franchise in Gorakhpur? Know cost from 18.5, margins, risks and the step-by-step process with The Buyzaar Mart.",
+=======
+      "Planning to invest in a grocery franchise in Gorakhpur? Know cost from 18.5 Lakh, margins, risks and the step-by-step process with The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-invest-in-grocery-franchise-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +64,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Invest in Grocery Franchise Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Planning to invest in a grocery franchise in Gorakhpur? Know cost from 18.5, margins, risks and the step-by-step process with The Buyzaar Mart.",
+=======
+      "Planning to invest in a grocery franchise in Gorakhpur? Know cost from 18.5 Lakh, margins, risks and the step-by-step process with The Buyzaar Mart.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -5,9 +5,13 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Starting from 15 Lakh in Amroha | Buyzaar Mart",
+  name: "Mart Franchise Starting from 18.5 lakh in Amroha | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Open a mart franchise in Amroha from 18.5 total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+=======
+    "Open a mart franchise in Amroha from 18.5 Lakh total investment with Buyzaar Mart. Branded store, POS billing, managed supply, training and 18-20% gross margin.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/amroha/mart-franchise-starting-from-15-lakh-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -26,13 +30,21 @@ const localBusinessSchema = {
   priceRange: "₹₹",
   hasOfferCatalog: {
     "@type": "OfferCatalog",
+<<<<<<< HEAD
     name: "Buyzaar Mart Franchise Formats Starting from 18.5 in Amroha",
+=======
+    name: "Buyzaar Mart Franchise Formats Starting from 18.5 Lakh in Amroha",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     itemListElement: [
       {
         "@type": "Offer",
         name: "Mini Mart",
         description:
+<<<<<<< HEAD
           "A 600 to 1000 sq ft mart franchise format for Amroha, starting from a total investment of 18.5.",
+=======
+          "A 600 to 1000 sq ft mart franchise format for Amroha, starting from a total investment of 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -59,7 +71,11 @@ const faqSchema = {
       name: "What is the total investment for a mart franchise in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "It starts from a total of 18.5, and a Mini Mart generally falls within 18.5 to ₹20 lakh depending on size and location.",
+=======
+        text: "It starts from a total of 18.5 Lakh, and a Mini Mart generally falls within 18.5 Lakh to ₹20 lakh depending on size and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -131,12 +147,16 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Starting from 15 Lakh in Amroha: Open a Buyzaar
+              Mart Franchise Starting from 18.5 lakh in Amroha: Open a Buyzaar
               Mart Neighbourhood Store
             </h1>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               Why a Mart Franchise Starting from 18.5 Fits Amroha
+=======
+              Why a Mart Franchise Starting from 18.5 Lakh Fits Amroha
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <h3 className="font-medium text-gray-900">
@@ -145,7 +165,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 A mart franchise starting from a total of 18.5 lets you enter
+=======
+                A mart franchise starting from a total of 18.5 Lakh lets you enter
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 a business that Amroha families already understand, because
                 everyone buys groceries, snacks, personal care and home care
                 products every week.
@@ -223,7 +247,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               Total Investment for a Mart Franchise Starting from 18.5
+=======
+              Total Investment for a Mart Franchise Starting from 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <h3 className="font-medium text-gray-900">
@@ -234,7 +262,11 @@ const Content = () => {
               <li>
                 The Buyzaar Mart franchise starts from a total investment of ₹15
                 lakh, and the brand&apos;s FAQ page says a Mini Mart of 600 to
+<<<<<<< HEAD
                 1000 sq ft generally falls between 18.5 and ₹20 lakh in
+=======
+                1000 sq ft generally falls between 18.5 Lakh and ₹20 lakh in
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 total.
               </li>
               <li>
@@ -726,8 +758,13 @@ const Content = () => {
                   What is the total investment for a mart franchise in Amroha?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   It starts from a total of 18.5, and a Mini Mart generally
                   falls within 18.5 to ₹20 lakh depending on size and
+=======
+                  It starts from a total of 18.5 Lakh, and a Mini Mart generally
+                  falls within 18.5 Lakh to ₹20 lakh depending on size and
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   location.
                 </p>
               </div>
@@ -795,7 +832,11 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Start a Buyzaar Mart franchise in Amroha with a total
+<<<<<<< HEAD
                   investment starting from 18.5.
+=======
+                  investment starting from 18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Get a branded neighbourhood store with POS billing, managed

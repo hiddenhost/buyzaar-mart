@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Profitable Franchise in Hapur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5. Apply now.",
+=======
+    "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "profitable franchise Hapur",
     "profitable franchise in Hapur",
@@ -19,7 +23,7 @@ export const metadata = {
     "supermarket franchise Hapur",
     "retail franchise Hapur",
     "low investment profitable franchise",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "18-20 percent gross margin franchise",
     "FMCG franchise Hapur",
     "mini mart franchise Hapur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Profitable Franchise in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5. Apply now.",
+=======
+      "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/hapur/profitable-franchise-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Profitable Franchise in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5. Apply now.",
+=======
+      "Start a profitable franchise in Hapur with The Buyzaar Mart. Effective gross margin of 18–20%, full support and total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

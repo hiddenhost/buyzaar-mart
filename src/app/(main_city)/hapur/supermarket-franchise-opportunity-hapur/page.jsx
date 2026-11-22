@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Supermarket Franchise Opportunity Hapur | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Open a supermarket franchise in Hapur with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCM and FOCO models, full support. Total investment from 18.5. Apply now.",
+=======
+    "Open a supermarket franchise in Hapur with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCM and FOCO models, full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "supermarket franchise opportunity hapur",
     "supermarket franchise in hapur",
@@ -37,7 +41,11 @@ export const metadata = {
   openGraph: {
     title: "Supermarket Franchise Opportunity Hapur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Open a supermarket franchise in Hapur with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCM and FOCO models, full support. Total investment from 18.5. Apply now.",
+=======
+      "Open a supermarket franchise in Hapur with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCM and FOCO models, full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/hapur/supermarket-franchise-opportunity-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -55,7 +63,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Supermarket Franchise Opportunity Hapur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Open a supermarket franchise in Hapur with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCM and FOCO models, full support. Total investment from 18.5. Apply now.",
+=======
+      "Open a supermarket franchise in Hapur with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCM and FOCO models, full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

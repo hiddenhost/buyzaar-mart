@@ -199,7 +199,11 @@ const Content = () => {
               Total Investment to Open a Mart Franchise in Amroha
             </h2>
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>The total investment for a Buyzaar Mart Mini Store of 600–1000 sq ft is expected to be between 18.5 and ₹20 lakh.</li>
+=======
+              <li>The total investment for a Buyzaar Mart Mini Store of 600–1000 sq ft is expected to be between 18.5 Lakh and ₹20 lakh.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>The final figure depends on store size, location, store arrangement and the amount of interior work needed at your chosen premises.</li>
               <li>Larger Super Mart and Hyper Mart formats require a higher total investment, which the Buyzaar team can calculate for your exact area.</li>
               <li>Rent and staff costs are separate running expenses in the FOCM model, so plan working capital before you sign a lease.</li>

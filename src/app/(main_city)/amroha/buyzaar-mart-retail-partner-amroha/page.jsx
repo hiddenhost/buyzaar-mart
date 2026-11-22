@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "Buyzaar Mart Retail Partner in Amroha | Supermarket Franchise Partner",
   description:
+<<<<<<< HEAD
     "Become a Buyzaar Mart retail partner in Amroha. FOCM and FOCO models, POS, training and full support. Total investment starts from 18.5. Get a reply within 24 hours.",
+=======
+    "Become a Buyzaar Mart retail partner in Amroha. FOCM and FOCO models, POS, training and full support. Total investment starts from 18.5 Lakh. Get a reply within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "buyzaar mart retail partner amroha",
     "buyzaar mart retail partner",
@@ -27,7 +31,7 @@ export const metadata = {
     "FOCO franchise amroha",
     "mini mart franchise amroha",
     "super mart franchise amroha",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment supermarket franchise",
     "franchise business opportunity amroha",
     "organised retail franchise amroha",
@@ -41,7 +45,11 @@ export const metadata = {
     title:
       "Buyzaar Mart Retail Partner in Amroha | Supermarket Franchise Partner",
     description:
+<<<<<<< HEAD
       "Become a Buyzaar Mart retail partner in Amroha. FOCM and FOCO models, POS, training and full support. Total investment starts from 18.5. Get a reply within 24 hours.",
+=======
+      "Become a Buyzaar Mart retail partner in Amroha. FOCM and FOCO models, POS, training and full support. Total investment starts from 18.5 Lakh. Get a reply within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-retail-partner-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -60,7 +68,11 @@ export const metadata = {
     title:
       "Buyzaar Mart Retail Partner in Amroha | Supermarket Franchise Partner",
     description:
+<<<<<<< HEAD
       "Become a Buyzaar Mart retail partner in Amroha. FOCM and FOCO models, POS, training and full support. Total investment starts from 18.5. Get a reply within 24 hours.",
+=======
+      "Become a Buyzaar Mart retail partner in Amroha. FOCM and FOCO models, POS, training and full support. Total investment starts from 18.5 Lakh. Get a reply within 24 hours.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

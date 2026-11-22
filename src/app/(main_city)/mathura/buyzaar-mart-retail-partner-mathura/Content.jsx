@@ -79,7 +79,11 @@ const faqSchema = {
       name: "What is the minimum investment to become a retail partner in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from 18.5, depending on the store format chosen.",
+=======
+        text: "The minimum investment starts from 18.5 Lakh, depending on the store format chosen.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -290,7 +294,11 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 Minimum investment for becoming a retail partner starts from
+<<<<<<< HEAD
                 18.5 onwards, depending on the store format chosen.
+=======
+                18.5 Lakh onwards, depending on the store format chosen.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 Mini Mart requires approximately 600–1,000 sq ft and is suited
@@ -557,7 +565,11 @@ const Content = () => {
                   Mathura?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts from 18.5, depending on the
+=======
+                  The minimum investment starts from 18.5 Lakh, depending on the
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   store format chosen.
                 </p>
               </div>

@@ -485,7 +485,11 @@ const Content = () => {
               </li>
               <li>
                 Applicants who can meet the minimum investment requirement of
+<<<<<<< HEAD
                 18.5 onwards for their chosen format.
+=======
+                18.5 Lakh onwards for their chosen format.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 Those interested in either a hands-on FOCO role or a more

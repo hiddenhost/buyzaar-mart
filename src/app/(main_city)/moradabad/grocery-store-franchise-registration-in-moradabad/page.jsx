@@ -7,7 +7,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Store Franchise Registration in Moradabad | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, and easy registration process.",
+=======
+    "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5 Lakh, and easy registration process.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "grocery store franchise registration Moradabad",
     "supermarket franchise Moradabad",
@@ -29,7 +33,11 @@ export const metadata = {
   openGraph: {
     title: "Grocery Store Franchise Registration in Moradabad | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, and easy registration process.",
+=======
+      "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5 Lakh, and easy registration process.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-registration-in-moradabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -47,7 +55,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Store Franchise Registration in Moradabad | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5, and easy registration process.",
+=======
+      "Register a grocery store franchise in Moradabad with The Buyzaar Mart. Explore Mini Mart, Super Mart & Hyper Mart formats, investment from 18.5 Lakh, and easy registration process.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

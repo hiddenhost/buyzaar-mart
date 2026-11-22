@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Franchise Investment in Gorakhpur | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5, FOCM & FOCO models, POS, training & full support. Apply today!",
+=======
+    "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "retail franchise investment Gorakhpur",
     "retail franchise in Gorakhpur",
@@ -22,7 +26,7 @@ export const metadata = {
     "franchise opportunity Gorakhpur",
     "FOCM franchise model",
     "FOCO franchise model",
-    "franchise from 15 lakh",
+    "franchise from 18.5 lakh",
     "supermarket franchise Uttar Pradesh",
     "grocery store franchise India",
     "retail business Gorakhpur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Retail Franchise Investment in Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5, FOCM & FOCO models, POS, training & full support. Apply today!",
+=======
+      "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/retail-franchise-investment-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Franchise Investment in Gorakhpur | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5, FOCM & FOCO models, POS, training & full support. Apply today!",
+=======
+      "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, FOCM & FOCO models, POS, training & full support. Apply today!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

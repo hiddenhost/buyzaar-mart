@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise Investment Opportunity in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore a grocery franchise investment opportunity in Gorakhpur with The Buyzaar Mart. Mini Mart formats start from 18.5 with POS technology, training, inventory support, and centralised supply-chain support.",
+=======
+    "Explore a grocery franchise investment opportunity in Gorakhpur with The Buyzaar Mart. Mini Mart formats start from 18.5 Lakh with POS technology, training, inventory support, and centralised supply-chain support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-investment-opportunity-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -58,7 +62,11 @@ const faqSchema = {
       name: "How much do I need to invest for a grocery franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A Mini Mart starts from about 18.5 and generally goes up to ₹22 lakh, depending on size and location.",
+=======
+        text: "A Mini Mart starts from about 18.5 Lakh and generally goes up to ₹22 lakh, depending on size and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -154,7 +162,11 @@ const Content = () => {
               </li>
               <li>
                 The Buyzaar Mart gives entrepreneurs a structured way to enter
+<<<<<<< HEAD
                 this market. Formats begin from 18.5, operations are
+=======
+                this market. Formats begin from 18.5 Lakh, operations are
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 supported by POS technology and a central supply chain, and the
                 tagline &quot;Your Friendly Neighbourhood Store&quot; reflects a
                 store built around local trust.
@@ -431,7 +443,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 A Mini Mart generally requires about 18.5 to ₹22 Lakh,
+=======
+                A Mini Mart generally requires about 18.5 Lakh to ₹22 Lakh,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 depending on size, location, and the condition of the premises.
               </li>
               <li>
@@ -659,7 +675,11 @@ const Content = () => {
                   Gorakhpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A Mini Mart starts from about 18.5 and generally goes up
+=======
+                  A Mini Mart starts from about 18.5 Lakh and generally goes up
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   to ₹22 Lakh, depending on size and location.
                 </p>
               </div>
@@ -755,7 +775,11 @@ const Content = () => {
                   procurement, training, inventory support, and local marketing.
                 </li>
                 <li>
+<<<<<<< HEAD
                   Mini Mart formats begin from 18.5, subject to final site,
+=======
+                  Mini Mart formats begin from 18.5 Lakh, subject to final site,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   size, and setup requirements.
                 </li>
               </ul>

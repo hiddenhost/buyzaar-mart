@@ -60,7 +60,11 @@ const faqSchema = {
       name: "How much investment is needed to open a supermarket franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment starts from 18.5 onwards and scales upward with carpet area and product range depth.",
+=======
+        text: "Investment starts from 18.5 Lakh onwards and scales upward with carpet area and product range depth.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -277,7 +281,11 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 Minimum investment for a Super Mart or Hyper Mart format under
+<<<<<<< HEAD
                 The Buyzaar Mart franchise starts from 18.5 onwards, scaling
+=======
+                The Buyzaar Mart franchise starts from 18.5 Lakh onwards, scaling
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 with carpet area.
               </li>
               <li>
@@ -613,7 +621,11 @@ const Content = () => {
                   in Mathura?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Investment starts from 18.5 onwards and scales upward with
+=======
+                  Investment starts from 18.5 Lakh onwards and scales upward with
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   carpet area and product range depth.
                 </p>
               </div>

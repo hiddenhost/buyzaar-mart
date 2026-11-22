@@ -34,7 +34,11 @@ const faqSchema = {
       name: "What is the minimum investment required to register a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment for a Buyzaar Mart franchise in Kanpur is 18.5. This includes premises setup, equipment, initial inventory, working capital, and licensing fees. The company also assists franchisees in exploring bank and financial institution partnerships.",
+=======
+        text: "The minimum investment for a Buyzaar Mart franchise in Kanpur is 18.5 Lakh. This includes premises setup, equipment, initial inventory, working capital, and licensing fees. The company also assists franchisees in exploring bank and financial institution partnerships.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -328,7 +332,11 @@ const Content = () => {
             <p>
               The investment required for a Buyzaar Mart franchise in Kanpur is
               designed for entrepreneurs with moderate financial capacity. The
+<<<<<<< HEAD
               ₹18.5 to ₹26 Lakh investment range positions the opportunity in
+=======
+              18.5 Lakh to ₹25 lakh investment range positions the opportunity in
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               a mid-range segment compared with larger supermarket setups that
               often require much higher capital.
             </p>
@@ -439,7 +447,11 @@ const Content = () => {
                   Mart franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment is 18.5. This generally includes
+=======
+                  The minimum investment is 18.5 Lakh. This generally includes
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   premises setup, equipment, initial inventory, working capital,
                   and licensing-related costs. The company may also help
                   franchisees explore funding support options.

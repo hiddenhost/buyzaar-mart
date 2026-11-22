@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Franchise to Open in Bulandshahr | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for the best franchise to open in Bulandshahr? Start a Buyzaar Mart supermarket franchise from 18.5 with full setup, POS and training support.",
+=======
+    "Looking for the best franchise to open in Bulandshahr? Start a Buyzaar Mart supermarket franchise from 18.5 Lakh with full setup, POS and training support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "best franchise to open in Bulandshahr",
     "best franchise in Bulandshahr",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Best Franchise to Open in Bulandshahr | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best franchise to open in Bulandshahr? Start a Buyzaar Mart supermarket franchise from 18.5 with full setup, POS and training support.",
+=======
+      "Looking for the best franchise to open in Bulandshahr? Start a Buyzaar Mart supermarket franchise from 18.5 Lakh with full setup, POS and training support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/bulandshahr/best-franchise-to-open-in-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Franchise to Open in Bulandshahr | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best franchise to open in Bulandshahr? Start a Buyzaar Mart supermarket franchise from 18.5 with full setup, POS and training support.",
+=======
+      "Looking for the best franchise to open in Bulandshahr? Start a Buyzaar Mart supermarket franchise from 18.5 Lakh with full setup, POS and training support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

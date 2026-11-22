@@ -34,7 +34,11 @@ const faqSchema = {
       name: "What is the minimum investment to open a retail franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts at 18.5 for a Mini Mart of 600 to 1000 sq. ft., depending on inventory, store design, POS setup, franchise fee, and security deposit.",
+=======
+        text: "The minimum investment starts at 18.5 Lakh for a Mini Mart of 600 to 1000 sq. ft., depending on inventory, store design, POS setup, franchise fee, and security deposit.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -608,7 +612,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               With entry points starting from 18.5 for a Mini Mart and
+=======
+              With entry points starting from 18.5 Lakh for a Mini Mart and
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               scaling upward for larger formats, the model offers multiple
               investment options.
             </p>
@@ -641,7 +649,11 @@ const Content = () => {
                   in Faridabad?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts at 18.5 for a Mini Mart of
+=======
+                  The minimum investment starts at 18.5 Lakh for a Mini Mart of
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   600-1000 sqft, including inventory, store design, POS setup,
                   franchise fee with GST, and security deposit. Super Marts and
                   Hyper Marts require higher investment based on size and

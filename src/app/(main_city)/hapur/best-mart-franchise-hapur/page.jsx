@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Mart Franchise in Hapur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for the best mart franchise in Hapur? Open a Buyzaar Mart with POS billing, supply chain and full support. Total investment from 18.5. Apply now.",
+=======
+    "Looking for the best mart franchise in Hapur? Open a Buyzaar Mart with POS billing, supply chain and full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "best mart franchise Hapur",
     "best mart franchise in Hapur",
@@ -18,7 +22,7 @@ export const metadata = {
     "grocery mart franchise Hapur",
     "retail mart franchise Hapur",
     "low investment mart franchise",
-    "mart franchise from 15 lakh",
+    "mart franchise from 18.5 lakh",
     "mini mart franchise Hapur",
     "super mart franchise Hapur",
     "hyper mart franchise Hapur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Best Mart Franchise in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best mart franchise in Hapur? Open a Buyzaar Mart with POS billing, supply chain and full support. Total investment from 18.5. Apply now.",
+=======
+      "Looking for the best mart franchise in Hapur? Open a Buyzaar Mart with POS billing, supply chain and full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/hapur/best-mart-franchise-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Mart Franchise in Hapur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best mart franchise in Hapur? Open a Buyzaar Mart with POS billing, supply chain and full support. Total investment from 18.5. Apply now.",
+=======
+      "Looking for the best mart franchise in Hapur? Open a Buyzaar Mart with POS billing, supply chain and full support. Total investment from 18.5 Lakh. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

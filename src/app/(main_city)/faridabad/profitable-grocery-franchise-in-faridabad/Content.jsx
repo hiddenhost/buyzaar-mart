@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Profitable Franchise in Faridabad - The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore The Buyzaar Mart franchise opportunity in Faridabad with Supermart formats, FOCM and FOCO models, organised retail support, and investment options starting from 18.5.",
+=======
+    "Explore The Buyzaar Mart franchise opportunity in Faridabad with Supermart formats, FOCM and FOCO models, organised retail support, and investment options starting from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/faridabad/profitable-franchise-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +38,11 @@ const faqSchema = {
       name: "What is the minimum investment to open a Buyzaar Mart franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from 18.5 for the Mini Mart format.",
+=======
+        text: "The minimum investment starts from 18.5 Lakh for the Mini Mart format.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -498,7 +506,11 @@ const Content = () => {
                   franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts from 18.5 for the Mini Mart
+=======
+                  The minimum investment starts from 18.5 Lakh for the Mini Mart
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   format.
                 </p>
               </div>

@@ -23,7 +23,7 @@ export const metadata = {
     "retail franchise business india",
     "franchise investment uttar pradesh",
     "low investment retail franchise",
-    "grocery franchise starting 15 lakh",
+    "grocery franchise starting 18.5 lakh",
     "organised retail franchise",
     "FMCG store franchise",
     "neighbourhood supermarket franchise",

@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a FOCM supermarket franchise in Bulandshahr with The Buyzaar Mart. Investment from 18.5, full setup, POS and training support. Apply today.",
+=======
+    "Start a FOCM supermarket franchise in Bulandshahr with The Buyzaar Mart. Investment from 18.5 Lakh, full setup, POS and training support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "FOCM franchise opportunity Bulandshahr",
     "FOCM franchise Bulandshahr",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "FOCM Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a FOCM supermarket franchise in Bulandshahr with The Buyzaar Mart. Investment from 18.5, full setup, POS and training support. Apply today.",
+=======
+      "Start a FOCM supermarket franchise in Bulandshahr with The Buyzaar Mart. Investment from 18.5 Lakh, full setup, POS and training support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/bulandshahr/focm-franchise-opportunity-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a FOCM supermarket franchise in Bulandshahr with The Buyzaar Mart. Investment from 18.5, full setup, POS and training support. Apply today.",
+=======
+      "Start a FOCM supermarket franchise in Bulandshahr with The Buyzaar Mart. Investment from 18.5 Lakh, full setup, POS and training support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

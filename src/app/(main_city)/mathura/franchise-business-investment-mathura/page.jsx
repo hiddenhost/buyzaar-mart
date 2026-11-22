@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Franchise Business Investment in Mathura | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5, FOCM and FOCO options, and full business support.",
+=======
+    "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5 Lakh, FOCM and FOCO options, and full business support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "franchise business investment Mathura",
     "franchise business opportunity Mathura",
@@ -38,7 +42,11 @@ export const metadata = {
   openGraph: {
     title: "Franchise Business Investment in Mathura | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5, FOCM and FOCO options, and full business support.",
+=======
+      "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5 Lakh, FOCM and FOCO options, and full business support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/mathura/franchise-business-investment-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +64,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Franchise Business Investment in Mathura | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5, FOCM and FOCO options, and full business support.",
+=======
+      "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5 Lakh, FOCM and FOCO options, and full business support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

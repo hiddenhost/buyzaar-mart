@@ -154,7 +154,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               With investment starting from around 18.5, a franchise structure designed
+=======
+              With investment starting from around 18.5 Lakh, a franchise structure designed
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               for first-time investors, and a brand philosophy rooted in community,
               transparency, and value, The Buyzaar Mart presents a strong franchise business
               opportunity in Lucknow.
@@ -348,7 +352,11 @@ const Content = () => {
             <p>
               The Mini Mart is the entry-level format, suitable for smaller residential
               locations, colony lanes, or housing society markets. It is ideal for investors
+<<<<<<< HEAD
               starting with approximately ₹18.5 to ₹26 Lakh and generally fits spaces of
+=======
+              starting with approximately 18.5 Lakh to ₹25 lakh and generally fits spaces of
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               around 600 to 1000 square feet.
             </p>
 
@@ -593,7 +601,11 @@ const Content = () => {
               <p className="mb-4 text-gray-800">
                 The Buyzaar Mart gives you the opportunity to become that store in your own
                 locality. With a proven brand, an investor-friendly model, operational
+<<<<<<< HEAD
                 support, and investment starting from around 18.5, this is a practical
+=======
+                support, and investment starting from around 18.5 Lakh, this is a practical
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 path toward building a business asset and a local legacy.
               </p>
 

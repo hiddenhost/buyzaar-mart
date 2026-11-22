@@ -276,7 +276,11 @@ const Content = () => {
               <li>Stock: Initial inventory of groceries, FMCG, and daily essentials.</li>
               <li>Interior and setup: Shelving, branding, refrigeration, and store fit-out.</li>
               <li>Security deposit: A refundable amount held as part of the agreement.</li>
+<<<<<<< HEAD
               <li>Entry-level investments for smaller formats have started around 18.5 in similar markets, with larger formats requiring a higher budget.</li>
+=======
+              <li>Entry-level investments for smaller formats have started around 18.5 Lakh in similar markets, with larger formats requiring a higher budget.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>Under FOCO, it is important to clarify the exact revenue-sharing percentage or fixed-return structure before finalizing the investment.</li>
               <li>A location-specific quote can help determine the most accurate total investment for the selected store size.</li>
             </ul>

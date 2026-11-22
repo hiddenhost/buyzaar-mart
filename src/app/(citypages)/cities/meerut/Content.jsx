@@ -11,23 +11,23 @@ export default function MeerutContent() {
       <div className="p-8 bg-gradient-to-br from-green-50 to-emerald-50">
         <div className="max-w-6xl mx-auto">
           <div className="flex items-center justify-center mb-4 mt-30">
-            <svg 
-              className="w-8 h-8 text-green-600 mr-3" 
-              fill="none" 
-              stroke="currentColor" 
+            <svg
+              className="w-8 h-8 text-green-600 mr-3"
+              fill="none"
+              stroke="currentColor"
               viewBox="0 0 24 24"
             >
-              <path 
-                strokeLinecap="round" 
-                strokeLinejoin="round" 
-                strokeWidth={2} 
-                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" 
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
               />
-              <path 
-                strokeLinecap="round" 
-                strokeLinejoin="round" 
-                strokeWidth={2} 
-                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" 
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
               />
             </svg>
             <span className="text-green-600 font-semibold text-lg">Meerut</span>
@@ -38,7 +38,7 @@ export default function MeerutContent() {
           </h1>
 
           <p className="text-gray-700 text-center text-lg mb-6 max-w-7xl mx-auto leading-relaxed">
-            Capitalize on Meerut's booming retail market with a Buyzaar Mart supermarket franchise. Join India's 
+            Capitalize on Meerut's booming retail market with a Buyzaar Mart supermarket franchise. Join India's
             fastest-growing retail chain in one of UP's largest and most prosperous cities.
           </p>
 
@@ -56,7 +56,7 @@ export default function MeerutContent() {
       {/* Main Content with Sidebar Form */}
       <div className="max-w-9xl mx-auto px-8 py-12">
         <div className="flex flex-col lg:flex-row gap-8">
-          
+
           {/* Main Content - Order 1 on all screens */}
           <div className="flex-1 order-1 lg:order-1">
             <div className="prose prose-lg max-w-none">
@@ -65,7 +65,7 @@ export default function MeerutContent() {
                 Why Meerut is a Goldmine for Supermarket Franchise Business
               </h2>
               <p className="text-gray-700 leading-relaxed mb-6">
-                Meerut, with over 15 lakh population, is the second-largest city in western Uttar Pradesh and a major
+                Meerut, with over 18.5 lakh population, is the second-largest city in western Uttar Pradesh and a major
                 commercial hub in the NCR region. The city's strategic location just 70 km from Delhi, excellent
                 connectivity via expressways and metro, and strong industrial base (sports goods, scissors, engineering)
                 have created a prosperous middle and upper-middle class with high disposable income. The city is
@@ -142,7 +142,7 @@ export default function MeerutContent() {
                 RWAs and housing societies. We also provide ready-to-use marketing collaterals, pamphlets, and promotional
                 materials customized for Meerut market.
               </p>
-              
+
             </div>
           </div>
 
@@ -165,7 +165,7 @@ export default function MeerutContent() {
           <p className="text-gray-600 text-center mb-8 max-w-3xl mx-auto">
             Explore franchise opportunities across Uttar Pradesh and NCR
           </p>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {citiesData.map((city, index) => (
               <Link

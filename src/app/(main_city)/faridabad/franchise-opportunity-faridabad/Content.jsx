@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Opportunity in Faridabad - The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore the Buyzaar Mart franchise opportunity in Faridabad. Start your grocery retail business with brand backing, operational support, marketing help, and investment starting from 18.5.",
+=======
+    "Explore the Buyzaar Mart franchise opportunity in Faridabad. Start your grocery retail business with brand backing, operational support, marketing help, and investment starting from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/faridabad/franchise-opportunity-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +38,11 @@ const faqSchema = {
       name: "What is the minimum investment required for a Buyzaar Mart franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "You can start a Buyzaar Mart franchise from 18.5, which covers store setup, initial inventory, POS system, and launch support.",
+=======
+        text: "You can start a Buyzaar Mart franchise from 18.5 Lakh, which covers store setup, initial inventory, POS system, and launch support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -245,14 +253,22 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               Investment Details &ndash; Start Your Franchise from 18.5
+=======
+              Investment Details &ndash; Start Your Franchise from 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
             <p>
               One of the most compelling reasons to consider a Buyzaar Mart
               franchise in Faridabad is the highly accessible investment
               structure. You can start your own supermarket franchise with an
+<<<<<<< HEAD
               investment starting from 18.5, making it one of the most
+=======
+              investment starting from 18.5 Lakh, making it one of the most
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               affordable organized grocery franchise opportunities available in
               India today.
             </p>
@@ -497,7 +513,11 @@ const Content = () => {
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
+<<<<<<< HEAD
                 Low entry investment from 18.5, significantly lower than
+=======
+                Low entry investment from 18.5 Lakh, significantly lower than
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 most organized grocery franchise brands.
               </li>
               <li>
@@ -649,7 +669,11 @@ const Content = () => {
                   franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   You can start a Buyzaar Mart franchise from 18.5, which
+=======
+                  You can start a Buyzaar Mart franchise from 18.5 Lakh, which
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   covers store setup, initial inventory, POS system, and launch
                   support.
                 </p>

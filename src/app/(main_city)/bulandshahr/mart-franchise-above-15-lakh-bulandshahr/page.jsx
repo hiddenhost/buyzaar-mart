@@ -4,12 +4,18 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
+<<<<<<< HEAD
   title: "Mart Franchise Above 18.5 in Bulandshahr | The Buyzaar Mart",
   description:
     "Explore a mart franchise above 18.5 in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+=======
+  title: "Mart Franchise Above 18.5 Lakh in Bulandshahr | The Buyzaar Mart",
+  description:
+    "Explore a mart franchise above 18.5 Lakh in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "mart franchise Bulandshahr",
-    "franchise above 15 lakh",
+    "franchise above 18.5 lakh",
     "super mart franchise Bulandshahr",
     "hyper mart franchise Bulandshahr",
     "grocery franchise Bulandshahr",
@@ -36,9 +42,15 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/bulandshahr/mart-franchise-above-15-lakh-bulandshahr",
   },
   openGraph: {
+<<<<<<< HEAD
     title: "Mart Franchise Above 18.5 in Bulandshahr | The Buyzaar Mart",
     description:
       "Explore a mart franchise above 18.5 in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+=======
+    title: "Mart Franchise Above 18.5 Lakh in Bulandshahr | The Buyzaar Mart",
+    description:
+      "Explore a mart franchise above 18.5 Lakh in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/bulandshahr/mart-franchise-above-15-lakh-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +58,11 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
+<<<<<<< HEAD
         alt: "Mart Franchise Above 18.5 in Bulandshahr | The Buyzaar Mart",
+=======
+        alt: "Mart Franchise Above 18.5 Lakh in Bulandshahr | The Buyzaar Mart",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     ],
     locale: "en_IN",
@@ -54,9 +70,15 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
+<<<<<<< HEAD
     title: "Mart Franchise Above 18.5 in Bulandshahr | The Buyzaar Mart",
     description:
       "Explore a mart franchise above 18.5 in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+=======
+    title: "Mart Franchise Above 18.5 Lakh in Bulandshahr | The Buyzaar Mart",
+    description:
+      "Explore a mart franchise above 18.5 Lakh in Bulandshahr with The Buyzaar Mart. Super Mart and Hyper Mart formats, FOCO and FOCM models, full setup support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

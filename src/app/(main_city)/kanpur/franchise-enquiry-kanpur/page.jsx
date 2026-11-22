@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "Franchise Enquiry Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
   description:
+<<<<<<< HEAD
     "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+=======
+    "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 Lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/franchise-enquiry-kanpur",
@@ -16,7 +20,11 @@ export const metadata = {
     title:
       "Franchise Enquiry Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
     description:
+<<<<<<< HEAD
       "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+=======
+      "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 Lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/kanpur/franchise-enquiry-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +43,11 @@ export const metadata = {
     title:
       "Franchise Enquiry Kanpur | The Buyzaar Mart Grocery & Supermarket Franchise",
     description:
+<<<<<<< HEAD
       "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+=======
+      "Submit your franchise enquiry for Kanpur and join The Buyzaar Mart network. Start a grocery supermarket from 18.5 Lakh with FOCM & FOCO models, full brand support, POS system, supply chain, and training. Enquire now at thebuyzaarmart.com.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

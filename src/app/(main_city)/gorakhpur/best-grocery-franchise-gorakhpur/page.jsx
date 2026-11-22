@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Grocery Franchise in Gorakhpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for the best grocery franchise in Gorakhpur? Compare what matters and see why The Buyzaar Mart offers 18–20% gross margin from 18.5. Apply now!",
+=======
+    "Looking for the best grocery franchise in Gorakhpur? Compare what matters and see why The Buyzaar Mart offers 18–20% gross margin from 18.5 Lakh. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "best grocery franchise gorakhpur",
     "best grocery franchise in gorakhpur",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Best Grocery Franchise in Gorakhpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best grocery franchise in Gorakhpur? Compare what matters and see why The Buyzaar Mart offers 18–20% gross margin from 18.5. Apply now!",
+=======
+      "Looking for the best grocery franchise in Gorakhpur? Compare what matters and see why The Buyzaar Mart offers 18–20% gross margin from 18.5 Lakh. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/best-grocery-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Grocery Franchise in Gorakhpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for the best grocery franchise in Gorakhpur? Compare what matters and see why The Buyzaar Mart offers 18–20% gross margin from 18.5. Apply now!",
+=======
+      "Looking for the best grocery franchise in Gorakhpur? Compare what matters and see why The Buyzaar Mart offers 18–20% gross margin from 18.5 Lakh. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -22,7 +22,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               The Buyzaar Mart offers a structured and beginner-friendly franchise model, making it easier to enter the retail sector with proper guidance, training, and operational support. The investment required depends on the store format, ranging from approximately 18.5s for a mini mart to ₹75+ lakhs for a hypermart, with the most popular supermarket model costing around ₹40–50 lakhs including inventory, setup, and technology.
+=======
+              The Buyzaar Mart offers a structured and beginner-friendly franchise model, making it easier to enter the retail sector with proper guidance, training, and operational support. The investment required depends on the store format, ranging from approximately 18.5 Lakhs for a mini mart to ₹75+ lakhs for a hypermart, with the most popular supermarket model costing around ₹40–50 lakhs including inventory, setup, and technology.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <p>
@@ -133,7 +137,7 @@ const Content = () => {
               </p>
               <div className="space-y-3">
                 <p className="text-gray-900 font-semibold">
-                  📞 Call: +91-9217991727, 
+                  📞 Call: +91-9217991727,
                 </p>
                 <p className="text-gray-900">
                   📧 Email:{" "}

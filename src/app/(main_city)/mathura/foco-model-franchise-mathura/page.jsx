@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Model Franchise in Mathura | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 onwards.",
+=======
+    "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 Lakh onwards.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "foco model franchise Mathura",
     "franchise owned company operated",
@@ -38,7 +42,11 @@ export const metadata = {
   openGraph: {
     title: "FOCO Model Franchise in Mathura | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 onwards.",
+=======
+      "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 Lakh onwards.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/mathura/foco-model-franchise-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -56,7 +64,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Model Franchise in Mathura | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 onwards.",
+=======
+      "Explore the FOCO, Franchise Owned Company Operated, model with The Buyzaar Mart in Mathura — low-involvement investment, professional store management, and opportunities from 18.5 Lakh onwards.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

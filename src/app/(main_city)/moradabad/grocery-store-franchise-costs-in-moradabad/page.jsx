@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
     title: "Grocery Store Franchise Costs in Moradabad | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
         "Explore complete grocery store franchise costs in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment, from 18.5, with full cost breakdown.",
+=======
+        "Explore complete grocery store franchise costs in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment, from 18.5 Lakh, with full cost breakdown.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     keywords: [
         "grocery store franchise cost Moradabad",
         "supermarket franchise investment Moradabad",
@@ -27,7 +31,11 @@ export const metadata = {
     openGraph: {
         title: "Grocery Store Franchise Costs in Moradabad | The Buyzaar Mart",
         description:
+<<<<<<< HEAD
             "Explore complete grocery store franchise costs in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment, from 18.5, with full cost breakdown.",
+=======
+            "Explore complete grocery store franchise costs in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment, from 18.5 Lakh, with full cost breakdown.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
         url: "https://www.thebuyzaarmart.com/moradabad/grocery-store-franchise-costs-in-moradabad",
         siteName: "The Buyzaar Mart",
         images: [
@@ -45,7 +53,11 @@ export const metadata = {
         card: "summary_large_image",
         title: "Grocery Store Franchise Costs in Moradabad | The Buyzaar Mart",
         description:
+<<<<<<< HEAD
             "Explore complete grocery store franchise costs in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment, from 18.5, with full cost breakdown.",
+=======
+            "Explore complete grocery store franchise costs in Moradabad with The Buyzaar Mart. Compare Mini Mart, Super Mart & Hyper Mart investment, from 18.5 Lakh, with full cost breakdown.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
         images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
     },
     icons: {

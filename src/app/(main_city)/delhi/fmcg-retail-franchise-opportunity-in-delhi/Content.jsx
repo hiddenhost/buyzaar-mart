@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What is the minimum investment for an FMCG retail franchise in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A Mini Mart format starts from approximately INR 15 lakh, going up to around INR 22 lakh depending on location and fit-out.",
+        text: "A Mini Mart format starts from approximately INR 18.5 lakh, going up to around INR 22 lakh depending on location and fit-out.",
       },
     },
     {
@@ -233,7 +233,7 @@ const Content = () => {
                 Store size: Approximately 600-1,000 sq ft (minimum carpet area required for any Buyzaar Mart store is 600 sq ft)
               </li>
               <li>
-                Investment: Approximately INR 15 lakh to INR 22 lakh, depending on exact store size, location, and fit-out condition
+                Investment: Approximately INR 18.5 lakh to INR 22 lakh, depending on exact store size, location, and fit-out condition
               </li>
               <li>
                 Best for: Compact residential colonies, urban villages, and first-time investors
@@ -459,7 +459,7 @@ const Content = () => {
                 </h3>
                 <ul >
                   <li>
-                    A Mini Mart format starts from approximately INR 15 lakh, going up to around INR 22 lakh depending on location and fit-out.
+                    A Mini Mart format starts from approximately INR 18.5 lakh, going up to around INR 22 lakh depending on location and fit-out.
                   </li>
                 </ul>
               </div>

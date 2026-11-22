@@ -250,7 +250,11 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 <span className="font-semibold">Minimum Investment:</span>{" "}
+<<<<<<< HEAD
                 Starts from 18.5 onwards, scaling with store format and
+=======
+                Starts from 18.5 Lakh onwards, scaling with store format and
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 carpet area.
               </li>
               <li>

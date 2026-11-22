@@ -66,7 +66,7 @@ const faqSchema = {
       name: 'How much profit can I make from a retail business franchise?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'A well-operated store achieves monthly turnover of ₹10–15 lakh with 18–20% gross profit margin, translating to annual profit of ₹12–18 lakh with 80–100% annual ROI.',
+        text: 'A well-operated store achieves monthly turnover of ₹10–18.5 lakh with 18–20% gross profit margin, translating to annual profit of ₹12–18 lakh with 80–100% annual ROI.',
       },
     },
     {
@@ -698,8 +698,8 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Noida Extensions (Sector 120
-                {String.fromCharCode(8211)}
-                135):</strong>
+                  {String.fromCharCode(8211)}
+                  135):</strong>
                 {' '}
                 Rapidly developing with young, growing populations. New colonies
                 with limited retail infrastructure. Areas show 15
@@ -708,7 +708,7 @@ const Content = () => {
               </li>
               <li>
                 <strong>Ghaziabad (Laxmi Villas Rajnagar, Raj Nagar
-                Extension):</strong>
+                  Extension):</strong>
                 {' '}
                 Established neighborhoods with consistent foot traffic. Good
                 residential and semi-commercial mix. Moderate competition leaves
@@ -723,8 +723,8 @@ const Content = () => {
               </li>
               <li>
                 <strong>Noida (Sector 44
-                {String.fromCharCode(8211)}
-                80):</strong>
+                  {String.fromCharCode(8211)}
+                  80):</strong>
                 {' '}
                 Mixed residential-commercial colonies with established
                 populations. Good foot traffic and purchasing power. Ideal for
@@ -1069,7 +1069,7 @@ const Content = () => {
                 <p className="mt-2 text-gray-700">
                   A1: Minimum investment for Mini Mart format (600
                   {String.fromCharCode(8211)}
-                  1000 sqft) is approximately ₹15–25 lakh. 
+                  1000 sqft) is approximately ₹15–25 lakh.
                 </p>
               </div>
 
@@ -1080,7 +1080,7 @@ const Content = () => {
                 </h3>
                 <p className="mt-2 text-gray-700">
                   A2: Well-operated store in good location achieves monthly
-                  turnover of ₹10–15 lakh with 18–20% gross profit margin.
+                  turnover of ₹10–18.5 lakh with 18–20% gross profit margin.
                   After monthly operating expenses (₹40,000–₹60,000), monthly
                   net profit typically ranges ₹1–1.5 lakh. This translates to
                   annual profit of ₹12–18 lakh, delivering 80–100% annual ROI.
@@ -1162,22 +1162,22 @@ const Content = () => {
                 <h3 className="font-medium text-gray-900">
                   {String.fromCharCode(8211)}
                 </h3>
-                <p className="mt-2 text-gray-700">        
+                <p className="mt-2 text-gray-700">
                 </p>
               </div>
               <div>
-                <h3 className="font-medium text-gray-900">       
-              </h3>
+                <h3 className="font-medium text-gray-900">
+                </h3>
                 <p className="mt-2 text-gray-700">  </p>
               </div>
               <div>
                 <h3 className="font-medium text-gray-900">
                 </h3>
                 <p className="mt-2 text-gray-700">
-               </p>
+                </p>
               </div>
               <div>
-                <h3 className="font-medium text-gray-900"> 
+                <h3 className="font-medium text-gray-900">
                 </h3>
                 <p className="mt-2 text-gray-700">
                 </p>

@@ -6,7 +6,11 @@ const pageTitle =
   "The Buyzaar Mart Franchise in Mathura – Apply Now | Grocery Franchise";
 
 const pageDescription =
+<<<<<<< HEAD
   "Apply for The Buyzaar Mart franchise in Mathura. Grocery & supermarket business opportunity from 18.5 with FOCM model, full setup, supply chain & support.";
+=======
+  "Apply for The Buyzaar Mart franchise in Mathura. Grocery & supermarket business opportunity from 18.5 Lakh with FOCM model, full setup, supply chain & support.";
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
 
 const contentSections = [
   {
@@ -33,7 +37,11 @@ const contentSections = [
   {
     title: "Investment Required to Open a Buyzaar Mart Franchise in Mathura",
     points: [
+<<<<<<< HEAD
       "Minimum investment to start a Buyzaar Mart franchise begins from 18.5 onwards, depending on store size and format.",
+=======
+      "Minimum investment to start a Buyzaar Mart franchise begins from 18.5 Lakh onwards, depending on store size and format.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       "Investment is broadly divided into stock, interior setup, software or POS fee, franchise fee inclusive of 18% GST, and a refundable security deposit.",
       "Store interior and shelving costs vary based on whether the outlet is a Mini Mart, Super Mart, or Hyper Mart format.",
       "Franchise fee covers brand licensing, training, and onboarding support from The Buyzaar Mart's central team.",
@@ -172,7 +180,11 @@ const faqs = [
     question:
       "What is the minimum investment to apply for a Buyzaar Mart franchise in Mathura?",
     answer:
+<<<<<<< HEAD
       "The minimum investment starts from 18.5, depending on the store format and size chosen.",
+=======
+      "The minimum investment starts from 18.5 Lakh, depending on the store format and size chosen.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   },
   {
     question: "Which franchise model does Buyzaar Mart follow?",
@@ -351,7 +363,11 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Apply for a grocery and supermarket business opportunity in
+<<<<<<< HEAD
                   Mathura with investment starting from 18.5 onwards.
+=======
+                  Mathura with investment starting from 18.5 Lakh onwards.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Get support for property evaluation, documentation, FSSAI and

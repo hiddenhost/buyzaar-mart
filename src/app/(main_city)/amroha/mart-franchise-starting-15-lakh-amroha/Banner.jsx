@@ -8,7 +8,11 @@ export default function Banner() {
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src="https://res.cloudinary.com/dt8wjpf9e/image/upload/q_auto/f_auto/v1776671502/buyzaar-mart_ti8h8h.png"
+<<<<<<< HEAD
           alt="Mart Franchise Starting at 18.5 in Amroha | The Buyzaar Mart"
+=======
+          alt="Mart Franchise Starting at 18.5 Lakh in Amroha | The Buyzaar Mart"
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
           className="w-full h-full object-cover object-center"
         />
         {/* Gradient Overlay for better text readability */}
@@ -18,7 +22,11 @@ export default function Banner() {
       <div className="relative z-20 flex items-center justify-center h-full px-4">
         <div className="text-center text-white max-w-5xl mt-18">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-serif font-medium tracking-wide capitalize mb-4 md:mb-6 leading-tight">
+<<<<<<< HEAD
             Mart Franchise Starting at 18.5 in Amroha | The Buyzaar Mart
+=======
+            Mart Franchise Starting at 18.5 Lakh in Amroha | The Buyzaar Mart
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
           </h1>
         </div>
       </div>

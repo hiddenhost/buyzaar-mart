@@ -46,7 +46,11 @@ export default function FAQPage() {
       faqs: [
         {
           question: "How Much Money Do I need to Start a The Buyzaar Mart?",
+<<<<<<< HEAD
           answer: "Your total investment might range between 18.5s to ₹20 lakhs, to start a TThe Buyzaar Mart Mini Store (600-1000 sq ft). However, the total investment required is also dependent on store size and arrangement, location, and the amount of work to be done in it."
+=======
+          answer: "Your total investment might range between 18.5 Lakhs to ₹20 lakhs, to start a TThe Buyzaar Mart Mini Store (600-1000 sq ft). However, the total investment required is also dependent on store size and arrangement, location, and the amount of work to be done in it."
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
         },
         {
           question: "How much Space is needed for a The Buyzaar Mart Franchise?",
@@ -90,12 +94,12 @@ export default function FAQPage() {
         }
       ]
     },
-   
+
   ];
 
   return (
     <div className="min-h-screen bg-linear-to-br from-orange-50 via-white to-orange-50">
-      
+
       {/* Hero Section */}
       <div className="bg-red-800 pt-40 py-26 px-4">
         <div className="max-w-5xl mx-auto text-center">
@@ -140,17 +144,15 @@ export default function FAQPage() {
                         {faq.question}
                       </span>
                       <ChevronDown
-                        className={`w-6 h-6 text-red-800 shrink-0 transition-transform duration-300 ${
-                          isOpen ? 'rotate-180' : ''
-                        }`}
+                        className={`w-6 h-6 text-red-800 shrink-0 transition-transform duration-300 ${isOpen ? 'rotate-180' : ''
+                          }`}
                       />
                     </button>
 
                     {/* Answer */}
                     <div
-                      className={`overflow-hidden transition-all duration-500 ease-in-out ${
-                        isOpen ? 'max-h-[1000px] opacity-100' : 'max-h-0 opacity-0'
-                      }`}
+                      className={`overflow-hidden transition-all duration-500 ease-in-out ${isOpen ? 'max-h-[1000px] opacity-100' : 'max-h-0 opacity-0'
+                        }`}
                     >
                       <div className="px-6 pb-5 pt-2 border-t border-orange-100">
                         <p className="text-gray-700 leading-relaxed whitespace-pre-line">
@@ -175,11 +177,11 @@ export default function FAQPage() {
           <p className="text-orange-100 mb-6 text-lg">
             Our team is here to help you get started with your franchise journey!
           </p>
-             <Link href="/contact">
-      <button className="bg-white text-red-800 px-8 py-3 rounded-full font-semibold hover:bg-orange-50 transition-all duration-300 transform hover:scale-105 shadow-lg">
-        Contact Us
-      </button>
-    </Link>
+          <Link href="/contact">
+            <button className="bg-white text-red-800 px-8 py-3 rounded-full font-semibold hover:bg-orange-50 transition-all duration-300 transform hover:scale-105 shadow-lg">
+              Contact Us
+            </button>
+          </Link>
 
         </div>
       </div>
@@ -199,7 +201,7 @@ export default function FAQPage() {
           animation: fade-in 0.6s ease-out;
         }
       `}</style>
-      
+
     </div>
   );
 }

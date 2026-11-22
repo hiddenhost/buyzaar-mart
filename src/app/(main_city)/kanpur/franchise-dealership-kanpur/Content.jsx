@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Dealership in Kanpur — The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore franchise dealership opportunities in Kanpur with The Buyzaar Mart. Learn about FOCM and FOCO models, store formats, investment from 18.5, company support, and how to apply.",
+=======
+    "Explore franchise dealership opportunities in Kanpur with The Buyzaar Mart. Learn about FOCM and FOCO models, store formats, investment from 18.5 Lakh, company support, and how to apply.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +38,11 @@ const faqSchema = {
       name: "What is the total investment required to get a franchise dealership of The Buyzaar Mart in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The investment required to obtain a franchise dealership of The Buyzaar Mart in Kanpur starts from 18.5. The exact total investment depends on the franchise model chosen, the store format, the size of the store, and the specific location.",
+=======
+        text: "The investment required to obtain a franchise dealership of The Buyzaar Mart in Kanpur starts from 18.5 Lakh. The exact total investment depends on the franchise model chosen, the store format, the size of the store, and the specific location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -360,7 +368,11 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Accessible investment entry point:</strong> Franchise
+<<<<<<< HEAD
                 dealership opportunities start from 18.5, which is lower
+=======
+                dealership opportunities start from 18.5 Lakh, which is lower
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 than many large national supermarket chains.
               </li>
               <li>
@@ -396,7 +408,11 @@ const Content = () => {
                   dealership of The Buyzaar Mart in Kanpur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The investment starts from 18.5. The exact amount depends
+=======
+                  The investment starts from 18.5 Lakh. The exact amount depends
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   on the franchise model, store format, store size, and
                   location.
                 </p>

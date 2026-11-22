@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Opportunity in Aligarh | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 with FOCM model and full support. Apply now.",
+=======
+    "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 Lakh with FOCM model and full support. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "mart franchise opportunity aligarh",
     "mart franchise in aligarh",
@@ -20,7 +24,7 @@ export const metadata = {
     "retail mart franchise india",
     "franchise business in aligarh",
     "low investment mart franchise",
-    "mart franchise 15 lakh",
+    "mart franchise 18.5 lakh",
     "FOCM franchise india",
     "franchise owned company managed",
     "neighbourhood mart franchise",
@@ -40,7 +44,11 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 with FOCM model and full support. Apply now.",
+=======
+      "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 Lakh with FOCM model and full support. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/aligarh/mart-franchise-opportunity-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,7 +66,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 with FOCM model and full support. Apply now.",
+=======
+      "Explore mart franchise opportunity in Aligarh with The Buyzaar Mart. Choose Mini, Super or Hyper Mart from 18.5 Lakh with FOCM model and full support. Apply now.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

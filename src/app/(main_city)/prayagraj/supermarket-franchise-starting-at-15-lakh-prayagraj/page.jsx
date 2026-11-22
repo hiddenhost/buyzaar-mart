@@ -4,28 +4,28 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Supermarket Franchise Starting at 15 Lakh in Prayagraj | Buyzaar Mart",
+  title: "Supermarket Franchise Starting at 18.5 lakh in Prayagraj | Buyzaar Mart",
   description:
-    "Start a supermarket franchise in Prayagraj from 15 lakh with Buyzaar Mart. Wide product range, strong local demand, and complete franchise support included.",
+    "Start a supermarket franchise in Prayagraj from 18.5 lakh with Buyzaar Mart. Wide product range, strong local demand, and complete franchise support included.",
   keywords: [
-    "supermarket franchise 15 lakh Prayagraj",
+    "supermarket franchise 18.5 lakh Prayagraj",
     "Buyzaar Mart franchise",
     "low investment supermarket franchise",
     "supermarket franchise India",
     "affordable supermarket franchise Prayagraj",
     "grocery supermarket franchise UP",
-    "retail franchise 15 lakh investment",
+    "retail franchise 18.5 lakh investment",
     "supermarket business opportunity Prayagraj",
-    "franchise under 15 lakh India",
+    "franchise under 18.5 lakh India",
     "supermarket franchise support Prayagraj",
   ],
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/prayagraj/supermarket-franchise-starting-at-15-lakh-prayagraj",
   },
   openGraph: {
-    title: "Supermarket Franchise Starting at 15 Lakh in Prayagraj | Buyzaar Mart",
+    title: "Supermarket Franchise Starting at 18.5 lakh in Prayagraj | Buyzaar Mart",
     description:
-      "Start a supermarket franchise in Prayagraj from 15 lakh with Buyzaar Mart. Wide product range, strong local demand, and complete franchise support included.",
+      "Start a supermarket franchise in Prayagraj from 18.5 lakh with Buyzaar Mart. Wide product range, strong local demand, and complete franchise support included.",
     url: "https://www.thebuyzaarmart.com/prayagraj/supermarket-franchise-starting-at-15-lakh-prayagraj",
     siteName: "The Buyzaar Mart",
     images: [
@@ -33,7 +33,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Supermarket Franchise Starting at 15 Lakh in Prayagraj | Buyzaar Mart",
+        alt: "Supermarket Franchise Starting at 18.5 lakh in Prayagraj | Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -41,9 +41,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Supermarket Franchise Starting at 15 Lakh in Prayagraj | Buyzaar Mart",
+    title: "Supermarket Franchise Starting at 18.5 lakh in Prayagraj | Buyzaar Mart",
     description:
-      "Start a supermarket franchise in Prayagraj from 15 lakh with Buyzaar Mart. Wide product range, strong local demand, and complete franchise support included.",
+      "Start a supermarket franchise in Prayagraj from 18.5 lakh with Buyzaar Mart. Wide product range, strong local demand, and complete franchise support included.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

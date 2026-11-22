@@ -25,7 +25,7 @@ export const metadata = {
     "franchise business in Amroha",
     "supermarket franchise cost",
     "mart franchise total investment",
-    "15 lakh grocery franchise",
+    "18.5 lakh grocery franchise",
     "grocery franchise with full support",
     "super mart franchise",
     "hyper mart franchise",

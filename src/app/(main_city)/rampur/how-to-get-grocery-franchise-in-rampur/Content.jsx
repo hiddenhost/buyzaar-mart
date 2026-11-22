@@ -8,7 +8,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "How to Get a Grocery Franchise in Rampur | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Learn how to get a grocery franchise in Rampur with The Buyzaar Mart. Check eligibility, documents and approval steps. Total investment from 18.5.",
+=======
+    "Learn how to get a grocery franchise in Rampur with The Buyzaar Mart. Check eligibility, documents and approval steps. Total investment from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/rampur/how-to-get-grocery-franchise-in-rampur",
   telephone: "+919217991727",
   address: {
@@ -31,7 +35,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600–1000 sq ft)",
         description:
+<<<<<<< HEAD
           "Compact grocery store with grocery and staples, personal care, beverages, homecare and hygiene, stationery, and snacks and biscuits. Total investment typically about 18.5 to ₹20 Lakh.",
+=======
+          "Compact grocery store with grocery and staples, personal care, beverages, homecare and hygiene, stationery, and snacks and biscuits. Total investment typically about 18.5 Lakh to ₹20 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -67,7 +75,11 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "About 18.5 to ₹20 Lakh for a Mini Mart, depending on size and location.",
+=======
+        text: "About 18.5 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -157,7 +169,11 @@ const Content = () => {
                 The Buyzaar Mart offers a grocery franchise in Rampur under the FOCM model, where you own the store and the company manages branding, technology, training and performance monitoring.
               </li>
               <li>
+<<<<<<< HEAD
                 A Buyzaar Mart Mini Mart can be started with a total investment of about 18.5 to ₹20 Lakh, depending on store size, location and the work needed.
+=======
+                A Buyzaar Mart Mini Mart can be started with a total investment of about 18.5 Lakh to ₹20 Lakh, depending on store size, location and the work needed.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 This guide explains who can apply, what to prepare, how the approval process works and what you receive after you sign.
@@ -222,7 +238,11 @@ const Content = () => {
                 Working professionals and business families who want a store they can grow and pass on.
               </li>
               <li>
+<<<<<<< HEAD
                 Applicants who can arrange the total investment, which is about 18.5 to ₹20 Lakh for a Mini Mart, and who can manage rent, salaries and electricity.
+=======
+                Applicants who can arrange the total investment, which is about 18.5 Lakh to ₹20 Lakh for a Mini Mart, and who can manage rent, salaries and electricity.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
             </ul>
 
@@ -246,7 +266,11 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Funds</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Capital for the store setup, which is about 18.5 to ₹20 Lakh in total for a Mini Mart.
+=======
+                Capital for the store setup, which is about 18.5 Lakh to ₹20 Lakh in total for a Mini Mart.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 A cash buffer for rent, staff salaries and electricity during the first months, since these running costs are your responsibility.
@@ -343,7 +367,11 @@ const Content = () => {
                 Stocks grocery and staples, personal care, beverages, homecare and hygiene, stationery, and snacks and biscuits.
               </li>
               <li>
+<<<<<<< HEAD
                 Total investment is typically about 18.5 to ₹20 Lakh.
+=======
+                Total investment is typically about 18.5 Lakh to ₹20 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
             </ul>
 
@@ -665,7 +693,11 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   About 18.5 to ₹20 Lakh for a Mini Mart, depending on size and location.
+=======
+                  About 18.5 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 
@@ -732,7 +764,11 @@ const Content = () => {
                   The Buyzaar Mart offers a grocery franchise in Rampur under the FOCM model, with eligibility checks, approval steps and full launch support.
                 </li>
                 <li>
+<<<<<<< HEAD
                   Mini Mart total investment is typically about 18.5 to ₹20 Lakh, depending on store size and location.
+=======
+                  Mini Mart total investment is typically about 18.5 Lakh to ₹20 Lakh, depending on store size and location.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Submit an inquiry on the website or call{" "}

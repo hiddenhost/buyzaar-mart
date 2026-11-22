@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Retail Business Franchise in Varanasi | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 onwards), franchise models, and how to apply.",
+=======
+    "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 Lakh onwards), franchise models, and how to apply.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "retail business franchise Varanasi",
     "Buyzaar Mart Varanasi",
@@ -26,7 +30,11 @@ export const metadata = {
   openGraph: {
     title: "Retail Business Franchise in Varanasi | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 onwards), franchise models, and how to apply.",
+=======
+      "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 Lakh onwards), franchise models, and how to apply.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/varanasi/retail-business-franchise-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
@@ -44,7 +52,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Retail Business Franchise in Varanasi | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 onwards), franchise models, and how to apply.",
+=======
+      "Start a retail business franchise in Varanasi with The Buyzaar Mart. Explore store formats, pricing (Mini Mart 18.5 Lakh onwards), franchise models, and how to apply.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

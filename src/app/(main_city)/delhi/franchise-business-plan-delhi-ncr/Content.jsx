@@ -267,7 +267,7 @@ const Content = () => {
               </li>
               <li>
                 <strong>Investment Profile:</strong> Ideal for investors with a
-                budget of &#8377;15 Lakhs to &#8377;25 Lakhs.
+                budget of &#8377;18.5 lakhs to &#8377;25 Lakhs.
               </li>
               <li>
                 <strong>Revenue Driver:</strong> High footfall and frequency.

@@ -74,7 +74,11 @@ const faqSchema = {
       name: "What is the minimum investment to become a partner in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from 18.5 onwards, depending on the store format chosen.",
+=======
+        text: "The minimum investment starts from 18.5 Lakh onwards, depending on the store format chosen.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -554,7 +558,11 @@ const Content = () => {
                   What is the minimum investment to become a partner in Mathura?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts from 18.5 onwards, depending
+=======
+                  The minimum investment starts from 18.5 Lakh onwards, depending
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   on the store format chosen.
                 </p>
               </div>

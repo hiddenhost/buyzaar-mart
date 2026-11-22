@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Retail Store Franchise in Kanpur - The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Open a retail store franchise in Kanpur with The Buyzaar Mart. Start your own supermarket under the FOCM or FOCO model with full operational support, supply chain access, and hyper-local marketing from 18.5.",
+=======
+    "Open a retail store franchise in Kanpur with The Buyzaar Mart. Start your own supermarket under the FOCM or FOCO model with full operational support, supply chain access, and hyper-local marketing from 18.5 Lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",

@@ -42,7 +42,11 @@ const faqSchema = {
       name: "What is the minimum investment for a FOCM franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The starting investment is from 18.5. The final amount depends on the store format, location, and size of the premises.",
+=======
+        text: "The starting investment is from 18.5 Lakh. The final amount depends on the store format, location, and size of the premises.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -410,7 +414,11 @@ const Content = () => {
               </li>
               <li>
                 Unlike large-format retail ventures that require very high
+<<<<<<< HEAD
                 capital, this model starts from 18.5, which makes it
+=======
+                capital, this model starts from 18.5 Lakh, which makes it
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 accessible to a wider group of investors.
               </li>
             </ul>
@@ -459,7 +467,11 @@ const Content = () => {
             </h2>
 
             <p>
+<<<<<<< HEAD
               The Buyzaar Mart&apos;s FOCM franchise starts from 18.5,
+=======
+              The Buyzaar Mart&apos;s FOCM franchise starts from 18.5 Lakh,
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               placing it among the more accessible managed supermarket franchise
               formats in the NCR market.
             </p>
@@ -593,7 +605,11 @@ const Content = () => {
                   Faridabad?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The starting investment is from 18.5. The final amount
+=======
+                  The starting investment is from 18.5 Lakh. The final amount
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   depends on the format selected and the size and location of
                   the premises.
                 </p>

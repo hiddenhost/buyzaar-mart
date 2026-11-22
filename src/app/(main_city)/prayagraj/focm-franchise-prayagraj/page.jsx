@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Franchise in Prayagraj | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for an FOCM franchise in Prayagraj? The Buyzaar Mart offers a company-managed grocery franchise starting at 18.5 with full setup & support. Apply now!",
+=======
+    "Looking for an FOCM franchise in Prayagraj? The Buyzaar Mart offers a company-managed grocery franchise starting at 18.5 Lakh with full setup & support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "FOCM franchise Prayagraj",
     "Buyzaar Mart franchise",
@@ -26,7 +30,11 @@ export const metadata = {
   openGraph: {
     title: "FOCM Franchise in Prayagraj | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for an FOCM franchise in Prayagraj? The Buyzaar Mart offers a company-managed grocery franchise starting at 18.5 with full setup & support. Apply now!",
+=======
+      "Looking for an FOCM franchise in Prayagraj? The Buyzaar Mart offers a company-managed grocery franchise starting at 18.5 Lakh with full setup & support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/prayagraj/focm-franchise-prayagraj",
     siteName: "The Buyzaar Mart",
     images: [
@@ -44,7 +52,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Franchise in Prayagraj | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for an FOCM franchise in Prayagraj? The Buyzaar Mart offers a company-managed grocery franchise starting at 18.5 with full setup & support. Apply now!",
+=======
+      "Looking for an FOCM franchise in Prayagraj? The Buyzaar Mart offers a company-managed grocery franchise starting at 18.5 Lakh with full setup & support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

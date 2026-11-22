@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Organised Mart Franchise in Aligarh | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start an organised mart franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from 18.5 with FOCM model, POS billing and support.",
+=======
+    "Start an organised mart franchise in Aligarh with The Buyzaar Mart. Mini, Super and Hyper Mart formats from 18.5 Lakh with FOCM model, POS billing and support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/aligarh/organised-mart-franchise-aligarh",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -150,7 +154,11 @@ const Content = () => {
                 The Buyzaar Mart brings a structured, system-led retail model to Aligarh. Store design, purchasing, billing, inventory and staff training all follow set standards instead of individual habits.
               </li>
               <li>
+<<<<<<< HEAD
                 Three formats are available: Mini Mart, Super Mart and Hyper Mart. Investment starts from 18.5 for Mini Mart, so you can enter organised retail at a manageable level.
+=======
+                Three formats are available: Mini Mart, Super Mart and Hyper Mart. Investment starts from 18.5 Lakh for Mini Mart, so you can enter organised retail at a manageable level.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The FOCM model lets you own the store while the company team manages operations. You gain a professional business without handling daily shop-floor work.
@@ -245,7 +253,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 This is the entry level, built for colony lanes, society shops and neighbourhood units. Typical investment is 18.5 to ₹20 lakh.
+=======
+                This is the entry level, built for colony lanes, society shops and neighbourhood units. Typical investment is 18.5 Lakh to ₹20 lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 It covers grocery and staples, snacks and biscuits, beverages, personal care, homecare and hygiene, and stationery. These are the items families buy most often.
@@ -344,7 +356,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 Mini Mart investment typically ranges from 18.5 to ₹20 lakh. Store size, interior needs and location decide the final amount.
+=======
+                Mini Mart investment typically ranges from 18.5 Lakh to ₹20 lakh. Store size, interior needs and location decide the final amount.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The total includes stock, interior, software fee, franchise fee (including 18% GST) and security deposit. The calculator on the franchise page estimates the figure for your format and area.

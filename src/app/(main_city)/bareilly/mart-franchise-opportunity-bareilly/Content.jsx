@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "The Buyzaar Mart – Mart Franchise Opportunity in Bareilly",
   description:
+<<<<<<< HEAD
     "The Buyzaar Mart offers mart franchise opportunities in Bareilly with a tech-enabled FOCM model, investment starting from approximately 18.5, FMCG brand partnerships, POS billing, CRM tools, and end-to-end support.",
+=======
+    "The Buyzaar Mart offers mart franchise opportunities in Bareilly with a tech-enabled FOCM model, investment starting from approximately 18.5 Lakh, FMCG brand partnerships, POS billing, CRM tools, and end-to-end support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/bareilly/mart-franchise-opportunity-in-bareilly",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -31,7 +35,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
+<<<<<<< HEAD
           "Neighbourhood mart franchise format for 600 to 1000 square feet starting from approximately 18.5",
+=======
+          "Neighbourhood mart franchise format for 600 to 1000 square feet starting from approximately 18.5 Lakh",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -58,7 +66,11 @@ const faqSchema = {
       name: "What is the total investment required for a Mini Mart franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The total investment for a Buyzaar Mart Mini Mart in Bareilly ranges from approximately ₹18.5 to ₹26 Lakh covering franchise fee, security deposit, interior setup, POS software, and opening stock.",
+=======
+        text: "The total investment for a Buyzaar Mart Mini Mart in Bareilly ranges from approximately 18.5 Lakh to ₹25 Lakh covering franchise fee, security deposit, interior setup, POS software, and opening stock.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -161,7 +173,11 @@ const Content = () => {
               franchise brand from Noida, is offering exactly that opportunity
               to entrepreneurs in Bareilly. With a proven Franchise Owned
               Company Managed (FOCM) model, an investment entry point starting
+<<<<<<< HEAD
               from 18.5 for the Mini Mart format, partnerships with 50+
+=======
+              from 18.5 Lakh for the Mini Mart format, partnerships with 50+
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               leading FMCG brands, and a complete end-to-end operational support
               system, The Buyzaar Mart is one of the most well-structured mart
               franchise opportunities available in Bareilly today.
@@ -609,7 +625,11 @@ const Content = () => {
                 </h3>
                 <p className="mt-2 text-gray-700">
                   The total investment for a Buyzaar Mart Mini Mart in Bareilly
+<<<<<<< HEAD
                   ranges from approximately ₹18.5 to ₹26 Lakh covering
+=======
+                  ranges from approximately 18.5 Lakh to ₹25 Lakh covering
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   franchise fee, security deposit, interior setup, POS software,
                   and opening stock. The commonly cited entry point is ₹15
                   Lakh.

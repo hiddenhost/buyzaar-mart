@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Supermarket Franchise Opportunity in Lucknow | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from 18.5, full brand support. Apply now and own your neighborhood supermarket.",
+=======
+    "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from 18.5 Lakh, full brand support. Apply now and own your neighborhood supermarket.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "supermarket franchise opportunity in Lucknow",
     "supermarket franchise for first time investors",
@@ -54,7 +58,11 @@ export const metadata = {
   openGraph: {
     title: "Supermarket Franchise Opportunity in Lucknow | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from 18.5, full brand support. Apply now and own your neighborhood supermarket.",
+=======
+      "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from 18.5 Lakh, full brand support. Apply now and own your neighborhood supermarket.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/lucknow/supermarket-franchise-opportunity-in-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -72,7 +80,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Supermarket Franchise Opportunity in Lucknow | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from 18.5, full brand support. Apply now and own your neighborhood supermarket.",
+=======
+      "Explore the best supermarket franchise opportunity in Lucknow with The Buyzaar Mart. FOCM & FOCO models, investment from 18.5 Lakh, full brand support. Apply now and own your neighborhood supermarket.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

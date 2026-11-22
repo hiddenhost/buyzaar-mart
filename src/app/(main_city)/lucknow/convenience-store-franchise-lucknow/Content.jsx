@@ -58,7 +58,11 @@ const faqSchema = {
       name: "What is the minimum investment to start a The Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The minimum investment starts from approximately 18.5 for a Mini Mart format. The Super Mart and Hyper Mart formats require higher investment depending on store size and location.",
+=======
+        text: "The minimum investment starts from approximately 18.5 Lakh for a Mini Mart format. The Super Mart and Hyper Mart formats require higher investment depending on store size and location.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -541,7 +545,11 @@ const Content = () => {
                 national catalog.
               </li>
               <li>
+<<<<<<< HEAD
                 Starting investment from 18.5 for a Mini Mart makes it accessible for
+=======
+                Starting investment from 18.5 Lakh for a Mini Mart makes it accessible for
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 first-time franchise investors.
               </li>
               <li>
@@ -569,7 +577,11 @@ const Content = () => {
                   in Lucknow?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The minimum investment starts from approximately 18.5 for a Mini Mart
+=======
+                  The minimum investment starts from approximately 18.5 Lakh for a Mini Mart
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   format. The Super Mart and Hyper Mart formats require higher investment
                   depending on store size and location.
                 </p>

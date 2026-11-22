@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Take a Grocery Mart Franchise in Amroha | Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Learn how to take a grocery mart franchise in Amroha with Buyzaar Mart. Total investment from 18.5, full setup support, training and easy application steps.",
+=======
+    "Learn how to take a grocery mart franchise in Amroha with Buyzaar Mart. Total investment from 18.5 Lakh, full setup support, training and easy application steps.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "how to take franchise of grocery mart in Amroha",
     "grocery mart franchise Amroha",
@@ -20,7 +24,7 @@ export const metadata = {
     "FOCM franchise Amroha",
     "mini mart franchise Amroha",
     "grocery franchise under 20 lakh",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "low investment grocery franchise",
     "franchise application process",
     "supermarket franchise Uttar Pradesh",
@@ -39,7 +43,11 @@ export const metadata = {
   openGraph: {
     title: "Take a Grocery Mart Franchise in Amroha | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Learn how to take a grocery mart franchise in Amroha with Buyzaar Mart. Total investment from 18.5, full setup support, training and easy application steps.",
+=======
+      "Learn how to take a grocery mart franchise in Amroha with Buyzaar Mart. Total investment from 18.5 Lakh, full setup support, training and easy application steps.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/amroha/how-to-take-franchise-of-grocery-mart-in-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -57,7 +65,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Take a Grocery Mart Franchise in Amroha | Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Learn how to take a grocery mart franchise in Amroha with Buyzaar Mart. Total investment from 18.5, full setup support, training and easy application steps.",
+=======
+      "Learn how to take a grocery mart franchise in Amroha with Buyzaar Mart. Total investment from 18.5 Lakh, full setup support, training and easy application steps.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

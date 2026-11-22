@@ -66,7 +66,11 @@ const faqSchema = {
       name: "How much investment does this opportunity require?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment for a Bulandshahr FOCO franchise typically starts from around 18.5, depending on store format.",
+=======
+        text: "Investment for a Bulandshahr FOCO franchise typically starts from around 18.5 Lakh, depending on store format.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -237,7 +241,11 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
+<<<<<<< HEAD
               <li>Entry investment for a FOCO franchise in Bulandshahr typically starts from around 18.5, scaling upward with store format and size.</li>
+=======
+              <li>Entry investment for a FOCO franchise in Bulandshahr typically starts from around 18.5 Lakh, scaling upward with store format and size.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>Investment components generally include opening stock, interior and store setup, POS/software fee, one-time franchise fee (inclusive of 18% GST), and a security deposit.</li>
               <li>Recurring operational costs — staffing, utilities, and day-to-day expenses — are managed by the company as part of its operating responsibility under the FOCO structure.</li>
               <li>Returns to the investor are defined through a revenue-sharing or fixed-payout arrangement, agreed clearly within the franchise agreement before signing.</li>
@@ -312,7 +320,11 @@ const Content = () => {
                   How much investment does this opportunity require?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Investment for a Bulandshahr FOCO franchise typically starts from around 18.5, depending on store format.
+=======
+                  Investment for a Bulandshahr FOCO franchise typically starts from around 18.5 Lakh, depending on store format.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

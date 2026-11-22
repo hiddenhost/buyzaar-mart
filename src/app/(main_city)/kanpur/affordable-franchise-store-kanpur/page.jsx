@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Affordable Franchise Store Kanpur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 with full setup, supply chain, POS & ongoing support. Apply now!",
+=======
+    "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 Lakh with full setup, supply chain, POS & ongoing support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/affordable-franchise-store-kanpur",
@@ -14,7 +18,11 @@ export const metadata = {
   openGraph: {
     title: "Affordable Franchise Store Kanpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 with full setup, supply chain, POS & ongoing support. Apply now!",
+=======
+      "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 Lakh with full setup, supply chain, POS & ongoing support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/kanpur/affordable-franchise-store-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -32,7 +40,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Affordable Franchise Store Kanpur | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 with full setup, supply chain, POS & ongoing support. Apply now!",
+=======
+      "Looking for an affordable franchise store in Kanpur? Join The Buyzaar Mart and start your own supermarket business from just 18.5 Lakh with full setup, supply chain, POS & ongoing support. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -43,7 +43,11 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
+<<<<<<< HEAD
           "Entry-level grocery franchise format requiring at least 600 sq ft of carpet area, with indicated investment of about 18.5 to ₹20 lakh.",
+=======
+          "Entry-level grocery franchise format requiring at least 600 sq ft of carpet area, with indicated investment of about 18.5 Lakh to ₹20 lakh.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
       {
         "@type": "Offer",
@@ -94,7 +98,11 @@ const faqSchema = {
       name: "How much investment is needed?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "A Mini Mart indicates about 18.5 to ₹20 lakh. FOCO needs at least 2,000 sq ft.",
+=======
+        text: "A Mini Mart indicates about 18.5 Lakh to ₹20 lakh. FOCO needs at least 2,000 sq ft.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -280,7 +288,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 The brand indicates about 18.5 to ₹20 lakh for a Mini Mart of 600–1,000 sq ft, depending on size, arrangement and location. At least 600 sq ft of carpet area is required.
+=======
+                The brand indicates about 18.5 Lakh to ₹20 lakh for a Mini Mart of 600–1,000 sq ft, depending on size, arrangement and location. At least 600 sq ft of carpet area is required.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The investment covers stock, interiors, software fee, franchise fee including 18% GST, and security deposit.
@@ -520,7 +532,11 @@ const Content = () => {
                   How much investment is needed?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   A Mini Mart indicates about 18.5 to ₹20 lakh. FOCO needs at least 2,000 sq ft.
+=======
+                  A Mini Mart indicates about 18.5 Lakh to ₹20 lakh. FOCO needs at least 2,000 sq ft.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

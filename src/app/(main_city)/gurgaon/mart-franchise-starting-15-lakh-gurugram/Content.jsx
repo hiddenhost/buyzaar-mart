@@ -5,9 +5,9 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Mart Franchise Starting 15 Lakh in Gurugram | The Buyzaar Mart",
+  name: "Mart Franchise Starting 18.5 lakh in Gurugram | The Buyzaar Mart",
   description:
-    "Start a mart franchise in Gurugram from 15 lakh with The Buyzaar Mart. Low investment supermarket franchise with full setup, staff, and marketing support.",
+    "Start a mart franchise in Gurugram from 18.5 lakh with The Buyzaar Mart. Low investment supermarket franchise with full setup, staff, and marketing support.",
   url: "https://www.thebuyzaarmart.com/gurgaon/mart-franchise-starting-15-lakh-gurugram",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -43,13 +43,13 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Format",
         description:
-          "Most budget-friendly format, typically aligning closely with the 15 lakh starting investment range.",
+          "Most budget-friendly format, typically aligning closely with the 18.5 lakh starting investment range.",
       },
       {
         "@type": "Offer",
         name: "Super Mart Format",
         description:
-          "Mid-sized format offering a broader product range and may require additional investment beyond the 15 lakh starting point.",
+          "Mid-sized format offering a broader product range and may require additional investment beyond the 18.5 lakh starting point.",
       },
       {
         "@type": "Offer",
@@ -67,7 +67,7 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Does 15 lakh cover the complete cost of starting a mart franchise?",
+      name: "Does 18.5 lakh cover the complete cost of starting a mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "It typically covers store setup, branding, inventory, and software, though property costs may vary separately.",
@@ -75,7 +75,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Which store format fits within a 15 lakh budget?",
+      name: "Which store format fits within a 18.5 lakh budget?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "A Mini Mart format is generally the closest match to this investment range.",
@@ -115,7 +115,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "What additional costs should I plan beyond the 15 lakh investment?",
+      name: "What additional costs should I plan beyond the 18.5 lakh investment?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Working capital, licensing fees, and property-related deposits should be budgeted separately.",
@@ -146,24 +146,28 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Mart Franchise Starting 15 Lakh in Gurugram | The Buyzaar Mart
+              Mart Franchise Starting 18.5 lakh in Gurugram | The Buyzaar Mart
             </h1>
 
             <p>
-              For investors in Gurugram looking to enter organized retail without a massive upfront commitment, The Buyzaar Mart offers a mart franchise opportunity starting from around 15 lakh, making it genuinely accessible to a wide range of first-time business owners. This investment bracket typically aligns with the Mini Mart or a smaller Super Mart format, offering a practical entry point into the grocery retail business without requiring the capital needed for a large-format store. Here is a complete point-wise overview of the opportunity.
+              For investors in Gurugram looking to enter organized retail without a massive upfront commitment, The Buyzaar Mart offers a mart franchise opportunity starting from around 18.5 lakh, making it genuinely accessible to a wide range of first-time business owners. This investment bracket typically aligns with the Mini Mart or a smaller Super Mart format, offering a practical entry point into the grocery retail business without requiring the capital needed for a large-format store. Here is a complete point-wise overview of the opportunity.
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               A Grocery Mart Franchise in Gurugram Starting From 18.5
+=======
+              A Grocery Mart Franchise in Gurugram Starting From 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
             <ul className="list-disc pl-6 space-y-2">
-              <li>A 15 lakh starting investment covers the essential components required to launch a fully functional, branded grocery outlet, rather than a bare-bones or incomplete setup.</li>
+              <li>A 18.5 lakh starting investment covers the essential components required to launch a fully functional, branded grocery outlet, rather than a bare-bones or incomplete setup.</li>
               <li>This price point makes the franchise particularly attractive to salaried professionals, small business owners, and first-generation entrepreneurs in Gurugram who want to enter retail with a manageable, well-defined budget.</li>
-              <li>Given Gurugram's expanding residential landscape, a 15 lakh entry-level franchise can be strategically positioned in emerging sectors where competition from established retail chains remains relatively low.</li>
+              <li>Given Gurugram's expanding residential landscape, a 18.5 lakh entry-level franchise can be strategically positioned in emerging sectors where competition from established retail chains remains relatively low.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What a 15 Lakh Investment Typically Covers
+              What a 18.5 lakh Investment Typically Covers
             </h2>
             <ul className="list-disc pl-6 space-y-2">
               <li>Complete store interior branding and fit-out work aligned with The Buyzaar Mart's standard visual identity and layout.</li>
@@ -175,11 +179,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why 15 Lakh Is a Practical Entry Point for Gurugram
+              Why 18.5 lakh Is a Practical Entry Point for Gurugram
             </h2>
             <ul className="list-disc pl-6 space-y-2">
               <li>Gurugram's real estate and rental costs are relatively high compared to many other NCR markets, making a well-structured, moderate investment franchise particularly appealing for first-time investors.</li>
-              <li>A 15 lakh starting budget allows investors to test the retail business model in a smaller residential pocket before considering a larger-format expansion later.</li>
+              <li>A 18.5 lakh starting budget allows investors to test the retail business model in a smaller residential pocket before considering a larger-format expansion later.</li>
               <li>This investment range typically avoids the higher risk exposure associated with large-format stores, while still delivering a fully branded, professionally operated outlet.</li>
               <li>Many emerging residential sectors in Gurugram, such as parts of Dwarka Expressway and New Gurugram, are well-suited to a compact Mini Mart format that fits comfortably within this budget.</li>
               <li>The lower entry threshold also makes it easier for salaried individuals to fund the investment through personal savings or manageable financing options, without requiring large external loans.</li>
@@ -189,17 +193,17 @@ const Content = () => {
               Store Format Options Within This Budget
             </h2>
             <ul className="list-disc pl-6 space-y-2">
-              <li>Mini Mart – The most budget-friendly format, typically aligning closely with the 15 lakh starting investment range, suited for smaller residential catchments.</li>
-              <li>Super Mart – May require additional investment beyond the 15 lakh starting point depending on location and carpet area, offering a broader product range.</li>
+              <li>Mini Mart – The most budget-friendly format, typically aligning closely with the 18.5 lakh starting investment range, suited for smaller residential catchments.</li>
+              <li>Super Mart – May require additional investment beyond the 18.5 lakh starting point depending on location and carpet area, offering a broader product range.</li>
               <li>Hyper Mart – Generally requires a significantly higher investment and is better suited for investors with larger available capital and commercial space.</li>
-              <li>The franchise team assesses your exact property size and location before confirming which format fits within your specific 15 lakh budget range.</li>
+              <li>The franchise team assesses your exact property size and location before confirming which format fits within your specific 18.5 lakh budget range.</li>
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
               Franchise Models Available at This Investment Level
             </h2>
             <ul className="list-disc pl-6 space-y-2">
-              <li><strong>FOCM (Franchise Owned Company Managed)</strong> — You fund the store setup and inventory, which typically starts around the 15 lakh mark for a Mini Mart format.</li>
+              <li><strong>FOCM (Franchise Owned Company Managed)</strong> — You fund the store setup and inventory, which typically starts around the 18.5 lakh mark for a Mini Mart format.</li>
               <li>The Buyzaar Mart's trained team manages daily operations, billing, and inventory on your behalf.</li>
               <li>Suited for investors who want ownership without daily involvement.</li>
               <li><strong>FOCO (Franchise Owned Company Operated)</strong> — You provide the property, while the company handles setup and complete daily operations.</li>
@@ -208,7 +212,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Ideal Gurugram Locations for a 15 Lakh Mart Franchise
+              Ideal Gurugram Locations for a 18.5 lakh Mart Franchise
             </h2>
             <ul className="list-disc pl-6 space-y-2">
               <li>Emerging residential pockets along Dwarka Expressway, where organized retail presence remains limited despite growing population density.</li>
@@ -219,7 +223,7 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              What's Included in the 15 Lakh Franchise Package
+              What's Included in the 18.5 lakh Franchise Package
             </h2>
             <ul className="list-disc pl-6 space-y-2">
               <li>Store setup and interior branding as per The Buyzaar Mart's established design standards.</li>
@@ -231,10 +235,10 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Step-by-Step Process to Start Your 15 Lakh Franchise
+              Step-by-Step Process to Start Your 18.5 lakh Franchise
             </h2>
             <ul className="list-disc pl-6 space-y-2">
-              <li>Step 1: Contact The Buyzaar Mart franchise team with your preferred Gurugram location and confirm your available budget around the 15 lakh mark.</li>
+              <li>Step 1: Contact The Buyzaar Mart franchise team with your preferred Gurugram location and confirm your available budget around the 18.5 lakh mark.</li>
               <li>Step 2: The team conducts a feasibility assessment of your chosen location, evaluating footfall potential and nearby competition.</li>
               <li>Step 3: Based on the assessment, the Mini Mart format is typically recommended to align with this investment range.</li>
               <li>Step 4: Choose between the FOCM and FOCO models depending on whether you already own commercial property.</li>
@@ -255,11 +259,11 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Why Choose The Buyzaar Mart for a 15 Lakh Franchise
+              Why Choose The Buyzaar Mart for a 18.5 lakh Franchise
             </h2>
             <ul className="list-disc pl-6 space-y-2">
               <li>An established FMCG and grocery brand with a proven low investment supermarket franchise model already successful in cities like Lucknow, Bareilly, Kanpur, and Prayagraj.</li>
-              <li>A transparent, itemized cost structure at the 15 lakh entry point, avoiding hidden charges or unclear add-on costs.</li>
+              <li>A transparent, itemized cost structure at the 18.5 lakh entry point, avoiding hidden charges or unclear add-on costs.</li>
               <li>Technology-driven operations through the syncbuyzaar POS system, offering real-time visibility into sales and inventory regardless of the investor's daily involvement.</li>
               <li>Flexible ownership models (FOCM and FOCO) that can be matched to the investor's available property and time commitment.</li>
               <li>End-to-end franchise support, from initial feasibility assessment through store launch and ongoing operations.</li>
@@ -278,13 +282,13 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-              Common Questions Investors Ask About the 15 Lakh Franchise
+              Common Questions Investors Ask About the 18.5 lakh Franchise
             </h2>
             <ul className="list-disc pl-6 space-y-2">
-              <li>Whether the 15 lakh figure includes property rental costs or only covers store setup and inventory.</li>
+              <li>Whether the 18.5 lakh figure includes property rental costs or only covers store setup and inventory.</li>
               <li>How quickly a Mini Mart format at this investment level can realistically break even.</li>
               <li>Whether the investment amount can be increased later to upgrade to a Super Mart format.</li>
-              <li>What ongoing costs beyond the initial 15 lakh should be planned for during the first year.</li>
+              <li>What ongoing costs beyond the initial 18.5 lakh should be planned for during the first year.</li>
               <li>Whether financing or EMI options are available to ease the upfront investment burden.</li>
               <li>The franchise contact team addresses each of these questions in detail during the initial consultation, ensuring complete clarity before any commitment is made.</li>
             </ul>
@@ -294,7 +298,7 @@ const Content = () => {
             </h2>
             <ul className="list-disc pl-6 space-y-2">
               <li>The Buyzaar Mart's low investment supermarket franchise model, including similar entry-level investment brackets, is also actively available in Lucknow.</li>
-              <li>Investors in Gurugram considering a 15 lakh franchise can also explore parallel opportunities in Lucknow, where entry costs may be comparatively lower given regional differences in real estate.</li>
+              <li>Investors in Gurugram considering a 18.5 lakh franchise can also explore parallel opportunities in Lucknow, where entry costs may be comparatively lower given regional differences in real estate.</li>
               <li>The same standardized systems, branding, and operational support apply consistently across cities, including Lucknow.</li>
               <li>Multi-city franchise ownership at this investment level allows investors to build a diversified retail portfolio without significantly increasing operational complexity.</li>
             </ul>
@@ -306,7 +310,7 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q1. Does 15 lakh cover the complete cost of starting a mart franchise?
+                  Q1. Does 18.5 lakh cover the complete cost of starting a mart franchise?
                 </h3>
                 <p className="mt-2">
                   It typically covers store setup, branding, inventory, and software, though property costs may vary separately.
@@ -315,7 +319,7 @@ const Content = () => {
 
               <div>
                 <h3 className="font-medium text-gray-900">
-                  Q2. Which store format fits within a 15 lakh budget?
+                  Q2. Which store format fits within a 18.5 lakh budget?
                 </h3>
                 <p className="mt-2">
                   A Mini Mart format is generally the closest match to this investment range.
@@ -361,7 +365,7 @@ const Content = () => {
 
             <div className="mt-12 rounded-r-lg border-l-4 border-green-500 bg-green-50 p-8">
               <h2 className="mb-4 text-xl font-medium text-gray-900 sm:text-2xl">
-                Start Your 15 Lakh Franchise Journey in Gurugram
+                Start Your 18.5 lakh Franchise Journey in Gurugram
               </h2>
 
               <p className="mb-4 text-gray-800">
@@ -369,7 +373,7 @@ const Content = () => {
               </p>
 
               <p className="mb-4 text-gray-800">
-                Connect with The Buyzaar Mart to evaluate your location, understand the 15 lakh investment structure, and begin your franchise assessment.
+                Connect with The Buyzaar Mart to evaluate your location, understand the 18.5 lakh investment structure, and begin your franchise assessment.
               </p>
 
               <p className="mb-4 text-gray-800">

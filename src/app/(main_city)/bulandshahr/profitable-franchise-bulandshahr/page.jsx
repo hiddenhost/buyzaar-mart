@@ -6,7 +6,11 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Profitable Franchise in Bulandshahr | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from 18.5, 18–20% stated margin, POS billing and full support.",
+=======
+    "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from 18.5 Lakh, 18–20% stated margin, POS billing and full support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
     "profitable franchise Bulandshahr",
     "profitable franchise in Bulandshahr",
@@ -41,7 +45,11 @@ export const metadata = {
   openGraph: {
     title: "Profitable Franchise in Bulandshahr | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from 18.5, 18–20% stated margin, POS billing and full support.",
+=======
+      "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from 18.5 Lakh, 18–20% stated margin, POS billing and full support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/bulandshahr/profitable-franchise-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,7 +67,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Profitable Franchise in Bulandshahr | The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from 18.5, 18–20% stated margin, POS billing and full support.",
+=======
+      "Looking for a profitable franchise in Bulandshahr? Start a Buyzaar Mart with total investment from 18.5 Lakh, 18–20% stated margin, POS billing and full support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

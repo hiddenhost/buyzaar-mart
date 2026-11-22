@@ -7,7 +7,11 @@ export const metadata = {
   title:
     "Local Mart Franchise Kanpur | Start Your Store with The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Looking for a local mart franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full setup support, POS, supply chain & more. Apply now!",
+=======
+    "Looking for a local mart franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise starting from 18.5 Lakh. FOCM model, full setup support, POS, supply chain & more. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/local-mart-franchise-in-kanpur",
@@ -16,7 +20,11 @@ export const metadata = {
     title:
       "Local Mart Franchise Kanpur | Start Your Store with The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for a local mart franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full setup support, POS, supply chain & more. Apply now!",
+=======
+      "Looking for a local mart franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise starting from 18.5 Lakh. FOCM model, full setup support, POS, supply chain & more. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/kanpur/local-mart-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -35,7 +43,11 @@ export const metadata = {
     title:
       "Local Mart Franchise Kanpur | Start Your Store with The Buyzaar Mart",
     description:
+<<<<<<< HEAD
       "Looking for a local mart franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise starting from 18.5. FOCM model, full setup support, POS, supply chain & more. Apply now!",
+=======
+      "Looking for a local mart franchise in Kanpur? Join The Buyzaar Mart — India's trusted grocery & supermarket franchise starting from 18.5 Lakh. FOCM model, full setup support, POS, supply chain & more. Apply now!",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

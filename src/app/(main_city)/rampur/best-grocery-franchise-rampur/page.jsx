@@ -21,7 +21,7 @@ export const metadata = {
     "franchise opportunities in Rampur",
     "mini mart franchise Rampur",
     "low investment grocery franchise",
-    "grocery franchise 15 lakh",
+    "grocery franchise 18.5 lakh",
     "grocery store franchise Uttar Pradesh",
     "supermarket franchise Uttar Pradesh",
     "retail franchise in UP",

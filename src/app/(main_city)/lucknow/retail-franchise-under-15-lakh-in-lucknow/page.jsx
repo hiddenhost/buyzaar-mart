@@ -4,26 +4,26 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-  title: "Retail Franchise Under 15 Lakh in Lucknow | The Buyzaar Mart",
+  title: "Retail Franchise Under 18.5 lakh in Lucknow | The Buyzaar Mart",
   description:
-    "Start a profitable retail franchise under 15 lakh in Lucknow with The Buyzaar Mart. Low investment, high returns, full operational support, and a proven FOCM model. Apply now.",
+    "Start a profitable retail franchise under 18.5 lakh in Lucknow with The Buyzaar Mart. Low investment, high returns, full operational support, and a proven FOCM model. Apply now.",
   keywords: [
     "low investment franchise Lucknow",
-    "grocery franchise under 15 lakh",
+    "grocery franchise under 18.5 lakh",
     "affordable franchise opportunity Lucknow",
     "small business franchise Lucknow",
     "FMCG franchise low investment Lucknow",
     "The Buyzaar Mart franchise Lucknow",
-    "best franchise under 15 lakh UP",
+    "best franchise under 18.5 lakh UP",
   ],
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/lucknow/retail-franchise-under-15-lakh-in-lucknow",
   },
   openGraph: {
-    title: "Retail Franchise Under 15 Lakh in Lucknow | The Buyzaar Mart",
+    title: "Retail Franchise Under 18.5 lakh in Lucknow | The Buyzaar Mart",
     description:
-      "Start a profitable retail franchise under 15 lakh in Lucknow with The Buyzaar Mart. Low investment, high returns, full operational support, and a proven FOCM model. Apply now.",
+      "Start a profitable retail franchise under 18.5 lakh in Lucknow with The Buyzaar Mart. Low investment, high returns, full operational support, and a proven FOCM model. Apply now.",
     url: "https://www.thebuyzaarmart.com/lucknow/retail-franchise-under-15-lakh-in-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -31,7 +31,7 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-        alt: "Retail Franchise Under 15 Lakh in Lucknow | The Buyzaar Mart",
+        alt: "Retail Franchise Under 18.5 lakh in Lucknow | The Buyzaar Mart",
       },
     ],
     locale: "en_IN",
@@ -39,9 +39,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Retail Franchise Under 15 Lakh in Lucknow | The Buyzaar Mart",
+    title: "Retail Franchise Under 18.5 lakh in Lucknow | The Buyzaar Mart",
     description:
-      "Start a profitable retail franchise under 15 lakh in Lucknow with The Buyzaar Mart. Low investment, high returns, full operational support, and a proven FOCM model. Apply now.",
+      "Start a profitable retail franchise under 18.5 lakh in Lucknow with The Buyzaar Mart. Low investment, high returns, full operational support, and a proven FOCM model. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -6,9 +6,15 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+<<<<<<< HEAD
   name: "Mart Franchise Starting at 18.5 in Mathura | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers a mart franchise starting at 18.5 in Mathura with Mini Mart format, FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
+=======
+  name: "Mart Franchise Starting at 18.5 Lakh in Mathura | The Buyzaar Mart",
+  description:
+    "The Buyzaar Mart offers a mart franchise starting at 18.5 Lakh in Mathura with Mini Mart format, FOCM support, centralized procurement, technology-enabled operations, and full franchise partner support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/mathura/mart-franchise-starting-15-lakh-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -48,7 +54,11 @@ const faqSchema = {
       name: "What is the starting investment for a mart franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The Buyzaar Mart franchise starts from 18.5, depending on the format you choose.",
+=======
+        text: "The Buyzaar Mart franchise starts from 18.5 Lakh, depending on the format you choose.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -126,17 +136,29 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
+<<<<<<< HEAD
               Mart Franchise Starting at 18.5 in Mathura: Store Blueprint
+=======
+              Mart Franchise Starting at 18.5 Lakh in Mathura: Store Blueprint
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h1>
 
 
             <p>
+<<<<<<< HEAD
               A mart franchise starting at 18.5 in Mathura is a compact, neighbourhood-focused store designed to serve daily household needs with modern billing, clean layout and dependable stock.
+=======
+              A mart franchise starting at 18.5 Lakh in Mathura is a compact, neighbourhood-focused store designed to serve daily household needs with modern billing, clean layout and dependable stock.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
 
             <p>
+<<<<<<< HEAD
               The Buyzaar Mart franchise begins at 18.5, and the smaller Mini Mart format is built for residential colonies and neighbourhood pockets where families shop close to home.
+=======
+              The Buyzaar Mart franchise begins at 18.5 Lakh, and the smaller Mini Mart format is built for residential colonies and neighbourhood pockets where families shop close to home.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
 
@@ -151,7 +173,11 @@ const Content = () => {
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               What a 18.5 Mart Franchise Looks Like
+=======
+              What a 18.5 Lakh Mart Franchise Looks Like
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
 
@@ -365,7 +391,11 @@ const Content = () => {
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
+<<<<<<< HEAD
               Choosing a Location for a 18.5 Mart
+=======
+              Choosing a Location for a 18.5 Lakh Mart
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h2>
 
 
@@ -483,7 +513,11 @@ const Content = () => {
                   1. What is the starting investment for a mart franchise in Mathura?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The Buyzaar Mart franchise starts from 18.5, depending on the format you choose.
+=======
+                  The Buyzaar Mart franchise starts from 18.5 Lakh, depending on the format you choose.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

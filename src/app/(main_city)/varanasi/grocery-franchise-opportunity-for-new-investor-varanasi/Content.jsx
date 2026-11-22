@@ -66,7 +66,11 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart grocery franchise?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The Mini Mart format starts at approximately 18.5, making it the most accessible entry point for new investors.",
+=======
+        text: "The Mini Mart format starts at approximately 18.5 Lakh, making it the most accessible entry point for new investors.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -308,7 +312,11 @@ const Content = () => {
                   Q2. What is the minimum investment for a Buyzaar Mart grocery franchise?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The Mini Mart format starts at approximately 18.5, making it the most accessible entry point for new investors.
+=======
+                  The Mini Mart format starts at approximately 18.5 Lakh, making it the most accessible entry point for new investors.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

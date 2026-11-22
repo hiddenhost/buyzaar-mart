@@ -5,9 +5,15 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+<<<<<<< HEAD
   name: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
   description:
     "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5, FOCM and FOCO models, POS billing, and full launch support.",
+=======
+  name: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5 Lakh",
+  description:
+    "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5 Lakh, FOCM and FOCO models, POS billing, and full launch support.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-apply-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -66,7 +72,11 @@ const faqSchema = {
       name: "What is the minimum investment?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "Investment starts from 18.5 and varies with store format and size.",
+=======
+        text: "Investment starts from 18.5 Lakh and varies with store format and size.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -138,7 +148,11 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
+<<<<<<< HEAD
               Buyzaar Mart Franchise Apply Gorakhpur | From 18.5
+=======
+              Buyzaar Mart Franchise Apply Gorakhpur | From 18.5 Lakh
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </h1>
 
             <p>
@@ -153,7 +167,11 @@ const Content = () => {
                 The Buyzaar Mart is a grocery and supermarket franchise network
                 with the tagline &quot;Your Friendly Neighborhood Store&quot;.
               </li>
+<<<<<<< HEAD
               <li>Investment starts from 18.5.</li>
+=======
+              <li>Investment starts from 18.5 Lakh.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>
                 Gorakhpur is a major city of the Purvanchal region.
               </li>
@@ -358,7 +376,11 @@ const Content = () => {
               <li>
                 Total investment depends on your store size and format.
               </li>
+<<<<<<< HEAD
               <li>Investment starts from 18.5.</li>
+=======
+              <li>Investment starts from 18.5 Lakh.</li>
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               <li>
                 The website calculator estimates stock, interior, software
                 fee, franchise fee including 18% GST, and security deposit for
@@ -786,7 +808,11 @@ const Content = () => {
                   2. What is the minimum investment?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   Investment starts from 18.5 and varies with store format
+=======
+                  Investment starts from 18.5 Lakh and varies with store format
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   and size.
                 </p>
               </div>
@@ -850,7 +876,11 @@ const Content = () => {
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Apply for a Buyzaar Mart franchise in Gorakhpur starting from
+<<<<<<< HEAD
                   18.5.
+=======
+                  18.5 Lakh.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Choose from FOCM, FOCO, or FOFO based on your budget and

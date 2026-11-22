@@ -7,7 +7,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Your Friendly Neighbourhood Supermarket Franchise Opportunity in Faridabad - The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start your supermarket franchise in Faridabad with The Buyzaar Mart from 18.5. Explore the FOCM model, store setup, POS, supply chain, marketing support, and inventory assurance.",
+=======
+    "Start your supermarket franchise in Faridabad with The Buyzaar Mart from 18.5 Lakh. Explore the FOCM model, store setup, POS, supply chain, marketing support, and inventory assurance.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/faridabad/retail-store-franchise-in-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -34,7 +38,11 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "The Buyzaar Mart franchise starts at 18.5, making it one of the most affordable organised grocery franchise options in the NCR region.",
+=======
+        text: "The Buyzaar Mart franchise starts at 18.5 Lakh, making it one of the most affordable organised grocery franchise options in the NCR region.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -132,7 +140,11 @@ const Content = () => {
               The Buyzaar Mart is a modern, professionally managed grocery and
               supermarket franchise brand that is redefining how neighbourhood
               stores operate in India. With a franchise model starting at just
+<<<<<<< HEAD
               18.5, The Buyzaar Mart offers aspiring entrepreneurs in
+=======
+              18.5 Lakh, The Buyzaar Mart offers aspiring entrepreneurs in
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               Faridabad the chance to own a fully operational retail store
               backed by a strong brand, an established supply chain,
               POS-enabled technology, and end-to-end operational support.
@@ -276,7 +288,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               The Buyzaar Mart franchise starts at 18.5, making it one of
+=======
+              The Buyzaar Mart franchise starts at 18.5 Lakh, making it one of
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               the most affordable supermarket franchise opportunities in the NCR
               region. This low investment threshold opens the door for a wide
               range of entrepreneurs in Faridabad, from salaried professionals
@@ -285,7 +301,11 @@ const Content = () => {
             </p>
 
             <p>
+<<<<<<< HEAD
               The starting investment of 18.5 covers the foundational setup
+=======
+              The starting investment of 18.5 Lakh covers the foundational setup
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               of the franchise. The complete franchise package from The Buyzaar
               Mart includes:
             </p>
@@ -536,7 +556,11 @@ const Content = () => {
                   Mart franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   The Buyzaar Mart franchise starts at 18.5, making it one
+=======
+                  The Buyzaar Mart franchise starts at 18.5 Lakh, making it one
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   of the most affordable organised grocery franchise options in
                   the NCR region.
                 </p>

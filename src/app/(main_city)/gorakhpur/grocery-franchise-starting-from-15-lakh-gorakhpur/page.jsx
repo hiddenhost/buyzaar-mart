@@ -4,14 +4,20 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
+<<<<<<< HEAD
   title: "Grocery Franchise from 18.5 in Gorakhpur | Buyzaar Mart",
   description:
     "Start a grocery franchise in Gorakhpur from 18.5 with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+=======
+  title: "Grocery Franchise from 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+  description:
+    "Start a grocery franchise in Gorakhpur from 18.5 Lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   keywords: [
-    "grocery franchise starting from 15 lakh Gorakhpur",
+    "grocery franchise starting from 18.5 lakh Gorakhpur",
     "grocery franchise in Gorakhpur",
     "supermarket franchise Gorakhpur",
-    "15 lakh franchise business",
+    "18.5 lakh franchise business",
     "low investment grocery franchise",
     "grocery franchise under 20 lakh",
     "The Buyzaar Mart franchise",
@@ -36,9 +42,15 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-starting-from-15-lakh-gorakhpur",
   },
   openGraph: {
+<<<<<<< HEAD
     title: "Grocery Franchise from 18.5 in Gorakhpur | Buyzaar Mart",
     description:
       "Start a grocery franchise in Gorakhpur from 18.5 with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+=======
+    title: "Grocery Franchise from 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+    description:
+      "Start a grocery franchise in Gorakhpur from 18.5 Lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/gorakhpur/grocery-franchise-starting-from-15-lakh-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -46,7 +58,11 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
+<<<<<<< HEAD
         alt: "Grocery Franchise from 18.5 in Gorakhpur | Buyzaar Mart",
+=======
+        alt: "Grocery Franchise from 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     ],
     locale: "en_IN",
@@ -54,9 +70,15 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
+<<<<<<< HEAD
     title: "Grocery Franchise from 18.5 in Gorakhpur | Buyzaar Mart",
     description:
       "Start a grocery franchise in Gorakhpur from 18.5 with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+=======
+    title: "Grocery Franchise from 18.5 Lakh in Gorakhpur | Buyzaar Mart",
+    description:
+      "Start a grocery franchise in Gorakhpur from 18.5 Lakh with The Buyzaar Mart. Get 18–20% gross margin, POS, supply chain and launch support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

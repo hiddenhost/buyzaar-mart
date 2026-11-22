@@ -8,7 +8,11 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Supermarket Franchise Opportunity in Rampur | The Buyzaar Mart",
   description:
+<<<<<<< HEAD
     "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
+=======
+    "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 Lakh total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/rampur/supermarket-franchise-opportunity-rampur",
   telephone: "+919217991727",
   address: {
@@ -59,7 +63,11 @@ const faqSchema = {
       name: "What is the total investment for a supermarket franchise in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
+<<<<<<< HEAD
         text: "It starts from a total of 18.5, and the final figure depends on the store format and area you select.",
+=======
+        text: "It starts from a total of 18.5 Lakh, and the final figure depends on the store format and area you select.",
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -232,7 +240,11 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
+<<<<<<< HEAD
                 The Buyzaar Mart supermarket franchise starts from a total investment of 18.5, with the final amount depending on the store format and the area you choose for your Rampur outlet.
+=======
+                The Buyzaar Mart supermarket franchise starts from a total investment of 18.5 Lakh, with the final amount depending on the store format and the area you choose for your Rampur outlet.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
               </li>
               <li>
                 The total covers stock, interior setup, software, the franchise fee including GST and the security deposit, so you can plan your capital with a clear overall picture instead of surprise costs later.
@@ -470,7 +482,11 @@ const Content = () => {
                   Q1. What is the total investment for a supermarket franchise in Rampur?
                 </h3>
                 <p className="mt-2">
+<<<<<<< HEAD
                   It starts from a total of 18.5, and the final figure depends on the store format and area you select.
+=======
+                  It starts from a total of 18.5 Lakh, and the final figure depends on the store format and area you select.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 
@@ -551,7 +567,11 @@ const Content = () => {
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
+<<<<<<< HEAD
                   The Buyzaar Mart offers a supermarket franchise opportunity in Rampur, starting from 18.5 total investment.
+=======
+                  The Buyzaar Mart offers a supermarket franchise opportunity in Rampur, starting from 18.5 Lakh total investment.
+>>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </li>
                 <li>
                   Choose FOCM or FOCO, with POS, training, supply chain and full launch support.

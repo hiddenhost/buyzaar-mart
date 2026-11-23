@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Top Franchise Opportunity in Kanpur | The Buyzaar Mart FOCM Model",
   description:
-<<<<<<< HEAD
-    "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5. Full setup, supply chain, POS & ongoing support included. Apply now.",
-=======
     "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5 Lakh. Full setup, supply chain, POS & ongoing support included. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
@@ -19,11 +16,8 @@ export const metadata = {
     title:
       "Top Franchise Opportunity in Kanpur | The Buyzaar Mart FOCM Model",
     description:
-<<<<<<< HEAD
-      "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5. Full setup, supply chain, POS & ongoing support included. Apply now.",
-=======
       "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5 Lakh. Full setup, supply chain, POS & ongoing support included. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -42,11 +36,8 @@ export const metadata = {
     title:
       "Top Franchise Opportunity in Kanpur | The Buyzaar Mart FOCM Model",
     description:
-<<<<<<< HEAD
-      "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5. Full setup, supply chain, POS & ongoing support included. Apply now.",
-=======
       "Looking for the best franchise opportunity in Kanpur? The Buyzaar Mart offers a proven FOCM grocery supermarket franchise starting from 18.5 Lakh. Full setup, supply chain, POS & ongoing support included. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

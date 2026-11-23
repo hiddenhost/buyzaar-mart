@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Neighbourhood Store Franchise in Kanpur - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Neighbourhood Store Franchise in Kanpur with The Buyzaar Mart. Start a community grocery store with 18.5 investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
-=======
     "Neighbourhood Store Franchise in Kanpur with The Buyzaar Mart. Start a community grocery store with 18.5 Lakh investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/kanpur/neighbourhood-store-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -62,11 +59,8 @@ const faqSchema = {
       name: "What investment is required to open a neighbourhood store franchise in Kanpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The Buyzaar Mart neighbourhood franchise starts at 18.5, covering franchise fee, store setup, branding, POS system installation, and initial inventory arrangement.",
-=======
         text: "The Buyzaar Mart neighbourhood franchise starts at 18.5 Lakh, covering franchise fee, store setup, branding, POS system installation, and initial inventory arrangement.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -354,11 +348,8 @@ const Content = () => {
                   What investment is required to open a neighbourhood store franchise in Kanpur with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The Buyzaar Mart neighbourhood franchise starts at 18.5 &#8212; covering the franchise fee, complete store setup, branding, POS system installation, and initial inventory arrangement.
-=======
                   The Buyzaar Mart neighbourhood franchise starts at 18.5 Lakh &#8212; covering the franchise fee, complete store setup, branding, POS system installation, and initial inventory arrangement.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

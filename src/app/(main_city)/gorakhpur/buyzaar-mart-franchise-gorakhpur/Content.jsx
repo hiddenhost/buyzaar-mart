@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise Gorakhpur | Grocery Franchise ₹15L",
   description:
-<<<<<<< HEAD
-    "Start a Buyzaar Mart franchise in Gorakhpur from 18.5. FOCM and FOCO models, POS billing, supply chain, and launch support included.",
-=======
     "Start a Buyzaar Mart franchise in Gorakhpur from 18.5 Lakh. FOCM and FOCO models, POS billing, supply chain, and launch support included.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -62,11 +59,8 @@ const faqSchema = {
       name: "What is the investment for a Buyzaar Mart franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment starts from 18.5 and depends on store format and area.",
-=======
         text: "Investment starts from 18.5 Lakh and depends on store format and area.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -177,11 +171,8 @@ const Content = () => {
                 daily essentials at fair prices.
               </li>
               <li>
-<<<<<<< HEAD
-                Investment starts from 18.5, and the exact amount depends
-=======
                 Investment starts from 18.5 Lakh, and the exact amount depends
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 on the store format and area you choose.
               </li>
               <li>
@@ -408,11 +399,8 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>The franchise investment starts from 18.5.</li>
-=======
               <li>The franchise investment starts from 18.5 Lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>
                 The total varies by store type and area, and includes stock,
                 interior, software fee, franchise fee including 18% GST, and
@@ -848,11 +836,8 @@ const Content = () => {
                   Gorakhpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment starts from 18.5 and depends on store format
-=======
                   Investment starts from 18.5 Lakh and depends on store format
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   and area.
                 </p>
               </div>
@@ -946,11 +931,8 @@ const Content = () => {
 
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-<<<<<<< HEAD
-                  Start a Buyzaar Mart franchise in Gorakhpur from 18.5.
-=======
                   Start a Buyzaar Mart franchise in Gorakhpur from 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </li>
                 <li>
                   Choose between FOCM and FOCO franchise models based on your

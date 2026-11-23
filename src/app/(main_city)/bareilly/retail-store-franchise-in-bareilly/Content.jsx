@@ -66,11 +66,8 @@ const faqSchema = {
       name: "What is the minimum investment to start a Buyzaar Mart franchise in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The starting investment is 18.5, covering franchise fees, store setup, branding, POS system, initial inventory, and the grand launch campaign for your locality.",
-=======
         text: "The starting investment is 18.5 Lakh, covering franchise fees, store setup, branding, POS system, initial inventory, and the grand launch campaign for your locality.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -469,11 +466,8 @@ const Content = () => {
 
             <p>
               The Buyzaar Mart franchise is designed to be genuinely accessible.
-<<<<<<< HEAD
-              The starting investment begins from 18.5 &mdash; one of the
-=======
               The starting investment begins from 18.5 Lakh &mdash; one of the
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               most competitive entry points for a branded supermarket franchise
               anywhere in North India.
             </p>
@@ -622,11 +616,8 @@ const Content = () => {
               Lowest Entry Investment in the Branded Supermarket Category
             </h3>
             <p>
-<<<<<<< HEAD
-              At 18.5 starting, this is significantly below what most
-=======
               At 18.5 Lakh starting, this is significantly below what most
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               comparable branded supermarket franchises require.
             </p>
 
@@ -672,11 +663,8 @@ const Content = () => {
                   franchise in Bareilly?
                 </h3>
                 <p className="mt-2 text-gray-700">
-<<<<<<< HEAD
-                  The starting investment is 18.5, covering franchise fees,
-=======
                   The starting investment is 18.5 Lakh, covering franchise fees,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   store setup, branding, POS system, initial inventory, and the
                   grand launch campaign for your locality.
                 </p>

@@ -7,11 +7,8 @@ export const metadata = {
     "Buyzaar Mart Franchise Enquiry in Amroha | Supermarket Franchise",
 
   description:
-<<<<<<< HEAD
-    "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from 18.5 with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
-=======
     "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from 18.5 Lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
 
   keywords: [
     "buyzaar mart franchise enquiry amroha",
@@ -48,11 +45,8 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Enquiry in Amroha | Supermarket Franchise",
     description:
-<<<<<<< HEAD
-      "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from 18.5 with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
-=======
       "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from 18.5 Lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url:
       "https://www.thebuyzaarmart.com/buyzaar-mart-franchise-enquiry-amroha",
     siteName: "The Buyzaar Mart",
@@ -73,11 +67,8 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Enquiry in Amroha | Supermarket Franchise",
     description:
-<<<<<<< HEAD
-      "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from 18.5 with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
-=======
       "Send your Buyzaar Mart franchise enquiry in Amroha. Total investment starts from 18.5 Lakh with FOCM and FOCO models, POS, training and full support. Get a reply within 24 hours.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/icon.png"],
   },
 

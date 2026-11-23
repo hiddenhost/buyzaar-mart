@@ -74,11 +74,8 @@ const faqSchema = {
       name: "How much does an FOCM franchise cost in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Entry-level Mini Mart FOCM franchises typically start from around 18.5, with larger formats costing more.",
-=======
         text: "Entry-level Mini Mart FOCM franchises typically start from around 18.5 Lakh, with larger formats costing more.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -186,11 +183,8 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>Entry-level Mini Mart FOCM franchises in Bulandshahr typically start from around 18.5 to ₹20 Lakh for a compact neighbourhood-format store.</li>
-=======
               <li>Entry-level Mini Mart FOCM franchises in Bulandshahr typically start from around 18.5 Lakh to ₹20 Lakh for a compact neighbourhood-format store.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Investment components generally include opening stock, interior setup, a software/technology fee, the one-time franchise fee, and a security deposit.</li>
               <li>The one-time franchise fee typically falls in the range of a few lakh rupees, inclusive of applicable GST, and covers brand access, systems, training, and launch support.</li>
               <li>Franchise partners can expect an average profit margin of around 18% to 20% on sales, depending on store format, location, and operational efficiency.</li>
@@ -297,11 +291,8 @@ const Content = () => {
                   Q3. How much does an FOCM franchise cost in Bulandshahr?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Entry-level Mini Mart FOCM franchises typically start from around 18.5, with larger formats costing more.
-=======
                   Entry-level Mini Mart FOCM franchises typically start from around 18.5 Lakh, with larger formats costing more.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

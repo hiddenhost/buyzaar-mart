@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Franchise Opportunity in Gorakhpur | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore the FOCO franchise opportunity in Gorakhpur from 18.5. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
-=======
     "Explore the FOCO franchise opportunity in Gorakhpur from 18.5 Lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "FOCO franchise opportunity Gorakhpur",
     "FOCO franchise Gorakhpur",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "FOCO Franchise Opportunity in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Explore the FOCO franchise opportunity in Gorakhpur from 18.5. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
-=======
       "Explore the FOCO franchise opportunity in Gorakhpur from 18.5 Lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/foco-franchise-opportunity-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Franchise Opportunity in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Explore the FOCO franchise opportunity in Gorakhpur from 18.5. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
-=======
       "Explore the FOCO franchise opportunity in Gorakhpur from 18.5 Lakh. Own the store, let The Buyzaar Mart operate it. See who it suits, returns & how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

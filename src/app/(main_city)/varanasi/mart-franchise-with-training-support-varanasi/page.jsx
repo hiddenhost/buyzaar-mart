@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise With Training Support in Varanasi | Price & Investment",
   description:
-<<<<<<< HEAD
-    "Start a mart franchise in Varanasi with complete training support from The Buyzaar Mart. Check store prices (Mini Mart 18.5 onwards), investment details, and how to apply.",
-=======
     "Start a mart franchise in Varanasi with complete training support from The Buyzaar Mart. Check store prices (Mini Mart 18.5 Lakh onwards), investment details, and how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "mart franchise with training support Varanasi",
     "Buyzaar Mart Varanasi",
@@ -30,11 +27,8 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise With Training Support in Varanasi | Price & Investment",
     description:
-<<<<<<< HEAD
-      "Start a mart franchise in Varanasi with complete training support from The Buyzaar Mart. Check store prices (Mini Mart 18.5 onwards), investment details, and how to apply.",
-=======
       "Start a mart franchise in Varanasi with complete training support from The Buyzaar Mart. Check store prices (Mini Mart 18.5 Lakh onwards), investment details, and how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/varanasi/mart-franchise-with-training-support-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
@@ -52,11 +46,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise With Training Support in Varanasi | Price & Investment",
     description:
-<<<<<<< HEAD
-      "Start a mart franchise in Varanasi with complete training support from The Buyzaar Mart. Check store prices (Mini Mart 18.5 onwards), investment details, and how to apply.",
-=======
       "Start a mart franchise in Varanasi with complete training support from The Buyzaar Mart. Check store prices (Mini Mart 18.5 Lakh onwards), investment details, and how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

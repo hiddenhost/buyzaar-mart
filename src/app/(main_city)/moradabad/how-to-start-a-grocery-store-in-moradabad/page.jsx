@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Start a Grocery Store in Moradabad | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from 18.5.",
-=======
     "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "start grocery store Moradabad",
     "how to open grocery store Moradabad",
@@ -30,11 +27,8 @@ export const metadata = {
   openGraph: {
     title: "How to Start a Grocery Store in Moradabad | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from 18.5.",
-=======
       "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/moradabad/how-to-start-a-grocery-store-in-moradabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -52,11 +46,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Start a Grocery Store in Moradabad | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from 18.5.",
-=======
       "Learn how to start a grocery store in Moradabad with licenses, location tips, and format-wise investment. Compare Mini Mart, Super Mart & Hyper Mart from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

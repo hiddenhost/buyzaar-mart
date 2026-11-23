@@ -34,11 +34,8 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from 18.5 for a Mini Mart format, depending on location, store size, setup scope, and final commercial assessment.",
-=======
         text: "The minimum investment starts from 18.5 Lakh for a Mini Mart format, depending on location, store size, setup scope, and final commercial assessment.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -217,11 +214,8 @@ const Content = () => {
             <p>
               Depending on format, store size, property condition, fit-out
               scope, and local commercial requirements, entry can begin from
-<<<<<<< HEAD
-              around 18.5. Below is the structured investment view shared
-=======
               around 18.5 Lakh. Below is the structured investment view shared
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               for two common formats.
             </p>
 
@@ -306,11 +300,8 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Mini Mart monthly revenue:</strong> Typically ₹8 lakh to
-<<<<<<< HEAD
-                18.5 in a decent location.
-=======
                 18.5 Lakh in a decent location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 <strong>Super Mart monthly revenue:</strong> Commonly ₹20 lakh
@@ -372,11 +363,8 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Affordable entry point:</strong> Starting from around
-<<<<<<< HEAD
-                18.5, depending on format and setup.
-=======
                 18.5 Lakh, depending on format and setup.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 <strong>FOCM structure:</strong> Ownership with company-led
@@ -590,11 +578,8 @@ const Content = () => {
                   Mart franchise in Greater Noida?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment starts from around 18.5 for a Mini
-=======
                   The minimum investment starts from around 18.5 Lakh for a Mini
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   Mart format, depending on store size, fit-out scope, inventory
                   requirement, and commercial feasibility.
                 </p>

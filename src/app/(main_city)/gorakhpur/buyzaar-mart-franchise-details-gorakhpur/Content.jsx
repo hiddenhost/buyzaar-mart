@@ -58,11 +58,8 @@ const faqSchema = {
       name: "What are the main Buyzaar Mart franchise details for Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment from 18.5, FOCM and FOCO models, and Mini, Super and Hyper Mart formats with full brand support.",
-=======
         text: "Investment from 18.5 Lakh, FOCM and FOCO models, and Mini, Super and Hyper Mart formats with full brand support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -164,11 +161,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>If you are searching for Buyzaar Mart franchise details in Gorakhpur, this page gives you the key facts in one place, from investment and models to support, compliance and contact information.</li>
               <li>The Buyzaar Mart is a grocery and supermarket franchise brand built on the promise &quot;Your Friendly Neighborhood Store&quot;.</li>
-<<<<<<< HEAD
-              <li>Investment starts from 18.5, and the final amount depends on the store format and area you choose.</li>
-=======
               <li>Investment starts from 18.5 Lakh, and the final amount depends on the store format and area you choose.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The brand offers two ownership models, FOCM and FOCO, along with three store formats: Mini Mart, Super Mart and Hyper Mart.</li>
               <li>Use this page as a fact sheet before you speak with the franchise team, so your questions are clear and focused.</li>
             </ul>
@@ -180,11 +174,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>Brand: The Buyzaar Mart, a grocery and supermarket franchise network.</li>
               <li>Business type: Grocery, FMCG and daily-need retail under one roof.</li>
-<<<<<<< HEAD
-              <li>Starting investment: from 18.5.</li>
-=======
               <li>Starting investment: from 18.5 Lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Franchise models: FOCM (Franchise Owned, Company Managed) and FOCO (Franchise Owned, Company Operated).</li>
               <li>Store formats: Mini Mart (600 to 1,000 sq ft), Super Mart (1,001 to 3,000 sq ft) and Hyper Mart (3,001 to 8,000 sq ft).</li>
               <li>Stated gross margin: an effective gross margin of 18 to 20 percent.</li>
@@ -279,11 +270,8 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>The franchise investment starts from 18.5.</li>
-=======
               <li>The franchise investment starts from 18.5 Lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The investment calculator on thebuyzaarmart.com lets you choose a store type, enter your area between 600 and 8,000 sq ft and view an estimate.</li>
               <li>The estimate covers stock, interior, software fee, franchise fee (including 18% GST) and security deposit.</li>
               <li>The exact figure changes with store size, so always confirm a written quote for your Gorakhpur location.</li>
@@ -515,11 +503,8 @@ const Content = () => {
                   What are the main Buyzaar Mart franchise details for Gorakhpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment from 18.5, FOCM and FOCO models, and Mini, Super and Hyper Mart formats with full brand support.
-=======
                   Investment from 18.5 Lakh, FOCM and FOCO models, and Mini, Super and Hyper Mart formats with full brand support.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

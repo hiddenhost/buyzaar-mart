@@ -7,11 +7,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Supermarket Franchise Opportunity in Rampur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
-=======
     "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 Lakh total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "supermarket franchise opportunity rampur",
     "supermarket franchise in rampur",
@@ -43,11 +40,8 @@ export const metadata = {
   openGraph: {
     title: "Supermarket Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
-=======
       "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 Lakh total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/rampur/supermarket-franchise-opportunity-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -65,11 +59,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Supermarket Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
-=======
       "Start a supermarket franchise in Rampur with The Buyzaar Mart from 18.5 Lakh total investment. FOCM and FOCO models, POS, training, supply chain and full support. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

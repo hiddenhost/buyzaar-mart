@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FMCG Retail Franchise in Varanasi | Price & Investment Details",
   description:
-<<<<<<< HEAD
-    "Start an FMCG retail franchise in Varanasi with The Buyzaar Mart. Check store formats (Mini Mart 18.5 onwards), total investment price, and how to apply.",
-=======
     "Start an FMCG retail franchise in Varanasi with The Buyzaar Mart. Check store formats (Mini Mart 18.5 Lakh onwards), total investment price, and how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "FMCG retail franchise Varanasi",
     "Buyzaar Mart Varanasi",
@@ -39,11 +36,8 @@ export const metadata = {
   openGraph: {
     title: "FMCG Retail Franchise in Varanasi | Price & Investment Details",
     description:
-<<<<<<< HEAD
-      "Start an FMCG retail franchise in Varanasi with The Buyzaar Mart. Check store formats (Mini Mart 18.5 onwards), total investment price, and how to apply.",
-=======
       "Start an FMCG retail franchise in Varanasi with The Buyzaar Mart. Check store formats (Mini Mart 18.5 Lakh onwards), total investment price, and how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/varanasi/fmcg-retail-franchise-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
@@ -61,11 +55,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FMCG Retail Franchise in Varanasi | Price & Investment Details",
     description:
-<<<<<<< HEAD
-      "Start an FMCG retail franchise in Varanasi with The Buyzaar Mart. Check store formats (Mini Mart 18.5 onwards), total investment price, and how to apply.",
-=======
       "Start an FMCG retail franchise in Varanasi with The Buyzaar Mart. Check store formats (Mini Mart 18.5 Lakh onwards), total investment price, and how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

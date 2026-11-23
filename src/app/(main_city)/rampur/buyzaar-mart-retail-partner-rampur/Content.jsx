@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Retail Partner Rampur | Join the Network",
   description:
-<<<<<<< HEAD
-    "Become a Buyzaar Mart retail partner in Rampur. Get branding, managed supply chain and launch support. Total investment from 18.5. Call +91 9217991727.",
-=======
     "Become a Buyzaar Mart retail partner in Rampur. Get branding, managed supply chain and launch support. Total investment from 18.5 Lakh. Call +91 9217991727.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-retail-partner-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -72,11 +69,8 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your Rampur space.",
-=======
         text: "The total investment starts from 18.5 Lakh and varies with store size, so confirm the exact figure for your Rampur space.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -381,11 +375,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                The Buyzaar Mart franchise starts from a total investment of 18.5, and the final figure depends on your store type and area.
-=======
                 The Buyzaar Mart franchise starts from a total investment of 18.5 Lakh, and the final figure depends on your store type and area.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The total covers stock, interior, software fee, franchise fee including 18% GST and security deposit, so you can plan the whole commitment as one number.
@@ -640,11 +631,8 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your Rampur space.
-=======
                   The total investment starts from 18.5 Lakh and varies with store size, so confirm the exact figure for your Rampur space.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

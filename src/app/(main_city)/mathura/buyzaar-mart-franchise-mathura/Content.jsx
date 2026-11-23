@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise in Mathura",
   description:
-<<<<<<< HEAD
-    "Explore The Buyzaar Mart franchise opportunity in Mathura with FOCM and FOCO models, investment from 18.5, multiple store formats, and complete brand support.",
-=======
     "Explore The Buyzaar Mart franchise opportunity in Mathura with FOCM and FOCO models, investment from 18.5 Lakh, multiple store formats, and complete brand support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/mathura/buyzaar-mart-franchise-mathura",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -62,11 +59,8 @@ const faqSchema = {
       name: "What is the Buyzaar Mart franchise opportunity in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "It is a supermarket franchise opportunity where entrepreneurs can open a branded grocery store under the FOCM or FOCO model, starting from 18.5.",
-=======
         text: "It is a supermarket franchise opportunity where entrepreneurs can open a branded grocery store under the FOCM or FOCO model, starting from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -253,11 +247,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                Franchise investment starts from 18.5 onwards, depending on
-=======
                 Franchise investment starts from 18.5 Lakh onwards, depending on
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 the store format selected.
               </li>
               <li>
@@ -455,11 +446,8 @@ const Content = () => {
               </li>
               <li>
                 Applicants who can meet the minimum investment requirement of
-<<<<<<< HEAD
-                18.5 onwards.
-=======
                 18.5 Lakh onwards.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 Those interested in either an active, hands-on role (FOCO) or a
@@ -576,11 +564,8 @@ const Content = () => {
                 <p className="mt-2">
                   It is a supermarket franchise opportunity where entrepreneurs
                   can open a branded grocery store under the FOCM or FOCO model,
-<<<<<<< HEAD
-                  starting from 18.5.
-=======
                   starting from 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

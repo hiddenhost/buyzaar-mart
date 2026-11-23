@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise Rampur | Supermarket Franchise",
   description:
-<<<<<<< HEAD
-    "Start a Buyzaar Mart franchise in Rampur with managed supply chain, POS billing and launch support. Total investment from 18.5. Call +91 9217991727.",
-=======
     "Start a Buyzaar Mart franchise in Rampur with managed supply chain, POS billing and launch support. Total investment from 18.5 Lakh. Call +91 9217991727.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-rampur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -64,11 +61,8 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart franchise in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The total investment starts from 18.5 and varies with store type and area, so confirm the exact figure with the team.",
-=======
         text: "The total investment starts from 18.5 Lakh and varies with store type and area, so confirm the exact figure with the team.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -163,11 +157,8 @@ const Content = () => {
                 The brand’s promise, “अपना बाजार – बचत का साथ, Quality की बात,” reflects its focus on savings, quality and everyday trust for Indian families.
               </li>
               <li>
-<<<<<<< HEAD
-                The franchise starts from a total investment of 18.5, with the final figure depending on your store format and space.
-=======
                 The franchise starts from a total investment of 18.5 Lakh, with the final figure depending on your store format and space.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The brand offers an effective gross margin of 18–20%, which is a gross figure and not a promise of net profit.
@@ -341,11 +332,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                The Buyzaar Mart franchise starts from a total investment of 18.5, and the exact amount depends on your chosen store type and area.
-=======
                 The Buyzaar Mart franchise starts from a total investment of 18.5 Lakh, and the exact amount depends on your chosen store type and area.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The total covers stock, interior, software fee, franchise fee including 18% GST and security deposit, so you can plan the entire commitment as one number.
@@ -646,11 +634,8 @@ const Content = () => {
                   Q1. What is the total investment for a Buyzaar Mart franchise in Rampur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The total investment starts from 18.5 and varies with store type and area, so confirm the exact figure with the team.
-=======
                   The total investment starts from 18.5 Lakh and varies with store type and area, so confirm the exact figure with the team.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

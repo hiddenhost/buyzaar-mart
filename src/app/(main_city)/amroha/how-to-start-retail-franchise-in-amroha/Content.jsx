@@ -202,11 +202,8 @@ const Content = () => {
               Total Investment to Start a Retail Franchise in Amroha
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>A Mini Mart of 600–1000 sq ft requires an approximate total investment of 18.5 to ₹20 lakh.</li>
-=======
               <li>A Mini Mart of 600–1000 sq ft requires an approximate total investment of 18.5 Lakh to ₹20 lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The final amount depends on the store size, the location, the planned arrangement and the amount of interior work needed.</li>
               <li>Larger formats require a higher total investment, and the franchise team can estimate the figure for your selected area.</li>
               <li>Keep working capital ready for rent, salaries, electricity and daily expenses, because new stores take time to build regular customers.</li>

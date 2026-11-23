@@ -50,11 +50,8 @@ const faqSchema = {
       name: "What is the estimated investment required to open a store in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The estimated investment typically ranges from 18.5s to ₹20 lakhs depending on store size, property condition, fixtures, POS setup, and initial inventory requirements.",
-=======
         text: "The estimated investment typically ranges from 18.5 Lakhs to ₹20 lakhs depending on store size, property condition, fixtures, POS setup, and initial inventory requirements.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -518,11 +515,8 @@ const Content = () => {
                   store in Kanpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The estimated investment usually ranges from 18.5s to ₹20
-=======
                   The estimated investment usually ranges from 18.5 Lakhs to ₹20
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   lakhs, depending on the site, format, fixtures, POS setup,
                   and initial stock requirement.
                 </p>

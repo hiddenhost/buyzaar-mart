@@ -58,11 +58,8 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from approximately 18.5 for a Mini Mart under the FOCM model. Super Mart formats require ₹25 lakh and above depending on store size and location.",
-=======
         text: "The minimum investment starts from approximately 18.5 Lakh for a Mini Mart under the FOCM model. Super Mart formats require ₹25 lakh and above depending on store size and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -375,11 +372,8 @@ const Content = () => {
             </ul>
 
             <p>
-<<<<<<< HEAD
-              Total estimated investment for a Mini Mart: approximately 18.5 to ₹25
-=======
               Total estimated investment for a Mini Mart: approximately 18.5 Lakh to ₹25
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               lakh, depending on the store size, location type, and whether the franchisee
               owns or rents the space.
             </p>
@@ -542,11 +536,8 @@ const Content = () => {
                   Lucknow?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment starts from approximately 18.5 for a Mini Mart
-=======
                   The minimum investment starts from approximately 18.5 Lakh for a Mini Mart
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   under the FOCM model. Super Mart formats require ₹25 lakh and above
                   depending on store size and location.
                 </p>
@@ -623,11 +614,8 @@ const Content = () => {
               </h2>
 
               <p className="mb-4 text-gray-800">
-<<<<<<< HEAD
-                Whether you start with a Mini Mart at 18.5 in a residential colony or
-=======
                 Whether you start with a Mini Mart at 18.5 Lakh in a residential colony or
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 go straight to a Super Mart in a prime commercial location, The Buyzaar Mart
                 gives you the brand, the systems, and the support to build a successful,
                 sustainable retail business.

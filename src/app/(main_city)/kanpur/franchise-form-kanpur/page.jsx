@@ -7,11 +7,7 @@ export const metadata = {
   title:
     "Franchise Form Kanpur | Fill & Apply for The Buyzaar Mart Grocery Franchise",
   description:
-<<<<<<< HEAD
-    "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
-=======
     "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5 Lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/kanpur/franchise-form-kanpur",
   },
@@ -19,11 +15,7 @@ export const metadata = {
     title:
       "Franchise Form Kanpur | Fill & Apply for The Buyzaar Mart Grocery Franchise",
     description:
-<<<<<<< HEAD
-      "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
-=======
       "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5 Lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     url: "https://www.thebuyzaarmart.com/kanpur/franchise-form-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -42,11 +34,7 @@ export const metadata = {
     title:
       "Franchise Form Kanpur | Fill & Apply for The Buyzaar Mart Grocery Franchise",
     description:
-<<<<<<< HEAD
-      "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
-=======
       "Fill the franchise form for Kanpur and start your own Buyzaar Mart grocery supermarket from 18.5 Lakh. Choose FOCM or FOCO model with full brand setup, POS, supply chain & training. Apply now at thebuyzaarmart.com.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

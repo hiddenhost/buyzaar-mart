@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart Franchise in Amroha",
   description:
-<<<<<<< HEAD
-    "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5. Apply today.",
-=======
     "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5 Lakh. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-amroha",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -63,11 +60,8 @@ const faqSchema = {
       name: "What is the total investment for a Buyzaar Mart franchise in Amroha?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "It starts from a total of 18.5, depending on the store format and area.",
-=======
         text: "It starts from a total of 18.5 Lakh, depending on the store format and area.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -314,11 +308,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The Buyzaar Mart supermarket franchise starts from a total
-<<<<<<< HEAD
-                investment of 18.5, and the final amount depends on the
-=======
                 investment of 18.5 Lakh, and the final amount depends on the
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 store format and the area in square feet that you choose.
               </li>
               <li>
@@ -635,11 +626,8 @@ const Content = () => {
                   in Amroha?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  It starts from a total of 18.5, depending on the store
-=======
                   It starts from a total of 18.5 Lakh, depending on the store
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   format and area.
                 </p>
               </div>
@@ -718,11 +706,8 @@ const Content = () => {
               <ul className="list-disc space-y-2 pl-6 text-gray-800">
                 <li>
                   Start a branded supermarket franchise in Amroha with a total
-<<<<<<< HEAD
-                  investment starting from 18.5.
-=======
                   investment starting from 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </li>
                 <li>
                   Choose between FOCM and FOCO models based on your preferred

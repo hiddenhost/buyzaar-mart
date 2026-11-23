@@ -5,11 +5,8 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-<<<<<<< HEAD
-  name: "Grocery Franchise Starting From 18.5 in Varanasi | The Buyzaar Mart",
-=======
   name: "Grocery Franchise Starting From 18.5 Lakh in Varanasi | The Buyzaar Mart",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   description:
     "The Buyzaar Mart offers grocery franchise opportunities in Varanasi starting from 18.5 with Mini Mart, Super Mart, and Hyper Mart formats, FOCM and FOCO models, complete store setup, technology-enabled operations, and full franchise support.",
   url: "https://www.thebuyzaarmart.com/varanasi/grocery-franchise-starting-from-15-lakh-varanasi",
@@ -59,11 +56,8 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-<<<<<<< HEAD
-      name: "Can I really start a grocery franchise from 18.5?",
-=======
       name: "Can I really start a grocery franchise from 18.5 Lakh?",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, entry-level investments for smaller store formats can start around this range, depending on location and format.",
@@ -71,11 +65,8 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-<<<<<<< HEAD
-      name: "What store format fits a 18.5 budget?",
-=======
       name: "What store format fits a 18.5 Lakh budget?",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       acceptedAnswer: {
         "@type": "Answer",
         text: "Typically a smaller format like a Mini Mart, around 600 to 1,000 sq. ft.",
@@ -139,11 +130,8 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-<<<<<<< HEAD
-              Grocery Franchise Starting From 18.5 in Varanasi – A Complete Guide by The Buyzaar Mart
-=======
               Grocery Franchise Starting From 18.5 Lakh in Varanasi – A Complete Guide by The Buyzaar Mart
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </h1>
 
             <p>
@@ -151,11 +139,8 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-<<<<<<< HEAD
-              Why a 18.5 Entry Point Matters
-=======
               Why a 18.5 Lakh Entry Point Matters
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </h2>
 
             <p>
@@ -188,11 +173,8 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-<<<<<<< HEAD
-              What a 18.5 Grocery Franchise Investment Typically Covers
-=======
               What a 18.5 Lakh Grocery Franchise Investment Typically Covers
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </h2>
 
             <p>
@@ -326,22 +308,16 @@ const Content = () => {
 
             <div className="mt-4 space-y-4">
               <div>
-<<<<<<< HEAD
-                <h3 className="font-medium text-gray-900">Can I really start a grocery franchise from 18.5?</h3>
-=======
                 <h3 className="font-medium text-gray-900">Can I really start a grocery franchise from 18.5 Lakh?</h3>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 <p className="mt-2">
                   Yes, entry-level investments for smaller store formats can start around this range, depending on location and format.
                 </p>
               </div>
 
               <div>
-<<<<<<< HEAD
-                <h3 className="font-medium text-gray-900">What store format fits a 18.5 budget?</h3>
-=======
                 <h3 className="font-medium text-gray-900">What store format fits a 18.5 Lakh budget?</h3>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 <p className="mt-2">
                   Typically a smaller format like a Mini Mart, around 600 to 1,000 sq. ft.
                 </p>

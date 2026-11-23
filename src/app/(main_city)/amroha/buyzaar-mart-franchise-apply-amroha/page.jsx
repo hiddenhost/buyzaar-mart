@@ -7,11 +7,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Apply in Amroha | Supermarket Franchise",
   description:
-<<<<<<< HEAD
-    "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from 18.5 with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
-=======
     "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from 18.5 Lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "buyzaar mart franchise apply amroha",
     "buyzaar mart franchise amroha",
@@ -44,11 +41,8 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Apply in Amroha | Supermarket Franchise",
     description:
-<<<<<<< HEAD
-      "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from 18.5 with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
-=======
       "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from 18.5 Lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-apply-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -66,11 +60,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Apply in Amroha | Supermarket Franchise",
     description:
-<<<<<<< HEAD
-      "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from 18.5 with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
-=======
       "Apply for a Buyzaar Mart franchise in Amroha. Total investment starts from 18.5 Lakh with FOCM and FOCO models, POS, training and full support. Submit your inquiry today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

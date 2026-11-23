@@ -192,11 +192,8 @@ const Content = () => {
               Total Investment for a Grocery Franchise in Amroha
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>A Buyzaar Mart Mini Store of 600–1000 sq ft needs a total investment of roughly 18.5 to ₹20 lakh.</li>
-=======
               <li>A Buyzaar Mart Mini Store of 600–1000 sq ft needs a total investment of roughly 18.5 Lakh to ₹20 lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The exact total depends on store size, location, layout and the interior work required at your premises.</li>
               <li>Super Mart and Hyper Mart formats need a larger total investment, and the team can give you a figure for your exact area.</li>
               <li>Keep additional working capital ready for rent, salaries and electricity during the first few months while the store builds its customer base.</li>

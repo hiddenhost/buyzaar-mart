@@ -31,11 +31,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-<<<<<<< HEAD
-          "A compact neighborhood grocery store format spread across approximately 600 to 1,000 square feet, with investment typically starting from around 18.5.",
-=======
           "A compact neighborhood grocery store format spread across approximately 600 to 1,000 square feet, with investment typically starting from around 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     ],
   },
@@ -50,11 +47,8 @@ const faqSchema = {
       name: "What is the total investment required for a Mini Mart franchise in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The total investment typically ranges from approximately 18.5 to ₹22 lakh, depending on store size, location, and fit-out condition.",
-=======
         text: "The total investment typically ranges from approximately 18.5 Lakh to ₹22 lakh, depending on store size, location, and fit-out condition.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -275,11 +269,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 The total investment for a Mini Mart franchise in Moradabad
-<<<<<<< HEAD
-                typically starts from approximately 18.5.
-=======
                 typically starts from approximately 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The investment can extend up to around ₹22 lakh depending on

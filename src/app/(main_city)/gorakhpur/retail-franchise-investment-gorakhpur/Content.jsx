@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Retail Franchise Investment in Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5, FOCM and FOCO models, POS technology, training, and full support.",
-=======
     "Explore retail franchise investment in Gorakhpur with The Buyzaar Mart. Mini Mart from 18.5 Lakh, FOCM and FOCO models, POS technology, training, and full support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/gorakhpur/retail-franchise-investment-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -35,11 +32,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-<<<<<<< HEAD
-          "A 600 to 1,000 sq. ft. retail franchise format for compact Gorakhpur residential areas and neighbourhood markets, with investment generally starting from 18.5.",
-=======
           "A 600 to 1,000 sq. ft. retail franchise format for compact Gorakhpur residential areas and neighbourhood markets, with investment generally starting from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -66,11 +60,8 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "A Mini Mart starts from about 18.5 and generally ranges up to ₹22 Lakh, depending on size and location.",
-=======
         text: "A Mini Mart starts from about 18.5 Lakh and generally ranges up to ₹22 Lakh, depending on size and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -166,11 +157,8 @@ const Content = () => {
               <li>
                 The Buyzaar Mart, known as &quot;Your Friendly Neighbourhood
                 Store,&quot; offers a structured supermarket franchise with
-<<<<<<< HEAD
-                formats starting from 18.5. The brand is headquartered in
-=======
                 formats starting from 18.5 Lakh. The brand is headquartered in
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 Noida and is expanding across Uttar Pradesh, NCR, and North India
                 with a technology-enabled, company-supported model.
               </li>
@@ -387,11 +375,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                A Mini Mart typically requires approximately 18.5 to ₹22 Lakh,
-=======
                 A Mini Mart typically requires approximately 18.5 Lakh to ₹22 Lakh,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 depending on store size, location, and the condition of the
                 premises. The final figure for your Gorakhpur site is confirmed
                 after the franchise team reviews it.
@@ -639,11 +624,8 @@ const Content = () => {
                   Gorakhpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  A Mini Mart starts from about 18.5 and generally ranges up
-=======
                   A Mini Mart starts from about 18.5 Lakh and generally ranges up
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   to ₹22 Lakh, depending on size and location.
                 </p>
               </div>
@@ -739,11 +721,8 @@ const Content = () => {
                   hands-off arrangement with suitable premises.
                 </li>
                 <li>
-<<<<<<< HEAD
-                  Retail franchise investment begins from approximately 18.5,
-=======
                   Retail franchise investment begins from approximately 18.5 Lakh,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   subject to final site assessment, store format, premises
                   condition, and agreement terms.
                 </li>

@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Take Grocery Mart Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Learn how to take a grocery mart franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM and FOCO models, full support. Apply now.",
-=======
     "Learn how to take a grocery mart franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5 Lakh, FOCM and FOCO models, full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "how to take franchise of grocery mart in gorakhpur",
     "grocery mart franchise gorakhpur",
@@ -42,11 +39,8 @@ export const metadata = {
   openGraph: {
     title: "How to Take Grocery Mart Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Learn how to take a grocery mart franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM and FOCO models, full support. Apply now.",
-=======
       "Learn how to take a grocery mart franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5 Lakh, FOCM and FOCO models, full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-take-franchise-of-grocery-mart-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,11 +58,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Take Grocery Mart Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Learn how to take a grocery mart franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM and FOCO models, full support. Apply now.",
-=======
       "Learn how to take a grocery mart franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5 Lakh, FOCM and FOCO models, full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

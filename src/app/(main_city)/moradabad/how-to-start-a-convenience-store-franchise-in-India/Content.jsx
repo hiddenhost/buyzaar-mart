@@ -56,11 +56,8 @@ const faqSchema = {
       name: "What is the minimum investment needed to start a convenience store franchise in India?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment typically starts from approximately 18.5 for a compact Mini Mart format, with higher amounts for larger formats.",
-=======
         text: "Investment typically starts from approximately 18.5 Lakh for a compact Mini Mart format, with higher amounts for larger formats.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -216,11 +213,8 @@ const Content = () => {
                 franchises.
               </li>
               <li>
-<<<<<<< HEAD
-                Investment often starts from around 18.5, making the model
-=======
                 Investment often starts from around 18.5 Lakh, making the model
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 accessible to first-time entrepreneurs, salaried professionals,
                 and small business owners.
               </li>
@@ -294,11 +288,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 Total investment for a convenience store franchise in India
-<<<<<<< HEAD
-                typically starts from approximately 18.5 for a compact Mini
-=======
                 typically starts from approximately 18.5 Lakh for a compact Mini
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 Mart.
               </li>
               <li>
@@ -655,11 +646,8 @@ const Content = () => {
                   store franchise in India?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment typically starts from approximately 18.5 for a
-=======
                   Investment typically starts from approximately 18.5 Lakh for a
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   compact Mini Mart format, with higher amounts for larger
                   formats.
                 </p>

@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Buyzaar Mart FOCM Franchise Rampur | Company Managed",
   description:
-<<<<<<< HEAD
-    "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from 18.5. Call +91 9217991727.",
-=======
     "Start a Buyzaar Mart FOCM franchise in Rampur: you own the store, the company manages operations. Total investment from 18.5 Lakh. Call +91 9217991727.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/rampur/c",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -72,11 +69,8 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your space.",
-=======
         text: "The total investment starts from 18.5 Lakh and varies with store size, so confirm the exact figure for your space.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -163,11 +157,8 @@ const Content = () => {
                 The brand’s promise, “अपना बाजार – बचत का साथ, Quality की बात,” reflects its focus on savings, quality and everyday trust for Indian families.
               </li>
               <li>
-<<<<<<< HEAD
-                The Buyzaar Mart franchise starts from a total investment of 18.5, and the final amount depends on your store format, layout and location.
-=======
                 The Buyzaar Mart franchise starts from a total investment of 18.5 Lakh, and the final amount depends on your store format, layout and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The website mentions an effective gross margin of 18–20%, which is a gross figure and not a promise of net profit.
@@ -265,11 +256,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                The franchise starts from a total investment of 18.5, and the FAQ page mentions roughly ₹15–20 lakh for a Mini Mart of 600–1000 sq ft.
-=======
                 The franchise starts from a total investment of 18.5 Lakh, and the FAQ page mentions roughly ₹15–20 lakh for a Mini Mart of 600–1000 sq ft.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The final figure depends on store size, layout, location and the work required at the premises.
@@ -677,11 +665,8 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The total investment starts from 18.5 and varies with store size, so confirm the exact figure for your space.
-=======
                   The total investment starts from 18.5 Lakh and varies with store size, so confirm the exact figure for your space.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

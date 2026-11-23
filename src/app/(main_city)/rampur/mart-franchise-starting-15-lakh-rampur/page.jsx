@@ -5,15 +5,10 @@ import Services from "@/app/components/Services";
 
 
 export const metadata = {
-<<<<<<< HEAD
-  title: "Mart Franchise Starting at 18.5 in Rampur | Buyzaar Mart",
-  description:
-    "Start a mart franchise from 18.5 in Rampur with The Buyzaar Mart. Get a first-year roadmap, POS billing, supply chain, training and marketing support. Apply now.",
-=======
   title: "Mart Franchise Starting at 18.5 Lakh in Rampur | Buyzaar Mart",
   description:
     "Start a mart franchise from 18.5 Lakh in Rampur with The Buyzaar Mart. Get a first-year roadmap, POS billing, supply chain, training and marketing support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "mart franchise starting 18.5 lakh rampur",
     "mart franchise rampur",
@@ -43,15 +38,10 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/rampur/mart-franchise-starting-15-lakh-rampur",
   },
   openGraph: {
-<<<<<<< HEAD
-    title: "Mart Franchise Starting at 18.5 in Rampur | Buyzaar Mart",
-    description:
-      "Start a mart franchise from 18.5 in Rampur with The Buyzaar Mart. Get a first-year roadmap, POS billing, supply chain, training and marketing support. Apply now.",
-=======
     title: "Mart Franchise Starting at 18.5 Lakh in Rampur | Buyzaar Mart",
     description:
       "Start a mart franchise from 18.5 Lakh in Rampur with The Buyzaar Mart. Get a first-year roadmap, POS billing, supply chain, training and marketing support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/rampur/mart-franchise-starting-15-lakh-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -59,11 +49,8 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-<<<<<<< HEAD
-        alt: "Mart Franchise Starting at 18.5 in Rampur | Buyzaar Mart",
-=======
         alt: "Mart Franchise Starting at 18.5 Lakh in Rampur | Buyzaar Mart",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     ],
     locale: "en_IN",
@@ -71,15 +58,10 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-<<<<<<< HEAD
-    title: "Mart Franchise Starting at 18.5 in Rampur | Buyzaar Mart",
-    description:
-      "Start a mart franchise from 18.5 in Rampur with The Buyzaar Mart. Get a first-year roadmap, POS billing, supply chain, training and marketing support. Apply now.",
-=======
     title: "Mart Franchise Starting at 18.5 Lakh in Rampur | Buyzaar Mart",
     description:
       "Start a mart franchise from 18.5 Lakh in Rampur with The Buyzaar Mart. Get a first-year roadmap, POS billing, supply chain, training and marketing support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

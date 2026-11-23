@@ -5,15 +5,10 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-<<<<<<< HEAD
-  name: "Mart Franchise Starting 18.5 in Bulandshahr | The Buyzaar Mart",
-  description:
-    "The Buyzaar Mart offers Mini Mart franchise opportunities in Bulandshahr starting from 18.5, with FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support for entry-level retail investors.",
-=======
   name: "Mart Franchise Starting 18.5 Lakh in Bulandshahr | The Buyzaar Mart",
   description:
     "The Buyzaar Mart offers Mini Mart franchise opportunities in Bulandshahr starting from 18.5 Lakh, with FOCM/FOCO support, centralized procurement, technology-enabled operations, and full franchise partner support for entry-level retail investors.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/bulandshahr/mart-franchise-starting-15-lakh-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -37,11 +32,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-<<<<<<< HEAD
-          "Entry-level mart franchise format (600–1,000 sq. ft.) designed for residential colonies and compact commercial spaces in Bulandshahr, starting from 18.5.",
-=======
           "Entry-level mart franchise format (600–1,000 sq. ft.) designed for residential colonies and compact commercial spaces in Bulandshahr, starting from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     ],
   },
@@ -53,17 +45,11 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-<<<<<<< HEAD
-      name: "Is 18.5 the minimum investment for a Buyzaar Mart franchise?",
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: "Yes, 18.5 is approximately the starting investment for the Mini Mart format, covering store setup, opening stock, and branding elements.",
-=======
       name: "Is 18.5 Lakh the minimum investment for a Buyzaar Mart franchise?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes, 18.5 Lakh is approximately the starting investment for the Mini Mart format, covering store setup, opening stock, and branding elements.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -131,19 +117,12 @@ const Content = () => {
         <div className="order-1 flex-1 px-4 py-0 sm:px-8 md:px-16 lg:order-1">
           <div className="max-w-4xl space-y-4 font-serif font-medium leading-relaxed text-gray-700">
             <h1 className="mt-8 text-2xl font-medium text-gray-900 sm:text-3xl">
-<<<<<<< HEAD
-              Mart Franchise Starting 18.5 in Bulandshahr – The Buyzaar Mart
-            </h1>
-
-            <p>
-              For entrepreneurs in Bulandshahr looking to enter organized retail without a heavy capital outlay, The Buyzaar Mart offers a mart franchise starting at 18.5. Designed around the compact Mini Mart format, this entry point gives first-time business owners a structured, brand-backed way to launch a neighbourhood store without the operational guesswork of starting independently.
-=======
               Mart Franchise Starting 18.5 Lakh in Bulandshahr – The Buyzaar Mart
             </h1>
 
             <p>
               For entrepreneurs in Bulandshahr looking to enter organized retail without a heavy capital outlay, The Buyzaar Mart offers a mart franchise starting at 18.5 Lakh. Designed around the compact Mini Mart format, this entry point gives first-time business owners a structured, brand-backed way to launch a neighbourhood store without the operational guesswork of starting independently.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -154,11 +133,8 @@ const Content = () => {
               <li>A mart franchise is a ready-to-launch retail business model where the store format, branding, product range, and operating systems are already established by the parent company.</li>
               <li>Instead of building a store concept from zero, franchise partners step into a proven system that has already been tested across multiple cities.</li>
               <li>The Buyzaar Mart&apos;s franchise model is structured around daily-need retail — groceries, FMCG products, dairy, and household essentials — categories that see consistent, repeat customer demand.</li>
-<<<<<<< HEAD
-              <li>Starting at 18.5 makes this one of the more accessible organized retail formats available to entrepreneurs in Tier-2 and Tier-3 markets like Bulandshahr.</li>
-=======
               <li>Starting at 18.5 Lakh makes this one of the more accessible organized retail formats available to entrepreneurs in Tier-2 and Tier-3 markets like Bulandshahr.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The model is built to reduce common first-time business risks such as poor location selection, inconsistent stock, and lack of billing transparency.</li>
             </ul>
 
@@ -176,11 +152,8 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-<<<<<<< HEAD
-              What 18.5 Covers in the Mini Mart Format
-=======
               What 18.5 Lakh Covers in the Mini Mart Format
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -201,11 +174,8 @@ const Content = () => {
               <li>FOCM (Franchise Owned, Company Managed): the partner owns the business while receiving strong operational support from the brand, making it a practical choice for those with no prior retail background.</li>
               <li>Both models work on a profit-sharing structure rather than a fixed royalty fee, allowing franchise partners to retain a fair share of earnings as the store grows.</li>
               <li>The franchise team helps new partners decide between FOCO and FOCM based on their available time, comfort with day-to-day involvement, and long-term goals for the store.</li>
-<<<<<<< HEAD
-              <li>At the 18.5 entry level, FOCM is generally the more common choice, since it gives first-time entrepreneurs guided support while they learn store operations.</li>
-=======
               <li>At the 18.5 Lakh entry level, FOCM is generally the more common choice, since it gives first-time entrepreneurs guided support while they learn store operations.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -235,11 +205,8 @@ const Content = () => {
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-<<<<<<< HEAD
-              Advantages of Starting at the 18.5 Entry Level
-=======
               Advantages of Starting at the 18.5 Lakh Entry Level
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
@@ -303,17 +270,11 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">
-<<<<<<< HEAD
-                  Is 18.5 the minimum investment for a Buyzaar Mart franchise?
-                </h3>
-                <p className="mt-2">
-                  Yes, 18.5 is approximately the starting investment for the Mini Mart format, covering store setup, opening stock, and branding elements.
-=======
                   Is 18.5 Lakh the minimum investment for a Buyzaar Mart franchise?
                 </h3>
                 <p className="mt-2">
                   Yes, 18.5 Lakh is approximately the starting investment for the Mini Mart format, covering store setup, opening stock, and branding elements.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

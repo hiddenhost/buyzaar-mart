@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Business Opportunity Mathura | Buyzaar",
   description:
-<<<<<<< HEAD
-    "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from 18.5, earn an 18-20% margin with POS, supply chain and full support. Apply.",
-=======
     "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "grocery franchise business opportunity Mathura",
     "grocery franchise Mathura",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Business Opportunity Mathura | Buyzaar",
     description:
-<<<<<<< HEAD
-      "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from 18.5, earn an 18-20% margin with POS, supply chain and full support. Apply.",
-=======
       "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/mathura/grocery-franchise-business-opportunity-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Business Opportunity Mathura | Buyzaar",
     description:
-<<<<<<< HEAD
-      "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from 18.5, earn an 18-20% margin with POS, supply chain and full support. Apply.",
-=======
       "Start a grocery franchise business in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, supply chain and full support. Apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

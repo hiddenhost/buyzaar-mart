@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Model Retail Store in Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a FOCO model retail store in Gorakhpur from 18.5. The Buyzaar Mart runs daily operations, POS billing, inventory, and supply support.",
-=======
     "Own a FOCO model retail store in Gorakhpur from 18.5 Lakh. The Buyzaar Mart runs daily operations, POS billing, inventory, and supply support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/gorakhpur/foco-model-retail-store-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -86,11 +83,8 @@ const faqSchema = {
       name: "What is the minimum investment?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "It starts from 18.5, and a Mini Mart generally goes up to ₹22 Lakh.",
-=======
         text: "It starts from 18.5 Lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -160,11 +154,8 @@ const Content = () => {
               <li>
                 You provide the capital and the premises, and the company operates
                 the store under its brand standards. Franchise investment starts
-<<<<<<< HEAD
-                from 18.5, and the stated return is about 10% revenue sharing
-=======
                 from 18.5 Lakh, and the stated return is about 10% revenue sharing
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 on monthly sales.
               </li>
               <li>
@@ -395,11 +386,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                The Buyzaar Mart franchise starts from 18.5. A Mini Mart
-=======
                 The Buyzaar Mart franchise starts from 18.5 Lakh. A Mini Mart
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 generally falls in the ₹15–22 Lakh range, depending on size,
                 location, and the condition of the premises.
               </li>
@@ -651,11 +639,8 @@ const Content = () => {
                   What is the minimum investment?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  It starts from 18.5, and a Mini Mart generally goes up to
-=======
                   It starts from 18.5 Lakh, and a Mini Mart generally goes up to
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   ₹22 Lakh.
                 </p>
               </div>
@@ -720,11 +705,8 @@ const Content = () => {
                   recommendation.
                 </li>
                 <li>
-<<<<<<< HEAD
-                  Investment begins from approximately 18.5, subject to the
-=======
                   Investment begins from approximately 18.5 Lakh, subject to the
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   selected format, premises, site assessment, and final agreement
                   terms.
                 </li>

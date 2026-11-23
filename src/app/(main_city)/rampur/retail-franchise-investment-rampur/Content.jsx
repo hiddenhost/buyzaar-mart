@@ -32,11 +32,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-<<<<<<< HEAD
-          "A 600 to 1,000 sq ft retail franchise format for first-time investors, residential areas and neighbourhood markets in Rampur, starting from 18.5.",
-=======
           "A 600 to 1,000 sq ft retail franchise format for first-time investors, residential areas and neighbourhood markets in Rampur, starting from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -64,11 +61,8 @@ const faqSchema = {
       name: "What is the total retail franchise investment in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "A Buyzaar Mart Mini Store starts from 18.5 and generally ranges up to ₹20 lakh, while larger formats need a higher total.",
-=======
         text: "A Buyzaar Mart Mini Store starts from 18.5 Lakh and generally ranges up to ₹20 lakh, while larger formats need a higher total.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -199,11 +193,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                A Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts from a total investment of 18.5 and generally ranges between 18.5 and ₹20 lakh, depending on store size, arrangement, location and the work required at the premises.
-=======
                 A Buyzaar Mart Mini Store of 600 to 1,000 sq ft starts from a total investment of 18.5 Lakh and generally ranges between 18.5 Lakh and ₹20 lakh, depending on store size, arrangement, location and the work required at the premises.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 Larger Super Mart and Hyper Mart formats need a higher total investment, which the franchise team confirms after studying your site and area.
@@ -541,11 +532,8 @@ const Content = () => {
                   What is the total retail franchise investment in Rampur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  A Buyzaar Mart Mini Store starts from 18.5 and generally ranges up to ₹20 lakh, while larger formats need a higher total.
-=======
                   A Buyzaar Mart Mini Store starts from 18.5 Lakh and generally ranges up to ₹20 lakh, while larger formats need a higher total.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

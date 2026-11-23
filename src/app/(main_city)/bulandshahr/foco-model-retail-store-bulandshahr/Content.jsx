@@ -74,11 +74,8 @@ const faqSchema = {
             name: "How much investment is needed for a FOCO store in Bulandshahr?",
             acceptedAnswer: {
                 "@type": "Answer",
-<<<<<<< HEAD
-                text: "Investment typically starts from around 18.5, depending on the store format and size.",
-=======
                 text: "Investment typically starts from around 18.5 Lakh, depending on the store format and size.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             },
         },
         {
@@ -238,11 +235,8 @@ const Content = () => {
                         </h2>
 
                         <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-                            <li>Investment for a FOCO retail store in Bulandshahr generally starts from around 18.5, depending on store size and format.</li>
-=======
                             <li>Investment for a FOCO retail store in Bulandshahr generally starts from around 18.5 Lakh, depending on store size and format.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                             <li>Cost components typically include opening stock, interior and store setup, POS/software fee, one-time franchise fee (inclusive of 18% GST), and a security deposit.</li>
                             <li>Under the FOCO model, ongoing operational costs such as staff salaries, electricity, and day-to-day expenses are managed by the company as part of the operating structure, rather than being handled directly by the investor.</li>
                             <li>Returns are structured through a pre-agreed revenue-sharing or fixed-payout arrangement, clearly defined in the franchise agreement before signing.</li>
@@ -339,11 +333,8 @@ const Content = () => {
                                     How much investment is needed for a FOCO store in Bulandshahr?
                                 </h3>
                                 <p className="mt-2">
-<<<<<<< HEAD
-                                    Investment typically starts from around 18.5, depending on the store format and size.
-=======
                                     Investment typically starts from around 18.5 Lakh, depending on the store format and size.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                                 </p>
                             </div>
 

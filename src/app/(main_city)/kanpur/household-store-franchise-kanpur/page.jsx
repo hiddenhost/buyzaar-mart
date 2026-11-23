@@ -5,11 +5,8 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-<<<<<<< HEAD
-    "Household Store Franchise Kanpur | Start with The Buyzaar Mart from 18.5",
-=======
     "Household Store Franchise Kanpur | Start with The Buyzaar Mart from 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   description:
     "Looking for a household store franchise in Kanpur? Join The Buyzaar Mart — India's trusted FOCM supermarket franchise with full setup, supply chain, POS & ongoing support. Apply now!",
   alternates: {
@@ -18,11 +15,8 @@ export const metadata = {
   },
   openGraph: {
     title:
-<<<<<<< HEAD
-      "Household Store Franchise Kanpur | Start with The Buyzaar Mart from 18.5",
-=======
       "Household Store Franchise Kanpur | Start with The Buyzaar Mart from 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     description:
       "Looking for a household store franchise in Kanpur? Join The Buyzaar Mart — India's trusted FOCM supermarket franchise with full setup, supply chain, POS & ongoing support. Apply now!",
     url: "https://www.thebuyzaarmart.com/kanpur/household-store-franchise-in-kanpur",
@@ -41,11 +35,8 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-<<<<<<< HEAD
-      "Household Store Franchise Kanpur | Start with The Buyzaar Mart from 18.5",
-=======
       "Household Store Franchise Kanpur | Start with The Buyzaar Mart from 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     description:
       "Looking for a household store franchise in Kanpur? Join The Buyzaar Mart — India's trusted FOCM supermarket franchise with full setup, supply chain, POS & ongoing support. Apply now!",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

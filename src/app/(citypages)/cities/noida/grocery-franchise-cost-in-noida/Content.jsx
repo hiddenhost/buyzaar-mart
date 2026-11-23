@@ -18,11 +18,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              Starting a grocery franchise with The Buyzaar Mart in Noida involves a moderate initial investment that makes it a realistic opportunity for entrepreneurs. Typically a Mini Mart requiring 600-1,000 sq ft of space, total setup costs range from 18.5 to ₹22 lakh.
-=======
               Starting a grocery franchise with The Buyzaar Mart in Noida involves a moderate initial investment that makes it a realistic opportunity for entrepreneurs. Typically a Mini Mart requiring 600-1,000 sq ft of space, total setup costs range from 18.5 Lakh to ₹22 lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </p>
 
             <p>

@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Franchise Opportunity in Hapur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore the FOCM franchise opportunity in Hapur with The Buyzaar Mart. Own your store, we manage operations. Total investment from 18.5. Apply now.",
-=======
     "Explore the FOCM franchise opportunity in Hapur with The Buyzaar Mart. Own your store, we manage operations. Total investment from 18.5 Lakh. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/hapur/focm-franchise-opportunity-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -70,11 +67,8 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Total investment starts from 18.5, depending on store format and area.",
-=======
         text: "Total investment starts from 18.5 Lakh, depending on store format and area.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -148,11 +142,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart, &quot;Your Friendly Neighborhood Store&quot;, presents the FOCM (Franchise Owned Company Managed) opportunity in Hapur for entrepreneurs who want to own a supermarket with professional backing instead of building a retail business alone.</li>
               <li>You own the outlet, we run the system. The franchisee invests in the setup and owns the store, while The Buyzaar Mart manages branding, technology, training, supply chain guidance and performance systems.</li>
-<<<<<<< HEAD
-              <li>With total investment starting from 18.5, this is an accessible way to enter organised grocery and supermarket retail in a growing NCR-belt town like Hapur.</li>
-=======
               <li>With total investment starting from 18.5 Lakh, this is an accessible way to enter organised grocery and supermarket retail in a growing NCR-belt town like Hapur.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -196,11 +187,8 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>Total investment starts from 18.5, which positions The Buyzaar Mart as a low-investment supermarket franchise compared with many larger national formats.</li>
-=======
               <li>Total investment starts from 18.5 Lakh, which positions The Buyzaar Mart as a low-investment supermarket franchise compared with many larger national formats.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The final total depends on store format and area. A Mini Mart, Super Mart and Hyper Mart will each carry a different total, and the franchise team confirms the exact figure for your Hapur property.</li>
               <li>Plan with the website calculator. You can select a store type and an area between 600 and 8,000 sq ft to see an estimate before speaking with the team.</li>
               <li>Download the brochure. The Franchise page offers a brochure so you can review the model and discuss your budget openly before applying.</li>
@@ -358,11 +346,8 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Total investment starts from 18.5, depending on store format and area.
-=======
                   Total investment starts from 18.5 Lakh, depending on store format and area.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

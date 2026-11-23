@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Cost in Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Check mart franchise cost in Gorakhpur. Compare Mini, Super and Hyper Mart investment options with The Buyzaar Mart, starting from 18.5 with POS technology and training.",
-=======
     "Check mart franchise cost in Gorakhpur. Compare Mini, Super and Hyper Mart investment options with The Buyzaar Mart, starting from 18.5 Lakh with POS technology and training.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-cost-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -35,11 +32,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-<<<<<<< HEAD
-          "A 600 to 1,000 sq. ft. mart format in Gorakhpur with approximate investment from 18.5 to ₹22 Lakh, depending on shop size, location, and fit-out condition.",
-=======
           "A 600 to 1,000 sq. ft. mart format in Gorakhpur with approximate investment from 18.5 Lakh to ₹22 Lakh, depending on shop size, location, and fit-out condition.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -66,11 +60,8 @@ const faqSchema = {
       name: "What is the starting cost of a Mini Mart in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "It starts from about 18.5 and generally goes up to ₹22 Lakh, depending on size and location.",
-=======
         text: "It starts from about 18.5 Lakh and generally goes up to ₹22 Lakh, depending on size and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -163,11 +154,8 @@ const Content = () => {
               <li>
                 The Buyzaar Mart offers three mart formats, Mini Mart, Super
                 Mart, and Hyper Mart, with the entry investment starting from
-<<<<<<< HEAD
-                18.5. Each format serves a different kind of location and a
-=======
                 18.5 Lakh. Each format serves a different kind of location and a
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 different level of investment.
               </li>
               <li>
@@ -186,11 +174,8 @@ const Content = () => {
                 <span className="font-semibold">
                   Mini Mart (600–1,000 sq. ft.):
                 </span>{" "}
-<<<<<<< HEAD
-                Approximately 18.5 to ₹22 Lakh, depending on exact size,
-=======
                 Approximately 18.5 Lakh to ₹22 Lakh, depending on exact size,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 location, and fit-out condition of the premises.
               </li>
               <li>
@@ -574,11 +559,8 @@ const Content = () => {
                   What is the starting cost of a Mini Mart in Gorakhpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  It starts from about 18.5 and generally goes up to ₹22
-=======
                   It starts from about 18.5 Lakh and generally goes up to ₹22
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   Lakh, depending on size and location.
                 </p>
               </div>
@@ -672,11 +654,8 @@ const Content = () => {
                   pre-launch marketing, and ongoing cost responsibilities.
                 </li>
                 <li>
-<<<<<<< HEAD
-                  Mini Mart investment begins from approximately 18.5,
-=======
                   Mini Mart investment begins from approximately 18.5 Lakh,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   subject to final site assessment, area, and store set-up
                   requirements.
                 </li>

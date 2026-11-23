@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Model Grocery Store in Gorakhpur | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a FOCM model grocery store in Gorakhpur from 18.5. The Buyzaar Mart manages operations with POS & training. See costs, daily routine & apply.",
-=======
     "Own a FOCM model grocery store in Gorakhpur from 18.5 Lakh. The Buyzaar Mart manages operations with POS & training. See costs, daily routine & apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "FOCM model grocery store Gorakhpur",
     "FOCM grocery store",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "FOCM Model Grocery Store in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a FOCM model grocery store in Gorakhpur from 18.5. The Buyzaar Mart manages operations with POS & training. See costs, daily routine & apply.",
-=======
       "Own a FOCM model grocery store in Gorakhpur from 18.5 Lakh. The Buyzaar Mart manages operations with POS & training. See costs, daily routine & apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/focm-model-grocery-store-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Model Grocery Store in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a FOCM model grocery store in Gorakhpur from 18.5. The Buyzaar Mart manages operations with POS & training. See costs, daily routine & apply.",
-=======
       "Own a FOCM model grocery store in Gorakhpur from 18.5 Lakh. The Buyzaar Mart manages operations with POS & training. See costs, daily routine & apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

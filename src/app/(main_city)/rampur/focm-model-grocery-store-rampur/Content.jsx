@@ -8,11 +8,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCM Model Grocery Store in Rampur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a FOCM model grocery store in Rampur with The Buyzaar Mart. Company-managed operations, POS billing, training and launch support. Total investment from 18.5.",
-=======
     "Own a FOCM model grocery store in Rampur with The Buyzaar Mart. Company-managed operations, POS billing, training and launch support. Total investment from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/rampur/focm-model-grocery-store-rampur",
   telephone: "+919217991727",
   address: {
@@ -71,11 +68,8 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The franchise starts from 18.5 as a total investment. The final figure depends on store format and area, so confirm it with the team.",
-=======
         text: "The franchise starts from 18.5 Lakh as a total investment. The final figure depends on store format and area, so confirm it with the team.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -290,11 +284,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                The Buyzaar Mart franchise starts from 18.5 as a total investment. The final figure depends on the store format and the area you choose for your Rampur outlet.
-=======
                 The Buyzaar Mart franchise starts from 18.5 Lakh as a total investment. The final figure depends on the store format and the area you choose for your Rampur outlet.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 Use the investment calculator on the Franchise page to estimate your total for a Mini Mart, Super Mart or Hyper Mart, and then confirm the exact amount with the franchise team in writing.
@@ -539,11 +530,8 @@ const Content = () => {
                   Q2. What is the total investment?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The franchise starts from 18.5 as a total investment. The final figure depends on store format and area, so confirm it with the team.
-=======
                   The franchise starts from 18.5 Lakh as a total investment. The final figure depends on store format and area, so confirm it with the team.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
@@ -607,11 +595,8 @@ const Content = () => {
                   The Buyzaar Mart offers a FOCM model grocery store in Rampur, where you own the outlet while the company manages operations and standards.
                 </li>
                 <li>
-<<<<<<< HEAD
-                  Total investment starts from 18.5, with POS billing, training, launch support, supply systems and performance tracking.
-=======
                   Total investment starts from 18.5 Lakh, with POS billing, training, launch support, supply systems and performance tracking.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </li>
                 <li>
                   Submit an inquiry on thebuyzaarmart.com or call{" "}

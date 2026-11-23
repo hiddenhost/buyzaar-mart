@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FMCG Store Franchise in Agra | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Open an FMCG store franchise in Agra with The Buyzaar Mart. FOCM model, 18.5 onwards, complete setup & operations support. Agra's fastest-growing retail opportunity.",
-=======
     "Open an FMCG store franchise in Agra with The Buyzaar Mart. FOCM model, 18.5 Lakh onwards, complete setup & operations support. Agra's fastest-growing retail opportunity.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "grocery franchise Agra",
     "retail franchise Agra",
@@ -25,11 +22,8 @@ export const metadata = {
   openGraph: {
     title: "FMCG Store Franchise in Agra | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Open an FMCG store franchise in Agra with The Buyzaar Mart. FOCM model, 18.5 onwards, complete setup & operations support. Agra's fastest-growing retail opportunity.",
-=======
       "Open an FMCG store franchise in Agra with The Buyzaar Mart. FOCM model, 18.5 Lakh onwards, complete setup & operations support. Agra's fastest-growing retail opportunity.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/agra/fmcg-store-franchise-in-agra",
     siteName: "The Buyzaar Mart",
     images: [
@@ -47,11 +41,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FMCG Store Franchise in Agra | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Open an FMCG store franchise in Agra with The Buyzaar Mart. FOCM model, 18.5 onwards, complete setup & operations support. Agra's fastest-growing retail opportunity.",
-=======
       "Open an FMCG store franchise in Agra with The Buyzaar Mart. FOCM model, 18.5 Lakh onwards, complete setup & operations support. Agra's fastest-growing retail opportunity.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

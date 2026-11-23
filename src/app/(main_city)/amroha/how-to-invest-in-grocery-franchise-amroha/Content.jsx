@@ -193,11 +193,8 @@ const Content = () => {
               Total Investment Needed in Amroha
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>A Buyzaar Mart Mini Store of 600–1000 sq ft needs a total investment of roughly 18.5 to ₹20 lakh.</li>
-=======
               <li>A Buyzaar Mart Mini Store of 600–1000 sq ft needs a total investment of roughly 18.5 Lakh to ₹20 lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The final figure depends on the store size, the location, the arrangement and the amount of interior work required.</li>
               <li>Super Mart and Hyper Mart formats need a higher total investment, which the company can calculate for your property.</li>
               <li>Keep additional working capital for rent, salaries and electricity, since a new store needs time to build steady sales.</li>

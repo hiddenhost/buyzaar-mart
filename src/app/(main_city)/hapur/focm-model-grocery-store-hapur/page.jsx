@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Model Grocery Store in Hapur | Buyzaar Mart Franchise",
   description:
-<<<<<<< HEAD
-    "Open a FOCM model grocery store in Hapur with The Buyzaar Mart. Total investment from 18.5 with setup, supply chain, POS and full support. Apply now.",
-=======
     "Open a FOCM model grocery store in Hapur with The Buyzaar Mart. Total investment from 18.5 Lakh with setup, supply chain, POS and full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "FOCM model grocery store Hapur",
     "FOCM grocery franchise Hapur",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "FOCM Model Grocery Store in Hapur | Buyzaar Mart Franchise",
     description:
-<<<<<<< HEAD
-      "Open a FOCM model grocery store in Hapur with The Buyzaar Mart. Total investment from 18.5 with setup, supply chain, POS and full support. Apply now.",
-=======
       "Open a FOCM model grocery store in Hapur with The Buyzaar Mart. Total investment from 18.5 Lakh with setup, supply chain, POS and full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/hapur/focm-model-grocery-store-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Model Grocery Store in Hapur | Buyzaar Mart Franchise",
     description:
-<<<<<<< HEAD
-      "Open a FOCM model grocery store in Hapur with The Buyzaar Mart. Total investment from 18.5 with setup, supply chain, POS and full support. Apply now.",
-=======
       "Open a FOCM model grocery store in Hapur with The Buyzaar Mart. Total investment from 18.5 Lakh with setup, supply chain, POS and full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

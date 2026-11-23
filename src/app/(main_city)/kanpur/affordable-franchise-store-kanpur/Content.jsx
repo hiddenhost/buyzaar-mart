@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Affordable Franchise Store in Kanpur - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start an affordable franchise store in Kanpur with The Buyzaar Mart. Explore the FOCM model, 18.5 starting investment, store formats, inventory support, and complete launch assistance.",
-=======
     "Start an affordable franchise store in Kanpur with The Buyzaar Mart. Explore the FOCM model, 18.5 Lakh starting investment, store formats, inventory support, and complete launch assistance.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/kanpur/affordable-franchise-store-kanpurr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -38,11 +35,8 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from 18.5. The exact amount depends on the store format, location, and setup requirements.",
-=======
         text: "The minimum investment starts from 18.5 Lakh. The exact amount depends on the store format, location, and setup requirements.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -129,11 +123,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              With a starting investment from 18.5, this is positioned as
-=======
               With a starting investment from 18.5 Lakh, this is positioned as
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               one of the more accessible supermarket franchise opportunities for
               the Kanpur market.
             </p>
@@ -257,11 +248,8 @@ const Content = () => {
             <p>
               One of the strongest reasons to consider The Buyzaar Mart in
               Kanpur is the relatively affordable entry cost. The franchise is
-<<<<<<< HEAD
-              available starting from 18.5, making it competitive compared
-=======
               available starting from 18.5 Lakh, making it competitive compared
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               with many other organised supermarket franchise opportunities.
             </p>
 
@@ -469,11 +457,8 @@ const Content = () => {
                   franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment starts from 18.5. The final amount
-=======
                   The minimum investment starts from 18.5 Lakh. The final amount
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   depends on the store format, exact location, and setup
                   requirements.
                 </p>

@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Model Retail Store in Gorakhpur | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a FOCO model retail store in Gorakhpur from 18.5. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
-=======
     "Own a FOCO model retail store in Gorakhpur from 18.5 Lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "FOCO model retail store Gorakhpur",
     "FOCO retail store",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "FOCO Model Retail Store in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a FOCO model retail store in Gorakhpur from 18.5. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
-=======
       "Own a FOCO model retail store in Gorakhpur from 18.5 Lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/foco-model-retail-store-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Model Retail Store in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a FOCO model retail store in Gorakhpur from 18.5. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
-=======
       "Own a FOCO model retail store in Gorakhpur from 18.5 Lakh. The Buyzaar Mart runs daily operations, POS billing & stock. Check store formats, returns & apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

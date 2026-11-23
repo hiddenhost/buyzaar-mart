@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Retail Franchise in Greater Noida - Complete Guide by The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Learn how to open a retail franchise in Greater Noida with The Buyzaar Mart. Start from 18.5 with the FOCM model, company-managed operations, complete setup, supply chain, and marketing support.",
-=======
     "Learn how to open a retail franchise in Greater Noida with The Buyzaar Mart. Start from 18.5 Lakh with the FOCM model, company-managed operations, complete setup, supply chain, and marketing support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/greater-noida/retail-business-franchise-in-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -38,11 +35,8 @@ const faqSchema = {
       name: "What is the minimum investment to open a retail franchise in Greater Noida with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from 18.5, covering store setup, initial inventory, onboarding, and POS technology. The final amount varies by store format and location size.",
-=======
         text: "The minimum investment starts from 18.5 Lakh, covering store setup, initial inventory, onboarding, and POS technology. The final amount varies by store format and location size.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -146,11 +140,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              With an investment entry point of 18.5 and a Franchise Owned
-=======
               With an investment entry point of 18.5 Lakh and a Franchise Owned
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               Company Managed (FOCM) model that removes the operational burden
               from the investor, it is one of the most practical and accessible
               retail franchise pathways available in Greater Noida today.
@@ -314,11 +305,8 @@ const Content = () => {
 
             <p>
               Opening a retail franchise with The Buyzaar Mart in Greater Noida
-<<<<<<< HEAD
-              requires a minimum investment starting from 18.5. This entry
-=======
               requires a minimum investment starting from 18.5 Lakh. This entry
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               point makes the franchise accessible to a wide range of individual
               investors without requiring institutional financing or high net
               worth.
@@ -653,11 +641,8 @@ const Content = () => {
                   in Greater Noida with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment starts from 18.5, covering store
-=======
                   The minimum investment starts from 18.5 Lakh, covering store
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   setup, initial inventory, onboarding, and POS technology. The
                   final amount varies by store format and location size.
                 </p>

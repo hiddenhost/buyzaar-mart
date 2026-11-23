@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Branded Grocery Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5. Apply today!",
-=======
     "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5 Lakh. Apply today!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "branded grocery franchise gorakhpur",
     "branded grocery franchise in gorakhpur",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "Branded Grocery Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5. Apply today!",
-=======
       "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5 Lakh. Apply today!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/branded-grocery-franchise-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Branded Grocery Franchise in Gorakhpur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5. Apply today!",
-=======
       "Start a branded grocery franchise in Gorakhpur with The Buyzaar Mart. Trusted brand, POS billing and stock take-back, from 18.5 Lakh. Apply today!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

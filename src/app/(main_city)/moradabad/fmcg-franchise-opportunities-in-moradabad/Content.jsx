@@ -68,11 +68,8 @@ const faqSchema = {
       name: "What is the minimum investment to start a franchise in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "A Mini Mart franchise typically starts from around 18.5, covering setup, stock, and launch support.",
-=======
         text: "A Mini Mart franchise typically starts from around 18.5 Lakh, covering setup, stock, and launch support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -213,11 +210,8 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>Low entry investment: A Mini Mart franchise starts from around 18.5, making it one of the more accessible organised retail opportunities available in a tier-2 city like Moradabad.</li>
-=======
               <li>Low entry investment: A Mini Mart franchise starts from around 18.5 Lakh, making it one of the more accessible organised retail opportunities available in a tier-2 city like Moradabad.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Site evaluation before commitment: The Buyzaar Mart&apos;s team surveys any proposed Moradabad location based on population density, purchasing capacity, and local demand before finalising the franchise, reducing the risk of a poorly chosen site.</li>
               <li>Buyback guarantee on unsold stock: Expired and damaged goods are taken back under company policy, removing one of the most common sources of financial loss for independent grocery stores.</li>
               <li>Centralised sourcing: Direct partnerships with 50-plus FMCG brands across personal care, home care, packaged foods, and staples give franchise stores competitive pricing that independent Moradabad retailers typically cannot access alone.</li>
@@ -337,11 +331,8 @@ const Content = () => {
                   What is the minimum investment to start a franchise in Moradabad?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  A Mini Mart franchise typically starts from around 18.5, covering setup, stock, and launch support.
-=======
                   A Mini Mart franchise typically starts from around 18.5 Lakh, covering setup, stock, and launch support.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

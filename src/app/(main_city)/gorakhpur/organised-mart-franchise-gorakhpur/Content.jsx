@@ -5,11 +5,8 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "Organised Mart Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Open an organised mart franchise in Gorakhpur with The Buyzaar Mart. POS billing, managed supply and stock take-back, from 18.5. Apply today!",
-=======
     "Open an organised mart franchise in Gorakhpur with The Buyzaar Mart. POS billing, managed supply and stock take-back, from 18.5 Lakh. Apply today!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
 };
 
 const localBusinessSchema = {
@@ -69,11 +66,8 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
-<<<<<<< HEAD
-      "A single unit starts from 18.5, depending on format, area, stock and interiors.",
-=======
       "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   },
   {
     question: "Do I need retail experience?",
@@ -125,11 +119,8 @@ const sections = [
       "An organised mart is a branded store that runs on set systems for sourcing, pricing, billing, display, hygiene and customer service, instead of depending on one owner&apos;s habits.",
       "An organised mart franchise lets you own such a store under a recognised brand, with training and support from the franchisor.",
       "The Buyzaar Mart offers this model in Gorakhpur through Mini Mart, Super Mart and Hyper Mart formats.",
-<<<<<<< HEAD
-      "Investment starts from 18.5, and the brand indicates an effective gross margin of 18–20% on sales.",
-=======
       "Investment starts from 18.5 Lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       "This page explains the pillars of organised retail, so you can see why customers prefer it and how it supports a stronger business.",
     ],
   },
@@ -348,11 +339,8 @@ const sections = [
       {
         title: "Investment",
         items: [
-<<<<<<< HEAD
-          "The investment starts from 18.5 for a single unit and depends on format and area.",
-=======
           "The investment starts from 18.5 Lakh for a single unit and depends on format and area.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
           "It covers stock, interior, software fee, franchise fee including 18% GST and security deposit.",
           "The investment calculator on the franchise page gives an estimate for your size.",
           "Rent for the premises is paid by the franchise partner.",

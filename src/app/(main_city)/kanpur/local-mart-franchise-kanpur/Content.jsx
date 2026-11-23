@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Local Mart Franchise in Kanpur - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start a local mart franchise in Kanpur with The Buyzaar Mart. Launch a neighbourhood grocery and supermarket store with investment starting from 18.5, hyper-local marketing, backend support, POS technology, and inventory assurance.",
-=======
     "Start a local mart franchise in Kanpur with The Buyzaar Mart. Launch a neighbourhood grocery and supermarket store with investment starting from 18.5 Lakh, hyper-local marketing, backend support, POS technology, and inventory assurance.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/kanpur/local-mart-franchise-in-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -38,11 +35,8 @@ const faqSchema = {
       name: "What is the minimum investment required for a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The Buyzaar Mart franchise starts from 18.5, making it one of the most affordable branded grocery franchise opportunities available in Kanpur and across North India.",
-=======
         text: "The Buyzaar Mart franchise starts from 18.5 Lakh, making it one of the most affordable branded grocery franchise opportunities available in Kanpur and across North India.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -318,11 +312,8 @@ const Content = () => {
             </p>
 
             <h3 className="font-medium text-gray-900">
-<<<<<<< HEAD
-              8. Investment Starting from 18.5
-=======
               8. Investment Starting from 18.5 Lakh
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </h3>
             <p>
               The Buyzaar Mart franchise is accessible. Starting from just ₹15
@@ -536,11 +527,8 @@ const Content = () => {
                 Q1. What is the minimum investment required for a Buyzaar Mart
                 franchise in Kanpur?
               </strong>{" "}
-<<<<<<< HEAD
-              The Buyzaar Mart franchise starts from 18.5, making it one of
-=======
               The Buyzaar Mart franchise starts from 18.5 Lakh, making it one of
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               the most affordable branded grocery franchise opportunities
               available in Kanpur and across North India.
             </p>

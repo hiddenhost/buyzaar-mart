@@ -58,11 +58,8 @@ const faqSchema = {
       name: "What is the minimum investment for a retail franchise business in Moradabad?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment typically starts from approximately 18.5 for the Mini Mart format, with higher amounts required for larger formats.",
-=======
         text: "Investment typically starts from approximately 18.5 Lakh for the Mini Mart format, with higher amounts required for larger formats.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -236,11 +233,8 @@ const Content = () => {
               </li>
               <li>
                 Grocery franchise investments in Moradabad typically start from
-<<<<<<< HEAD
-                around 18.5.
-=======
                 around 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 This starting investment is considerably lower than what many
@@ -609,11 +603,8 @@ const Content = () => {
                   in Moradabad?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment typically starts from approximately 18.5 for
-=======
                   Investment typically starts from approximately 18.5 Lakh for
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   the Mini Mart format, with higher amounts required for larger
                   formats.
                 </p>

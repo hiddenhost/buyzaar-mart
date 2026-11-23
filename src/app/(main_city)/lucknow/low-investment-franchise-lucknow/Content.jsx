@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "The Buyzaar Mart - Low Investment Franchise in Lucknow",
   description:
-<<<<<<< HEAD
-    "Explore a low investment franchise opportunity in Lucknow with The Buyzaar Mart. Start a Mini Mart from 18.5 under the FOCM model with store setup, branding, POS technology, inventory support, staff training, and marketing assistance.",
-=======
     "Explore a low investment franchise opportunity in Lucknow with The Buyzaar Mart. Start a Mini Mart from 18.5 Lakh under the FOCM model with store setup, branding, POS technology, inventory support, staff training, and marketing assistance.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/lucknow/low-investment-franchise-lucknow",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -35,11 +32,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-<<<<<<< HEAD
-          "Entry-level neighbourhood retail franchise format in Lucknow starting from 18.5 under the FOCM model.",
-=======
           "Entry-level neighbourhood retail franchise format in Lucknow starting from 18.5 Lakh under the FOCM model.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -66,20 +60,14 @@ const faqSchema = {
       name: "What is the minimum investment for a franchise with The Buyzaar Mart in Lucknow?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from 18.5 for the Mini Mart format under the FOCM (Franchise Owned, Company Managed) model.",
-=======
         text: "The minimum investment starts from 18.5 Lakh for the Mini Mart format under the FOCM (Franchise Owned, Company Managed) model.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
       "@type": "Question",
-<<<<<<< HEAD
-      name: "What does the 18.5 investment cover?",
-=======
       name: "What does the 18.5 Lakh investment cover?",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       acceptedAnswer: {
         "@type": "Answer",
         text: "It covers complete store setup including interior design, branding, fixtures, POS technology, and opening stock. The company manages operations after setup under the FOCM model.",
@@ -182,11 +170,8 @@ const Content = () => {
             <p>
               The Buyzaar Mart has been built to make this opportunity
               accessible to everyday investors in cities like Lucknow. With
-<<<<<<< HEAD
-              franchise investments starting from 18.5 and a complete
-=======
               franchise investments starting from 18.5 Lakh and a complete
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               company-managed operating model, the brand offers a path to owning
               a professionally run neighbourhood store without requiring prior
               retail experience or very high starting capital.
@@ -278,11 +263,8 @@ const Content = () => {
               The FOCM agreement typically runs for 5 years, with renewal based
               on agreed performance criteria. This model is available across
               Mini Mart, Super Mart, and Hyper Mart formats, with Mini Mart
-<<<<<<< HEAD
-              starting from 18.5.
-=======
               starting from 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </p>
 
             <h3 className="font-medium text-gray-900">
@@ -328,11 +310,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              Starting from 18.5 under the FOCM model, the Mini Mart is one
-=======
               Starting from 18.5 Lakh under the FOCM model, the Mini Mart is one
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               of the more affordable branded franchise concepts available in
               Lucknow today. Compared with many food, education, or service
               franchise categories, it offers a lower barrier to entry while
@@ -463,22 +442,16 @@ const Content = () => {
                   Buyzaar Mart in Lucknow?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment starts from 18.5 for the Mini Mart
-=======
                   The minimum investment starts from 18.5 Lakh for the Mini Mart
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   format under the FOCM model.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-medium text-gray-900">
-<<<<<<< HEAD
-                  Q2. What does the 18.5 investment cover?
-=======
                   Q2. What does the 18.5 Lakh investment cover?
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </h3>
                 <p className="mt-2">
                   It covers store setup including interior design, branding,

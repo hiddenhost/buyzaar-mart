@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Franchise Contact Rampur | Apply Now",
   description:
-<<<<<<< HEAD
-    "Contact the Buyzaar Mart franchise team for Rampur. Call +91 9217991727, email or apply online. Total investment from 18.5 with full support.",
-=======
     "Contact the Buyzaar Mart franchise team for Rampur. Call +91 9217991727, email or apply online. Total investment from 18.5 Lakh with full support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "buyzaar mart franchise contact rampur",
     "buyzaar mart franchise rampur",
@@ -42,11 +39,8 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Franchise Contact Rampur | Apply Now",
     description:
-<<<<<<< HEAD
-      "Contact the Buyzaar Mart franchise team for Rampur. Call +91 9217991727, email or apply online. Total investment from 18.5 with full support.",
-=======
       "Contact the Buyzaar Mart franchise team for Rampur. Call +91 9217991727, email or apply online. Total investment from 18.5 Lakh with full support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/rampur/buyzaar-mart-franchise-contact-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,11 +58,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Franchise Contact Rampur | Apply Now",
     description:
-<<<<<<< HEAD
-      "Contact the Buyzaar Mart franchise team for Rampur. Call +91 9217991727, email or apply online. Total investment from 18.5 with full support.",
-=======
       "Contact the Buyzaar Mart franchise team for Rampur. Call +91 9217991727, email or apply online. Total investment from 18.5 Lakh with full support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

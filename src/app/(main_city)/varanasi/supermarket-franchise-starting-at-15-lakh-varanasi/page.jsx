@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Supermarket Franchise Starting at 18.5 lakh in Varanasi | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
-=======
     "Start your own supermarket franchise in Varanasi at an investment of just 18.5 Lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "supermarket franchise starting at 18.5 lakh Varanasi",
     "low investment supermarket franchise",
@@ -27,11 +24,8 @@ export const metadata = {
   openGraph: {
     title: "Supermarket Franchise Starting at 18.5 lakh in Varanasi | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
-=======
       "Start your own supermarket franchise in Varanasi at an investment of just 18.5 Lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/varanasi/supermarket-franchise-starting-at-15-lakh-varanasi",
     siteName: "The Buyzaar Mart",
     images: [
@@ -49,11 +43,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Supermarket Franchise Starting at 18.5 lakh in Varanasi | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start your own supermarket franchise in Varanasi at an investment of just 18.5 with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
-=======
       "Start your own supermarket franchise in Varanasi at an investment of just 18.5 Lakh with Buyzaar Mart. Explore store formats, benefits, and ROI details.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -7,11 +7,8 @@ export const metadata = {
   title:
     "Franchise Store Revenue Kanpur | Mini Mart & Super Mart | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5.",
-=======
     "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/franchise-store-revenue-kanpur",
@@ -20,11 +17,8 @@ export const metadata = {
     title:
       "Franchise Store Revenue Kanpur | Mini Mart & Super Mart | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5.",
-=======
       "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/kanpur/franchise-store-revenue-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -43,11 +37,8 @@ export const metadata = {
     title:
       "Franchise Store Revenue Kanpur | Mini Mart & Super Mart | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5.",
-=======
       "Discover real franchise store revenue potential in Kanpur with The Buyzaar Mart. Compare Mini Mart and Super Mart formats under FOCM and FOCO models. Start from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

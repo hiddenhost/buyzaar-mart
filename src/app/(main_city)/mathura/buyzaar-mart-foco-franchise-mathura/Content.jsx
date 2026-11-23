@@ -6,11 +6,8 @@ const pageTitle =
   "Buyzaar Mart FOCO Franchise in Mathura | Company-Operated Retail Model";
 
 const pageDescription =
-<<<<<<< HEAD
-  "Invest in a Buyzaar Mart FOCO franchise in Mathura — company-operated retail model, low involvement, 18.5 investment, and full operational support.";
-=======
   "Invest in a Buyzaar Mart FOCO franchise in Mathura — company-operated retail model, low involvement, 18.5 Lakh investment, and full operational support.";
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
 
 const pageKeywords =
   "Buyzaar Mart FOCO franchise Mathura, FOCO franchise model India, franchise owned company operated Mathura, grocery FOCO franchise Mathura, passive retail investment Mathura, low involvement franchise Mathura, Buyzaar Mart FOCO investment, supermarket FOCO franchise, FOCO vs FOCM franchise, company operated grocery store Mathura, retail investment for professionals Mathura, NRI franchise investment Mathura, grocery franchise passive income Mathura, FOCO franchise eligibility Mathura, Buyzaar Mart FOCO profit sharing, franchise without daily management Mathura, supermarket investment model Mathura, FOCO franchise application process, grocery franchise ROI Mathura, Buyzaar Mart company operated model, FOCO retail franchise Uttar Pradesh";
@@ -49,11 +46,8 @@ const contentSections = [
   {
     title: "Investment Required for a FOCO Franchise in Mathura",
     points: [
-<<<<<<< HEAD
-      "Minimum investment for a Buyzaar Mart FOCO franchise in Mathura starts from 18.5 onwards, depending on the store format selected.",
-=======
       "Minimum investment for a Buyzaar Mart FOCO franchise in Mathura starts from 18.5 Lakh onwards, depending on the store format selected.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       "Investment components typically include stock, interior setup, POS or software fee, franchise fee inclusive of 18% GST, and a refundable security deposit.",
       "Since the company handles staffing and daily operations, a portion of the investment may also account for operational management costs specific to the FOCO arrangement.",
       "Franchise partners can use the brand&apos;s online investment calculator to get a store-specific cost estimate before applying.",
@@ -178,11 +172,8 @@ const faqs = [
   {
     question: "What is the minimum investment for a FOCO franchise in Mathura?",
     answer:
-<<<<<<< HEAD
-      "The minimum investment starts from 18.5 onwards, depending on the selected store format, property size, and location.",
-=======
       "The minimum investment starts from 18.5 Lakh onwards, depending on the selected store format, property size, and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   },
   {
     question: "Who is the FOCO model best suited for?",
@@ -350,11 +341,8 @@ const Content = () => {
                 </li>
 
                 <li>
-<<<<<<< HEAD
-                  Start with an investment from 18.5 onwards, depending on
-=======
                   Start with an investment from 18.5 Lakh onwards, depending on
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   the selected Mini Mart, Super Mart, or Hyper Mart format.
                 </li>
 

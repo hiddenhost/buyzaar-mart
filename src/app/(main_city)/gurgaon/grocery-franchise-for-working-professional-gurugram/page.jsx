@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise for Working Professionals in Gurugram | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5. Apply now!",
-=======
     "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5 Lakh. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "grocery franchise for working professionals Gurugram",
     "Buyzaar Mart Gurugram",
@@ -30,11 +27,8 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise for Working Professionals in Gurugram | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5. Apply now!",
-=======
       "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5 Lakh. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gurgaon/grocery-franchise-for-working-professional-gurugram",
     siteName: "The Buyzaar Mart",
     images: [
@@ -52,11 +46,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise for Working Professionals in Gurugram | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5. Apply now!",
-=======
       "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5 Lakh. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

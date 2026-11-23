@@ -68,11 +68,8 @@ const faqSchema = {
       name: "What is the minimum investment needed to start?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "A Mini Mart franchise under the FOCM model starts from approximately 18.5.",
-=======
         text: "A Mini Mart franchise under the FOCM model starts from approximately 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -177,11 +174,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>No prior retail experience required: The Buyzaar Mart&apos;s training and operational support are designed specifically so that first-time entrepreneurs can start confidently.</li>
-<<<<<<< HEAD
-              <li>Minimum capital availability: You should be able to arrange the starting investment for your chosen format, beginning at approximately 18.5 for a Mini Mart under the FOCM model.</li>
-=======
               <li>Minimum capital availability: You should be able to arrange the starting investment for your chosen format, beginning at approximately 18.5 Lakh for a Mini Mart under the FOCM model.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Access to a suitable commercial space: Whether owned or leasable, you&apos;ll need a location in Moradabad that can be evaluated for the store format you&apos;re planning — residential colony frontage for a Mini Mart, or a busier commercial stretch for a Super Mart or Hyper Mart.</li>
               <li>Willingness to follow brand standards: Since store layout, branding, product mix, and pricing follow The Buyzaar Mart&apos;s system-wide standards, applicants should be comfortable operating within a structured brand framework rather than fully independent decision-making.</li>
               <li>Basic financial documentation readiness: Having your identity, address, and financial documents in order in advance speeds up the KYC stage significantly once your application moves forward.</li>
@@ -261,11 +255,8 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>Mini Mart (600–1,000 sq. ft.): Starting from approximately 18.5 to ₹20 lakh, covering store setup, opening inventory, POS deployment, and launch support — the most accessible starting point for new franchise owners.</li>
-=======
               <li>Mini Mart (600–1,000 sq. ft.): Starting from approximately 18.5 Lakh to ₹20 lakh, covering store setup, opening inventory, POS deployment, and launch support — the most accessible starting point for new franchise owners.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Super Mart (1,001–3,000 sq. ft.): A mid-tier investment suited to busier residential-commercial locations, offering a broader product range than a Mini Mart.</li>
               <li>Whichever format you start with, the underlying process — inquiry, evaluation, documentation, setup, and launch — remains largely the same, only scaling in complexity with store size.</li>
             </ul>
@@ -318,11 +309,8 @@ const Content = () => {
                   What is the minimum investment needed to start?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  A Mini Mart franchise under the FOCM model starts from approximately 18.5.
-=======
                   A Mini Mart franchise under the FOCM model starts from approximately 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

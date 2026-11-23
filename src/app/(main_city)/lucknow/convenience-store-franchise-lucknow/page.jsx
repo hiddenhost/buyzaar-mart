@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Convenience Store Franchise Lucknow | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start your own convenience store franchise in Lucknow with The Buyzaar Mart. Low investment starting 18.5, FOCM model, full setup support, POS system & supply chain. Apply now!",
-=======
     "Start your own convenience store franchise in Lucknow with The Buyzaar Mart. Low investment starting 18.5 Lakh, FOCM model, full setup support, POS system & supply chain. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-lucknow",
@@ -18,11 +15,8 @@ export const metadata = {
   openGraph: {
     title: "Convenience Store Franchise Lucknow | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start your own convenience store franchise in Lucknow with The Buyzaar Mart. Low investment starting 18.5, FOCM model, full setup support, POS system & supply chain. Apply now!",
-=======
       "Start your own convenience store franchise in Lucknow with The Buyzaar Mart. Low investment starting 18.5 Lakh, FOCM model, full setup support, POS system & supply chain. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/lucknow/convenience-store-franchise-lucknow",
     siteName: "The Buyzaar Mart",
     images: [
@@ -40,11 +34,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Convenience Store Franchise Lucknow | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start your own convenience store franchise in Lucknow with The Buyzaar Mart. Low investment starting 18.5, FOCM model, full setup support, POS system & supply chain. Apply now!",
-=======
       "Start your own convenience store franchise in Lucknow with The Buyzaar Mart. Low investment starting 18.5 Lakh, FOCM model, full setup support, POS system & supply chain. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

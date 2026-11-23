@@ -4,15 +4,10 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-<<<<<<< HEAD
-  title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
-  description:
-    "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5, FOCM/FOCO models, POS billing and full launch support. Apply now.",
-=======
   title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5 Lakh",
   description:
     "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5 Lakh, FOCM/FOCO models, POS billing and full launch support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "Buyzaar Mart franchise apply Gorakhpur",
     "Buyzaar Mart franchise Gorakhpur",
@@ -42,15 +37,10 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-apply-gorakhpur",
   },
   openGraph: {
-<<<<<<< HEAD
-    title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
-    description:
-      "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5, FOCM/FOCO models, POS billing and full launch support. Apply now.",
-=======
     title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5 Lakh",
     description:
       "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5 Lakh, FOCM/FOCO models, POS billing and full launch support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-franchise-apply-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -58,11 +48,8 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-<<<<<<< HEAD
-        alt: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
-=======
         alt: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     ],
     locale: "en_IN",
@@ -70,15 +57,10 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-<<<<<<< HEAD
-    title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5",
-    description:
-      "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5, FOCM/FOCO models, POS billing and full launch support. Apply now.",
-=======
     title: "Buyzaar Mart Franchise Apply Gorakhpur | From 18.5 Lakh",
     description:
       "Apply for a Buyzaar Mart franchise in Gorakhpur. Investment from 18.5 Lakh, FOCM/FOCO models, POS billing and full launch support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

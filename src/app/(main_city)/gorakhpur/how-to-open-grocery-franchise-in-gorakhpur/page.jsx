@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Open Grocery Franchise in Gorakhpur | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Want to open a grocery franchise in Gorakhpur? Learn cost, FSSAI and GST needs, store formats and setup steps with The Buyzaar Mart. From 18.5.",
-=======
     "Want to open a grocery franchise in Gorakhpur? Learn cost, FSSAI and GST needs, store formats and setup steps with The Buyzaar Mart. From 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "how to open grocery franchise in gorakhpur",
     "grocery franchise in gorakhpur",
@@ -42,11 +39,8 @@ export const metadata = {
   openGraph: {
     title: "How to Open Grocery Franchise in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Want to open a grocery franchise in Gorakhpur? Learn cost, FSSAI and GST needs, store formats and setup steps with The Buyzaar Mart. From 18.5.",
-=======
       "Want to open a grocery franchise in Gorakhpur? Learn cost, FSSAI and GST needs, store formats and setup steps with The Buyzaar Mart. From 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-open-grocery-franchise-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,11 +58,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Open Grocery Franchise in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Want to open a grocery franchise in Gorakhpur? Learn cost, FSSAI and GST needs, store formats and setup steps with The Buyzaar Mart. From 18.5.",
-=======
       "Want to open a grocery franchise in Gorakhpur? Learn cost, FSSAI and GST needs, store formats and setup steps with The Buyzaar Mart. From 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

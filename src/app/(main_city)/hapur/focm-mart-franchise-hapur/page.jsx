@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Mart Franchise in Hapur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start a FOCM mart franchise in Hapur with The Buyzaar Mart. Own your mart, company manages systems. Total investment from 18.5. Apply now.",
-=======
     "Start a FOCM mart franchise in Hapur with The Buyzaar Mart. Own your mart, company manages systems. Total investment from 18.5 Lakh. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "FOCM mart franchise Hapur",
     "FOCM franchise Hapur",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "FOCM Mart Franchise in Hapur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a FOCM mart franchise in Hapur with The Buyzaar Mart. Own your mart, company manages systems. Total investment from 18.5. Apply now.",
-=======
       "Start a FOCM mart franchise in Hapur with The Buyzaar Mart. Own your mart, company manages systems. Total investment from 18.5 Lakh. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/hapur/focm-mart-franchise-hapur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Mart Franchise in Hapur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a FOCM mart franchise in Hapur with The Buyzaar Mart. Own your mart, company manages systems. Total investment from 18.5. Apply now.",
-=======
       "Start a FOCM mart franchise in Hapur with The Buyzaar Mart. Own your mart, company manages systems. Total investment from 18.5 Lakh. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Best Mart Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Looking for the best mart franchise in Bulandshahr? Open a Buyzaar Mart with total investment from 18.5, POS billing, training and full launch support.",
-=======
     "Looking for the best mart franchise in Bulandshahr? Open a Buyzaar Mart with total investment from 18.5 Lakh, POS billing, training and full launch support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "best mart franchise Bulandshahr",
     "best mart franchise in Bulandshahr",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "Best Mart Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Looking for the best mart franchise in Bulandshahr? Open a Buyzaar Mart with total investment from 18.5, POS billing, training and full launch support.",
-=======
       "Looking for the best mart franchise in Bulandshahr? Open a Buyzaar Mart with total investment from 18.5 Lakh, POS billing, training and full launch support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/bulandshahr/best-mart-franchise-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Best Mart Franchise in Bulandshahr | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Looking for the best mart franchise in Bulandshahr? Open a Buyzaar Mart with total investment from 18.5, POS billing, training and full launch support.",
-=======
       "Looking for the best mart franchise in Bulandshahr? Open a Buyzaar Mart with total investment from 18.5 Lakh, POS billing, training and full launch support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

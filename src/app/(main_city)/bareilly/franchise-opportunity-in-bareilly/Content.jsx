@@ -31,11 +31,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-<<<<<<< HEAD
-          "Neighbourhood retail format for 600 to 1000 square feet starting from approximately 18.5",
-=======
           "Neighbourhood retail format for 600 to 1000 square feet starting from approximately 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -62,11 +59,8 @@ const faqSchema = {
       name: "What is the minimum investment for The Buyzaar Mart franchise opportunity in Bareilly?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from approximately 18.5 for the Mini Mart format covering franchise fee, refundable security deposit, interior setup, POS software, and opening stock.",
-=======
         text: "The minimum investment starts from approximately 18.5 Lakh for the Mini Mart format covering franchise fee, refundable security deposit, interior setup, POS software, and opening stock.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -164,11 +158,8 @@ const Content = () => {
               The Buyzaar Mart is a fast-growing, tech-enabled neighbourhood
               supermarket franchise brand from Noida that presents a retail
               franchise opportunity in Bareilly through a FOCM model, an entry
-<<<<<<< HEAD
-              investment starting around 18.5, partnerships with 50+ FMCG
-=======
               investment starting around 18.5 Lakh, partnerships with 50+ FMCG
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               brands, and an end-to-end support ecosystem.
             </p>
 
@@ -356,11 +347,8 @@ const Content = () => {
               The Mini Mart is the most accessible entry point for first-time
               franchise investors in Bareilly. Compact and efficient, it is
               designed for residential neighbourhood catchments and starts from
-<<<<<<< HEAD
-              approximately 18.5.
-=======
               approximately 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </p>
 
             <h3 className="font-medium text-gray-900">
@@ -558,11 +546,8 @@ const Content = () => {
                   franchise opportunity in Bareilly?
                 </h3>
                 <p className="mt-2 text-gray-700">
-<<<<<<< HEAD
-                  The minimum investment starts from approximately 18.5 for
-=======
                   The minimum investment starts from approximately 18.5 Lakh for
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   the Mini Mart format, covering franchise fee, refundable
                   security deposit, interior setup, POS software, and opening
                   stock.

@@ -5,11 +5,8 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const pageTitle = "How to Open Mart Franchise in Gorakhpur | Buyzaar Mart";
 
 const pageDescription =
-<<<<<<< HEAD
-  "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5, FOCM model, POS and full support. Apply now.";
-=======
   "Learn how to open a supermarket franchise in Gorakhpur with The Buyzaar Mart. Investment from 18.5 Lakh, FOCM model, POS and full support. Apply now.";
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
 
 const contentSections = [
   {
@@ -60,11 +57,8 @@ const contentSections = [
   {
     title: "Investment Required to Open a Buyzaar Mart in Gorakhpur",
     points: [
-<<<<<<< HEAD
-      "The Buyzaar Mart franchise starts from around 18.5, and the exact amount depends on the selected store size and format.",
-=======
       "The Buyzaar Mart franchise starts from around 18.5 Lakh, and the exact amount depends on the selected store size and format.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       "The investment covers opening stock, interior and fit-out, software fee, franchise fee inclusive of 18% GST, and a security deposit.",
       "For a Mini Mart, a planning range of approximately ₹18.5 to ₹26 Lakh can be used as an estimate, based on area and interior choices.",
       "Super Mart and Hyper Mart costs are higher and scale with store area, so treat any figure as an estimate until the franchise team confirms it.",
@@ -161,11 +155,8 @@ const faqs = [
   {
     question: "How much does it cost to open a mart franchise in Gorakhpur?",
     answer:
-<<<<<<< HEAD
-      "The Buyzaar Mart franchise starts from around 18.5, depending on the selected store size and format. Shop rent is separate from the franchise investment.",
-=======
       "The Buyzaar Mart franchise starts from around 18.5 Lakh, depending on the selected store size and format. Shop rent is separate from the franchise investment.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   },
   {
     question: "Which store formats are available?",
@@ -363,11 +354,8 @@ const Content = () => {
                 </li>
 
                 <li>
-<<<<<<< HEAD
-                  Begin with an investment from around 18.5 onwards,
-=======
                   Begin with an investment from around 18.5 Lakh onwards,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   depending on the selected store format, property size, setup
                   requirements, and opening-stock plan.
                 </li>

@@ -46,11 +46,8 @@ export default function FAQPage() {
       faqs: [
         {
           question: "How Much Money Do I need to Start a The Buyzaar Mart?",
-<<<<<<< HEAD
-          answer: "Your total investment might range between 18.5s to ₹20 lakhs, to start a TThe Buyzaar Mart Mini Store (600-1000 sq ft). However, the total investment required is also dependent on store size and arrangement, location, and the amount of work to be done in it."
-=======
           answer: "Your total investment might range between 18.5 Lakhs to ₹20 lakhs, to start a TThe Buyzaar Mart Mini Store (600-1000 sq ft). However, the total investment required is also dependent on store size and arrangement, location, and the amount of work to be done in it."
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
         },
         {
           question: "How much Space is needed for a The Buyzaar Mart Franchise?",

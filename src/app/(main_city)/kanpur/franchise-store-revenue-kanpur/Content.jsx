@@ -66,11 +66,8 @@ const faqSchema = {
       name: "What is the difference in investment between Mini Mart and Super Mart formats?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Mini Mart generally starts from 18.5 and may go higher depending on size and locality. Larger formats such as Super Mart require significantly higher investment based on area, setup, stock, and operating model.",
-=======
         text: "Mini Mart generally starts from 18.5 Lakh and may go higher depending on size and locality. Larger formats such as Super Mart require significantly higher investment based on area, setup, stock, and operating model.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -511,11 +508,8 @@ const Content = () => {
                   Super Mart formats?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  A Mini Mart usually starts from 18.5 and can increase
-=======
                   A Mini Mart usually starts from 18.5 Lakh and can increase
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   depending on size and locality. A larger format such as Super
                   Mart requires significantly higher capital based on area,
                   setup, stock depth, and the chosen operating model.

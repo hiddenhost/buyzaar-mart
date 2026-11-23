@@ -90,11 +90,7 @@ const faqSchema = {
       name: "What is the investment needed to open a Buyzaar Mart in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Franchise investment starts from around 18.5, depending on the format and business model chosen.",
-=======
         text: "Franchise investment starts from around 18.5 Lakh, depending on the format and business model chosen.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -271,11 +267,7 @@ const Content = () => {
             </h2>
 
             <p>
-<<<<<<< HEAD
-              Franchise opportunities in Kanpur start from 18.5, depending on the format and business model.
-=======
               Franchise opportunities in Kanpur start from 18.5 Lakh, depending on the format and business model.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <p>
@@ -413,11 +405,7 @@ const Content = () => {
                   Q5. What is the investment needed to open a Buyzaar Mart in Kanpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Franchise investment starts from around 18.5, depending on the format and business model chosen.
-=======
                   Franchise investment starts from around 18.5 Lakh, depending on the format and business model chosen.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                 </p>
               </div>
 

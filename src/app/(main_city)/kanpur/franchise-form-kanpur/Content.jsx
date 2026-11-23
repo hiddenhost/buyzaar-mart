@@ -7,11 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Form Kanpur — The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Fill the franchise form for Kanpur and start your journey with The Buyzaar Mart. Explore Mini Mart, Super Mart, and Hyper Mart formats, investment from 18.5, and full operational support.",
-=======
     "Fill the franchise form for Kanpur and start your journey with The Buyzaar Mart. Explore Mini Mart, Super Mart, and Hyper Mart formats, investment from 18.5 Lakh, and full operational support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/franchise-form-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -54,11 +50,7 @@ const faqSchema = {
       name: "What is the minimum investment to start after filling the franchise form?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment starts from approximately 18.5 for a Mini Mart format and increases based on the store size and model chosen.",
-=======
         text: "Investment starts from approximately 18.5 Lakh for a Mini Mart format and increases based on the store size and model chosen.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {
@@ -487,11 +479,7 @@ const Content = () => {
                   franchise form?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment starts from approximately 18.5 for a Mini Mart
-=======
                   Investment starts from approximately 18.5 Lakh for a Mini Mart
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
                   format and increases based on store size and model chosen.
                 </p>
               </div>

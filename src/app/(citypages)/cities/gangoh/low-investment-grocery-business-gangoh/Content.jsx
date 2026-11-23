@@ -110,11 +110,8 @@ const Content = () => {
             <ul className="list-disc list-inside ml-4 space-y-1 mb-4">
               <li><strong>Store Size:</strong> 600-1,000 sq. ft.</li>
               <li><strong>Best For:</strong> Residential neighborhoods, colony markets</li>
-<<<<<<< HEAD
-              <li><strong>Investment Range:</strong> Starting from 18.5s</li>
-=======
               <li><strong>Investment Range:</strong> Starting from 18.5 Lakhs</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li><strong>Ideal For:</strong> First-time entrepreneurs</li>
             </ul>
 
@@ -247,13 +244,9 @@ const Content = () => {
                   Gangoh with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The Buyzaar Mart offers a Mini Mart format starting from approximately 
-                  18.5s, making it one of the most accessible low investment grocery 
-=======
                   The Buyzaar Mart offers a Mini Mart format starting from approximately
                   18.5 Lakhs, making it one of the most accessible low investment grocery
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   franchise opportunities available in semi-urban markets like Gangoh.
                 </p>
               </div>

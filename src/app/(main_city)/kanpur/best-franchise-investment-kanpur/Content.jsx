@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Best Franchise Investment in Kanpur 2025 - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore why The Buyzaar Mart is one of the best franchise investments in Kanpur in 2025. Learn about the FOCM model, investment from 18.5, company support, and grocery retail growth potential.",
-=======
     "Explore why The Buyzaar Mart is one of the best franchise investments in Kanpur in 2025. Learn about the FOCM model, investment from 18.5 Lakh, company support, and grocery retail growth potential.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -54,11 +51,8 @@ const faqSchema = {
       name: "What is the minimum investment required to open a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The franchise investment starts from 18.5. The exact investment depends on the chosen store format such as Mini Mart, Super Mart, or Hyper Mart.",
-=======
         text: "The franchise investment starts from 18.5 Lakh. The exact investment depends on the chosen store format such as Mini Mart, Super Mart, or Hyper Mart.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -284,11 +278,8 @@ const Content = () => {
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
                 <strong>Low investment, high potential:</strong> Starting from
-<<<<<<< HEAD
-                18.5, the entry point is lower than many larger branded
-=======
                 18.5 Lakh, the entry point is lower than many larger branded
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 supermarket formats.
               </li>
               <li>
@@ -459,11 +450,8 @@ const Content = () => {
                   franchise in Kanpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The franchise investment starts from 18.5. The final
-=======
                   The franchise investment starts from 18.5 Lakh. The final
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   amount depends on the selected format, such as Mini Mart,
                   Super Mart, or Hyper Mart.
                 </p>

@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Buyzaar Mart Partner in Gurugram | Franchise Partnership Opportunity",
   description:
-<<<<<<< HEAD
-    "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from 18.5. Apply for franchise partnership today.",
-=======
     "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from 18.5 Lakh. Apply for franchise partnership today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "buyzaar mart partner gurugram",
     "become a Buyzaar Mart franchise partner",
@@ -50,11 +47,8 @@ export const metadata = {
   openGraph: {
     title: "Buyzaar Mart Partner in Gurugram | Franchise Partnership Opportunity",
     description:
-<<<<<<< HEAD
-      "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from 18.5. Apply for franchise partnership today.",
-=======
       "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from 18.5 Lakh. Apply for franchise partnership today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gurgaon/buyzaar-mart-partner-gurugram",
     siteName: "The Buyzaar Mart",
     images: [
@@ -72,11 +66,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Buyzaar Mart Partner in Gurugram | Franchise Partnership Opportunity",
     description:
-<<<<<<< HEAD
-      "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from 18.5. Apply for franchise partnership today.",
-=======
       "Become a Buyzaar Mart partner in Gurugram. FOCM model, FSSAI-licensed daily needs retail, investment from 18.5 Lakh. Apply for franchise partnership today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -60,11 +60,8 @@ const faqSchema = {
       name: "What is the total investment for a grocery franchise in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "A Mini Mart of 600-1000 sq ft needs about 18.5 to ₹20 lakh in total, and larger formats cost more.",
-=======
         text: "A Mini Mart of 600-1000 sq ft needs about 18.5 Lakh to ₹20 lakh in total, and larger formats cost more.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -233,11 +230,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                The total investment for a Buyzaar Mart Mini Mart franchise (600-1000 sq ft) is about 18.5 to ₹20 lakh.
-=======
                 The total investment for a Buyzaar Mart Mini Mart franchise (600-1000 sq ft) is about 18.5 Lakh to ₹20 lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The final amount depends on store size, layout, location and the format you choose, and Super Mart and Hyper Mart formats need a higher total.
@@ -680,11 +674,8 @@ const Content = () => {
                   What is the total investment for a grocery franchise in Rampur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  A Mini Mart of 600-1000 sq ft needs about 18.5 to ₹20 lakh in total, and larger formats cost more.
-=======
                   A Mini Mart of 600-1000 sq ft needs about 18.5 Lakh to ₹20 lakh in total, and larger formats cost more.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

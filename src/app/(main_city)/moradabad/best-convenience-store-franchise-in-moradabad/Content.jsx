@@ -68,11 +68,8 @@ const faqSchema = {
       name: "What is the total investment required for this convenience store franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment typically ranges from approximately 18.5 to ₹22 lakh, depending on store size, location, and fit-out condition.",
-=======
         text: "Investment typically ranges from approximately 18.5 Lakh to ₹22 lakh, depending on store size, location, and fit-out condition.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -197,11 +194,8 @@ const Content = () => {
 
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>The total investment for a Mini Mart convenience store franchise in Moradabad typically starts from approximately 18.5 and extends up to around ₹22 lakh, depending on the exact store size, location, and fit-out condition of the chosen commercial premises.</li>
-=======
               <li>The total investment for a Mini Mart convenience store franchise in Moradabad typically starts from approximately 18.5 Lakh and extends up to around ₹22 lakh, depending on the exact store size, location, and fit-out condition of the chosen commercial premises.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>This investment covers interior setup including shelving, display units, lighting, flooring, and branded signage, along with the POS technology needed for fast, efficient billing, an especially important factor for a convenience store where quick checkout directly affects the customer experience that defines this format.</li>
               <li>Opening stock investment is calibrated specifically to the convenience store model, focusing capital on the highest-turnover categories rather than spreading investment thin across an unnecessarily broad product range, which keeps the initial inventory cost proportionate to what the format actually needs to succeed.</li>
               <li>A minimum carpet area of 600 square feet is required for the Mini Mart format, and prospective franchisees evaluating potential Moradabad locations should keep this baseline in mind when assessing commercial spaces in their target neighborhood.</li>
@@ -314,11 +308,8 @@ const Content = () => {
                   What is the total investment required for this convenience store franchise?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment typically ranges from approximately 18.5 to ₹22 lakh, depending on store size, location, and fit-out condition.
-=======
                   Investment typically ranges from approximately 18.5 Lakh to ₹22 lakh, depending on store size, location, and fit-out condition.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

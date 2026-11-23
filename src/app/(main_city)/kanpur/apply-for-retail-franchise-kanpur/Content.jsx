@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Retail Franchise in Kanpur - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore retail franchise opportunities in Kanpur with The Buyzaar Mart. Learn about FOCM and FOCO models, store formats, investment from 18.5, company support, and how to apply.",
-=======
     "Explore retail franchise opportunities in Kanpur with The Buyzaar Mart. Learn about FOCM and FOCO models, store formats, investment from 18.5 Lakh, company support, and how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -38,11 +35,8 @@ const faqSchema = {
       name: "What is the minimum investment required to apply for a retail franchise in Kanpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from 18.5 under the FOCM (Franchise Owned, Company Managed) model.",
-=======
         text: "The minimum investment starts from 18.5 Lakh under the FOCM (Franchise Owned, Company Managed) model.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -557,11 +551,8 @@ const Content = () => {
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
-<<<<<<< HEAD
-                <strong>Low Entry Investment:</strong> Starting from 18.5,
-=======
                 <strong>Low Entry Investment:</strong> Starting from 18.5 Lakh,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 the FOCM model is accessible to a wider pool of investors
                 compared with many organised retail franchises.
               </li>
@@ -603,11 +594,8 @@ const Content = () => {
                   franchise in Kanpur with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment starts from 18.5 under the FOCM
-=======
                   The minimum investment starts from 18.5 Lakh under the FOCM
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   (Franchise Owned, Company Managed) model.
                 </p>
               </div>

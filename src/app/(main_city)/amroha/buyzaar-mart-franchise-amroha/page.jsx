@@ -5,15 +5,10 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-<<<<<<< HEAD
-    "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5",
-  description:
-    "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5. Apply today.",
-=======
     "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5 Lakh",
   description:
     "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5 Lakh. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "buyzaar mart franchise amroha",
     "buyzaar mart franchise in amroha",
@@ -45,15 +40,10 @@ export const metadata = {
   },
   openGraph: {
     title:
-<<<<<<< HEAD
-      "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5",
-    description:
-      "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5. Apply today.",
-=======
       "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5 Lakh",
     description:
       "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5 Lakh. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -61,11 +51,8 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-<<<<<<< HEAD
-        alt: "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5",
-=======
         alt: "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     ],
     locale: "en_IN",
@@ -74,15 +61,10 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-<<<<<<< HEAD
-      "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5",
-    description:
-      "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5. Apply today.",
-=======
       "Buyzaar Mart Franchise in Amroha | Supermarket Franchise from 18.5 Lakh",
     description:
       "Start a Buyzaar Mart supermarket franchise in Amroha. FOCM and FOCO models, POS, training, inventory assurance and full support. Total investment from 18.5 Lakh. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

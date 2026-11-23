@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Opportunity in Faridabad - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore a profitable mart franchise opportunity in Faridabad with The Buyzaar Mart. Choose FOCM or FOCO models, start from 18.5, and get store setup, POS, backend, inventory, and marketing support.",
-=======
     "Explore a profitable mart franchise opportunity in Faridabad with The Buyzaar Mart. Choose FOCM or FOCO models, start from 18.5 Lakh, and get store setup, POS, backend, inventory, and marketing support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/faridabad/mart-franchise-opportunity-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -38,11 +35,8 @@ const faqSchema = {
       name: "What is the minimum investment required for a Buyzaar Mart franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The starting investment for a Buyzaar Mart franchise is from 18.5. The total investment depends on the store format and size chosen.",
-=======
         text: "The starting investment for a Buyzaar Mart franchise is from 18.5 Lakh. The total investment depends on the store format and size chosen.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -349,11 +343,8 @@ const Content = () => {
 
             <p>
               One of the key attractions of The Buyzaar Mart franchise is its
-<<<<<<< HEAD
-              accessibility. The starting investment is from 18.5, making it
-=======
               accessibility. The starting investment is from 18.5 Lakh, making it
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               one of the more affordable organised supermarket franchise options
               in the NCR region.
             </p>
@@ -481,11 +472,8 @@ const Content = () => {
                   franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The starting investment is from 18.5. Total investment
-=======
                   The starting investment is from 18.5 Lakh. Total investment
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   depends on the store format and size chosen.
                 </p>
               </div>

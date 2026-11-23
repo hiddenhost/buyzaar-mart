@@ -7,11 +7,8 @@ export const metadata = {
   title:
     "Grocery Franchise Bareilly | Start Your Supermarket with The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at 18.5. Full setup, supply chain & ongoing support. Apply now!",
-=======
     "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at 18.5 Lakh. Full setup, supply chain & ongoing support. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/bareilly/grocery-franchise-in-bareilly",
@@ -20,11 +17,8 @@ export const metadata = {
     title:
       "Grocery Franchise Bareilly | Start Your Supermarket with The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at 18.5. Full setup, supply chain & ongoing support. Apply now!",
-=======
       "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at 18.5 Lakh. Full setup, supply chain & ongoing support. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/bareilly/grocery-franchise-in-bareilly",
     siteName: "The Buyzaar Mart",
     images: [
@@ -43,11 +37,8 @@ export const metadata = {
     title:
       "Grocery Franchise Bareilly | Start Your Supermarket with The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at 18.5. Full setup, supply chain & ongoing support. Apply now!",
-=======
       "Looking for a profitable grocery franchise in Bareilly? Partner with The Buyzaar Mart — India's trusted FOCM supermarket franchise starting at 18.5 Lakh. Full setup, supply chain & ongoing support. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

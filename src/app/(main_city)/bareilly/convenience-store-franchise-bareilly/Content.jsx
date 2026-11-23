@@ -31,11 +31,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "MiniMart Franchise",
         description:
-<<<<<<< HEAD
-          "Entry-level neighbourhood store format for 600 to 1000 square feet starting from approximately 18.5",
-=======
           "Entry-level neighbourhood store format for 600 to 1000 square feet starting from approximately 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -257,11 +254,8 @@ const Content = () => {
                 <span className="font-semibold">MiniMart:</span> 600 to 1,000 sq
                 ft. The entry-level format for dense residential neighbourhoods,
                 ideal for high-frequency daily essentials and quick purchases,
-<<<<<<< HEAD
-                with investment starting from approximately 18.5.
-=======
                 with investment starting from approximately 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 <span className="font-semibold">SuperMart:</span> 1,001 to 3,000

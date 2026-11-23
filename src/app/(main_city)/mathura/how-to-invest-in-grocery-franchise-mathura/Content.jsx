@@ -58,11 +58,8 @@ const faqSchema = {
       name: "How much do I need to invest in a grocery franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment starts from 18.5 onwards, depending on the store format chosen.",
-=======
         text: "Investment starts from 18.5 Lakh onwards, depending on the store format chosen.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -221,11 +218,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 Minimum investment for a Buyzaar Mart grocery franchise in
-<<<<<<< HEAD
-                Mathura starts from 18.5 onwards, depending on store format.
-=======
                 Mathura starts from 18.5 Lakh onwards, depending on store format.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 Investment is divided into stock, interior setup, POS/software
@@ -529,11 +523,8 @@ const Content = () => {
                   How much do I need to invest in a grocery franchise in Mathura?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment starts from 18.5 onwards, depending on the
-=======
                   Investment starts from 18.5 Lakh onwards, depending on the
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   store format chosen.
                 </p>
               </div>

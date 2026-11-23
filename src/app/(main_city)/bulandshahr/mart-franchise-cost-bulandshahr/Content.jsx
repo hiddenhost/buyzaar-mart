@@ -34,11 +34,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-<<<<<<< HEAD
-          "A mart franchise format of approximately 600–1,000 sq. ft. with a starting cost of approximately 18.5 to ₹20 lakh.",
-=======
           "A mart franchise format of approximately 600–1,000 sq. ft. with a starting cost of approximately 18.5 Lakh to ₹20 lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -65,11 +62,8 @@ const faqSchema = {
       name: "What is the starting cost for a mart franchise in Bulandshahr?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The Mini Mart format typically starts from approximately 18.5, covering interiors, opening stock, and initial setup essentials.",
-=======
         text: "The Mini Mart format typically starts from approximately 18.5 Lakh, covering interiors, opening stock, and initial setup essentials.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -234,11 +228,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>
                 Mini Mart (approximately 600–1,000 sq. ft.): the most accessible
-<<<<<<< HEAD
-                format, with a starting cost of approximately 18.5 to ₹20
-=======
                 format, with a starting cost of approximately 18.5 Lakh to ₹20
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 lakh, covering interiors, opening stock, and setup essentials.
               </li>
               <li>

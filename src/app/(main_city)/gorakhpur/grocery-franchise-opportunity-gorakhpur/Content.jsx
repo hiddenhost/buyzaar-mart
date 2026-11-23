@@ -5,11 +5,8 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "Grocery Franchise Opportunity Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore a grocery franchise opportunity in Gorakhpur with The Buyzaar Mart. Start from 18.5 with 18–20% gross margin, full setup & support. Apply now!",
-=======
     "Explore a grocery franchise opportunity in Gorakhpur with The Buyzaar Mart. Start from 18.5 Lakh with 18–20% gross margin, full setup & support. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
 };
 
 const localBusinessSchema = {
@@ -69,11 +66,8 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
-<<<<<<< HEAD
-      "A single unit starts from 18.5, depending on format, area, stock and interiors.",
-=======
       "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   },
   {
     question: "Do I need grocery retail experience?",
@@ -126,11 +120,8 @@ const sections = [
       "A grocery franchise opportunity in Gorakhpur lets you enter a daily-demand business with a ready system, instead of building a store brand from zero.",
       "The Buyzaar Mart offers a complete grocery and supermarket franchise with Mini Mart, Super Mart and Hyper Mart formats.",
       "Partners get store setup, supply chain, POS technology, training and marketing support under one franchise agreement.",
-<<<<<<< HEAD
-      "The investment starts from 18.5, and the brand indicates an effective gross margin of 18–20% on sales.",
-=======
       "The investment starts from 18.5 Lakh, and the brand indicates an effective gross margin of 18–20% on sales.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       "No retail experience is needed, which makes this opportunity open to first-time business owners, professionals and investors.",
     ],
   },
@@ -313,11 +304,8 @@ const sections = [
       {
         title: "Investment Structure",
         items: [
-<<<<<<< HEAD
-          "The investment starts from 18.5 for a single unit and depends on the format and area.",
-=======
           "The investment starts from 18.5 Lakh for a single unit and depends on the format and area.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
           "It includes stock, interior, software fee, franchise fee including 18% GST and security deposit.",
           "An investment calculator on the franchise page shows the estimate for your chosen size.",
           "Rent for the premises is paid by the franchise partner.",

@@ -7,11 +7,8 @@ export const metadata = {
   title:
     "Convenience Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
   description:
-<<<<<<< HEAD
-    "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from 18.5, FOCM model, full operational support, POS system & supply chain included. Apply now.",
-=======
     "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from 18.5 Lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/greaternoida/convenience-store-franchise-greater-noida",
@@ -20,11 +17,8 @@ export const metadata = {
     title:
       "Convenience Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
     description:
-<<<<<<< HEAD
-      "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from 18.5, FOCM model, full operational support, POS system & supply chain included. Apply now.",
-=======
       "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from 18.5 Lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/greaternoida/convenience-store-franchise-greater-noida",
     siteName: "The Buyzaar Mart",
     images: [
@@ -43,11 +37,8 @@ export const metadata = {
     title:
       "Convenience Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
     description:
-<<<<<<< HEAD
-      "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from 18.5, FOCM model, full operational support, POS system & supply chain included. Apply now.",
-=======
       "Start your own convenience store franchise in Greater Noida with The Buyzaar Mart. Low investment from 18.5 Lakh, FOCM model, full operational support, POS system & supply chain included. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

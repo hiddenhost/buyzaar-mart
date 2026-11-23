@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Franchise Opportunity in Aligarh | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start a FOCM supermarket franchise in Aligarh with The Buyzaar Mart. Investment from 18.5, 18–20% gross margin, supply chain and full support. Apply now.",
-=======
     "Start a FOCM supermarket franchise in Aligarh with The Buyzaar Mart. Investment from 18.5 Lakh, 18–20% gross margin, supply chain and full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "FOCM franchise opportunity Aligarh",
     "FOCM franchise Aligarh",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "FOCM Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a FOCM supermarket franchise in Aligarh with The Buyzaar Mart. Investment from 18.5, 18–20% gross margin, supply chain and full support. Apply now.",
-=======
       "Start a FOCM supermarket franchise in Aligarh with The Buyzaar Mart. Investment from 18.5 Lakh, 18–20% gross margin, supply chain and full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/aligarh/focm-franchise-opportunity-aligarh",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Franchise Opportunity in Aligarh | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a FOCM supermarket franchise in Aligarh with The Buyzaar Mart. Investment from 18.5, 18–20% gross margin, supply chain and full support. Apply now.",
-=======
       "Start a FOCM supermarket franchise in Aligarh with The Buyzaar Mart. Investment from 18.5 Lakh, 18–20% gross margin, supply chain and full support. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

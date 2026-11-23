@@ -66,11 +66,8 @@ const faqSchema = {
       name: "What is the best format for a first-time investor?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The Mini Mart, starting from approximately 18.5 for a 600–1,000 sq ft store, is generally the most manageable starting point.",
-=======
         text: "The Mini Mart, starting from approximately 18.5 Lakh for a 600–1,000 sq ft store, is generally the most manageable starting point.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -78,11 +75,8 @@ const faqSchema = {
       name: "What is the minimum investment required?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "A Mini Mart typically ranges from 18.5 to ₹20–22 lakh depending on location and fit-out.",
-=======
         text: "A Mini Mart typically ranges from 18.5 Lakh to ₹20–22 lakh depending on location and fit-out.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -257,11 +251,8 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq ft (a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store)
               </li>
               <li>
-<<<<<<< HEAD
-                Investment: Total setup costs typically range from approximately 18.5 to ₹20–22 lakh
-=======
                 Investment: Total setup costs typically range from approximately 18.5 Lakh to ₹20–22 lakh
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 Best for: First-time investors starting small, compact residential lanes, colony markets, and newer possession societies
@@ -318,11 +309,8 @@ const Content = () => {
                 For someone entering retail for the first time, the Mini Mart is generally the most sensible starting format — lower investment, smaller team, and a simpler operational footprint to learn from.
               </li>
               <li>
-<<<<<<< HEAD
-                A Mini Mart franchise typically starts from 18.5, going up to around ₹20–22 lakh for a 600–1,000 sq ft store, depending on location and fit-out condition.
-=======
                 A Mini Mart franchise typically starts from 18.5 Lakh, going up to around ₹20–22 lakh for a 600–1,000 sq ft store, depending on location and fit-out condition.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 Many franchisees start with a Mini Mart, build local trust and operational confidence over the first year, and only then scale up to a Super Mart, Hyper Mart, or additional outlets — rather than committing a large investment on day one without any retail experience.
@@ -496,11 +484,8 @@ const Content = () => {
                   Q2. What is the best format for a first-time investor?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The Mini Mart, starting from approximately 18.5 for a 600–1,000 sq ft store, is generally the most manageable starting point.
-=======
                   The Mini Mart, starting from approximately 18.5 Lakh for a 600–1,000 sq ft store, is generally the most manageable starting point.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
@@ -509,11 +494,8 @@ const Content = () => {
                   Q3. What is the minimum investment required?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  A Mini Mart typically ranges from 18.5 to ₹20–22 lakh depending on location and fit-out.
-=======
                   A Mini Mart typically ranges from 18.5 Lakh to ₹20–22 lakh depending on location and fit-out.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

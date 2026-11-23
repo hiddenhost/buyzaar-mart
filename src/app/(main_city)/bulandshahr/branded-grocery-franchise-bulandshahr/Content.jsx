@@ -74,11 +74,8 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The grocery franchise is presented as starting from around 18.5 in total. The exact amount depends on the store size and format.",
-=======
         text: "The grocery franchise is presented as starting from around 18.5 Lakh in total. The exact amount depends on the store size and format.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -211,11 +208,8 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>Total investment: The Buyzaar Mart presents its grocery franchise as starting from around 18.5 in total. The final figure depends on the store size and format you choose, so request a personalised estimate from the franchise team.</li>
-=======
               <li>Total investment: The Buyzaar Mart presents its grocery franchise as starting from around 18.5 Lakh in total. The final figure depends on the store size and format you choose, so request a personalised estimate from the franchise team.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Earning potential: The brand states an effective gross margin of 18-20%. Your net income will depend on sales volume, rent, staff and other running costs.</li>
               <li>Investment calculator: The franchise page has a tool that estimates the total for Mini Mart, Super Mart or Hyper Mart based on your chosen area. Use it along with a call to the team before you finalise your plan.</li>
             </ul>
@@ -333,11 +327,8 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The grocery franchise is presented as starting from around 18.5 in total. The exact amount depends on the store size and format.
-=======
                   The grocery franchise is presented as starting from around 18.5 Lakh in total. The exact amount depends on the store size and format.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

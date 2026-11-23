@@ -7,11 +7,8 @@ export const metadata = {
   title:
     "Open a Franchise Outlet Kanpur | The Buyzaar Mart Supermarket Franchise",
   description:
-<<<<<<< HEAD
-    "Ready to open a franchise outlet in Kanpur? The Buyzaar Mart offers grocery supermarket franchise opportunities from 18.5 with FOCM & FOCO models, complete store setup, supply chain, POS technology & brand support. Visit thebuyzaarmart.com to get started.",
-=======
     "Ready to open a franchise outlet in Kanpur? The Buyzaar Mart offers grocery supermarket franchise opportunities from 18.5 Lakh with FOCM & FOCO models, complete store setup, supply chain, POS technology & brand support. Visit thebuyzaarmart.com to get started.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   alternates: {
     canonical: "https://www.thebuyzaarmart.com/kanpur/open-franchise-outlet-kanpur",
   },
@@ -19,11 +16,8 @@ export const metadata = {
     title:
       "Open a Franchise Outlet Kanpur | The Buyzaar Mart Supermarket Franchise",
     description:
-<<<<<<< HEAD
-      "Ready to open a franchise outlet in Kanpur? The Buyzaar Mart offers grocery supermarket franchise opportunities from 18.5 with FOCM & FOCO models, complete store setup, supply chain, POS technology & brand support. Visit thebuyzaarmart.com to get started.",
-=======
       "Ready to open a franchise outlet in Kanpur? The Buyzaar Mart offers grocery supermarket franchise opportunities from 18.5 Lakh with FOCM & FOCO models, complete store setup, supply chain, POS technology & brand support. Visit thebuyzaarmart.com to get started.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/kanpur/open-franchise-outlet-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -42,11 +36,8 @@ export const metadata = {
     title:
       "Open a Franchise Outlet Kanpur | The Buyzaar Mart Supermarket Franchise",
     description:
-<<<<<<< HEAD
-      "Ready to open a franchise outlet in Kanpur? The Buyzaar Mart offers grocery supermarket franchise opportunities from 18.5 with FOCM & FOCO models, complete store setup, supply chain, POS technology & brand support. Visit thebuyzaarmart.com to get started.",
-=======
       "Ready to open a franchise outlet in Kanpur? The Buyzaar Mart offers grocery supermarket franchise opportunities from 18.5 Lakh with FOCM & FOCO models, complete store setup, supply chain, POS technology & brand support. Visit thebuyzaarmart.com to get started.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

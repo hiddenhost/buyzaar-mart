@@ -5,11 +5,8 @@ import FranchiseEnquiryForm from "@/app/components/FranchiseEnquiryForm";
 const seoMeta = {
   title: "FOCM Mart Franchise Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from 18.5. Apply today!",
-=======
     "Open a FOCM mart franchise in Gorakhpur with The Buyzaar Mart. You own the store, the company manages it. Start from 18.5 Lakh. Apply today!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
 };
 
 const localBusinessSchema = {
@@ -69,11 +66,8 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
-<<<<<<< HEAD
-      "A single unit starts from 18.5. The final amount depends on format, area, stock and interiors.",
-=======
       "A single unit starts from 18.5 Lakh. The final amount depends on format, area, stock and interiors.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   },
   {
     question: "Do I need retail experience?",
@@ -125,11 +119,8 @@ const sections = [
     items: [
       "Looking for a FOCM mart franchise in Gorakhpur? The Buyzaar Mart lets you invest in a modern neighbourhood grocery and supermarket while the company handles the daily operations.",
       "FOCM means Franchise Owned, Company Managed. The ownership and returns stay with you, and the management stays with our experienced retail team.",
-<<<<<<< HEAD
-      "Investment starts from 18.5, with an effective gross margin of 18–20% on sales.",
-=======
       "Investment starts from 18.5 Lakh, with an effective gross margin of 18–20% on sales.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       "This opportunity suits first-time entrepreneurs, salaried professionals, local business owners and families who want a steady retail income in eastern Uttar Pradesh.",
       "The Buyzaar Mart is FSSAI licensed, GST registered and MSME certified, so you partner with a legally compliant and transparent brand.",
     ],
@@ -271,11 +262,8 @@ const sections = [
       {
         title: "Investment Required",
         items: [
-<<<<<<< HEAD
-          "The investment for a single unit starts from 18.5.",
-=======
           "The investment for a single unit starts from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
           "The final amount depends on the store format and area, and it includes stock, interior, software fee, franchise fee including 18% GST and security deposit.",
           "Use the investment calculator on the franchise page to get an estimate for your chosen format and size.",
           "Rent for the store premises is paid by the franchise partner.",

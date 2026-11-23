@@ -82,11 +82,8 @@ const faqSchema = {
       name: "What is the minimum investment for a FOCO retail store in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment is approximately 18.5 and above for a Mini Mart format. The final amount varies by location and store size.",
-=======
         text: "The minimum investment is approximately 18.5 Lakh and above for a Mini Mart format. The final amount varies by location and store size.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -278,11 +275,8 @@ const Content = () => {
                 bringing established retail experience into a Mathura expansion.
               </li>
               <li>
-<<<<<<< HEAD
-                Franchise investment starts from approximately 18.5, structured
-=======
                 Franchise investment starts from approximately 18.5 Lakh, structured
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 to be accessible for a range of investors rather than requiring
                 institutional-level capital.
               </li>
@@ -580,11 +574,8 @@ const Content = () => {
                   Mathura?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Approximately 18.5 and above for a Mini Mart format, varying
-=======
                   Approximately 18.5 Lakh and above for a Mini Mart format, varying
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   by location and store size.
                 </p>
               </div>

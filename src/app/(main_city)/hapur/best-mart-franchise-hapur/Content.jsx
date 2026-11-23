@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Best Mart Franchise in Hapur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Looking for the best mart franchise in Hapur? Open a Buyzaar Mart with POS billing, supply chain and full support. Total investment from 18.5. Apply now.",
-=======
     "Looking for the best mart franchise in Hapur? Open a Buyzaar Mart with POS billing, supply chain and full support. Total investment from 18.5 Lakh. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/hapur/best-mart-franchise-hapur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -70,11 +67,8 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Total investment starts from 18.5, depending on store format and area.",
-=======
         text: "Total investment starts from 18.5 Lakh, depending on store format and area.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -148,11 +142,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>The Buyzaar Mart, &quot;Your Friendly Neighborhood Store&quot;, offers a mart franchise in Hapur for entrepreneurs who want a branded, tech-enabled supermarket backed by a tested operating model, clear standards and dependable ongoing support.</li>
               <li>A mart franchise works because families need groceries, FMCG and household essentials every week, which gives a well-managed store repeat footfall and steady sales without depending on one season, one festival or one type of customer.</li>
-<<<<<<< HEAD
-              <li>Total investment starts from 18.5, giving aspiring owners an accessible entry into organised retail in Hapur and the wider NCR belt, with the exact total confirmed by the franchise team for your chosen store format and area.</li>
-=======
               <li>Total investment starts from 18.5 Lakh, giving aspiring owners an accessible entry into organised retail in Hapur and the wider NCR belt, with the exact total confirmed by the franchise team for your chosen store format and area.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </ul>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -197,11 +188,8 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>Total investment starts from 18.5, which makes The Buyzaar Mart a low-investment mart franchise compared with many larger supermarket formats that demand far higher capital.</li>
-=======
               <li>Total investment starts from 18.5 Lakh, which makes The Buyzaar Mart a low-investment mart franchise compared with many larger supermarket formats that demand far higher capital.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The final total depends on your store format and area. A Mini Mart, Super Mart and Hyper Mart will each carry a different total, and the franchise team confirms the exact figure after reviewing your Hapur property.</li>
               <li>Use the website investment calculator. You can select a store type and an area between 600 and 8,000 sq ft to see an estimate before you speak with the team, which makes early planning simple.</li>
               <li>Download the brochure for full details. The Franchise page offers a brochure that explains the model clearly, so you can discuss your budget openly and decide with confidence.</li>
@@ -351,11 +339,8 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Total investment starts from 18.5, depending on store format and area.
-=======
                   Total investment starts from 18.5 Lakh, depending on store format and area.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

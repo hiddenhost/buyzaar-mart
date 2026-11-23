@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Opportunity in Mathura | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Open a Mini, Super or Hyper Mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5, earn an 18-20% margin with POS, training and full support.",
-=======
     "Open a Mini, Super or Hyper Mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, training and full support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "mart franchise opportunity Mathura",
     "mart franchise Mathura",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Opportunity in Mathura | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Open a Mini, Super or Hyper Mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5, earn an 18-20% margin with POS, training and full support.",
-=======
       "Open a Mini, Super or Hyper Mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, training and full support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/mathura/mart-franchise-opportunity-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Opportunity in Mathura | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Open a Mini, Super or Hyper Mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5, earn an 18-20% margin with POS, training and full support.",
-=======
       "Open a Mini, Super or Hyper Mart franchise in Mathura with The Buyzaar Mart. Invest from 18.5 Lakh, earn an 18-20% margin with POS, training and full support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

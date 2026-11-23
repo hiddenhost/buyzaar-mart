@@ -8,11 +8,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FMCG Store Franchise in Kanpur - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "FMCG store franchise in Kanpur with The Buyzaar Mart. Start a supermarket and FMCG goods store with 18.5 investment under the FOCM or FOCO model, with inventory assurance, setup support, and hyper-local marketing.",
-=======
     "FMCG store franchise in Kanpur with The Buyzaar Mart. Start a supermarket and FMCG goods store with 18.5 Lakh investment under the FOCM or FOCO model, with inventory assurance, setup support, and hyper-local marketing.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/fmcg-store-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -48,11 +44,7 @@ const faqSchema = {
       name: "What is the minimum investment to open a Buyzaar Mart FMCG franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The investment starts from 18.5. The total cost varies based on store size, location, and the chosen model (FOCM or FOCO), covering store setup, POS technology, initial inventory, franchise fee, and working capital.",
-=======
         text: "The investment starts from 18.5 Lakh. The total cost varies based on store size, location, and the chosen model (FOCM or FOCO), covering store setup, POS technology, initial inventory, franchise fee, and working capital.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
       },
     },
     {

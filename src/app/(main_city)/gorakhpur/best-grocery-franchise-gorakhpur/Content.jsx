@@ -67,11 +67,8 @@ const faqItems = [
   {
     question: "What is the minimum investment?",
     answer:
-<<<<<<< HEAD
-      "A single unit starts from 18.5, depending on format, area, stock and interiors.",
-=======
       "A single unit starts from 18.5 Lakh, depending on format, area, stock and interiors.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   },
   {
     question: "Do I need retail experience?",
@@ -160,11 +157,8 @@ const Content = () => {
               items={[
                 "Many brands now offer grocery and supermarket franchises, so choosing the best grocery franchise in Gorakhpur needs a clear checklist and not just a brand name.",
                 "The right franchise gives you daily demand, a trusted product range, protection from stock loss, simple technology and support after launch.",
-<<<<<<< HEAD
-                "The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart formats, with investment starting from 18.5 and an indicated effective gross margin of 18–20%.",
-=======
                 "The Buyzaar Mart offers Mini Mart, Super Mart and Hyper Mart formats, with investment starting from 18.5 Lakh and an indicated effective gross margin of 18–20%.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 "This guide shows what to compare, what questions to ask any brand, and how The Buyzaar Mart answers them for Gorakhpur investors.",
               ]}
             />
@@ -417,11 +411,8 @@ const Content = () => {
             <BulletList
               section="investment-components"
               items={[
-<<<<<<< HEAD
-                "The investment starts from 18.5 for a single unit and depends on format and area.",
-=======
                 "The investment starts from 18.5 Lakh for a single unit and depends on format and area.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 "It covers stock, interior, software fee, franchise fee including 18% GST and security deposit.",
                 "The investment calculator on the franchise page shows an estimate for your size.",
                 "Rent for the premises is paid by the franchise partner.",

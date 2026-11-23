@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise for Working Professionals in Gurugram | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5. Apply now!",
-=======
     "Own a grocery franchise in Gurugram as a working professional. Buyzaar Mart's FOCM model handles daily operations. Investment from 18.5 Lakh. Apply now!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/gurgaon/grocery-franchise-for-working-professional-gurugram",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",

@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Grocery Franchise Cost in Moradabad | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate 18.5s, with complete setup, launch, and operational support.",
-=======
     "Complete grocery franchise cost breakdown for Moradabad with The Buyzaar Mart. Investment starts from approximate 18.5 Lakhs, with complete setup, launch, and operational support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/moradabad/cost-of-grocery-store-franchise-in-moradabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -35,11 +32,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-<<<<<<< HEAD
-          "A grocery franchise format spread across approximately 600 to 1000 square feet, suitable for dense residential colonies and narrow commercial lanes in Moradabad. Investment generally starts from around 18.5.",
-=======
           "A grocery franchise format spread across approximately 600 to 1000 square feet, suitable for dense residential colonies and narrow commercial lanes in Moradabad. Investment generally starts from around 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -329,11 +323,8 @@ const Content = () => {
               </li>
               <li>
                 Total investment for the Mini Mart generally starts from around
-<<<<<<< HEAD
-                18.5.
-=======
                 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The Super Mart format, spanning roughly 1,001 to 3,000 square

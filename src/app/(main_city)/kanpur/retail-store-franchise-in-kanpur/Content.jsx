@@ -34,11 +34,8 @@ const faqSchema = {
       name: "What is the total investment required to open a retail store franchise in Kanpur with The Buyzaar Mart?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The Buyzaar Mart franchise starts at 18.5, making it one of the most affordable organized supermarket franchise opportunities available in India.",
-=======
         text: "The Buyzaar Mart franchise starts at 18.5 Lakh, making it one of the most affordable organized supermarket franchise opportunities available in India.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -163,11 +160,8 @@ const Content = () => {
 
             <ul className="ml-4 list-inside list-disc space-y-2">
               <li>
-<<<<<<< HEAD
-                <strong>Low Investment, High Potential:</strong> The Buyzaar Mart franchise is available starting at just 18.5, making it one of the most affordable organized retail franchise opportunities in India.
-=======
                 <strong>Low Investment, High Potential:</strong> The Buyzaar Mart franchise is available starting at just 18.5 Lakh, making it one of the most affordable organized retail franchise opportunities in India.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 <strong>Complete Store Setup Support:</strong> From store layout and interior design to fixture installation and initial stock arrangement, The Buyzaar Mart team handles end-to-end store setup.
@@ -257,11 +251,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              The choice, especially at a starting investment as low as 18.5, is clear for anyone serious about building a sustainable retail business in Kanpur.
-=======
               The choice, especially at a starting investment as low as 18.5 Lakh, is clear for anyone serious about building a sustainable retail business in Kanpur.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -286,11 +277,8 @@ const Content = () => {
                   What is the total investment required to open a retail store franchise in Kanpur with The Buyzaar Mart?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The Buyzaar Mart franchise starts at 18.5, making it one of the most affordable organized supermarket franchise opportunities available in India.
-=======
                   The Buyzaar Mart franchise starts at 18.5 Lakh, making it one of the most affordable organized supermarket franchise opportunities available in India.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
@@ -359,11 +347,8 @@ const Content = () => {
               </p>
 
               <p className="mb-4 text-gray-800">
-<<<<<<< HEAD
-                With a starting investment of just 18.5, end-to-end setup support, an inventory assurance policy, hyper-local marketing, and a company that genuinely cares about your success, there has never been a better time to start.
-=======
                 With a starting investment of just 18.5 Lakh, end-to-end setup support, an inventory assurance policy, hyper-local marketing, and a company that genuinely cares about your success, there has never been a better time to start.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </p>
 
               <p className="mb-4 font-semibold text-gray-800">

@@ -60,11 +60,8 @@ const faqSchema = {
       name: "Can I really start a retail franchise under 18.5 lakh in Delhi NCR?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Yes. The Buyzaar Mart Mini Mart format starts from approximately 18.5, staying close to that figure with a compact store size and cost-efficient location.",
-=======
         text: "Yes. The Buyzaar Mart Mini Mart format starts from approximately 18.5 Lakh, staying close to that figure with a compact store size and cost-efficient location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -72,11 +69,8 @@ const faqSchema = {
       name: "What store size fits this budget?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to 18.5.",
-=======
         text: "Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -116,11 +110,8 @@ const faqSchema = {
       name: "Can I scale up to a larger format later?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Yes. Many franchisees start with a Mini Mart under 18.5 and later expand to a Super Mart, Hyper Mart, or additional outlets.",
-=======
         text: "Yes. Many franchisees start with a Mini Mart under 18.5 Lakh and later expand to a Super Mart, Hyper Mart, or additional outlets.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
   ],
@@ -191,21 +182,15 @@ const Content = () => {
 
             <ul className="list-disc pl-5 space-y-2">
               <li>
-<<<<<<< HEAD
-                A budget of 18.5 is the starting investment point for The Buyzaar Mart&apos;s Mini Mart format — not a compromise format, but the brand&apos;s structured entry-level store.
-=======
                 A budget of 18.5 Lakh is the starting investment point for The Buyzaar Mart&apos;s Mini Mart format — not a compromise format, but the brand&apos;s structured entry-level store.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 At this investment level, you get a fully branded, FSSAI-licensed store with POS technology, trained staff, and ongoing company support — not just a signboard and a product list.
               </li>
               <li>
-<<<<<<< HEAD
-                The key to staying at or near the 18.5 mark is choosing a compact store size, a cost-efficient location, and a lean initial inventory calibrated tightly to your specific catchment.
-=======
                 The key to staying at or near the 18.5 Lakh mark is choosing a compact store size, a cost-efficient location, and a lean initial inventory calibrated tightly to your specific catchment.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 This entry point is designed specifically for first-time investors, working professionals, and residents who want to start small and prove the model before scaling further.
@@ -223,11 +208,8 @@ const Content = () => {
                 Store size: Approximately 600–1,000 sq ft — a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store, keeping the format accessible even in compact commercial spaces.
               </li>
               <li>
-<<<<<<< HEAD
-                Total investment: Starts from approximately 18.5 and typically stays in the ₹15–22 lakh range depending on exact size, location, and existing fit-out condition of the premises.
-=======
                 Total investment: Starts from approximately 18.5 Lakh and typically stays in the ₹15–22 lakh range depending on exact size, location, and existing fit-out condition of the premises.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 What&apos;s covered: Franchise fee (inclusive of 18% GST), interior setup and store assets, POS and inventory technology, opening stock, and the security deposit.
@@ -317,21 +299,15 @@ const Content = () => {
                 Delhi — urban villages and resettlement colonies: Areas still largely served by unorganized kirana stores, offering a first-mover advantage for a branded, compact store.
               </li>
               <li>
-<<<<<<< HEAD
-                Gurgaon — residential lane-facing shops in established sectors: Lower-rent internal lanes within larger sectors, rather than premium main-road locations, help keep the total investment closer to the 18.5 mark.
-=======
                 Gurgaon — residential lane-facing shops in established sectors: Lower-rent internal lanes within larger sectors, rather than premium main-road locations, help keep the total investment closer to the 18.5 Lakh mark.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
             </ul>
 
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-<<<<<<< HEAD
-              Factors That Keep Your Investment Close to 18.5
-=======
               Factors That Keep Your Investment Close to 18.5 Lakh
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </h2>
 
 
@@ -373,11 +349,8 @@ const Content = () => {
                 Under the FOCO model, returns are structured as an agreed revenue share or fixed payout, suited to investors who prefer a passive role.
               </li>
               <li>
-<<<<<<< HEAD
-                Many franchisees start with a single Mini Mart under 18.5, build operational confidence and local trust, and later scale to a Super Mart, Hyper Mart, or additional outlets across NCR.
-=======
                 Many franchisees start with a single Mini Mart under 18.5 Lakh, build operational confidence and local trust, and later scale to a Super Mart, Hyper Mart, or additional outlets across NCR.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
             </ul>
 
@@ -439,11 +412,8 @@ const Content = () => {
                   Q1. Can I really start a retail franchise under 18.5 lakh in Delhi NCR?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Yes. The Buyzaar Mart Mini Mart format starts from approximately 18.5, staying close to that figure with a compact store size and cost-efficient location.
-=======
                   Yes. The Buyzaar Mart Mini Mart format starts from approximately 18.5 Lakh, staying close to that figure with a compact store size and cost-efficient location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
@@ -453,11 +423,8 @@ const Content = () => {
                   Q2. What store size fits this budget?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to 18.5.
-=======
                   Around 600–1,000 sq ft, with the lower end of that range keeping costs closest to 18.5 Lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
@@ -507,11 +474,8 @@ const Content = () => {
                   Q7. Can I scale up to a larger format later?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Yes. Many franchisees start with a Mini Mart under 18.5 and later expand to a Super Mart, Hyper Mart, or additional outlets.
-=======
                   Yes. Many franchisees start with a Mini Mart under 18.5 Lakh and later expand to a Super Mart, Hyper Mart, or additional outlets.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
             </div>

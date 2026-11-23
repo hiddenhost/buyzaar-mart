@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Mart Franchise Investment in Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super and Hyper Mart formats, costs from 18.5, POS technology and training support.",
-=======
     "Mart franchise investment in Gorakhpur with The Buyzaar Mart. Compare Mini, Super and Hyper Mart formats, costs from 18.5 Lakh, POS technology and training support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/gorakhpur/mart-franchise-investment-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -62,11 +59,8 @@ const faqSchema = {
       name: "How much does a Mini Mart franchise cost in Gorakhpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "It starts from about 18.5 and generally goes up to ₹22 Lakh, depending on size and site.",
-=======
         text: "It starts from about 18.5 Lakh and generally goes up to ₹22 Lakh, depending on size and site.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -227,11 +221,8 @@ const Content = () => {
               </li>
               <li>
                 <span className="font-semibold">Investment:</span> Approximately
-<<<<<<< HEAD
-                18.5 to ₹22 Lakh, depending on size, location, and the
-=======
                 18.5 Lakh to ₹22 Lakh, depending on size, location, and the
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 condition of the premises.
               </li>
               <li>
@@ -590,11 +581,8 @@ const Content = () => {
                   How much does a Mini Mart franchise cost in Gorakhpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  It starts from about 18.5 and generally goes up to ₹22
-=======
                   It starts from about 18.5 Lakh and generally goes up to ₹22
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   Lakh, depending on size and site.
                 </p>
               </div>
@@ -687,11 +675,8 @@ const Content = () => {
                   marketing.
                 </li>
                 <li>
-<<<<<<< HEAD
-                  Mini Mart investment begins from approximately 18.5,
-=======
                   Mini Mart investment begins from approximately 18.5 Lakh,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   subject to the final location, space, and store setup
                   requirements.
                 </li>

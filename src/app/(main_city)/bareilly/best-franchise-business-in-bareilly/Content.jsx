@@ -31,11 +31,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart Franchise",
         description:
-<<<<<<< HEAD
-          "Neighbourhood mart format for 600 to 1000 square feet with investment commonly starting from approximately 18.5",
-=======
           "Neighbourhood mart format for 600 to 1000 square feet with investment commonly starting from approximately 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -156,11 +153,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              With entry investment starting from approximately 18.5, a
-=======
               With entry investment starting from approximately 18.5 Lakh, a
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               FOCM model, 50+ FMCG brand partnerships, and an effective gross
               margin benchmark of 18 to 20 percent, The Buyzaar Mart presents a
               strong case for being one of the most practical franchise business
@@ -299,11 +293,8 @@ const Content = () => {
             </p>
             <p>
               <span className="font-semibold">Investment:</span> Approximately
-<<<<<<< HEAD
-              ₹18.5 to ₹26 Lakh
-=======
               18.5 Lakh to ₹25 Lakh
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </p>
             <p>
               <span className="font-semibold">Best For:</span> Residential
@@ -697,11 +688,8 @@ const Content = () => {
 
               <p className="mb-4 text-gray-800">
                 Whether you are a first-time entrepreneur looking for an
-<<<<<<< HEAD
-                accessible Mini Mart entry around 18.5, a mid-scale investor
-=======
                 accessible Mini Mart entry around 18.5 Lakh, a mid-scale investor
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 ready for a Super Mart, or an experienced businessman preparing
                 for a larger Hyper Mart, The Buyzaar Mart offers a format built
                 around your location and capital level.

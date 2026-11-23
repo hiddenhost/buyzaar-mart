@@ -82,11 +82,8 @@ const faqSchema = {
       name: "How much investment is needed to open a mart franchise in Mathura?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment starts from 18.5 onwards under The Buyzaar Mart franchise, depending on the store format chosen.",
-=======
         text: "Investment starts from 18.5 Lakh onwards under The Buyzaar Mart franchise, depending on the store format chosen.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -191,11 +188,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Opening a mart typically requires investment across several components: stock, interior setup, POS/billing systems, licensing fees, and a security deposit.</li>
-<<<<<<< HEAD
-              <li>For a franchise model like The Buyzaar Mart, minimum investment starts from 18.5 onwards, depending on store format.</li>
-=======
               <li>For a franchise model like The Buyzaar Mart, minimum investment starts from 18.5 Lakh onwards, depending on store format.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Independent store setups can vary widely in cost, since pricing depends entirely on individual vendor negotiations and interior choices.</li>
               <li>Working capital for the first few months should be planned separately from the initial setup investment, since sales typically take time to stabilize.</li>
               <li>Using a franchise&apos;s investment calculator tool can help estimate location- and format-specific costs before committing.</li>
@@ -349,11 +343,8 @@ const Content = () => {
                   How much investment is needed to open a mart franchise in Mathura?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment starts from 18.5 onwards under The Buyzaar Mart franchise, depending on the store format chosen.
-=======
                   Investment starts from 18.5 Lakh onwards under The Buyzaar Mart franchise, depending on the store format chosen.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

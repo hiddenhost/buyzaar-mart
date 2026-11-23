@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Convenience Store Franchise in Greater Noida | The Buyzaar Mart FOCM Model",
   description:
-<<<<<<< HEAD
-    "Explore The Buyzaar Mart convenience store franchise in Greater Noida with a structured FOCM model, low entry investment from 18.5, store setup support, supply chain systems, and ongoing operational assistance.",
-=======
     "Explore The Buyzaar Mart convenience store franchise in Greater Noida with a structured FOCM model, low entry investment from 18.5 Lakh, store setup support, supply chain systems, and ongoing operational assistance.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/greaternoida/convenience-store-franchise-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -38,11 +35,8 @@ const faqSchema = {
       name: "What is the minimum investment required to start a Buyzaar Mart franchise in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from 18.5 and generally covers store setup, initial stock, and franchise onboarding. The exact amount depends on the chosen store format such as Mini Mart, Super Mart, or Hyper Mart.",
-=======
         text: "The minimum investment starts from 18.5 Lakh and generally covers store setup, initial stock, and franchise onboarding. The exact amount depends on the chosen store format such as Mini Mart, Super Mart, or Hyper Mart.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -140,11 +134,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              With entry investment starting from around 18.5, the brand is
-=======
               With entry investment starting from around 18.5 Lakh, the brand is
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               positioned for local entrepreneurs, business owners, and first-time
               investors across Uttar Pradesh and NCR who want to participate in
               India&apos;s organized retail growth story.
@@ -361,11 +352,8 @@ const Content = () => {
             </ul>
 
             <p>
-<<<<<<< HEAD
-              With investment starting from around 18.5, the franchise is
-=======
               With investment starting from around 18.5 Lakh, the franchise is
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               positioned as more accessible than many large organized retail
               formats that demand significantly higher capital.
             </p>
@@ -533,11 +521,8 @@ const Content = () => {
                   Mart franchise in Greater Noida?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment starts from 18.5 and generally
-=======
                   The minimum investment starts from 18.5 Lakh and generally
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   covers store setup, initial stock, and franchise onboarding
                   costs. The final requirement depends on the store format, such
                   as Mini Mart, Super Mart, or Hyper Mart.

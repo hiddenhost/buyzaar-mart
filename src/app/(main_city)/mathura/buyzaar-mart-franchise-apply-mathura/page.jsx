@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "The Buyzaar Mart Franchise in Mathura – Apply Now | Grocery Franchise",
   description:
-<<<<<<< HEAD
-    "Apply for The Buyzaar Mart franchise in Mathura. Grocery & supermarket business opportunity from 18.5 with FOCM model, full setup, supply chain & support.",
-=======
     "Apply for The Buyzaar Mart franchise in Mathura. Grocery & supermarket business opportunity from 18.5 Lakh with FOCM model, full setup, supply chain & support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "Buyzaar Mart franchise Mathura",
     "grocery franchise in Mathura",
@@ -47,11 +44,8 @@ export const metadata = {
     title:
       "The Buyzaar Mart Franchise in Mathura – Apply Now | Grocery Franchise",
     description:
-<<<<<<< HEAD
-      "Apply for The Buyzaar Mart franchise in Mathura. Grocery & supermarket business opportunity from 18.5 with FOCM model, full setup, supply chain & support.",
-=======
       "Apply for The Buyzaar Mart franchise in Mathura. Grocery & supermarket business opportunity from 18.5 Lakh with FOCM model, full setup, supply chain & support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/mathura/buyzaar-mart-franchise-apply-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -70,11 +64,8 @@ export const metadata = {
     title:
       "The Buyzaar Mart Franchise in Mathura – Apply Now | Grocery Franchise",
     description:
-<<<<<<< HEAD
-      "Apply for The Buyzaar Mart franchise in Mathura. Grocery & supermarket business opportunity from 18.5 with FOCM model, full setup, supply chain & support.",
-=======
       "Apply for The Buyzaar Mart franchise in Mathura. Grocery & supermarket business opportunity from 18.5 Lakh with FOCM model, full setup, supply chain & support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

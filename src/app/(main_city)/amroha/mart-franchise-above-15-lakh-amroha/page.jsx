@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Mart Franchise Above 18.5 lakh in Amroha | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Planning a mart franchise above 18.5 in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
-=======
     "Planning a mart franchise above 18.5 Lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "mart franchise above 18.5 lakh Amroha",
     "mart franchise Amroha",
@@ -43,11 +40,8 @@ export const metadata = {
   openGraph: {
     title: "Mart Franchise Above 18.5 lakh in Amroha | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Planning a mart franchise above 18.5 in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
-=======
       "Planning a mart franchise above 18.5 Lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/amroha/mart-franchise-above-15-lakh-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -65,11 +59,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mart Franchise Above 18.5 lakh in Amroha | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Planning a mart franchise above 18.5 in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
-=======
       "Planning a mart franchise above 18.5 Lakh in Amroha? Explore Mini, Super and Hyper Mart formats with Buyzaar Mart, full setup support, training and 18-20% margin.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

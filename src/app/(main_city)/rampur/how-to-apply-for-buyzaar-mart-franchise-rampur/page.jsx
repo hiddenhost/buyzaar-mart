@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Apply for Buyzaar Mart Franchise Rampur | Steps",
   description:
-<<<<<<< HEAD
-    "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5. Call +91 9217991727.",
-=======
     "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5 Lakh. Call +91 9217991727.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "how to apply for buyzaar mart franchise rampur",
     "buyzaar mart franchise rampur",
@@ -42,11 +39,8 @@ export const metadata = {
   openGraph: {
     title: "How to Apply for Buyzaar Mart Franchise Rampur | Steps",
     description:
-<<<<<<< HEAD
-      "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5. Call +91 9217991727.",
-=======
       "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5 Lakh. Call +91 9217991727.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/rampur/how-to-apply-for-buyzaar-mart-franchise-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,11 +58,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Apply for Buyzaar Mart Franchise Rampur | Steps",
     description:
-<<<<<<< HEAD
-      "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5. Call +91 9217991727.",
-=======
       "Learn how to apply for a Buyzaar Mart franchise in Rampur. See the steps, documents and total investment from 18.5 Lakh. Call +91 9217991727.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Organised Mart Franchise in Bulandshahr | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start an organised mart franchise in Bulandshahr with The Buyzaar Mart. Total investment from 18.5, POS billing, trained staff, 18–20% stated margin and support.",
-=======
     "Start an organised mart franchise in Bulandshahr with The Buyzaar Mart. Total investment from 18.5 Lakh, POS billing, trained staff, 18–20% stated margin and support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/bulandshahr/organised-mart-franchise-bulandshahr",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -35,11 +32,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart",
         description:
-<<<<<<< HEAD
-          "A compact 600–1000 sq ft organised mart for residential colonies, smaller markets and towns around Bulandshahr, with total investment typically about 18.5 to ₹20 Lakh.",
-=======
           "A compact 600–1000 sq ft organised mart for residential colonies, smaller markets and towns around Bulandshahr, with total investment typically about 18.5 Lakh to ₹20 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -74,11 +68,8 @@ const faqSchema = {
       name: "What is the total investment?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "About 18.5 to ₹20 Lakh for a Mini Mart, depending on size and location.",
-=======
         text: "About 18.5 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -157,11 +148,8 @@ const Content = () => {
               <li>Bulandshahr is a growing district in western Uttar Pradesh, close to the Delhi-NCR belt, where shoppers are moving from scattered, unorganised shops toward clean, structured marts with clear prices and wide choice.</li>
               <li>An organised mart follows a standard layout, uses digital billing, tracks stock, trains its staff and keeps uniform quality, which builds the trust that families look for in everyday shopping.</li>
               <li>The Buyzaar Mart offers an organised mart franchise in Bulandshahr under the FOCM model, where you own the mart and the company manages operations, branding, technology and training.</li>
-<<<<<<< HEAD
-              <li>A Buyzaar Mart Mini Mart can be started with a total investment of about 18.5 to ₹20 Lakh, depending on store size, location and the work needed.</li>
-=======
               <li>A Buyzaar Mart Mini Mart can be started with a total investment of about 18.5 Lakh to ₹20 Lakh, depending on store size, location and the work needed.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>This page explains what makes a mart organised, how the franchise works, which formats are available and how to apply.</li>
             </ul>
 
@@ -263,11 +251,8 @@ const Content = () => {
             <ul className="list-disc space-y-2 pl-6">
               <li>A compact organised mart suited to residential colonies, smaller markets and towns around Bulandshahr.</li>
               <li>Stocks grocery and staples, personal care, beverages, homecare and hygiene, stationery, and snacks and biscuits.</li>
-<<<<<<< HEAD
-              <li>Total investment is typically about 18.5 to ₹20 Lakh.</li>
-=======
               <li>Total investment is typically about 18.5 Lakh to ₹20 Lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </ul>
 
             <h3 className="font-medium text-gray-900">Super Mart (1000–3000 sq ft)</h3>
@@ -440,11 +425,8 @@ const Content = () => {
                   What is the total investment?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  About 18.5 to ₹20 Lakh for a Mini Mart, depending on size and location.
-=======
                   About 18.5 Lakh to ₹20 Lakh for a Mini Mart, depending on size and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

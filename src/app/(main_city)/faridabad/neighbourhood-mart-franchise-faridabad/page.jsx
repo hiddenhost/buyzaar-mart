@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Neighbourhood Mart Franchise Faridabad | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5. Full setup, supply chain, POS & brand support. Apply today!",
-=======
     "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5 Lakh. Full setup, supply chain, POS & brand support. Apply today!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/faridabad/neighbourhood-mart-franchise-faridabad",
@@ -18,11 +15,8 @@ export const metadata = {
   openGraph: {
     title: "Neighbourhood Mart Franchise Faridabad | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5. Full setup, supply chain, POS & brand support. Apply today!",
-=======
       "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5 Lakh. Full setup, supply chain, POS & brand support. Apply today!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/faridabad/neighbourhood-mart-franchise-faridabad",
     siteName: "The Buyzaar Mart",
     images: [
@@ -40,11 +34,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Neighbourhood Mart Franchise Faridabad | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5. Full setup, supply chain, POS & brand support. Apply today!",
-=======
       "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart. FOCM & FOCO models from 18.5 Lakh. Full setup, supply chain, POS & brand support. Apply today!",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

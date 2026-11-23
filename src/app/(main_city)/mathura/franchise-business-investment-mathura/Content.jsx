@@ -6,11 +6,8 @@ const pageTitle =
   "Franchise Business Investment in Mathura | The Buyzaar Mart";
 
 const pageDescription =
-<<<<<<< HEAD
-  "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5, FOCM and FOCO options, and full business support.";
-=======
   "Start a franchise business investment in Mathura with The Buyzaar Mart. Proven grocery retail model from 18.5 Lakh, FOCM and FOCO options, and full business support.";
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
 
 const pageKeywords =
   "franchise business investment Mathura, franchise business opportunity Mathura, business investment UP, Buyzaar Mart Mathura, retail business franchise India, low investment business Mathura, small business franchise India, franchise business cost Mathura, grocery business investment India, franchise business Uttar Pradesh, business ownership franchise India, franchise business near Vrindavan, FOCM business investment, FOCO franchise business India, best franchise business Mathura, first time business owner franchise, franchise business supply chain, franchise business ROI Mathura, business opportunity Braj region, franchise business support India, how to start franchise business Mathura, retail franchise business model";
@@ -43,11 +40,8 @@ const contentSections = [
       "The Buyzaar Mart, headquartered in Noida, has built its franchise business around a trust-driven promise: &quot;अपना बाजार – बचत का साथ, Quality की बात.&quot;",
       "The brand operates stores in Shyam Nagar, Kanpur; Sector 44, Chalera, Noida; Gangoh; Behat, Saharanpur; and Bahadrabad, Haridwar, while expanding into growing markets such as Mathura.",
       "The franchise business model focuses on India&apos;s daily-need grocery and FMCG category, a category with consistent and non-discretionary household demand.",
-<<<<<<< HEAD
-      "Investment starts from approximately 18.5, structured to be accessible for local entrepreneurs and small business investors rather than requiring institutional-level capital.",
-=======
       "Investment starts from approximately 18.5 Lakh, structured to be accessible for local entrepreneurs and small business investors rather than requiring institutional-level capital.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       "The brand has established 50+ FMCG partnerships, including Britannia, Dabur, HUL, ITC, Nestlé, Godrej, Coca-Cola, and Patanjali, giving franchise owners a ready-made supply chain from launch.",
       "Every store operates with a POS-enabled billing system and integrated CRM, giving business owners operational data instead of relying only on manual records or guesswork.",
       "A buyback policy on expired or damaged stock helps protect the business from avoidable inventory losses.",
@@ -103,11 +97,8 @@ const contentSections = [
     title: "Why The Buyzaar Mart Is a Strong Franchise Business Choice",
     points: [
       "Proven multi-city track record: Operating stores across Uttar Pradesh and Uttarakhand demonstrates the brand&apos;s ability to run a viable business in markets comparable to Mathura.",
-<<<<<<< HEAD
-      "Lower capital barrier: A starting investment of approximately 18.5 makes franchise business ownership more accessible to a wider range of entrepreneurs.",
-=======
       "Lower capital barrier: A starting investment of approximately 18.5 Lakh makes franchise business ownership more accessible to a wider range of entrepreneurs.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       "Built-in supply chain: 50+ FMCG brand partnerships can remove one of the most complex parts of launching an independent retail business.",
       "Modern business operations: POS billing and CRM tools give franchise partners operational visibility that can be difficult for independent business owners to build on their own.",
       "Regulatory groundwork: FSSAI, GST, and MSME-related support helps franchise partners start the business with attention to legal and compliance requirements.",
@@ -135,11 +126,8 @@ const faqs = [
   {
     question: "What is the minimum capital needed for a franchise business here?",
     answer:
-<<<<<<< HEAD
-      "Investment starts from approximately 18.5 for a Mini Mart format, though the final investment varies based on location, store size, setup requirements, and the selected format.",
-=======
       "Investment starts from approximately 18.5 Lakh for a Mini Mart format, though the final investment varies based on location, store size, setup requirements, and the selected format.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   },
   {
     question: "Can I run this as a low-involvement business investment?",
@@ -326,11 +314,8 @@ const Content = () => {
                 </li>
 
                 <li>
-<<<<<<< HEAD
-                  Begin with an investment from approximately 18.5 onwards,
-=======
                   Begin with an investment from approximately 18.5 Lakh onwards,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   depending on the selected format, property, store size, and
                   setup requirements.
                 </li>

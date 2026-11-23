@@ -6,11 +6,8 @@ const pageTitle =
   "How to Open a Retail Store Franchise in Mathura | Buyzaar Mart Guide";
 
 const pageDescription =
-<<<<<<< HEAD
-  "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 with Buyzaar Mart.";
-=======
   "Learn how to open a retail store franchise in Mathura. Customer-first tips on location, store design, launch, and investment from 18.5 Lakh with Buyzaar Mart.";
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
 
 const pageKeywords =
   "how to open retail store franchise Mathura, retail store franchise Mathura, Buyzaar Mart retail store, open retail store Mathura, retail franchise Mathura guide, neighborhood store franchise Mathura, grocery retail store franchise, retail store franchise investment Mathura, retail store location selection Mathura, store layout design franchise, retail store launch plan Mathura, customer-first retail franchise, retail franchise Uttar Pradesh, Mini Mart Super Mart Hyper Mart Mathura, retail store franchise registrations, FSSAI GST trade license retail store, retail store franchise training support, retail store repeat customers, POS billing retail franchise, retail franchise low investment Mathura, retail store franchise checklist, start retail store franchise India";
@@ -59,11 +56,8 @@ const contentSections = [
   {
     title: "Investment at a Glance",
     points: [
-<<<<<<< HEAD
-      "Investment for a Buyzaar Mart retail store in Mathura starts from 18.5 onwards.",
-=======
       "Investment for a Buyzaar Mart retail store in Mathura starts from 18.5 Lakh onwards.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       "The final investment figure depends on the format you choose and your property&apos;s carpet area.",
       "The franchise team shares a clear cost estimate for your specific store format after the initial discussion.",
       "Keep additional funds aside as working capital for the first few months of store operations.",
@@ -190,11 +184,8 @@ const faqs = [
   {
     question: "How much does it cost to open a Buyzaar Mart retail store?",
     answer:
-<<<<<<< HEAD
-      "Investment starts from 18.5 onwards, depending on the store format, property size, location, and setup requirements.",
-=======
       "Investment starts from 18.5 Lakh onwards, depending on the store format, property size, location, and setup requirements.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   },
   {
     question: "Do I need retail experience to open a store?",

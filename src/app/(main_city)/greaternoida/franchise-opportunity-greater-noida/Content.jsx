@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Franchise Opportunity in Greater Noida - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore the franchise opportunity in Greater Noida with The Buyzaar Mart. Start from 18.5 with Mini Mart, Super Mart, and Hyper Mart formats under the FOCM model.",
-=======
     "Explore the franchise opportunity in Greater Noida with The Buyzaar Mart. Start from 18.5 Lakh with Mini Mart, Super Mart, and Hyper Mart formats under the FOCM model.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/greater-noida/franchise-opportunity-in-greater-noida",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -46,11 +43,8 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise mart in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment starts from 18.5, covering store setup, initial inventory, onboarding fees, and POS technology. The final amount depends on the mart format and location size.",
-=======
         text: "The minimum investment starts from 18.5 Lakh, covering store setup, initial inventory, onboarding fees, and POS technology. The final amount depends on the mart format and location size.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -152,11 +146,8 @@ const Content = () => {
 
             <p>
               The brand operates on a Franchise Owned Company Managed (FOCM)
-<<<<<<< HEAD
-              model, starting from an investment of just 18.5, with the
-=======
               model, starting from an investment of just 18.5 Lakh, with the
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               company managing all store operations on behalf of the
               franchisee.
             </p>
@@ -563,11 +554,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              The low entry investment of 18.5 makes this franchise
-=======
               The low entry investment of 18.5 Lakh makes this franchise
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               accessible where most organised retail brands require far higher
               capital commitments.
             </p>
@@ -722,11 +710,8 @@ const Content = () => {
                   franchise mart in Greater Noida?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment starts from 18.5, covering store
-=======
                   The minimum investment starts from 18.5 Lakh, covering store
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   setup, initial inventory, onboarding fees, and POS technology.
                   The final amount depends on the mart format and location size.
                 </p>

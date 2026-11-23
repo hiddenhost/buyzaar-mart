@@ -76,11 +76,8 @@ const faqSchema = {
       name: "What is the minimum investment for a FOCO grocery store in Delhi?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The Mini Mart format starts from approximately 18.5, typically ranging up to ₹22 lakh depending on location and fit-out.",
-=======
         text: "The Mini Mart format starts from approximately 18.5 Lakh, typically ranging up to ₹22 lakh depending on location and fit-out.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -263,11 +260,8 @@ const Content = () => {
                 Store size: Approximately 600-1,000 sq ft (a minimum carpet area of 600 sq ft is required for any Buyzaar Mart store)
               </li>
               <li>
-<<<<<<< HEAD
-                Investment: Total setup costs typically range from approximately 18.5 to ₹22 lakh
-=======
                 Investment: Total setup costs typically range from approximately 18.5 Lakh to ₹22 lakh
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 Best for: First-time FOCO investors, compact residential lanes, colony markets, and urban villages
@@ -486,11 +480,8 @@ const Content = () => {
                   Q3. What is the minimum investment for a FOCO grocery store in Delhi?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The Mini Mart format starts from approximately 18.5, typically ranging up to ₹22 lakh depending on location and fit-out.
-=======
                   The Mini Mart format starts from approximately 18.5 Lakh, typically ranging up to ₹22 lakh depending on location and fit-out.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

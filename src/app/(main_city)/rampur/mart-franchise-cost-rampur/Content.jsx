@@ -31,11 +31,8 @@ const localBusinessSchema = {
         "@type": "Offer",
         name: "Mini Mart (600–1,000 sq ft)",
         description:
-<<<<<<< HEAD
-          "Entry format with a total investment typically between 18.5 and ₹20 lakh, carrying personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.",
-=======
           "Entry format with a total investment typically between 18.5 Lakh and ₹20 lakh, carrying personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
       {
         "@type": "Offer",
@@ -63,11 +60,8 @@ const faqSchema = {
       name: "What is the mart franchise cost in Rampur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "A Buyzaar Mart Mini Mart typically needs a total investment of 18.5 to ₹20 lakh, depending on size and setup.",
-=======
         text: "A Buyzaar Mart Mini Mart typically needs a total investment of 18.5 Lakh to ₹20 lakh, depending on size and setup.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -143,11 +137,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                If you are searching for the mart franchise cost in Rampur, the most useful answer is a single clear total: a Buyzaar Mart Mini Mart typically needs a total investment of 18.5 to ₹20 lakh, depending on store size, shop condition and layout.
-=======
                 If you are searching for the mart franchise cost in Rampur, the most useful answer is a single clear total: a Buyzaar Mart Mini Mart typically needs a total investment of 18.5 Lakh to ₹20 lakh, depending on store size, shop condition and layout.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The Buyzaar Mart is a supermarket and grocery franchise network that follows the FOCM (Franchise Owned Company Managed) model, so you own the store while the company manages branding, technology, supply systems and training.
@@ -206,11 +197,8 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart (600–1,000 sq ft)</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>
-<<<<<<< HEAD
-                The Mini Mart is the entry format, with a total investment typically between 18.5 and ₹20 lakh, which suits first-time business owners in Rampur.
-=======
                 The Mini Mart is the entry format, with a total investment typically between 18.5 Lakh and ₹20 lakh, which suits first-time business owners in Rampur.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 It carries personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.
@@ -598,11 +586,8 @@ const Content = () => {
                   What is the mart franchise cost in Rampur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  A Buyzaar Mart Mini Mart typically needs a total investment of 18.5 to ₹20 lakh, depending on size and setup.
-=======
                   A Buyzaar Mart Mini Mart typically needs a total investment of 18.5 Lakh to ₹20 lakh, depending on size and setup.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
@@ -666,11 +651,8 @@ const Content = () => {
 
               <ul className="mb-4 list-disc space-y-2 pl-6 text-gray-800">
                 <li>
-<<<<<<< HEAD
-                  The Buyzaar Mart offers a mart franchise in Rampur with a Mini Mart total investment typically between 18.5 and ₹20 lakh.
-=======
                   The Buyzaar Mart offers a mart franchise in Rampur with a Mini Mart total investment typically between 18.5 Lakh and ₹20 lakh.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </li>
                 <li>
                   Get brand setup, POS billing, supply chain, training and marketing support under the FOCM model.

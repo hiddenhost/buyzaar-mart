@@ -154,11 +154,8 @@ const Content = () => {
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
-<<<<<<< HEAD
-              A Grocery Mart Franchise in Gurugram Starting From 18.5
-=======
               A Grocery Mart Franchise in Gurugram Starting From 18.5 Lakh
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             </h2>
             <ul className="list-disc pl-6 space-y-2">
               <li>A 18.5 lakh starting investment covers the essential components required to launch a fully functional, branded grocery outlet, rather than a bare-bones or incomplete setup.</li>

@@ -7,11 +7,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Daily Needs Store Franchise in Kanpur - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Daily Needs Store Franchise in Kanpur with The Buyzaar Mart. Start a daily essentials store with 18.5 investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
-=======
     "Daily Needs Store Franchise in Kanpur with The Buyzaar Mart. Start a daily essentials store with 18.5 Lakh investment, FOCM model, inventory assurance, setup support, and hyper-local marketing.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
   url: "https://www.thebuyzaarmart.com/kanpur/daily-needs-store-franchise-in-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -108,11 +104,7 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              The Buyzaar Mart&#39;s daily needs franchise model &#8212; built on the franchisee-protective FOCM structure, starting at just 18.5, and backed by end-to-end operational support &#8212; is designed exactly for this market. In Kanpur, right now, the opportunity is wide open.
-=======
               The Buyzaar Mart&#39;s daily needs franchise model &#8212; built on the franchisee-protective FOCM structure, starting at just 18.5 Lakh, and backed by end-to-end operational support &#8212; is designed exactly for this market. In Kanpur, right now, the opportunity is wide open.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <h2 className="text-xl font-medium text-gray-900 sm:text-2xl">
@@ -184,11 +176,7 @@ const Content = () => {
             </h2>
 
             <p>
-<<<<<<< HEAD
-              One of the most practical questions for any prospective franchise investor is where exactly the investment goes. The Buyzaar Mart&#39;s daily needs franchise starts at 18.5 and above, making it one of the most affordable organized retail franchise opportunities in India.
-=======
               One of the most practical questions for any prospective franchise investor is where exactly the investment goes. The Buyzaar Mart&#39;s daily needs franchise starts at 18.5 Lakh and above, making it one of the most affordable organized retail franchise opportunities in India.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
             </p>
 
             <p>

@@ -34,11 +34,8 @@ const faqSchema = {
       name: "What is the minimum investment and space required to open a Buyzaar Mart in Greater Noida?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The entry-level investment starts at approximately 18.5s for the Mini Mart format, which requires a commercial space between 600 to 1,000 square feet. Costs scale up based on the larger Super Mart and Hyper Mart formats.",
-=======
         text: "The entry-level investment starts at approximately 18.5 Lakhs for the Mini Mart format, which requires a commercial space between 600 to 1,000 square feet. Costs scale up based on the larger Super Mart and Hyper Mart formats.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -551,11 +548,8 @@ const Content = () => {
                   a Buyzaar Mart in Greater Noida?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The entry-level investment starts at approximately 18.5s
-=======
                   The entry-level investment starts at approximately 18.5 Lakhs
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   for the Mini Mart format, which requires a commercial space
                   between 600 to 1,000 square feet. Costs scale up based on the
                   larger Super Mart and Hyper Mart formats.

@@ -106,11 +106,8 @@ const faqSchema = {
             name: "How much investment is needed to open a Super Mart or Hyper Mart in Noida?",
             acceptedAnswer: {
                 "@type": "Answer",
-<<<<<<< HEAD
-                text: "It varies by area, broadly starting around 18.5 and scaling with store size and location.",
-=======
                 text: "It varies by area, broadly starting around 18.5 Lakh and scaling with store size and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
             },
         },
         {
@@ -414,11 +411,8 @@ const Content = () => {
                                     7. How much investment is needed to open a Super Mart or Hyper Mart in Noida?
                                 </h3>
                                 <p className="mt-2">
-<<<<<<< HEAD
-                                    It varies by area, broadly starting around 18.5 and scaling with store size and location.
-=======
                                     It varies by area, broadly starting around 18.5 Lakh and scaling with store size and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                                 </p>
                             </div>
 

@@ -7,11 +7,8 @@ export const metadata = {
   title:
     "Buyzaar Mart Franchise Contact in Amroha | Phone, Email, Address",
   description:
-<<<<<<< HEAD
-    "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from 18.5. Reply within 24 hours.",
-=======
     "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from 18.5 Lakh. Reply within 24 hours.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "buyzaar mart franchise contact amroha",
     "buyzaar mart contact number",
@@ -45,11 +42,8 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Contact in Amroha | Phone, Email, Address",
     description:
-<<<<<<< HEAD
-      "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from 18.5. Reply within 24 hours.",
-=======
       "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from 18.5 Lakh. Reply within 24 hours.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/amroha/buyzaar-mart-franchise-contact-amroha",
     siteName: "The Buyzaar Mart",
     images: [
@@ -68,11 +62,8 @@ export const metadata = {
     title:
       "Buyzaar Mart Franchise Contact in Amroha | Phone, Email, Address",
     description:
-<<<<<<< HEAD
-      "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from 18.5. Reply within 24 hours.",
-=======
       "Contact The Buyzaar Mart for a supermarket franchise in Amroha. Call +91 9217991727 or email info@thebuyzaarmart.com. Total investment starts from 18.5 Lakh. Reply within 24 hours.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

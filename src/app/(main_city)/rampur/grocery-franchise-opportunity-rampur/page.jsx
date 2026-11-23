@@ -7,11 +7,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "Grocery Franchise Opportunity in Rampur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from 18.5.",
-=======
     "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "grocery franchise opportunity rampur",
     "grocery franchise rampur",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "Grocery Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from 18.5.",
-=======
       "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/rampur/grocery-franchise-opportunity-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Grocery Franchise Opportunity in Rampur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from 18.5.",
-=======
       "Start a grocery franchise in Rampur with The Buyzaar Mart. Choose FOCM or FOCO, with POS billing, training and launch support. Total investment from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

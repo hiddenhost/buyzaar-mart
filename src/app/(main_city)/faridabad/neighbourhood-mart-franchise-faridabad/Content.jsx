@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Neighbourhood Mart Franchise in Faridabad - The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart from 18.5. Explore FOCM and FOCO models, POS, CRM, inventory assurance, local marketing, and launch support.",
-=======
     "Own a neighbourhood mart franchise in Faridabad with The Buyzaar Mart from 18.5 Lakh. Explore FOCM and FOCO models, POS, CRM, inventory assurance, local marketing, and launch support.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/faridabad/neighbourhood-mart-franchise-faridabad",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -38,11 +35,8 @@ const faqSchema = {
       name: "What is the minimum investment required for a Buyzaar Mart neighbourhood mart franchise in Faridabad?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The franchise starts at 18.5, covering store setup, branding, POS system, initial inventory, staff training, and launch marketing.",
-=======
         text: "The franchise starts at 18.5 Lakh, covering store setup, branding, POS system, initial inventory, staff training, and launch marketing.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -146,11 +140,8 @@ const Content = () => {
             </p>
 
             <p>
-<<<<<<< HEAD
-              With a franchise starting at just 18.5, two flexible
-=======
               With a franchise starting at just 18.5 Lakh, two flexible
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               franchise models — FOCM and FOCO — and a full suite of setup,
               operational, and marketing support, The Buyzaar Mart offers
               Faridabad entrepreneurs one of the most accessible and
@@ -565,11 +556,8 @@ const Content = () => {
                   neighbourhood mart franchise in Faridabad?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The franchise starts at 18.5, covering store setup,
-=======
                   The franchise starts at 18.5 Lakh, covering store setup,
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   branding, POS system, initial inventory, staff training, and
                   launch marketing.
                 </p>

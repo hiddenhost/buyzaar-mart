@@ -4,11 +4,8 @@ import Content from "./Content";
 import Services from "@/app/components/Services";
 
 export const metadata = {
-<<<<<<< HEAD
-  title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5",
-=======
   title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   description:
     "Become a Buyzaar Mart retail partner in Gorakhpur. Own a branded supermarket with FOCM/FOCO models, POS billing, supply chain and launch support. Apply now.",
   keywords: [
@@ -40,11 +37,8 @@ export const metadata = {
       "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-retail-partner-gorakhpur",
   },
   openGraph: {
-<<<<<<< HEAD
-    title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5",
-=======
     title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     description:
       "Become a Buyzaar Mart retail partner in Gorakhpur. Own a branded supermarket with FOCM/FOCO models, POS billing, supply chain and launch support. Apply now.",
     url: "https://www.thebuyzaarmart.com/gorakhpur/buyzaar-mart-retail-partner-gorakhpur",
@@ -54,11 +48,8 @@ export const metadata = {
         url: "https://www.thebuyzaarmart.com/images/buyzaar-logo.png",
         width: 1200,
         height: 630,
-<<<<<<< HEAD
-        alt: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5",
-=======
         alt: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     ],
     locale: "en_IN",
@@ -66,11 +57,8 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-<<<<<<< HEAD
-    title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5",
-=======
     title: "Buyzaar Mart Retail Partner Gorakhpur | From 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     description:
       "Become a Buyzaar Mart retail partner in Gorakhpur. Own a branded supermarket with FOCM/FOCO models, POS billing, supply chain and launch support. Apply now.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

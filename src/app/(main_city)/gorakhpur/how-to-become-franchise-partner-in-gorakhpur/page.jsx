@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Become Franchise Partner in Gorakhpur | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Become a Buyzaar Mart franchise partner in Gorakhpur. Know eligibility, documents, cost from 18.5, FOCM model and the step-by-step process. Apply now.",
-=======
     "Become a Buyzaar Mart franchise partner in Gorakhpur. Know eligibility, documents, cost from 18.5 Lakh, FOCM model and the step-by-step process. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "how to become franchise partner in gorakhpur",
     "franchise partner in gorakhpur",
@@ -42,11 +39,8 @@ export const metadata = {
   openGraph: {
     title: "How to Become Franchise Partner in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Become a Buyzaar Mart franchise partner in Gorakhpur. Know eligibility, documents, cost from 18.5, FOCM model and the step-by-step process. Apply now.",
-=======
       "Become a Buyzaar Mart franchise partner in Gorakhpur. Know eligibility, documents, cost from 18.5 Lakh, FOCM model and the step-by-step process. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-become-franchise-partner-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,11 +58,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Become Franchise Partner in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Become a Buyzaar Mart franchise partner in Gorakhpur. Know eligibility, documents, cost from 18.5, FOCM model and the step-by-step process. Apply now.",
-=======
       "Become a Buyzaar Mart franchise partner in Gorakhpur. Know eligibility, documents, cost from 18.5 Lakh, FOCM model and the step-by-step process. Apply now.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

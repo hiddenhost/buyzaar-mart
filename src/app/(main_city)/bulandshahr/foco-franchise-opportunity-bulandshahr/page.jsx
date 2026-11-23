@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 with structured returns.",
-=======
     "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 Lakh with structured returns.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "FOCO franchise opportunity Bulandshahr",
     "FOCO Bulandshahr",
@@ -43,11 +40,8 @@ export const metadata = {
   openGraph: {
     title: "FOCO Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 with structured returns.",
-=======
       "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 Lakh with structured returns.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/bulandshahr/foco-franchise-opportunity-bulandshahr",
     siteName: "The Buyzaar Mart",
     images: [
@@ -65,11 +59,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Franchise Opportunity in Bulandshahr | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 with structured returns.",
-=======
       "Explore the FOCO franchise opportunity in Bulandshahr with The Buyzaar Mart. A company-operated retail investment starting from 18.5 Lakh with structured returns.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Open Retail Store Franchise in Gorakhpur | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Learn how to open a retail store franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5, licences, funding, agreement checks and setup steps.",
-=======
     "Learn how to open a retail store franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5 Lakh, licences, funding, agreement checks and setup steps.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "how to open a retail store franchise in gorakhpur",
     "retail store franchise in gorakhpur",
@@ -42,11 +39,8 @@ export const metadata = {
   openGraph: {
     title: "How to Open Retail Store Franchise in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Learn how to open a retail store franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5, licences, funding, agreement checks and setup steps.",
-=======
       "Learn how to open a retail store franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5 Lakh, licences, funding, agreement checks and setup steps.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/gorakhpur/how-to-open-a-retail-store-franchise-in-gorakhpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,11 +58,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Open Retail Store Franchise in Gorakhpur | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Learn how to open a retail store franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5, licences, funding, agreement checks and setup steps.",
-=======
       "Learn how to open a retail store franchise in Gorakhpur with The Buyzaar Mart. Cost from 18.5 Lakh, licences, funding, agreement checks and setup steps.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

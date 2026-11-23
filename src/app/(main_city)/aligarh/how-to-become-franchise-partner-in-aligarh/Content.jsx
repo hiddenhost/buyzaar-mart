@@ -74,11 +74,8 @@ const faqSchema = {
       name: "What is the minimum investment needed to become a franchise partner?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment generally starts from around 18.5, depending on the chosen store format and location.",
-=======
         text: "Investment generally starts from around 18.5 Lakh, depending on the chosen store format and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -311,11 +308,8 @@ const Content = () => {
                   What is the minimum investment needed to become a franchise partner?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment generally starts from around 18.5, depending on the chosen store format and location.
-=======
                   Investment generally starts from around 18.5 Lakh, depending on the chosen store format and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

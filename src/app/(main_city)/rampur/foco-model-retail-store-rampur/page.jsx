@@ -7,11 +7,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCO Model Retail Store in Rampur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Own a FOCO model retail store in Rampur with The Buyzaar Mart. Company-run operations, POS billing and launch support. Total investment from 18.5.",
-=======
     "Own a FOCO model retail store in Rampur with The Buyzaar Mart. Company-run operations, POS billing and launch support. Total investment from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "foco model retail store rampur",
     "foco retail store rampur",
@@ -45,11 +42,8 @@ export const metadata = {
   openGraph: {
     title: "FOCO Model Retail Store in Rampur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a FOCO model retail store in Rampur with The Buyzaar Mart. Company-run operations, POS billing and launch support. Total investment from 18.5.",
-=======
       "Own a FOCO model retail store in Rampur with The Buyzaar Mart. Company-run operations, POS billing and launch support. Total investment from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/rampur/foco-model-retail-store-rampur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -67,11 +61,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCO Model Retail Store in Rampur | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Own a FOCO model retail store in Rampur with The Buyzaar Mart. Company-run operations, POS billing and launch support. Total investment from 18.5.",
-=======
       "Own a FOCO model retail store in Rampur with The Buyzaar Mart. Company-run operations, POS billing and launch support. Total investment from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

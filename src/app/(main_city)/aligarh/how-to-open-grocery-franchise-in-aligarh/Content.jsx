@@ -98,11 +98,8 @@ const faqSchema = {
       name: "What is the minimum investment needed for this grocery franchise?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "Investment generally starts from around 18.5, depending on the chosen store format and location.",
-=======
         text: "Investment generally starts from around 18.5 Lakh, depending on the chosen store format and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -306,11 +303,8 @@ const Content = () => {
               Investment and Profit Considerations
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>Franchise investment for a grocery store in Aligarh generally starts from around 18.5, depending on the chosen format and location.</li>
-=======
               <li>Franchise investment for a grocery store in Aligarh generally starts from around 18.5 Lakh, depending on the chosen format and location.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The investment typically covers interiors, initial stock, POS installation, branding, and launch support.</li>
               <li>Larger formats such as Super Mart and Hyper Mart require a proportionately higher investment due to increased space and stock needs.</li>
               <li>Profit margins on grocery sales generally range between 18 to 20 percent, depending on store size, location, and monthly sales volume.</li>
@@ -371,11 +365,8 @@ const Content = () => {
                   What is the minimum investment needed for this grocery franchise?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  Investment generally starts from around 18.5, depending on the chosen store format and location.
-=======
                   Investment generally starts from around 18.5 Lakh, depending on the chosen store format and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

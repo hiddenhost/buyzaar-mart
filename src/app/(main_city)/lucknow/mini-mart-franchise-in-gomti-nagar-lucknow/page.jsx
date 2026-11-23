@@ -5,11 +5,8 @@ import Services from "@/app/components/Services";
 
 export const metadata = {
   title:
-<<<<<<< HEAD
-    "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart – Start from 18.5",
-=======
     "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart – Start from 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   description:
     "Looking to open a Mini Mart franchise in Gomti Nagar, Lucknow? Partner with The Buyzaar Mart under the FOCM model. Full brand support, POS system, training & supply chain included. Apply today.",
   keywords: [
@@ -51,11 +48,8 @@ export const metadata = {
   },
   openGraph: {
     title:
-<<<<<<< HEAD
-      "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart – Start from 18.5",
-=======
       "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart – Start from 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     description:
       "Looking to open a Mini Mart franchise in Gomti Nagar, Lucknow? Partner with The Buyzaar Mart under the FOCM model. Full brand support, POS system, training & supply chain included. Apply today.",
     url: "https://www.thebuyzaarmart.com/lucknow/mini-mart-franchise-in-gomti-nagar-lucknow",
@@ -74,11 +68,8 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-<<<<<<< HEAD
-      "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart – Start from 18.5",
-=======
       "Mini Mart Franchise in Gomti Nagar Lucknow | The Buyzaar Mart – Start from 18.5 Lakh",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     description:
       "Looking to open a Mini Mart franchise in Gomti Nagar, Lucknow? Partner with The Buyzaar Mart under the FOCM model. Full brand support, POS system, training & supply chain included. Apply today.",
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],

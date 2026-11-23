@@ -342,11 +342,8 @@ const Content = () => {
                   What's the total investment required for a grocery franchise in Meerut?
                 </h3>
                 <p className="text-sm">
-<<<<<<< HEAD
-                  Investment ranges from 18.5s for Mini Mart to ₹75+ lakhs for Hyper Mart. The most popular Super Mart format requires ₹42-50 lakhs covering complete setup, initial inventory, training, and technology systems.
-=======
                   Investment ranges from 18.5 Lakhs for Mini Mart to ₹75+ lakhs for Hyper Mart. The most popular Super Mart format requires ₹42-50 lakhs covering complete setup, initial inventory, training, and technology systems.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
@@ -391,11 +388,8 @@ const Content = () => {
                   What makes The Buyzaar Mart different from other franchise opportunities?
                 </h3>
                 <p className="text-sm">
-<<<<<<< HEAD
-                  We combine affordable entry points (starting 18.5s), proven systems tested across 50+ locations, comprehensive end-to-end support, advanced technology integration, and genuine partnership approach. Plus, we offer unlimited ongoing training—not just initial setup assistance.
-=======
                   We combine affordable entry points (starting 18.5 Lakhs), proven systems tested across 50+ locations, comprehensive end-to-end support, advanced technology integration, and genuine partnership approach. Plus, we offer unlimited ongoing training—not just initial setup assistance.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
             </div>

@@ -66,11 +66,8 @@ const faqSchema = {
       name: "How much does a Mini Mart cost?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The brand indicates about 18.5 to ₹20 lakh, depending on size and location.",
-=======
         text: "The brand indicates about 18.5 Lakh to ₹20 lakh, depending on size and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -155,11 +152,8 @@ const Content = () => {
                 Compare the total cost, not only the franchise fee. Stock, interiors, software, deposit and working capital all count towards your real investment.
               </li>
               <li>
-<<<<<<< HEAD
-                The Buyzaar Mart indicates about 18.5 to ₹20 lakh for a Mini Mart of 600–1,000 sq ft. The final amount depends on size, arrangement and location.
-=======
                 The Buyzaar Mart indicates about 18.5 Lakh to ₹20 lakh for a Mini Mart of 600–1,000 sq ft. The final amount depends on size, arrangement and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
               <li>
                 The investment calculator on the franchise page splits the cost into stock, interior, software fee, franchise fee including 18% GST, and security deposit.
@@ -495,11 +489,8 @@ const Content = () => {
                   How much does a Mini Mart cost?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The brand indicates about 18.5 to ₹20 lakh, depending on size and location.
-=======
                   The brand indicates about 18.5 Lakh to ₹20 lakh, depending on size and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 

@@ -203,11 +203,8 @@ const Content = () => {
               Total Investment to Become a Partner in Amroha
             </h2>
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>A Buyzaar Mart Mini Store of 600–1000 sq ft requires a total investment of roughly 18.5 to ₹20 lakh.</li>
-=======
               <li>A Buyzaar Mart Mini Store of 600–1000 sq ft requires a total investment of roughly 18.5 Lakh to ₹20 lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The exact amount depends on the size of the store, its location, the arrangement and the interior work involved.</li>
               <li>Super Mart and Hyper Mart formats require a larger total investment, which the team can estimate for your property.</li>
               <li>Set aside additional working capital for rent, salaries and electricity during the early months.</li>

@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "FOCM Model Grocery Store in Mathura | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5.",
-=======
     "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "focm model grocery store Mathura",
     "franchise owned company managed",
@@ -42,11 +39,8 @@ export const metadata = {
   openGraph: {
     title: "FOCM Model Grocery Store in Mathura | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5.",
-=======
       "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/mathura/focm-model-grocery-store-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,11 +58,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "FOCM Model Grocery Store in Mathura | The Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5.",
-=======
       "Understand the FOCM (Franchise Owned Company Managed) grocery store model with The Buyzaar Mart in Mathura — company-run operations, investor visibility, from 18.5 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

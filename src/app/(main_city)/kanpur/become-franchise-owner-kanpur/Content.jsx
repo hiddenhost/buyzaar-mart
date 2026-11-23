@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "Become a Franchise Owner in Kanpur with The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Become a franchise owner in Kanpur with The Buyzaar Mart. Explore FOCM and FOCO models, store categories, investment from 18.5, operational support, and how to apply.",
-=======
     "Become a franchise owner in Kanpur with The Buyzaar Mart. Explore FOCM and FOCO models, store categories, investment from 18.5 Lakh, operational support, and how to apply.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/kanpur/retail-chain-franchise-kanpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -38,11 +35,8 @@ const faqSchema = {
       name: "What is the minimum investment required to become a Buyzaar Mart franchise owner in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment to start a Buyzaar Mart franchise in Kanpur begins from 18.5. The exact investment depends on the store format, location, store size, and whether you choose the FOCM or FOCO model.",
-=======
         text: "The minimum investment to start a Buyzaar Mart franchise in Kanpur begins from 18.5 Lakh. The exact investment depends on the store format, location, store size, and whether you choose the FOCM or FOCO model.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -131,11 +125,8 @@ const Content = () => {
 
             <p>
               With a proven retail system, low investment entry points starting
-<<<<<<< HEAD
-              from 18.5, and end-to-end operational support, The Buyzaar
-=======
               from 18.5 Lakh, and end-to-end operational support, The Buyzaar
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               Mart makes entrepreneurship accessible to anyone with the drive to
               build something real.
             </p>
@@ -363,11 +354,8 @@ const Content = () => {
 
             <p>
               The investment entry point is competitive. With franchise
-<<<<<<< HEAD
-              opportunities starting from 18.5, The Buyzaar Mart makes
-=======
               opportunities starting from 18.5 Lakh, The Buyzaar Mart makes
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               organised retail entrepreneurship accessible to a broader range of
               investors than large-format chains that require much higher
               capital.
@@ -454,11 +442,8 @@ const Content = () => {
                   Mart franchise owner in Kanpur?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The minimum investment begins from 18.5. The final amount
-=======
                   The minimum investment begins from 18.5 Lakh. The final amount
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   depends on the format, location, store size, and whether you
                   choose FOCM or FOCO. The team provides a more detailed
                   breakdown during the inquiry process.

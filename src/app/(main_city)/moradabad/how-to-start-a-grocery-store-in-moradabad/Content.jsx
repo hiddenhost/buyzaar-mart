@@ -58,11 +58,8 @@ const faqSchema = {
       name: "How much investment is needed to start a grocery store?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "A Mini Mart format starts from approximately 18.5, depending on location and size.",
-=======
         text: "A Mini Mart format starts from approximately 18.5 Lakh, depending on location and size.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -202,11 +199,8 @@ const Content = () => {
             <h3 className="font-medium text-gray-900">Mini Mart</h3>
             <ul className="list-disc space-y-2 pl-6">
               <li>Area required: approximately 600 to 1,000 sq. ft.</li>
-<<<<<<< HEAD
-              <li>Approximate investment: ₹18.5 to ₹26 Lakh, depending on location, size, and store condition.</li>
-=======
               <li>Approximate investment: 18.5 Lakh to ₹25 lakh, depending on location, size, and store condition.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Best suited for: residential colonies, housing societies, and neighbourhood-level markets.</li>
               <li>Product focus: daily essentials — groceries, packaged food, dairy, beverages, personal care, and household basics.</li>
               <li>The most accessible starting point for first-time entrepreneurs, homemakers, or those with a smaller commercial space.</li>
@@ -364,11 +358,8 @@ const Content = () => {
             <div className="mt-4 space-y-4">
               <div>
                 <h3 className="font-medium text-gray-900">Q1. How much investment is needed to start a grocery store?</h3>
-<<<<<<< HEAD
-                <p className="mt-2">A Mini Mart format starts from approximately 18.5, depending on location and size.</p>
-=======
                 <p className="mt-2">A Mini Mart format starts from approximately 18.5 Lakh, depending on location and size.</p>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </div>
 
               <div>

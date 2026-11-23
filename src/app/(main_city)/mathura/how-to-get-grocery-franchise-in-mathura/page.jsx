@@ -6,11 +6,8 @@ import Services from "@/app/components/Services";
 export const metadata = {
   title: "How to Get a Grocery Franchise in Mathura | Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "Learn how to get a grocery franchise in Mathura with The Buyzaar Mart. Eligibility, approval process, documents and investment from 18.5. Apply today.",
-=======
     "Learn how to get a grocery franchise in Mathura with The Buyzaar Mart. Eligibility, approval process, documents and investment from 18.5 Lakh. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   keywords: [
     "grocery franchise in Mathura",
     "how to get grocery franchise in Mathura",
@@ -42,11 +39,8 @@ export const metadata = {
   openGraph: {
     title: "How to Get a Grocery Franchise in Mathura | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Learn how to get a grocery franchise in Mathura with The Buyzaar Mart. Eligibility, approval process, documents and investment from 18.5. Apply today.",
-=======
       "Learn how to get a grocery franchise in Mathura with The Buyzaar Mart. Eligibility, approval process, documents and investment from 18.5 Lakh. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/mathura/how-to-get-grocery-franchise-in-mathura",
     siteName: "The Buyzaar Mart",
     images: [
@@ -64,11 +58,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "How to Get a Grocery Franchise in Mathura | Buyzaar Mart",
     description:
-<<<<<<< HEAD
-      "Learn how to get a grocery franchise in Mathura with The Buyzaar Mart. Eligibility, approval process, documents and investment from 18.5. Apply today.",
-=======
       "Learn how to get a grocery franchise in Mathura with The Buyzaar Mart. Eligibility, approval process, documents and investment from 18.5 Lakh. Apply today.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

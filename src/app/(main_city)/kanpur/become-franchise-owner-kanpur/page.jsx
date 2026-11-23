@@ -7,11 +7,8 @@ export const metadata = {
   title:
     "Become a Franchise Owner in Kanpur | The Buyzaar Mart Grocery Franchise",
   description:
-<<<<<<< HEAD
-    "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from 18.5. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
-=======
     "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from 18.5 Lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   alternates: {
     canonical:
       "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
@@ -20,11 +17,8 @@ export const metadata = {
     title:
       "Become a Franchise Owner in Kanpur | The Buyzaar Mart Grocery Franchise",
     description:
-<<<<<<< HEAD
-      "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from 18.5. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
-=======
       "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from 18.5 Lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     url: "https://www.thebuyzaarmart.com/kanpur/retail-store-franchise-in-kanpur",
     siteName: "The Buyzaar Mart",
     images: [
@@ -43,11 +37,8 @@ export const metadata = {
     title:
       "Become a Franchise Owner in Kanpur | The Buyzaar Mart Grocery Franchise",
     description:
-<<<<<<< HEAD
-      "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from 18.5. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
-=======
       "Want to become a franchise owner in Kanpur? Join The Buyzaar Mart and start your own supermarket with investment from 18.5 Lakh. FOCM & FOCO models available. Full setup, POS, supply chain & ongoing support. Apply now at thebuyzaarmart.com.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
     images: ["https://www.thebuyzaarmart.com/images/buyzaar-logo.png"],
   },
   icons: {

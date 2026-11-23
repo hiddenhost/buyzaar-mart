@@ -58,11 +58,8 @@ const faqSchema = {
       name: "How much does a retail franchise in Gorakhpur cost?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The Buyzaar Mart starts from around 18.5, depending on store format and size. Rent is separate.",
-=======
         text: "The Buyzaar Mart starts from around 18.5 Lakh, depending on store format and size. Rent is separate.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -226,11 +223,8 @@ const Content = () => {
             </h2>
 
             <ul className="list-disc space-y-2 pl-6">
-<<<<<<< HEAD
-              <li>The Buyzaar Mart franchise starts from around 18.5, depending on store format and area.</li>
-=======
               <li>The Buyzaar Mart franchise starts from around 18.5 Lakh, depending on store format and area.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>The total covers opening stock, interior and fit-out, software fee, franchise fee (including 18% GST) and security deposit.</li>
               <li>A Mini Mart can be planned in a range of roughly ₹18.5 to ₹26 Lakh, based on area and interior choices.</li>
               <li>Larger formats cost more and scale with size, so treat any estimate as indicative until the team confirms it.</li>
@@ -365,11 +359,8 @@ const Content = () => {
                   How much does a retail franchise in Gorakhpur cost?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The Buyzaar Mart starts from around 18.5, depending on store format and size. Rent is separate.
-=======
                   The Buyzaar Mart starts from around 18.5 Lakh, depending on store format and size. Rent is separate.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
@@ -434,11 +425,8 @@ const Content = () => {
 
             <ul className="list-disc space-y-2 pl-6">
               <li>Starting a retail franchise in Gorakhpur is a practical way to enter a growing market with a recognised brand and managed systems.</li>
-<<<<<<< HEAD
-              <li>The Buyzaar Mart offers store formats, FMCG partnerships, POS technology and buyback support from around 18.5.</li>
-=======
               <li>The Buyzaar Mart offers store formats, FMCG partnerships, POS technology and buyback support from around 18.5 Lakh.</li>
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               <li>Careful planning of budget, location, staff and marketing will decide how quickly your store builds a loyal customer base.</li>
               <li>To begin, visit thebuyzaarmart.com, submit your inquiry and speak with the franchise team about opening a Buyzaar Mart in Gorakhpur.</li>
             </ul>

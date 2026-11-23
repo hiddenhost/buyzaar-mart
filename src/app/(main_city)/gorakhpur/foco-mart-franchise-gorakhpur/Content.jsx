@@ -7,11 +7,8 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   name: "FOCO Mart Franchise in Gorakhpur | The Buyzaar Mart",
   description:
-<<<<<<< HEAD
-    "FOCO mart franchise in Gorakhpur from 18.5. Compare Mini, Super and Hyper Mart formats. The Buyzaar Mart operates the store while you own it.",
-=======
     "FOCO mart franchise in Gorakhpur from 18.5 Lakh. Compare Mini, Super and Hyper Mart formats. The Buyzaar Mart operates the store while you own it.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
   url: "https://www.thebuyzaarmart.com/gorakhpur/foco-mart-franchise-gorakhpur",
   telephone: "+919217991727",
   email: "info@thebuyzaarmart.com",
@@ -78,11 +75,8 @@ const faqSchema = {
       name: "How much do I need to invest?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "It starts from 18.5, and a Mini Mart generally goes up to ₹22 Lakh.",
-=======
         text: "It starts from 18.5 Lakh, and a Mini Mart generally goes up to ₹22 Lakh.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -161,11 +155,8 @@ const Content = () => {
                 Under FOCO you provide the capital and the premises, and The
                 Buyzaar Mart operates the store, including staff salaries,
                 electricity, inventory, marketing, and daily running. Franchise
-<<<<<<< HEAD
-                investment starts from 18.5, and the stated return is about
-=======
                 investment starts from 18.5 Lakh, and the stated return is about
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 10% revenue sharing on monthly sales.
               </li>
               <li>
@@ -613,11 +604,8 @@ const Content = () => {
                   How much do I need to invest?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  It starts from 18.5, and a Mini Mart generally goes up to
-=======
                   It starts from 18.5 Lakh, and a Mini Mart generally goes up to
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   ₹22 Lakh.
                 </p>
               </div>
@@ -691,11 +679,8 @@ const Content = () => {
                   format recommendation.
                 </li>
                 <li>
-<<<<<<< HEAD
-                  Investment begins from approximately 18.5, subject to the
-=======
                   Investment begins from approximately 18.5 Lakh, subject to the
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                   selected mart format, premises condition, site assessment, and
                   final agreement terms.
                 </li>

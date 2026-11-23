@@ -34,11 +34,8 @@ const faqSchema = {
       name: "What is the minimum investment for a Buyzaar Mart franchise in Kanpur?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The minimum investment for a Mini Mart (600-1000 sq ft) starts at 18.5, making it India's most affordable grocery franchise option.",
-=======
         text: "The minimum investment for a Mini Mart (600-1000 sq ft) starts at 18.5 Lakh, making it India's most affordable grocery franchise option.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {

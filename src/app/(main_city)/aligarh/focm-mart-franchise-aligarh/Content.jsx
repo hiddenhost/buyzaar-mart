@@ -74,11 +74,8 @@ const faqSchema = {
       name: "How much does a Mini Mart cost?",
       acceptedAnswer: {
         "@type": "Answer",
-<<<<<<< HEAD
-        text: "The brand indicates about 18.5 to ₹20 lakh, depending on size, arrangement and location.",
-=======
         text: "The brand indicates about 18.5 Lakh to ₹20 lakh, depending on size, arrangement and location.",
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
       },
     },
     {
@@ -208,11 +205,8 @@ const Content = () => {
                 The best entry point for owners starting in Aligarh. It covers personal care, beverages, grocery and staples, home care and hygiene, stationery, snacks and biscuits.
               </li>
               <li>
-<<<<<<< HEAD
-                A minimum of 600 sq ft of carpet area is required. The brand indicates a total investment of roughly 18.5 to ₹20 lakh for a Mini Mart, depending on size, arrangement and location.
-=======
                 A minimum of 600 sq ft of carpet area is required. The brand indicates a total investment of roughly 18.5 Lakh to ₹20 lakh for a Mini Mart, depending on size, arrangement and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
               </li>
             </ul>
 
@@ -497,11 +491,8 @@ const Content = () => {
                   How much does a Mini Mart cost?
                 </h3>
                 <p className="mt-2">
-<<<<<<< HEAD
-                  The brand indicates about 18.5 to ₹20 lakh, depending on size, arrangement and location.
-=======
                   The brand indicates about 18.5 Lakh to ₹20 lakh, depending on size, arrangement and location.
->>>>>>> 8d09c3cad1e7fd18121857ced62267526d337577
+
                 </p>
               </div>
 
